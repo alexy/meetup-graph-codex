@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-scalding-at-twitter-linkedin-and-event-rackspace-nick-kolegraff-2",
+  "source_id": "bythebay-20260508-sf-scala-scalding-at-twitter-linkedin-and-event-rackspace-nick-kolegraff-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scalding-at-twitter-linkedin-and-event-rackspace-nick-kolegraff-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scalding-at-twitter-linkedin-and-event-rackspace-nick-kolegraff-2.json",
+  "kind": "talk",
+  "event_id": "154954962",
+  "event_title": "Scalding at Twitter, LinkedIn, and (+event@) Rackspace",
+  "title": "Scalding at Twitter, LinkedIn, and (+event@) Rackspace",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Nick Kolegraff, Vitaly Gordon",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/154954962/",
+  "description": "This is a spontaneous holiday event! Ho-ho-ho. Come join the scalding community to learn and discuss cool things Twitter, Linkedin and Rackspace are doing with data and scalding (scala on hadoop). We have a great group of speakers lined up for this event so should be a really interesting set of presentations and discussions. Food and drinks will be provided. Come meet new people and learn what others are doing in the scalding community!",
+  "date_time": "2013-12-12T18:30:00-08:00",
+  "end_time": "2013-12-12T21:30:00-08:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-may-2011-san-francisco-hadoop-user-meetup-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-may-2011-san-francisco-hadoop-user-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-may-2011-san-francisco-hadoop-user-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-may-2011-san-francisco-hadoop-user-meetup-event.json",
+  "kind": "unconference",
+  "event_id": "17354462",
+  "event_title": "May 2011 San Francisco Hadoop User Meetup",
+  "title": "May 2011 San Francisco Hadoop User Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "unconference"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/17354462/",
+  "description": "The May Hadoop meetup will be held Wednesday, May 11, from 6pm to 8pm. This meetup will be hosted by our friends at Cloudera, in their new SF office. The address is 433 California St., on the 9th floor. As usual, we will use the discussion-based \"unconference\" format. At the beginning of the meetup we will collaboratively construct an agenda consisting of several discussion breakout groups. All participants may propose a topic and volunteer to facilitate a discussion. All Hadoop-related topics are encouraged, and all members of the Hadoop community are welcome. Event schedule: 6pm - Welcome 6:30pm - Introductions; start creating agenda Breakout sessions begin as soon as we're ready 8pm - Conclusion Food and refreshments will be provided, courtesy of Cloudera.",
+  "date_time": "2011-05-11T18:00:00-07:00",
+  "end_time": "2011-05-11T21:00:00-07:00"
+}

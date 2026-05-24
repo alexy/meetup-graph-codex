@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-11-11T08:00:00-08:00",
+    "description": "Our annual conference starts Friday.\n\nhttp://scala.bythebay.io\n\nKeynotes by Miles Sabin, Julie Pitt, and Jay Kreps.\n\nThree tracks, corresponding to the three intractable problems in Computer Science:\n\n-- Functional Programming (\"Naming\")\n-- Reactive Microservices (\"Caching\")\n-- Data Pipelines (\"Off by One\")\n\nLeaders in software engineering at scale: Twitter, IBM, Verizon, Salesforce, Uber, Criteo, Twilio, Credit Karma, Bloomberg, Databricks, Alluxio, MemSQL, Netflix. Innovative startups doing more with less.\n\nFour panels:\n-- Scaling Scala Teams\n-- Finagle/TwitterOSS Q&A\n-- Modern Architectures and Data Pipelines\n-- Future of Functional Programming\n\nBreakfast, lunch, happy hour, and unlimited coffee. Best networking at the fantastic Twitter venue.\n\nA few late bird tickets are left: use the code SFSPARK20 to get yours (while supplies last). See you on Friday!",
+    "endTime": "2016-11-13T18:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/235444924/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "235444924",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scalæ By the Bay 2016 begins Friday at Twitter HQ"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-scalae-by-the-bay-2016-begins-friday-at-twitter-hq-miles-sabin",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/235444924/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-06-07T18:00:00-07:00",
+    "description": "Note: Twitter requires Eventbrite registration. The meetup will be full, and RSVPs here will not count. Please always read the signup instructions in the subject and follow them!\n\nREGISTER HERE TO GET IN: https://www.eventbrite.com/e/next-generation-macros-for-scala-tickets-34697598451\n\nSpeaker: Eugene Burmako, Twitter\n\nThis talk will present the design and the implementation of new-style macros based on Scalameta 2.0. Developed from the day one to be portable between Scala, Dotty and IntelliJ, new-style macros are planned to supersede existing macros based on scala.reflect. Join this meetup to be the first to try out the new macro system and provide early feedback to its authors.\n\nEugene is a member of the Scala language committee and founder of Scala macros and Scala meta. After recently getting his PhD from Martin Odersky at EPFL, he's been working at Twitter on open-source foundations of robust semantic tooling for Scala.\n\nSchedule\n\n• 6:30-7:00 - networking\n• 7:00-7:10 - announcements etc.\n• 7:10-8:00 - talk\n• 8:00-8:30 - networking\n*********",
+    "endTime": "2017-06-07T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/240044013/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "240044013",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[Eventbrite registration!] Next-generation macros for Scala"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-eventbrite-registration-next-generation-macros-for-scala-eugene-burmako",
+  "source_url": "https://www.meetup.com/sf-scala/events/240044013/"
+}

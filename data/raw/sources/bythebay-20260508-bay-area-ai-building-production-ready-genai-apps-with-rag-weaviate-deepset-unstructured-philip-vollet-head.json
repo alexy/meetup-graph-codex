@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-10-02T19:00:00-07:00",
+    "description": "Join us for a fun evening with snacks, drinks, and lots of knowledge to unlock the true potential of AI! Integrate your vast internal knowledge base, build production-ready RAG (Retrieval Augmented Generation) pipelines, and guide your model to produce accurate results.\n\n* Ever felt like your LLM daydreams its own alternative facts?\n* Ever hit a knowledge wall because your AI's memory just isn't expansive enough or its wisdom doesn't stretch far enough?\n* Tired of digging deep into your pockets just to keep that model finely tuned?\n\n**Talks:**\n\n***Customizing LLM Applications with Haystack***\nEvery LLM application comes with a unique set of requirements, use cases and restrictions. Let's see how we can make use of open-source tools and frameworks to design around our custom needs.\n\n***Build bulletproof generative AI applications with Weaviate and LLMs***\nBuilding AI applications for production is challenging. Your users don't like to wait. If you deliver the right results in milliseconds instead of seconds, you can win them over. Production-grade pipelines also need to prevent the LLM from making up false facts. We'll show you how to solve this with live demos and ready-to-fork open-source GitHub projects using Weaviate, your most beloved open-source vector database.\n\n**Speakers:**\n\n***Philip Vollet***\nHead of Developer Growth at [weaviate.io](http://weaviate.io/)\n\n***Tuana Çelik***\nLead Developer Advocate at [deepset.ai](http://deepset.ai/)\n\n***Ronny Hoesada***\nDevRel Engineer at [unstructured.io](http://unstructured.io/)",
+    "endTime": "2023-10-02T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/296372010/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "296372010",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Building Production-ready GenAI Apps with RAG (Weaviate/deepset/Unstructured)"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-building-production-ready-genai-apps-with-rag-weaviate-deepset-unstructured-philip-vollet-head",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/296372010/"
+}

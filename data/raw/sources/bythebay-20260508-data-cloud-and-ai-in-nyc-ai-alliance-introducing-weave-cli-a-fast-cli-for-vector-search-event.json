@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-12-11T12:00:00-05:00",
+    "description": "Weave-cli is a fast CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and search collections and documents in collections for development, test, and debugging purposes. Join us in this session and hear how why Max decided to create it and learn about its strengths and weaknesses for powering vector search for RAG, similarity search and other workloads\n\n**About the presenter**\nMichael Maximilien (aka ‘Max’ or 'Dr. Max') is the founder and CEO of a “stealth” AI Agents startup in Silicon Valley. Before that he was an IBM Distinguished Engineer leading Open Source teams for AI agents and multi-agent systems. His career focused on pioneering software platforms, from early web services, to cloud computing, and more recently multi-agent systems. Max was a key OSS leader in the development of Cloud Foundry and Knative — the Kubernetes serverless platform. His expertise in distributed systems is backed by over 100 published papers and 20 patents; and his PhD in computer science in 2005 was focused on multi-agent systems. Max is also a retired Ironman triathlete and an award-winning photographer.\n\n**About the AI Alliance**\nThe [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.\n\n**Join the community**\nSign up for the [AI Alliance newsletter](https://thealliance.ai/community) (check the website footer) and join our new [AI Alliance Discord](https://discord.gg/YtsWdke6E9).",
+    "endTime": "2025-12-11T13:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/312285206/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "312285206",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] Introducing weave-cli - A fast CLI for vector search"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-weave-cli-a-fast-cli-for-vector-search-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/312285206/"
+}

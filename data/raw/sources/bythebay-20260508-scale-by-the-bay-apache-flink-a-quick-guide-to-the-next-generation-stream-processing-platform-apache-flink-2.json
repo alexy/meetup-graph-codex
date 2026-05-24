@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2016-08-11T18:30:00-07:00",
+    "description": "Reactive Systems, including Flink, is a key topic of Scalæ By the Bay 2016, held at Twitter HQ in November. (http://scala.bythebay.io)\n\nThe Agenda\n\n6:30 - Open Doors, Network & Mingle\n\n7:00 - Start Opening Talk\n\n7:15 - Main Talk\n\nThe Talk:\n\nApache Flink is the exciting newcomer in the Big Data space, which integrates batch and stream processing in a novel way. Join us in exploring Apache Flink and its architecture, internals, and its data and programming models. We explore its features for stream processing and compare it to Apache Spark and Apache Beam. You will see Flink’s Scala APIs in action as we code and run a selected set of examples that nicely illustrate its features.\n\nThe Speaker:\n\nDr. Vladimir Bacvanski’s interest is in better and more productive ways of developing Big Data systems. He is a founder of SciSpike, a company doing custom development, consulting and training. His recent projects include Big Data and Internet of Things applications in healthcare, reactive Big Data and Web Scale systems and introducing Scala, Akka and Spark in a large financial organization. Vladimir is an enthusiastic presenter and keynote speaker at conferences. He is the author of the O'Reilly course \"Introduction to Big Data\".",
+    "endTime": "2016-08-11T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bythebay/events/232232072/",
+    "group": {
+      "id": "18748975",
+      "name": "Scale By the Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "232232072",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Apache Flink: A Quick Guide to the Next Generation Stream Processing Platform"
+  },
+  "event_id": "232232072",
+  "event_title": "Apache Flink: A Quick Guide to the Next Generation Stream Processing Platform",
+  "meetup_id": "meetup:18748975",
+  "meetup_name": "Scale By the Bay",
+  "meetup_url": "https://www.meetup.com/bythebay/events/?type=past",
+  "session": {
+    "description": "Reactive Systems, including Flink, is a key topic of Scalæ By the Bay 2016, held at Twitter HQ in November. (http://scala.bythebay.io) The Agenda 6:30 - Open Doors, Network & Mingle 7:00 - Start Opening Talk 7:15 - Main Talk The Talk: Apache Flink is the exciting newcomer in the Big Data space, which integrates batch and stream processing in a novel way. Join us in exploring Apache Flink and its architecture, internals, and its data and programming models. We explore its features for stream processing and compare it to Apache Spark and Apache Beam. You will see Flink’s Scala APIs in action as we code and run a selected set of examples that nicely illustrate its features. The Speaker: Dr. Vladimir Bacvanski’s interest is in better and more productive ways of developing Big Data systems. He is a founder of SciSpike, a company doing custom development, consulting and training. His recent projects include Big Data and Internet of Things applications in healthcare, reactive Big Data and Web Scale systems and introducing Scala, Akka and Spark in a large financial organization. Vladimir is an enthusiastic presenter and keynote speaker at conferences. He is the author of the O'Reilly course \"Introduction to Big Data\".",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scale-by-the-bay-apache-flink-a-quick-guide-to-the-next-generation-stream-processing-platform-apache-flink-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scale-by-the-bay-apache-flink-a-quick-guide-to-the-next-generation-stream-processing-platform-apache-flink-2.json",
+    "source_id": "bythebay-20260508-scale-by-the-bay-apache-flink-a-quick-guide-to-the-next-generation-stream-processing-platform-apache-flink-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Apache Flink"
+      }
+    ],
+    "title": "Apache Flink: A Quick Guide to the Next Generation Stream Processing Platform"
+  },
+  "source_id": "bythebay-20260508-scale-by-the-bay-apache-flink-a-quick-guide-to-the-next-generation-stream-processing-platform-apache-flink-2",
+  "source_url": "https://www.meetup.com/bythebay/events/232232072/"
+}

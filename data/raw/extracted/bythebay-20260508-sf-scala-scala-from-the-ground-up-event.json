@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-scala-from-the-ground-up-event",
+  "source_id": "bythebay-20260508-sf-scala-scala-from-the-ground-up-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scala-from-the-ground-up-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scala-from-the-ground-up-event.json",
+  "kind": "event",
+  "event_id": "240078651",
+  "event_title": "Scala from the Ground Up",
+  "title": "Scala from the Ground Up",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/240078651/",
+  "description": "This free 3-hour course is the tutorial that our co-organizer, and O'Reilly author of Learning Scala, Jason Swartz, had taught both at OSCON and SF Scala. It is brought to you free of charge as a part of the Cognitive Frameworks Festival, running 6/6-9 in partnership between IBM, Galvanize, and Framework Foundation. TitleIntroduction to Scala Bootcamp Outline The Scala language combines the static typing and object-oriented modularity familiar to Java developers, the expressive and readable syntax that Ruby and Python developers love, and the first-class functions and immutable collections that are core to all functional programmers. Created in 2003, Scala has reached a maturity level in features and tool support such that it is now considered an enterprise-ready platform. A winner of the 2014 InfoWorld Technology of the Year award, Scala is used across a range of industries and companies such as Twitter, Intel, Workday, and Walmart. This stand-alone introduction to the Scala language and functional programming principles will give you the skills you need to write code in Scala. You’ll gain experience writing code with pure functions and immutable data, and learn how this practice can benefit you as a developer. This course consists of instructor lectures and hands-on exercises, so you’ll get practice writing Scala code yourself. Takeaways Understanding of functional programming principles including pure functions, first-class functions, and immutable data.Understanding of the core syntax of the Scala language, including expressions and lambdasAbility to write and run basic command-line programs in Scala Prerequisites Intermediate-level programming experience in an object-oriented language such as Java, Javascript, Ruby, or PythonBasic familiarity with common data structures such as lists and maps and how to iterate over themFamiliarity with the Unix Shell, including moving files, changing directories, and running commands.A laptop with a Unix shell and an installation of Scala, the Ammonite REPL, and SBT. The tutorial is free but our parters support it and space is limited. Please only RSVP if you will come and learn. No-shows will be disqualified from the future events.",
+  "date_time": "2017-06-09T09:00:00-07:00",
+  "end_time": "2017-06-09T12:00:00-07:00"
+}

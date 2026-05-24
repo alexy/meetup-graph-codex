@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-scala-at-sungevity-sf-scala-goes-to-oakland-event",
+  "source_id": "bythebay-20260508-sf-scala-scala-at-sungevity-sf-scala-goes-to-oakland-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scala-at-sungevity-sf-scala-goes-to-oakland-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scala-at-sungevity-sf-scala-goes-to-oakland-event.json",
+  "kind": "talk",
+  "event_id": "220150547",
+  "event_title": "Scala at Sungevity: SF Scala goes to Oakland!",
+  "title": "Scala at Sungevity: SF Scala goes to Oakland!",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/220150547/",
+  "description": "Let's go Oaklandish! And we present you the top East Bay talent: Bill Venners on Scalactic and Chris Richardson on Microservices! Bill Venners Comparing functional error handling in Scalaz and Scalactic In this talk I'll compare and contrast the approaches to functional error handling taken by Scalaz and Scalactic. I'll look at how different opinions on typeclass coherence led to two classes in Scalaz, \\/ and Validation, and just one in Scalactic, Or. I'll explain why when it comes to success values, I feel left is right and right is wrong, whereas the Scalazzi think the opposite. I'll show how the libraries use algebraic structures differently. And I'll explore how different opinions on how best to leverage functional programming (FP) in Scala led to different library designs. Chris Richardson Developing functional domain models with event sourcing Event sourcing persists each entity as a sequence of state changing event. An entity’s current state is derived by replaying the events. Event sourcing is a great way to implement event-driven micro services. When one service updates an entity, the new events are consumed by other services, which then update their own state. In this talk we describe how to implement business logic using event sourcing. You will learn how to write functional, immutable domain models in Scala. We will compare and contrast a hybrid OO/FP design with a purely functional approach. This is a joint meetup with the East Bay JUG (http://www.meetup.com/eastbayjug/). Sungevity is in Jack London Square, so the absolute best way to get there from SF is by boat. Embark on the 5:20 or 5:40 Oakland/Alameda ferry at the Ferry Building (the rightmost pier if you face the building from Market, be there 10 min before), and arrive at the meetup half hour later! Beer and cocktails served on board, ample space for bikes -- the meetup pre-party starts on the outer deck.",
+  "date_time": "2015-02-24T18:30:00-08:00",
+  "end_time": "2015-02-24T21:30:00-08:00"
+}

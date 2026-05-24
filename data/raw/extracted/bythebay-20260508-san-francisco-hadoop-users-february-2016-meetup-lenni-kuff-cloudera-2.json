@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera-2",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera-2",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera-2.json",
+  "kind": "talk",
+  "event_id": "227844240",
+  "event_title": "February 2016 Meetup",
+  "title": "February 2016 Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": "Lenni Kuff @ Cloudera",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/227844240/",
+  "description": "Join us in February to learn how to simplify Hadoop. Thank you to Ellation for hosting us!",
+  "date_time": "2016-02-02T18:00:00-08:00",
+  "end_time": "2016-02-02T21:00:00-08:00"
+}

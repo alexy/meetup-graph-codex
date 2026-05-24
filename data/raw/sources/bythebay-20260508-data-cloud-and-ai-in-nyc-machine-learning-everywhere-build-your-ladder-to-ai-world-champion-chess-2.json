@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2018-02-27T13:00:00-05:00",
+    "description": "• What we'll do\nThis event is 1:00 pm Eastern Standard Time. To set a calendar reminder go to: https://ibm.co/2npfi3K\n\n2018 is shaping up to be the year machine learning gains widespread implementation as enterprises prepare for the future of artificial intelligence. Are you ready? Want to leverage your IT and data investments as you make the climb? Join us on February 27th at 1:00 pm Eastern Standard Time as IBM experts and industry leaders share a fast, scalable approach toward reimagining IT with machine learning. This one-hour special broadcast will take you through the steps to prepare for the big move, including demos on how to best collect, oranize, secure and analyze your data. Learn how machine learning will accelerate the journey to AI as it penetrates businesses and enterprise functions while it redefines entire industries.\n\nRob Thomas, General Manager of IBM Analytics will host the webcast. Hear from leaders in the industry:\n- Katie Linendoll, Writer & Contributor for TODAY show\n- Jeremiah Owyang, Founding Partner, Kaleido Insights\n- Vitaly Tsivin, EVP Business Intelligence for AMC Networks\n- Alissa Hess, Executive Director of Enterprise Machine Learning, USAA\n- Sam Lightstone, IBM Fellow, Master Inventor and Author\n- Trisha Mahoney, Product Marketer & Data Scientist, IBM Data Science Experience\n- Dinesh Nirmal, Vice President, IBM Analytics Development\n- Madhu Kochar, Vice President, IBM Analytics Product Development & Client Success\n- And SPECIAL GUEST - Garry Kasparov, World Champion of Chess, founder of the Kasparov Chess Foundation.\n\nYou will also see demos of machine learning in leading-edge data and analytics products:\n- See how IBM infuses machine learning into the way it interacts with customers\n- See how you can securely train a model behind your firewall, then easily deploy on the cloud with one click\n- See futuristic technology that takes database performance to a new level\n- See how ML accelerates the process of classifying data while increasing its quality\n\nThis event is hosted in New York City, USA and will be broadcast at 1:00 pm Eastern Standard Time. If you cannot make this time, sign up for the calendar reminder to access the replay date and time.\n\nSign up now for a calendar reminder on February 27th - https://ibm.co/2npfi3K\n\n• What to bring\n\n• Important to know",
+    "endTime": "2018-02-27T14:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/247746658/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "247746658",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Machine Learning Everywhere. Build your ladder to AI."
+  },
+  "event_id": "247746658",
+  "event_title": "Machine Learning Everywhere. Build your ladder to AI.",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "• What we'll do This event is 1:00 pm Eastern Standard Time. To set a calendar reminder go to: https://ibm.co/2npfi3K 2018 is shaping up to be the year machine learning gains widespread implementation as enterprises prepare for the future of artificial intelligence. Are you ready? Want to leverage your IT and data investments as you make the climb? Join us on February 27th at 1:00 pm Eastern Standard Time as IBM experts and industry leaders share a fast, scalable approach toward reimagining IT with machine learning. This one-hour special broadcast will take you through the steps to prepare for the big move, including demos on how to best collect, oranize, secure and analyze your data. Learn how machine learning will accelerate the journey to AI as it penetrates businesses and enterprise functions while it redefines entire industries. Rob Thomas, General Manager of IBM Analytics will host the webcast. Hear from leaders in the industry: - Katie Linendoll, Writer & Contributor for TODAY show - Jeremiah Owyang, Founding Partner, Kaleido Insights - Vitaly Tsivin, EVP Business Intelligence for AMC Networks - Alissa Hess, Executive Director of Enterprise Machine Learning, USAA - Sam Lightstone, IBM Fellow, Master Inventor and Author - Trisha Mahoney, Product Marketer & Data Scientist, IBM Data Science Experience - Dinesh Nirmal, Vice President, IBM Analytics Development - Madhu Kochar, Vice President, IBM Analytics Product Development & Client Success - And SPECIAL GUEST - Garry Kasparov, World Champion of Chess, founder of the Kasparov Chess Foundation. You will also see demos of machine learning in leading-edge data and analytics products: - See how IBM infuses machine learning into the way it interacts with customers - See how you can securely train a model behind your firewall, then easily deploy on the cloud with one click - See futuristic technology that takes database performance to a new level - See how ML accelerates the process of classifying data while increasing its quality This event is hosted in New York City, USA and will be broadcast at 1:00 pm Eastern Standard Time. If you cannot make this time, sign up for the calendar reminder to access the replay date and time. Sign up now for a calendar reminder on February 27th - https://ibm.co/2npfi3K • What to bring • Important to know",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-machine-learning-everywhere-build-your-ladder-to-ai-world-champion-chess-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-machine-learning-everywhere-build-your-ladder-to-ai-world-champion-chess-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-machine-learning-everywhere-build-your-ladder-to-ai-world-champion-chess-2",
+    "speakers": [
+      {
+        "company": "Chess",
+        "name": "World Champion"
+      }
+    ],
+    "title": "Machine Learning Everywhere. Build your ladder to AI."
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-machine-learning-everywhere-build-your-ladder-to-ai-world-champion-chess-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/247746658/"
+}

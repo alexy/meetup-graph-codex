@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov-2",
+  "source_id": "bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov-2",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov-2.json",
+  "kind": "talk",
+  "event_id": "242935944",
+  "event_title": "Topic Modeling Using Latent Dirichlet Allocation; and Bot Training & Automation",
+  "title": "Topic Modeling Using Latent Dirichlet Allocation; and Bot Training & Automation",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": "Alexy Khrabrov, Saurabh Kumar",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/242935944/",
+  "description": "Productization of algorithms such as LDA with Fast Data is thoroughly covered at Scale By the Bay, http://scale.bythebay.io . This is a joint meetup with the SF Big Data Science -- we need a venue! There are two talks, LDA by Square and Bots by Bitext.",
+  "date_time": "2017-09-19T18:00:00-07:00",
+  "end_time": "2017-09-19T21:00:00-07:00"
+}

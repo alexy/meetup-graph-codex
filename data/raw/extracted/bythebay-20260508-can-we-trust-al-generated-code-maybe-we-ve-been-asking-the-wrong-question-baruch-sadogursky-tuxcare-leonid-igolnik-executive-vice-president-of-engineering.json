@@ -1,0 +1,20 @@
+{
+  "id": "talk:ai-by-the-bay:bythebay-20260508-can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question-baruch-sadogursky-tuxcare-leonid-igolnik-executive-vice-president-of-engineering",
+  "source_id": "bythebay-20260508-can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question-baruch-sadogursky-tuxcare-leonid-igolnik-executive-vice-president-of-engineering",
+  "source_file": "data/raw/sources/bythebay-20260508-can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question-baruch-sadogursky-tuxcare-leonid-igolnik-executive-vice-president-of-engineering.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question-baruch-sadogursky-tuxcare-leonid-igolnik-executive-vice-president-of-engineering.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "Can We Trust Al-Generated Code? Maybe We've Been Asking the Wrong Question.",
+  "conference_id": "ai-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Baruch Sadogursky, Head of Developer Relations @ TuxCare, Leonid Igolnik, Executive Vice President of Engineering @ Clari",
+  "tags": [
+    "AI Native Coding"
+  ],
+  "url": "https://ai.bythebay.io/talks/can-we-trust-al-generated-code%3F-maybe-we've-been-asking-the-wrong-question.",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

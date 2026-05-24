@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-10-12T18:30:00-07:00",
+    "description": "Tomorrow (Thursday, Oct 12th) the DBpedia Association is organizing the 3rd US DBpedia Community Meeting (and SF Bay Area Knowledge Graphs meetup). The meetup focuses on connecting the community interested in DBpedia and Knowledge Graphs in general, has included lightning talks by distinguished speakers (e.g. from Stanford, Google, IBM Watson, Netflix, LinkedIn, Wikimedia Foundation, Nuance, etc.). Talk topics have extended also to natural language processing, knowledge representation, information extraction, integration and retrieval, graph databases, knowledge base embeddings and machine learning.\n\nOur previous events were at:\n\n• Stanford in 2015 ( http://wiki.dbpedia.org/meetings/California2015 )\n\n• Yahoo! in 2016 ( http://wiki.dbpedia.org/meetings/California2016 )\n\nThis year we’re hosted by Apple Inc. We’d love to see you there!\n\nWhere: Apple Inc., De Anza 3 Theater and Atrium (1st floor) 10500 N De Anza Blvd Cupertino, CA 95014-2033 United States\n\nWeb URL:\n\nhttp://wiki.dbpedia.org/meetings/California2017\n\nHashtag: #DBpediaCA",
+    "endTime": "2017-10-12T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/244121898/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "244121898",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "DBpedia Knowledge Graphs Meeting at Apple"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-dbpedia-knowledge-graphs-meeting-at-apple-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/244121898/"
+}

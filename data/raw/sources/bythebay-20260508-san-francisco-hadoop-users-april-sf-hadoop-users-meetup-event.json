@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-04-09T18:00:00-07:00",
+    "description": "The April SF Hadoop User Group meetup will be held Wednesday, April 9 from 6:00pm to 8:00pm. This meetup will be hosted by Cloudera, located at 433 California Street, Suite 1100 San Francisco, CA 94104. Food and drinks will be served.\n\nCloudera engineers Xuefu Zhang and Srayva Tirukkovalur will present \"Apache Sentry: Enterprise-grade Security for Hadoop.\" The presentation will be followed by breakout sessions.\n\nMore information on the presentation:\n\n\"Apache Sentry: Enterprise-grade Security for Hadoop\"\n\nCloudera, Xuefu Zhang and Srayva Tirukkovalur\n\nApache Hadoop offers strong support for authentication and coarse grained authorization - but this is not necessarily enough to meet the demands of enterprise applications and compliance requirements. Providing fine-grained access to data will enable organizations to store more sensitive information in Hadoop; only those users with the appropriate privileges will ever see that sensitive data.\n\nApache Sentry (incubating) is a new open source authorization module that integrates with Hadoop-based SQL query engines (Hive and Impala). In this talk, two of its developers will provide details on its implementation, as well as a short demo.",
+    "endTime": "2014-04-09T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/170948182/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "170948182",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "April SF Hadoop Users Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/170948182/"
+}

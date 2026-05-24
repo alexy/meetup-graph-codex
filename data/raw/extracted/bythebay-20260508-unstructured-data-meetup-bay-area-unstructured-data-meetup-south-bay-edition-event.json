@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-south-bay-edition-event",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-south-bay-edition-event",
+  "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-south-bay-edition-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-south-bay-edition-event.json",
+  "kind": "talk",
+  "event_id": "301978598",
+  "event_title": "Unstructured Data Meetup - South Bay Edition",
+  "title": "Unstructured Data Meetup - South Bay Edition",
+  "conference_id": "meetup:36468260",
+  "meetup_id": "meetup:36468260",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/unstructured-data-sf/events/301978598/",
+  "description": "This is an in-person event! [Registration](https://lu.ma/dzrawsqi) is required in order to get in. **Topic:** Connecting your unstructured data with Generative AI **What we’ll do:** Have some food and refreshments. Hear three exciting talks about unstructured data and generative AI. 5:30 - 6:00 - Welcome/Networking/Registration 6:05 - 6:30 - [Oz Wasserman](https://www.linkedin.com/in/oz-wasserman/), Founder, Opsin 6:35 - 7:00 - [Manasi Joglekar](https://www.linkedin.com/in/manasi-joglekar-695098191/), Software Engineer, SAP 7:05 - 7:30 - [Frank Liu](https://www.linkedin.com/in/fzliu/), Head of AI/ML, Zilliz 7:45 - 8:30 - Networking **Who Should attend:** Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. **Tech Talk 1**: Ensuring Secure and Permission-Aware RAG Deployments **Speaker**: Oz Wasserman **Abstract**: In this talk, we will explore the critical aspects of securing Retrieval-Augmented Generation (RAG) deployments. The focus will be on implementing robust secured data retrieval mechanisms and establishing permission-aware RAG frameworks. Attendees will learn how to ensure that access control is rigorously maintained within the model when ingesting documents, ensuring that only authorized personnel can retrieve data. We will also discuss strategies to mitigate risks of data leakage, unauthorized access, and insider threats in RAG deployments. By the end of this session, participants will have a clearer understanding of the best practices and tools necessary to secure their RAG deployments effectively. **Tech Talk 2:** How CXAI Toolkit uses RAG for Intelligent Q&A **Speaker**: Manasi Joglekar **Abstract**: Manasi will be talking about RAG and how CXAI Toolkit uses RAG for Intelligent Q&A. She will go over what sets CXAI Toolkit's Intelligent Q&A apart from other Q&A systems, and how our trusted AI layer keeps customer data safe. She will also share some current challenges being faced by the team. **Tech Talk 3**: Multimodal Embeddings **Speaker**: Frank Liu **Abstract**: Frank Liu will walk through the history of embeddings and how we got to the cool embedding models used today. He'll end with a demo on how multimodal RAG is used. **When:** July 23, 2024 5:30PM **Where:** This is an in-person event. [Registration](https://lu.ma/dzrawsqi) is required to get into the event. Registration in advance will close 2 days before the event. This event is co-sponsored by [Zilliz](http://zilliz.com/) (maintainers of [Milvu](https://github.com/milvus-io/milvus)s) and SAP",
+  "date_time": "2024-07-23T17:30:00-07:00",
+  "end_time": "2024-07-23T20:30:00-07:00"
+}

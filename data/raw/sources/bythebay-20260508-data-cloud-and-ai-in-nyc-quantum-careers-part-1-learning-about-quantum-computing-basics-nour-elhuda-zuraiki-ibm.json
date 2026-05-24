@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-10-25T08:00:00-04:00",
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.**\nIn this session we'll be covering the basics of quantum computing from qubits to Qiskit.\nOne of IBM's Quantum ambassadors will be providing answers to the following questions:\n\\- What are the limitations of classical computers?\n\\- How can we use quantum mechanics to bypass these limitations?\n\\- What is a qubit and how do we build quantum circuits with them?\n\\- How do we run quantum circuits using Qiskit?\n\nNote that this is **part 1 of a 4-session series \"Quantum Horizon: Exploring the Frontier in Quantum Computing Careers\"** on Oct 25/26, Nov 8/9, Nov 29/30, Dec 6/7. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions.\n\n**Presenter: Nour Elhuda Zuraiki**\nNour Elhuda Zuraiki is an accomplished Data Consultant at IBM, she leverages her academic background in Theoretical Physics, holding a Master's from King's College London and a Bachelor's from Lancaster University, to drive innovation in the complex realm of Human Machine Teaming (HMT) working for the Ministry of Defence (MoD). Her typical day involves diving into data analysis, crafting code for data engineering, and leading drone experiments for meticulous data curation and formatting.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r114ad953f06ef2837fb204ad702cc21b](https://ibm.webex.com/weblink/register/r114ad953f06ef2837fb204ad702cc21b)**",
+    "endTime": "2023-10-25T09:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/296566231/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "296566231",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Quantum Careers - Part 1: Learning about Quantum Computing Basics"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-1-learning-about-quantum-computing-basics-nour-elhuda-zuraiki-ibm",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/296566231/"
+}

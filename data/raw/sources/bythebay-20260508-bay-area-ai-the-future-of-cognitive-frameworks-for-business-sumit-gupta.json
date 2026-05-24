@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-06-07T16:00:00-07:00",
+    "description": "This high-level event is hosted at IBM Watson West, the leader of industrial cognitive applications. It is the official launch of the Cognitive Frameworks Festiva (http://festival.framework.foundation)l, focusing on the business of AI, as powered by real-time, intelligent big data pipelines.\n\nThis meetup is a joint event with our good friends at SF Bay Area Machine Learning (https://www.meetup.com/SF-Bayarea-Machine-Learning/).\n\nWe start at 4pm with networking on the roof of IBM West. At 5pm, there will be lightning talks from the industry leaders at\n\n• IBM\n\n• Willie Tejada, Chief Developer Advocate, IBM\n\n• Joel Horwitz, VP of Strategic Partnerships, IBM\n\n• Mesosphere\n\n• Neil Gehani, Product Manager\n\n• Salesforce\n\n• Simon Chan, Senior Director, Product Management, Salesforce Einstein\n\n• Cisco\n\n• Jose de Castro, CTO for APIs and Integrations, Collaboration Technology Group, Cisco\n\n• Lightbend\n\n• Brad Murdoch, VP, Corporate & Business Development, Lightbend\n\n• Nitro\n\n• Devin Loftis, Director, Platform Engineering\n\n• Nvidia\n\n• William Ramey, Director, Developer Programs, NVIDIA\n\nTopics:\n\n-- Cognitive Infrastructure\n-- Cognitive Products\n-- Ecosystem around Cognitive Business\n\nImmediately following the lightning talks, we'll hear Sumit Gupta, VP, IBM.\n\nFrom better fraud detection, to chat bots, to recommendation engines, deep learning is a new neural network method that was first popularized by its use in many everyday mobile services that we use like Google Voice, and Apple Siri. We will present the challenges that enterprises face in building real cognitive applications using deep learning based AI methods and discuss ways to solve them. We will also describe IBM's PowerAI deep learning software distribution that is an enterprise-ready binary distribution of popular frameworks like TensorFlow, CAFFE, Torch, Chainer, etc with support and services, that enables any business to get started with deep learning in minutes, rather than weeks.\n\nPresenter:\nSumit Gupta is Vice President in the IBM Cognitive Systems, where he leads the product and business strategy for HPC, AI, and Analytics. He joined IBM two years ago from NVIDIA, where he was GM of the GPU accelerator business.\n\nA patio BBQ party will surround the talks!",
+    "endTime": "2017-06-07T19:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/240457597/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "240457597",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "The Future of Cognitive Frameworks for Business"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-the-future-of-cognitive-frameworks-for-business-sumit-gupta",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/240457597/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-11-12T06:45:00-08:00",
+    "description": "Folks -- the first-ever online SBTB is this week.\n\nhttps://scale.bythebay.io/\n\nThe online ticket is a already a low $125, and we give you 20% off that with SFSCALA20:\n\nhttps://scale.bythebay.io/register\n\nSome highlights:\n\nMartin Odersky opens SBTB on 11/12 with\n\nCountdown to 3!\n\nMatei Zaharia and Anima Anandkumar keynote\n\nLi Haoyi, Getting Things Done in the Scala REPL\n\nJulien Truffault, Monocle 3: a peek into the future\n\nAdam Warski, Project Loom? Better Futures? What’s next for JVM concurrent programming\n\nProf. Bayer, the co-creator of B-trees, presents C-chain: the Integration of 5G and real time Blockchain\n\nShameera Rathnayaka of Spotify, Materialize Typeclasses with Magnolia\n\nJustin Heyes-Jones, YoppWorks, Applicative: The Origin Story\n\nSteve Cosenza, Twitter, Rebuilding Twitter’s public API\n\nGreg Kesler, Intuit, Query Planning in GraphQL\n\nLei Gao, Workday Goku Flow: A Self-Service Data Pipeline Builder\n\nPrashant Sharma, IBM, Apache Spark meets FIPS standard\n\nDean Wampler, Domino Data Labs, Ray: A System for High-performance, Distributed Machine Learning Applications\n\nDirk Slama, VP Co-Innovation, Bosch, AIoT: Why now? And How To?\n\nAntje Barth, AWS, Put Your Machine Learning on Autopilot\n\nWe have three debate panels we are (in)famous for:\n\nWill AI Kill Programming?\n\nWere Microservices a Huge Mistake?\n\nProgramming Languages in the Era of the Cloud\n\nSee the full program at https://www.scale.bythebay.io/schedule, and register!",
+    "endTime": "2020-11-13T18:30:00-08:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/274498032/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "274498032",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Scale By the Bay 2020 begins this Thursday!"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-scale-by-the-bay-2020-begins-this-thursday-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/274498032/"
+}

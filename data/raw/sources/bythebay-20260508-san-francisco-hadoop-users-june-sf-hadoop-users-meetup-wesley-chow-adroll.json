@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-06-11T18:00:00-07:00",
+    "description": "The June SF Hadoop Users Group Meetup will be held Wednesday, June 11 from 6:00pm to 8:00pm. This meetup will be hosted by AdRoll, located at 972 Mission Street, San Francisco, CA 94103. Food and drinks will be served.\n\nJune's talk will be given by Wesley Chow, a Software Engineer at AdRoll. The talk will be followed by breakout sessions.\n\nPresentation:\n\nHow AdRoll Uses Hadoop\n\n\"Here at AdRoll, our data infrastructure handles over one billion events per day. This talk will dive into how we are able to provide real-time statistics while processing terabytes of data.\"\n\nWesley Chow, Software Engineer, AdRoll",
+    "endTime": "2014-06-11T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/187173842/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "187173842",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "June SF Hadoop Users Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-june-sf-hadoop-users-meetup-wesley-chow-adroll",
+  "source_url": "https://www.meetup.com/hadoopsf/events/187173842/"
+}

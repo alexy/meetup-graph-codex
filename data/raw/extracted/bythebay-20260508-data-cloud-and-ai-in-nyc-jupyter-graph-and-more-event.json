@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-jupyter-graph-and-more-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-jupyter-graph-and-more-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-jupyter-graph-and-more-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-jupyter-graph-and-more-event.json",
+  "kind": "event",
+  "event_id": "242650560",
+  "event_title": "Jupyter, Graph and More....",
+  "title": "Jupyter, Graph and More....",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/242650560/",
+  "description": "Please join us for a \"Jupyter, Graph, and More\" Meetup in NYC. Please bring photoid. 6:00-6:30pm networking, Talks start at 6:30pm Presenters include : - Jason Plurad - JanusGraph: What's Next, Project Status Update - Ray Canzanese - Alert prioritization in a security event graph - Susan Malaika - Extensions for Graph in SQL - Luke Schantz - Harness the power of cognitive data analysis in a Jupyter Notebook with PixieDust - Luciano Resende - Building an Analytics Platform with Jupyter Notebooks and Apache Spark",
+  "date_time": "2017-08-22T18:00:00-04:00",
+  "end_time": "2017-08-22T20:30:00-04:00"
+}

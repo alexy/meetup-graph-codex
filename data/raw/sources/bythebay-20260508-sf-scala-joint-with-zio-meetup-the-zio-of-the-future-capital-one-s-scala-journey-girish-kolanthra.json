@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2021-04-22T17:00:00-07:00",
+    "description": "Our Scala Journey by Girish Kolanthra (Capital One)\n\nThe talk is about our team journey from imperative programming using Java and Spring to introducing functional programming using Scala in a large financial services company. We will cover both the evolution of the technologies we used as well as our approach to teaching our engineers Functional Scala.\n\nSpeaker Bio:\nGirish is a lead software engineer in the Core Modernization group at Capital One. He has a Bachelor of Science in Computer Science and Engineering and has been building software in fintech since 1999. Prior to becoming fascinated with Functional Programming in 2016, Girish worked mostly with Java and its surrounding ecosystem. He started the functional programming journey with tools like RxJava and is now a strong proponent of FP with Scala.\n\n--\n\nThe ZIO of the Future by John De Goes (Ziverge)\n\nZIO is an open-source library that delivers a better “Future” for asynchronous and concurrent programming in Scala. With hundreds of contributors, dozens of corporate adopters, and almost a million downloads a month, ZIO has seen striking growth in the year since its release.\n\nIn this presentation, John A. De Goes, the architect of ZIO, provides a compelling case for how ZIO can simplify the development of modern applications. Step by step, John demonstrates how ZIO gives you performance, power, and correctness, in a package that’s a delight to use.\n\nAfter making a case for ZIO, John proceeds to highlight some of the new improvements in the upcoming release of ZIO 2.0, including improved performance, better ergonomics, architectural and API simplifications, and a design that is years ahead of alternatives in the space.\n\nCome learn about the ZIO of the future!\n\nSpeaker Bio:\nA mathematician by training but a software engineer by vocation, John A. De Goes has been professionally writing software for more than 25 years. John has contributed to dozens of open source projects written in functional programming languages, including ZIO, a library for asynchronous and concurrent programming in functional Scala. In addition to speaking at Strata, OSCON, BigData TechCon, NEScala, ScalaWorld, Scala IO, flatMap, Scalar Conf, LambdaConf, and many other conferences, John also published a variety of books on programming. Currently, John heads Ziverge Inc, a company committed to solving hard business problems using the power of functional programming\n\nThis joint meetup is sponsored by Capital One an Innovative Technology Company driving the future of banking.\n\nIf you are interested in solving challenges with some of the best technology leaders, please check out some of the exciting openings! 🙌 👇\n\nhttps://www.capitalonecareers.com/search-jobs/Scala/San*20Francisco*2C*20CA/1732-31238/1/4/6252001-5332921-5391997-5391959/37x77493/-122x41942/50/2?utm_source=Ziverge&utm_medium=Newsletter&utm_campaign=MeetUp__;JSUl!!EFVe01R3CjU!IA4P0ZLkrrKRbDYGeoTE1y4DUdug_IRDg6EPLtB3UkKIGbX9fn2VhJHEa9h9ZcxlnPCeqg$",
+    "endTime": "2021-04-22T19:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/277119020/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "277119020",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[Joint with ZIO Meetup] The ZIO of the Future & Capital One’s Scala Journey"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-joint-with-zio-meetup-the-zio-of-the-future-capital-one-s-scala-journey-girish-kolanthra",
+  "source_url": "https://www.meetup.com/sf-scala/events/277119020/"
+}

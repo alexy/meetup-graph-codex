@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-distributed-deep-learning-for-classification-and-regression-problems-using-h2o-fortune-magazine",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-distributed-deep-learning-for-classification-and-regression-problems-using-h2o-fortune-magazine",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-distributed-deep-learning-for-classification-and-regression-problems-using-h2o-fortune-magazine.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-distributed-deep-learning-for-classification-and-regression-problems-using-h2o-fortune-magazine.json",
+  "kind": "talk",
+  "event_id": "219004016",
+  "event_title": "December SF Hadoop Users Meetup",
+  "title": "Distributed Deep Learning for Classification and Regression problems using H2O",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": "Fortune Magazine",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/219004016/",
+  "description": "Arno Candel - Physicist & Hacker, 0xdata Abstract: Deep Learning has been dominating recent machine learning competitions with better predictions. Unlike the neural networks of the past, modern Deep Learning methods have cracked the code for training stability and generalization. Deep Learning is not only the leader in image and speech recognition tasks, but is also emerging as the algorithm of choice for highest predictive performance in traditional business analytics. This talk introduces Deep Learning and implementation concepts in the open-source H2O in-memory prediction engine. Designed for the solution of business-critical problems on distributed compute clusters, it offers advanced features such as adaptive learning rate, dropout regularization, parameter tuning and a fully-featured R interface. World record performance on the classic MNIST dataset, best-in-class accuracy for a high-dimensional eBay text classification problem and other relevant datasets (incl. Kaggle) showcase the power of this game-changing technology. A whole new ecosystem of Intelligent Applications is emerging with Deep Learning at its core. Prior to joining 0xdata as Physicist & Hacker, Arno was a founding Senior MTS at Skytree where he designed and implemented high-performance machine learning algorithms. He has over a decade of experience in HPC with C++/MPI and had access to the world’s largest supercomputers as a Staff Scientist at SLAC National Accelerator Laboratory where he participated in US DOE scientific computing initiatives. While at SLAC, he authored the first curvilinear finite-element simulation code for space-charge dominated relativistic free electrons and scaled it to thousands of compute nodes. He also led a collaboration with CERN to model the electromagnetic performance of CLIC, a ginormous e+e- collider and potential successor of LHC. Arno has authored dozens of scientific papers and was a sought-after academic conference speaker. He holds a PhD and Masters summa cum laude in Physics from ETH Zurich. Arno was named 2014 Big Data All-Star by Fortune Magazine.",
+  "date_time": "2014-12-10T18:00:00-08:00",
+  "end_time": "2014-12-10T21:00:00-08:00"
+}

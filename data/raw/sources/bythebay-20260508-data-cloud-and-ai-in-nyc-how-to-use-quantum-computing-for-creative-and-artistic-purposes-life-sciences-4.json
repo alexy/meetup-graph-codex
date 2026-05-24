@@ -1,0 +1,51 @@
+{
+  "event": {
+    "dateTime": "2023-06-15T15:30:00-04:00",
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.**\nNow that quantum computing is available to the masses, what can be done with this new technology outside of scientific research?\n\nWe will be providing an overview and deep dive into how quantum computing can be used for artistic and creative purposes. Over the course of an hour, Wiktor Mazin and Russell Huffman will give a survey of how quantum computing is being adopted by creative practitioners, and then go through a tutorial on how you can get started by created fractal art with quantum information, quantum circuits, and using IBM’s real state of the art quantum systems.\n\nAll necessary tools and links to get started will be covered during this talk.\n\nNote that this is part 7 of an 8-session series on Quantum Computing on Mar 22/23, Apr 5/6, Apr 19/20, May 3/4, May 17/18, May 31/Jun 1, Jun 14/15, Jul 5/6. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions.\n\n**Presenters: Wiktor Mazin, Russell Huffman**\n\n**Wiktor Mazin** is a Quantum Industry Application Consultant in Healthcare and Life Sciences in IBM Quantum, and a Qiskit Advocate. He combines his industry background with his passion for Quantum Computing and extensive Data Science lead experience, and today he guides clients on the quantum computing journey.\n\nWiktor holds a M.Sc. in Engineering (chaos theory & Turing patterns), a Ph.D. in Biophysics and a MMT (eMBA) from the Technical University of Denmark (DTU).\n\n**Russell Huffman** is a Design Lead with IBM Quantum, a Qiskit Advocate, and a Quantum Ambassador. He has an M.Sc. in Digital Media from Georgia Tech and over 10 years of industry design experience.\nRussell has built his career at the intersection of emerging technology and design, including working in AI and quantum computing with several patents in both fields. He also has one of the world’s first quantum art installations, currently on display in one of IBM’s offices in Manhattan.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r53693df31c3b316a9abbb3943198e137](https://ibm.webex.com/weblink/register/r53693df31c3b316a9abbb3943198e137)**",
+    "endTime": "2023-06-15T16:30:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/291845940/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "291845940",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "How to use Quantum computing for creative and artistic purposes"
+  },
+  "event_id": "291845940",
+  "event_title": "How to use Quantum computing for creative and artistic purposes",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.** Now that quantum computing is available to the masses, what can be done with this new technology outside of scientific research? We will be providing an overview and deep dive into how quantum computing can be used for artistic and creative purposes. Over the course of an hour, Wiktor Mazin and Russell Huffman will give a survey of how quantum computing is being adopted by creative practitioners, and then go through a tutorial on how you can get started by created fractal art with quantum information, quantum circuits, and using IBM’s real state of the art quantum systems. All necessary tools and links to get started will be covered during this talk. Note that this is part 7 of an 8-session series on Quantum Computing on Mar 22/23, Apr 5/6, Apr 19/20, May 3/4, May 17/18, May 31/Jun 1, Jun 14/15, Jul 5/6. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions. **Presenters: Wiktor Mazin, Russell Huffman** **Wiktor Mazin** is a Quantum Industry Application Consultant in Healthcare and Life Sciences in IBM Quantum, and a Qiskit Advocate. He combines his industry background with his passion for Quantum Computing and extensive Data Science lead experience, and today he guides clients on the quantum computing journey. Wiktor holds a M.Sc. in Engineering (chaos theory & Turing patterns), a Ph.D. in Biophysics and a MMT (eMBA) from the Technical University of Denmark (DTU). **Russell Huffman** is a Design Lead with IBM Quantum, a Qiskit Advocate, and a Quantum Ambassador. He has an M.Sc. in Digital Media from Georgia Tech and over 10 years of industry design experience. Russell has built his career at the intersection of emerging technology and design, including working in AI and quantum computing with several patents in both fields. He also has one of the world’s first quantum art installations, currently on display in one of IBM’s offices in Manhattan. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r53693df31c3b316a9abbb3943198e137](https://ibm.webex.com/weblink/register/r53693df31c3b316a9abbb3943198e137)**",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-life-sciences-4.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-life-sciences-4.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-life-sciences-4",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Life Sciences"
+      },
+      {
+        "company": null,
+        "name": "Russell Huffman"
+      },
+      {
+        "company": null,
+        "name": "Russell Huffman Wiktor Mazin"
+      },
+      {
+        "company": null,
+        "name": "Wiktor Mazin"
+      }
+    ],
+    "title": "How to use Quantum computing for creative and artistic purposes"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-life-sciences-4",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/291845940/"
+}

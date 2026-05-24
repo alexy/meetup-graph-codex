@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-11-10T18:00:00-08:00",
+    "description": "Scala By the Bay Late Bird registration (http://scala.bythebay.io)is in progress.\n\nJakob Odersky, Jason Swartz, Stewart Stewart, the all-star Scala developer crew of SF Scala, will teach an intro to Scala to get up up to speed for SBTB and beyond.\n\nWe have heard you -- we need to start with the basics of Scala from the ground up for a lot of good folks out there just figuring it out.\n\n-- Come and teach it\n-- Come and learn it\n\nThe veterans of SF Scala with experience of applying Scala in industry will teach the course. If you can be a TA, please raise your hand in the comments.\n\nThis comprehensive and compressed Scala overview is a perfect way to party before Scala By the Bay (http://Scala.bythebay.io) the next day. Refresh your understanding of Scala; or come and learn it and be ready to absorb all the talks at a higher level.\n\nTo offset the late bird in effect at SBTB, use the code SFSCALA20 for 20% off all remaining registrations (http://scala.bythebay.io/tickets.html).",
+    "endTime": "2016-11-10T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/233628328/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "233628328",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Introduction to Scala Bootcamp"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-introduction-to-scala-bootcamp-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/233628328/"
+}

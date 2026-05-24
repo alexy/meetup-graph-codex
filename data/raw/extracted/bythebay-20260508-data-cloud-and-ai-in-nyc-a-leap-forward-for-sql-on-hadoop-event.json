@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-a-leap-forward-for-sql-on-hadoop-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-a-leap-forward-for-sql-on-hadoop-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-a-leap-forward-for-sql-on-hadoop-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-a-leap-forward-for-sql-on-hadoop-event.json",
+  "kind": "event",
+  "event_id": "189542182",
+  "event_title": "A Leap Forward for SQL on Hadoop",
+  "title": "A Leap Forward for SQL on Hadoop",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/189542182/",
+  "description": "We will discuss the various SQL on Hadoop alternatives and explore why such technologies have become an area of keen interest for many organizations. We will discuss the various alternatives (Drill, Impala, Hive, Hadapt, Tajo, Shark, HAWQ, Presto, Phoenix, Big SQL) and their pros/cons. We will share customer use cases for Warehouse Modernization and the role of SQL for Hadoop in this space, as well as discuss performance characteristics of SQL on Hadoop when running common query workloads. We will provide an intro to Big SQL (http://www.ibm.com/developerworks/library/bd-bigsql/) and demo. Big SQL delivers some exciting capabilities including comprehensive SQL functionality that leverages advanced SQL compiler/runtime all with low latency and high performance. Learn more about Big SQL here (http://www.livestream.com/newchannel/popoutplayer?channel=ibmiod&clip=pla_e4b28ad8-f647-4a02-88ad-6679b78f7e8b&time=1481). Check out new SQL on Hadoop white paper. (http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=WH&infotype=SA&appname=SWGE_SW_SW_USEN&htmlfid=SWW14019USEN&attachment=SWW14019USEN.PDF#loaded) In order to satisfy some security requirements for this IBM location, please answer the questions in the RSVP application.",
+  "date_time": "2014-07-14T18:00:00-04:00",
+  "end_time": "2014-07-14T21:00:00-04:00"
+}

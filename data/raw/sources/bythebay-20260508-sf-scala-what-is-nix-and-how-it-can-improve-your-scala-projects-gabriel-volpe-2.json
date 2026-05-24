@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2020-10-21T08:15:00-07:00",
+    "description": "This event will be streamed on Twitch (please log into twitch before the event starts). Once you RSVP you will see the link to twitch to join!\n\nFor the hallway track and to ask the speakers question you can use the chat on Twitch or join our slack/discord communities at https://www.sfbayareatechies.com/ - Once you have joined the slack/discord please go to the #sfscala channel.\n\nAny questions about the event please ask in our channel on discord above. Thank you.\n----------------------------------------------------------------------------------------------\n\nWhat is Nix and how it can improve your Scala projects\n\nGabriel will tell you about Nix, a functional package manager, and how it can successfully be used for everything, including Scala projects.\n\nRight after a bit of introduction, we will bootstrap a new Scala project to see how it all works.\n\nAbout our Speaker\n\nGabriel Volpe (https://twitter.com/volpegabriel87) is a proficient Haskell & Scala engineer. Nix enthusiast. Vimmer to the bones. Author of the book Practical FP in Scala and some open-source libraries.\n\nAgenda\n\n8.15am Event start (Yes Our first breakfast meetup before work)\n8.30am Welcome to SF Scala by Salar Rahmanian\n8.35am What is Nix and how it can improve your Scala projects by Gabriel Volpe\n9.30am Continue hallway discussions on Discord (join via: https://www.sfbayareatechies.com) Channel: SFScala",
+    "endTime": "2020-10-21T09:45:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/273606985/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "273606985",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "What is Nix and how it can improve your Scala projects"
+  },
+  "event_id": "273606985",
+  "event_title": "What is Nix and how it can improve your Scala projects",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "This event will be streamed on Twitch (please log into twitch before the event starts). Once you RSVP you will see the link to twitch to join! For the hallway track and to ask the speakers question you can use the chat on Twitch or join our slack/discord communities at https://www.sfbayareatechies.com/ - Once you have joined the slack/discord please go to the #sfscala channel. Any questions about the event please ask in our channel on discord above. Thank you. ---------------------------------------------------------------------------------------------- What is Nix and how it can improve your Scala projects Gabriel will tell you about Nix, a functional package manager, and how it can successfully be used for everything, including Scala projects. Right after a bit of introduction, we will bootstrap a new Scala project to see how it all works. About our Speaker Gabriel Volpe (https://twitter.com/volpegabriel87) is a proficient Haskell & Scala engineer. Nix enthusiast. Vimmer to the bones. Author of the book Practical FP in Scala and some open-source libraries. Agenda 8.15am Event start (Yes Our first breakfast meetup before work) 8.30am Welcome to SF Scala by Salar Rahmanian 8.35am What is Nix and how it can improve your Scala projects by Gabriel Volpe 9.30am Continue hallway discussions on Discord (join via: https://www.sfbayareatechies.com) Channel: SFScala",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-what-is-nix-and-how-it-can-improve-your-scala-projects-gabriel-volpe-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-what-is-nix-and-how-it-can-improve-your-scala-projects-gabriel-volpe-2.json",
+    "source_id": "bythebay-20260508-sf-scala-what-is-nix-and-how-it-can-improve-your-scala-projects-gabriel-volpe-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Gabriel Volpe"
+      },
+      {
+        "company": null,
+        "name": "Salar Rahmanian"
+      }
+    ],
+    "title": "What is Nix and how it can improve your Scala projects"
+  },
+  "source_id": "bythebay-20260508-sf-scala-what-is-nix-and-how-it-can-improve-your-scala-projects-gabriel-volpe-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/273606985/"
+}

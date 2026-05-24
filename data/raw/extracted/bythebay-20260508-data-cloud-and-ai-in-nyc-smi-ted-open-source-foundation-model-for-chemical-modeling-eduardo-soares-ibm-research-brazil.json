@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-smi-ted-open-source-foundation-model-for-chemical-modeling-eduardo-soares-ibm-research-brazil",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-smi-ted-open-source-foundation-model-for-chemical-modeling-eduardo-soares-ibm-research-brazil",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-smi-ted-open-source-foundation-model-for-chemical-modeling-eduardo-soares-ibm-research-brazil.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-smi-ted-open-source-foundation-model-for-chemical-modeling-eduardo-soares-ibm-research-brazil.json",
+  "kind": "talk",
+  "event_id": "307201381",
+  "event_title": "[AI Alliance] SMI-TED: Open-Source Foundation Model for Chemical Modeling",
+  "title": "SMI-TED: Open-Source Foundation Model for Chemical Modeling",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Eduardo Soares @ IBM Research – Brazil, Mimicking Human Experts",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/307201381/",
+  "description": "Please join us as the **AI Alliance Materials and Chemistry Working Group** kicks off this new weekly webinar series. Upcoming sessions: * April 17: Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning * May 8: MatExpert: Decomposing Materials Discovery by Mimicking Human Experts * May 22: Accelerated Inorganic Materials Design with Generative AI Agents More details soon, stay tuned! **Title:** SMI-TED: Open-Source Foundation Model for Chemical Modeling **Description** This talk introduces SMI-TED, an open-source encoder-decoder Foundation Model trained on 91 million SMILES samples from PubChem. We discuss its benchmark performance and real use cases—including surfactants phase prediction and electrolyte formulations design—and explore its latent space, which reveals hints of structure–property relationships. **About the speaker** Eduardo Soares: Eduardo Soares is a Senior Research Scientist at IBM Research – Brazil, where he develops large multimodal foundation models for materials science. He holds a Ph.D. in Computer Science from Lancaster University and has published extensively at top-tier conferences and journals. **Resources** Want a deep dive? [https://arxiv.org/abs/2407.20267](https://arxiv.org/abs/2407.20267) **About the AI Alliance** The [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+  "date_time": "2025-04-10T10:00:00-04:00",
+  "end_time": "2025-04-10T11:00:00-04:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-hemavathi-santhanam-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-hemavathi-santhanam-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-hemavathi-santhanam-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-hemavathi-santhanam-2.json",
+  "kind": "talk",
+  "event_id": "297915828",
+  "event_title": "Quantum Series Part 2: Getting Started with Quantum Computing Hands-on",
+  "title": "Quantum Series Part 2: Getting Started with Quantum Computing Hands-on",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Hemavathi Santhanam, Hemavathi Santhanam Hemavathi Santhanam",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/297915828/",
+  "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.** In this hands-on workshop, you will learn the fundamentals of programming a quantum computer. We will use the IBM Quantum platform to create quantum circuits both visually using the Circuit Composer and with Python code using the open source Qiskit framework. You will have the opportunity to run your circuits using quantum simulators and on real quantum computers in the IBM Cloud. Attendees should sign-up for a free account on the IBM Quantum platform beforehand at https://quantum-computing.ibm.com to best experience this hands-on session. Note that this is part 2 of an 11-session Quantum Series running from January to June. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions. **Presenter:** **Hemavathi Santhanam** **Hemavathi Santhanam** is a Technical Account Manager (Data and AI) at Expert Labs, IBM with over 10 years of experience in the Information Server suite of products and Cloud Pak for Data. Hema has earned a Master of Science in Computing and Data Analytics from Saint Mary’s University, Halifax. She is also a Qiskit Advocate and on her way to becoming an IBM Quantum Ambassador. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r6ea4958d9610b9957fe6e47c04ca7794](https://ibm.webex.com/weblink/register/r6ea4958d9610b9957fe6e47c04ca7794)**",
+  "date_time": "2024-02-15T15:30:00-05:00",
+  "end_time": "2024-02-15T17:00:00-05:00"
+}

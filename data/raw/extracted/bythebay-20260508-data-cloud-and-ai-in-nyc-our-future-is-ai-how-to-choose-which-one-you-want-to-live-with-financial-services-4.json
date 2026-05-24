@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-our-future-is-ai-how-to-choose-which-one-you-want-to-live-with-financial-services-4",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-our-future-is-ai-how-to-choose-which-one-you-want-to-live-with-financial-services-4",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-our-future-is-ai-how-to-choose-which-one-you-want-to-live-with-financial-services-4.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-our-future-is-ai-how-to-choose-which-one-you-want-to-live-with-financial-services-4.json",
+  "kind": "talk",
+  "event_id": "297840618",
+  "event_title": "Our Future is AI: How to choose which one you want to live with",
+  "title": "Our Future is AI: How to choose which one you want to live with",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Financial Services, Jason Garforth, Jason Garforth Jason Garforth",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/297840618/",
+  "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.** For anyone who wants to understand a little about the huge media coverage of “Artificial Intelligence” of late; * How we got to “Generative AI” from early work in the 1940’s, what it is and what it is not * What to look for in “ethical” uses of AI/GenAI * Where it may be going with approaches such as NeuroSymbolic AI and SynAGI from IBM Research * How to tell, in the near future, which AI’s you will want in your home and which ones you do not… **Presenter:** **Jason Garforth** **Jason Garforth**, in his role as one of IBM’s Enterprise Architects specialises in AI and ERP (Oracle/SAP), gets to work with a wide variety of commercial and academic clients across Healthcare, Financial Services and Manufacturing. Interested in “intelligent machines” from a young age, the quest for Artificial Intelligence spans three academic degrees across multiple decades including a PhD in “Artificial Intelligence, Executive Attention and Autonomous Robotics from The UK’s Open University”. A passion for healthcare, sparked in 2015 continues to the present, developing biomimetic, biologically plausible, privacy protecting, embedded AI for eldercare. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/rd031651d6d197ec2798af17e9578ad17](https://ibm.webex.com/weblink/register/rd031651d6d197ec2798af17e9578ad17)**",
+  "date_time": "2024-03-07T15:30:00-05:00",
+  "end_time": "2024-03-07T16:30:00-05:00"
+}

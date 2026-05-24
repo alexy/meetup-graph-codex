@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-connect-on-prem-solutions-via-nlip-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-connect-on-prem-solutions-via-nlip-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-connect-on-prem-solutions-via-nlip-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-connect-on-prem-solutions-via-nlip-event.json",
+  "kind": "event",
+  "event_id": "311567702",
+  "event_title": "[AI Alliance] Connect On-prem Solutions via NLIP",
+  "title": "Connect On-prem Solutions via NLIP",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/311567702/",
+  "description": "This use case showcases how Natural Language Interaction Protocol (NLIP) could facilitate the integration of on-premises resources such as Active Directory with cloud providers such as ServiceNow. Special attention is paid to moderation of communications for signs of jailbreaking, etc. to combat some regular problems. **About the presenter** **Will Witten** is a pragmatic builder and customer educator focused on AI that actually ships and sticks. He specializes in translating plain-English requests into production-grade workflows, stress-testing designs to expose brittle spots before they reach users. A strong advocate for the **Natural Language Interaction Protocol (NLIP)**, he treats it as a practical bridge—standardizing how systems converse while leaving room for each side’s constraints so results don’t break on contact with reality. Today he will share about his experience working with Natural Language Interaction Protocol, the latest standard for dependable natural language interactions, including a real-world example to demonstrate how this standard can benefit you. (edited) **About the AI Alliance** The [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players. **Join the community** Sign up for the [AI Alliance newsletter](https://thealliance.ai/community) (check the website footer) and join our new [AI Alliance Discord](https://discord.gg/YtsWdke6E9).",
+  "date_time": "2025-10-23T12:00:00-04:00",
+  "end_time": "2025-10-23T13:00:00-04:00"
+}

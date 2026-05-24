@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2020-01-30T18:00:00-08:00",
+    "description": "From now on, all the meetups By the Bay will be announced at the umbrella meetup, Scale By the Bay:\n\nhttps://www.meetup.com/scale-by-the-bay\n\nWe'll keep the downstream meetups for consistency and will cross-post. If you are a member of any of these, join us and you will be up to date on the holistic, full-stack, approach to software systems.\n\nWe’re kicking off the year at our new partner venue, Microsoft Reactor!\n\nApache Spark™ is the dominant processing framework for big data. Delta Lake adds reliability to Spark so your analytics and machine learning initiatives have ready access to quality, reliable data. This session covers the use of Delta Lake to enhance data reliability for Spark environments.\n\nTopics:\nThe role of Apache Spark in big data processing\nUse of data lakes as an important part of the data architecture\nData lake reliability challenges\nHow Delta Lake helps provide reliable data for Spark processing\nSpecific improvements that Delta Lake adds\nThe ease of adopting Delta Lake for powering your data lake\n\nSpeaker:\nChris Hoshino-Fish is a Solutions Architect at Databricks. Chris is an active member of the Performance Subject Matter Expert group and a former Principal Consultant focused on Data Engineering, working with several Fortune 500 Databricks customers. Prior to Databricks, Chris worked for an adtech company as a data engineer managing pipelines using Apache Spark for 3.5 years. Chris has a B.A. in Computational Mathematics from the University of California, Santa Cruz.\n\nLightning Talks\n-- we'll open the floor for the rest of the meetup to the lightning talks proposed in the comments!",
+    "endTime": "2020-01-30T20:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/268095027/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "268095027",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Starting 2020 at Microsoft Reactor: Making Apache Spark Better with Delta Lake"
+  },
+  "event_id": "268095027",
+  "event_title": "Starting 2020 at Microsoft Reactor: Making Apache Spark Better with Delta Lake",
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "session": {
+    "description": "From now on, all the meetups By the Bay will be announced at the umbrella meetup, Scale By the Bay: https://www.meetup.com/scale-by-the-bay We'll keep the downstream meetups for consistency and will cross-post. If you are a member of any of these, join us and you will be up to date on the holistic, full-stack, approach to software systems. We’re kicking off the year at our new partner venue, Microsoft Reactor! Apache Spark™ is the dominant processing framework for big data. Delta Lake adds reliability to Spark so your analytics and machine learning initiatives have ready access to quality, reliable data. This session covers the use of Delta Lake to enhance data reliability for Spark environments. Topics: The role of Apache Spark in big data processing Use of data lakes as an important part of the data architecture Data lake reliability challenges How Delta Lake helps provide reliable data for Spark processing Specific improvements that Delta Lake adds The ease of adopting Delta Lake for powering your data lake Speaker: Chris Hoshino-Fish is a Solutions Architect at Databricks. Chris is an active member of the Performance Subject Matter Expert group and a former Principal Consultant focused on Data Engineering, working with several Fortune 500 Databricks customers. Prior to Databricks, Chris worked for an adtech company as a data engineer managing pipelines using Apache Spark for 3.5 years. Chris has a B.A. in Computational Mathematics from the University of California, Santa Cruz. Lightning Talks -- we'll open the floor for the rest of the meetup to the lightning talks proposed in the comments!",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks-2.json",
+    "source_id": "bythebay-20260508-san-francisco-hadoop-users-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks-2",
+    "speakers": [
+      {
+        "company": "Databricks",
+        "name": "Chris Hoshino-Fish"
+      },
+      {
+        "company": null,
+        "name": "Santa Cruz"
+      }
+    ],
+    "title": "Starting 2020 at Microsoft Reactor: Making Apache Spark Better with Delta Lake"
+  },
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks-2",
+  "source_url": "https://www.meetup.com/hadoopsf/events/268095027/"
+}

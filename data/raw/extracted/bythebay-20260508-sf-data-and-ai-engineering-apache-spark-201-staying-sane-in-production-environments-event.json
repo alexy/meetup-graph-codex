@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18601481:bythebay-20260508-sf-data-and-ai-engineering-apache-spark-201-staying-sane-in-production-environments-event",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-apache-spark-201-staying-sane-in-production-environments-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-apache-spark-201-staying-sane-in-production-environments-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-apache-spark-201-staying-sane-in-production-environments-event.json",
+  "kind": "event",
+  "event_id": "231081007",
+  "event_title": "Apache Spark 201 - Staying Sane in Production Environments",
+  "title": "Apache Spark 201 - Staying Sane in Production Environments",
+  "conference_id": "meetup:18601481",
+  "meetup_id": "meetup:18601481",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/231081007/",
+  "description": "Are you familiar with this scenario: it's a perfect morning, your new greenfield project (based on top of Apache Spark) runs just smoothly… and then something happens. It might be that your job drops suddenly on its initial performance or you are struggling with an exception that 'googled' gave you just 3 results (2 of them in some foreign language). How to handle situations when things go wrong? This is hands-on talk, with many code examples & best practices. We will describe basic concepts like: tasks, stages, DAG schedulers. We will focus on problems of partitioning, shuffling, GC. We will see how profiles, spark-ui and solid knowledge of the API can help you with your daily Spark challenges. Speaker: Pawel is building a Spark division at Scalac https://scalac.io (https://scalac.io/) - Scala software house from Poland that works with such companies like Angie’s List or SAP. Pawel Szulc is primarily a programmer. Always was and always will be. Experienced professionally in JVM ecosystem, currently having tons of fun with Scala, Erlang, Clojure and Haskell. By day working on (not that) BigData problems with Akka Stream ∓ Apache Spark, by night hacking whatever he finds interesting at that given moment. Humble apprentice of Functional Programming. Runs a blog rabbitonweb.com (http://rabbitonweb.com/). Food and drinks will be provided! Start/end time: 18:30 with food and drinks Talks start at 19:00 End at around 21:30",
+  "date_time": "2016-06-01T18:30:00-07:00",
+  "end_time": "2016-06-01T21:30:00-07:00"
+}

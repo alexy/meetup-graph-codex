@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2013-02-13T14:00:00-05:00",
+    "description": "Register: http://bit.ly/U2aKfd\n\nLive Webcast: Bigger Data on a Budget - Get a better understanding of what Big Data is, what all is involved for companies that are quickly accumulating exceedingly large amounts of complex data, what the options are to handle this information and most importantly, what this data can do for the company once translated into a usable format. Also, how to do all that on a budget. Lastly, get an introduction to Hadoop from leading Open Source Big Data provider Hortonworks. Register: http://bit.ly/U2aKfd",
+    "endTime": "2013-02-13T17:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/100897882/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "100897882",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Bigger Data on a Budget"
+  },
+  "event_id": "100897882",
+  "event_title": "Bigger Data on a Budget",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "Register: http://bit.ly/U2aKfd Live Webcast: Bigger Data on a Budget - Get a better understanding of what Big Data is, what all is involved for companies that are quickly accumulating exceedingly large amounts of complex data, what the options are to handle this information and most importantly, what this data can do for the company once translated into a usable format. Also, how to do all that on a budget. Lastly, get an introduction to Hadoop from leading Open Source Big Data provider Hortonworks. Register: http://bit.ly/U2aKfd",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-bigger-data-on-a-budget-live-webcast-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-bigger-data-on-a-budget-live-webcast-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-bigger-data-on-a-budget-live-webcast-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Live Webcast"
+      }
+    ],
+    "title": "Bigger Data on a Budget"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-bigger-data-on-a-budget-live-webcast-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/100897882/"
+}

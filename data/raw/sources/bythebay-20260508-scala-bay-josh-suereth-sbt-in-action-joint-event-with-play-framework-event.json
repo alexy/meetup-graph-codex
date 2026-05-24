@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-03-19T18:30:00-07:00",
+    "description": "This is a joint event with Play Framework: http://www.meetup.com/PlayFramework/events/170541392/\n\nWe'll have Josh Suereth (https://twitter.com/jsuereth), active contributor to sbt (http://www.scala-sbt.org/) and author of Scala In Depth (http://www.manning.com/suereth/) / sbt in Action (http://manning.com/suereth2/), to give an introduction to sbt and show how it can make your development flow better.\n\nOur Topic\n\nOne of our most requested topics has been an introduction to sbt. The learning curve can feel quite steep, which gets worse when coming from a Java background.\n\nThe talk will be accessible to people who have no used Scala or sbt extensively, but will also include useful examples and tips for seasoned sbt users. Full talk description is incoming.\n\nJosh will speak for the full hour, and will include a Q&A after. Food and drinks will be provided.\n\nSchedule\n\nWe'll be starting at 7:00pm, so please come a little early if you're coming from SF.\n\n• Meet and greet with food / drinks\n\n• \"sbt in Action\", Josh Suereth\n\n• Q&A / Announcements",
+    "endTime": "2014-03-19T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/170549992/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "170549992",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Josh Suereth, \"SBT in Action\" - joint event with Play Framework"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-josh-suereth-sbt-in-action-joint-event-with-play-framework-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/170549992/"
+}

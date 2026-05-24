@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-08-23T18:00:00-07:00",
+    "description": "Dear all,\n\nCrowdFlower is hosting a social event for drinks, dinner, and an endless supply of fresh s’mores while we discuss AI next Wednesday!\n\nPlease join us on August 23rd, from 6pm to 9pm, at Spark Social, 601 Mission Bay Blvd., SF, CA 94158.\n\nTo reserve your spot, please RSVP here: https://visit.crowdflower.com/AISummerSocial.html\n\nHope to see you there!",
+    "endTime": "2017-08-23T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/242656443/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "242656443",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[External Registration] CrowdFlower Summer Social"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-external-registration-crowdflower-summer-social-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/242656443/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-04-17T12:00:00-04:00",
+    "description": "In this talk, we’ll explore the critical role of AI red-teaming in ensuring the safety, security, and reliability of AI systems. As AI adoption accelerates, adversarial testing has become essential to uncover vulnerabilities, mitigate risks, and build trustworthy models. We'll discuss practical red-teaming strategies for identifying model weaknesses, from prompt injection attacks to harmful content generation. Drawing on insights from HydroX AI’s automated red-teaming platform and our work with partners like Anthropic, I'll highlight best practices for developers, AI engineers, and business leaders to integrate red-teaming into their development lifecycle. The session will provide actionable guidance for both open-source projects and enterprise AI deployments.\n\n**About the presenter**\nVictor Bian (COO, HydroX AI)\n\n**About the AI Alliance**\nThe AI Alliance is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+    "endTime": "2025-04-17T13:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/306903629/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "306903629",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] AI Red-Teaming: Stress Testing AI Systems for Safety & Reliability"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-ai-red-teaming-stress-testing-ai-systems-for-safety-reliability-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/306903629/"
+}

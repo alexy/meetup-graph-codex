@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-paul-phillips-better-scala-collections-paul-phillips-2",
+  "source_id": "bythebay-20260508-sf-scala-paul-phillips-better-scala-collections-paul-phillips-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-paul-phillips-better-scala-collections-paul-phillips-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-paul-phillips-better-scala-collections-paul-phillips-2.json",
+  "kind": "talk",
+  "event_id": "155024812",
+  "event_title": "Paul Phillips: Better Scala Collections",
+  "title": "Paul Phillips: Better Scala Collections",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Paul Phillips",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/155024812/",
+  "description": "Paul Phillips is a co-founder of Typesafe and the most prolific committer to Scala. His talk is about creating a better collections library for Scala. \"Based on my extensive experience with scala collections, I'm writing my own. The focus is much tighter: immutable, performant, predictable, correct. The talk will alternate between why the scala collections manage none of those things, and how I hope to do better.\"",
+  "date_time": "2014-01-14T18:00:00-08:00",
+  "end_time": "2014-01-14T21:00:00-08:00"
+}

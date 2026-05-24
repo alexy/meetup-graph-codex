@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-10-24T10:30:00-04:00",
+    "description": "**MCP-Agent Workshop (10:00 am) followed by the AI Agent Unconference (1:30 pm)**\n\n​The AI Agent Meetup is where developers meet developers to share the agent tools, frameworks and agents they are working on. This event is hosted at NYU and sponsored by the [AI Alliance](https://thealliance.ai/).\n\n​**This workshop explores [MCP-Agent](https://mcp-agent.com/),** an open source framework for building composable agents using the Model Context Protocol (MCP).\n\nDetails and RSVP: https://luma.com/r3x6kzrq",
+    "endTime": "2025-10-24T12:30:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/311656638/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "311656638",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "MCP-Agent Workshop"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-mcp-agent-workshop-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/311656638/"
+}

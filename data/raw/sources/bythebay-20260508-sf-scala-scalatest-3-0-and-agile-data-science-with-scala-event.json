@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-02-18T18:30:00-08:00",
+    "description": "This stellar double-feature brings together Bill Venners, the creator of ScalaTest (http://scalatest.org), and Data Fellas, the creators of Spark Notebook (http://spark-notebook.io), showcasing the two things Scala is especially good for: types and data.\n\n(1) Bill Venners, Unveiling ScalaTest 3.0!\n\nScalaTest 3.0 is a major upgrade to ScalaTest. It's major new features are Scala.js support and new async testing styles. In this talk, Bill Venners will recount the journey to 3.0 and focus in particular on how to take advantage of ScalaTests new async testing styles.\n\n(2) Data Fellas, Agile Data Science with Scala\n\nData Science, a buzz word we've seen popping everywhere in 2015\n\nWhy? It turns out engineers explored the Big Data's value and the way to deal it, that is, digging the gold, Data Science, covering mathematics, statistics, machine learning, data preparation, software development and more\n\nData science came to the front because data is accumulating and exploiting the value is a key to competitivity.\nData Science and Machine Learning in particular had traditionally been the smart and helpful tool mostly designed and developed in academia, the enterprise could only grasp at high premium\n\nNow the game is changing drastically, methods have matured, libraries are available and more data scientists are entering the market\n\nStill, there are many friction points in the development process of services exploiting data. It's true that Data Scientists are developers, but usually they are not software developers and even less devops which leads to a disrupted organization and a lack of efficiency\n\nIn this talk, Data Fellas presents his vision of an unified environment starting with the Spark Notebook, helping different people with different tasks and background to develop a data service pipeline with minimal friction and maximal agility",
+    "endTime": "2016-02-18T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/228620135/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "228620135",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "ScalaTest 3.0 and Agile Data Science with Scala"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-scalatest-3-0-and-agile-data-science-with-scala-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/228620135/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-may-sf-hadoop-users-meetup-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-may-sf-hadoop-users-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-may-sf-hadoop-users-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-may-sf-hadoop-users-meetup-event.json",
+  "kind": "event",
+  "event_id": "179881622",
+  "event_title": "May SF Hadoop Users Meetup",
+  "title": "May SF Hadoop Users Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/179881622/",
+  "description": "The May SF Hadoop User Group meetup will be held Wednesday, May 14 from 6:00pm to 8:00pm. This meetup will be hosted by Flickr, located at 901 Mission St, San Francisco, CA 94105. Food and drinks will be served. Presentations: “Flickr Computer Vision and Image Processing at Scale” Huy, Pierre, and Ben/Hugo Flickr uses Storm and Hadoop extensively. For this session, we are focussing our presentation on one of the top most uses of Hadoop/Storm at Flickr. “New Data Serialization on Hadoop at Yahoo” Nandu Jayakumar",
+  "date_time": "2014-05-14T18:00:00-07:00",
+  "end_time": "2014-05-14T21:00:00-07:00"
+}

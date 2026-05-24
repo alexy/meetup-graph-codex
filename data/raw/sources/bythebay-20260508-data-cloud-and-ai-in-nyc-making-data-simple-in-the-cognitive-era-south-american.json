@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-12-20T12:00:00-05:00",
+    "description": "RSVP: http://bit.ly/2gOcufe\n\nThis webinar will cover an overview of Watson Data Platform capabilities and how to empower users across the organization to make the most out of their data. What if you can shorten the time it takes to create value out of your existing organizational data ?\n\nWhat if you can provision a common analytic engine with managed services that will enable you to embrace multiple cloud platforms ? IBM Watson Data Platform is the first cloud-based data and analytics platform to support cognitive businesses. It enables access, collaboration and paths to insights by connecting all users through trusted access to a variety of data, discovering new possibilities and opportunities with built-in intelligence, automation and machine learning and accelerating outcomes with rapid deployment of new data models and fast embedding of insights into processes, applications and services.\n\nLet us show you how Watson Data Platform can be the milestone of your organization analytics strategy and empower your organization into the new Cognitive analytics era.\n\nSpeaker Bio:\nGerardo Rodríguez Díaz – is an avid traveler, technologist enthusiast and Big data and Analytics cloud solution specialist focused on communications and computer systems integrations industries across North America. GRD areas of specialization are IT, Marketing and Business Intelligence having worked across European, North and South American markets.",
+    "endTime": "2016-12-20T13:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/236263224/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "236263224",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Making Data Simple in the Cognitive Era"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-making-data-simple-in-the-cognitive-era-south-american",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/236263224/"
+}

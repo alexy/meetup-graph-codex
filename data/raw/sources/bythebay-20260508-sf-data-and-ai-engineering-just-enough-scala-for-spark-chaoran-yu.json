@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-06-08T09:00:00-07:00",
+    "description": "This free all-day tutorial is a part of the Cognitive Frameworks Festival (http://festival.framework.foundation) running 6/6-9 in partnership with IBM, Galvanize, and Framework Foundation.\n\nThis hands-on tutorial will be presented by Chaoran Yu from our partners at Lightbend, the company behind Scala, in which Spark is written. You can basically think of Spark as a Scala DSL, owing its success to the Scala Collections API.\n\nStudents only need to bring their laptops.\n\nBefore coming to the class, please clone the following Github repo:\n\nhttps://github.com/deanwampler/JustEnoughScalaForSpark\n\nand follow the instructions there to download JDK 8 and Spark Notebook. If your laptop runs Linux or Mac, you don't need Docker. For Windows users, Docker is required. During the class, we won't spend too much time to address environment setup issues, but if for any reason you run into trouble getting the notebook to run, bring your questions to get help!\n\nThis tutorial will be the same as the one Chaoran taught at the Spark Summit. The format will be a mix of lecture and hands-on sessions. Topics to be covered are the following:\n\n• Declaring and using classes, methods, and functions\n\n• Immutable values vs. mutable variables\n\n• Type inference: type safety without boilerplate\n\n• Pattern matching\n\n• Scala collections and the common operations on them (the basics of the RDD API)\n\n• Other Scala types like case classes and tuples\n\n• Effective use of the Spark REPL, based on the Scala interpreter\n\n• Common mistakes and how to avoid them, like serialization errors.\n\n• The tutorial is free but our parters support it and space is limited. Please only RSVP if you will come and learn from 9am to 5pm on Thursday. No-shows will be disqualified from the future events.",
+    "endTime": "2017-06-08T17:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/240078598/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "240078598",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Just Enough Scala for Spark"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-just-enough-scala-for-spark-chaoran-yu",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/240078598/"
+}

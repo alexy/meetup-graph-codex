@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2013-06-20T18:30:00-07:00",
+    "description": "Martin, the creator of Scala, will show what it means to have a good style in Scala. Need we say more? In case we do, read on!\n\nScala with Style - Scala gives you awesome expressive power, but how to make best use of it? In my talk I will discuss the question what makes good Scala style. We will start with syntax and continue with how to name things, how to mix objects and functions, where (and where not) to use mutable state, and when to use which design pattern. As most questions of style, the discussion will be quite subjective, and some of it might be controversial. I am looking forward to discuss these topics with the conference attendees.\n\nBio - Martin Odersky created the Scala programming language and is a professor in the programming research group at EPFL, the leading technical university in Switzerland. Throughout his career, Martin's singular objective has been to make the basic job of writing programs faster, easier and more enjoyable. In the process, he has personally written more lines of Java and Scala code than almost any other individual in the world. He wrote javac, the compiler used by the majority of today's Java programmers, and scalac, the compiler used by the fast-growing Scala community. He authored \"Programming in Scala,\" the best-selling book on Scala. Previously he has held positions at IBM Research, Yale University, University of Karlsruhe and University of South Australia, after having obtained his doctorate from ETH Zürich as a student of Niklaus Wirth, the creator of Pascal.\n\nThe talk will be held at the Intel Corporation South Bay campus in Santa Clara.\n\nAgenda:\n\n6:30pm Networking session with Pizza\n7:00pm Introduction\n7:10pm Scala with Style by Martin Odersky\n8:15pm Q&A\n8:30pm Wrap up\n\nDirections:\n\nExit 101on Montague Expressway. Turn left onto Mission College Blvd., while on Mission College Blvd., turn left on Juliette. Follow Juliette to almost the end of the street and there will be a sign to SC 12 on the left hand side. Intel employees and guests – pull into the SC 12 driveway.http://photos2.meetupstatic.com/photos/event/4/c/d/8/event_244099672.jpeg\n\nParking:\n\nOnce you enter SC 12, guests may park in any designated parking area. There are a very limited number of visitor spaces in the front left of the SC 12 building, there is also a large surface parking towards the rear left of SC 12 or you may park in garage “D”, which is directly behind the SC 12 building.",
+    "endTime": "2013-06-20T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/120367992/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "120367992",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Martin Odersky: Scala with Style"
+  },
+  "event_id": "120367992",
+  "event_title": "Martin Odersky: Scala with Style",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "Martin, the creator of Scala, will show what it means to have a good style in Scala. Need we say more? In case we do, read on! Scala with Style - Scala gives you awesome expressive power, but how to make best use of it? In my talk I will discuss the question what makes good Scala style. We will start with syntax and continue with how to name things, how to mix objects and functions, where (and where not) to use mutable state, and when to use which design pattern. As most questions of style, the discussion will be quite subjective, and some of it might be controversial. I am looking forward to discuss these topics with the conference attendees. Bio - Martin Odersky created the Scala programming language and is a professor in the programming research group at EPFL, the leading technical university in Switzerland. Throughout his career, Martin's singular objective has been to make the basic job of writing programs faster, easier and more enjoyable. In the process, he has personally written more lines of Java and Scala code than almost any other individual in the world. He wrote javac, the compiler used by the majority of today's Java programmers, and scalac, the compiler used by the fast-growing Scala community. He authored \"Programming in Scala,\" the best-selling book on Scala. Previously he has held positions at IBM Research, Yale University, University of Karlsruhe and University of South Australia, after having obtained his doctorate from ETH Zürich as a student of Niklaus Wirth, the creator of Pascal. The talk will be held at the Intel Corporation South Bay campus in Santa Clara.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-martin-odersky-scala-with-style-martin-odersky-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-martin-odersky-scala-with-style-martin-odersky-2.json",
+    "source_id": "bythebay-20260508-sf-scala-martin-odersky-scala-with-style-martin-odersky-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Martin Odersky"
+      }
+    ],
+    "title": "Martin Odersky: Scala with Style"
+  },
+  "source_id": "bythebay-20260508-sf-scala-martin-odersky-scala-with-style-martin-odersky-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/120367992/"
+}

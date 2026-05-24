@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18601481:bythebay-20260508-sf-data-and-ai-engineering-not-another-big-data-conference-event",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-not-another-big-data-conference-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-not-another-big-data-conference-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-not-another-big-data-conference-event.json",
+  "kind": "event",
+  "event_id": "245605973",
+  "event_title": "Not Another Big Data Conference",
+  "title": "Not Another Big Data Conference",
+  "conference_id": "meetup:18601481",
+  "meetup_id": "meetup:18601481",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/245605973/",
+  "description": "NABDConf (http://www.criteo.com/events/nabdconf-palo-alto/) is coming to the Bay Area for the first time on December 12! After two successful editions in Paris, we are now bringing NABDConf to the Bay area. On December 12, the conference by developers for developers will bring together engineers who have spent their careers resolving difficult problems at scale with other engineers who are facing similar challenges or who are just plain curious as to what’s going on behind the scenes at web-scale companies like Spotify, Cloudera, Uber, Criteo, and at fast-moving startups like Determined AI. This edition will center around topics ranging from real world deep learning and data science at scale to the nuts and bolts of making data engineering easier to understand and ever more efficient. We'll deep dive into technology like Spark, Parquet and Arrow, TensorFlow and other OSS projects like Featran, Cuttle and SLAB. Sessions will include industry heavyweights sharing insights on: Scalable Deep Learning on Big-Data Clusters Monitoring data production and the escalation process around it Examining multiple examples to outline these key capabilities of TensorFlow and Spark Register for the conference today! Want to know what to expect? Check out the highlight reel from last year's event.",
+  "date_time": "2017-12-12T08:00:00-08:00",
+  "end_time": "2017-12-12T21:00:00-08:00"
+}

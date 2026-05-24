@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-05-01T09:00:00-04:00",
+    "description": "Go beyond the code, advance towards responsible and trustworthy AI. Begins March 27, 2020 and ends May 1, 2020. This is a free on-line webinar that can be accessed at any time.\n\nREGISTER HERE FOR THIS FREE COURSE & EVENT: ibm.biz/AIExplainability\n\nTake our free masterclass and then apply your new skills in the online Hackathon. Come learn new open-source and IBM data science tools like AIX360 and Lale. As well as, how to explain your model to any stakeholder and how to integrate explainable workflows.\n\nMASTERCLASS\nQuickly learn new data science concepts with this free 90-minute micro-course.\n\nHACKATHON\nApply these new concepts by creating your own project to showcase and compete for the $8,000 prizepool and an IBM skill badge.\n\nMENTORSHIP\nConnect 1:1 with IBM data science experts for help and guidance on your project.\n\nWHO IS THIS FOR?\nAll Data Scientists, AI & ML Devs and Engineers, Startups and Enterprise\n\nWHY EXPLAINABILITY?\nExplainability is the ability for data scientists to produce applicable results for their peers, managers, and end-users. Can your results be understood and applied by other data scientists and stakeholders? It is up to you as a data scientist to use your business knowledge, mathematical, and programmatic skills to communicate your findings and methods. Explainability is an important tool used to make your reasoning behind each decision transparent and repeatable.\n\nIn this course, learn the importance of building an explainability workflow and how to implement these practices from the beginning. Then, using your new skills and tools, apply what you have learned by submitting your own project. Each submission for the hackathon will have a chance at cash prizes during the 6-week competition.\n-------------------------------------------------\n\nREGISTER HERE FOR THIS FREE COURSE & EVENT: ibm.biz/AIExplainability",
+    "endTime": "2020-05-01T11:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/269892963/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "269892963",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "IBM Masterclass & Hackathon: AI Explainability"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-masterclass-hackathon-ai-explainability-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/269892963/"
+}

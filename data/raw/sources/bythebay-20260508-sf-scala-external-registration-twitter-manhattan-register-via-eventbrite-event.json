@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-11-12T18:00:00-08:00",
+    "description": "Twitter presents Manhattan! The day we were all waiting for... Register at Eventbrite please:\n\nhttps://www.eventbrite.com/e/twittermanhattan-distributed-storage-at-twitter-tickets-19215758852",
+    "endTime": "2015-11-12T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/226709971/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "226709971",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[external registration] Twitter Manhattan [register via Eventbrite!]"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-external-registration-twitter-manhattan-register-via-eventbrite-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/226709971/"
+}

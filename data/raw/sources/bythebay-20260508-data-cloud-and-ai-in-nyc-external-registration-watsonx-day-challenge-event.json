@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-04-09T20:00:00-04:00",
+    "description": "We are excited to share this opportunity from our friends at IBM TechXchange. Join **[watsonx Day: Challenge](https://watsonxday-challenge.bemyapp.com/?utm_medium=Developer-Meetup&utm_source=Event&utm_content=TXCWW&utm_id=Developer-Meetup)** and:\n\n* Create apps to learn generative AI skills\n* Compete solo or collaborate with like-minded innovators\n* Win prizes and be featured on IBM social\n\n[Visit the challenge website](https://watsonxday-challenge.bemyapp.com/?utm_medium=Developer-Meetup&utm_source=Event&utm_content=TXCWW&utm_id=Developer-Meetup) to find more information and register for the challenge. Once registered, you’ll receive a confirmation email. Prior to the challenge start date, you’ll receive additional information via email regarding access to education, our participant Slack channel and a prep webinar which will get you prepared for the challenge.\n\n**Challenge tracks:**\n\n* Use prompt engineering to analyze customer experience and take corresponding actions\n* Build a generative AI powered virtual assistant\n* Automate repetitive manual tasks to improve productivity\\*\n\n**Key event information**\n\n* Top teams can win prizes including Apple AirPods Pro®, watsonx hoodies, and watsonx t-shirts!\n* Benefits to all participants:\n* Experience with innovation and real-world problem solving using generative AI\n* Free watsonx education and digital badging opportunities will be available prior to the challenge\n* During the challenge team up with peers on new ideas to innovate with watsonx\n\nFor details and to RSVP, [please check the watsonx Day: Challenge website.](https://watsonxday-challenge.bemyapp.com/?utm_medium=Developer-Meetup&utm_source=Event&utm_content=TXCWW&utm_id=Developer-Meetup)\n\n\\# \\# \\#\n\n**About the IBM Meetup Network**\nThe IBM Meetup Network is relaunching! Here’s how you can get involved:\n\n* To browse content from across our network and suggest topics, speakers, etc., [join our community and content hub over on TechXchange](https://community.ibm.com/community/user/communities/community-home?CommunityKey=ba1b857a-1c90-456f-95d0-018e3e65d91d)\n* To explore volunteering opportunities with your local organizing team, [join our community Slack](https://join.slack.com/t/ibm-meetup-network/shared_invite/zt-2f5cn1rms-JNFI~A3_Jk5t0yMnPrwWhw) (link valid through 4/16)\n* In case you missed our recent community office hours, [please check out the notes we took in our shared doc](https://docs.google.com/document/d/1JSkdciQzKNFGE2hOIy-BmPvUnZ_KjPzMLO9qiyeVLoQ/edit#heading=h.faz9pdyuy7kn).",
+    "endTime": "2024-04-10T23:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/300216124/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "300216124",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[EXTERNAL REGISTRATION] watsonx Day: Challenge"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-external-registration-watsonx-day-challenge-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/300216124/"
+}

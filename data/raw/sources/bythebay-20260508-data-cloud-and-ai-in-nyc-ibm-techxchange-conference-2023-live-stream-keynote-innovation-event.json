@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-09-12T16:15:00-04:00",
+    "description": "Are you ready to dive into the world of cutting-edge technology, such as generative AI? Join us at the upcoming **[IBM TechXchange Conference 2023 Keynote Sessions](http://ibm.biz/techxchange)**, a captivating series of **no-cost live streams** that will unravel the latest advancements in AI, automation, security, and cloud solutions.\n\n**Keynote Innovation: Are You Ready for the New Age of AI and Beyond?**\n\nUnderstanding where technology is going can give every enterprise technologist a leg up on the competition. Making the right bets means the difference between leading an industry and getting left behind. In this session, you will hear from Swaroop Kolluri, Founder and Director of venture capitalist firm Neotribe Ventures, on where the hi-tech investment community is making bets in a fireside chat with TechXchange host Jason Gartner. Followed by IBM Fellow, Ruchir Puri, Chief Scientist from IBM Research, who will introduce you to the IBM Technology Atlas. Drilling down on the AI roadmap in particular will help you guide the business decisions needed to bring a new era of performance and efficiency to your business.\n\n**Speakers**\n\n* Jason Gartner, GM, Technical Sales & Client Engineering, IBM\n* Ruchir Puri, IBM Fellow, Chief Scientist in IBM Research\n\n**How to Attend**\n\n* All you need to do is just go to the [IBM TechXchange Conference website](https://ibm.biz/BdMaFp) at the scheduled times to view the live keynote sessions!\n* The sessions will be live-streamed on the IBM TechXchange Conference website at [https://ibm.biz/BdMaFp](https://ibm.biz/BdMaFp). You can also watch the recordings after the event.",
+    "endTime": "2023-09-12T17:15:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/295945611/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "295945611",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "IBM TechXchange Conference 2023 Live Stream - Keynote Innovation"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-innovation-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/295945611/"
+}

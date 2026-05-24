@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-09-12T18:45:00-04:00",
+    "description": "Are you ready to dive into the world of cutting-edge technology, such as generative AI? Join us at the upcoming **[IBM TechXchange Conference 2023 Keynote Sessions](http://ibm.biz/techxchange)**, a captivating series of **no-cost live streams** that will unravel the latest advancements in AI, automation, security, and cloud solutions.\n\n**Keynote Automation: New automation technologies for the next generation of business and IT**\n\nFrom the printing press to the robotic assembly line, each advancement in automation has improved our quality of life and freed up employees to do higher value work. The current generation of automation leverages AI to perform activities that can’t be performed at human scale, such as helping customer service calculate in real time the probability of customer churn or recommending a way to optimize AWS resources for performance and cost. The new generation of AI-driven automation will empower business teams to better engage customers and employees, as well as to optimize cost across the entire hybrid cloud environment. Join Madhu Kochar, VP of Product Development, to learn how breakthrough automation technologies leverage conversational AI, Kafka event streams, and AI-driven optimization to meet these challenges and empower the next generation of business and IT.\n\n**Speaker**\n\n* Madhu Kochar, Vice President, Product Development, IBM Automation, IBM\n\n**How to Attend**\n\n* All you need to do is just go to the [IBM TechXchange Conference website](https://ibm.biz/BdMaFp) at the scheduled times to view the live keynote sessions!\n* The sessions will be live-streamed on the IBM TechXchange Conference website at [https://ibm.biz/BdMaFp](https://ibm.biz/BdMaFp). You can also watch the recordings after the event.",
+    "endTime": "2023-09-12T19:45:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/295945910/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "295945910",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "IBM TechXchange Conference 2023 Live Stream - Keynote Automation"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-automation-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/295945910/"
+}

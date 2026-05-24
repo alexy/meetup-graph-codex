@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-gabriel-claramunt-all-about-a-fold-event",
+  "source_id": "bythebay-20260508-scala-bay-gabriel-claramunt-all-about-a-fold-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-gabriel-claramunt-all-about-a-fold-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-gabriel-claramunt-all-about-a-fold-event.json",
+  "kind": "event",
+  "event_id": "244346649",
+  "event_title": "Gabriel Claramunt, All About a Fold",
+  "title": "Gabriel Claramunt, All About a Fold",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/244346649/",
+  "description": "Gabriel Claramunt, All About a Fold Abstract Folds are the bread and butter of functional programming, but what are they, really? What do they mean? Let's take a look how folds encode structural recursion. We'll move beyond folding over lists by generalizing to any data structure, and in the process, we'll unravel the secrets behind folding. video (https://www.youtube.com/watch?v=AAGBfOa2fnY&feature=youtu.be) Short Bio Gabriel was a happy enterprise developer until he found Scala, fell in love with FP, ruining his life. He has written software for a wide range of businesses, from small startups to Fortune 500 companies and Wall Street banks. After roaming around the Americas, he settled in his home country of Uruguay, where he founded Scalents, a Scala/FP consulting company Schedule • 6:30-7:00 - networking (pizza, beer) • 7:00-7:10 - announcements etc. • 7:10-8:00 - talk • 8:00-8:30 - more networking",
+  "date_time": "2017-11-01T18:30:00-07:00",
+  "end_time": "2017-11-01T21:30:00-07:00"
+}

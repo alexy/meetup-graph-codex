@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-03-13T17:30:00-07:00",
+    "description": "*This is a [Luma registration](https://lu.ma/s0eustoz) event. You need to have a valid Luma ticket matching your Photo ID to enter AWS GenAI Loft.*\n\n**Note: [AI By the Bay](https://ai.bythebay.io) 2025 CFP and Early Bird Registration are open!**\n\nIn town for the Deep Learning AI conference? Kick off your visit with an engaging AWS meetup at the San Francisco AWS Loft, open to all AI and machine learning enthusiasts. We'll dive into Amazon Nova Foundation Models, exploring their capabilities and real-world applications. Learn how to leverage these models with AWS services to build practical generative AI solutions. AWS Developer Advocates and Solution Architects will share technical insights and best practices, followed by an open forum for in-depth discussions.\n​Hear from Alexy Khrabrov, Co-Founder, AI Alliance about all the news from By the Bay, the OSS AI ecosystem and the many ways you can engage with the open-source community including the OSS AI Knowledge Stack, a new AI Agents meetup and AI By the Bay, the yearly conference of Bay Area AI meetups\\*\\*.\\*\\*\n​Whether you're a local or visiting for the conference, this is your chance to connect with peers, exchange ideas, and get a head start on the week's AI conversations. Join us for refreshments and appetizers in a relaxed setting, perfect for networking before the conference begins.\n​By attending, you'll gain: • Insights into Nova Models' multimodal capabilities and their integration with Amazon Bedrock features • Understanding of fine-tuning techniques to enhance your Gen AI applications • Knowledge about model distillation for improved cost and latency • Strategies for using RAG with Amazon Bedrock Knowledge Bases to ground answers in your data • Skills for integrating Amazon Nova models with your APIs for better automated orchestration\n​Additionally, explore beyond text with Amazon Nova Canvas and Amazon Nova Reel: • Learn about state-of-the-art image generation, including editing features and built-in safety controls • Discover video generation capabilities, including style and pacing control through natural language prompts\n​**Agenda**\n\n* ​​**5:30p**: Open mingling\n* ​​​**6:00p**: Welcome (Speakers: Dennis Traub, AWS, and Alexy Khrabrov, AI Alliance, Co-Founder)\n* ​​**6:45p**: Demos + live feedback + networking\n* ​**7:30p:** Doors close",
+    "endTime": "2025-03-13T19:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/306446191/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "306446191",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[luma registration required] Nova Networking Night"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-luma-registration-required-nova-networking-night-alexy-khrabrov",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/306446191/"
+}

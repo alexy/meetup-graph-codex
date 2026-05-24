@@ -1,0 +1,51 @@
+{
+  "event": {
+    "dateTime": "2021-03-06T10:00:00-08:00",
+    "description": "This event will be streamed on Twitch (please log into twitch before the event starts). Once you RSVP you will see the link to twitch to join!\n\nFor the hallway track and to ask the speakers question you can use the chat on Twitch or join our discord community at https://www.sfbayareatechies.com/ - Once you have joined please go to the #live-techtalk channel.\n\nAny questions about the event please ask in our channel on discord above. Thank you.\n\nTALK 1: How to survive algorithms in Scala By William Narmontas\n\nA mention of an algorithm tends to conjure up images like 'i++' and 'a[x] = a[x-1] + a[x-2]' which come from the classic trinity of Python, C and Java. In 2020, Scala's immense growth has risen the bar from simply writing Java in Scala syntax, to thinking in immutable style.\nIn this talk, you will learn about my journey with algorithms in Scala and the educational website \"Scala Algorithms\".\n\nAbout our speaker: William Narmontas (https://twitter.com/ScalaAlgorithms)\n\nWilliam has been consulting in Scala for 7½ years, all the way from low level performance optimization to software architecture; his focus has mostly been in finance where expressiveness of code plays a significant part.\n\nTALK2: A Metals Retrospective By Chris Kipp\n\nIn 2020 there was almost 700 merged PRs to Metals! We saw 13 releases that brought all sorts of new features, plenty of bugfixes, and new exciting integrations. At the end of the year the Metals team gathered feedback from users which gave us some great insight into questions users have, features that are desired, and even what the breakdown looks like for various build tools, editors, and build servers. In this talk I hope to address all of these by giving an overview of the newest features and large changes that happened this past year, giving a preview of what is likely to come this year, and also spend some time addressing common misconceptions that users may have about Metals and\nthe Metals ecosystem.\n\nAbout our speaker: Chris Kipp (https://twitter.com/ckipp01)\n\nChris Kipp is a Software Engineer at Lunatech. He's an avid fan of Neovim, simple tech, and enjoys working on tooling. He's one of the current maintainers of Metals, the Scala language server.\n\nAgenda (Pacific Time)\n\n10.00am Welcome to SFScala by Salar Rahmanian\n10.15am How to survive algorithms in Scala by William Narmontas\n11.00am A Metals Retrospective by Chris Kipp\n11.45am Wrap up and continue conversations on Discord",
+    "endTime": "2021-03-06T12:00:00-08:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/276260651/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "276260651",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "TWO TALKS: How to survive algorithms in Scala & A Metals Retrospective"
+  },
+  "event_id": "276260651",
+  "event_title": "TWO TALKS: How to survive algorithms in Scala & A Metals Retrospective",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "This event will be streamed on Twitch (please log into twitch before the event starts). Once you RSVP you will see the link to twitch to join! For the hallway track and to ask the speakers question you can use the chat on Twitch or join our discord community at https://www.sfbayareatechies.com/ - Once you have joined please go to the #live-techtalk channel. Any questions about the event please ask in our channel on discord above. Thank you. TALK 1: How to survive algorithms in Scala By William Narmontas A mention of an algorithm tends to conjure up images like 'i++' and 'a[x] = a[x-1] + a[x-2]' which come from the classic trinity of Python, C and Java. In 2020, Scala's immense growth has risen the bar from simply writing Java in Scala syntax, to thinking in immutable style. In this talk, you will learn about my journey with algorithms in Scala and the educational website \"Scala Algorithms\". About our speaker: William Narmontas (https://twitter.com/ScalaAlgorithms) William has been consulting in Scala for 7½ years, all the way from low level performance optimization to software architecture; his focus has mostly been in finance where expressiveness of code plays a significant part. TALK2: A Metals Retrospective By Chris Kipp In 2020 there was almost 700 merged PRs to Metals! We saw 13 releases that brought all sorts of new features, plenty of bugfixes, and new exciting integrations. At the end of the year the Metals team gathered feedback from users which gave us some great insight into questions users have, features that are desired, and even what the breakdown looks like for various build tools, editors, and build servers. In this talk I hope to address all of these by giving an overview of the newest features and large changes that happened this past year, giving a preview of what is likely to come this year, and also spend some time addressing common misconceptions that users may have about Metals and the Metals ecosystem. About our speaker: Chris Kipp (https://twitter.com/ckipp01) Chris Kipp is a Software Engineer at Lunatech. He's an avid fan of Neovim, simple tech, and enjoys working on tooling. He's one of the current maintainers of Metals, the Scala language server. Agenda (Pacific Time) 10.00am Welcome to SFScala by Salar Rahmanian 10.15am How to survive algorithms in Scala by William Narmontas 11.00am A Metals Retrospective by Chris Kipp 11.45am Wrap up and continue conversations on Discord",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-2.json",
+    "source_id": "bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-2",
+    "speakers": [
+      {
+        "company": "Lunatech",
+        "name": "Chris Kipp"
+      },
+      {
+        "company": null,
+        "name": "Chris Kipp In"
+      },
+      {
+        "company": null,
+        "name": "Salar Rahmanian"
+      },
+      {
+        "company": null,
+        "name": "William Narmontas"
+      }
+    ],
+    "title": "TWO TALKS: How to survive algorithms in Scala & A Metals Retrospective"
+  },
+  "source_id": "bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/276260651/"
+}

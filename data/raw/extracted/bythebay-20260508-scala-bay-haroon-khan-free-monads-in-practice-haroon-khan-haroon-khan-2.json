@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-haroon-khan-free-monads-in-practice-haroon-khan-haroon-khan-2",
+  "source_id": "bythebay-20260508-scala-bay-haroon-khan-free-monads-in-practice-haroon-khan-haroon-khan-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-haroon-khan-free-monads-in-practice-haroon-khan-haroon-khan-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-haroon-khan-free-monads-in-practice-haroon-khan-haroon-khan-2.json",
+  "kind": "talk",
+  "event_id": "228543862",
+  "event_title": "Haroon Khan, Free Monads in Practice",
+  "title": "Haroon Khan, Free Monads in Practice",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": "Haroon Khan Haroon Khan",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/228543862/",
+  "description": "Title: Haroon Khan, Free Monads in Practice Description: Practical programs often consist of assembling larger monads from a set of primitive monads. One technique is by using monad transformers. The effects of each monad is a layered effect. Since monads do not compose, monads are layered using monad transformers. This leads to static, inflexible and hard to understand designs. Using Free Monads are an alternative to the Monad Transformer design pattern. A programmer using free monads will separate the description and effects of a computation. By combining the effects of different computations, the same result can be achieved. In this talk, Haroon will present a simple program to demonstrate the use of free monads and talk about his experience in applying them in practice. Speaker. Haroon Khan Haroon Khan is a software developer at HealthExpense where he works on designing and implementation of various services and applications that drive the HealthExpense platform. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:50 - talks • 8:50-9:00 - networking",
+  "date_time": "2016-02-08T19:00:00-08:00",
+  "end_time": "2016-02-08T22:00:00-08:00"
+}

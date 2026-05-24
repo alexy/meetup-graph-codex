@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-11-06T19:00:00-08:00",
+    "description": "Heather: In this talk, I'll present my ongoing research on a new programming model for asynchronous and distributed programming. For now, we call it \"function-passing\" or \"function-passing style\", and it can be thought of as an inversion of the actor model – keep your data stationary, send and apply your functionality (functions/spores) to that stationary data, and get typed communication all for free, all in a friendly collections/futures-like package! I'll also cover how I spent some of my time at Databricks – porting Scala Pickling to Spark, and will give a status update on new features we've added and battle-hardening we've done to Pickling to make this happen.",
+    "endTime": "2014-11-06T22:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/215252782/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "215252782",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Function-Passing Style, A New Model for Asynchronous and Distributed Programming"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-function-passing-style-a-new-model-for-asynchronous-and-distributed-programming-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/215252782/"
+}

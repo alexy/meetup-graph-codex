@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-02-24T18:30:00-08:00",
+    "description": "Let's go Oaklandish! And we present you the top East Bay talent: Bill Venners on Scalactic and Chris Richardson on Microservices!\n\nBill Venners\n\nComparing functional error handling in Scalaz and Scalactic\n\nIn this talk I'll compare and contrast the approaches to functional error handling taken by Scalaz and Scalactic. I'll look at how different opinions on typeclass coherence led to two classes in Scalaz, \\/ and Validation, and just one in Scalactic, Or. I'll explain why when it comes to success values, I feel left is right and right is wrong, whereas the Scalazzi think the opposite. I'll show how the libraries use algebraic structures differently. And I'll explore how different opinions on how best to leverage functional programming (FP) in Scala led to different library designs.\n\nChris Richardson\n\nDeveloping functional domain models with event sourcing\n\nEvent sourcing persists each entity as a sequence of state changing event. An entity’s current state is derived by replaying the events. Event sourcing is a great way to implement event-driven micro services. When one service updates an entity, the new events are consumed by other services, which then update their own state.\n\nIn this talk we describe how to implement business logic using event sourcing. You will learn how to write functional, immutable domain models in Scala. We will compare and contrast a hybrid OO/FP design with a purely functional approach.\n\nThis is a joint meetup with the East Bay JUG (http://www.meetup.com/eastbayjug/).\n\nSungevity is in Jack London Square, so the absolute best way to get there from SF is by boat. Embark on the 5:20 or 5:40 Oakland/Alameda ferry at the Ferry Building (the rightmost pier if you face the building from Market, be there 10 min before), and arrive at the meetup half hour later! Beer and cocktails served on board, ample space for bikes -- the meetup pre-party starts on the outer deck.",
+    "endTime": "2015-02-24T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/220150547/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "220150547",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala at Sungevity: SF Scala goes to Oakland!"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-scala-at-sungevity-sf-scala-goes-to-oakland-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/220150547/"
+}

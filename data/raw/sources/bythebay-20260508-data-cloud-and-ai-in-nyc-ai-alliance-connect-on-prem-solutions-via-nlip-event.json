@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-10-23T12:00:00-04:00",
+    "description": "This use case showcases how Natural Language Interaction Protocol (NLIP) could facilitate the integration of on-premises resources such as Active Directory with cloud providers such as ServiceNow. Special attention is paid to moderation of communications for signs of jailbreaking, etc. to combat some regular problems.\n\n**About the presenter**\n\n**Will Witten** is a pragmatic builder and customer educator focused on AI that actually ships and sticks. He specializes in translating plain-English requests into production-grade workflows, stress-testing designs to expose brittle spots before they reach users. A strong advocate for the **Natural Language Interaction Protocol (NLIP)**, he treats it as a practical bridge—standardizing how systems converse while leaving room for each side’s constraints so results don’t break on contact with reality. Today he will share about his experience working with Natural Language Interaction Protocol, the latest standard for dependable natural language interactions, including a real-world example to demonstrate how this standard can benefit you. (edited)\n\n**About the AI Alliance**\nThe [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.\n\n**Join the community**\nSign up for the [AI Alliance newsletter](https://thealliance.ai/community) (check the website footer) and join our new [AI Alliance Discord](https://discord.gg/YtsWdke6E9).",
+    "endTime": "2025-10-23T13:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/311567702/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "311567702",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] Connect On-prem Solutions via NLIP"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-connect-on-prem-solutions-via-nlip-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/311567702/"
+}

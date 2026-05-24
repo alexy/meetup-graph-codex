@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-implicits-and-type-classes-event",
+  "source_id": "bythebay-20260508-scala-bay-implicits-and-type-classes-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-implicits-and-type-classes-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-implicits-and-type-classes-event.json",
+  "kind": "event",
+  "event_id": "121849802",
+  "event_title": "Implicits and Type Classes",
+  "title": "Implicits and Type Classes",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/121849802/",
+  "description": "Implicits: With Great Power Comes Great Responsibility - Adelbert Chang Implicits are a powerful feature of Scala, and this power must be wielded carefully. The talk with cover an introduction to implicits, \"pimp my library\", view bounds, and context bounds, touching lightly on typeclasses and finally handing off to Vlad to give a more detailed overview of the powerful typeclass pattern. No prior knowledge of implicits is required, but some familiarity with Scala may be needed to understand code samples in the slides. Type Classes Demystified - Vlad Patryshev Type classes, even when being actively used in the code, are surrounded with a shroud of mystery. One idea is that this is a notion of Haskell, to support ad-hoc polymorphism; and in Scala it happen to have an even more powerful implementation. The talk will demonstrate how they are implemented in Scala, and discuss the nature of type classes. Parking For security reasons, do NOT attempt to park in the Box garage. Parking options include the streets around 4410 El Camino Real (the building next to Box) or on Del Medio (residential street near car wash, no time limit). Schedule: 6:00-6:30 - networking 6:30-6:40 - announcements etc 6:40-7:25 - Adelbert talk 7:25-8:10 - Vlad talk 8:10-8:30 - networking",
+  "date_time": "2013-07-22T18:30:00-07:00",
+  "end_time": "2013-07-22T21:30:00-07:00"
+}

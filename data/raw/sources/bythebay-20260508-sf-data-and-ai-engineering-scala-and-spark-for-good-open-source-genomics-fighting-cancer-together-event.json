@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-07-23T18:30:00-07:00",
+    "description": "We need to let other bioinformatics startups know about the common OSS effort on documenting and coding genomics -- please spread the word with the bitlink\n\nhttp://bit.ly/open-genomics\n\nIf you're interested in helping, please sign up at\n\nhttp://bit.ly/join-open-genomics\n\nCommunity resources will be aggregated at\n\nhttp://opengenomics.io\n\nOpen Source communities come together because they want to improve the world. In Scala community, we have a tremendous potential to improve not only the way software industry works, but also save human lives -- literally. Scala and Spark are increasingly becoming the choices of data mining for genomics.\n\nThere are several startups in SF Scala (http://sfscala.org), SF Text (http://sftext.org), and SF Spark and Friends (http://sfspark.org) meetups using Scala and Spark for genomics. Furthermore, AMPLab (https://amplab.cs.berkeley.edu/), the UC Berkeley labs where Spark was born, has a group devoted to solving genomics problems with Scala and Spark -- defining the data formats and creating algorithms for common genomics tasks. At Text By the Bay (http://text.bythebay.io) we created a working group for Open Genomics with Scala and Spark, spanning two universities and three startups. Two of the participants are presenting at this meetup. We encourage everyone who wants to help defeat cancer and other ilnesses with Scala and Spark to join forces and collaborate on it.\n\n(1) Scalable Genome Analysis With ADAM\n\nThanks to substantial improvements in the cost and throughput of DNA sequencing machines, genomic data may soon make personalized medicine a reality. However, significant processing is needed to turn raw DNA strings captured by sequencers into clinically useful data, and modern DNA processing software can take up to a week to run. In this talk, we'll look at how we reconstruct genomes from the raw sequence data, and we introduce ADAM, an Apache Spark-based API for accelerating genome processing pipelines.\n\nFrank Austin Nothaft is a MS/PhD student in Computer Science at UC Berkeley. Frank's research focuses on optimizing commodity distributed systems for scientific applications, and then using these systems to explore biological phenomena. Frank works with Professor David Patterson in the AMPLab and the ASPIRE lab, and is supported by the NSF Graduate Research Fellowship. Frank has also been an IC Design engineer at Broadcom Corporation since 2011, focusing on mixed-signal design automation. Frank completed his Bachelors of Science with Honors in Electrical Engineering at Stanford University, and was advised by Professor William J. Dally.\n\n(2) A High Level Overview of Genomics in Personalized Medicine\n\nNearly twenty years ago president Clinton announced the completion of one of the largest public/private collaborative efforts in history, the first draft of the human genome. This work promised to bring forth a new era of totally personalized medicine, where the unique blueprint for your body is used to determine the most effective treatment options for you as an individual. Finally this promise is starting to be realized in the field of oncology, among others. I will give a high level overview of medical genomics with an emphasis on my area of expertise, using it to guide decision making in oncology.\n\nJohn St. John is the Director of Bioinformatics at Driver Group, a new startup in the cancer genomics and therapeutics space. Driver Group is currently delivering cutting edge personalized drug recommendations to cancer patients, and identifying opportunities to bring new kinds of drugs to cancer patients when we discover a need.",
+    "endTime": "2015-07-23T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/223116130/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "223116130",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala and Spark for Good: Open-Source Genomics & Fighting Cancer Together"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-scala-and-spark-for-good-open-source-genomics-fighting-cancer-together-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/223116130/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-david-alber-ibm-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-david-alber-ibm-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-david-alber-ibm-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-david-alber-ibm-2.json",
+  "kind": "talk",
+  "event_id": "297915685",
+  "event_title": "Quantum Series Part 2: Getting Started with Quantum Computing Hands-on",
+  "title": "Quantum Series Part 2: Getting Started with Quantum Computing Hands-on",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "David Alber @ IBM, David Alber David Alber",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/297915685/",
+  "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.** In this hands-on workshop, you will learn the fundamentals of programming a quantum computer. We will use the IBM Quantum platform to create quantum circuits both visually using the Circuit Composer and with Python code using the open source Qiskit framework. You will have the opportunity to run your circuits using quantum simulators and on real quantum computers in the IBM Cloud. Attendees should sign-up for a free account on the IBM Quantum platform beforehand at https://quantum-computing.ibm.com to best experience this hands-on session. Note that this is part 2 of an 11-session Quantum Series running from January to June. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions. **Presenter:** **David Alber** David Alber is a Data Scientist at IBM, an IBM Quantum Ambassador, and a Qiskit Advocate, with a passion for quantum computing. He completed his Master's degree in Computational Physics at Stockholm University, where he gained a solid foundation in both physics and computing. After graduation, he became a Data Scientist at IBM - Vienna. As an IBM Quantum Ambassador, he consults business clients as well as academic institutions about the potential of Quantum Computing. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r7ec1e29220223dcad3e1faf214ea674b](https://ibm.webex.com/weblink/register/r7ec1e29220223dcad3e1faf214ea674b)**",
+  "date_time": "2024-02-14T08:00:00-05:00",
+  "end_time": "2024-02-14T09:30:00-05:00"
+}

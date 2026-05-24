@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2011-03-09T18:00:00-08:00",
+    "description": "I'm pleased to announce that the third SF Hadoop meetup will be held Wednesday, March 9th, from 6pm to 8pm. (We will hopefully continue using the 2nd Wednesday of the month for successive meetups).\n\nThis meetup will be hosted by the good folks at Yelp. Their office is at 706 Mission St, San Francisco (3rd and Mission). We have ample space available for a large gathering of Hadoop enthusiasts.\n\nAs per our emerging tradition, we will continue to use the discussion-based \"unconference\" format. At the beginning of the meetup we will collaboratively construct an agenda consisting of several discussion breakout groups. All participants may propose a topic and volunteer to facilitate a discussion. While all Hadoop-related subjects are on topic, I'd like to seed this month's discussion with the theme of \"integration.\"\n\nAll members of the Hadoop community are welcome to attend.\n\nYelp has asked that all attendees RSVP in advance, to comply with their security policy. RSVP for this meetup will be closed the day before the event. ID will be checked at the door; please bring one.\n\nEvent schedule:\n\n6pm - Welcome 6:30pm - Introductions; start creating agenda Breakout sessions begin as soon as we're ready 8pm - Conclusion",
+    "endTime": "2011-03-09T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/16678757/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "16678757",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "March 2011 San Francisco Hadoop User Meetup (\"integration\")"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-march-2011-san-francisco-hadoop-user-meetup-integration-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/16678757/"
+}

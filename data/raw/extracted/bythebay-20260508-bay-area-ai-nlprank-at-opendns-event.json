@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-nlprank-at-opendns-event",
+  "source_id": "bythebay-20260508-bay-area-ai-nlprank-at-opendns-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-nlprank-at-opendns-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-nlprank-at-opendns-event.json",
+  "kind": "talk",
+  "event_id": "222736503",
+  "event_title": "NLPRank at OpenDNS",
+  "title": "NLPRank at OpenDNS",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/222736503/",
+  "description": "We're running a joint meetup with OpenLate, an OpenDNS night! (http://www.meetup.com/OpenLate/events/219866467/) Jeremiah O'Connnor, a researcher at OpenDNS, is presenting about \"The Language of Evil: Hunting Malicious Domains with Natural Language Processing in Network Traffic.\" Domain squatting on legitimate brand names such as Google, Adobe, Java, and Paypal is a common tactic used by a wide array of adversaries, from mass phishing campaigns to spamming to C2 domains in APT attacks. In this talk, we present NLP-Rank, a generic detection model we have developed at OpenDNS Labs that utilizes NLP/Text processing techniques to identify malicious behavior in network traffic. Learn more about NLPRank on the OpenDNS research blog: https://labs.opendns.com/2015/03/05/nlp-apt-dns/",
+  "date_time": "2015-06-02T18:30:00-07:00",
+  "end_time": "2015-06-02T21:30:00-07:00"
+}

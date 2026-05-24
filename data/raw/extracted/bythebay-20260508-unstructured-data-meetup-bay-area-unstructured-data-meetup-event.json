@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-event",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-event.json",
+  "kind": "event",
+  "event_id": "293939805",
+  "event_title": "Unstructured Data Meetup",
+  "title": "Unstructured Data Meetup",
+  "conference_id": "meetup:36468260",
+  "meetup_id": "meetup:36468260",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/unstructured-data-sf/events/293939805/",
+  "description": "**Topic:** Connecting your unstructured data with LLMs We are meeting for our first happy hour/discussion group about Unstructured Data and its future in machine learning and LLM apps! **What we’ll do:** Have some snacks and refreshments. Have a couple of lightning talks (\\~10-15 minutes) and then unstructured networking. 6:00-6:30 - Arrive and open networking 6:30-6:45 - Document Relevance and LLMs - [Filip Haltmayer](https://www.linkedin.com/in/filiphaltmayer/) 6:45-7:00 - Quivr: Talk to Your GenAI Second Brain - [Shaun Wei](https://twitter.com/agishaun) 7:00-7:15 - OpenLLM: Serving LLMs for production - [Chaoyu Yang](https://www.linkedin.com/in/parano/) 7:15-8:00 - Networking **Who Should attend:** Anyone interested in talking and learning about Unstructured Data and LLM Apps. **When:** June 15th, 2023 6:00PM Sponsored by [Zilliz](zilliz.com)",
+  "date_time": "2023-06-15T18:00:00-07:00",
+  "end_time": "2023-06-15T20:00:00-07:00"
+}

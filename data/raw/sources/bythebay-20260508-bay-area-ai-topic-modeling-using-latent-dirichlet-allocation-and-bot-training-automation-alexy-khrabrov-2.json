@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2017-09-19T18:00:00-07:00",
+    "description": "Productization of algorithms such as LDA with Fast Data is thoroughly covered at Scale By the Bay, http://scale.bythebay.io .\n\nThis is a joint meetup with the SF Big Data Science -- we need a venue!\n\nThere are two talks, LDA by Square and Bots by Bitext.\n\nAgenda:\n6:00 - 6:30 PM - Doors open & pizza\n\n6:30 - 6:35 PM - Welcome by Alexy Khrabrov, By the Bay, and Saurabh Kumar, H2O.ai\n\n6:30 - 7:15 PM - Alyssa Wisdom’s talk (Product Analyst, Square)\n\n7:15-8:15 -- Antonio Valderrabanos, Bitext\n\n8:15 - 9:00 PM - Q&A - Networking\n\n(1) Topic Modeling with LDA\nAlyssa Wisdom, Square\n\nMany companies use free-text fields for data collection in order to gain insight into user behavior. Though it can be a rich source of information, oftentimes parsing through free-text data can be a manual, time-consuming process. That’s where machine learning comes in. Latent Dirichlet Allocation (LDA) is a statistical topic model that generates topics based on word frequency from a set of documents. This unsupervised learning algorithm is particularly useful for finding reasonably accurate mixtures of topics within a given document set. In this talk you’ll learn about how LDA works, as well as practical applications of LDA to solve business problems related to churn.\n\nAlyssa Wisdom is an experienced Product Analyst at Square. In her current role, Alyssa is responsible for using data science to drive actionable insights into customer behavior and operational efficiency, support decision-making and strategy, and enable others to self-serve data needs. Previously Alyssa worked in growth analytics at OrderAhead, working at the intersection of growth hacking and data analysis to build scalable and repeatable methods for growth and retention. Alyssa holds a B.A. and M.A. in Psychology from Stanford University.\n\n(2) Bot Training: How to Achieve Full Automation\nAntonio Valderrabanos, Bitext\n\nEverything looks promising in the world of bots: big players are pushing platforms to build them (Google, Amazon, Facebook, Microsoft, IBM, Apple), large retail companies are adopting them (Starbucks, Domino’s, British Airways), press is excited about movies becoming reality; and we users are eager to use. However, one dark hole remains in this scenario. Creating a bot relies on manual work, is time consuming and error prone.\n\nIn the talk, we’ll see, in practice, how to fully automate the bot training process, still keeping the user in control. We will discuss two approaches:\n\na) staring with a user-defined intent, generating all utterances that instantiate it, running intent detection and tagging for those utterances and, finally, feeding the bot with this training material\n\nb) using one single master utterance as reference and detecting all other utterances that express the same meaning, then rewriting all user queries with the same meaning\n\nAs a practical example, we’ll train a chatbot with Google-API.ai for approach b) and another one with Microsoft-LUIS for a)\n\nAntonio Valderrabanos: I have a long experience on how to use Deep Linguistic Analysis to solve business problems in the area of text analysis. My current focus is on how to exploit linguistic knowledge to improve machine learning and AI engines, to make them smarter and easier to train. Chatbots are an excellent example of this trend, where deeper linguistic knowledge is the middleware needed to create the next generation of conversational interfaces.\n\nI started in R&D labs with IBM and Novell. Then I founded Bitext. Bitext is a startup specialized in developing the most accurate multilingual text analysis engines in the market. Bitext works for the largest software and hardware companies in the world. Bitext likes challenges around text analysis and how linguistic middleware can help in business scenarios.",
+    "endTime": "2017-09-19T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/242935944/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "242935944",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Topic Modeling Using Latent Dirichlet Allocation; and Bot Training & Automation"
+  },
+  "event_id": "242935944",
+  "event_title": "Topic Modeling Using Latent Dirichlet Allocation; and Bot Training & Automation",
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "session": {
+    "description": "Productization of algorithms such as LDA with Fast Data is thoroughly covered at Scale By the Bay, http://scale.bythebay.io . This is a joint meetup with the SF Big Data Science -- we need a venue! There are two talks, LDA by Square and Bots by Bitext.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov-2.json",
+    "source_id": "bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Alexy Khrabrov"
+      },
+      {
+        "company": null,
+        "name": "Saurabh Kumar"
+      }
+    ],
+    "title": "Topic Modeling Using Latent Dirichlet Allocation; and Bot Training & Automation"
+  },
+  "source_id": "bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov-2",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/242935944/"
+}

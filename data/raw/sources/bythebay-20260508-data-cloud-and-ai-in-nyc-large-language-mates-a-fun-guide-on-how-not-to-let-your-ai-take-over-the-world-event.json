@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-01-09T16:00:00-05:00",
+    "description": "Fast forward 20 years from now. You're sitting on your couch telling your grandkids about the AI boom. Little Bobby's like, *\"So, Grandma/Grandpa, what did you do with it?\"*\n\nYour brain flashes back like you're in Ratatouille. You get a little nervous. ***\"What did I do?\"***\n\nWell, you don't need to freak out because I'm going to help you smash it! All you have to do is come along to the LLM series. That's Large Language Mates...not to be confused with the other LLM (that's a tad bit popular these days). Join us for the very first episode in our new Large Language Mates series, hosted by IBM's Chief AI Engineer, Nicholas Renotte.\n\n**Sounds interesting...why should I come?**\nThis episode is going to take the humble LLM a little further. You'll...\n\n* Learn how to manage LLM powered apps at scale\n* See how to evaluate the performance of Generative AI solutions\n* Find out about what watsonx is doing in the space of AI and Governance!\n\n**Right...but I'm not sure if it's for me?**\nI cannot stand when cool tech is gatekept, so i'm breaking it down so anyone can understand. This is for you if:\n\n* You're a Tech enthusiast (where my coders at!)\n* You're an AI pro\n* You've ever asked Siri or Alexa for life advice\n\n**Plus there's a ton of Extras:**\n\n* Interactive Q&A: Ask your burning AI questions or just find out the best pizza toppings according to AI\n* Exclusive Access to our AI Governance Toolkit: It's like a Swiss Army knife, but for AI management\n* Live Dad Jokes: from me!\n\n**[Reserve Your Spot Now](https://ibm.webcasts.com/starthere.jsp?ei=1646400&tp_key=55a8b3c3cf&sti=meetup): Don’t let the Q Star beat you to it!**",
+    "endTime": "2024-01-09T17:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/297832399/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "297832399",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Large Language Mates: A fun guide on how NOT to let your AI take over the world"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-large-language-mates-a-fun-guide-on-how-not-to-let-your-ai-take-over-the-world-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/297832399/"
+}

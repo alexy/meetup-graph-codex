@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-matexpert-a-generative-ai-agent-for-inorganic-materials-mimicking-human-experts",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-matexpert-a-generative-ai-agent-for-inorganic-materials-mimicking-human-experts",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-matexpert-a-generative-ai-agent-for-inorganic-materials-mimicking-human-experts.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-matexpert-a-generative-ai-agent-for-inorganic-materials-mimicking-human-experts.json",
+  "kind": "talk",
+  "event_id": "307656574",
+  "event_title": "[AI Alliance Materials] MatExpert, a generative AI agent for inorganic materials",
+  "title": "MatExpert, a generative AI agent for inorganic materials",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Mimicking Human Experts",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/307656574/",
+  "description": "**External registration** https://44725920.hs-sites.com/ai-alliance-material-chemistry-webinar-51-0 ——— **MatExpert: Decomposing Materials Discovery by Mimicking Human Experts** For accelerated inorganic materials design, a framework capable of AI-driven exploration of the vast materials spaces across the periodic table is required. In this talk, I will introduce MatAgent, a generative AI agent for inorganic materials design mimicking the reasoning process of human experts. It combines tool-assisted LLM-driven reasoning for material composition proposals with a generative model for crystal structure estimation and a predictive model for material property prediction, enabling feedback-driven targeted materials generation in an interpretable manner. **Speaker** Qianggang Ding, currently completing my Ph.D. in Computer Science at the University of Montreal and Mila, with a focus on topics of AI for Science. **Research publication** [https://arxiv.org/abs/2410.21317](https://arxiv.org/abs/2410.21317) **About the AI Alliance** The [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+  "date_time": "2025-05-08T10:00:00-04:00",
+  "end_time": "2025-05-08T11:00:00-04:00"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Karthik Ramasamy",
+  "role": "Databricks, Head of Streaming",
+  "talk_title": "Latency goes sub-second in Apache Spark Structured Streaming",
+  "talk_url": "https://www.scale.bythebay.io/post/karthik-ramasamy-latency-goes-sub-second-in-apache-spark-structured-streaming",
+  "source_id": "bythebay-20260508-latency-goes-sub-second-in-apache-spark-structured-streaming-karthik-ramasamy-databricks",
+  "source_file": "data/raw/sources/bythebay-20260508-latency-goes-sub-second-in-apache-spark-structured-streaming-karthik-ramasamy-databricks.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-latency-goes-sub-second-in-apache-spark-structured-streaming-karthik-ramasamy-databricks.json"
+}

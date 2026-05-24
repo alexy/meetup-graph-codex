@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-09-06T18:30:00-07:00",
+    "description": "We need a venue for this meetup, fitting 100+ people with pizza and beer and no NDAs, letting us mingle late.\n\nSpark and data flows around it is a key topic of Scalæ By the Bay 2016, held at Twitter in November. (http://scala.bythebay.io)\n\nCloud services today need to perform fast, interactive queries on large data volumes. Several recent studies have shown that data is growing faster than memory capacity, making in-memory query execution increasingly challenging. At UC Berkeley, we have built Succinct, a distributed data store that overcomes this problem by enabling a wide range of interactive queries (e.g., search, random access, range queries, and even regular expressions) directly on compressed data.\n\nBesides its ability to execute queries on compressed data, Succinct differs from existing data stores along several dimensions. First, Succinct unifies several powerful data models (key-value stores, document stores, tables, etc.) using a single interface. Second, Succinct enables applications to choose a desired compression factor, allowing applications to use larger memory for improved performance. Finally, Succinct allows applications to change the compression factor on the fly, enabling new approaches to handling skewed query distributions, time-varying loads, and failure tolerance.\n\nIn this talk, I will describe Succinct's design, implementation and semantics. Succinct is completely open-sourced, and we have also released Succinct as a library that simplifies integration of Succinct data structures and techniques with existing data stores.\n\nAnurag Khandelwal is a Ph.D. Candidate at AMPLab, UC Berkeley.",
+    "endTime": "2016-09-06T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/233172746/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "233172746",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Succinct: Enabling Queries on Compressed Data"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-succinct-enabling-queries-on-compressed-data-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/233172746/"
+}

@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2020-07-09T17:30:00-07:00",
+    "description": "-------How to Join our online/Virtual event ------\n- Before the meetup visit https://www.sfbayareatech.xyz/ and enter your details to join our slack community. Once you submit your email address and name you will receive an invite to join so check your email.\n- Once you have joined our slack community please join the #sfscala channel\n- RSVP to this event here on Meetup\n- Location part of this event page will have a link to Zoom to join the event. We will update this page with the link closer to the event. You will only be able to see the link if you have RSVP to this event.\n- Any questions please contact me (Salar Rahmanian) via our slack community or meetup.\n------PLEASE FOLLOW ABOVE Instructions before event---------\n\nGetting Things Done in the Scala REPL by Li Haoyi\n\nThe Scala REPL lets you interactively run Scala code snippets and see the results. This talk will explore how far you can stretch the Scala REPL, performing difficult tasks that you may normally associate with larger efforts. Through these exercises, we will see how much useful work you accomplish with a tiny amount of Scala code.\n\nAbout our Speaker\n\nLi Haoyi graduated from MIT with a degree in Computer Science and Engineering, and since then has been a major contributor to the Scala community. He is the author of the book Hands-on Scala Programming, built open source tools like the the Ammonite REPL or Mill build tool, and was early contributor to Scala.js. Haoyi has used Scala professionally to build distributed backend systems, programming languages, high-performance web applications, and much more.\n\nAgenda\n\n5.30pm Welcome to SFScala by Alexy Khrabrov & Salar Rahmanian\n5.45pm Getting Things Done in the Scala REPL by Li Haoyi\n7.00pm Wrap up and continue conversations on Slack",
+    "endTime": "2020-07-09T19:30:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/271284915/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "271284915",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Getting Things Done in the Scala REPL by Li Haoyi"
+  },
+  "event_id": "271284915",
+  "event_title": "Getting Things Done in the Scala REPL by Li Haoyi",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "-------How to Join our online/Virtual event ------ - Before the meetup visit https://www.sfbayareatech.xyz/ and enter your details to join our slack community. Once you submit your email address and name you will receive an invite to join so check your email. - Once you have joined our slack community please join the #sfscala channel - RSVP to this event here on Meetup - Location part of this event page will have a link to Zoom to join the event. We will update this page with the link closer to the event. You will only be able to see the link if you have RSVP to this event. - Any questions please contact me (Salar Rahmanian) via our slack community or meetup. ------PLEASE FOLLOW ABOVE Instructions before event--------- Getting Things Done in the Scala REPL by Li Haoyi The Scala REPL lets you interactively run Scala code snippets and see the results. This talk will explore how far you can stretch the Scala REPL, performing difficult tasks that you may normally associate with larger efforts. Through these exercises, we will see how much useful work you accomplish with a tiny amount of Scala code. About our Speaker Li Haoyi graduated from MIT with a degree in Computer Science and Engineering, and since then has been a major contributor to the Scala community. He is the author of the book Hands-on Scala Programming, built open source tools like the the Ammonite REPL or Mill build tool, and was early contributor to Scala.js. Haoyi has used Scala professionally to build distributed backend systems, programming languages, high-performance web applications, and much more. Agenda 5.30pm Welcome to SFScala by Alexy Khrabrov & Salar Rahmanian 5.45pm Getting Things Done in the Scala REPL by Li Haoyi 7.00pm Wrap up and continue conversations on Slack",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-getting-things-done-in-the-scala-repl-by-li-haoyi-alexy-khrabrov-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-getting-things-done-in-the-scala-repl-by-li-haoyi-alexy-khrabrov-2.json",
+    "source_id": "bythebay-20260508-sf-scala-getting-things-done-in-the-scala-repl-by-li-haoyi-alexy-khrabrov-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Alexy Khrabrov"
+      },
+      {
+        "company": null,
+        "name": "Li Haoyi"
+      }
+    ],
+    "title": "Getting Things Done in the Scala REPL by Li Haoyi"
+  },
+  "source_id": "bythebay-20260508-sf-scala-getting-things-done-in-the-scala-repl-by-li-haoyi-alexy-khrabrov-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/271284915/"
+}

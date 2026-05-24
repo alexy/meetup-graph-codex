@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-bay-area-ai-crowdflower-ai-and-text-generation-event",
+  "source_id": "bythebay-20260508-bay-area-ai-bay-area-ai-crowdflower-ai-and-text-generation-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-bay-area-ai-crowdflower-ai-and-text-generation-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-bay-area-ai-crowdflower-ai-and-text-generation-event.json",
+  "kind": "talk",
+  "event_id": "234760100",
+  "event_title": "Bay Area AI: CrowdFlower AI and Text Generation",
+  "title": "Bay Area AI: CrowdFlower AI and Text Generation",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/234760100/",
+  "description": "Note: Scala+Scale By the Bay (http://scala.bythebay.io) conference, held at Twitter on November 11-13, covers Data Pipelines for Machine Learning / Data Mining. Meetup members are eligible for a discount they are sent via email. Bay Area AI is starting a thorough, most rigorous exploration of AI as it takes the industry by storm. Our signature approach is two-fold: we bring you companies leading AI implementation and working with numerous real-life customers who are deploying AI, while keeping scientific depth and providing insights into the MIND stack powering the technology behind the applications. In addition to the various topics of interest we're covering monthly or twice a month, we'll have in-depth series on important topics, such as Deep Learning. We'll have two talks. (1) AI at CrowdFlower, Lukas Biewald Our new cycle starts at CrowdFlower, a leading provider of Human-in-the-Loop AI. Lukas Biewald, founder and Chief Data Scientist, will describe the enormous amount of data processing customers perform on its platform, and where CrowdFlower AI is headed. Lukas co-founded CrowdFlower. He has worked as a Senior Scientist and Manager within the Ranking and Management Team at Powerset, Inc., a natural language search technology company later acquired by Microsoft, and also led the Search Relevance Team for Yahoo! Japan. He graduated from Stanford University with a BS in Mathematics and an MS in Computer Science. Lukas is also an expert-level Go player. (2) From Logic to English via Chart Parsing, Darryl McAdams This talk with look at an old, but interesting, technique for generating text in English (or any other language!) from a logical representation of its meaning, using a generalization of chart parsing, and a clever \"flat\" representation of logical formulas. This technique can be used to easily handle non-local properties of meanings, such as quantification and question words. About the presenter: I'm is a linguist, type theorist, and functional programmer working on a natural language AI project. You can find me on twitter as @psygnisfive and on freenode as augur.",
+  "date_time": "2016-11-02T18:00:00-07:00",
+  "end_time": "2016-11-02T21:00:00-07:00"
+}

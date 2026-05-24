@@ -1,0 +1,14 @@
+{
+  "title": "Agents Need More than Vector Search",
+  "speaker_text": "Prashanth Rao, AI Engineer @ LanceDB",
+  "tags": [
+    "RAG",
+    "Agentic AI",
+    "Open Data Lake",
+    "AI Infrastructure"
+  ],
+  "url": "https://ai.bythebay.io/talks/agents-need-more-than-vector-search",
+  "source_id": "bythebay-20260508-agents-need-more-than-vector-search-prashanth-rao-lancedb",
+  "source_file": "data/raw/sources/bythebay-20260508-agents-need-more-than-vector-search-prashanth-rao-lancedb.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-agents-need-more-than-vector-search-prashanth-rao-lancedb.json"
+}

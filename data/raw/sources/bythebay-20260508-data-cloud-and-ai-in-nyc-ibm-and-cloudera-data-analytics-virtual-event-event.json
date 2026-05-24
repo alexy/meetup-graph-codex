@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-06-11T09:00:00-04:00",
+    "description": "This event is online and Pacific Daylight Time. Please adjust to your timezone.\n\nLife is changing daily. Most organizations experience growing challenges to enhance IT resiliency and business continuity, reduce operating costs by driving efficiencies, proactively address new cybersecurity risks, and meet the changing needs of digital customers and remote employees. The common denominator in meeting these challenges is data and analytics.\n\nLeading companies are turning decision-making into an industrial process – integrating data gathering, analytics and modeling – to make business decisions with ever-improving accuracy. Connecting and securing this data lifecycle is foundational to scaling data-driven decision-making with AI. IBM and Cloudera make this possible and more with Cloudera Data Platform that manages and secures the data lifecycle in any cloud or data center.\n\nIBM and Cloudera deliver an enterprise data platform for hybrid cloud, powered by the connected data lifecycle, to build mission-critical and high value applications once, and run them anywhere. Cloudera’s next generation data platform is the industry’s first enterprise data cloud, leveraging Red Hat OpenShift for hybrid cloud deployments that deliver cloud native agility across public and private clouds.\n\nJoin us on June 11th and accelerate your journey to hybrid cloud and AI.\n\nSecure your seat today.\n\nRegister: https://www.cloudera.com/about/events/virtual-events/ibm-cloudera-journey-to-hybrid-cloud-and-ai.html?utm_medium=3rd-party&utm_source=partner&keyplay=CDP&utm_campaign=FY21-Q2_VE_Globl_IBM%20reg%20link_2020-05-01&cid=7012H000000wkXs&utm_content=IBM",
+    "endTime": "2020-06-11T12:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/270955127/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "270955127",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "IBM and Cloudera Data & Analytics - Virtual Event"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-and-cloudera-data-analytics-virtual-event-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/270955127/"
+}

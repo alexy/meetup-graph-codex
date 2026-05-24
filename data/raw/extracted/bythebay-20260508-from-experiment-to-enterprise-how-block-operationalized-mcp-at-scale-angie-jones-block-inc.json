@@ -1,0 +1,21 @@
+{
+  "id": "talk:ai-by-the-bay:bythebay-20260508-from-experiment-to-enterprise-how-block-operationalized-mcp-at-scale-angie-jones-block-inc",
+  "source_id": "bythebay-20260508-from-experiment-to-enterprise-how-block-operationalized-mcp-at-scale-angie-jones-block-inc",
+  "source_file": "data/raw/sources/bythebay-20260508-from-experiment-to-enterprise-how-block-operationalized-mcp-at-scale-angie-jones-block-inc.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-from-experiment-to-enterprise-how-block-operationalized-mcp-at-scale-angie-jones-block-inc.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "From Experiment to Enterprise: How Block Operationalized MCP at Scale",
+  "conference_id": "ai-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Angie Jones, VP Engineering, AI Tools & Enablement @ Block Inc",
+  "tags": [
+    "Agentic AI",
+    "MCP"
+  ],
+  "url": "https://ai.bythebay.io/talks/from-experiment-to-enterprise-how-block-operationalized-mcp-at-scale",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

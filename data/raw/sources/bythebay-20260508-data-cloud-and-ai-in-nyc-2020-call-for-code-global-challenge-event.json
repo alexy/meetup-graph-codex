@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-07-31T23:00:00-04:00",
+    "description": "This meetup is listed as July 31st which is the last day to submit your code.\n\nJoin the fight. Form a team. Impact the world. Submit by July 31st. Register here:\nhttps://developer.ibm.com/callforcode/\n\nCOVID-19 has revealed limits of the systems we take for granted, compromising our health, our planet, and our survival. We’ve expanded the 2020 Call for Code Global Challenge to take on COVID-19, while we remain committed to combating climate change. Developers and problem solvers, submit your open source solutions by July 31.\n\nTake on COVID-19. With the unprecedented effect of COVID-19, unite to help communities across the globe deal with the impact of the greatest crisis of modern times. Use open source technology in the cloud to build solutions that can provide crisis communication, remote education, and community cooperation.\n\nStarter kits and tips and tricks are available to you. Accept the challenge on the website and get your starter kit and let's fight this virus!\n\nhttps://developer.ibm.com/callforcode/",
+    "endTime": "2020-08-01T00:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/270482155/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "270482155",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "2020 Call for Code - Global Challenge"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-2020-call-for-code-global-challenge-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/270482155/"
+}

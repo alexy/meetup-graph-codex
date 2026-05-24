@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2016-07-26T17:30:00-07:00",
+    "description": "*** Important: Attendees need to signup via the following link to guarantee entry. Building security needs first name, last name, company and email address. A photo ID will be requested on arrival. Be sure to sign up here (http://www.bloomberg.com/event-registration/?id=57069). ***\n\nPlease join us for a community-driven evening of side projects, workshops, lightning talks, and open-source hacking. This month's Unmeetup will feature tutorials on Spark and Dotty, by Nimbus Goehausen and Guillaume Martres respectively. Special thanks to Bloomberg for hosting us!\n\nTutorial 1: Exploring Scala and Spark\n\nNimbus Goehausen, Senior Software Engineer, Bloomberg\n\nNimbus will give an interactive tutorial with Scala and Spark. Attendees will learn best practices around exploring large data sets with Spark. If time permits, Nimbus will also explore advanced topics including automatic checkpointing (saving intermediate results for large data pipelines).\n\nIf you wish to follow along with the interactive tutorial, be sure to create a (free) account at Databricks. We will be using the Community Edition:\nhttps://databricks.com/try-databricks\n\nNimbus Goehausen is a senior software engineer at Bloomberg where he works on spark infrastructure and applications. Prior to joining Bloomberg he worked at Radius Intelligence where he developed fuzzy business matching pipelines using spark and hadoop. Having experienced many pains involved with developing complex big data pipelines, he's looking to find ways of improving the development experience with spark.\n\nNimbus has a bachelors degree in physics and computers science from UC Berkeley with a research focus in robotic control.\n\nTutorial 2: Dotty (next-generation Scala compiler)\n\nHave you ever wondered how a compiler works? In this session Guillaume Martres will introduce you to the internals of Dotty ( http://dotty.epfl.ch ), the new experimental compiler for Scala, assuming no prior knowledge of compilers. Based on this knowledge you should be able to make your first contribution to Dotty and help us shape the future of Scala!\n\nGuillaume Martres is a PhD student at EPFL (École Polytechnique Fédérale de Lausanne) working on Dotty.\n\nAbout Bloomberg Tech Hub\nIn May 2015, Bloomberg opened its first west coast tech hub in San Francisco located in the landmark art deco PacBell Building at 140 New Montgomery Street. Bloomberg’s unique technology has transformed financial decision-making and brought transparency to global financial markets. The new tech hub will expand and evolve the company’s technological footprint, while attracting top engineering talent in the Bay Area.\n\nFor more information, be sure to check out http://www.techatbloomberg.com/",
+    "endTime": "2016-07-26T20:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/232570582/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "232570582",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "SF Scala Unmeetup @ Bloomberg Tech Hub"
+  },
+  "event_id": "232570582",
+  "event_title": "SF Scala Unmeetup @ Bloomberg Tech Hub",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "*** Important: Attendees need to signup via the following link to guarantee entry. Building security needs first name, last name, company and email address. A photo ID will be requested on arrival. Be sure to sign up here (http://www.bloomberg.com/event-registration/?id=57069). *** Please join us for a community-driven evening of side projects, workshops, lightning talks, and open-source hacking. This month's Unmeetup will feature tutorials on Spark and Dotty, by Nimbus Goehausen and Guillaume Martres respectively. Special thanks to Bloomberg for hosting us! Tutorial 1: Exploring Scala and Spark Nimbus Goehausen, Senior Software Engineer, Bloomberg Nimbus will give an interactive tutorial with Scala and Spark. Attendees will learn best practices around exploring large data sets with Spark. If time permits, Nimbus will also explore advanced topics including automatic checkpointing (saving intermediate results for large data pipelines). If you wish to follow along with the interactive tutorial, be sure to create a (free) account at Databricks. We will be using the Community Edition: https://databricks.com/try-databricks Nimbus Goehausen is a senior software engineer at Bloomberg where he works on spark infrastructure and applications. Prior to joining Bloomberg he worked at Radius Intelligence where he developed fuzzy business matching pipelines using spark and hadoop. Having experienced many pains involved with developing complex big data pipelines, he's looking to find ways of improving the development experience with spark. Nimbus has a bachelors degree in physics and computers science from UC Berkeley with a research focus in robotic control. Tutorial 2: Dotty (next-generation Scala compiler) Have you ever wondered how a compiler works? In this session Guillaume Martres will introduce you to the internals of Dotty ( http://dotty.epfl.ch ), the new experimental compiler for Scala, assuming no prior knowledge of compilers. Based on this knowledge you should be able to make your first contribution to Dotty and help us shape the future of Scala! Guillaume Martres is a PhD student at EPFL (École Polytechnique Fédérale de Lausanne) working on Dotty. About Bloomberg Tech Hub In May 2015, Bloomberg opened its first west coast tech hub in San Francisco located in the landmark art deco PacBell Building at 140 New Montgomery Street. Bloomberg’s unique technology has transformed financial decision-making and brought transparency to global financial markets. The new tech hub will expand and evolve the company’s technological footprint, while attracting top engineering talent in the Bay Area. For more information, be sure to check out http://www.techatbloomberg.com/",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl-2.json",
+    "source_id": "bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl-2",
+    "speakers": [
+      {
+        "company": "EPFL",
+        "name": "Guillaume Martres"
+      },
+      {
+        "company": "Bloomberg",
+        "name": "Nimbus Goehausen"
+      }
+    ],
+    "title": "SF Scala Unmeetup @ Bloomberg Tech Hub"
+  },
+  "source_id": "bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/232570582/"
+}

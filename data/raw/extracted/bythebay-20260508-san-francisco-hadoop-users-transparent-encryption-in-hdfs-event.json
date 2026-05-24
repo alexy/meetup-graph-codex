@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-transparent-encryption-in-hdfs-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-transparent-encryption-in-hdfs-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-transparent-encryption-in-hdfs-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-transparent-encryption-in-hdfs-event.json",
+  "kind": "talk",
+  "event_id": "219049335",
+  "event_title": "February SF Hadoop Users Meetup",
+  "title": "Transparent Encryption in HDFS",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/219049335/",
+  "description": "Charles Lamb, Software Engineer at Cloudera Apache Hadoop 2.6 adds support for transparent encryption to HDFS. Once configured, data read from and written to specified HDFS directories will be transparently encrypted and decrypted, without requiring any changes to user application code. This encryption is also end-to-end, meaning that data can only be encrypted and decrypted by the client. HDFS itself never handles unencrypted data or data encryption keys. All these characteristics improve security, and HDFS encryption can be an important part of an organization-wide data protection story. In this talk, attendees will get a brief introduction to the architecture, internals, and use cases for this new feature.",
+  "date_time": "2015-02-18T18:00:00-08:00",
+  "end_time": "2015-02-18T21:00:00-08:00"
+}

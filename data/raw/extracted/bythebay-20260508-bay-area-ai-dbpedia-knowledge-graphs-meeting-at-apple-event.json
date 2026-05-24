@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-dbpedia-knowledge-graphs-meeting-at-apple-event",
+  "source_id": "bythebay-20260508-bay-area-ai-dbpedia-knowledge-graphs-meeting-at-apple-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-dbpedia-knowledge-graphs-meeting-at-apple-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-dbpedia-knowledge-graphs-meeting-at-apple-event.json",
+  "kind": "event",
+  "event_id": "244121898",
+  "event_title": "DBpedia Knowledge Graphs Meeting at Apple",
+  "title": "DBpedia Knowledge Graphs Meeting at Apple",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/244121898/",
+  "description": "Tomorrow (Thursday, Oct 12th) the DBpedia Association is organizing the 3rd US DBpedia Community Meeting (and SF Bay Area Knowledge Graphs meetup). The meetup focuses on connecting the community interested in DBpedia and Knowledge Graphs in general, has included lightning talks by distinguished speakers (e.g. from Stanford, Google, IBM Watson, Netflix, LinkedIn, Wikimedia Foundation, Nuance, etc.). Talk topics have extended also to natural language processing, knowledge representation, information extraction, integration and retrieval, graph databases, knowledge base embeddings and machine learning. Our previous events were at: • Stanford in 2015 ( http://wiki.dbpedia.org/meetings/California2015 ) • Yahoo! in 2016 ( http://wiki.dbpedia.org/meetings/California2016 ) This year we’re hosted by Apple Inc. We’d love to see you there! Where: Apple Inc., De Anza 3 Theater and Atrium (1st floor) 10500 N De Anza Blvd Cupertino, CA 95014-2033 United States Web URL: http://wiki.dbpedia.org/meetings/California2017 Hashtag: #DBpediaCA",
+  "date_time": "2017-10-12T18:30:00-07:00",
+  "end_time": "2017-10-12T22:00:00-07:00"
+}

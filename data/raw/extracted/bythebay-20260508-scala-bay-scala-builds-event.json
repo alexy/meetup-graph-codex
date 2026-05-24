@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-scala-builds-event",
+  "source_id": "bythebay-20260508-scala-bay-scala-builds-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-scala-builds-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-scala-builds-event.json",
+  "kind": "event",
+  "event_id": "85054672",
+  "event_title": "Scala Builds",
+  "title": "Scala Builds",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/85054672/",
+  "description": "SBT, Zinc, Artifactory and Gradle",
+  "date_time": "2012-12-10T18:30:00-08:00",
+  "end_time": "2012-12-10T21:30:00-08:00"
+}

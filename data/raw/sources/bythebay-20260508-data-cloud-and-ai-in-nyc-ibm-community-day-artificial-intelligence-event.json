@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-10-11T10:00:00-04:00",
+    "description": "REGISTER HERE: http://bit.ly/2x65Rup\nNOTE: This is a global event online - Event is Eastern Standard Time.\n\nJoin us for IBM Community Day: Artificial Intelligence to be held on October 11th from 10:00 am to 4:00 pm. This is a free one-day virtual conference targeted for application developers, data stewards, data scientists, data engineers, business analysts, as well as a multitude of other roles, who want to learn about the technologies that prepare data platforms for AI.\n\nThis multi-track event is designed for live interactions between speakers and attendees, and will introduce technical concepts, IBM and partner solutions, and live demos. All sessions will be recorded for a three-month replay. Attendees will have the option to schedule a one-on-one meeting with speakers (dependent upon availability) after the conference for additional information. The one-on-ones are conducted through the conference platform.\n\nHere is an example of some of the sessions you may hear:\n\n- Model Asset Exchange\n- AI and Spark - how do they fit together?\n- AI Ethics\n- AI's Elephant in the Room\n- Building a Secure and Transparent ML Pipeline using Open Source Technologies\n- No Data, No AI\n- How to build a stream/real time app that uses ML\n- Building custom AI web services\n- Operationalizing ML and A/B test patterns\n- Governed data science\n- Automatic ML infused classification for Governance and GDPR compliance\n- Fast data ingest and analytics\n- Infrastructure for AI\n… and more\n\nREGISTER HERE: http://bit.ly/2x65Rup\n(please note that you must register at the above link to be part of the Community Day, and not just RSVP)\n\nAgenda and sessions will be updated regularly on the website.",
+    "endTime": "2018-10-11T16:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/254994619/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "254994619",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "IBM Community Day: Artificial Intelligence"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-day-artificial-intelligence-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/254994619/"
+}

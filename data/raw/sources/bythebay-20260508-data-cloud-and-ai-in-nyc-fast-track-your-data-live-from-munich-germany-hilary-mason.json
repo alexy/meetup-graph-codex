@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-06-22T11:30:00-04:00",
+    "description": "NOTE:\n\n• FACE-TO-FACE EVENT BEGINS AT 11:30 CEST (Central European Standard Time) and ends at 20:00.\n\n• LIVE STREAM BEGINS AT 13:00 AND ENDS AT 15:00 CEST.\n\nLive in Munich and streamed around the world, get the information you need to take advantage of the single biggest advantage you have – your data. You will see live machine learning and data science demos to get your team started making the most of your data right away, while helping you get ready for current and upcoming regulations, such as GDPR (General Data Protection Regulations).\n\nSpeakers include IBM customers such as ING, industry insiders such as Hilary Mason and Dez Blanchfield, and IBM leaders Rob Thomas, General Manager of IBM Analytics, and Marc Altshuller, General Manager of IBM Business Analytics.\n\nJoin us on June 22nd in Munich, Germany, to learn more. You can register for the in-person event here. http://ibm.biz/ibmmachinelearning (https://www.ibm.com/analytics/us/en/events/machine-learning/).\n\n(please note: You must register for either the in-person event or the livestream. RSVP's are not allowed)\n\nAgenda ( CEST):\n\n11:30 - 13:00 - Registration, Lunch & Demonstrations13:00 - 15:00 - Keynote Session - Hosted by: Kate Silverton - Television Journalist and Rob Thomas - IBM General Manager(NOTE: this 2 hour session is available via live web broadcast and replay)\n\n• Turning Insight into Data Products and Business Advantage - Hilary Mason(Data Scientist in Residence at Accell, Co-founder of Fast Forward Labs)\n\n• Data Science is a Team Sport - Dez Blanchfield (Data Science Evangelist, Consultant), Marc Altshuller (General Manager, IBM Business Analytics) and Hilary Mason\n\n• Changing Regulations into Assets - Seth Dobrin (Vice President & Chief Data Officer, IBM Analytics), John Bowman (Senior Principal, Promontory Financial Group and GDPR Expert), Henrik van Bruggen (Head of Enterprise Architecture, ING)\n\n• The biggest balancing act: Hybrid data management - Dinesh Nirmal (Vice President, Development, IBM Analytics)\n\n15:15 - 17:00 - Breakout Sessions\n- Engineering our Data Driven Future - Hilary Mason - Presentation and Audience Q&A\n- Ask a Data Scientist - Audience Q&A with Data Scientists from IBM's Machine Learning Hub in Boeblingen\n- Data Science and the Business Professional - Dez Blanchfield\n- GDPR & Compliance - Seth Dobrin, Rob Langhorst (Executive Project Manager and GDPR Specialist, IBM Global Business Services)\n- Demo: Experience where data goes next: Read your customer's mind\n\n17:15 - 20:00 - Reception. 25+ Demonstrations from IBM and Partners - John Thomas (Distinguished Engineer and Director, IBM Analytics)\n\nIf you are unable to attend the in-person event in Munich, register for the Web Broadcast by clicking the link below (note: click Register twice to get to choice):\n\nhttp://ibm.biz/ibmmachinelearning (https://www.ibm.com/analytics/us/en/events/machine-learning/).\n\nPlease note that RSVP's do not guarantee you a seat at the event. Once you register you will be given the URL for the Web Broadcast and replay.",
+    "endTime": "2017-06-22T20:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/240360004/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "240360004",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Fast Track Your Data - Live from Munich, Germany"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-fast-track-your-data-live-from-munich-germany-hilary-mason",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/240360004/"
+}

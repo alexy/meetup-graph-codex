@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-recommendation-systems-which-algorithm-works-best-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-recommendation-systems-which-algorithm-works-best-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-recommendation-systems-which-algorithm-works-best-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-recommendation-systems-which-algorithm-works-best-event.json",
+  "kind": "talk",
+  "event_id": "203730542",
+  "event_title": "September SF Hadoop Users Meetup",
+  "title": "\"Recommendation systems: which algorithm works best?\"",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/203730542/",
+  "description": "Suman Bhattacharya (Data Scientist, ThoughtWorks) The recommendation system is perhaps one of the most important commercial applications in the tech industry today. I will perform a comparative study of different recommendation system algorithms that are currently used. I will show that choosing the 'correct' algorithm depends on the end goal of the recommendation system, and the accuracy of the system is quite sensitive to the choice of the metric. I will discuss which algorithms works best in the case of top-N recommendation systems and discuss the MapReduce approach to its implementation.",
+  "date_time": "2014-09-10T18:00:00-07:00",
+  "end_time": "2014-09-10T20:00:00-07:00"
+}

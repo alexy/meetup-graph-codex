@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-08-06T09:00:00-07:00",
+    "description": "Academy (http://www.meetup.com/academy-by-the-bay) By the Bay is now a Typesafe-certified Training Partner, offering Fast Track to Scala, a flagship Typesafe course, at Scala By the Bay (http://www.scalabythebay.org) conference. This By the Bay edition is taught by Brendan W. McAdams, the author of MongoDB Scala drivers and Akka contributor. His notes on the course (http://www.scalabythebay.org/files/scala_training_deck.pdf) are published at the conference training (http://www.scalabythebay.org/training.html#training) page.\n\nPlease register for the course at Scala By the Bay (http://www.scalabythebay.org/#tickets) -- we now offer a training-only option, as well as Scala training+conference and Scala+Spark training+conference.\n\nMore professional training courses in the areas of Scala, Distributed Systems, Machine Learning, Social Network Analysis, Natural Language Processing and more will be taught by the authors of the relevant world-class open-source projects at the Academy By the Bay (http://www.meetup.com/academy-by-the-bay).",
+    "endTime": "2014-08-07T17:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/197384852/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "197384852",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Fast Track to Scala By the Bay"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-fast-track-to-scala-by-the-bay-brendan-w",
+  "source_url": "https://www.meetup.com/sf-scala/events/197384852/"
+}

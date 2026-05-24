@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix-2",
+  "source_id": "bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix-2.json",
+  "kind": "talk",
+  "event_id": "142643212",
+  "event_title": "RxJava: Reactive Extensions in Scala",
+  "title": "RxJava: Reactive Extensions in Scala",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Matt Jacobs @ Netflix",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/142643212/",
+  "description": "Reactive Programming with Rx using Scala Rxjava is a library for composing asynchronous and event-based programs using observable sequences for the Java VM that supports Java 6+, Clojure, Scala, Groovy, JRuby and Java 8 lambdas. Learn how the Netflix API uses RxJava ( http://techblog.netflix.com/2013/02/rxjava-netflix-api.html ) to implement highly concurrent web services against asynchronous data sources without blocking, synchronization or thread-safety concerns by using declarative functional reactive composition. Come see what functional, declarative, reactive programming looks like, what use cases it addresses and real-world examples of how it can become a tool in your application development along with demos and examples of idiomatic Scala usage with the recently added Scala adaptors. Ben Christensen is a software engineer on the Netflix Edge Services Platform team responsible for fault tolerance, performance, architecture and scale while enabling millions of customers to access the Netflix experience across more than 1000 different device types. Specializing in Java since the 90s and through years of web and server-side development Ben has gained particular interest and skill in building maintainable, performant, high-volume, high-impact systems. Prior to Netflix, Ben was at Apple in the iTunes division making iOS apps and media available to the world. Open source contributions include Hystrix ( https://github.com/Netflix/Hystrix ) and RxJava ( https://github.com/Netflix/RxJava ). Matt Jacobs is a software engineer on the Edge Services Applications team at Netflix, which builds and supports customer-facing features across the entire Netflix experience. Matt has worked in Scala since 2010, and is a recent arrival to both the Bay Area and Netflix. Beer is sponsored by Rackspace. Dinner is sponsored by Netflix. Mingling begins at 6:30, the talks start at 7pm. Please note that we'll diligently check RSVPs from now on, asking folks to check in when on site. Please do not \"hoard\" an RSVP if you're not likely to come, and at least release it well in advance if you know you can't make it.",
+  "date_time": "2013-10-17T18:30:00-07:00",
+  "end_time": "2013-10-17T21:30:00-07:00"
+}

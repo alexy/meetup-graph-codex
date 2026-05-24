@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2019-11-21T07:00:00-05:00",
+    "description": "REGISTER HERE FOR THIS FREE EVENT: http://bit.ly/2X67Onf\n\nThis event is Eastern Standard Time. Please adjust to your location. Event is on-line.\n\nIBM Z Day is a 1-day virtual conference for anyone and everyone! Our lineup of 25 global thought\nleaders will highlight industry trends and demonstrate how IBM Z is reliably running the world – always open | on | secure.\n\nConference Tracks:\n\n- IBM Z: Imagine this - IBM Z runs 30 billion transactions a day! Always open | on | secure. To provide perspective, there are approximately 5.6 billion Google searches per day. Want to know how? Join us!\n- Open Z: Open source technologies are a vital part of most technology strategies today and this track provides attendees with a look at how they are being used for both zOS and LinuxONE.\n- Global Z: Join tech influencers, international organizations like the World Economic Forum and the United Nations, and IBM enterprise and startup clients to hear how they are shaping the digital landscape and evolving the tech industry, while making the world a better place.\n\nSee the agenda and list of industry thought leaders speaking at this conference here : https://ibm.biz/IBMZDay\n\nJoin Us! Don't miss this high end computing virtual conference to advance your tech skills, explore technical case studies, and discover how anyone can build their path to Z.\n\nJoin us to learn more. This is an online Community virtual event for Z Analytics. Event is held in Eastern Standard Time.\n\nREGISTER HERE: http://bit.ly/2X67Onf\n\nOnce you register you will be able to go back into the event to review recorded sessions.",
+    "endTime": "2019-11-21T15:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/266466492/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "266466492",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Community Day: Z Day - High-End Computing"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-community-day-z-day-high-end-computing-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/266466492/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-spark-hadoop-at-splice-machine-dear-huggers-2",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-spark-hadoop-at-splice-machine-dear-huggers-2",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-spark-hadoop-at-splice-machine-dear-huggers-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-spark-hadoop-at-splice-machine-dear-huggers-2.json",
+  "kind": "talk",
+  "event_id": "234247659",
+  "event_title": "Spark + Hadoop at Splice Machine",
+  "title": "Spark + Hadoop at Splice Machine",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": "Dear HUGgers, Monte Zweben",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/234247659/",
+  "description": "A special announcement from Alexy Khrabrov, the new organizer of SF Hadoop: Dear HUGgers, I'm very happy to have been asked to organize this meetup from now on. As I describe in my update to the group, I'v been running data-centric meetups for many years, and am the founder of the original Spark Users meetup and then the SF Spark and Friends. We'll be merging the two. Also, to celebrate, we're offering a few special discounts for Scalæ By the Bay (http://scala.bythebay.io) to the two meetups -- you should receive it in your member email at one or the other. Topic: Architecture of an Open Source RDBMS powered by HBase and Spark Description: Learn about an open-source database that combines the benefits of modern lambda architectures with the full expressiveness of ANSI-SQL. Like lambda architectures, it employs separate compute engines for different workloads - some call this an HTAP database (Hybrid Transactional and Analytical Platform). This talk describes this architecture and implementation. The system is powered by a sharded key-value store for fast short reads and writes, and short range scans (Apache HBase) and an in-memory, cluster data flow engine for analytics (Apache Spark). It differs from most other clustered SQL systems such as Impala, SparkSQL, and Hive because it combines analytical processing with a distributed Multi-Value Concurrency Method that provides fine-grained concurrency which is required to power real-time applications. This talk will highlight storage representation, transaction engine, cost-based optimizer, and present the detailed execution of operational queries on HBase, and the detailed execution of analytical queries on Spark. We will compare and contrast how to execute queries with other HTAP systems such as Apache Phoenix and Apache Trafodian. We will end with some of our roadmap items under development involving new row-based and column-based storage encodings. Speaker: Monte Zweben, CEO and Co-founder, Splice Machine",
+  "date_time": "2016-11-08T18:00:00-08:00",
+  "end_time": "2016-11-08T21:00:00-08:00"
+}

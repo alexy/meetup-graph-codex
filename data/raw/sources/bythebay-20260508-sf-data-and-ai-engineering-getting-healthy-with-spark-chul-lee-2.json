@@ -1,0 +1,63 @@
+{
+  "event": {
+    "dateTime": "2015-09-29T18:30:00-07:00",
+    "description": "Update: we need a video sponsor for this meetup. Please email the organizers, and we'll include your logo in the splash screen of the recording, as well as will spread the word about you.\n\nA technical deep-dive on MyFitnessPal's use of Spark and its related technologies to derive the insights needed to keep their users fit and healthy. You'll learn how they leverage their data and Spark to build the world's most comprehensive health and wellness application.\n\nSpeaker: Chul Lee\n\nAs director of data engineering & science, Chul has been responsible for the development of data products related to real-time nutrition and fitness tracking, insights and community activities at MyFitnessPal & MapMyFitness (UnderArmour Connected Fitness). Prior to MyFitnessPal, Chul managed a team at LinkedIn that operated several relevance engines for LinkedIn's content products like LinkedIn Pulse, LinkedIn Content Emails, Channels and LinkedIn's Publishing Platform. He also co-founded a social news startup that delivered a personalized news experience by aggregating the entire blogosphere and news sites with the combination of millions of social media signals. Chul holds a Ph.D. in Computer Science from University of Toronto, where he focused on web algorithms and text mining. He also authored many patents and papers that appeared in top-tier peer-reviewed journals and conference proceedings.\n\nSpeaker: Hesam Salehian\n\nAs a senior data scientist, Hesam has been primarily working on the design and development of efficient and scalable data science tools, in order to process massive Foods, Recipes and Nutrition databases at MyFitnessPal (UnderArmour Connected Fitness). He received his PhD in Computer Engineering from University of Florida, specialized in Machine Learning, Computer Vision, Differential Geometry and Medical Image Analysis. His previous experiences prior to MyFitnessPal include working at Google's Image Search Group to develop tools for reading/writing images with special file formats.\n\nSchedule\n\n6:30pm - 7:00pm :: Social (Pizza and drinks will be provided by Trulia)\n\n7:00pm - 7:05pm :: Welcome by Host and Venue Sponsor\n\n7:05pm - 8:30pm :: Speakers' Talk and Q&A",
+    "endTime": "2015-09-29T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/225522991/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "225522991",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Getting Healthy with Spark"
+  },
+  "event_id": "225522991",
+  "event_title": "Getting Healthy with Spark",
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "session": {
+    "description": "Update: we need a video sponsor for this meetup. Please email the organizers, and we'll include your logo in the splash screen of the recording, as well as will spread the word about you. A technical deep-dive on MyFitnessPal's use of Spark and its related technologies to derive the insights needed to keep their users fit and healthy. You'll learn how they leverage their data and Spark to build the world's most comprehensive health and wellness application. Speaker: Chul Lee As director of data engineering & science, Chul has been responsible for the development of data products related to real-time nutrition and fitness tracking, insights and community activities at MyFitnessPal & MapMyFitness (UnderArmour Connected Fitness). Prior to MyFitnessPal, Chul managed a team at LinkedIn that operated several relevance engines for LinkedIn's content products like LinkedIn Pulse, LinkedIn Content Emails, Channels and LinkedIn's Publishing Platform. He also co-founded a social news startup that delivered a personalized news experience by aggregating the entire blogosphere and news sites with the combination of millions of social media signals. Chul holds a Ph.D. in Computer Science from University of Toronto, where he focused on web algorithms and text mining. He also authored many patents and papers that appeared in top-tier peer-reviewed journals and conference proceedings. Speaker: Hesam Salehian As a senior data scientist, Hesam has been primarily working on the design and development of efficient and scalable data science tools, in order to process massive Foods, Recipes and Nutrition databases at MyFitnessPal (UnderArmour Connected Fitness). He received his PhD in Computer Engineering from University of Florida, specialized in Machine Learning, Computer Vision, Differential Geometry and Medical Image Analysis. His previous experiences prior to MyFitnessPal include working at Google's Image Search Group to develop tools for reading/writing images with special file formats. Schedule 6:30pm - 7:00pm :: Social (Pizza and drinks will be provided by Trulia) 7:00pm - 7:05pm :: Welcome by Host and Venue Sponsor 7:05pm - 8:30pm :: Speakers' Talk and Q&A",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-getting-healthy-with-spark-chul-lee-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-getting-healthy-with-spark-chul-lee-2.json",
+    "source_id": "bythebay-20260508-sf-data-and-ai-engineering-getting-healthy-with-spark-chul-lee-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Chul Lee"
+      },
+      {
+        "company": null,
+        "name": "Chul Lee As"
+      },
+      {
+        "company": null,
+        "name": "Differential Geometry"
+      },
+      {
+        "company": null,
+        "name": "Hesam Salehian"
+      },
+      {
+        "company": null,
+        "name": "Hesam Salehian As"
+      },
+      {
+        "company": null,
+        "name": "Medical Image Analysis"
+      },
+      {
+        "company": null,
+        "name": "Venue Sponsor"
+      }
+    ],
+    "title": "Getting Healthy with Spark"
+  },
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-getting-healthy-with-spark-chul-lee-2",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/225522991/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-10-22T09:00:00-04:00",
+    "description": "Register today! www.ibm.com/events/bigdatadeveloperdayny. Participate in an exclusive Big Data Developer Day hosted by the IBM Big Data Development team. Experience IBM’s enterprise-class big data platform that allows you to address the full spectrum of big data business challenges. The morning will include interactive discussions and live demonstrations of big data for social media and log analytics, then get hands on with Hadoop scripting and text analytics with guidance from development experts. This is a unique opportunity to develop skills and learn about exciting technologies and techniques that you can immediately take back to your organization. Registration is required.. clicking the confirm button on this page will not guarantee a spot! Only 50 seats available - www.ibm.com/events/bigdatadeveloperdayny",
+    "endTime": "2012-10-22T18:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/86740812/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "86740812",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "IBM Big Data Developer Day - New York, Oct. 22, 2012"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-big-data-developer-day-new-york-oct-22-2012-event-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/86740812/"
+}

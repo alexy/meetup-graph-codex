@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-unmeetup-event",
+  "source_id": "bythebay-20260508-sf-scala-unmeetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-unmeetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-unmeetup-event.json",
+  "kind": "workshop",
+  "event_id": "230029796",
+  "event_title": "Unmeetup!",
+  "title": "Unmeetup!",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/230029796/",
+  "description": "We are pleased to announce our very first SF Scala Unmeetup. Please join us for an evening of community-driven workshops, lightning talks, mentorship, and hacking. What is an \"Unmeetup\"? An unmeetup is a casual community-driven, hands-on meetup where members propose topics to discuss and projects to work on. This is meant to be complementary to the standard meetup and is inspired by the idea of unconferences. You should join if you: • are new to Scala and want to work with other Scala developers. • are experienced with Scala and want to mentor others • have an open source project and would like to find contributors. • would like to offer a workshop or lightning talk. • just want to hack on a project! A project could be a side projects, open source, or code from work you'd like to bounce ideas about. Proposals If you're interested in mentoring, please indicate that in your RSVP survey. If you have a session or project to propose, please submit here: http://bit.ly/unmeetup We will update this page as the google doc is populated. This is a gentle way to test-drive projects for the upcoming hackathon on 4/29. Agenda 6:00pm - Doors Open, refreshments, socializing. 6:45pm - Introduction 7:00pm - Schedule determined by participants After all the sessions are introduced, rooms are allocated based on interest, and participants are left to find each other and hack away!",
+  "date_time": "2016-04-19T18:00:00-07:00",
+  "end_time": "2016-04-19T21:00:00-07:00"
+}

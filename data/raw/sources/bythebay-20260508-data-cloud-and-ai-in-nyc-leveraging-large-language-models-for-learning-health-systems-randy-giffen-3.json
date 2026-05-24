@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-11-02T15:30:00-04:00",
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.**\nLearning Health Systems seek to learn from experience and continuously improve outcomes. Large Language Models (LLMs) are deep-learning neural networks with billions of parameters. They are trained using large collections of written content to both identify the characteristics of text and to generate new text (including summaries and translations).\n\nThis session will provide an overview of how LLMs work and how they might be applied to specific tasks and use cases in healthcare to support the goals of a Learning Health System.\n\n**Presenter: Randy Giffen**\n\nRandy Giffen is a healthcare solutions architect and a member of the IBM Canada Innovation Team. He has 25 years of experience in software development from coding to senior management and 12 years of experience in patient care including 6 years of general practice. He has conducted academic research in both computer science and healthcare and has 7 US Patents for invention. He is an adjunct Professor at the University of Ottawa.\n\nHe is currently assigned to the Center for Analytics Informatics and Research at Memorial University. His research interests include the use of predictive analytics and machine learning in the context of clinical care.\nPreviously, he developed software systems for predictive maintenance, enterprise connectivity, and process management. Prior to that he worked on the Eclipse project.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r70c9273a3fad8cdd8e88206cba1d682f](https://ibm.webex.com/weblink/register/r70c9273a3fad8cdd8e88206cba1d682f)**",
+    "endTime": "2023-11-02T16:30:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/296193571/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "296193571",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Leveraging Large Language Models for Learning Health Systems"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-leveraging-large-language-models-for-learning-health-systems-randy-giffen-3",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/296193571/"
+}

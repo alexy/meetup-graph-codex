@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-04-18T10:00:00-04:00",
+    "description": "TO CONFIRM YOUR SEAT, YOU MUST REGISTER HERE: New York - April 18th (https://www-01.ibm.com/events/wwe/grp/grp304.nsf/Registration.xsp?openform&seminar=62ARBWES&locale=en_US)\n\nMonetizing the data behind your firewall.\n\nWith the exponential growth in data, 80% of which is unstructured, the business benefit of using machine learning to seek out opportunities is massive. Amongst a survey of large companies, 76% indicated they are targeting higher sales growth with machine learning.\n\nJoin us to learn how organizations can take machine learning out of the laboratory and into wide-scale, commercial use so that continuous intelligence can be applied throughout the enterprise. We will share some practical tips on how to get started with machine learning as well as IBM’s plans to use machine learning to infuse cognitive capabilities across our private cloud data and analytics portfolio to unlock the value of the data behind your firewall.\n\nThere will be two specific tracks covered on the day, one will focus on the area of Data Management and the second will focus on Data Analytics.\n\nFor a more detailed description on each of these tracks please click here for\nSession Details (https://www-01.ibm.com/events/wwe/grp/grp304.nsf/Additional.xsp?openform&seminar=DA7JP5ES&locale=en_US)\n\nAgenda\n\n- 10.00am - Welcome and Introductions\n\n- 10.15am - Keynote Address\nWinning with Machine Learning - Daniel Hernandez, VP of Analytics\n\n- 10.45am - Session One:\nData Management: Utilizing Spark to Hadoop to Fire up Innovation\nor\nData Analytics: Introduction to Machine Learning for IT Executives\n\n- 11.30am - Session Two:\nData Management: Diversify Your Applications, Not Your Databases\nor\nData Analytics: Data Science Convergence\n\n- 12.15pm - Networking Lunch\n\n- 13.30pm - Session Three:\nData Management: Tackling Data Compliance & Better Insights with a Unified Governance Approach\nor\nData Analytics: Unleashing Apache Spark and Machine Learning on the Data Warehouse\n\n- 14.15pm - Summary & Close",
+    "endTime": "2017-04-18T16:30:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/238590959/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "238590959",
+    "isOnline": false,
+    "status": "CANCELLED",
+    "title": "Winning with Machine Learning"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-winning-with-machine-learning-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/238590959/"
+}

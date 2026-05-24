@@ -1,0 +1,30 @@
+{
+  "parameters": {},
+  "query": {
+    "queries": [
+      {
+        "Query": {
+          "condition": null,
+          "name": "node_count",
+          "steps": [
+            {
+              "NWhere": {
+                "Eq": [
+                  "$label",
+                  {
+                    "String": "User"
+                  }
+                ]
+              }
+            },
+            "Count"
+          ]
+        }
+      }
+    ],
+    "returns": [
+      "node_count"
+    ]
+  },
+  "request_type": "read"
+}

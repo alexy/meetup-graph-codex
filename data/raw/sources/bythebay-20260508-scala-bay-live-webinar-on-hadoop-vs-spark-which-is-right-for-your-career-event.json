@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-10-21T21:00:00-07:00",
+    "description": "Hi,\n\nAfter the tremendous success of our last event on Big Data & Hadoop.\n\nKRATOES (http://www.kratoes.com/) is launching HADOOP VS SPARK & SCALA (http://unbouncepages.com/hadoopvsspark/) Session on demand. Join to learn and get mentored in Big Data journey and Broaden your skills.\n\nFocus on:-\n\n* Introduction to Big Data.\n* Challenges of Big Data and Introduction to Hadoop.\n* Hadoop components and its characteristics.\n* Hadoop echo system and its Architecture.\n* MapReduce (YARN).\n* Advantage and Dis-advantages of Hadoop.\n* Why Spark and Scala?\n* Data Loading using RDD\n* Difference between Spark and Hadoop.\n\nThis promises to be an extremely enriching session and we hope you can make it - Register Now (http://unbouncepages.com/hadoopvsspark/)\n\nIn case you can't make it sign-up anyway, we'll send you the recording.\n\n[ http://unbouncepages.com/hadoopvsspark/ ]\n\nCheers!",
+    "endTime": "2016-10-21T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/234965757/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "234965757",
+    "isOnline": false,
+    "status": "CANCELLED",
+    "title": "Live Webinar on Hadoop VS Spark? Which IS Right FOR YOUR Career?"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-live-webinar-on-hadoop-vs-spark-which-is-right-for-your-career-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/234965757/"
+}

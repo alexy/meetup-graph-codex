@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-scala-devops-professional-training-event",
+  "source_id": "bythebay-20260508-sf-scala-scala-devops-professional-training-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scala-devops-professional-training-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scala-devops-professional-training-event.json",
+  "kind": "workshop",
+  "event_id": "212002562",
+  "event_title": "Scala DevOps Professional Training",
+  "title": "Scala DevOps Professional Training",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/212002562/",
+  "description": "One of the talks at ScalaByTheBay.org (http://www.scalabythebay.org/) with the most followup questions and requests to repeat it is James Douglas's Scala DevOps talk (http://functional.tv/post/97700170289/scala-by-the-bay-2014-james-earl-douglas-scala-devops). Based on the workflow interest, we developed a two-day professional course on Scala DevOps, which James and Alexy will teach on November 6-7. Please register at the event link below: http://bythebay.ticketleap.com/scala-devops/ The attendance is limited to 20 participants. This is a hands-on course where teams will learn to do everything a modern Scala-based startup does to produce top quality code. James and Alexy built the process at Versal, and presented it at Scala Days 2013 (https://www.parleys.com/play/51c3862be4b0ed8770356868/chapter0/about). An improved version of the process is covered in Scala By the Bay 2014. The course will go into much more detail and teach you all the tools you need, soup to nuts, to build, code-review, and deploy Scala codebases in production as a team.",
+  "date_time": "2014-11-06T09:00:00-08:00",
+  "end_time": "2014-11-07T17:00:00-08:00"
+}

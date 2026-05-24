@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2021-11-17T10:00:00-05:00",
+    "description": "** Experts together everywhere **\n\nFor this festival, we will be taking over IBM Expert TV. Subscribe to IBM Expert TV and gather with our IBM Community of over 250,000 IBM users that brings together a global network of the world’s foremost technologists.\n\nThis five-day festival will have days dedicated to user groups, the IBM Loyalty program, IBM experts, and our Cloud Without Compromise program with an opening keynote presentation by Rob Thomas, Senior Vice President of IBM Global Markets. We couldn’t be more excited to bring you the very best that the IBM Community has to offer.\n\n** Cloud Without Compromise **\n\nWhen setting up your technical strategy, stop choosing between agility or security, openness or privacy, replatforming or refactoring. You don’t have to compromise. Join IBM experts, customers, and partners and build your schedule with over 20 sessions covering application modernization, hybrid cloud and DevSecOps.\n\n** Program **\n\nSee the full agenda here: https://ibm.ent.box.com/s/ks6pbjxwaovpyz42j3xx7ctxpj0hdkdr\n\nCheck out this Medium post for a recap of Day 1 and an outlook at the remainder of the festival: https://medium.com/ibm-data-ai/join-us-at-the-ibm-community-festival-ca28d28072dc\n\n** Get involved in your IBM Community meetup **\n\nWant to join your local organizing team? Join our Slack to learn more: https://join.slack.com/t/icmeetupsorg/shared_invite/zt-y320o9fk-OvYO2oXCZMbmIRc1Q1yHmg",
+    "endTime": "2021-11-17T15:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/281967210/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "281967210",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "IBM Community Festival 2021: Day 5 – Cloud Without Compromise"
+  },
+  "event_id": "281967210",
+  "event_title": "IBM Community Festival 2021: Day 5 – Cloud Without Compromise",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "** Experts together everywhere ** For this festival, we will be taking over IBM Expert TV. Subscribe to IBM Expert TV and gather with our IBM Community of over 250,000 IBM users that brings together a global network of the world’s foremost technologists. This five-day festival will have days dedicated to user groups, the IBM Loyalty program, IBM experts, and our Cloud Without Compromise program with an opening keynote presentation by Rob Thomas, Senior Vice President of IBM Global Markets. We couldn’t be more excited to bring you the very best that the IBM Community has to offer. ** Cloud Without Compromise ** When setting up your technical strategy, stop choosing between agility or security, openness or privacy, replatforming or refactoring. You don’t have to compromise. Join IBM experts, customers, and partners and build your schedule with over 20 sessions covering application modernization, hybrid cloud and DevSecOps. ** Program ** See the full agenda here: https://ibm.ent.box.com/s/ks6pbjxwaovpyz42j3xx7ctxpj0hdkdr Check out this Medium post for a recap of Day 1 and an outlook at the remainder of the festival: https://medium.com/ibm-data-ai/join-us-at-the-ibm-community-festival-ca28d28072dc ** Get involved in your IBM Community meetup ** Want to join your local organizing team? Join our Slack to learn more: https://join.slack.com/t/icmeetupsorg/shared_invite/zt-y320o9fk-OvYO2oXCZMbmIRc1Q1yHmg",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-5-cloud-without-compromise-rob-thomas-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-5-cloud-without-compromise-rob-thomas-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-5-cloud-without-compromise-rob-thomas-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Rob Thomas"
+      },
+      {
+        "company": "IBM Global Markets",
+        "name": "Senior Vice President"
+      }
+    ],
+    "title": "IBM Community Festival 2021: Day 5 – Cloud Without Compromise"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-5-cloud-without-compromise-rob-thomas-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/281967210/"
+}

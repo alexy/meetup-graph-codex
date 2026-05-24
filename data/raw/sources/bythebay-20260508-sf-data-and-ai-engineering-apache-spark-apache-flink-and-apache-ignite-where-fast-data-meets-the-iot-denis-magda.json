@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-09-20T18:00:00-07:00",
+    "description": "Apache Spark and Apache Flink are thoroughly covered at the upcoming Scale By the Bay conference: http://scale.bythebay.io . Stephan Ewen, a founder of Flink, keynotes the conference this year. Early Bird ends on 8/31, get your tickets soon!\n\nGridGain is an in-memory computing pioneer with products for high-performance environments such as Wall St. It runs an In-Memory Computing Summit (https://imcsummit.org/) in October.\n\nSpeaker: Denis Magda, GridGain\n\nIt is not enough to build a mesh of sensors or embedded devices to obtain more insights about the surrounding environment and optimize your production systems. Usually, your IoT solution needs to be capable of transferring enormous amounts of data to storage or the cloud where the data have to be processed further. Quite often, the processing of the endless streams of data has to be done in real-time so that you can react on the IoT subsystem's state accordingly. This session will show attendees how to build a Fast Data solution that will receive endless streams from the IoT side and will be capable of processing the streams in real-time using Apache Ignite's cluster resources.\n\nIn particular, attendees will learn about data streaming to an Apache Ignite cluster from embedded devices and real-time data processing with Apache Flink.\n\nDenis Magda, GridGain Systems product manager and Apache® Ignite™ PMC Chair, is an expert in distributed systems and platforms. Before joining GridGain and becoming a part of Apache® Ignite™ community, he worked for Oracle where he led the Java ME Embedded Porting Team -- helping Java cross new into new territory by entering the IoT market.",
+    "endTime": "2017-09-20T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/242935496/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "242935496",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Apache Spark, Apache Flink, and Apache Ignite: Where Fast Data Meets the IoT"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot-denis-magda",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/242935496/"
+}

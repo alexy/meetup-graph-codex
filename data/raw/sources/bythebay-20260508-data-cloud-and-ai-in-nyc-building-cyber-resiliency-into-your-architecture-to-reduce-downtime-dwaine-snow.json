@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-03-29T08:00:00-04:00",
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.**\nOver 18 Billion text messages are updated sent every day, over 6 Billion cell phone calls are made every day, and over 1 Billion credit card transactions occur every day around the world. Not to mention all of the cable TV or streaming choices we make, medical record updates, travel records created and (think planes, trains, and automobiles [Uber/Lyft/Doordash, etc.]) – and counting.\n\nAll of these things we rely on for our everyday lives today. If the system behind these is not available for any reason it can have a major impact on the global economy.\n\nThis session will discuss the architecture decisions that need to be made to ensure that the systems you are designing can stay up and running through cyber attacks, infrastructure updates, software updates, database maintenance, etc.\n\n**Presenter: Dwaine Snow**\nDwaine Snow is a WorldWide enablement leader helping clients ensure they are safe now, and into the Quantum era through cyber resiliency, zero trust, and data security solutions that keep their systems and data safe and always available.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\n\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. [https://ibm.webex.com/weblink/register/r8240738705c59b6da0987ac5b7a189c1](https://ibm.webex.com/weblink/register/r8240738705c59b6da0987ac5b7a189c1)",
+    "endTime": "2023-03-29T09:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/291470135/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "291470135",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Building Cyber Resiliency into your Architecture to reduce Downtime"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-building-cyber-resiliency-into-your-architecture-to-reduce-downtime-dwaine-snow",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/291470135/"
+}

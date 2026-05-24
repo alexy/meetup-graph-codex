@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-10-27T13:30:00-04:00",
+    "description": "This workshop is one of many free, data-centric events that will make up Cognifest NYC, taking place from October 23 - 27, 2017. Cognifest is a new way to bring together developer communities around common topics such as Data Engineering, Machine Learning, and AI. Instead of a traditional sit-down conference, we connect a series of meetups all around the city, and add workshops and tech talk tracks on dedicated days, as well as a happy hour or two, to canvass the ideas through time and space. Learn more at Cognifest.org (https://www.cognifest.org/)\n\nJoin our free hands-on workshop with Jerome Nilmeier, Data Scientist and Apache Spark expert, to learn how to get started with Scala and Apache Spark. After this training you will be able to write and run a sample Scala application using Apache Spark.\n\nIn order to reserve your seat you must register here:\n\nhttps://www.eventbrite.com/e/getting-started-with-data-science-on-spark-with-scala-tickets-39100912883\n\nAttendees will learn:- Fundamentals of Scala\n- Why Scala is best for leveraging Apache Spark (we will also review other languages: Python, R)\n- Fundamentals of Apache Spark\n- Coding examples from all of the main libraries of Apache Spark (SparkSQL, MLlib, GraphX, Spark Streaming, and SparkR)\n- Overview of open source projects that run on the Spark framework (SystemML, R4ML)\n\nPre-requisites:\nNo experience is necessary, but please bring a laptop and power cable, as this is a hands-on workshop.\n\nInstructor:\nJerome Nilmeier - Data Scientist and Apache Spark Expert\n\nBrought to you by IBM, Metis & the Framework Foundation",
+    "endTime": "2017-10-27T16:30:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/244363675/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "244363675",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Getting Started With Data Science on Spark with Scala"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-getting-started-with-data-science-on-spark-with-scala-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/244363675/"
+}

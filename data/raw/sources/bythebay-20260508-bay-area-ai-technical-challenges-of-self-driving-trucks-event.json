@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-11-28T19:00:00-08:00",
+    "description": "Note: this is a joint meetup with the San Francisco Autonomous Vehicle Enthusiasts (https://www.meetup.com/San-Francisco-Autonomous-Vehicle-AV-Enthusiasts/). The first http://self.driving.cars conference will be held on March 7 in San Francisco and will invite Uber and Otto speakers and panelists. We're excited to partner on the AI going into AVs.\n\nPlease join us for an evening of networking and discussion!\n\nRSVP here: https://www.eventbrite.com/e/technical-challenges-of-self-driving-trucks-tickets-27055135639\n\nEvent Description:\nJur van den Berg, PhD, will focus his talk on specific technical challenges in motion planning and control for trucks versus personal vehicles. In particular, he will discuss from an engineer’s perspective a few of the technical challenges that present themselves during the development of a self-driving truck. Examples of technical challenges include staying in lane, turning radius, discerning a stopped vehicle from a non-stopped vehicle, and speed control on hills or mountains. Jur will be applying his discussion in the context of Otto’s recent history-making feat of completing 120 continuous autonomous highway miles to deliver 50,000 cans of Budweiser in Colorado.\n\nSpeaker Bio:\nJur van den Berg, PhD\nFounding Employee and Senior Staff Engineer, Otto\n\nJur van den Berg is a founding employee of the start up Otto, which started in the beginning of 2016 to develop technology, software, and infrastructure for self-driving trucks. Otto was recently acquired by Uber, where Jur is now officially a senior staff engineer. Jur has expertise in a broad range of subjects in robotics, but his core expertise and main subject area in his academic and industrial career of almost ten years has been motion planning, most recently with a specific focus on self-driving vehicles. Jur obtained his PhD from Utrecht University, the Netherlands in 2007. After his PhD, he was a postdoc at the University of North Carolina, Chapel Hill and the University of California, Berkeley, for a combined total of four years. He joined the faculty at the School of Computing at the University of Utah in 2011. After three years he switched to industry to work on self-driving cars. Jur has worked with Google and Apple until he joined Otto in 2016.\n\nAgenda:\n7:00 - 7:30 pm : Sign-in, food and networking\n7:30 - 8:10 pm : Speaker\n8:10 - 8:30 pm : Q & A\n8:30 - 8:45 pm : Networking and close",
+    "endTime": "2016-11-28T22:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/235681083/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "235681083",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Technical Challenges of Self-Driving Trucks"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-technical-challenges-of-self-driving-trucks-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/235681083/"
+}

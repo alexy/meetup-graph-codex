@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-reproducible-machine-learning-at-scale-lukas-biewald-deep-learning-2",
+  "source_id": "bythebay-20260508-bay-area-ai-reproducible-machine-learning-at-scale-lukas-biewald-deep-learning-2",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-reproducible-machine-learning-at-scale-lukas-biewald-deep-learning-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-reproducible-machine-learning-at-scale-lukas-biewald-deep-learning-2.json",
+  "kind": "talk",
+  "event_id": "278921542",
+  "event_title": "Reproducible Machine Learning at Scale",
+  "title": "Reproducible Machine Learning at Scale",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": "Lukas Biewald @ deep learning",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/278921542/",
+  "description": "Submit a talk to Scale By the Bay 2021! CFP is open until June 30: https://scale.bythebay.io/cfp ----- How can we support effective, reproducible, and explainable deep learning and coordination across practitioners? In this talk, Lukas Biewald will share best practices for conducting, debugging, and sharing deep learning experiments at scale. He will talk through how some of the best tech companies in the world use the Weights & Biases platform for managing datasets, debugging models, versioning training/evaluation recipes, extracting insights, and storing all the crucial details needed to make their models reproducible and their research collaborative. Speaker: Lukas Biewald is a co-founder and CEO of Weights & Biases, an experiment tracking platform for deep learning. In 2009, Lukas founded Figure Eight, formerly CrowdFlower. Lukas has dedicated his career optimizing ML workflows and teaching ML practitioners, making machine learning more accessible to all.",
+  "date_time": "2021-08-03T17:00:00-07:00",
+  "end_time": "2021-08-03T19:00:00-07:00"
+}

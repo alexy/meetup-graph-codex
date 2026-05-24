@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-09-19T19:00:00-07:00",
+    "description": "Alexandr Podkhaliuzin will talk about the popular Scala plugin in the popular IntelliJ IDE.\n\nThis talk will be mainly about Scala/Play plugin for IntelliJ IDEA:\n\n• How to work with Scala/Play plugin. Some special tips and tricks.- Introducing new features and upcoming features.\n\n• Description of IntelliJ IDEA API and how to write plugins for IntelliJ IDEA including Scala plugin\n\n• Some technical details and stories about Scala language connected to some of Scala plugin features.\n\nAlexandr Podkhaliuzin is the lead of Scala plugin for IntelliJ IDEA team. He graduated from Saint-Petersburg University Mathematics Department, having won a series of regional and international mathematical competitions. Since 2008 Aleksandr has been working at JetBrains as software engineer, mainly developing Scala plugin for IntelliJ IDEA. Starting 2012 he teaches Scala at St. Petersburg Academic University.\n\nSchedule:\n\n• 6:30-7:00 - pizzas & networking\n\n• 7:00-7:10 - announcements etc\n\n• 7:10-~8:40 - talk\n\n• 8:40-9:00 - networking",
+    "endTime": "2013-09-19T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/135646232/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "135646232",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Alexandr Podkhaliuzin: Scala plugin for IntelliJ IDEA: tips, tricks and more..."
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-alexandr-podkhaliuzin-scala-plugin-for-intellij-idea-tips-tricks-and-more-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/135646232/"
+}

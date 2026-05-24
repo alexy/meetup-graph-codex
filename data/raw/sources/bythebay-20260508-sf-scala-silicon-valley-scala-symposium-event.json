@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-08-02T07:30:00-07:00",
+    "description": "UPDATE: the conference is sold out. See you in Santa Clara! A+ (Alexy)\n\nShort URL to share: http://funconf.org\n\nAdd your Twitter handle here to mingle with the attendees and speakers: http://lanyrd.com/2013/svss/attendees/\n\nThe first annual Silicon Valley Scala Symposium will feature enlightening presentations by some of the best Scala developers in the San Francisco Bay Area.\n\nThe current program includes the following talks. The speakers are confirmed, the talk titles may change but the topics are as follows.\n\nMarius Eriksen, Twitter, Finagle creator\n\nKeynote\n\nPaul Phillips, Scala Compiler guy\n\nScala War Stories\n\nIvan Porto Carrero, Scalatra creator\n\nScalatra\n\nJames Ward, Typesafe Developer & Play Evangelist\n\nModern Web Applications with Play\n\nTony Tam, Reverb CEO, Swagger creator\n\nAPIs with Swagger\n\nVitaly Gordon LinkedIn, & Chris Severs, EBay, Data Scientists\n\nHands-on Data Mining in Scala REPL\n\nJamie Allen, Typesafe Director of Consulting\n\nAKKA\n\nMatei Zaharia, MIT Professor, Spark creator\n\nSpark: Big Data Analytics Made Fast and Easy\n\nBill Venners, Escalate Software, ScalaTest creator\n\nImplicit conversions => implicit parameters in ScalaTest 2.0\n\nAdelbert Chang, Box\n\nDistributed Graph Processing with Scala and AKKA\n\nJames Earl Douglas, Versal\n\nHands-on Category Theory\n\nMike Slinn, ScalaCourses.com Creator and Managing Editor,\n\nCase Study: A Web Application Built From an All-Typesafe Stack: Play, Scala, Slick, Akka, Plus Bootstrap and Postgres on Heroku, lessons learned with selected production code fragments\n\nFlorian Leibert, AirBnB =>Unnamed Startup Founder, Chronos creator,\n\nBuilding distributed Scala applications with Mesos\n\nChetan Conikee, CloudPhysics Data Scientist,\n\nWisdom from Crowds of Machines -- powered by Play and Akka\n\nAlex Cozzi, EBay Data Scientist,\n\nGuerrilla Data Mining with Scala, Scoobi and R\n\nIgnacio Cases, SUNY/Albany Anthropologist,\n\nNLP with Scala\n\nBrendan W. McAdams, Typesafe, Casbah creator\n\nSlick\n\n...and more pots in the oven to be added -- watch this space and follow @khrabrov and #svss on Twitter for announcements and updates\n\nWe plan for the talks to be fun for Scala programmers and contain lots of code, REPL play along, and Q&A.\n\nThe registration fee includes access to the talks, breakfast, lunch, and other benefits as our budget allows.\n\nSee you in Santa Clara!\n\nDirections:\n\nExit 101on Montague Expressway. Turn left onto Mission College Blvd., while on Mission College Blvd., turn left on Juliette. Follow Juliette to almost the end of the street and there will be a sign to SC 12 on the left hand side. Intel employees and guests – pull into the SC 12 driveway.http://photos2.meetupstatic.com/photos/event/4/c/d/8/event_244099672.jpeg\n\nParking:\n\nOnce you enter SC 12, guests may park in any designated parking area. There are a very limited number of visitor spaces in the front left of the SC 12 building, there is also a large surface parking towards the rear left of SC 12 or you may park in garage “D”, which is directly behind the SC 12 building.",
+    "endTime": "2013-08-02T18:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/114627952/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "114627952",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Silicon Valley Scala Symposium"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-silicon-valley-scala-symposium-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/114627952/"
+}

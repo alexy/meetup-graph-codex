@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-april-2012-san-francisco-hadoop-user-meetup-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-april-2012-san-francisco-hadoop-user-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-april-2012-san-francisco-hadoop-user-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-april-2012-san-francisco-hadoop-user-meetup-event.json",
+  "kind": "unconference",
+  "event_id": "57581782",
+  "event_title": "April 2012 San Francisco Hadoop User Meetup",
+  "title": "April 2012 San Francisco Hadoop User Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "unconference"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/57581782/",
+  "description": "The April Hadoop meetup will be held Wednesday, April 11, from 6:30pm to 8:30pm. This meetup will be hosted by Twitter at 795 Folsom St. Please note the start time is 30 minutes later than usual. As usual, we will use the discussion-based \"unconference\" format. At the beginning of the meetup we will collaboratively construct an agenda consisting of several discussion breakout groups. All participants may propose a topic and volunteer to facilitate a discussion. All Hadoop-related topics are encouraged, and all members of the Hadoop community are welcome. Event schedule: 6:30pm - Welcome 7pm - Introductions; start creating agenda Breakout sessions begin as soon as we're ready 8:30pm - Conclusion Food and refreshments will be provided courtesy of Twitter.",
+  "date_time": "2012-04-11T18:30:00-07:00",
+  "end_time": "2012-04-11T21:30:00-07:00"
+}

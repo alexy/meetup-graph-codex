@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-unmeetup-at-chartboost-chartboost-chartboost-2",
+  "source_id": "bythebay-20260508-sf-scala-unmeetup-at-chartboost-chartboost-chartboost-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-unmeetup-at-chartboost-chartboost-chartboost-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-unmeetup-at-chartboost-chartboost-chartboost-2.json",
+  "kind": "talk",
+  "event_id": "231581313",
+  "event_title": "Unmeetup at Chartboost",
+  "title": "Unmeetup at Chartboost",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Chartboost Chartboost",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/231581313/",
+  "description": "The SF Scala Unmeetup will be hosted by our friends at Chartboost, who have graciously offered their space this month. Please join us for a community-driven evening of side projects, workshops, lightning talks, and open-source hacking. What is an \"Unmeetup\"? An unmeetup is a casual community-driven, hands-on meetup modeled after unconferences (https://en.wikipedia.org/wiki/Unconference). Members propose topics to discuss and projects to work on, then each individual chooses how to spend their time for the evening. This is meant to be complementary to the standard meetup and emphasize community-building and collaboration. You should join if you: • would like to offer a workshop or lightning talk. • want to find contributors for your open source project. • are new to Scala and want to work with other Scala developers. • are experienced with Scala and want to mentor others. • have cool work-in-progress and want feedback. • just want to hack on a project! A project could be a side projects, open source, or code from work you'd like to bounce ideas about. Proposals Kelley Robinson (@kelleyrobinson (https://twitter.com/kelleyrobinson) on Twitter) will be leading a session about Scala Bridge (http://www.scalabridge.org/), which is an initiative to build an inclusive Scala community with introductory programming workshops for women, like ClojureBridge (http://www.clojurebridge.org/) and RailsBridge (http://railsbridge.org/) have been doing for their respective communities. If you'd like to learn more about ScalaBridge and what you can do to help, please join in! If you have a session or project to propose, please submit here: http://bit.ly/unmeetup. We will update this page as the google doc is populated. Agenda 6:00 - Doors Open, refreshments, socializing. 6:45 - Introduction and Welcome 7:00 - Schedule determined by participants 9:00 - Closing After all the sessions are introduced, rooms are allocated based on interest, and participants are left to find each other and hack away! Check-in Instructions Enter at main entrance (420 Taylor Street). Building is located on the corner of O'Farrell and Taylor. The entrance doors are on the blue walls facing Taylor across the street from Serrano Hotel. Check-in with Security using one of the iPads. Choose \"SF Scala: Unmeetup at Chartboost\", and select Ryan Newman as your host. After the form is submitted, a sticker badge will print. About Chartboost Chartboost is the world’s largest mobile games-only platform, helping developers grow their audience, monetize, and make better data-driven decisions. They work with 90% of the top-grossing iOS and Android game developers and are currently being leveraged by over 300,000 games, reaching 1 billion active players around the world every month. They offer a simple SDK enabling cross promotion, direct deals, and a mobile ad network - all with 100% transparency and full control for our users, empowering them to run campaigns when, where, and how they want. Chartboost leverages Scala and has several open engineering positions. Learn more at http://Chartboost.com/careers",
+  "date_time": "2016-06-21T18:00:00-07:00",
+  "end_time": "2016-06-21T21:00:00-07:00"
+}

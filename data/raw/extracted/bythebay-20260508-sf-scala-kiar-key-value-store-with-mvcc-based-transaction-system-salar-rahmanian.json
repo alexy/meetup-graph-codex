@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-kiar-key-value-store-with-mvcc-based-transaction-system-salar-rahmanian",
+  "source_id": "bythebay-20260508-sf-scala-kiar-key-value-store-with-mvcc-based-transaction-system-salar-rahmanian",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-kiar-key-value-store-with-mvcc-based-transaction-system-salar-rahmanian.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-kiar-key-value-store-with-mvcc-based-transaction-system-salar-rahmanian.json",
+  "kind": "talk",
+  "event_id": "275839287",
+  "event_title": "Kiar - Key/Value store with MVCC based Transaction System By Sandeep Virdi",
+  "title": "Kiar - Key/Value store with MVCC based Transaction System",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/275839287/",
+  "description": "Multi-version Concurrency Control, MVCC, is currently the most popular protocol among modern database management systems. In this talk, we will look at an implementation of a MVCC based transaction system for an in-memory store. A few highlights: (1) Supports Delta Versioning (2) Data Validation via Precision Locking (3) Columnar Memory Layout using Apache Arrow (4) Built using ZIO functional programming library. Reference Paper:",
+  "date_time": "2021-02-04T17:30:00-08:00",
+  "end_time": "2021-02-04T19:30:00-08:00"
+}

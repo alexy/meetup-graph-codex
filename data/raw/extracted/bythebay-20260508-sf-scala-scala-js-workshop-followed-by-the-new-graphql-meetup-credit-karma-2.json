@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-scala-js-workshop-followed-by-the-new-graphql-meetup-credit-karma-2",
+  "source_id": "bythebay-20260508-sf-scala-scala-js-workshop-followed-by-the-new-graphql-meetup-credit-karma-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scala-js-workshop-followed-by-the-new-graphql-meetup-credit-karma-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scala-js-workshop-followed-by-the-new-graphql-meetup-credit-karma-2.json",
+  "kind": "talk",
+  "event_id": "233628295",
+  "event_title": "Scala.js Workshop followed by the new GraphQL Meetup",
+  "title": "Scala.js Workshop followed by the new GraphQL Meetup",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Credit Karma, Project September",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/233628295/",
+  "description": "We are incredibly happy to report that Haoyi Li, the tireless driver of Scala.js education and adoption, is leading the SF Scala.js 2016 Learning Session immediately following Scalæ By the Bay (where he is a speaker). Since Haoyi moved back to Singapore, this is a unique opportunity to learn from him directly. There's a lot of interest, but not enough knowledge, among the backend Scala developers (the majority) to self-start a Scala.js project. Join us to learn the basics of using Scala in the browser and build your first end-to-end Scala application. We will cover the basics of Scala.js, interacting with the HTML DOM and native JavaScript, sharing code with the server, and help you use this knowledge to build a basic full-stack Scala application. We'll have TA's Jakob Odersky, Stewart Stewart, and Ignacio Cases available to help with questions course throughout the day.",
+  "date_time": "2016-11-14T12:00:00-08:00",
+  "end_time": "2016-11-14T15:00:00-08:00"
+}

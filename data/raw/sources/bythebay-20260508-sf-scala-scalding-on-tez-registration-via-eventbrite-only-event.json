@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-07-14T11:30:00-07:00",
+    "description": "This is a Twitter event, please register via Eventbrite. (https://www.eventbrite.com/e/scalding-on-tez-tickets-17592244878)\n\nOne of the great benefits of Scalding, the Scala API developed at Twitter for building applications on Hadoop, is that it sits on top of Cascading, which allows for easily porting Scalding apps from MapReduce to newer, faster execution fabrics.\n\nIn this talk, Cyrille Chepelov will share how he boosted the performance of his company's Scalding app by over 50% by taking advantage of the upcoming release of Cascading 3.0 to scrap MapReduce and run instead over Apache Tez. A Product Innovation Director at Transparency Rights Management, which specializes in copyright-related metadata, Chepelov will discuss how he made the transition away from MapReduce, the concerns that kept him up at night, and why he’s glad he did it.\n\nAbout Cyrille...\nHoping not to become a software developer, Cyrille Chepelov trained as a mechanical engineering instructor, but to no avail: he soon found himself developing monitoring solutions for mold-and-die milling machines used by automotive contractors. He then went on to build software for clients in investment banking, government and mass transit. Since joining Transparency Rights Management as Product Innovation Director in 2013, Chepelov works with customers in the music and health data management industries, helping them get clear on the questions they want to ask about their data and building prototypes to deliver answers.\n\n11:30am: Doors open\n12:30pm: Doors close\n11:30am: Networking and Lunch\n12:30pm: Scalding on Tez with Cyrille Chepelov | Q&A\n2:00pm: End of event",
+    "endTime": "2015-07-14T14:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/223796338/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "223796338",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scalding on Tez [registration via Eventbrite only]"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-scalding-on-tez-registration-via-eventbrite-only-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/223796338/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-jaime-jorge-the-state-of-scala-code-style-christopher-olson-treodedb-event",
+  "source_id": "bythebay-20260508-scala-bay-jaime-jorge-the-state-of-scala-code-style-christopher-olson-treodedb-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-jaime-jorge-the-state-of-scala-code-style-christopher-olson-treodedb-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-jaime-jorge-the-state-of-scala-code-style-christopher-olson-treodedb-event.json",
+  "kind": "talk",
+  "event_id": "215725532",
+  "event_title": "Jaime Jorge, \"The State of Scala Code Style\", Christopher Olson, \"TreodeDB\"",
+  "title": "Jaime Jorge, \"The State of Scala Code Style\", Christopher Olson, \"TreodeDB\"",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/215725532/",
+  "description": "We will have two talks. Title: Jaime Jorge, The state of Scala code style and quality Description: How is Scala code style evolving? What are the current code styles we can follow? Are they being respected? What code styling rules do these code standards have in common? These are interesting questions I'm posing due to studying Scala code style. My team and I collected data from Scala open source projects and discovered interesting data on their code quality: common issues, common discrepancies with the scala coding standards etc. This talk will be a great follow-up on the concepts Martin Odersky addressed in a previous Scala meetup. Speaker's short bio. Jaime is a Scala devotee for over 3 years having studied software metrics and code duplication using Scala in his master thesis and now building a company using Scala to serve Scala developers (www.codacy.com (http://www.codacy.com/)).Title: Jaime Jorge, The state of Scala code style and quality Title: Christopher Olson, TreodeDB: Replicated, sharded, transactional Description: TreodeDB is a resilient and consistent database for petabytes, it’s open source and runs on commodity hardware, and it’s written entirely in Scala. Database transactions facilitate writing complex applications, but traditional SQL systems become expensive at scale. Sharded SQL databases and NoSQL systems manage large datasets for lower cost, but cannot provide atomic multirow operations. Some wildly successful applications have handled that well, but not all applications can do so. TreodeDB fills that gap. I will describe an application that is not suited to the current slate of distributed databases. I will then explain how TreodeDB provides transactional semantics in a reliable and scalable way. I will illustrate the API with a simple use case, discuss some of the design decisions, and compare TreodeDB with similar projects. Finally, I will demonstrate the system’s operation while individual components fail. Speaker's short bio. Christopher Olson began building distributed database systems in 1994, when he participated in Oracle’s efforts to adapt the RDBMs to a system of 256 nodes. He worked at Google for six years using technologies like GFS and BigTable. Christopher earned his Master’s in CS from UC Santa Cruz in 2005; he worked with the creators of the Ceph file-system and wrote his thesis on security in petascale storage. He earned his Bachelor’s in CS at Carnegie-Mellon University in 1994. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "date_time": "2014-12-08T19:00:00-08:00",
+  "end_time": "2014-12-08T22:00:00-08:00"
+}

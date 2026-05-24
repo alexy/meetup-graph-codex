@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-runar-bjarnason-an-introduction-to-functional-programming-event",
+  "source_id": "bythebay-20260508-scala-bay-runar-bjarnason-an-introduction-to-functional-programming-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-runar-bjarnason-an-introduction-to-functional-programming-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-runar-bjarnason-an-introduction-to-functional-programming-event.json",
+  "kind": "event",
+  "event_id": "219401994",
+  "event_title": "Rúnar Bjarnason, \"An introduction to functional programming\"",
+  "title": "Rúnar Bjarnason, \"An introduction to functional programming\"",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/219401994/",
+  "description": "Title: Rúnar Bjarnason, An introduction to functional programming Description: Rúnar will talk about the book, give an overview of what functional programming is, some basic FP techniques, and why we should try to stay purely functional when we can. Hopefully we can then have a discussion about it.. Speaker. Rúnar is a co-author of a great book, \"Functional Programming in Scala\", and a countributor to a bunch of Scala projects, see https://github.com/runarorama - including scalaz. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "date_time": "2015-01-12T19:00:00-08:00",
+  "end_time": "2015-01-12T22:00:00-08:00"
+}

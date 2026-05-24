@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-solve-engineering-problems-on-ibm-s-watson-data-platform-with-dsx-rafi-kurlansik-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-solve-engineering-problems-on-ibm-s-watson-data-platform-with-dsx-rafi-kurlansik-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-solve-engineering-problems-on-ibm-s-watson-data-platform-with-dsx-rafi-kurlansik-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-solve-engineering-problems-on-ibm-s-watson-data-platform-with-dsx-rafi-kurlansik-2.json",
+  "kind": "talk",
+  "event_id": "244363518",
+  "event_title": "Solve Engineering Problems on IBM’s Watson Data Platform with DSX",
+  "title": "Solve Engineering Problems on IBM’s Watson Data Platform with DSX",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Rafi Kurlansik",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/244363518/",
+  "description": "This workshop is one of many free, data-centric events that will make up Cognifest NYC, taking place from October 23 - 27, 2017. Cognifest is a new way to bring together developer communities around common topics such as Data Engineering, Machine Learning, and AI. Instead of a traditional sit-down conference, we connect a series of meetups all around the city, and add workshops and tech talk tracks on dedicated days, as well as a happy hour or two, to canvass the ideas through time and space. Learn more at Cognifest.org (https://www.cognifest.org/) Join our free hands-on workshop using the IBM Data Science Experience to solve engineering problems. Work through an automotive focused data set with us using open source tech like Apache Spark, Python, and R. You must register here to reserve your seat: https://www.eventbrite.com/e/solve-engineering-problems-on-ibms-watson-data-platform-with-dsx-tickets-39100697238 An introductory lecture will be given, followed by exercises for participants to solve using Jupyter Notebooks. These will touch upon data ingestion and preparation, data visualization, and machine learning. Participants will use IBM’s fully managed, free platform to complete their work. Who should attend? Anyone interested in Apache Spark, Data Science, and Open Source. Pre-requisites: Some experience coding in Python is recommended. Instructor: Rafi Kurlansik - IBM Cloud solutions specialist with a focus on Data Science and R programming Brought to you by IBM, Metis & the Framework Foundation",
+  "date_time": "2017-10-27T09:30:00-04:00",
+  "end_time": "2017-10-27T12:30:00-04:00"
+}

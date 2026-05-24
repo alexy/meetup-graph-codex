@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-registration-required-on-lu-ma-ai-full-stack-oss-ai-chips-to-apps-event",
+  "source_id": "bythebay-20260508-bay-area-ai-registration-required-on-lu-ma-ai-full-stack-oss-ai-chips-to-apps-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-registration-required-on-lu-ma-ai-full-stack-oss-ai-chips-to-apps-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-registration-required-on-lu-ma-ai-full-stack-oss-ai-chips-to-apps-event.json",
+  "kind": "announcement",
+  "event_id": "305744908",
+  "event_title": "[registration required on lu.ma/_ai] Full Stack OSS AI: Chips to Apps!",
+  "title": "Full Stack OSS AI: Chips to Apps!",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/305744908/",
+  "description": "Start the new year with a full immersion in Open-Source AI, building end-to-end applications. We showcase AI leaders from soup to nuts, from hardware and inference to structured output with knowledge graphs. Bay Area AI, the longest-running, deepest, biggest, baddest AI meetup in the world ([bay.area.ai](https://bay.area.ai/)) and AWS are inviting you to the iconic AW GenAI Loft for the first Full-Stack OSS AI event to start your year in AI — with four talks covering all sides of GenAI. **Open-Source AI Knowledge Stack (OAKS)** ***Alexy Khrabrov*, Neo4j** We review the OSS AI ecosystem and propose a big tent approach to organizing knowledge for AI applications and building an ecosystem of OSS AI practitioners in LFAI. **DIY LLMs with Modal** ***Charles Frye*, Modal** Running your own LLMs is harder than making an API call. But sometimes hard things are worth doing. In this talk, we'll walk through tips and tricks for self-hosting LLM inference using Modal, where provisioning GPUs is just an API call. **Simple Knowledge Graphs with Outlines, neo4j, and Modal** ***Cameron Pfiffer*, dottxt** Learn how to convert unstructured data into a structured knowledge graph. In this talk, we'll use Outlines to structure language model output, neo4j to store a knowledge graph, and Modal to run our language model. **Optimizing LLMs for Cost-Efficient Deployment with vLLM** ***Michael Goin*, Neural Magic** Deploying LLMs is just the starting point; optimizing them for cost-efficient, high-performance serving is the real challenge. In this talk, we’ll explore cutting-edge compression techniques and advanced inference system optimizations that enable fast performance on your hardware of choice. Discover practical strategies and tools enterprises trust to scale deployments while minimizing costs. Please note that even though spacious, space is limited. Please manage your RSVP responsibly. We'll prioritize folks to honor their RSVPs for our previous events.",
+  "date_time": "2025-01-23T17:00:00-08:00",
+  "end_time": "2025-01-23T20:00:00-08:00"
+}

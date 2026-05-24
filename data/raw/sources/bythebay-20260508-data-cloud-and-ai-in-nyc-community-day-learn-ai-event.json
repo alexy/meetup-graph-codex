@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-04-16T09:00:00-04:00",
+    "description": "This event is Eastern Standard Time. Please adjust to your location. Event is online.\n\nHands-on labs, leadership & lessons from AI Experts. Calling All Data Scientists, Machine Learning and Analytics Leaders. Join IBM and friends for a fun, online day of workshops, labs, tutorials, and expert sessions. Enjoy hands-on labs, 1:1 appointments with our expert speakers, get prepped for the AI Explainability hackathon going on now, learn leading new open-source tools.\n\nThe event is free but you must register here to attend: http://ibm.biz/LearnAILabs",
+    "endTime": "2020-04-16T15:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/269892944/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "269892944",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Community Day - Learn AI"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-community-day-learn-ai-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/269892944/"
+}

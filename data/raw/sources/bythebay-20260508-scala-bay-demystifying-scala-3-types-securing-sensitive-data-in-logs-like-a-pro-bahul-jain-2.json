@@ -1,0 +1,55 @@
+{
+  "event": {
+    "dateTime": "2025-07-17T17:30:00-07:00",
+    "description": "**PLEASE RSVP on our Luma for this event:** https://lu.ma/780luqac\n\n​We have two great talks for this **in person** event by Four great speakers!\n\n# **Demystifying Scala 3 Types**\n\nScala 3 offers a rich and expressive type system—but to unlock its potential you need to understand it. In this talk we will walk you through the key concepts, including bounds, kinds, variance, type lambdas, type and kind lattices, polymorphic functions, abstract types, and wildcard type arguments. We'll give you mental models that can help you use the type system effectively in your day-to-day Scala coding.\n\n## Speakers\n\n**Bill Venners**\nBill Venners is president of Artima, Inc. He is the lead developer of the ScalaTest and Scalactic open source libraries and coauthor of Programming in Scala, Fifth Edition and Advanced Programming in Scala, Fifth Edition.\nLinks:\n\n* [https://www.linkedin.com/in/bill-venners-27570a1/](https://www.linkedin.com/in/bill-venners-27570a1/)\n* [https://www.artima.com/books](https://www.artima.com/books)\n\n**Frank Sommers**\nBIO to be added\n\n# **Securing sensitive data in logs like a pro**\n\nLogging is vital for system observability and debugging, but writing sensitive data to logs poses several challenges and risks - Security & data breaches, Compliance and legal issues, Loss of customer confidence and damage to reputation\nAs a solution, we are going to discuss about the \"Sanitizer\" library we developed that makes it easy for developers to safely log data.\n\n## Speakers\n\n**Vivek Ragunathan**\nLinks:\n\n* ‪[blog.rhetoricalmusings.com](http://blog.rhetoricalmusings.com/)‬\n* [https://mastodon.social/@hktpe](https://mastodon.social/@hktpe)\n\n**Bahul Jain**\n\n* [https://github.com/bahuljain](https://github.com/bahuljain)\n* [https://mastodon.social/@bahuljain](https://mastodon.social/@bahuljain)\n\n# Agenda\n\n​​5.30pm - Arrival, meet people, networking, find seat\n​​5.55pm - Welcome to Bay Area Scala by Salar Rahmanian\n​6.00pm - Demystifying Scala 3 Types By Bill Venners & Frank Sommers\n​7.00pm - Securing sensitive data in logs like a pro By Vivek Ragunathan & Bahul Jain\n​8.00pm - Event end\n​After the event we can continue our conversations and grab a drink at a local bar (self funded).\n\n# ​Thank You\n\n​Big Thank you to:\n\n* ​Our speakers\n* ​[Iterable](https://iterable.com/) for hosting our event, you are awesome!\n* ​Everyone who attended and support our meetup group\n\n# ​Notes\n\n* ​​Subscribe to our [Lu.ma](http://lu.ma/) to get our newsletter and hear about our events first: [https://lu.ma/scala](https://lu.ma/scala)\n* ​Please subscribe/join our other meetup groups in the Bay Area:\n* ​[https://lu.ma/nixos](https://lu.ma/nixos)\n* ​[https://www.meetup.com/sf-scala](https://www.meetup.com/sf-scala)\n* ​[https://www.meetup.com/scala-bay](https://www.meetup.com/scala-bay)\n* ​[https://www.meetup.com/sf-data-and-ai-engineering](https://www.meetup.com/sf-data-and-ai-engineering)",
+    "endTime": "2025-07-17T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/308661456/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "308661456",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Demystifying Scala 3 Types & Securing sensitive data in logs like a pro"
+  },
+  "event_id": "308661456",
+  "event_title": "Demystifying Scala 3 Types & Securing sensitive data in logs like a pro",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "**PLEASE RSVP on our Luma for this event:** https://lu.ma/780luqac We have two great talks for this **in person** event by Four great speakers! # **Demystifying Scala 3 Types** Scala 3 offers a rich and expressive type system—but to unlock its potential you need to understand it. In this talk we will walk you through the key concepts, including bounds, kinds, variance, type lambdas, type and kind lattices, polymorphic functions, abstract types, and wildcard type arguments. We'll give you mental models that can help you use the type system effectively in your day-to-day Scala coding. ## Speakers **Bill Venners** Bill Venners is president of Artima, Inc. He is the lead developer of the ScalaTest and Scalactic open source libraries and coauthor of Programming in Scala, Fifth Edition and Advanced Programming in Scala, Fifth Edition. Links: * [https://www.linkedin.com/in/bill-venners-27570a1/](https://www.linkedin.com/in/bill-venners-27570a1/) * [https://www.artima.com/books](https://www.artima.com/books) **Frank Sommers** BIO to be added # **Securing sensitive data in logs like a pro** Logging is vital for system observability and debugging, but writing sensitive data to logs poses several challenges and risks - Security & data breaches, Compliance and legal issues, Loss of customer confidence and damage to reputation As a solution, we are going to discuss about the \"Sanitizer\" library we developed that makes it easy for developers to safely log data. ## Speakers **Vivek Ragunathan** Links: * ‪[blog.rhetoricalmusings.com](http://blog.rhetoricalmusings.com/)‬ * [https://mastodon.social/@hktpe](https://mastodon.social/@hktpe) **Bahul Jain** * [https://github.com/bahuljain](https://github.com/bahuljain) * [https://mastodon.social/@bahuljain](https://mastodon.social/@bahuljain) # Agenda 5.30pm - Arrival, meet people, networking, find seat 5.55pm - Welcome to Bay Area Scala by Salar Rahmanian 6.00pm - Demystifying Scala 3 Types By Bill Venners & Frank Sommers 7.00pm - Securing sensitive data in logs like a pro By Vivek Ragunathan & Bahul Jain 8.00pm - Event end After the event we can continue our conversations and grab a drink at a local bar (self funded). # Thank You Big Thank you to: * Our speakers * [Iterable](https://iterable.com/) for hosting our event, you are awesome! * Everyone who attended and support our meetup group # Notes * Subscribe to our [Lu.ma](http://lu.ma/) to get our newsletter and hear about our events first: [https://lu.ma/scala](https://lu.ma/scala) * Please subscribe/join our other meetup groups in the Bay Area: * [https://lu.ma/nixos](https://lu.ma/nixos) * [https://www.meetup.com/sf-scala](https://www.meetup.com/sf-scala) * [https://www.meetup.com/scala-bay](https://www.meetup.com/scala-bay) * [https://www.meetup.com/sf-data-and-ai-engineering](https://www.meetup.com/sf-data-and-ai-engineering)",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2.json",
+    "source_id": "bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Bahul Jain"
+      },
+      {
+        "company": null,
+        "name": "Bill Venners"
+      },
+      {
+        "company": null,
+        "name": "Frank Sommers"
+      },
+      {
+        "company": null,
+        "name": "Salar Rahmanian"
+      },
+      {
+        "company": null,
+        "name": "Vivek Ragunathan"
+      }
+    ],
+    "title": "Demystifying Scala 3 Types & Securing sensitive data in logs like a pro"
+  },
+  "source_id": "bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/308661456/"
+}

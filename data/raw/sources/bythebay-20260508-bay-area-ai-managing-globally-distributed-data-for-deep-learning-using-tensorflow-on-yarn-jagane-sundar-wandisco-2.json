@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2019-03-27T17:30:00-07:00",
+    "description": "The benefits of large datasets for deep learning are well known. But what if the source of this data is globally distributed? Jagane Sundar shares a system for replicating data across geographically distributed data centers, discusses the benefits of consistently replicating data that is used by TensorFlow for training, and explores the advantages of using a Paxos-based distributed coordination algorithm for replication. Jagane then details the resultant unique capability to maintain consistent writable copies of the data in multiple data centers.\n\nSpeaker: Jagane Sundar is the CTO at WANdisco. Jagane has extensive big data, cloud, virtualization, and networking experience. He joined WANdisco through its acquisition of AltoStor, a Hadoop-as-a-service platform company. Previously, Jagane was founder and CEO of AltoScale, a Hadoop- and HBase-as-a-platform company acquired by VertiCloud. His experience with Hadoop began as director of Hadoop performance and operability at Yahoo. Jagane’s accomplishments include creating Livebackup, an open source project for KVM VM backup, developing a user mode TCP stack for Precision I/O, developing the NFS and PPP clients and parts of the TCP stack for JavaOS for Sun Microsystems, and creating and selling a 32-bit VxD-based TCP stack for Windows 3.1 to NCD Corporation for inclusion in PC-Xware. Jagane is currently a member of the technical advisory board of VertiCloud. He holds a BE in electronics and communications engineering from Anna University.",
+    "endTime": "2019-03-27T19:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/259909063/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "259909063",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Managing Globally Distributed Data for Deep Learning using TensorFlow on YARN"
+  },
+  "event_id": "259909063",
+  "event_title": "Managing Globally Distributed Data for Deep Learning using TensorFlow on YARN",
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "session": {
+    "description": "The benefits of large datasets for deep learning are well known. But what if the source of this data is globally distributed? Jagane Sundar shares a system for replicating data across geographically distributed data centers, discusses the benefits of consistently replicating data that is used by TensorFlow for training, and explores the advantages of using a Paxos-based distributed coordination algorithm for replication. Jagane then details the resultant unique capability to maintain consistent writable copies of the data in multiple data centers. Speaker: Jagane Sundar is the CTO at WANdisco. Jagane has extensive big data, cloud, virtualization, and networking experience. He joined WANdisco through its acquisition of AltoStor, a Hadoop-as-a-service platform company. Previously, Jagane was founder and CEO of AltoScale, a Hadoop- and HBase-as-a-platform company acquired by VertiCloud. His experience with Hadoop began as director of Hadoop performance and operability at Yahoo. Jagane’s accomplishments include creating Livebackup, an open source project for KVM VM backup, developing a user mode TCP stack for Precision I/O, developing the NFS and PPP clients and parts of the TCP stack for JavaOS for Sun Microsystems, and creating and selling a 32-bit VxD-based TCP stack for Windows 3.1 to NCD Corporation for inclusion in PC-Xware. Jagane is currently a member of the technical advisory board of VertiCloud. He holds a BE in electronics and communications engineering from Anna University.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco-2.json",
+    "source_id": "bythebay-20260508-bay-area-ai-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco-2",
+    "speakers": [
+      {
+        "company": "WANdisco",
+        "name": "Jagane Sundar"
+      }
+    ],
+    "title": "Managing Globally Distributed Data for Deep Learning using TensorFlow on YARN"
+  },
+  "source_id": "bythebay-20260508-bay-area-ai-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco-2",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/259909063/"
+}

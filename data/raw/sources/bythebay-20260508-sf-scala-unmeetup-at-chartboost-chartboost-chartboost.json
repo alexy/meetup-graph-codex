@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-06-21T18:00:00-07:00",
+    "description": "The SF Scala Unmeetup will be hosted by our friends at Chartboost, who have graciously offered their space this month. Please join us for a community-driven evening of side projects, workshops, lightning talks, and open-source hacking.\nWhat is an \"Unmeetup\"?\n\nAn unmeetup is a casual community-driven, hands-on meetup modeled after unconferences (https://en.wikipedia.org/wiki/Unconference). Members propose topics to discuss and projects to work on, then each individual chooses how to spend their time for the evening. This is meant to be complementary to the standard meetup and emphasize community-building and collaboration.\n\nYou should join if you:\n\n• would like to offer a workshop or lightning talk.\n\n• want to find contributors for your open source project.\n\n• are new to Scala and want to work with other Scala developers.\n\n• are experienced with Scala and want to mentor others.\n\n• have cool work-in-progress and want feedback.\n\n• just want to hack on a project!\n\nA project could be a side projects, open source, or code from work you'd like to bounce ideas about.\n\nProposals\n\nKelley Robinson (@kelleyrobinson (https://twitter.com/kelleyrobinson) on Twitter) will be leading a session about Scala Bridge (http://www.scalabridge.org/), which is an initiative to build an inclusive Scala community with introductory programming workshops for women, like ClojureBridge (http://www.clojurebridge.org/) and RailsBridge (http://railsbridge.org/) have been doing for their respective communities. If you'd like to learn more about ScalaBridge and what you can do to help, please join in!\n\nIf you have a session or project to propose, please submit here: http://bit.ly/unmeetup. We will update this page as the google doc is populated.\n\nAgenda\n\n6:00 - Doors Open, refreshments, socializing.\n6:45 - Introduction and Welcome\n7:00 - Schedule determined by participants\n9:00 - Closing\n\nAfter all the sessions are introduced, rooms are allocated based on interest, and participants are left to find each other and hack away!\n\nCheck-in Instructions\n\nEnter at main entrance (420 Taylor Street). Building is located on the corner of O'Farrell and Taylor. The entrance doors are on the blue walls facing Taylor across the street from Serrano Hotel.\n\nCheck-in with Security using one of the iPads. Choose \"SF Scala: Unmeetup at Chartboost\", and select Ryan Newman as your host. After the form is submitted, a sticker badge will print.\n\nAbout Chartboost\n\nChartboost is the world’s largest mobile games-only platform, helping developers grow their audience, monetize, and make better data-driven decisions. They work with 90% of the top-grossing iOS and Android game developers and are currently being leveraged by over 300,000 games, reaching 1 billion active players around the world every month. They offer a simple SDK enabling cross promotion, direct deals, and a mobile ad network - all with 100% transparency and full control for our users, empowering them to run campaigns when, where, and how they want.\n\nChartboost leverages Scala and has several open engineering positions. Learn more at http://Chartboost.com/careers",
+    "endTime": "2016-06-21T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/231581313/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "231581313",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Unmeetup at Chartboost"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-unmeetup-at-chartboost-chartboost-chartboost",
+  "source_url": "https://www.meetup.com/sf-scala/events/231581313/"
+}

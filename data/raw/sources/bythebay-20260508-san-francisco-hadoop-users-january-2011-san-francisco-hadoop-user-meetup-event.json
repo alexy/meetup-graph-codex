@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2011-01-12T18:00:00-08:00",
+    "description": "We are pleased to announce that we will be holding the first meetup event on Wednesday, January 12, 2011 from 6pm to 8pm.\n\nRapleaf has graciously offered to host the event in their SOMA headquarters at 667 Mission St. We are also thankful to Cloudera, who will be helping to sponsor the event.\n\nThis event is going to be unique among the Hadoop meetups you may have attended previously. We will not use a presentation-based format. Instead, we will use an Open Space forum to address this important question:\n\nHow can we use Hadoop more effectively?\n\nThere is no pre-set agenda. We will create an agenda together when we convene. Each of you has the ability to propose a discussion topic, and lead a breakout group to focus on it. Formal preparation is not necessary; you do not need slides, a demo, etc -- just an open mind and a willingness to share ideas with your colleagues. (But if you'd like to share some prepared materials, by all means bring them!) All are welcome (developers, users, or managers; experienced or newbies).\n\nSchedule:\n6pm - Welcome\n6:20pm - Introductions; start creating agenda\nBreakout sessions begin as soon as we're ready\n8pm - Conclusion",
+    "endTime": "2011-01-12T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/15601471/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "15601471",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "January 2011 San Francisco Hadoop User Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-january-2011-san-francisco-hadoop-user-meetup-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/15601471/"
+}

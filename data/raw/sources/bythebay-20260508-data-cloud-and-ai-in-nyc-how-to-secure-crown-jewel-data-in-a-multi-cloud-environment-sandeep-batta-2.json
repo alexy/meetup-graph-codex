@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2023-08-30T08:00:00-04:00",
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.**\nData is money. Enterprises have a vested interest in securing data which has been locked up in private datacenters for decades. At the same time, the advent of AI and the monetary benefits of learning from the petabytes of data is prompting enterprises to risk exposing their system of record data to the developing field of AI.\n\nIn this session, you will learn about scenarios in a multi-cloud environment where an enterprise must exert control over and manage its own data, wherever it is. We'll also discuss multi-cloud data management strategies which will allow enterprises to take advantage of evolving technology and maintain regulatory compliance at the same time.\n\n**Presenter: Sandeep Batta**\n\nSandeep started his career as a z/OS Systems Programmer. He consulted for Fortune 100 clients in the NJ/NYC area where he had a chance to work on game changing technologies that helped restore operations after disastrous events like 9/11. Sandeep moved to the Raleigh-Durham area in 2003 where he created a “self-service” guest-vm tool on a farm of z/VM machines to increase efficiency by reducing the time required to provision and tear down dev/test environments. Since then, he has dabbled in areas like Cloud Deployment, Front-end network architecture, Offering management, etc.\nSandeep is now a Lead Solutions Architect in the Hyper Protect organization, where he works with clients in financial services, insurance and digital assets sectors, to address their data-protection requirements.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/rcd6dbc67c535b09a80cd1f9adf3bed8d](https://ibm.webex.com/weblink/register/rcd6dbc67c535b09a80cd1f9adf3bed8d)**",
+    "endTime": "2023-08-30T09:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/294142548/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "294142548",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "How to secure crown jewel data in a multi-cloud environment"
+  },
+  "event_id": "294142548",
+  "event_title": "How to secure crown jewel data in a multi-cloud environment",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.** Data is money. Enterprises have a vested interest in securing data which has been locked up in private datacenters for decades. At the same time, the advent of AI and the monetary benefits of learning from the petabytes of data is prompting enterprises to risk exposing their system of record data to the developing field of AI. In this session, you will learn about scenarios in a multi-cloud environment where an enterprise must exert control over and manage its own data, wherever it is. We'll also discuss multi-cloud data management strategies which will allow enterprises to take advantage of evolving technology and maintain regulatory compliance at the same time. **Presenter: Sandeep Batta** Sandeep started his career as a z/OS Systems Programmer. He consulted for Fortune 100 clients in the NJ/NYC area where he had a chance to work on game changing technologies that helped restore operations after disastrous events like 9/11. Sandeep moved to the Raleigh-Durham area in 2003 where he created a “self-service” guest-vm tool on a farm of z/VM machines to increase efficiency by reducing the time required to provision and tear down dev/test environments. Since then, he has dabbled in areas like Cloud Deployment, Front-end network architecture, Offering management, etc. Sandeep is now a Lead Solutions Architect in the Hyper Protect organization, where he works with clients in financial services, insurance and digital assets sectors, to address their data-protection requirements. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/rcd6dbc67c535b09a80cd1f9adf3bed8d](https://ibm.webex.com/weblink/register/rcd6dbc67c535b09a80cd1f9adf3bed8d)**",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-secure-crown-jewel-data-in-a-multi-cloud-environment-sandeep-batta-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-secure-crown-jewel-data-in-a-multi-cloud-environment-sandeep-batta-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-secure-crown-jewel-data-in-a-multi-cloud-environment-sandeep-batta-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Sandeep Batta"
+      },
+      {
+        "company": null,
+        "name": "Sandeep Batta Sandeep"
+      }
+    ],
+    "title": "How to secure crown jewel data in a multi-cloud environment"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-secure-crown-jewel-data-in-a-multi-cloud-environment-sandeep-batta-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/294142548/"
+}

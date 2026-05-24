@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2016-07-15T15:00:00-07:00",
+    "description": "Register at http://soc.att.com/1r5JIab and use this coupon code: MUSCAL to attend the event for free.\n\nAs part of “Shape, an AT&T Tech Expo”, AT&T is inviting us and other meetups to join them at AT&T Park on Friday evening, July 15! This event, which normally costs $50, will be free for meetup members who use the coupon code listed above.\n\nIt is a great opportunity to network with other Bay meetup members, see the batting cages, roam the field, and take in the view from all levels. Plus everyone will get a food and beverage voucher for $25. In addition, on Friday night there will be tech talks, an expo, a hackathon, and a Futurecast on “Using Tech to Create New Experiences for Sports Fans” with Andrew Keen and Kenny Lauar, the Marketing Director at Golden State Warriors, and more!\n\nJared Leto – award-winning actor, musician, and director – will be at “Shape” on Saturday, July 16. Register with the coupon code below and you will get free access to both Meetup Night on Friday, July 15, and to all of Saturday’s events – including Jared Leto.\n\nRegistration\nPlease register here: http://soc.att.com/1r5JIab\nUse this coupon code: MUSCAL\n\nEnter the coupon code on the \"Payment\" page for free registration -- you do not need to enter credit card information.\n\nHere are some of Friday’s and Saturday’s (July 15 & 16) activities.\n\n• Featured Speakers: Listen to AT&T executives and tech luminaries like Nate Silver, Jason Silva, and Dr. Fei-Fei Li discuss the current state of technology and what the future might hold. (Sat)\n• Exhibits: Explore various areas of the technological landscape. See the future being shaped through hands-on demos from our exhibitors. (Fri & Sat)\n• Tech Talks: The latest from Oculus, Google, Texas Instruments and more. (Fri & Sat)\n• Hackathon: You bring the innovative ideas and we’ll bring the tech to help you transform them into apps in just 24 hours. (Fri)\n• Futurecast: “Using Tech to Create New Experiences for Sports Fans”. Moderator: Andrew Keen; Guest: Kenny Lauar, Marketing Director at Golden State Warriors (Fri)\n• Maker Camp Live: Designed for kids who enjoy hacking, tinkering, learning, crafting, and making. It combines the best parts of summer camp with tech starter projects. (Sat)\n• Challenge: Come see the finalists pitch their innovative ideas for a chance to win $50,000. (Fri & Sat)\n\nWe’ll see you at the ballpark!\n\nTo stay up to date on this and other AT&T events join the AT&T San Francisco Bay Area Coding Workshops & Hackathons meetup – http://www.meetup.com/San-Francisco-DevLab-Coding-Workshops/",
+    "endTime": "2016-07-15T18:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/231829167/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "231829167",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "You are invited to Meetup Night at AT&T Park!"
+  },
+  "event_id": "231829167",
+  "event_title": "You are invited to Meetup Night at AT&T Park!",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "Register at http://soc.att.com/1r5JIab and use this coupon code: MUSCAL to attend the event for free. As part of “Shape, an AT&T Tech Expo”, AT&T is inviting us and other meetups to join them at AT&T Park on Friday evening, July 15! This event, which normally costs $50, will be free for meetup members who use the coupon code listed above. It is a great opportunity to network with other Bay meetup members, see the batting cages, roam the field, and take in the view from all levels. Plus everyone will get a food and beverage voucher for $25. In addition, on Friday night there will be tech talks, an expo, a hackathon, and a Futurecast on “Using Tech to Create New Experiences for Sports Fans” with Andrew Keen and Kenny Lauar, the Marketing Director at Golden State Warriors, and more! Jared Leto – award-winning actor, musician, and director – will be at “Shape” on Saturday, July 16. Register with the coupon code below and you will get free access to both Meetup Night on Friday, July 15, and to all of Saturday’s events – including Jared Leto. Registration Please register here: http://soc.att.com/1r5JIab Use this coupon code: MUSCAL Enter the coupon code on the \"Payment\" page for free registration -- you do not need to enter credit card information. Here are some of Friday’s and Saturday’s (July 15 & 16) activities. • Featured Speakers: Listen to AT&T executives and tech luminaries like Nate Silver, Jason Silva, and Dr. Fei-Fei Li discuss the current state of technology and what the future might hold. (Sat) • Exhibits: Explore various areas of the technological landscape. See the future being shaped through hands-on demos from our exhibitors. (Fri & Sat) • Tech Talks: The latest from Oculus, Google, Texas Instruments and more. (Fri & Sat) • Hackathon: You bring the innovative ideas and we’ll bring the tech to help you transform them into apps in just 24 hours. (Fri) • Futurecast: “Using Tech to Create New Experiences for Sports Fans”. Moderator: Andrew Keen; Guest: Kenny Lauar, Marketing Director at Golden State Warriors (Fri) • Maker Camp Live: Designed for kids who enjoy hacking, tinkering, learning, crafting, and making. It combines the best parts of summer camp with tech starter projects. (Sat) • Challenge: Come see the finalists pitch their innovative ideas for a chance to win $50,000. (Fri & Sat) We’ll see you at the ballpark! To stay up to date on this and other AT&T events join the AT&T San Francisco Bay Area Coding Workshops & Hackathons meetup – http://www.meetup.com/San-Francisco-DevLab-Coding-Workshops/",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-you-are-invited-to-meetup-night-at-at-t-park-jason-silva-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-you-are-invited-to-meetup-night-at-at-t-park-jason-silva-2.json",
+    "source_id": "bythebay-20260508-scala-bay-you-are-invited-to-meetup-night-at-at-t-park-jason-silva-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Jason Silva"
+      }
+    ],
+    "title": "You are invited to Meetup Night at AT&T Park!"
+  },
+  "source_id": "bythebay-20260508-scala-bay-you-are-invited-to-meetup-night-at-at-t-park-jason-silva-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/231829167/"
+}

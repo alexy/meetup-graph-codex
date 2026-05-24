@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-09-12T17:30:00-04:00",
+    "description": "Are you ready to dive into the world of cutting-edge technology, such as generative AI? Join us at the upcoming **[IBM TechXchange Conference 2023 Keynote Sessions](http://ibm.biz/techxchange)**, a captivating series of **no-cost live streams** that will unravel the latest advancements in AI, automation, security, and cloud solutions.\n\n**Keynote Data: Why a Data Lakehouse is the Best Approach for Scaling AI Workloads, Anywhere**\n\nMany organizations with data warehouses or data lakes are discovering that they are not prepared to scale AI workloads. A lack of processes and standards has led to a growing quagmire of unstructured, ungoverned data, best described as a “data swamp.” In this session, Paul Zikopoulos, Vice President of IBM Technology, will introduce you to a new approach using an open source, data lakehouse strategy, which can help resolve the problems hindering your ability to put analytics and AI to work at scale. Then, Tarun Chopra, Vice President of Product Management for Data and AI, will dive into IBM watsonx.data, a fit-for-purpose data store to scale AI workloads, and how leading companies are deploying it within their data strategy.\n\n**Speakers**\n\n* Paul Zikopoulos, Vice President, IBM Skills Vitality and Enablement, IBM\n* Tarun Chopra, Vice President of Product Management for IBM Data and AI, IBM\n\n**How to Attend**\n\n* All you need to do is just go to the [IBM TechXchange Conference website](https://ibm.biz/BdMaFp) at the scheduled times to view the live keynote sessions!\n* The sessions will be live-streamed on the IBM TechXchange Conference website at [https://ibm.biz/BdMaFp](https://ibm.biz/BdMaFp). You can also watch the recordings after the event.",
+    "endTime": "2023-09-12T18:30:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/295945802/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "295945802",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "IBM TechXchange Conference 2023 Live Stream - Keynote Data"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-data-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/295945802/"
+}

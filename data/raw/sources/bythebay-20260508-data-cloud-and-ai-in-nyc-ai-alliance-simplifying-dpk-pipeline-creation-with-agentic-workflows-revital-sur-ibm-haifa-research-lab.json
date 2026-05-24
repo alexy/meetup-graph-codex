@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-04-10T12:00:00-04:00",
+    "description": "**Agenda**\n\n* Welcome, housekeeping, etc.\n* Quick intro about AI Alliance (3 min)\n* Simplifying DPK Pipeline Creation with Agentic Workflows (40 mins)\n* Q&A (10 mins)\n* Wrap-up\n\n**Overview**\nIn this session, we present our experimental approach to creating DPK pipelines using agentic workflows. We will begin with a brief introduction to agentic workflows, followed by a walkthrough of two notebooks developed to support this work:\n\nThe first notebook shows a planner agent for Data-Prep-Kit tasks with code generation. The agent builds DPK pipeline that performs required tasks defined by a natural language.\n\nThe second notebook demonstrates how DPK transformers can be wrapped as tools within LangChain and LlamaIndex, along with examples of executing the transforms directly.\n\n**Session Type**\nTalk and Demo\n\n**Audience**\nLLM app developers, data scientists, data engineers\n\n**Technical Level**\nBeginner - Intermediate\n\n**Prerequisites**\nNone\n\n**Duration**\n45 mins\n\n**Resources**\n\n* [first notebook](https://github.com/data-prep-kit/data-prep-kit/blob/dev/examples/agentic/Planning_DPK_agent.ipynb)\n* [second notebook](https://github.com/data-prep-kit/data-prep-kit/blob/dev/examples/agentic/dpk_as_tools.ipynb)\n\n**Speakers**\n\n**Mohammad Nassar**\nMohammad Nassar, a Cloud Research Engineer at IBM Haifa, specializes in AI-driven data engineering, automation, and hybrid cloud technologies. With an M.Sc. in Computer Science from Technion, his research focused on coding theory and data systems. His work spans AI-powered data preparation, automation pipelines, and large-scale cloud solutions. Passionate about innovation, he also develops mobile applications, blending AI and user engagement.\n\n**Revital Sur**\nRevital Sur is a member of the Cloud Data Platforms group at IBM Haifa Research Lab, where she has been involved in various cloud and middleware projects in recent years. She is a DPK contributor from its first days and recently, she were involved into agentic activities. She holds both a BSc and an MSc in Computer Science from the University of Haifa, Israel.",
+    "endTime": "2025-04-10T13:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/306941379/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "306941379",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] Simplifying DPK Pipeline Creation with Agentic Workflows"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-simplifying-dpk-pipeline-creation-with-agentic-workflows-revital-sur-ibm-haifa-research-lab",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/306941379/"
+}

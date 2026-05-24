@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2026-06-01T12:00:00-04:00",
+    "description": "To attend this one hour masterclass: You must register here\n[https://partiful.com/e/3WdKVdPlKG4V9vvsgNBa](https://partiful.com/e/3WdKVdPlKG4V9vvsgNBa)\n\nOnce registered you will discover the location in NYC. Arrive at noon on June 1 for 12:30pm start.\nThis is an in-person event only. Space is limited.\n\n**Generative Computing Masterclass : Building Predicable Auditable AI with Mellea**\n\nIn this masterclass, we’ll introduce Mellea, an open‑source framework that treats large language models, not as chat partners, but as programmable components inside real applications. You’ll see how AI behavior can be broken into clear, composable steps using the Instruct–Validate–Repair pattern, with structured outputs andg rounded retrieval built in. The payoff: predictable, auditable, and reproducible AI. Combined with smaller open‑weight models like IBM’s Granite models, developers\nare seeing performant, trustworthy results at a fraction of the cost.\n\nWe’ll close the session with a real‑world case study that turns a stack of construction PDFs into a fully cited cost estimate and report.\nThis event is on a first come, first served basis.",
+    "endTime": "2026-06-01T13:30:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/314663476/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "314663476",
+    "isOnline": false,
+    "status": "ACTIVE",
+    "title": "Generative Computing: Building Predictable Auditable AI with Mellea  "
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-generative-computing-building-predictable-auditable-ai-with-mellea-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/314663476/"
+}

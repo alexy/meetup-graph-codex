@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-02-09T10:00:00-05:00",
+    "description": "SPACE IS LIMITED. REGISTRATION WILL CLOSE SHORTLY - REISTER TODAY THROUGH THIS LINK. ApacheCouchDB Developer Day (https://www-01.ibm.com/events/wwe/grp/grp304.nsf/Agenda.xsp?openform&seminar=Q6EK3PES&locale=en_US)\n\nJoin us for a 1/2 day workshop on Apache(R) CouchDB(TM). Please note that space is limited. In order to confirm your seat at this event, you must register here:\n\nCouchDB Workshop (http://ibm.co/2ikf0Ju)\n\nFor more than 10 years, developers have relied on Apache(R) CouchDB(TM) - a versatile and highly scalable open source database - to build apps for web, mobile and IoT platforms.\n\nThe release of CouchDB 2.0 in 2016 has generated even more interest in the freely available JSON database, which now includes clustering capabilities contributed from IBM Cloudant for high availability and performance.\n\nThis half-day event will offer an overview, use cases and live demo of CouchDB's key features, including its distinct replication protocol for supporting offline first apps. Bradley Holt, CouchDB Community member and Robert Newson, Apache member & Apache CouchDB Project Management Committee member, will lead a hands-on workshop and developer Q&A.\n\nAttendees should have some familiarity with NoSQL databases but are not expected to be experts in CouchDB. Laptops running OSX or Linux are recommended for the hands-on workshop portion. Please bring your own laptop if you plan on participating in the labs in the afternoon.\n\nPresenters:\nBradley Holt the author of several publications including Scaling CouchDB and Writing and Querying MapReduce Views in CouchDB (both published by O'Reilly Media). He has spoken at numerous conferences including Abstractions, ApacheCon, the O'Reilly Software Architecture Conference, O'Reilly Fluent, ConFoo, CodeMash, Node.js Interactive, That Conference, NoSQL Now!, php[tek], ZendCon, OSCON, the jQuery Conference, and SXSW Interactive. Bradley writes and speaks about topics such as CouchDB, PouchDB, Offline First, PHP, Node.js, and Domain-Driven Design.\n\nRaj Singh is a Developer Advocate and Open Data Lead at IBM. He specializes in all things geospatial and hacks on analytics in R/dashDB and Spark/iPython notebooks. He's currently driven to make CDS the best place to obtain and exploit comprehensive, curated open data sets for business. Raj pioneered Web mapping-as-a-service in the late 1990s with Syncline, a web mapping startup he co-founded. After that he finished his PhD at MIT, which explored the potential of web services to power urban information systems. Prior to joining IBM in 2014, Raj worked on geospatial data interoperability challenges for the Open Geospatial Consortium, an international standards body. He's a frequent speaker on interoperability and geo-location services, and contributed to O'Reilly's 2005 book, \"Mapping Hacks\".\n\nRobert Newson joined the CouchDB project in 2010 shortly before the seminal 1.0 release. He joined the Project Management Committee soon after in 2012. Robert also developed the popular couchdb-lucene project ( https://github.com/rnewson/couchdb-lucene ). Robert works for IBM Cloudant, delivering a CouchDB-compatible data platform as a service. He played a key role in deliver the CouchDB 2.0 release that incorporates the clustering technology developed by Cloudant.\nemail: rnewson@apache.org\ngithub: https://github.com/rnewson\n\nAgenda:\n\n10:00 am Check-in and Networking\n10:30 am Overview - CouchDB and Cloudant\n11:30 am Demo - Apache CouchDB and Cloudant\n12:00 pm LUNCH\n01:00 pm Workshop labs - Beginner and Advanced\n04:00 pm Summary, Q&A, and Close\n\nLunch will be provided.",
+    "endTime": "2017-02-09T16:30:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/236872594/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "236872594",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Apache CouchDB Developer Day"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-apache-couchdb-developer-day-bradley-holt",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/236872594/"
+}

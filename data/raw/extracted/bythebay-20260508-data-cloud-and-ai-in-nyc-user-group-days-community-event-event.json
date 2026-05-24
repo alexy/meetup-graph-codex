@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-user-group-days-community-event-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-user-group-days-community-event-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-user-group-days-community-event-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-user-group-days-community-event-event.json",
+  "kind": "talk",
+  "event_id": "270356614",
+  "event_title": "User Group Days - Community Event",
+  "title": "User Group Days - Community Event",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/270356614/",
+  "description": "This event is Eastern Daylight Time. Please adjust to your timezone. To attend the event and view replays, you must register here: https://bit.ly/2yUjVeS This time, users take the stage! Experience a 2-Day Event Featuring 96 Hours of Content from IBM Customers and Experts. User Groups include: AI, Automation, Cloud Integration, Cloud Pak for Data, Cognos Common, DataOps, Data Science, Db2, IBM Security, Informix Maximo, NETCOOL, Netezza, Open Source, Power Systems Public Cloud, Storage, Websphere, Z Systems. We are uniting over a dozen IBM User Groups for a 2-day virtual conference with 6 tracks each day featuring lessons, demos, keynotes, feedback sessions, expert advice, and more. Choose from a comprehensive selection of sessions presented by IBM professionals, partners, customers, and users from around the world who are excited to share their knowledge and expertise with you. Learn more about the technologies you use every day, start a conversation, ask questions, or find new User Groups to connect with. No matter your technology, tool, or proficiency, you will find something here to grow your skillset. Join us on May 19 & 20 for the free, live event! Hashtag:#IBMUserGroupDay Register for this event here: https://bit.ly/2yUjVeS We look forward to hearing from you.",
+  "date_time": "2020-05-19T08:00:00-04:00",
+  "end_time": "2020-05-20T16:30:00-04:00"
+}

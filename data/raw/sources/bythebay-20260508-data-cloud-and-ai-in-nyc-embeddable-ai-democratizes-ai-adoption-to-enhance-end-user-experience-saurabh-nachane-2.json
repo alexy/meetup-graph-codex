@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2023-02-08T08:00:00-05:00",
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.**\nAndrew Ng describes “AI is the new electricity” and just as electricity transformed almost everything 100 years ago, one can’t think of a single industry that AI won’t transform in the next several years. IBM continues to demonstrate leadership in the AI space and is set to revolutionize the AI adoption with the recent expansion of the embeddable AI capabilities that leverage the Open Source framework.\n\nIn this session you will understand:\n\n1. Overview of the embeddable AI portfolio, some of the key technology differentiators.\n2. How data scientists and ML ops engineers can leverage some of the key capabilities to build their AI-infused applications\n\n**Presenter: Saurabh Nachane**\nAs a Senior product specialist Saurabh has helped launch several AI products at IBM like Cloud Pak for Watson AIOps, Netcool Operations Manager. He has always been a hands-on technologist and currently leads the embeddable AI portfolio. He has a passion for embracing new and emerging technologies with the intent to simplify AI adoption for IBM partners.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder: [https://ibm.webex.com/weblink/register/r3839407653623e34721c35aef582af8d](https://ibm.webex.com/weblink/register/r3839407653623e34721c35aef582af8d).",
+    "endTime": "2023-02-08T09:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/290204262/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "290204262",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Embeddable AI democratizes AI-adoption to enhance end user experience"
+  },
+  "event_id": "290204262",
+  "event_title": "Embeddable AI democratizes AI-adoption to enhance end user experience",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.** Andrew Ng describes “AI is the new electricity” and just as electricity transformed almost everything 100 years ago, one can’t think of a single industry that AI won’t transform in the next several years. IBM continues to demonstrate leadership in the AI space and is set to revolutionize the AI adoption with the recent expansion of the embeddable AI capabilities that leverage the Open Source framework. In this session you will understand: 1. Overview of the embeddable AI portfolio, some of the key technology differentiators. 2. How data scientists and ML ops engineers can leverage some of the key capabilities to build their AI-infused applications **Presenter: Saurabh Nachane** As a Senior product specialist Saurabh has helped launch several AI products at IBM like Cloud Pak for Watson AIOps, Netcool Operations Manager. He has always been a hands-on technologist and currently leads the embeddable AI portfolio. He has a passion for embracing new and emerging technologies with the intent to simplify AI adoption for IBM partners. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder: [https://ibm.webex.com/weblink/register/r3839407653623e34721c35aef582af8d](https://ibm.webex.com/weblink/register/r3839407653623e34721c35aef582af8d).",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience-saurabh-nachane-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience-saurabh-nachane-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience-saurabh-nachane-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Saurabh Nachane"
+      },
+      {
+        "company": null,
+        "name": "Saurabh Nachane As"
+      }
+    ],
+    "title": "Embeddable AI democratizes AI-adoption to enhance end user experience"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience-saurabh-nachane-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/290204262/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-january-2011-san-francisco-hadoop-user-meetup-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-january-2011-san-francisco-hadoop-user-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-january-2011-san-francisco-hadoop-user-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-january-2011-san-francisco-hadoop-user-meetup-event.json",
+  "kind": "unconference",
+  "event_id": "15601471",
+  "event_title": "January 2011 San Francisco Hadoop User Meetup",
+  "title": "January 2011 San Francisco Hadoop User Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "unconference"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/15601471/",
+  "description": "We are pleased to announce that we will be holding the first meetup event on Wednesday, January 12, 2011 from 6pm to 8pm. Rapleaf has graciously offered to host the event in their SOMA headquarters at 667 Mission St. We are also thankful to Cloudera, who will be helping to sponsor the event. This event is going to be unique among the Hadoop meetups you may have attended previously. We will not use a presentation-based format. Instead, we will use an Open Space forum to address this important question: How can we use Hadoop more effectively? There is no pre-set agenda. We will create an agenda together when we convene. Each of you has the ability to propose a discussion topic, and lead a breakout group to focus on it. Formal preparation is not necessary; you do not need slides, a demo, etc -- just an open mind and a willingness to share ideas with your colleagues. (But if you'd like to share some prepared materials, by all means bring them!) All are welcome (developers, users, or managers; experienced or newbies). Schedule: 6pm - Welcome 6:20pm - Introductions; start creating agenda Breakout sessions begin as soon as we're ready 8pm - Conclusion",
+  "date_time": "2011-01-12T18:00:00-08:00",
+  "end_time": "2011-01-12T21:00:00-08:00"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-11-14T08:00:00-08:00",
+    "description": "Folks -- our flagship yearly gathering, scale.bythebay.io, is fast approaching, and the program is bursting at the seems with amazing talks. We close all the gaps with the strongest additions, many related to AI that is fed by our favorite data pipelines we know how to build so well.\n— Clément Farabet, VP of AI Infrastructure at Nvidia, will share the updates from the GPU land on AI for Self-Driving Cars\n— Alex Sergeev, the creator of Horovod from Uber, will show how to speed up your Deep Learning dramatically with it\n— Aleksandra Kudriashova, Head of Product at Astro Digital, will show how satellite imagery can help analyze world food economy\n— Salesforce will show how data pipelines and cutting edge R&D connect in production with Salesforce Einstein and graph analysis, with Richard Socher, Chief Scientist of Salesforce, following engineering talks with a fireside chat and a panel.\nOur Data Pipelines for AI panel this year includes Richard Socher, Peter Bailis, professor at Stanford and member of DAWN lab there, as well as the founder of sisu.ai; Pete Skomoroch, the founder of SkipFlag (acquired by Workday); Lukas Biewald, founder of CrowdFlower and Weights and Biases; and Michelle Casbon, Google Cloud Platform ML/Big Data engineer.\nOur Thoughtful Software Engineering panel, including Martin Odersky, Julie Pitt, Marius Eriksen, Runar Bjarnason, and Bryan Cantrill, will be moderated by Cliff Click -- the creator of the HotSpot JIT and cofounder of H2O.ai, who is also teaching the bespoke Advanced Software Engineering workshop the day before.\nThe Cloud, Edge and IoT panel now includes Anoop Nannra, the Head of Cisco Blockchain Initiative and Chairman, Trusted IoT Alliance; Roman Shaposhnik, cofounder, Zededa, and board member, Apache Software Foundation; Bernard Golden, Head of Cloud Strategy, Capital One (to be continued) -- looking for strong panelists representing GCP/Azure/AWS as well.\nOther talks on the program include High-Performance Bayesian Inference with Rainier by Avi Bryant (Stripe), Graph Analysis by Alexis Roos (Salesforce), Privacy-Preserving Data Science in Scala by David Andrzejewski (Sumo Logic), Towards Typesafe Deep Learning by Tongfei Chen (Johns Hopkins University), The Evolution of the GoPro data platform by David Winters (GoPro), Labels to Inference by Jeff Fenchel (Zignal Labs), Structured Deep Learning by Jayant Krishnamurthy (Semantic Machines), Hadoop Future in the AI World by Milind Bhandarkar (Ampool), and many, many more -- see the full schedule at http://scale.bythebay.io.\n\nUse the code BAYHAREAAI15 for 15% off all passes while they are available! Late Bird only from November 1st.",
+    "endTime": "2018-11-17T18:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/253653627/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "253653627",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scale By the Bay 2018"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-scale-by-the-bay-2018-alexis-roos",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/253653627/"
+}

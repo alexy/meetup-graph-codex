@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-02-08T19:00:00-08:00",
+    "description": "Title: Haroon Khan, Free Monads in Practice\n\nDescription:\n\nPractical programs often consist of assembling larger monads from a set of primitive monads. One technique is by using monad transformers. The effects of each monad is a layered effect. Since monads do not compose, monads are layered using monad transformers. This leads to static, inflexible and hard to understand designs.\n\nUsing Free Monads are an alternative to the Monad Transformer design pattern. A programmer using free monads will separate the description and effects of a computation. By combining the effects of different computations, the same result can be achieved.\n\nIn this talk, Haroon will present a simple program to demonstrate the use of free monads and talk about his experience in applying them in practice.\n\nSpeaker.\n\nHaroon Khan\n\nHaroon Khan is a software developer at HealthExpense where he works on designing and implementation of various services and applications that drive the HealthExpense platform.\n\nSchedule\n\n• 6:30-7:00 - networking\n\n• 7:00-7:10 - announcements etc\n\n• 7:10-~8:50 - talks\n\n• 8:50-9:00 - networking",
+    "endTime": "2016-02-08T22:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/228543862/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "228543862",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Haroon Khan, Free Monads in Practice"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-haroon-khan-free-monads-in-practice-haroon-khan-haroon-khan",
+  "source_url": "https://www.meetup.com/scala-bay/events/228543862/"
+}

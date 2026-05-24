@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-04-26T08:00:00-04:00",
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.**\nLarge Language Models (LLM) have inspired many people because it was able to so succinctly demonstrate to everyone, irrespective of role, the power of the conversational interface. The developers of many of these LLMs have been upfront with the limitations, by including warning labels about bias and unintended uses.\n\nThe realization of what AI is now doing to transform the world is becoming clearer and clearer for better or for worse. This session will help you understand more on where potential harm could come from as well as ways to mitigate it.\n\n**Presenter: Gautam Siwach**\n\nGautam Siwach is a distinguished thought leader and principal executive for open source technologies at IBM. Gautam has published several papers in top-tier conferences and journals and has also served as a reviewer for various IEEE and ACM conferences. As a passionate advocate of Generative Artificial Intelligence, Gautam has delivered talks and presented his research at various international conferences and meetups. He believes that the use of Generative AI techniques can revolutionize the field of robotics and enable safe and reliable interactions between humans and machines.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r4bf53d059410cb2c4c1093c66153d044](https://ibm.webex.com/weblink/register/r4bf53d059410cb2c4c1093c66153d044)**",
+    "endTime": "2023-04-26T09:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/292013365/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "292013365",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Unique risks of Large Language Models and how to use them more responsibly"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-unique-risks-of-large-language-models-and-how-to-use-them-more-responsibly-gautam-siwach-open-source-technologies-at-ibm",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/292013365/"
+}

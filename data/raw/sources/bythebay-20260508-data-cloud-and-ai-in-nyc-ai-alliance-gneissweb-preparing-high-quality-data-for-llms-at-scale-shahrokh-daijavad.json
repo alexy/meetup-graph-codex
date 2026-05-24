@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-05-08T12:00:00-04:00",
+    "description": "**Details**\nIBM recently released GneissWeb, a large dataset yielding around 10 trillion tokens that caters to the data quality and quantity requirements of training Large Language Models. In this talk i will do a deep dive on the philosophy behind this dataset, where it stands w.r.t the other datasets out there, how to recreate it based on the tools IBM has open sourced and some performance figures with it. This talk will be a followup of the talk given by Shahrokh Daijavad of IBM in the month of March.\n\n**Prerequisites**\nThis is a follow up to our March 6, 2025 session “Introducing GneissWeb - a state-of-the-art LLM pre-training dataset“:\n\n* Check the [GitHub show notes](https://github.com/The-AI-Alliance/community/blob/main/events/office-hours/2025-03-06__gneissweb.md)\n* Re-watch on [YouTube](https://www.youtube.com/watch?v=O3Bocouv5hs&list=PLx3IPY60uZ16yyAJZvdOUFJNJv3MU3Rmy&index=2)\n\n**About the presenter**\nBishwaranjan Bhattacharjee ([LinkedIn](https://www.linkedin.com/in/bishwaranjan-bhattacharjee-7460855)), Senior Technical Staff Member and Master Inventor, IBM Research\n\n**About the AI Alliance**\nThe [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+    "endTime": "2025-05-08T14:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/307531169/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "307531169",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] GneissWeb: Preparing High Quality Data for LLMs at Scale"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-gneissweb-preparing-high-quality-data-for-llms-at-scale-shahrokh-daijavad",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/307531169/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-jason-swartz-thinking-functionally-with-databases-event",
+  "source_id": "bythebay-20260508-scala-bay-jason-swartz-thinking-functionally-with-databases-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-jason-swartz-thinking-functionally-with-databases-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-jason-swartz-thinking-functionally-with-databases-event.json",
+  "kind": "talk",
+  "event_id": "238419430",
+  "event_title": "Jason Swartz, Thinking Functionally with Databases",
+  "title": "Jason Swartz, Thinking Functionally with Databases",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/238419430/",
+  "description": "Title Jason Swartz, Thinking Functionally with Databases Abstract As developers using a functional programming language, we embrace immutable collections and pure functions in our code. However, we often have separate rules for how we work with our persistent collections in databases. In this talk we'll look at why & how to take a more functional approach to persistence with databases, from managing the connections, using immutable table rows, and considering event-source persistence. Bio Jason Swartz is the author of \"Learning Scala\" from O'Reilly Media and a Software Engineer in the San Francisco Bay Area. He has developed Scala applications at Netflix and Mesosphere and is currently learning to live sweaty at ClassPass. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking Note The session will be streamed on Facebook: https://www.facebook.com/GlobalLogic/",
+  "date_time": "2017-03-20T18:30:00-07:00",
+  "end_time": "2017-03-20T21:30:00-07:00"
+}

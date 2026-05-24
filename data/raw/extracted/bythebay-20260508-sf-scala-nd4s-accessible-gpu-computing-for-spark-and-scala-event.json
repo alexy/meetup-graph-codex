@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-nd4s-accessible-gpu-computing-for-spark-and-scala-event",
+  "source_id": "bythebay-20260508-sf-scala-nd4s-accessible-gpu-computing-for-spark-and-scala-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-nd4s-accessible-gpu-computing-for-spark-and-scala-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-nd4s-accessible-gpu-computing-for-spark-and-scala-event.json",
+  "kind": "talk",
+  "event_id": "224052913",
+  "event_title": "ND4S: Accessible GPU Computing for Spark and Scala",
+  "title": "ND4S: Accessible GPU Computing for Spark and Scala",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/224052913/",
+  "description": "Scala will be crucial to scaling scientific computing because of Spark, Akka streaming and the speed of the JVM. At the same time, GPUs are state of the art for performing large matrix multiplies, and they vastly outperform CPUs for some workloads. So how do we take advantage of both the Scala ecosystem and GPUs? One way to combine them is by GPU-enabling Spark in a modular fashion. On the one hand, we make sure our distributed MapReduce accounts for GPUs' latency problem; on the other, we optimize CUDA to handle the tasks particular to massive linear algebra operations. In this talk, we'll cover nd4s: Scala bindings for nd4j that combine and idiomatic Scala approach with NumPy-like syntax to allow for concise and fast operations on the GPU. Adam Gibson is the co-founder of Skymind, an enterprise deep-learning and NLP firm, and creator of the distributed, open-source frameworks Deeplearning4j.org (http://deeplearning4j.org/) andND4J.org (http://nd4j.org/). Adam has taught machine-learning at Zipfian Academy and is currently deep-learning specialist in residence at GalvanizeU. Adam has spoken at Hadoop Summit, OSCon and Tech Planet in Seoul, and is the author of the forthcoming O'Reilly book: \"A Practitioner's Guide to Deeplearning4j.\" Adam consults for hedge funds, Fortune 500 companies and startups. He studied CS at Michigan Tech, and lives in Oakland.",
+  "date_time": "2015-07-30T18:30:00-07:00",
+  "end_time": "2015-07-30T21:30:00-07:00"
+}

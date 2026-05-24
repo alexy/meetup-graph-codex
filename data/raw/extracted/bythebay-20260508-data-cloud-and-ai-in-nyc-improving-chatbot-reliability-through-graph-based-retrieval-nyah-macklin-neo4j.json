@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-improving-chatbot-reliability-through-graph-based-retrieval-nyah-macklin-neo4j",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-improving-chatbot-reliability-through-graph-based-retrieval-nyah-macklin-neo4j",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-improving-chatbot-reliability-through-graph-based-retrieval-nyah-macklin-neo4j.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-improving-chatbot-reliability-through-graph-based-retrieval-nyah-macklin-neo4j.json",
+  "kind": "talk",
+  "event_id": "310093605",
+  "event_title": "[AI Alliance] Improving Chatbot Reliability Through Graph-Based Retrieval",
+  "title": "Improving Chatbot Reliability Through Graph-Based Retrieval",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Nyah Macklin @ Neo4j",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/310093605/",
+  "description": "Retrieval-Augmented Generation (RAG) is a powerful technique for building chatbots that answer questions using your own content, but it can struggle with context and accuracy on complex sites. In this session, we demonstrate how integrating GraphRAG into the open-source AllyCat chatbot leads to more accurate and context-aware responses by leveraging graph-based retrieval. With the addition of GraphRAG, this chat delivers more consistent and reliable answers, reducing hallucinations and improving the quality of chatbot interactions—key requirements for effective customer support, documentation, and user engagement. This talk will include a live demo and code walkthrough, showing how developers can quickly integrate this with their own applications and adapt it to meet specific needs. By using AllyCat, developers can provide instant, accurate support to users and continuously improve their services. **About the speaker** Nyah Macklin is a Senior Developer Advocate at Neo4j, specializing in GraphRAG, knowledge graphs, and AI-driven developer tooling. An internationally recognized speaker, content creator, and advocate for ethical AI governance, Nyah has built high-impact technical communities and led initiatives that advance a critical understanding of AI and its use cases. They are also the Founder & CTO of Afros in AI, a technical community dedicated to showcasing the multifaceted nature of artificial intelligence. Beyond Nyah's technical expertise, Nyah has a background in government leadership and technology policy, having served as Chief of Staff in the U.S. state government, where they helped shape tech-driven legislative initiatives and equity-driven legislation. When not immersed in their work, Nyah cares about empowering, teaching, and tutoring engineers, live-streaming technical deep dives, and building open-source tools that make software more accessible, explainable, and community-driven. **About the AI Alliance** The [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players. **Join the community** Sign up for the [AI Alliance newsletter](https://thealliance.ai/community) (check the website footer) and join our new [AI Alliance Discord](https://discord.gg/UmDjCzy5).",
+  "date_time": "2025-07-24T12:00:00-04:00",
+  "end_time": "2025-07-24T13:00:00-04:00"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-cross-listed-reactive-systems-at-netflix-register-at-reactive-systems-meetup-event",
+  "source_id": "bythebay-20260508-sf-scala-cross-listed-reactive-systems-at-netflix-register-at-reactive-systems-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-cross-listed-reactive-systems-at-netflix-register-at-reactive-systems-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-cross-listed-reactive-systems-at-netflix-register-at-reactive-systems-meetup-event.json",
+  "kind": "announcement",
+  "event_id": "225102693",
+  "event_title": "[cross-listed] Reactive Systems at Netflix [register at Reactive Systems meetup]",
+  "title": "Reactive Systems at Netflix [register at Reactive Systems meetup]",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "crosspost",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/225102693/",
+  "description": "Please register at Reactive Systems meetup (http://www.meetup.com/Reactive-Systems/events/225055328/)! Ben Christensen will review reactive systems at Netflix. Ben Christensen is a lead committer to RxJava and a software engineer on the Netflix API Platform team responsible for fault tolerance, performance, architecture and scale while enabling millions of customers to access the Netflix experience. Specializing in Java since the 90s and through years of web and server-side development Ben has gained particular interest and skill in building maintainable, performant, high-volume, high-impact systems. Prior to Netflix, Ben was at Apple making iOS apps and media available on the iTunes store.",
+  "date_time": "2015-09-10T18:30:00-07:00",
+  "end_time": "2015-09-10T21:30:00-07:00"
+}

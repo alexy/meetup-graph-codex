@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-dr-scalalove-or-how-i-learned-to-stop-worrying-and-love-the-functions-dianne-marsh",
+  "source_id": "bythebay-20260508-scala-bay-dr-scalalove-or-how-i-learned-to-stop-worrying-and-love-the-functions-dianne-marsh",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-dr-scalalove-or-how-i-learned-to-stop-worrying-and-love-the-functions-dianne-marsh.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-dr-scalalove-or-how-i-learned-to-stop-worrying-and-love-the-functions-dianne-marsh.json",
+  "kind": "talk",
+  "event_id": "135644722",
+  "event_title": "Scala at Netflix",
+  "title": "Dr. Scalalove, Or How I learned to Stop Worrying and Love the Functions",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/135644722/",
+  "description": "Summary: In this introduction to Scala, I will demonstrate why I love Scala and why I think that you will too. You’ll learn why you don’t need to go from 0 to functions and how you can ease yourself into this language. I’ll show you some Scala, compare it to Java, and give you pointers on how to start your journey into this functional object-oriented language. About The Speaker:A few years ago, I was frustrated by the constant beating Scala was taking as a language that is “hard to learn”, and “harder than Java”. That had not been my experience at all, so I decided to write an introductory book on Scala. Bruce Eckel generously offered to write “Atomic Scala” with me, and we brainstormed on ideas about how to keep the book simple and to not expect prior programming knowledge in Java. We decided that we would write the book without forward references or prerequisites on programming experience, and that we would target both the dedicated novice and the experienced developer. When I started writing Atomic Scala, I was the co-founder of a software consulting company. Now, I’m the Director of Engineering for Cloud Tools at Netflix, leading a team of amazing, talented developers who provide tools for our internal teams to use. Our team owns software written in Java, Groovy, Python, and yes -- Scala!",
+  "date_time": "2013-09-09T19:00:00-07:00",
+  "end_time": "2013-09-09T22:00:00-07:00"
+}

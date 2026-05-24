@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2019-06-05T18:00:00-07:00",
+    "description": "Do you hate JavaScript? Have you ever had a runtime error in your frontend? Is your UI written in Scala but you can't hire any frontend developers to work on it or backend developers that want to? Come hear about how Domino Data Lab faced these exact problems. Through trial and error we developed a way to inject React code into Scala Play, which maintains typesafety and takes advantage of JavaScript libraries to make frontend building faster.\n\nAbout the speaker:\n\nNiole Nelson builds Domino Data Lab's frontend. She likes to focus on making it harder to introduce runtime bugs and speed up development. While she isn't doing that, she is usually weight lifting or rock climbing. Her newest hobby is watching league of legends streamers, though she doesn't actually play the game.",
+    "endTime": "2019-06-05T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bythebay/events/261857275/",
+    "group": {
+      "id": "18748975",
+      "name": "Scale By the Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "261857275",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Integrating React with Scala at Domino Data Lab"
+  },
+  "event_id": "261857275",
+  "event_title": "Integrating React with Scala at Domino Data Lab",
+  "meetup_id": "meetup:18748975",
+  "meetup_name": "Scale By the Bay",
+  "meetup_url": "https://www.meetup.com/bythebay/events/?type=past",
+  "session": {
+    "description": "Do you hate JavaScript? Have you ever had a runtime error in your frontend? Is your UI written in Scala but you can't hire any frontend developers to work on it or backend developers that want to? Come hear about how Domino Data Lab faced these exact problems. Through trial and error we developed a way to inject React code into Scala Play, which maintains typesafety and takes advantage of JavaScript libraries to make frontend building faster. About the speaker: Niole Nelson builds Domino Data Lab's frontend. She likes to focus on making it harder to introduce runtime bugs and speed up development. While she isn't doing that, she is usually weight lifting or rock climbing. Her newest hobby is watching league of legends streamers, though she doesn't actually play the game.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scale-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scale-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson-2.json",
+    "source_id": "bythebay-20260508-scale-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Niole Nelson"
+      }
+    ],
+    "title": "Integrating React with Scala at Domino Data Lab"
+  },
+  "source_id": "bythebay-20260508-scale-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson-2",
+  "source_url": "https://www.meetup.com/bythebay/events/261857275/"
+}

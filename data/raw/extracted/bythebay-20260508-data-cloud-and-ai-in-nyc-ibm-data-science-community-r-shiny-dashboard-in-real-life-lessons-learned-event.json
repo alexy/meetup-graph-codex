@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-r-shiny-dashboard-in-real-life-lessons-learned-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-r-shiny-dashboard-in-real-life-lessons-learned-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-r-shiny-dashboard-in-real-life-lessons-learned-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-r-shiny-dashboard-in-real-life-lessons-learned-event.json",
+  "kind": "event",
+  "event_id": "284853039",
+  "event_title": "IBM Data Science Community: R Shiny Dashboard in Real Life – Lessons Learned",
+  "title": "IBM Data Science Community: R Shiny Dashboard in Real Life – Lessons Learned",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/284853039/",
+  "description": "Please join the IBM Data Science Community for our April 2022 virtual meetup. **⏰ Agenda** * 10.45am – Doors open * 11.00am – Welcome * 11.02am – IBM Community announcements * 11.08am – R Shiny Dashboard in Real Life – Lessons Learned (Wendy Wang) * 11:50am – Mingle * 12:00pm – Official event ends (IBM community team and speakers may stick around a little bit longer if there are still more questions) **👨🏻‍💻 Speaker bio** Wendy (Wanting) Wang ([LinkedIn](https://www.linkedin.com/in/wanting-wang/)) is a senior data scientist with IBM Expert Labs, Data & AI. After graduating from Columbia University with a master’s degree in Quantitative Methods in the Social Sciences, she joined IBM and worked as a client-facing data scientist to tackle challenging business problems from various industries, covering use cases in data analytics, machine learning, deep learning, MLOps, and trustworthy AI. **🦄 Join your local IBM Community meetup team** Want to get involved in your local IBM Community meetup and join the organizing team? [Join our Slack](https://join.slack.com/t/icmeetupsorg/shared_invite/zt-15h7ltasy-0bjQ16laSAyTaubcQCvuOQ)!",
+  "date_time": "2022-04-20T14:00:00-04:00",
+  "end_time": "2022-04-20T15:00:00-04:00"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-02-09T09:30:00-08:00",
+    "description": "*Note: **registration** with your full name and email i**s required** at*\n**[https://developer.microsoft.com/en-us/reactor/events/21648/](https://developer.microsoft.com/en-us/reactor/events/21648/)**\n*to attend. RSVP here is NOT sufficient to attend, security will have the list from the Microsoft registration page to check off your name!*\n\n**ONNX Runtime** (**[https://onnxruntime.ai](https://onnxruntime.ai/)**) is **a cross-platform machine-learning model accelerator that helps genAI models run with improved performance.**\nJoin the ONNX Runtime community meet up to learn more about how you can integrate the power of Generative AI and Large language Models (LLMs) in your apps and services, combined with ONNX Runtime speedup.\n\n**Agenda**\n9:30 – 10:00 **Introduction**\n10:00 – 10:45 **Large Language Model inference with ONNXRuntime** (Kunal Vaishnavi)\n10:45 – 11:15 **Finetuning and Inferencing Demo** (Abhishek Jindal)\n11:15 – 11:45 **ONNXRuntime on Edge** (Edward Chen)\n11:45 – 12:45 Break\n12:45 -1:15 **ONNX Runtime inference extensions** (Wenbing Li)\n1:15 – 1:45 **Generative AI Library** (Ryan Hill)\n1:45-2:00 **Q&A**\n\n**Talks:**\n**Large Language Model inference with ONNX Runtime** (Kunal Vaishnavi)\n\n* Learn how to combine the powerful capability of LLaMA-2, Mistral, Falcon and similar models with optimization and quantization improvements from ONNX Runtime (ORT). With the goal of making these models run efficiently and available for all devices, we have introduced several optimizations such as graph fusions and kernel improvements in ORT's inference capabilities. In this talk, we will go over the details of these optimizations and demonstrate the performance gains.\n\n**Finetuning and Inferencing Demo** ( Abhishek Jindal)\n\n* Demo for finetuning and inferencing a Large Language Model (LLM) using ONNX Runtime. The session will showcase the benefits of using ONNX Runtime (Training and Inference), DeepSpeed, ACPT environment and AzureML for easier and faster training of LLMs. Next, we will demo Training and Inference of Mistral 7B LLM and compare it's performance with PyTorch on both V100 and A100 GPUs.\n\n**ONNX Runtime on Edge** (Edward Chen)\n\n* Data on the edge devices? Want to respect user privacy and provide an intuitive, personalized experience for your app? ONNX Runtime now enables you to efficiently train and perform inference on resource constrained edge devices, so that data stays on the device and you provide personalized experiences through your app. Along with an overview, we will walkthrough an end-to-end example of training a model and inferencing it through ONNX Runtime.\n\n**ONNX Runtime inference extensions** (Wenbing Li)\n\n* The talk gives an overview of simplified extension of ORT kernels using native C++ functions. This includes introduction to pre-processing APIs and infrastructure for seamless end-to-end ORT inference. and a Live demonstration showcasing sample code for quick implementation.\n\n**Generative AI Library** (Ryan Hill)\n\n* The ONNX Runtime Generative AI (genai) library is a library around ONNX Runtime to provide tools to run the popular LLM models easily. Simply send text in and get text out or control the scoring of individual tokens. Popular models like Llama/Gpt/Whisper/Phi-2/Mistral are supported.",
+    "endTime": "2024-02-09T14:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/298981532/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "298981532",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[External Registration Required] ONNX Runtime Community Event"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-external-registration-required-onnx-runtime-community-event-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/298981532/"
+}

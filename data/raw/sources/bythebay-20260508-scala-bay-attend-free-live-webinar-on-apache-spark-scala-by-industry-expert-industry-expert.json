@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-10-05T07:00:00-07:00",
+    "description": "Hello,\n\nWe would like to cordially invite you to the free live Webinar on 'Apache Spark & Scala (http://unbouncepages.com/apachespark-scala/)' Scheduled on 05th October 2016, Wednesday 07:00 AM To 08:00 AM IST.\n\nBoost up your Skills with Apache Spark and Scala Webinar Completely Free\n\nTOPICS:\n\n• INTRODUCTION TO BIG DATA\n\n• INTRODUCTION TO SPARK\n\n• WHY SPARK\n\n• SPARK ECOSYSTEM\n\n• INTRODUCTION TO SCALA\n\n• PRACTICAL'S ON SPARK\n\nKEY FEATURES OF SPARK:\n\n• FAST ANALYTICS\n\n• REAL-TIME STREAM PROCESSING\n\n• FAULT TOLERANT\n\n• POWERFUL AND INTEGRATED DATA PROCESSING\n\n• EASY TO USE\n\nIn case you can't make it sign-up anyway, we'll send you the recording.\n\nThis promises to be an extremely enriching session and we hope you can make it -Register Now (http://unbouncepages.com/apachespark-scala/)\n\nIf you have any additional questions or require further clarification, please, do not hesitate to Call me on\n[masked] or send me an Email.\n\nCheers !",
+    "endTime": "2016-10-05T08:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/234618954/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "234618954",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Attend Free Live Webinar on Apache Spark & Scala by Industry Expert"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-attend-free-live-webinar-on-apache-spark-scala-by-industry-expert-industry-expert",
+  "source_url": "https://www.meetup.com/scala-bay/events/234618954/"
+}

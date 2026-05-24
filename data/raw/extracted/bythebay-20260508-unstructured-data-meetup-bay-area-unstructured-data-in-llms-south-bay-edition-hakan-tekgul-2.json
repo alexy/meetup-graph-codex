@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-hakan-tekgul-2",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-hakan-tekgul-2",
+  "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-hakan-tekgul-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-hakan-tekgul-2.json",
+  "kind": "talk",
+  "event_id": "302334199",
+  "event_title": "Unstructured Data in LLMs - South Bay Edition",
+  "title": "Unstructured Data in LLMs - South Bay Edition",
+  "conference_id": "meetup:36468260",
+  "meetup_id": "meetup:36468260",
+  "speaker_text": "Hakan Tekgul, Who Should",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/unstructured-data-sf/events/302334199/",
+  "description": "This is an in-person event! Registration is required in order to get in. **Topic:** Connecting your unstructured data with Generative AI **What we’ll do:** Have some food and refreshments. Hear three exciting talks about unstructured data and generative AI. 5:30 - 6:00 - Welcome/Networking/Registration 6:05 - 6:30 - [Yi Ding ](https://www.linkedin.com/in/dingy/) 6:35 - 7:00 - [Kunal Sonalkar,](https://www.linkedin.com/in/kunalsonalkar/) Data Scientist, Nordstrom 7:05 - 7:30 - [Hakan Tekgul](https://www.linkedin.com/in/hakantekgul/), Solutions Architect, Arize 7:45 - 8:30 - Networking **Tech Talk 1:** Small to Slide: RAG using MultiModal LLMs. **Speaker**: Yi Ding **Abstract**: With the advent of LLMs understanding multimodal inputs, document understanding has a new tool in the arsenal. Elliot Kang and I built an example using Milvus and a real slide deck to show how you can use retrieval in combination with multimodal input to get better results from your existing powerpoint slides. **Tech talk 2:** Transformers4rec: Harnessing NLP Advancements for Cutting-Edge Recommender Systems **Speaker**: Kunal Sonalkar, Data Scientist, Nordstrom **Abstract**: Transformers4rec is a powerful open-source library by NVIDIA that bridges the gap between natural language processing (NLP) and recommender systems. We will review how it leverages state-of-the-art Transformer architectures from NLP to enhance sequential and session-based recommendation tasks. **Tech Talk 3:** Evaluating RAG pipelines built on unstructured data Speaker: Hakan Tekgul, Solutions Architect, Arize **Abstract:** This talk will cover different techniques for evaluating a RAG pipeline built on unstructured data. Standing up a basic RAG pipeline is becoming easier every day, however identifying weak points in your application or dataset remains a challenge. We'll review how you can use traditional assertion-based evaluation techniques, LLM-as-a-Judge approaches, and embedding visualization tools to improve your pipeline using Arize Phoenix. **Who Should attend:** Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. **When:** September 17, 2024 5:30PM **Where:** This is an in-person event. Registration is required to get into the event. Registration in advance will close 2 days before the event. This event is co-sponsored by [Zilliz](http://zilliz.com/) (maintainers of [Milvu](https://github.com/milvus-io/milvus)s), SAP, and [Arize](https://arize.com/)",
+  "date_time": "2024-09-17T17:30:00-07:00",
+  "end_time": "2024-09-17T20:30:00-07:00"
+}

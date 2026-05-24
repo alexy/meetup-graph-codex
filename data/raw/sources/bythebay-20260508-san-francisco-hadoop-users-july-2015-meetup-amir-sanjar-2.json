@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2015-07-01T18:00:00-07:00",
+    "description": "We are happy to invite you to the July 1st SFHUG meeting! We will have one opening presentation and then have a few community-proposed breakouts. Big thanks to the Canonical team for supplying the food & drinks.\n\nAgenda\n\n6-630pm -- Networking\n\n630-650pm -- Presentation by Amir Sanjar with Q&A\n\n650-7pm -- Breakout sign-ups\n\n7-730pm -- Breakouts\n\n730-8pm -- Networking\n\nFirst presentation\n\nTitle: Hadoop: From complexity to simplicity\n\nSpeaker: Amir Sanjar, Senior Big Data Development Lead, Canonical\n\nAbstract: Big data architectures should not mean long and complex setup and operations. In this talk we'll look at tools such as Juju that make it easy to collect, index, and query massive volumes of data across Apache Hadoop, Spark and other enterprise Big Data solution stacks.\n\n1) Intro to Juju\n\n2) Apache Hadoop pluggable model - Port to CDH 5.4 stack\n\n3) Pluggable services: Apache Spark or CDH Spark\n\n4) Pluggable Data Ingestion: Flume, sqoop or Kafka\n\n5) Pluggable Data Visualization: Hue, IPyNotebook, or Apache Zeppelin\n\n6) Cloudera Manager 5.4.x deployment on AWS/MASS/Local/Azure\n\nBio: Amir is a Senior Big Data development lead with many years of experience in leading global HPC development teams from IBM POWER to SystemX. He is a specialist in the distributed solution deployment resulting in seven registered patents in United States.\n\nAdditional Information\n\nPlease RSVP to this meetup so we'll have headcount for food. Take the elevator to the 11th floor to the Cloudera office. There are a couple of paid parking lots on California St. The closest BART station is Montgomery St. about four blocks away.\n\nSee you soon!",
+    "endTime": "2015-07-01T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/222870784/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "222870784",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "July 2015 Meetup"
+  },
+  "event_id": "222870784",
+  "event_title": "July 2015 Meetup",
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "session": {
+    "description": "We are happy to invite you to the July 1st SFHUG meeting! We will have one opening presentation and then have a few community-proposed breakouts. Big thanks to the Canonical team for supplying the food & drinks. Agenda 6-630pm -- Networking 630-650pm -- Presentation by Amir Sanjar with Q&A 650-7pm -- Breakout sign-ups 7-730pm -- Breakouts 730-8pm -- Networking First presentation Title: Hadoop: From complexity to simplicity Speaker: Amir Sanjar, Senior Big Data Development Lead, Canonical Abstract: Big data architectures should not mean long and complex setup and operations. In this talk we'll look at tools such as Juju that make it easy to collect, index, and query massive volumes of data across Apache Hadoop, Spark and other enterprise Big Data solution stacks. 1) Intro to Juju 2) Apache Hadoop pluggable model - Port to CDH 5.4 stack 3) Pluggable services: Apache Spark or CDH Spark 4) Pluggable Data Ingestion: Flume, sqoop or Kafka 5) Pluggable Data Visualization: Hue, IPyNotebook, or Apache Zeppelin 6) Cloudera Manager 5.4.x deployment on AWS/MASS/Local/Azure Bio: Amir is a Senior Big Data development lead with many years of experience in leading global HPC development teams from IBM POWER to SystemX. He is a specialist in the distributed solution deployment resulting in seven registered patents in United States. Additional Information Please RSVP to this meetup so we'll have headcount for food. Take the elevator to the 11th floor to the Cloudera office. There are a couple of paid parking lots on California St. The closest BART station is Montgomery St. about four blocks away. See you soon!",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar-2.json",
+    "source_id": "bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Amir Sanjar"
+      }
+    ],
+    "title": "July 2015 Meetup"
+  },
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar-2",
+  "source_url": "https://www.meetup.com/hadoopsf/events/222870784/"
+}

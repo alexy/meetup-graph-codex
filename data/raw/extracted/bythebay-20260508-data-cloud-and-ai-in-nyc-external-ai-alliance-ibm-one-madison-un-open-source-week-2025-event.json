@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-external-ai-alliance-ibm-one-madison-un-open-source-week-2025-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-external-ai-alliance-ibm-one-madison-un-open-source-week-2025-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-external-ai-alliance-ibm-one-madison-un-open-source-week-2025-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-external-ai-alliance-ibm-one-madison-un-open-source-week-2025-event.json",
+  "kind": "unconference",
+  "event_id": "308483182",
+  "event_title": "[EXTERNAL] AI Alliance @ IBM One Madison (UN Open Source Week 2025)",
+  "title": "AI Alliance @ IBM One Madison (UN Open Source Week 2025)",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "unconference"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/308483182/",
+  "description": "This year’s [UN Open Source Week 2025](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025), June 16-20) will once again bring together a global “who is who” of Open Source leaders (see the [2024 conference report](https://www.un.org/digital-emerging-technologies/sites/www.un.org.techenvoy/files/OPSOs_for_Good_2024_Conference_Report.pdf)). As part of the official community programming on Friday, June 20, the Common Crawl Foundation, in partnership with IBM, BrightQuery, and the AI Alliance, will be hosting a half-day event at the IBM One Madison office in New York City. This half-day gathering will spotlight open data, trustworthy AI, and the evolving role of open source in shaping ethical, transparent technologies. The event features talks, panels, and networking with global leaders at the forefront of open innovation, and will include unconference-style breakouts and lightning talks from AI Alliance members, with a focus on Open Trusted Data and how to make data for AI work in safe and responsible ways. Details and RSVP: [https://lu.ma/p0a1scde](https://lu.ma/p0a1scde)",
+  "date_time": "2025-06-20T13:00:00-04:00",
+  "end_time": "2025-06-20T17:30:00-04:00"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-05-14T18:30:00-07:00",
+    "description": "Dhananjay Ragade -- Overview of Scala at LinkedIn\n\nMark Pascual -- Scala usage in LinkedIn Today\n\nJoel Koshy -- Kafka\n\nRui Wang and Joshua Erlich -- Norbert and uses of Scala in the Search & Analytics team\n\nAs usual, the schedule for the event is:\n\n6:30 - networking, food\n\n7:00 - announcements\n\n7:15 - presentation\n\n8:30 - Q&A, more networking afterward\n\nDepending on attendance, we will give away 1 or 2 copies of IntelliJ IDEA for personal use. Two copies of JRebel will be given away. One or two free PDF copies of \"Actors in Scala (http://www.artima.com/shop/actors_in_scala)\" by Philipp Haller and Frank Sommers, published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile.\n\nThis event will be recorded. We will post a link to the recording on this page when it is ready.",
+    "endTime": "2012-05-14T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/57803812/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "57803812",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala at LinkedIn"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-scala-at-linkedin-frank-sommers",
+  "source_url": "https://www.meetup.com/scala-bay/events/57803812/"
+}

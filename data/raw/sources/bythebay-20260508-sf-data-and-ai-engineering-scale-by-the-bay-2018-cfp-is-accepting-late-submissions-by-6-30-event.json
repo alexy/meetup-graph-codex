@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-06-30T19:00:00-07:00",
+    "description": "Due to the overwhelming clamor for late submissions and great talks coming in still, the CFP is logarithmically extended as follows.\n\n1/2 the program will be formed with the submissions added by 5/31.\n\nThe next quarter will take into account those sent by 6/15 and the rest of the submissions that didn’t make the cut yet.\n\nThe next part will be selected from all those plus the talks submitted by 6/30.\n\nA block of time is reserved for the invited talks of exceptionally high quality and importance, expanding the scope of the conference.\n\nSubmit your talk at scale.bythebay.io!",
+    "endTime": "2018-06-30T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/251315746/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "251315746",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scale By the Bay 2018 CFP is accepting late submissions by 6/30"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-scale-by-the-bay-2018-cfp-is-accepting-late-submissions-by-6-30-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/251315746/"
+}

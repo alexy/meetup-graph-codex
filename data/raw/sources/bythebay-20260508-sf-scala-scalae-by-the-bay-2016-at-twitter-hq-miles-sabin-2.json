@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2016-11-11T08:00:00-08:00",
+    "description": "Our annual conference starts Friday.\n\nhttp://scala.bythebay.io\n\nKeynotes by Miles Sabin, Julie Pitt, and Jay Kreps.\n\nThree tracks, corresponding to the three intractable problems in Computer Science:\n\n-- Functional Programming (\"Naming\")\n-- Reactive Microservices (\"Caching\")\n-- Data Pipelines (\"Off by One\")\n\nLeaders in software engineering at scale: Twitter, IBM, Verizon, Salesforce, Uber, Criteo, Twilio, Credit Karma, Bloomberg, Databricks, Alluxio, MemSQL, Netflix. Innovative startups doing more with less.\n\nFour panels:\n-- Scaling Scala Teams\n-- Finagle/TwitterOSS Q&A\n-- Modern Architectures and Data Pipelines\n-- Future of Functional Programming\n\nBreakfast, lunch, happy hour, and unlimited coffee. Best networking at the fantastic Twitter venue.\n\nA few late bird tickets are left: use the code SFSCALA20 (https://www.universe.com/embed/listings/49LD7R/bookings/new?modal=1&discount_code=SFSCALA20) to get yours (while supplies last). See you on Friday!",
+    "endTime": "2016-11-13T18:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/235442438/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "235442438",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scalæ By the Bay 2016 at Twitter HQ"
+  },
+  "event_id": "235442438",
+  "event_title": "Scalæ By the Bay 2016 at Twitter HQ",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "Our annual conference starts Friday. http://scala.bythebay.io Keynotes by Miles Sabin, Julie Pitt, and Jay Kreps. Three tracks, corresponding to the three intractable problems in Computer Science: -- Functional Programming (\"Naming\") -- Reactive Microservices (\"Caching\") -- Data Pipelines (\"Off by One\") Leaders in software engineering at scale: Twitter, IBM, Verizon, Salesforce, Uber, Criteo, Twilio, Credit Karma, Bloomberg, Databricks, Alluxio, MemSQL, Netflix. Innovative startups doing more with less. Four panels: -- Scaling Scala Teams -- Finagle/TwitterOSS Q&A -- Modern Architectures and Data Pipelines -- Future of Functional Programming Breakfast, lunch, happy hour, and unlimited coffee. Best networking at the fantastic Twitter venue. A few late bird tickets are left: use the code SFSCALA20 (https://www.universe.com/embed/listings/49LD7R/bookings/new?modal=1&discount_code=SFSCALA20) to get yours (while supplies last). See you on Friday!",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scalae-by-the-bay-2016-at-twitter-hq-miles-sabin-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scalae-by-the-bay-2016-at-twitter-hq-miles-sabin-2.json",
+    "source_id": "bythebay-20260508-sf-scala-scalae-by-the-bay-2016-at-twitter-hq-miles-sabin-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Miles Sabin"
+      }
+    ],
+    "title": "Scalæ By the Bay 2016 at Twitter HQ"
+  },
+  "source_id": "bythebay-20260508-sf-scala-scalae-by-the-bay-2016-at-twitter-hq-miles-sabin-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/235442438/"
+}

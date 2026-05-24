@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-12-17T18:30:00-08:00",
+    "description": "Adriaan Moors will talk about the recent Scala features, and a Scala DSL for an awesome Big Data framework will be unveiled! More details to come. Bring your holiday cheer! With this meetup we crack the new Typesafe office open for SF Scala and welcome the new Scala year, the biggest one yet.\n\nAgenda\n\n6:30pm: doors open. Social time, food and drink.\n\n6:55 Opening remarks, Jason Swartz, SF Scala\n\n7:00 State of the SF Scala Union, Alexy Khrabrov, SF Scala\n\n7:10pm: Talk I\n\nLooking out from inside: macros as seen by a compiler hacker, by Adriaan Moors.\n\nDisclaimer: the biggest macro I've ever worked on (sometimes in anger) is scalac.\n\nFor this talk, I've navigated the macro seas/swamps of sbt, scala-async and play-json's, and lived to tell the tale. In fact, I've discovered a glorious red line running through my travel diary. I don't think it was the bourbon nor the call of the macro siren, so join me and have a gander at my bountiful loot!\n\nIf you're not into red lines and pirates, don't worry -- I won't bring my parrot. I will try to talk (myself) about common pitfalls in developing macros, and how to make your macro IDE friendly. In the mean time, I leave you to ponder the commonalities of sbt's .value, async's .await and hypothetical-json's .read.\n\nBio: Adriaan is the Scala Tech Lead at Typesafe. His darkest secret is that the only macro he's ever implemented began with .\n\n8:00pm: Talk II\n\nMichal Malohlava, DSLinguist & hitchhiker through RandomForest, presents Scala API for H2O, the open source big data in-memory prediction engine, simple examples to call sophisticated algorithms and a bold roadmap that will bring Scalding and extensibility to in-memory predictions.\n\nCliff Click, the Hotspot jvm guru & CTO of H2O, will present how H2O JIT's better distributed java code for in-memory performance behind an easy to use Scala interface for Big Data.",
+    "endTime": "2013-12-17T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/153854762/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "153854762",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala at Typesafe!"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-scala-at-typesafe-adriaan-moors",
+  "source_url": "https://www.meetup.com/sf-scala/events/153854762/"
+}

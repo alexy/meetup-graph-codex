@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-juan-manuel-serrano-tagless-final-abstraction-without-guilt-habla-computing-2",
+  "source_id": "bythebay-20260508-scala-bay-juan-manuel-serrano-tagless-final-abstraction-without-guilt-habla-computing-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-juan-manuel-serrano-tagless-final-abstraction-without-guilt-habla-computing-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-juan-manuel-serrano-tagless-final-abstraction-without-guilt-habla-computing-2.json",
+  "kind": "talk",
+  "event_id": "272939887",
+  "event_title": "Juan Manuel Serrano, Tagless-final: Abstraction Without Guilt",
+  "title": "Juan Manuel Serrano, Tagless-final: Abstraction Without Guilt",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": "Habla Computing, Habla Computing Short, Juan M, Juan Manuel Serrano",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/272939887/",
+  "description": "Is tagless-final something else than programming with type classes? Is there any substantial difference between the tagless-final and MTL styles? In any case, what do we gain with these techniques? Are we losing something? For instance, can you guarantee that my code, full of purely functional abstractions, will be as efficient as if I stick to the bare “metal”? that it will be equally maintainable? In sum, can I achieve abstraction without guilt? To answer these questions, we will solve a little problem of language-integrated query in different ways: using plain SQL, List comprehensions, the repository pattern, MTL-based repositories, Quoted DSLs, and, finally, using tagless-final DSLs. For each variation, we will emphasise its virtues and, specially, its limitations, so as to make clear when it is safe to climb the ladder of abstractions without compromising what we can achieve with our beloved SQL. Speaker: Juan Manuel Serrano, Director, Habla Computing Short Bio Juan M. Serrano shares his time between the University Rey Juan Carlos and Habla Computing, a small consulting studio specialised in the design of libraries and DSLs for the Scala ecosystem. He is an advocate of Scala and purely functional programming, and has given numerous talks and courses on the subject during the last five years. Join Zoom Meeting https://scu.zoom.us/j/5883038595?pwd=WGFaNmFPQW1CNzQzZXN5a3hybUpQUT09 Meeting ID: 588 303 8595 Password: 593629 Join by phone: +1 (669) 900-6833 Meeting ID: 588 303 8595 One tap mobile +16699006833,,5883038595#",
+  "date_time": "2020-09-05T10:00:00-07:00",
+  "end_time": "2020-09-05T11:30:00-07:00"
+}

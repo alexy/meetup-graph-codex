@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-01-04T18:30:00-08:00",
+    "description": "The Simple Build Tool offers a new way to configure builds systems, starting with the basic concepts of key-value pairs and moving to configuration axis and plugins. The Simple Build tool is a powerful abstraction based on solid functional practices. This talk covers the basic abstractions used in Simple Build tool and offers \"cookbook\" recipes for how to accomplish common tasks within the standard configuration for projects.\n\nJosh Suereth is a Senior Software Engineer at Typesafe and the author of \"Scala In Depth\". He has been a Scala enthusiast since 2007. He started his professional career as a software developer in 2004 using programming languages like C++, Perl and Java. He introduced Scala into his company code base first in 2007 and soon after he was infected by Scala fever, contributing to the Scala IDE, maven-scala-plugin and Scala itself. In 2009 he began writing the book \"Scala In Depth\" which provides practical support for using Scala in every day applications. Josh has most recently been modifying the build for Scala to use SBT.\n\nWe hope to stream and record this event. One or two free copies of IntelliJ IDEA will be given away for personal use.\n\nPlease RSVP, and update your RSVP if you cannot go. Josh will present the same topic the next day to Bay Area Scala Enthusiasts (http://www.meetup.com/Bay-Area-Scala-Enthusiasts/events/44582312/).\n\n6:30 - Pizza, beer and networking\n\n7:00 - Presentation and Q&A\n\n9:00 - More networking",
+    "endTime": "2012-01-04T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/44582202/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "44582202",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Josh Suereth - SBT Introduction and Cookbook"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-josh-suereth-sbt-introduction-and-cookbook-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/44582202/"
+}

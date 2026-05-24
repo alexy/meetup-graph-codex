@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-01-09T19:00:00-08:00",
+    "description": "there was a suggestion to have a meetup at apple, with their speaker",
+    "endTime": "2017-01-09T22:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/235562020/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "235562020",
+    "isOnline": false,
+    "status": "CANCELLED",
+    "title": "apple"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-apple-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/235562020/"
+}

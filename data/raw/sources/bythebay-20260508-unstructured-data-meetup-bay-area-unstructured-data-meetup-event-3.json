@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-02-26T17:30:00-08:00",
+    "description": "This is an in-person event! [Registration](https://lu.ma/g8fpacq3) is required to get in.\n\n​**Topic:** Connecting your unstructured data with Generative LLMs\n​\n**What we’ll do:**\nHave some food and refreshments. Hear three exciting talks about unstructured data and generative AI.\n​5:30 - 6:00 - Welcome/Networking/Registration\n6:00 - 6:20 - [Stefan Webb](https://www.linkedin.com/in/stefan-webb/), Combining Lexical and Semantic Search with Milvus 2.5\n6:20 - 6:40 - [Arnab Sinha](https://www.linkedin.com/in/arnab-sinha-1735772/) & [Jean Malha](https://www.linkedin.com/in/jeanmalha/), Come learn about Bedrock’s Latest feature: Bedrock Data Automation (Preview) to simplify processing unstructured data\n6.40 - 7:00 - [Anushrut Gupta,](https://www.linkedin.com/in/anushrut-gupta/) Pushing AI's accuracy on unstructured data to 100% with PromptQL\n7:00 - 8:30 - Office hours and networking\n​\n**Who Should attend:**\nAnyone interested in talking and learning about Unstructured Data and Generative AI Apps.\n\n**Tech Talk 1:** Combining Lexical and Semantic Search with Milvus 2.5\n**Speaker**: Stefan Webb, DevRel, Zilliz\n\n**Tech Talk 2:** Come learn about Bedrock’s Latest feature: Bedrock Data Automation (Preview) to simplify processing unstructured data\n**Speakers**: Arnab Sinha (Senior Solutions Architect) & Jean Malha (Senior Specialist Solutions Architect), AWS Bedrock\n**Abstract**: Bedrock Data Automation (BDA) is a cloud-based service that simplifies the process of extracting valuable insights from unstructured content—such as documents, images, video, and audio. Come learn how BDA leverages generative AI to automate the transformation of multi-modal data into structured formats, enabling developers to build applications and automate complex workflows with greater speed and accuracy.\n\n**Tech Talk 3:** Pushing AI's accuracy on unstructured data to 100% with PromptQL\n**Speaker**: Anushrut Gupta, Product Lead, Generative AI, Hasura\n**Abstract**: Explore a next-gen approach with dynamic query planning, programmatic runtime and structured memory that dramatically outperforms traditional RAG techniques. Learn how this approach transforms the integration of unstructured data—from vector databases and text corpora to large-scale document repositories—delivering 100% accuracy in benchmarks and ensuring robust, repeatable, and scalable results.\n\n​**When:**\nFeb 26, 2025\n5:30PM\n\n​**Where:**\nThis is an in-person event! [Registration](https://lu.ma/g8fpacq3) is required to get in. Registration will close 2 days before the event. Sponsored by [Zilliz](http://zilliz.com/) (maintainers of [Milvus](https://github.com/milvus-io/milvus)). Special thanks to AWS for the venue and support.",
+    "endTime": "2025-02-26T20:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/unstructured-data-sf/events/305235082/",
+    "group": {
+      "id": "36468260",
+      "name": "Unstructured Data Meetup Bay Area",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "305235082",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Unstructured Data Meetup"
+  },
+  "meetup_id": "meetup:36468260",
+  "meetup_name": "Unstructured Data Meetup Bay Area",
+  "meetup_url": "https://www.meetup.com/unstructured-data-sf/events/?type=past",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-event-3",
+  "source_url": "https://www.meetup.com/unstructured-data-sf/events/305235082/"
+}

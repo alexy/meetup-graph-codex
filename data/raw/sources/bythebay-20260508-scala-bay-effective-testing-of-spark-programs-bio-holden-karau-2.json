@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2015-09-09T19:00:00-07:00",
+    "description": "Abstract\n\nWe all know testing is important, but often end up cutting corners because its too much effort. Come learn how to make testing Spark programs less effort and save your self from future production disasters when your recommendation system starts to return no results. We will explore how to quickly make tests for regular Spark programs, working with DataFrames, and special considerations for making effective unit tests for Spark Streaming. If you are super excited about the subject of testing Spark programs, make sure to also checkout the corresponding Strata NY talk for even more Spark testing fun. http://strataconf.com/big-data-conference-ny-2015/public/schedule/detail/42993\n\nBio\n\nHolden Karau is a software development engineer at Alpine Data Labs who is active in open source. She is one of the co-authors of the Learning Spark book as well as the author of the first Spark book and has taught Spark workshops. When she isn't wrangling software or data, she enjoys playing with fire and dancing.\n\nParking at Box HQ\n\nThere is street parking available on Del Medio Avenue, Loucks Ave and Los Altos Ave.\nPlease do not attempt to park in the parking garage at Box HQ, as access into and out of the garage is restricted, and we do not want to leave you and your car stranded in the garage!",
+    "endTime": "2015-09-09T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/225125389/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "225125389",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Effective Testing of Spark Programs"
+  },
+  "event_id": "225125389",
+  "event_title": "Effective Testing of Spark Programs",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "Abstract We all know testing is important, but often end up cutting corners because its too much effort. Come learn how to make testing Spark programs less effort and save your self from future production disasters when your recommendation system starts to return no results. We will explore how to quickly make tests for regular Spark programs, working with DataFrames, and special considerations for making effective unit tests for Spark Streaming. If you are super excited about the subject of testing Spark programs, make sure to also checkout the corresponding Strata NY talk for even more Spark testing fun. http://strataconf.com/big-data-conference-ny-2015/public/schedule/detail/42993 Bio Holden Karau is a software development engineer at Alpine Data Labs who is active in open source. She is one of the co-authors of the Learning Spark book as well as the author of the first Spark book and has taught Spark workshops. When she isn't wrangling software or data, she enjoys playing with fire and dancing. Parking at Box HQ There is street parking available on Del Medio Avenue, Loucks Ave and Los Altos Ave. Please do not attempt to park in the parking garage at Box HQ, as access into and out of the garage is restricted, and we do not want to leave you and your car stranded in the garage!",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-effective-testing-of-spark-programs-bio-holden-karau-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-effective-testing-of-spark-programs-bio-holden-karau-2.json",
+    "source_id": "bythebay-20260508-scala-bay-effective-testing-of-spark-programs-bio-holden-karau-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Bio Holden Karau"
+      }
+    ],
+    "title": "Effective Testing of Spark Programs"
+  },
+  "source_id": "bythebay-20260508-scala-bay-effective-testing-of-spark-programs-bio-holden-karau-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/225125389/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-build-ai-apps-fast-with-langflow-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-build-ai-apps-fast-with-langflow-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-build-ai-apps-fast-with-langflow-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-build-ai-apps-fast-with-langflow-event.json",
+  "kind": "event",
+  "event_id": "311657346",
+  "event_title": "[AI Alliance] Build AI Apps Fast with Langflow",
+  "title": "Build AI Apps Fast with Langflow",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/311657346/",
+  "description": "This is an intro talk for [Langflow](https://www.langflow.org), a open source visual IDE devs can use to quickly create and iterate on agentic and generative AI workflows for applications. Model and vector store agnostic, no license, no vendor tie-in, just build AI flows and connect them to your app. We’ll build out some basic AI agents, a RAG pipeline, use MCP tools, and demonstrate a basic application using a Langflow AI agent. **About the presenter** David Jones-Gilardi (IBM) is a Gen-AI/Agentic nerd with decades of coding experience who loves to learn and help others do the same! **About the AI Alliance** The [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players. **Join the community** Sign up for the [AI Alliance newsletter](https://thealliance.ai/community) (check the website footer) and join our new [AI Alliance Discord](https://discord.gg/YtsWdke6E9).",
+  "date_time": "2025-10-30T12:00:00-04:00",
+  "end_time": "2025-10-30T13:00:00-04:00"
+}

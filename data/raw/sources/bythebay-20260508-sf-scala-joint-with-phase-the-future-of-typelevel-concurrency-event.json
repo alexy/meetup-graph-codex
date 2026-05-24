@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2021-02-24T16:30:00-08:00",
+    "description": "This is a joint meetup with PHASE, Philly Scala Enthusiasts. with our great friends Brian Clapper moderating and Michael Pilquist presenting. Their timing works perfectly for our coast.\n\nPlease register at PHASE:\n\nhttps://www.meetup.com/scala-phase/events/275889960/\n\nThe Cats Effect and FS2 libraries power dozens of high level Scala libraries and provides the foundation for safe, functional concurrency. Cats Effect 3 & FS2 3 are on the verge of release, after 18 months of development, representing the largest change to the fundamentals since the initial 1.0 release. In this talk, we’ll look at what’s new and exciting in Cats Effect 3 and FS2 3.\n\nThis meeting will, of course, be virtual. It will be recorded, and the recording will be posted to YouTube sometime after the meeting.\n\nNOTE: The Zoom meeting uses the \"waiting room\" feature. The host (Brian Clapper) will have to admit you to the meeting, so please be patient when you attempt to join. (This policy helps avoid zoom-bombing.)",
+    "endTime": "2021-02-24T18:30:00-08:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/276257156/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "276257156",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Joint with PHASE: The Future of Typelevel Concurrency"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-joint-with-phase-the-future-of-typelevel-concurrency-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/276257156/"
+}

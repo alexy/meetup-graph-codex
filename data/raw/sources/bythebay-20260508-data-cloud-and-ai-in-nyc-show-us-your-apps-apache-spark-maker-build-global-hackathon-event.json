@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-08-23T17:00:00-04:00",
+    "description": "THIS IS A GLOBAL ON-LINE HACKATHON THAT BEGINS MAY 23, 2016 AND NOW ENDS AUGUST 23, 2016. SUBMISSIONS DUE AUGUST 23rd BY 5:00 PM EST.\n\nWe’re extending the hackathon deadline to August 23 - that’s 20 additional days to build your Spark enterprise app. (View the revised competition calendar HERE (http://apachespark.devpost.com/details/dates). We're giving you more time because....\n\nWe’re adding new enterprise data resources to the site and we want to give you a chance to incorporate these into your projects, if you so choose. Our awesome data co-sponsors Yelp (http://www.yelp.com/nyc) and Uncharted Software (https://uncharted.software/) have generously shared some of their enterprise data sets for you to use during the hackathon.\n\nYelp’s data includes 2.2M reviews by 552K users for 77K businesses. The Uncharted data includes Bitcoin network transactions from processing the Bitcoin blockchain as of mid-2014 and Amazon product reviews from 1995 through 2003. For a fuller description and data access, visit our resources page (http://apachespark.devpost.com/details/resources#datasets).\n\nUncharted Software also has a couple cool Spark data visualization libraries you should check out: Salt (http://unchartedsoftware.github.io/salt/) and SparkPipe. (http://unchartedsoftware.github.io/sparkpipe-core/)\n\nAnd, in case you’d like to weigh the effects of weather on business operations, we’re also offering access to the full suite of Weather Company APIs (http://apachespark.devpost.com/details/weather_data) for the duration of the hackathon.\n\nFinally, if you’re looking for a hosting solution for your Spark app, we’re now offering extended Bluemix trials for all hackathon participants. Using Bluemix services to build your project is totally optional, but might be a good way to get your app up and running — particularly with the IBM Analytics for Apache Spark service.\n\nYou can request your extended Bluemix trial code here. (http://apachespark.devpost.com/details/bluemix_promo)\n\nFor all hackathon participants, trials will extend through November 1, 2016.\n\nNow go forth and optimize for the enterprise!\n\n---------------------\n\nBuild an Apache Spark application to address a real business problem or core concern related to customer care, marketing, risk management or operations. Join IBM and Devpost for a global hackathon using Apache Spark Makers Build (http://apachespark.devpost.com/?utm_source=facebook-partner&utm_medium=wall-post&utm_campaign=apachespark). There are $100,000 in cash prizes. Submissions can be sent in up to August 23rd.\n\nParticipation Details: To participate in the global virtual hackathon, you can register here (http://apachespark.devpost.com/?utm_source=facebook-partner&utm_medium=wall-post&utm_campaign=apachespark). Please review all registration guidelines.\n\nFor the hack, you will apply Apache Spark's powerful analytics capabilities to enterprise and other relevant data so data scientists and software developers can build an analytics or mobile/web app that tackles a key business problem in marketing, customer case, operations or risk management. The grand prize is $50,000, and the top three winners each get a meeting with the judge or\nSpark community expert of their choice; the judging panel includes data experts from Tesla, Netflix, and Silicon Valley Data Science.\n\nGo to apachespark.devpost.com (http://apachespark.devpost.com/?utm_source=facebook-partner&utm_medium=wall-post&utm_campaign=apachespark) for full details and registration. Please review all registration rules.\n\nQuestions?\n\nWe're here to help. If you have any questions about the hackathon, post on the discussion forum (http://apachespark.devpost.com/forum_topics)or email support@devpost.com and we'll respond as soon as we can.",
+    "endTime": "2016-08-23T20:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/231577965/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "231577965",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Show Us Your Apps - Apache Spark Maker Build Global Hackathon"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-show-us-your-apps-apache-spark-maker-build-global-hackathon-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/231577965/"
+}

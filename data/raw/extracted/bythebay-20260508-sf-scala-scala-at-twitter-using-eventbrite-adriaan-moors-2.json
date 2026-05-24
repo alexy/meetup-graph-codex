@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors-2",
+  "source_id": "bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors-2.json",
+  "kind": "talk",
+  "event_id": "220062096",
+  "event_title": "Scala at Twitter (using Eventbrite)",
+  "title": "Scala at Twitter (using Eventbrite)",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Adriaan Moors, Brian Degenhardt, Stu Hood",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/220062096/",
+  "description": "As usual for Twitter events, we're using Eventbrite registration. We're keeping the Meetup RSVP locked and ask you to register at Eventbrite: https://www.eventbrite.com/e/scala-at-twitter-tickets-15439894139 . Scala plays a central role in many parts of Twitter's infrastructure, and Twitter's open source Scala projects and training materials have been widely adopted by the Scala community. At this meetup Twitter's own Stu Hood and Brian Degenhardt will talk about how Twitter uses Scala (and how Twitter migrated several million lines of code from Scala 2.9 to 2.10), and Typesafe's Adriaan Moors will outline where Scala is going in 2.12 and beyond. 6:00pm: Doors open 6:30pm: Welcome 6:45pm: Scala at Twitter by Stu Hood 7:20pm: Migrating Twitter to Scala 2.10 (and 2.11) by Brian Degenhardt 7:55pm: The future of Scala by Adriaan Moors 8:30pm: Additional questions, networking, food and drinks 9:00pm: End of event",
+  "date_time": "2015-02-17T18:00:00-08:00",
+  "end_time": "2015-02-17T21:00:00-08:00"
+}

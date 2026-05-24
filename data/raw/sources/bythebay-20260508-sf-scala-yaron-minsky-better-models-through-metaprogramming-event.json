@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-09-27T18:00:00-07:00",
+    "description": "Note: Functional Programming for Machine Learning is one of the key directions explored by this year's Scale By the Bay (http://scale.bythebay.io) conference held at Twitter, November 16-18.\n\nAs a trading firm, Jane Street (https://www.janestreet.com/) needs the ability to work collaboratively on quantitative models, with many users defining, modifying, debugging, and viewing the results in real-time. These models need to be scalable, both in terms of performance and in terms of the understandability of the resulting system.\n\nWe will discuss some traditional approaches to this problem in the financial industry, as well the system we built for this case, called Webs. Webs uses a graph-based computational model specified using OCaml as a metalanguage to allow for concise description of programs, while still making the models easy to inspect, customize and debug. This is coupled with a parallel, incremental, evaluation engine for real-time results efficiently.\n\nYaron Minsky joined Jane Street back in 2002, and claims the dubious honor of having convinced the firm to start using OCaml. He also spends way too much time teaching his kids how to program.",
+    "endTime": "2017-09-27T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/243125720/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "243125720",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Yaron Minsky: Better Models through Metaprogramming"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-yaron-minsky-better-models-through-metaprogramming-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/243125720/"
+}

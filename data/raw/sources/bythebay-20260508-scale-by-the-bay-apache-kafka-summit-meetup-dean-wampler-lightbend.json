@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-08-29T18:00:00-07:00",
+    "description": "Apache Kafka is deeply represented as a key part of the SMACK stack at the Scale By the Bay conference, to be held at Twitter in November. We also run the first Istio workshop there. Early Bird ends 8/31 (http://scale.bythebay.io/), get your tickets early!\n\nThis meetup will follow the Kafka Summit (https://kafka-summit.org), and will feature both \"official\" Confluent speakers and community presentations. If you want to share your Kafka experiences in a lightning talk (~10min), please comment so!\n\n(1) Heraclitus, the Metaphysics of Change, and Streaming DataTim Berglund, Senior Director of Developer Experience, Confluent\n\nHailing from the Persian city of Ephesus in around 500 BC, the Greek philosopher Heraclitus is famous for his trenchant analysis of stream processing systems, saying “You never step into the same river twice.” Central to his philosophy was the idea that all things change constantly. His close readers also know him as the Weeping Philosopher—perhaps because dealing with constantly changing data at low latency is actually pretty hard. It doesn’t need to be that way.\n\nAlmost as famous as Heraclitus is Apache Kafka, the de facto standard open-source distributed stream processing system. Many of us know Kafka’s architectural and pub/sub API particulars as well as we know the philosophy of Heraclitus, but that doesn’t mean we’re equipped to build the kind of real-time streaming data systems that the next generation of business requirements are doing to demand. Like Heraclitus was telling us 2,500 years ago: we need to get on board with streams.\nThis talk is a thorough introduction to the Streams API, an important recent addition to Kafka that lets us build sophisticated stream processing systems that are as scalable and fault-tolerant as Kafka itself, and also happen to align quite well with the microservices sensibilities that are so common in contemporary architectural thinking. We’ll talk about how to deploy Streams applications and look at actual working code that will bring your thinking about streaming data systems from the ancient history of pub/sub paradigms into the current era.\n\nSpeaker: Tim is a teacher, author, and technology leader with Confluent, where he serves as the Senior Director of Developer Experience. He can frequently be found at speaking at conferences in the United States and all over the world. He is the co-presenter of various O’Reilly training videos on topics ranging from Git to Distributed Systems, and is the author of Gradle Beyond the Basics. He tweets as @tlberglund, blogs very occasionally at http://timberglund.com (http://timberglund.com/), is the co-host of the http://devrelrad.io (http://devrelrad.io/) podcast, and lives in Littleton, CO, USA with the wife of his youth and their youngest child, the other two having mostly grown up.\n\n(2) Four Streaming Engines, Dean Wampler, VP of Fast Data Engineering at Lightbend\n\nSo you want to build a streaming pipeline. Which tools do you choose? What criteria should you use to make that decision? I'll discuss several criteria for picking the right streaming engine and how four engines, Spark, Flink, Akka Streams, and Kafka Streams meet those criteria, or don't.\n\nDean Wampler, Ph.D., is the VP of Fast Data Engineering at Lightbend, leading the development of Lightbend Fast Data Platform, a scalable, distributed stream data processing stack using Spark, Flink, Kafka, and Akka, with machine learning and management tools. Dean is the author of several O'Reilly books, including Programming Scala, Second Edition. He is a contributor to several open source projects and the co-organizer of several conferences around the world and several user groups in Chicago. Dean can be found on Twitter as @deanwampler.\n\nWe're also adding lightning talks, including Nitro and Istio!",
+    "endTime": "2017-08-29T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bythebay/events/242744831/",
+    "group": {
+      "id": "18748975",
+      "name": "Scale By the Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "242744831",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Apache Kafka Summit Meetup"
+  },
+  "meetup_id": "meetup:18748975",
+  "meetup_name": "Scale By the Bay",
+  "meetup_url": "https://www.meetup.com/bythebay/events/?type=past",
+  "source_id": "bythebay-20260508-scale-by-the-bay-apache-kafka-summit-meetup-dean-wampler-lightbend",
+  "source_url": "https://www.meetup.com/bythebay/events/242744831/"
+}

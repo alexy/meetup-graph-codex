@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18601481:bythebay-20260508-sf-data-and-ai-engineering-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event.json",
+  "kind": "event",
+  "event_id": "240398046",
+  "event_title": "[partner meetup] Let's talk SMACK: Meet the SMACK Stack Experts AMA Meetup",
+  "title": "Let's talk SMACK: Meet the SMACK Stack Experts AMA Meetup",
+  "conference_id": "meetup:18601481",
+  "meetup_id": "meetup:18601481",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/240398046/",
+  "description": "https://www.meetup.com/Bay-Area-Mesos-User-Group/events/240212186/ This meetup is a part of the Cognitive Frameworks Festival: festival.framework.foundation -- run at Mesosphere by our partner Mesos User Group, and requires external registration below. For the brief history of the SMACK stack, popularized first at this meetup, see http://chief.sc/smackstack . Please RSVP for the meetup HERE to guarantee yourself a seat! (https://www.eventbrite.com/e/lets-talk-smack-meet-the-smack-stack-experts-ama-meetup-tickets-34758244846) Let's talk some SMACK! Join us for a fantastic evening with some of the experts of the SMACK stack technologies. For this meetup, we'll be doing things a little differently and running it like a live reddit AMA (ask me anything). We'll have a panelist of experts from the technologies in the SMACK stack (Apache Spark,Mesosphere/Apache Mesos, Akka, Apache Cassandra, ApacheKafka) to answer any and all questions you may have, so please come prepared with some good questions! For full details (full meetup description, who the panelists are, etc) remember to RSVP HERE. Hope to see you all there!",
+  "date_time": "2017-06-05T18:00:00-07:00",
+  "end_time": "2017-06-05T21:00:00-07:00"
+}

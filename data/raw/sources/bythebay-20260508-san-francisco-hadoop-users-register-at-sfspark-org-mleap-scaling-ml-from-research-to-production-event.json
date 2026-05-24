@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-05-04T18:00:00-07:00",
+    "description": "Reminder: SF Hadoop and SF Spark is now the same meetup. Please see the details and register at sfspark.org.",
+    "endTime": "2017-05-04T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/239734942/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "239734942",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[register at sfspark.org] MLeap: Scaling ML from Research to Production"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-register-at-sfspark-org-mleap-scaling-ml-from-research-to-production-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/239734942/"
+}

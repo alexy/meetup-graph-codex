@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2014-07-29T18:30:00-07:00",
+    "description": "ANNOUNCEMENT: Scala By the Bay (http://scalabythebay.org) conference and training registration (http://www.scalabythebay.org/#tickets) is now in progress!\n\nMake sure you register via Eventbrite below -- you will not get in without a ticket.\n\nTwitter is built on distributed services that interact with each other in complex ways. This meetup is focused on three of the Scala libraries that Twitter has developed to make this architecture both more scalable and more intelligible to engineers.\n\nSonja Keserovic (https://twitter.com/thesonjake) manages the Core System Libraries team at Twitter. She will be speaking about the history and future of Finagle (http://twitter.github.io/finagle/), Twitter's open source distributed RPC framework.\n\nJeff Smick (https://twitter.com/sprsquish) is one of the core developers of Twitter's Zipkin (http://twitter.github.io/zipkin/), an open source distributed tracing system that Twitter uses to gather timing data for a wide range of services. He will be speaking about how Zipkin is integrated with Finagle, and how you can use Zipkin to gain insight into the performance of your distributed system.\n\nJake Donham (https://twitter.com/jakedonham) is a programmer at Twitter. He has a deep interest in applying ideas from functional programming to commercial software development. He will be speaking about Stitch, a Scala library used at Twitter which implements an applicative functor for composing RPC service calls (drawing inspiration from Facebook's Haxl), along with per-service adaptors which layer nice application interfaces over raw RPC interfaces. Stitch allows application code to be written in a clear, modular way, and also executed efficiently at the RPC level.\n\nPlease sign up here and use Eventbrite #SFScala at TwitterHQ (https://www.eventbrite.com/e/sfscala-at-twitter-hq-tickets-11938023951) event to register for Twitter access. You won't be able to enter the building without registering at Eventbrite. Signing up here does not guarantee you a seat, even if you fall within the range -- only an Eventbrite ticket does.\n\nAgenda\n\n6:30pm: Doors Open\n7:00pm: Welcome\n7:15pm: Finagle at Twitter by Sonja Keserovic (@thesonjake)\n7:45pm: Zipkin at Twitter by Jeff Smick (@sprsquish)\n8:15pm: Introducing Stitch by Jake Donham (@jakedonham)\n8:45pm: Networking, Food and Drinks\n9:30pm: End of Event\n\n*Note: No press will be admitted to this event; please e-mail press@twitter.com if you have any questions. Twitter reserves the right to refuse entry to this event. Twitter also reserves the right to remove individuals from Twitter's premises for disruptive or disorderly behavior, or for any other reason in Twitter's sole discretion. Please arrive before 7:30 to ensure admission to the building.",
+    "endTime": "2014-07-29T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/190237322/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "190237322",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "#SFScala at Twitter HQ"
+  },
+  "event_id": "190237322",
+  "event_title": "#SFScala at Twitter HQ",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "ANNOUNCEMENT: Scala By the Bay (http://scalabythebay.org) conference and training registration (http://www.scalabythebay.org/#tickets) is now in progress! Make sure you register via Eventbrite below -- you will not get in without a ticket. Twitter is built on distributed services that interact with each other in complex ways. This meetup is focused on three of the Scala libraries that Twitter has developed to make this architecture both more scalable and more intelligible to engineers. Sonja Keserovic (https://twitter.com/thesonjake) manages the Core System Libraries team at Twitter. She will be speaking about the history and future of Finagle (http://twitter.github.io/finagle/), Twitter's open source distributed RPC framework. Jeff Smick (https://twitter.com/sprsquish) is one of the core developers of Twitter's Zipkin (http://twitter.github.io/zipkin/), an open source distributed tracing system that Twitter uses to gather timing data for a wide range of services. He will be speaking about how Zipkin is integrated with Finagle, and how you can use Zipkin to gain insight into the performance of your distributed system. Jake Donham (https://twitter.com/jakedonham) is a programmer at Twitter. He has a deep interest in applying ideas from functional programming to commercial software development. He will be speaking about Stitch, a Scala library used at Twitter which implements an applicative functor for composing RPC service calls (drawing inspiration from Facebook's Haxl), along with per-service adaptors which layer nice application interfaces over raw RPC interfaces. Stitch allows application code to be written in a clear, modular way, and also executed efficiently at the RPC level. Please sign up here and use Eventbrite #SFScala at TwitterHQ (https://www.eventbrite.com/e/sfscala-at-twitter-hq-tickets-11938023951) event to register for Twitter access. You won't be able to enter the building without registering at Eventbrite. Signing up here does not guarantee you a seat, even if you fall within the range -- only an Eventbrite ticket does. Agenda 6:30pm: Doors Open 7:00pm: Welcome 7:15pm: Finagle at Twitter by Sonja Keserovic (@thesonjake) 7:45pm: Zipkin at Twitter by Jeff Smick (@sprsquish) 8:15pm: Introducing Stitch by Jake Donham (@jakedonham) 8:45pm: Networking, Food and Drinks 9:30pm: End of Event *Note: No press will be admitted to this event; please e-mail press@twitter.com if you have any questions. Twitter reserves the right to refuse entry to this event. Twitter also reserves the right to remove individuals from Twitter's premises for disruptive or disorderly behavior, or for any other reason in Twitter's sole discretion. Please arrive before 7:30 to ensure admission to the building.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-sfscala-at-twitter-hq-jake-donham-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-sfscala-at-twitter-hq-jake-donham-2.json",
+    "source_id": "bythebay-20260508-sf-scala-sfscala-at-twitter-hq-jake-donham-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Jake Donham"
+      },
+      {
+        "company": null,
+        "name": "Jeff Smick"
+      },
+      {
+        "company": null,
+        "name": "Sonja Keserovic"
+      }
+    ],
+    "title": "#SFScala at Twitter HQ"
+  },
+  "source_id": "bythebay-20260508-sf-scala-sfscala-at-twitter-hq-jake-donham-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/190237322/"
+}

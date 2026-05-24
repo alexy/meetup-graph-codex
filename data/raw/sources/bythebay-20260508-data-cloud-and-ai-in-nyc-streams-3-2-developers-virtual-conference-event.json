@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-11-14T10:00:00-05:00",
+    "description": "THIS IS A WEB CONFERENCE ONLY - TIME INDICATED IS LOCAL START TIME. SEE BELOW FOR DETAILS.\n\nIBM InfoSphere Streams V3.2 (http://www-03.ibm.com/software/products/us/en/infosphere-streams/) (referred to as Streams) delivers a highly scalable, agile software infrastructure to perform in-motion analytics (http://www-01.ibm.com/software/data/infosphere/stream-computing/) on a wide variety of relational and non-relational data types that enter the enterprise at unprecedented volumes and speed, and from thousands of real-time sources. Streams V3.2 includes new features and functions designed to instantly analyze and fuse massive volumes of data and integrates with existing infrastructures. It delivers new capabilities to improve usability, support enterprise readiness, and streamline enterprise integration.\n\nWHAT:\n\nThe following new features and functions, which will be covered during the Streams Developer Conference:\n\nUsability:\n• Remote Development with Streams Studio for Windows and Linux\n• User Defined Parallelism\n• Java Streams development simplification\n\nEnterprise readiness:\n• Operational Decision Management adapter for business rules\n• Access to application data using Representational State Transfer (REST)\n\nEnterprise integration:\n• MQTT adapters\n• Hadoop Big SQL support\n• HP Vertica Analytic Database support\n\nWho should attend:\n\nThe event assumes you are familiar with Streams. If you are not, please either try the Big Data University Streams course (http://bigdatauniversity.com/bdu-wp/bdu-course/stream-computing-i/) or review some of the Streams videos on YouTube (http://www.youtube.com/user/ibmbigdata/search?query=streams).\n\nWHEN:\n\nWebcast (https://www.webdialogs.com/join/?schedid=2058889) on Thursday November 14, 2013 from 10:00AM to 6:00PM U.S. Eastern Standard Time.\n\nWHERE:\n\nThe webcast will be recorded and posted to Big Data University (BDU) at the following Big Data University course ID (https://bigdatauniversity.com/courses/auth/openid/login.php).\n\nNOTE: There will be no physical location for this meetup and it will all be online.\n\nTo get more info, download presentations, get detailed agenda and to register for the event check out the BDU Streams Developers Virtual Conference landing page (http://bigdatauniversity.com/bdu-wp/bdu-course/ibm-infosphere-streams-3-2-developers-conference/).\n\nThe detailed agenda will be posted at the BDU class/event page after Oct 31.\n\nPlease join us on the live LotusLive meeting webcast (https://www.webdialogs.com/join/?schedid=2058889). The conference ID is 2058889. Audio in listen only mode will be available on the webcast.\n\nTo ask questions during Q&A periods, please use the following conference information:\n\nUSA Toll-Free: 1-888-426-6840\n\nUSA Caller Paid: 1-215-861-6239\n\nFor Other Countries call in numbers use this link (https://www.teleconference.att.com/servlet/glbAccess?process=1&accessCode=7821035&accessNumber=2158616239).\n\nParticipant Code: 7821035\n\nWe look forward to sharing details about these new capabilities.",
+    "endTime": "2013-11-14T18:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/148758542/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "148758542",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Streams 3.2 Developers Virtual Conference"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-streams-3-2-developers-virtual-conference-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/148758542/"
+}

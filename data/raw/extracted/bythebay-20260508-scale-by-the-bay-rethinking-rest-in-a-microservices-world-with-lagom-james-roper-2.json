@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18748975:bythebay-20260508-scale-by-the-bay-rethinking-rest-in-a-microservices-world-with-lagom-james-roper-2",
+  "source_id": "bythebay-20260508-scale-by-the-bay-rethinking-rest-in-a-microservices-world-with-lagom-james-roper-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scale-by-the-bay-rethinking-rest-in-a-microservices-world-with-lagom-james-roper-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scale-by-the-bay-rethinking-rest-in-a-microservices-world-with-lagom-james-roper-2.json",
+  "kind": "talk",
+  "event_id": "229841984",
+  "event_title": "Rethinking REST in a Microservices World with Lagom",
+  "title": "Rethinking REST in a Microservices World with Lagom",
+  "conference_id": "meetup:18748975",
+  "meetup_id": "meetup:18748975",
+  "speaker_text": "James Roper",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bythebay/events/229841984/",
+  "description": "Schedule: 6:30: Open Doors 7:00: Reactive Patterns & Big Data at IMS 7:15: Main Talk Abstract Many of us are doing microservices wrong. We’re splitting our systems up into smaller and smaller services, paying all the costs that that entails, but only getting a taste of the benefits, and the problem is REST. Microservices are supposed to promise isolation, isolation from faults, isolation from load failures, but synchronous communication means failure and unresponsiveness bubbles back up through our services along our communication pathways, undermining the promises that microservices offer. To realise the full potential of microservices, we need to stop using REST as our go to, and start rethinking our architectures to use asynchronous communication. This presentation looks at how this can be achieved in a practical manner. Speaker: James Roper, Lightbend (james@lightbend.com) James is an Australian open source developer working as the tech lead of Play Framework at Lightbend. His passion is to see reactive software development adopted in the enterprise. In the past he was worked on web scale social networks at Holzbrinck Publishing Group, SaaS software development tools at Atlassian, and in a range of industries from manufacturing to financial services at CSC. When he’s not hacking on Play or other open source projects, he loves playing piano and guitar, and also likes growing his own vegetables. https://twitter.com/jroper https://jazzy.id.au/",
+  "date_time": "2016-04-21T18:30:00-07:00",
+  "end_time": "2016-04-21T21:30:00-07:00"
+}

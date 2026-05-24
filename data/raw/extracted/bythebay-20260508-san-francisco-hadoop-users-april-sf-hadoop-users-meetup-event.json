@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event.json",
+  "kind": "talk",
+  "event_id": "170948182",
+  "event_title": "April SF Hadoop Users Meetup",
+  "title": "April SF Hadoop Users Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/170948182/",
+  "description": "The April SF Hadoop User Group meetup will be held Wednesday, April 9 from 6:00pm to 8:00pm. This meetup will be hosted by Cloudera, located at 433 California Street, Suite 1100 San Francisco, CA 94104. Food and drinks will be served. Cloudera engineers Xuefu Zhang and Srayva Tirukkovalur will present \"Apache Sentry: Enterprise-grade Security for Hadoop.\" The presentation will be followed by breakout sessions. More information on the presentation: \"Apache Sentry: Enterprise-grade Security for Hadoop\" Cloudera, Xuefu Zhang and Srayva Tirukkovalur Apache Hadoop offers strong support for authentication and coarse grained authorization - but this is not necessarily enough to meet the demands of enterprise applications and compliance requirements. Providing fine-grained access to data will enable organizations to store more sensitive information in Hadoop; only those users with the appropriate privileges will ever see that sensitive data. Apache Sentry (incubating) is a new open source authorization module that integrates with Hadoop-based SQL query engines (Hive and Impala). In this talk, two of its developers will provide details on its implementation, as well as a short demo.",
+  "date_time": "2014-04-09T18:00:00-07:00",
+  "end_time": "2014-04-09T21:00:00-07:00"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-10-26T18:45:00-07:00",
+    "description": "Note: the SMACK Stack (Scala/Spark/Mesos/Akka/Cassandra/Kafka) is covered in depth at Scalæ By the Bay (http://scala.bythebay.io) conference at Twitter, November 11-13. Use SFSPARK20 for 20% off remaining registrations.\n\nFor this meetup we are excited to be doing a joint meetup with the CassandraSF, SF Spark & SF Hadoop meetups for 3 great talks! What You'll Learn at this Meetup:\n\n1) Building Your First Spark & Cassandra Application: A Code-Along Adventure w/ Russell Spitzer: Not sure where to start with Cassandra and Spark? Together let’s walk through starting your first Spark Application. We’ll walk through the setting up your IDE and integration tests, everything you need to build your first scalable and distributed Spark App. Learn how to use embedded Cassandra and Spark to write your own tests which are easily debuggable in standard IDEs. This will be a short but interactive adventure! Feel free to bring your own laptop and come code along!\n\nWe will be using IDEA along with the template provided by Datastax\n\nAbout Russell Spitzer: After earning his Ph.D in bioinformatics from UCSF, Russell Spitzer took his love of big data to DataStax. There he has worked on all aspects of integrating Cassandra with other Apache technologies like Spark, Hadoop and Solr. Now his main focus on the integration of Cassandra with Apache Spark via the Spark Cassandra Connector. -------\n\n2) The SMACK Stack Overview w/ Alexy Khrabrov: SMACK stands for Scala/Spark, Mesos, Akka, Cassandra and Kafka, and generally means a complete, end-to-end data pipeline of a modern web-scale company such as Twitter or Uber. Each letter names a system representative of the backend component it's responsible for: Akka is API, Kafka is the message bus, Cassandra is persistence, and Spark is compute. This talk will link topics in Sf Cassandra, SF Spark, and SF Hadoop as they come together in the data pipelines.\n\nAbout Alexy Khrabrov: Alexy is the founder and organizer of SF Scala, SF Spark, Bay Area AI (http://bay.area.ai), Reactive Systems meetups, and Scala By the Bay conference ( http://scala.bythebay.io , held at Twitter on November 11-13) and other community organizations.\n\n-------\n\n3) The Cassandra Odyssey w/ Phil Gentry\n\nIn this talk, we’ll discuss our use case for Cassandra at Coffee Meets Bagel and how our use of Cassandra has evolved in recent times. As a devops engineer, I’ve been working on our Cassandra implementation over the last few months, learning about Cassandra as I go. We're now reaching new levels of performance, despite seeing our heaviest loads of traffic ever. My hope in sharing our story is simply that you will find something useful in it, either in method or some revealing bit of trivia... and I also know that we'll find something useful in talking to you, the Cassandra community. * A big thank you to Uber for hosting and providing beer + sodas! Food and drinks will be served, hope to see you all there!",
+    "endTime": "2016-10-26T21:45:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/234932979/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "234932979",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "1) Building your first Spark & C* App 2) SMACK Stack 3) The Cassandra Odyssey"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-1-building-your-first-spark-c-app-2-smack-stack-3-the-cassandra-odyssey-russell-spitzer",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/234932979/"
+}

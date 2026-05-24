@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-05-31T22:00:00-07:00",
+    "description": "The 8th Annual Scale By the Bay developer conference will be held either online or in person in November, 2020.\n\nThe CFP is now open at https://scale.bythebay.io.\n\nThe First Choice CFP will run until May 31st, when 1/2 of the program will be selected. The next 1/4 will be selected by June 30th, and so on. The bar will move higher in each iteration, allowing for the strongest talks to still join.\n\nPlease submit your best talk early, and hope to see you on the program!",
+    "endTime": "2020-06-01T00:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/270391657/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "270391657",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "First Choice Scale By the Bay 2020 CFP is now Open through May 31"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-first-choice-scale-by-the-bay-2020-cfp-is-now-open-through-may-31-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/270391657/"
+}

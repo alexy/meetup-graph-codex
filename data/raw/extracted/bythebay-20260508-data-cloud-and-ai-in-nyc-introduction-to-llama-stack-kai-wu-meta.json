@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-llama-stack-kai-wu-meta",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-llama-stack-kai-wu-meta",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-llama-stack-kai-wu-meta.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-llama-stack-kai-wu-meta.json",
+  "kind": "talk",
+  "event_id": "310378555",
+  "event_title": "[AI Alliance] Introduction to Llama Stack",
+  "title": "Introduction to Llama Stack",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Kai Wu @ Meta",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/310378555/",
+  "description": "Meta is excited to announce a deeper collaboration between the AI Alliance and Meta’s [Llama Stack](https://www.llama.com/products/llama-stack/ \"https://www.llama.com/products/llama-stack/\"), marking a significant milestone in advancing open-source AI development. We invite ISVs and businesses of all sizes to explore partnership opportunities with the AI Alliance, Meta, and Llama Stack. [Please fill out this form](https://urldefense.proofpoint.com/v2/url?u=https-3A__events.thealliance.ai_llamastack&d=DwMFaQ&c=BSDicqBQBDjDI9RkVyTcHQ&r=DHAaH19x6Ok_lcfZAj_EmkOopfCGnxUbLlWbHJvLbzA&m=JcOzoRVIwV8eZyCHX2zr7ccZiOOgHwY7gw2z9O1UA4v9lQmxh1reqVkSYXu62GsJ&s=2VRCcwalcDAZaSB7JN9SXb32THVUS6NB9OfNH2fgS8Y&e= \"https://urldefense.proofpoint.com/v2/url?u=https-3A__events.thealliance.ai_llamastack&d=DwMFaQ&c=BSDicqBQBDjDI9RkVyTcHQ&r=DHAaH19x6Ok_lcfZAj_EmkOopfCGnxUbLlWbHJvLbzA&m=JcOzoRVIwV8eZyCHX2zr7ccZiOOgHwY7gw2z9O1UA4v9lQmxh1reqVkSYXu62GsJ&s=2VRCcwalcDAZaSB7JN9SXb32THVUS6NB9OfNH2fgS8Y&e=\") to be considered for partnership opportunities. This presentation outlines a solution for easily building and deploying applications with Llama models, addressing challenges faced by both developers and API/service providers. The goal is to simplify tasks like inference, fine-tuning, and evaluation, and to provide production-ready agentic workflows. Llama Stack uses APIs and a plugin architecture to offer a standardized interface and toolchain components, enabling flexible deployments across various environments including on-premise, cloud, and on-device. **About the speaker** Kai Wu is a Partner Engineer, GenAI at Meta, where he helps building the Llama ecosystem, including llama model releases, llama-cookbook github and meta-llama hugging-face org. Before joining Meta, Kai worked on large-scale ML infrastructure at Zoom and Wabbi. He now focuses on expanding llama-stack applications and empowering developers to ship production-ready GenAI systems faster. **About the AI Alliance** The [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players. **Join the community** Sign up for the [AI Alliance newsletter](https://thealliance.ai/community) (check the website footer) and join our new [AI Alliance Discord](https://discord.gg/YtsWdke6E9).",
+  "date_time": "2025-08-14T12:00:00-04:00",
+  "end_time": "2025-08-14T13:00:00-04:00"
+}

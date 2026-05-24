@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-11-14T08:00:00-08:00",
+    "description": "[Scale By the Bay ](https://www.scale.bythebay.io/)returns in person at its iconic home in Oakland on the shores of Lake Merritt.\n\n**Central theme is \"Code and Data in the Age of AI.**\n\nWe'll have our famous three tracks and a new one:\n\n* **[Thoughtful Software Engineering](https://www.scale.bythebay.io/post/thoughtful-software-engineering-at-scale-by-the-bay-description-examples)**\n* **[Cloud Architectures](https://www.scale.bythebay.io/post/cloud-architectures-description-examples)**\n* **[Data Pipelines for ML/AI](https://www.scale.bythebay.io/post/data-and-ai-at-scale-by-the-bay-description-examples)**\n* **[Open-Source Science](https://www.scale.bythebay.io/post/open-source-science-the-new-frontier-of-discovery) (brand new)**\n\nIt's been awhile since our meetups reconvened in person. We're slowly getting back into the swing of things. Companies are opening their doors, engineers trek to workshops and live events all over Bay Area. We'll have our *hallway track,* OSS demos, a *bespoke all-day hands-on workshop* the day before the talks, a fireside chat with OpenAI, and folks from all the leading companies in technology sharing their insights.\n\nThere will be code and data in every talk. The density of actionable content at SBTB is at least 5x higher than any other event you'll attend this year. As an independent conference, we can compare all systems objectively and real usage in the wild by 3rd parties will help you build better and faster.\n\nThe incredible **line-up of speakers** is [here](https://www.scale.bythebay.io/speakers), with more to come.\n\nCheck the [intro videos ](https://www.youtube.com/playlist?list=PLNESult6cnOlHK5bRvdT8f2UnoyZ9TfKW)for inspiration.\n\nWe need all our sponsors back - coming back live is no easy feat. If your company cares about developer community, connect with us on sponsorship opportunities and reengage with our community going forward, and SBTB and the meetups and around the world.\n\n[Early Bird, Special rates](https://www.scale.bythebay.io/register), and [Diversity tickets](https://www.scale.bythebay.io/copy-of-about) are available!\n\nSecure your spot now and see you by the Bay!",
+    "endTime": "2023-11-15T20:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/296056563/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "296056563",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scale By the Bay is back in November!  "
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-scale-by-the-bay-is-back-in-november-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/296056563/"
+}

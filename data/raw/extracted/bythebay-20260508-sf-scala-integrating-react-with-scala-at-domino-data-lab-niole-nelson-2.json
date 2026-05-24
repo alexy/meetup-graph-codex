@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-integrating-react-with-scala-at-domino-data-lab-niole-nelson-2",
+  "source_id": "bythebay-20260508-sf-scala-integrating-react-with-scala-at-domino-data-lab-niole-nelson-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-integrating-react-with-scala-at-domino-data-lab-niole-nelson-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-integrating-react-with-scala-at-domino-data-lab-niole-nelson-2.json",
+  "kind": "talk",
+  "event_id": "261672928",
+  "event_title": "Integrating React with Scala at Domino Data Lab",
+  "title": "Integrating React with Scala at Domino Data Lab",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Niole Nelson",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/261672928/",
+  "description": "Do you hate JavaScript? Have you ever had a runtime error in your frontend? Is your UI written in Scala but you can't hire any frontend developers to work on it or backend developers that want to? Come hear about how Domino Data Lab faced these exact problems. Through trial and error we developed a way to inject React code into Scala Play, which maintains typesafety and takes advantage of JavaScript libraries to make frontend building faster. About the speaker: Niole Nelson builds Domino Data Lab's frontend. She likes to focus on making it harder to introduce runtime bugs and speed up development. While she isn't doing that, she is usually weight lifting or rock climbing. Her newest hobby is watching league of legends streamers, though she doesn't actually play the game.",
+  "date_time": "2019-06-05T18:00:00-07:00",
+  "end_time": "2019-06-05T20:00:00-07:00"
+}

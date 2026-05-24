@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-scala-and-1-graphics-2-shapeless-3-tools-for-taming-tangled-code-event",
+  "source_id": "bythebay-20260508-sf-scala-scala-and-1-graphics-2-shapeless-3-tools-for-taming-tangled-code-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scala-and-1-graphics-2-shapeless-3-tools-for-taming-tangled-code-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scala-and-1-graphics-2-shapeless-3-tools-for-taming-tangled-code-event.json",
+  "kind": "event",
+  "event_id": "247363947",
+  "event_title": "Scala and (1) Graphics, (2) Shapeless, (3) Tools for Taming Tangled Code",
+  "title": "Scala and (1) Graphics, (2) Shapeless, (3) Tools for Taming Tangled Code",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/247363947/",
+  "description": "We'll have three talks at this meetup! (1) Dave Briccetti will show how Processing can be used with Scala for graphics. (2) Charles Ruhland and Thomas Kim will describe how they use Shapeless. (3) Seth Tisue, a fixture in Scala world and recently a Bay Area local we snatched from Boston, gives his first talk at SF Scala, Tools for Taming Tangled Code! Details (1) Dave will show stunning Processing graphics you can code up and will also show how you can use it to learn Scala. (2) Play-Formless is a small library for Play Framework that automatically generates type-safe Form Mappings for case classes. We use Shapeless’s LabelledGeneric representation to abstract over the structure of a case class; and Shapeless record types to specify mappings in a type-checked way. Some additional features such as type-driven default field mappings, the use of refinement types, and type-safe named parameters will be demonstrated. More broadly, we want to show how Shapeless can be a practical tool in real-world applications. Charles is a software engineer at Iterable, focusing on scaling their backend architecture with Elasticsearch, RabbitMQ, and Postgres. Previously he worked at Mesosphere on Cosmos, the open-source package management API for DC/OS. He became hooked on functional programming while getting his Bachelor's in CS at CMU, and has been an enthusiastic Scala user for the last six years. Tom is a senior engineer at Iterable where he focuses on data engineering with Elasticsearch. He's a long-time Scala and FP enthusiast. He was previously at Workday and Salesforce. He's lived in San Francisco since 2001. Being a bandwagon Warriors fan makes his wife laugh. (3) Clean code isn't only well-formatted, it's also well-structured. What is structure? Let's consider one kind of structure: internal dependency structure. \"Internal\" because this isn't about what libraries you used, it's about what parts of your own code depend on what other parts. If code is poorly structured in this way, then the code is hard to understand, hard to maintain, and hard to break into independent modules or services. Plus, you'll have very long incremental compile times if everything depends, directly or indirectly, on everything else. How can we avoid this kind of mess, or clean it up after the mess has been made? Tooling can provide automated assistance. I'll give you a tour of tools that can help, including Classycle, Acyclic, and IntelliJ's Dependencies Analysis. And, I'll show you a tool I helped build at Lightbend. It's called Sculpt and we recently open-sourced it. It leverages the Scala compiler to provide insight into dependency structure as the compiler itself sees it. I also hope to hear from the audience about tools like this that I don't know about! Seth Tisue has a been a member of the Scala team at Lightbend since 2015. He's been active in the Scala community since 2008. Before joining Lightbend, he was using Scala to build the compiler and other tooling for NetLogo, a programming language for students, teachers, and scientists. At Lightbend, Seth has focused on the build and testing infrastructure around Scala. His interests are compilers and interpreters, functional programming, and open-source software.",
+  "date_time": "2018-02-13T18:00:00-08:00",
+  "end_time": "2018-02-13T21:00:00-08:00"
+}

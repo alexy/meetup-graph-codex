@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc-event.json",
+  "kind": "workshop",
+  "event_id": "311735759",
+  "event_title": "Open Source GenAI Hands-On Workshops November 10, 1 Madison Avenue, NYC",
+  "title": "Open Source GenAI Hands-On Workshops November 10, 1 Madison Avenue, NYC",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/311735759/",
+  "description": "[Enroll here](https://www.ibm.com/events/reg/flow/ibm/pov50imb/landing/page/landing) to participate in hands-on GenAI workshops on November10 in NYC between noon and 5pm to include: * Data Engineering for LLMs with [Data Prep Kit](https://github.com/data-prep-kit/data-prep-kit) * Unclocking Document Intelligence with [Docling](https://www.docling.ai/) * Building an Agentic GenAI App with [Langflow](https://www.langflow.org/) * [Granite 4.0 Model](https://ibm.github.io/granite-workshop/) * Generative Programming with [Mellea](https://github.com/generative-computing/mellea) We hope you will join us",
+  "date_time": "2025-11-10T12:00:00-05:00",
+  "end_time": "2025-11-10T17:00:00-05:00"
+}

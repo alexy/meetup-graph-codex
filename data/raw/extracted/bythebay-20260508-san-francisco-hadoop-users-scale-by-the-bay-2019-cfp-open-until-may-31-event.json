@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2019-cfp-open-until-may-31-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2019-cfp-open-until-may-31-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2019-cfp-open-until-may-31-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2019-cfp-open-until-may-31-event.json",
+  "kind": "announcement",
+  "event_id": "261084466",
+  "event_title": "Scale By the Bay 2019 CFP Open until May 31",
+  "title": "Scale By the Bay 2019 CFP Open until May 31",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/261084466/",
+  "description": "Friends — the month of May is when the Scale By the Bay (SBTB) CFP always runs, for the conference in November. The CFP is now open at https://scale.bythebay.io There are three tracks, as usual: — Functional Programming — Service Architectures — Data Pipelines, including ML/AI The theme for this year is the emergence of new distributed systems and their applications, including Edge, IoT, DLT, and AI on the Edge. Helena Edelson lead a team at Apple enabling ML/AI with Spark, Joe Beda started Google Compute Engine and Kubernetes, and Heather Miller lead Scala Center at EPFL and now advances distributed and edge systems at CMU. We have two talk lengths, 20 minutes and 40 minutes. There are 5-10 minute breaks between some, but not all, talk slots, and excellent coffee is served all day long so every break is a coffee break. Please check each time length you can work with. We often ask 40 min talks to shrink to 20 min as we try to accommodate all the best talks — and our acceptabnce rate is going down to 1:3 with years. We also serve hot breakfast and great lunch and amazing happy hours follow the main program in between all days. The hallway track is legendary, facilitated by the high ratio of speakers — 100+ out of the 600 attendees. We are committed to community above all and are working with underrepresented groups to send speakers. Please share this CFP with your diversity advocates, community managers, and encourage female engineers, African-American developers, and others to submit talks. If you could send such speakers on behalf of your company, it will help the community a lot. We’re also proactively reaching out to meetups, our core constituents, to help our established diversity program. We also work with companies like Stripe on diversity scholarships — let us know if you’d like to partner on this. Submit your best talks at https://scale.bythebay.io by May 31!",
+  "date_time": "2019-05-31T23:59:00-07:00",
+  "end_time": "2019-06-01T00:00:00-07:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-scala-on-the-google-cloud-and-play-2-5-greg-methvin-2",
+  "source_id": "bythebay-20260508-sf-scala-scala-on-the-google-cloud-and-play-2-5-greg-methvin-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scala-on-the-google-cloud-and-play-2-5-greg-methvin-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scala-on-the-google-cloud-and-play-2-5-greg-methvin-2.json",
+  "kind": "talk",
+  "event_id": "229445932",
+  "event_title": "Scala on the Google Cloud and Play 2.5",
+  "title": "Scala on the Google Cloud and Play 2.5",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Greg Methvin, Less State, Lightbend's Play, More Speed, Will Sargent",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/229445932/",
+  "description": "Neville Li from Spotify will present: Scio: Scala on the Google Cloud Scio (http://github.com/spotify/scio) is a Scala API for Google Cloud Dataflow inspired by Spark and Scalding. It unleashes the power of Google Cloud big data products with a concise and elegant Scala DSL. We’ll discuss the unified batch and streaming model, core API design, and additional features such as type safe BigQuery, HDFS, and REPL. There’ll also be a live coding demo. Speaker: Neville has been working at Spotify for 5 years now and is a member of the music recommendation team. He also leads the effort of adopting various Scala frameworks and functional programming techniques for data processing. Lightbend's Play team will present Play 2.5: Play 2.5: More Streams, More Speed, Less State Come see what's new in Play 2.5! Play is an asynchronous, non-blocking web framework and 2.5 brings a whole raft of goodies with it. Some major points: • Akka Streams integration, like Iteratees but much easier to understand • Additions to Java HTTP APIs • Performance improvement of up to 20% • Internal upgrading to Netty 4.0 and AsyncHttpClient 2.0 • Method and classes that depend on global state singleton object have been deprecated Documentation and Template Scrubbing Speakers: Will Sargent and Greg Methvin work at Lightbend on the Play team. Please check out Will's in-progress book Play in Practice (http://shop.oreilly.com/product/0636920035718.do) and download the sample chapters. Due to the packed program, we shift everything up 30 minutes: doors open at 6, and talks begin at 6:30pm sharp. This event will be full so please manage your RSVP responsibly. We're using a powerful set of single-node small data systems to make sure RSVPs are fairly utilized.",
+  "date_time": "2016-03-23T18:30:00-07:00",
+  "end_time": "2016-03-23T21:30:00-07:00"
+}

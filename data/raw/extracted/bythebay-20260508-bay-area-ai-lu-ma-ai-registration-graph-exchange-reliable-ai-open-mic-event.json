@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-lu-ma-ai-registration-graph-exchange-reliable-ai-open-mic-event",
+  "source_id": "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-graph-exchange-reliable-ai-open-mic-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-lu-ma-ai-registration-graph-exchange-reliable-ai-open-mic-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-lu-ma-ai-registration-graph-exchange-reliable-ai-open-mic-event.json",
+  "kind": "announcement",
+  "event_id": "311698719",
+  "event_title": "[lu.ma/_ai registration] Graph Exchange -- Reliable AI -- Open Mic!",
+  "title": "Graph Exchange -- Reliable AI -- Open Mic!",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/311698719/",
+  "description": "On November 3rd, we meet at [GitHub](https://www.linkedin.com/company/github/) HQ before it closes down for good. But the Bay Area AI community continues online at NODES and live at AI By the Bay. Graph Exchange, the innovative Bare Area AI and Neo4j meetup, is opening the floor to startup founders working on Reliable Agentic AI ([https://oss.ci/reliable](https://oss.ci/reliable)) o present their startups, to celebrate the community that met there over the years! [https://luma.com/w42bbgn5](https://luma.com/w42bbgn5) We follow the venerable tradition of open mic at Bay Area AI where we give founders and attendees a minute to pitch their startup, find a cofounder, or even find a job! This time we'll have a CFP for 10 min, 5 min, and 1 min talks, and we can still accommodate ad hoc 1 min talks if time permits. And we'll have a party! Apply at the link in the event, and come see the iconic GitHub space before it's gone! Reliable Agentic AI Manifesto: [https://oss.ci/manifesto](https://oss.ci/manifesto) Reliable Agentic AI Survey #1: [https://oss.ci/reliable-ai](https://oss.ci/reliable-ai) Reliable AI Repo: [https://oss.ci/reliable](https://oss.ci/reliable) NODES: [https://lnkd.in/gjR4v-eU](https://lnkd.in/gjR4v-eU), November 6, online globally AI By the Bay: [https://ai.bythebay.io](https://ai.bythebay.io/), November 17-19, Oakland, California",
+  "date_time": "2025-11-03T16:00:00-08:00",
+  "end_time": "2025-11-03T19:00:00-08:00"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-06-13T19:00:00-07:00",
+    "description": "Haoyi is coming to the Bay Area, 6/12-18.\n\nIf you can host us in downtown San Francisco in that date range, please contact Alexy to organize: alexy @ chiefscientist.org.\n\nWe need to fit at least 50 people and would appreciate pizza+beer from the host or another sponsor.",
+    "endTime": "2024-06-13T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/301448481/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "301448481",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Need a Home for Haoyi Li By the Bay!"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-need-a-home-for-haoyi-li-by-the-bay-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/301448481/"
+}

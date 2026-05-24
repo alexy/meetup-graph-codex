@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-bitcoin-in-scala-event",
+  "source_id": "bythebay-20260508-sf-scala-bitcoin-in-scala-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-bitcoin-in-scala-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-bitcoin-in-scala-event.json",
+  "kind": "talk",
+  "event_id": "244151821",
+  "event_title": "Bitcoin in Scala",
+  "title": "Bitcoin in Scala",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/244151821/",
+  "description": "Scale By the Bay (http://scale.bythebay.io) is November 15-18! Following the http://ScalingBitcoin.org held at Stanford, 11/4-5, gathering the world's best developers on the first, longest, most highly capitalized blockchain in history, we're fortunate to present the top Scala teams implementing Bitcoin in Scala. (1) Bitcoin in Scala, Chris Stewart Bitcoin-s (https://github.com/bitcoin-s) is an implementation of the bitcoin protocol. In this talk I will demonstrate what various data structures are of the bitcoin protocol. I will show how I've leveraged scalacheck to thoroughly test this code base. Next I will demonstrate how algebraic data types can be used to represent bitcoin's standardized contract types. Finally I will demonstrate how to use bitcoind via the bitcoin-s-rpc-client package to show direct interaction with the bitcoin peer to peer network. https://pbs.twimg.com/profile_images/3172159824/3e4a2f6c2acb21ac888349dbc808c8b9_200x200.png Chris is the founder of SuredBits -- a cryptocurrency company. Chris has been doing cryptocurrency development since 2014. He is the primary author of bitcoin-s -- an implementation of the bitcoin protocol in Scala. He also is a contributor to bitcoin core -- the reference implementation of bitcoin. Chris is an active contributor to cryptocurrency protocol research along with implementation of that research. (2) Scaling Bitcoin with Scala, Fabrice Drouin Fabrice: I will present what ACINQ is building with Scala, how we use it and why it is a good fit for bitcoin applications in general, and our Ligntning Node ( https://github.com/ACINQ/eclair ) in particular. Fabrice is the CTO and co-founder at ACINQ (https://acinq.co), a bitcoin startup founded in 2014. ACINQ, along with other members of the LN community, is working on the specifications and implementation of the Lightning Network, a high-performance P2P payment network based on Bitcoin.",
+  "date_time": "2017-11-06T19:00:00-08:00",
+  "end_time": "2017-11-06T22:00:00-08:00"
+}

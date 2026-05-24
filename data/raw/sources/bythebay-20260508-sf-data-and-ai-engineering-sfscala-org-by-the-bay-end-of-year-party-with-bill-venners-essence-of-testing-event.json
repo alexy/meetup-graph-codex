@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-12-15T18:30:00-08:00",
+    "description": "By the Bay family of meetups is holding the end of year party at Clara (https://www.meetup.com/SF-Scala/events/236052360/).\n\nNote: AI.vision (http://ai.vision/), self.driving.cars (http://self.driving.cars/) and oh.hai.ai (http://oh.hai.ai/) Early Birds also end with the year on 12/31.\n\nSingle sign-up at sfscala.org (http://sfscala.org/). The space is limited so only sign up if you can attend!\n\nhttps://www.meetup.com/SF-Scala/events/236052360/",
+    "endTime": "2016-12-15T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/236197860/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "236197860",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[sfscala.org] By the Bay End of Year Party with Bill Venners, Essence of Testing"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-sfscala-org-by-the-bay-end-of-year-party-with-bill-venners-essence-of-testing-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/236197860/"
+}

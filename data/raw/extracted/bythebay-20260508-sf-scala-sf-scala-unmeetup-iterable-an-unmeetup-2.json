@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-iterable-an-unmeetup-2",
+  "source_id": "bythebay-20260508-sf-scala-sf-scala-unmeetup-iterable-an-unmeetup-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-iterable-an-unmeetup-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-sf-scala-unmeetup-iterable-an-unmeetup-2.json",
+  "kind": "talk",
+  "event_id": "245480618",
+  "event_title": "SF Scala Unmeetup @ Iterable",
+  "title": "SF Scala Unmeetup @ Iterable",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "An Unmeetup",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/245480618/",
+  "description": "SF Scala is back at Iterable for an Unmeetup! Join us for an evening of side projects, workshops, lightning talks, and open-source hacking. This is a great opportunity to try out new ideas from the recent Scale By the Bay conference (videos: https://www.youtube.com/playlist?list=PLNESult6cnOkDeaaEhq192kdsbMPc3dIJ). An Unmeetup is a casual community-driven, hands-on meetup modeled after unconferences (https://en.wikipedia.org/wiki/Unconference). Members propose topics to discuss and projects to work on, then each individual chooses how to spend their time for the evening. This is complementary to the standard meetup and emphasizes community-building and collaboration. You should join if you: • would like to offer a workshop or lightning talk. • want to find contributors for your open source project. • are new to Scala and want to work with other Scala developers. • are experienced with Scala and want to mentor others. • have cool work-in-progress and want feedback. • have a tricky bug and want help. • just want to hack on a project!",
+  "date_time": "2017-12-04T18:00:00-08:00",
+  "end_time": "2017-12-04T21:00:00-08:00"
+}

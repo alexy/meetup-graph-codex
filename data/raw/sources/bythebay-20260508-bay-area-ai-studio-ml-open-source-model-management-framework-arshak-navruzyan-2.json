@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2017-10-17T18:00:00-07:00",
+    "description": "Note: ML model deployment in production is one of the key topics at Scale By the Bay (http://scale.bythebay.io), the data engineering conference held at Twitter in November.\n\nStudio.ml (http://studio.ml/) is an open source project dedicated to helping machine learning (ML) professionals, academics, businesses and anyone else interested in ML model building, accelerate and simplify their experiments.\n\nStudio.ml is an early-stage, ML model management framework written in Python that was developed to minimize the overhead involved with scheduling, running, monitoring and managing artifacts of your machine learning experiments.\n\nMost of the features are compatible with any Python ML framework including Keras, TensorFlow, PyTorch, and scikit-learn, with additional features available for Keras and TensorFlow.\n\nSo far, using Studio.ml you can:\n\n• Capture experiment information- Python environment, files, dependencies, and logs- without modifying the experiment code\n\n• Monitor and organize experiments using a web dashboard that integrates with TensorBoard\n\n• Run experiments locally, remotely, or in the cloud (Google Cloud or Amazon EC2)\n\n• Manage artifacts\n\n• Perform hyperparameter search\n\n• Create customizable Python environments for remote execution\n\n• Access the model library to reuse models that have already been created\n\nSpeaker: Arshak Navruzyan is vice president of development for Sentient’s distributed artificial intelligence (DAI) platform. He has been in technology leadership roles at Argyle Data, Alpine Data Labs, Endeca/Oracle and is the founder of Startup.MLmachine learning fellowship program.\n\nAbout Sentient\n\nSentient Technologies (http://www.sentient.ai/) is one of the world’s leading artificial intelligence companies, creating breakthrough AI products and research thanks to its advanced AI platform. It has pioneered ways to combine deep learning, evolutionary computation, neuroevolution and other forms of AI, and distribute it across many data centers and on thousands of GPUs and CPUs, a scale unavailable to most companies. Sentient’s scale and expertise has allowed it to create AI solutions for e-commerce, digital media and finance, as well as partner with renowned institutions, like MIT and Oxford, on projects tackling complex problems in healthcare and agriculture.\n\nhttps://www.sentient.ai/our-story/",
+    "endTime": "2017-10-17T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/243783305/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "243783305",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Studio.ml: Open-source Model Management Framework"
+  },
+  "event_id": "243783305",
+  "event_title": "Studio.ml: Open-source Model Management Framework",
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "session": {
+    "description": "Note: ML model deployment in production is one of the key topics at Scale By the Bay (http://scale.bythebay.io), the data engineering conference held at Twitter in November. Studio.ml (http://studio.ml/) is an open source project dedicated to helping machine learning (ML) professionals, academics, businesses and anyone else interested in ML model building, accelerate and simplify their experiments. Studio.ml is an early-stage, ML model management framework written in Python that was developed to minimize the overhead involved with scheduling, running, monitoring and managing artifacts of your machine learning experiments. Most of the features are compatible with any Python ML framework including Keras, TensorFlow, PyTorch, and scikit-learn, with additional features available for Keras and TensorFlow. So far, using Studio.ml you can: • Capture experiment information- Python environment, files, dependencies, and logs- without modifying the experiment code • Monitor and organize experiments using a web dashboard that integrates with TensorBoard • Run experiments locally, remotely, or in the cloud (Google Cloud or Amazon EC2) • Manage artifacts • Perform hyperparameter search • Create customizable Python environments for remote execution • Access the model library to reuse models that have already been created Speaker: Arshak Navruzyan is vice president of development for Sentient’s distributed artificial intelligence (DAI) platform. He has been in technology leadership roles at Argyle Data, Alpine Data Labs, Endeca/Oracle and is the founder of Startup.MLmachine learning fellowship program. About Sentient Sentient Technologies (http://www.sentient.ai/) is one of the world’s leading artificial intelligence companies, creating breakthrough AI products and research thanks to its advanced AI platform. It has pioneered ways to combine deep learning, evolutionary computation, neuroevolution and other forms of AI, and distribute it across many data centers and on thousands of GPUs and CPUs, a scale unavailable to most companies. Sentient’s scale and expertise has allowed it to create AI solutions for e-commerce, digital media and finance, as well as partner with renowned institutions, like MIT and Oxford, on projects tackling complex problems in healthcare and agriculture. https://www.sentient.ai/our-story/",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-studio-ml-open-source-model-management-framework-arshak-navruzyan-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-studio-ml-open-source-model-management-framework-arshak-navruzyan-2.json",
+    "source_id": "bythebay-20260508-bay-area-ai-studio-ml-open-source-model-management-framework-arshak-navruzyan-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Arshak Navruzyan"
+      }
+    ],
+    "title": "Studio.ml: Open-source Model Management Framework"
+  },
+  "source_id": "bythebay-20260508-bay-area-ai-studio-ml-open-source-model-management-framework-arshak-navruzyan-2",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/243783305/"
+}

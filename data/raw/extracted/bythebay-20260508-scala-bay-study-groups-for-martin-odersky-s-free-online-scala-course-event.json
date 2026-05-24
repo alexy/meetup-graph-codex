@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-study-groups-for-martin-odersky-s-free-online-scala-course-event",
+  "source_id": "bythebay-20260508-scala-bay-study-groups-for-martin-odersky-s-free-online-scala-course-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-study-groups-for-martin-odersky-s-free-online-scala-course-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-study-groups-for-martin-odersky-s-free-online-scala-course-event.json",
+  "kind": "event",
+  "event_id": "80098122",
+  "event_title": "Study Groups for Martin Odersky's Free Online Scala Course",
+  "title": "Study Groups for Martin Odersky's Free Online Scala Course",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/80098122/",
+  "description": "If you would like to learn Scala, this is a terrific opportunity. Professor Odersky is offering a free 7 week course online, starting Sept 18. This meta-event notice is to help you join local study groups near to where you live or work. If you want to join a study group, please register for this meta-event and add a comment when you register, stating the geographic location where you would like to meet when you register. We have members all over California, the US and the rest of the world. This meta-event is open to all BASE members everywhere. BASE members can edit this event notice; if you would like to host a local study group, please add the address, date and times for your own study group at the bottom of this event notice. You can also use the new scheduling feature of Google Hangout (http://support.google.com/calendar/bin/answer.py?hl=en&topic=2619599&answer=2690797) to get together with remote colleagues on a regular basis. If you find a local study group that you would like to attend, please contact the local organizer directly. We'd love to hear how you are doing, so be sure to post comments for this meta-event below. STUDY GROUPS (ADD MORE BELOW) Host: Micronautics Research 840 Main St, Half Moon Bay, CA 94019 Thursday evenings 7-9pm Mike Slinn mslinn@micronauticsresearch.com 415-367-3789 Host: Coursera 1975 West El Camino Rd, Mountain View, CA 94040, Suite 202 every monday evenings (till class ends) starting at 6:00pm leith (eleith@coursera.org) up to 30 people Host: VMware Inc (up to 20 people) Thursday evenings 7-9pm Building A - 3401 Hillview Ave, Palo Alto CA 94304 Nagappan Alagappan nalagappan@vmware.com 510-386-6971",
+  "date_time": "2012-09-18T19:00:00-07:00",
+  "end_time": "2012-09-18T22:00:00-07:00"
+}

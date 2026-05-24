@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-11-01T18:30:00-07:00",
+    "description": "Note: Reactive Microservices and Streaming Architectures are throughly covered at the upcoming Scalæ By the Bay (http://scala.bythebay.io) conference, hosted at Twitter on November 11-13. Meetup members receive their conference discount via email.\n\nEnvoy is a new high performance open source proxy which aims to make the network transparent to applications. Envoy's out of process architecture allows it to be used alongside any language or runtime. At its core, Envoy is an L4 proxy with a pluggable filter chain model. On top of the L4 proxy it also includes a full HTTP stack with a parallel pluggable L7 filter chain. This programming model allows Envoy to be used for a variety of different scenarios including HTTP/2 gRPC proxying, MongoDB filtering and rate limiting, etc. Envoy includes advanced load balancing support including eventually consistent service discovery, circuit breakers, retries, zone aware load balancing, etc. Envoy also has best in class observability using both statistics and distributed tracing.\n\nIn this talk we will cover the origins of Envoy, a high level architecture overview, and future directions.\n\nFor more information on Envoy see: https://lyft.github.io/envoy/\n\nAbout the speaker:\n\nMatt Klein is a software engineer at Lyft and the architect of Envoy. He has been working on operating systems, virtualization, distributed systems, and networking for 15 years across a variety of companies. Some highlights include leading the development of Twitter's C++ L7 edge proxy and working on high performance computing and networking in Amazon's EC2.",
+    "endTime": "2016-11-01T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bythebay/events/234701783/",
+    "group": {
+      "id": "18748975",
+      "name": "Scale By the Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "234701783",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Envoy: C++ L7 proxy and communication bus"
+  },
+  "meetup_id": "meetup:18748975",
+  "meetup_name": "Scale By the Bay",
+  "meetup_url": "https://www.meetup.com/bythebay/events/?type=past",
+  "source_id": "bythebay-20260508-scale-by-the-bay-envoy-c-l7-proxy-and-communication-bus-matt-klein",
+  "source_url": "https://www.meetup.com/bythebay/events/234701783/"
+}

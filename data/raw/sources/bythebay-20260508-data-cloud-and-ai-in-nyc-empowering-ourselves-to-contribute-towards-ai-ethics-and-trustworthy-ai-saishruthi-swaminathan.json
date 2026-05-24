@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-03-15T08:00:00-04:00",
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.**\nMachine learning models are increasingly being used to inform high-stakes decisions. Therefore, building trustworthy systems is the need of the hour, and every one of us has a role to play. In this talk, we will discuss how we all can contribute towards delivering trustworthy systems and better understand how the field is moving overall.\n\nWe will explore:\n\n* Understand risk and opportunity in AI\n* What trust means in the AI space and why it is important\n* Trustworthy AI, Responsible AI, Sustainable AI - what do they all mean?\n* Overview of different regulations and what is out there\n* Overview of AI Governance\n* Consolidated view of Trustworthy AI pillars\n* What Trust means from different persona’s view\n* What’s next?\n\n**Presenter: Saishruthi Swaminathan**\n\nSaishruthi Swaminathan is an advocate for Trustworthy AI and a Data Scientist. She has a Master's in Electrical Engineering specializing in Data Science and a Bachelor's degree in Electronics and Instrumentation Engineering.\n\nHer passion is to dive deep into the ocean of data, extract insights, and use AI for social good. She has spoken at over 70 events worldwide over the past three years. In 2021, the Women in AI (WAIE) team recognized her as one of the 100 brilliant women in AI Ethics 2022. She is on a mission to spread the knowledge and experience she acquired in her learning process.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder: **[https://ibm.webex.com/weblink/register/rbe5e8dadb378279e9a9c02034ae5c100](https://ibm.webex.com/weblink/register/rbe5e8dadb378279e9a9c02034ae5c100)**",
+    "endTime": "2023-03-15T09:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/290204716/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "290204716",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Empowering ourselves to contribute towards AI Ethics and Trustworthy AI"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai-saishruthi-swaminathan",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/290204716/"
+}

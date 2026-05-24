@@ -1,0 +1,34 @@
+{
+  "event": {
+    "dateTime": "2015-02-18T18:00:00-08:00",
+    "description": "The February SF Hadoop User Group meetup will be held Wednesday, February 18 from 6:00pm to 8:00pm. This meetup will be hosted by Cloudera and WibiData and held at WibiData, 375 Alabama St, #350, San Francisco. Food and drinks will be served.\n\nPresentation: Transparent Encryption in HDFS\n\nCharles Lamb, Software Engineer at Cloudera\n\nApache Hadoop 2.6 adds support for transparent encryption to HDFS. Once configured, data read from and written to specified HDFS directories will be transparently encrypted and decrypted, without requiring any changes to user application code. This encryption is also end-to-end, meaning that data can only be encrypted and decrypted by the client. HDFS itself never handles unencrypted data or data encryption keys. All these characteristics improve security, and HDFS encryption can be an important part of an organization-wide data protection story. In this talk, attendees will get a brief introduction to the architecture, internals, and use cases for this new feature.\n\nPresentation: Closing the Loop with Hadoop: From Analysis to Applications\n\nAaron Feldstein, Member of Technical Staff at WibiData\n\nHadoop enables the collection, storage, and analysis of larger volumes of data than ever before, but taking action based on the results of this analysis remains a slow and cumbersome process. In pursuit of closing the loop from collecting user interaction data and analyzing it to affecting future user experiences, we have experimented and learned lessons which may help anyone seeking to make the most of their data. This talk will describe some of those lessons, how we learned them, and what we have built with them in mind.\n\nWe'll be raffling off O'Reilly Media books, courtesy of O'Reilly Media's Strata Conference + Hadoop World.\n\nMeetup members get 20% off Strata with UGSFHUG20. You can register with this code here (http://oreil.ly/UGSJ15).\n\nhttp://photos4.meetupstatic.com/photos/event/5/8/4/600_432121412.jpeg",
+    "endTime": "2015-02-18T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/219049335/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "219049335",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "February SF Hadoop Users Meetup"
+  },
+  "event_id": "219049335",
+  "event_title": "February SF Hadoop Users Meetup",
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "session": {
+    "description": "Aaron Feldstein, Member of Technical Staff at WibiData Hadoop enables the collection, storage, and analysis of larger volumes of data than ever before, but taking action based on the results of this analysis remains a slow and cumbersome process. In pursuit of closing the loop from collecting user interaction data and analyzing it to affecting future user experiences, we have experimented and learned lessons which may help anyone seeking to make the most of their data. This talk will describe some of those lessons, how we learned them, and what we have built with them in mind. We'll be raffling off O'Reilly Media books, courtesy of O'Reilly Media's Strata Conference + Hadoop World. Meetup members get 20% off Strata with UGSFHUG20. You can register with this code here (http://oreil.ly/UGSJ15). http://photos4.meetupstatic.com/photos/event/5/8/4/600_432121412.jpeg",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-closing-the-loop-with-hadoop-from-analysis-to-applications-event.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-closing-the-loop-with-hadoop-from-analysis-to-applications-event.json",
+    "source_id": "bythebay-20260508-san-francisco-hadoop-users-closing-the-loop-with-hadoop-from-analysis-to-applications-event",
+    "speakers": [],
+    "title": "Closing the Loop with Hadoop: From Analysis to Applications"
+  },
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-closing-the-loop-with-hadoop-from-analysis-to-applications-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/219049335/"
+}

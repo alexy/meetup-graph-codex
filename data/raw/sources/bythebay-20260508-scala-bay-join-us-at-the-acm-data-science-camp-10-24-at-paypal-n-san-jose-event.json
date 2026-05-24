@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-10-24T08:30:00-07:00",
+    "description": "Come to our Unconference, invite your members, propose sessions like your meetup (to attract others to your group). We have 4 time slots and 6+ rooms for 24+ meetups. We have a keynote on Spark /MLlib from Databricks, and an \"intro to data mining in R” class.\n\nOur SFbayACM meetup group has two talks a month: general computing and data science SIG. See also our www.SFbayACM.org site, and our youtube channel (SFbayACM).\n\nhttp://sfbayacm.org/event/silicon-valley-data-science-camp-2015",
+    "endTime": "2015-10-24T11:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/226023311/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "226023311",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Join us at the ACM Data Science Camp, 10/24 at PayPal, N San Jose"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-join-us-at-the-acm-data-science-camp-10-24-at-paypal-n-san-jose-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/226023311/"
+}

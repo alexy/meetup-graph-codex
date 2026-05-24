@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2023-03-08T08:00:00-05:00",
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.**\nThe recent proliferation of Data Privacy Compliance requirements from the EU, US, and China has made Data Privacy a top concern for organizations as they look to not only comply with regulations but to also manage the reputational and cybersecurity related risks. One trend has stood out through all of this--there is no way to disentangle data security and data privacy.\n\nThe same risks that are being addressed in regulations like GDPR are also related to the core components of Data Security, namely knowing where your sensitive data is, controlling who has access to it, and ensuring that there are tightly monitored controls and reporting around every step. As CISOs and CDOs begin working together more on winning the joint challenge of achieving robust Enterprise Data Privacy and Data Security, organizations more than ever now need to have integrated solutions between their Security, Governance, and Privacy products.\n\nIn this presentation, we will discuss how integrating a data management and a data protection solution provides unified access control across multiple data sources in a hybrid cloud environment. We will demonstrate how this integration is implemented using IBM Data and AI’s Watson Knowledge Catalog and IBM Security’s Guardium Data Protection tools.\n\n**Presenter: Steven Liddle**\n\nSteven is a Development Manager for Watson Knowledge Catalog at IBM where he leads the Data Policy Service which drives the Data Fabric Privacy strategy. He has been at IBM for 14 years, serving as a development manager for the last 8 within Data and AI working primarily on the Data Catalog. Prior to working at IBM, he studied Computer Science and Math at University of North Carolina at Chapel Hill.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r3cf14f7cba120ae18b01e0759e23a893](https://ibm.webex.com/weblink/register/r3cf14f7cba120ae18b01e0759e23a893)**",
+    "endTime": "2023-03-08T09:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/290318771/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "290318771",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Solving Data Security, Data Management, and Data Privacy Together"
+  },
+  "event_id": "290318771",
+  "event_title": "Solving Data Security, Data Management, and Data Privacy Together",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.** The recent proliferation of Data Privacy Compliance requirements from the EU, US, and China has made Data Privacy a top concern for organizations as they look to not only comply with regulations but to also manage the reputational and cybersecurity related risks. One trend has stood out through all of this--there is no way to disentangle data security and data privacy. The same risks that are being addressed in regulations like GDPR are also related to the core components of Data Security, namely knowing where your sensitive data is, controlling who has access to it, and ensuring that there are tightly monitored controls and reporting around every step. As CISOs and CDOs begin working together more on winning the joint challenge of achieving robust Enterprise Data Privacy and Data Security, organizations more than ever now need to have integrated solutions between their Security, Governance, and Privacy products. In this presentation, we will discuss how integrating a data management and a data protection solution provides unified access control across multiple data sources in a hybrid cloud environment. We will demonstrate how this integration is implemented using IBM Data and AI’s Watson Knowledge Catalog and IBM Security’s Guardium Data Protection tools. **Presenter: Steven Liddle** Steven is a Development Manager for Watson Knowledge Catalog at IBM where he leads the Data Policy Service which drives the Data Fabric Privacy strategy. He has been at IBM for 14 years, serving as a development manager for the last 8 within Data and AI working primarily on the Data Catalog. Prior to working at IBM, he studied Computer Science and Math at University of North Carolina at Chapel Hill. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r3cf14f7cba120ae18b01e0759e23a893](https://ibm.webex.com/weblink/register/r3cf14f7cba120ae18b01e0759e23a893)**",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-solving-data-security-data-management-and-data-privacy-together-steven-liddle-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-solving-data-security-data-management-and-data-privacy-together-steven-liddle-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-solving-data-security-data-management-and-data-privacy-together-steven-liddle-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Steven Liddle"
+      },
+      {
+        "company": null,
+        "name": "Steven Liddle Steven"
+      }
+    ],
+    "title": "Solving Data Security, Data Management, and Data Privacy Together"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-solving-data-security-data-management-and-data-privacy-together-steven-liddle-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/290318771/"
+}

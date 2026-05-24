@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-10-19T19:00:00-07:00",
+    "description": "We’re happy t be the community partners of the TED AI Hackathon.\n\nPlease [register](https://www.aicamp.ai/event/eventdetails/W2024101910%0A%0A) by September 13, approval is required to join!\n\nhttps://www.aicamp.ai/event/eventdetails/W2024101910\n\n—\nWelcome to the TED AI Hackathon 2024 registration! The hackathon will run from 10AM Saturday October 19th to 4PM Sunday October 20th, at the Microsoft Reactor in San Francisco. Apply to hack with us. The deadline of application is **September 13th**. All applicants will be updated by September 20th on selections.\nTED AI Open Source Hackathon is an exciting competition that provides an opportunity for participants to showcase their coding skills, collaborate with fellow developers, and create innovative AI-based solutions, all to promote with the purpose of promoting open-source applications of AI to urgent societal or environmental issues.\n**Team prizes:**\nIn addition to an incredible experience, you'll have the chance to compete for a $15K cash prize, split among the top three winning teams, which will be divided among the top three winning teams.\n\\* 1st place: $7k.\n\\* 2nd place: $5k\n\\* 3rd place: $3k\n\n**Hackathon Timeline:**\n\\* Sep 13th: Application Close;\n\\* Sep 20th: Applicants Announced;\n\\* Oct 1st: Prep Call;\n\\* Oct 19\\~20: Hackathon!\n\n**Sponsors:**\n\\* AWS\n\\* Google Cloud\n\\* GenLab\n\\* Vectara",
+    "endTime": "2024-10-19T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/303266177/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "303266177",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "TED AI Hackathon"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-ted-ai-hackathon-event-2",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/303266177/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-cats-a-new-library-for-functional-programming-in-scala-abstract-cats-2",
+  "source_id": "bythebay-20260508-scala-bay-cats-a-new-library-for-functional-programming-in-scala-abstract-cats-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-cats-a-new-library-for-functional-programming-in-scala-abstract-cats-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-cats-a-new-library-for-functional-programming-in-scala-abstract-cats-2.json",
+  "kind": "talk",
+  "event_id": "224243855",
+  "event_title": "Cats - A new library for functional programming in Scala",
+  "title": "Cats - A new library for functional programming in Scala",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": "Abstract Cats",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/224243855/",
+  "description": "Abstract Cats is a proof-of-concept library intended to provide abstractions for functional programming in Scala. The goal is to provide a lightweight, modular, and extensible library that is approachable and powerful. Learn more here: https://github.com/non/cats Bio After spending a decade Proxying AbstractBeanInstaces from FactoryBuilderImpls in Java land, Stew found himself on a project using Scala, and hasn't looked back since. Stew is currently a software architect for Verizon where he spends a lot of energy evangelizing about the power of a more pure approach to functional programming. In his spare time he's writing documentation for the newly formed Cats project. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking Parking Please do not park inside the parking garage - instead use street parking. There tends to be some parking on Del Medio Avenue across the street from Box.",
+  "date_time": "2015-08-10T19:00:00-07:00",
+  "end_time": "2015-08-10T21:00:00-07:00"
+}

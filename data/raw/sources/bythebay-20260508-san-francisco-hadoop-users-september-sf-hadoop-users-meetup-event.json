@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-09-10T18:00:00-07:00",
+    "description": "The September SF Hadoop User Group meetup will be held Wednesday, September 10 from 6:00pm to 8:00pm. This meetup will be hosted by ThoughtWorks, located at 315 Montgomery Street, 16th floor, San Francisco. Food and drinks will be served.\n\nPresentation: “Relevance of Web Development practices to Hadoop (Or, What I Missed From the World of Web Development When Working on Hadoop)”\n\nSrikar Ayilavarapu (Software Developer, ThoughtWorks)\n\nWe will talk about how we brought in some of the practices, tools and techniques we saw in the Web Development world to Hadoop-based Data Applications. While the Web world has had practices like Test Driven Development, Continuous Integration, Hot Deployments, great debugging support, etc. for a while, we see these practices making inroads into the Data world just now.\n\nWe will discuss the tools and techniques we used to support these practices, some of the fundamental differences between Web and Data Engineering and how to compensate for them.\n\nPresentation: \"Recommendation systems: which algorithm works best?\"\n\nSuman Bhattacharya (Data Scientist, ThoughtWorks)\n\nThe recommendation system is perhaps one of the most important commercial applications in the tech industry today. I will perform a comparative study of different recommendation system algorithms that are currently used. I will show that choosing the 'correct' algorithm depends on the end goal of the recommendation system, and the accuracy of the system is quite sensitive to the choice of the metric. I will discuss which algorithms works best in the case of top-N recommendation systems and discuss the MapReduce approach to its implementation.",
+    "endTime": "2014-09-10T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/203730542/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "203730542",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "September SF Hadoop Users Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/203730542/"
+}

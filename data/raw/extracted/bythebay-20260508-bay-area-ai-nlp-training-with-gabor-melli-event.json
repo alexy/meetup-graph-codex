@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-nlp-training-with-gabor-melli-event",
+  "source_id": "bythebay-20260508-bay-area-ai-nlp-training-with-gabor-melli-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-nlp-training-with-gabor-melli-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-nlp-training-with-gabor-melli-event.json",
+  "kind": "workshop",
+  "event_id": "222047493",
+  "event_title": "NLP Training with Gabor Melli",
+  "title": "NLP Training with Gabor Melli",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/222047493/",
+  "description": "[This is a paid professional training, you have to register at http://text.bythebay.io ] Introduction to Applied Natural Language Processing (NLP) The automated processing of text data is now being successfully applied to many diverse types of mission-critical tasks in industries as varied as medicine, finance, law, advertising, engineering, and many others. The tutorial will cover the best-practices in many of them from the perspective of proven applications, methods, practices, tools and resources. Course Overview Text Preprocessing such as tokenization, lemmatisation, and end-of-sentence detection. Shallow Syntactic and Semantic Analysis such as semantic role labeling, and named entity recognition, Text Classification & Clustering such as spam detection and topic modeling. Information Extraction such as relation extraction in open and closed-domains. Word Sense Disambiguation such as linking to an ontology. Word Relatedness Functions such as from continuous word embeddings. Text Summarization After attending this tutorial, participants will be able to build their own NLP systems for each of these topics by themselves and be able to achieve good baseline results in a short time. Bio Gabor Melli is the Chief Scientist at VigLink.com where he leads their initiatives to automate mission-critical semantic-rich processes. This work largely involves the training of predictive models for classification, sequence labeling, and estimation for tasks such as named entity recognition and disambiguation in user generated text using techniques and tools such as: CRFs, SVMs, HMMs, Logistic, LDA, NLTK, Python, R, Scala, Java; Hive, Hadoop, Cassandra, RedShift and AWS EC2/S3/EMR. He has led and delivered large-scale data-driven initiatives at organizations ranging from Microsoft, AT&T, T-Mobile, ICBC, Washington Mutual, and Wal*Mart to start-ups such as Datasage, Meals.com, PredictionWorks and now at VigLink. Gabor holds a PhD in Computing Science from Simon Fraser University in the topic of document to ontology interlinking. He has been active in the data science community for over fifteen years and is the recipient ACM SIGKDD's Service Award in 2013. His current research interest include iterative semantic semi-supervised text analysis and automated business process optimization.",
+  "date_time": "2015-04-26T09:00:00-07:00",
+  "end_time": "2015-04-26T17:00:00-07:00"
+}

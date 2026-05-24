@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2011-12-14T18:00:00-08:00",
+    "description": "After a month's hiatus for Hadoop World, we're back! The December Hadoop meetup will be held Wednesday, December 14, from 6pm to 8pm. This meetup will be hosted by Splunk at their office on Brannan St.\n\nAs usual, we will use the discussion-based \"unconference\" format. At the beginning of the meetup we will collaboratively construct an agenda consisting of several discussion breakout groups. All participants may propose a topic and volunteer to facilitate a discussion. All Hadoop-related topics are encouraged, and all members of the Hadoop community are welcome.\n\nEvent schedule:\n\n6pm - Welcome 6:30pm - Introductions; start creating agenda Breakout sessions begin as soon as we're ready 8pm - Conclusion Food and refreshments will be provided, courtesy of Splunk.",
+    "endTime": "2011-12-14T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/41427512/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "41427512",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "December 2011 San Francisco Hadoop User Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-december-2011-san-francisco-hadoop-user-meetup-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/41427512/"
+}

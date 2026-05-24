@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-06-24T19:00:00-07:00",
+    "description": "Teppei Tosa gives a talk on Scala Active Records.\n\nTeppei Tosa is a manager of Research and Development Department in MUIT, which is MUFG's (Mitsubishi UFJ Financial Group) IT company.\n\nScala-ActiveRecord is an ORM library for Scala and is created by Japanese engineers. It provides the operability like Ruby-on-Rails-ActiveRecord and the advantage of type-safe. In this talk, Teppei will show the feature, the background and how to use it.\n\nSchedule:\n\n6:30-7:00 - networking 7:00-7:10 - announcements etc 7:10-~8:40 - Teppei talk 8:40-9:00 - networking",
+    "endTime": "2013-06-24T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/123134782/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "123134782",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala-ActiveRecord: Type-Safe Active Record model for Scala"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-scala-activerecord-type-safe-active-record-model-for-scala-active-records",
+  "source_url": "https://www.meetup.com/scala-bay/events/123134782/"
+}

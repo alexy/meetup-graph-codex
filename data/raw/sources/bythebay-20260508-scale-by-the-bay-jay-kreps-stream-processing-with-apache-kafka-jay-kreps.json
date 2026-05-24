@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-10-08T18:30:00-07:00",
+    "description": "Schedule\n\n6:30 - Doors\n\n7:00 - Talk starts\n\nTalk Abstract\n\nMost software systems continuously transform streams of inputs into streams of outputs. Yet the idea of directly modeling stream processing in infrastructure systems is just coming into it's own after a few decades on the periphery.\n\nThis talk will cover the basic challenges of reliable, distributed, stateful stream processing. It will cover how Apache Kafka was designed to support capturing and processing distributed data streams by building up the basic primitives needed for a stream processing system.\n\nFinally it will explore how these kind of infrastructure maps to practical problems based on our experience building and scaling Kafka to handle streams that captured hundreds of billions of records per day.\n\nSpeaker\n\nJay Kreps is the original author of several of open source projects including Apache Kafka, Apache Samza, Voldemort, and Azkaban.\n\nJay is the co-founder and CEO at Confluent, a company built around realtime data streams and the open source messaging system Apache Kafka.",
+    "endTime": "2015-10-08T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bythebay/events/225292151/",
+    "group": {
+      "id": "18748975",
+      "name": "Scale By the Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "225292151",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Jay Kreps: Stream Processing with Apache Kafka"
+  },
+  "meetup_id": "meetup:18748975",
+  "meetup_name": "Scale By the Bay",
+  "meetup_url": "https://www.meetup.com/bythebay/events/?type=past",
+  "source_id": "bythebay-20260508-scale-by-the-bay-jay-kreps-stream-processing-with-apache-kafka-jay-kreps",
+  "source_url": "https://www.meetup.com/bythebay/events/225292151/"
+}

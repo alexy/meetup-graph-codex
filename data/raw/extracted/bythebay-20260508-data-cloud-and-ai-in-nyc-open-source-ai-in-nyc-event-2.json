@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-ai-in-nyc-event-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-ai-in-nyc-event-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-ai-in-nyc-event-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-ai-in-nyc-event-2.json",
+  "kind": "event",
+  "event_id": "312365099",
+  "event_title": "Open Source AI in NYC",
+  "title": "Open Source AI in NYC",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/312365099/",
+  "description": "If you work in banking, insurance, or financial services, do consider attending. To attend: Please enroll here [https://luma.com/jz7km6pb](https://luma.com/jz7km6pb) We have an awesome line-up of topics around building AI agents, and a host of open source tools to help level up your AI game including: * Open Leaderboard for Financial LLMs and Agents * When agents act on your behalf: Enterprise Identity Considerations * An Agentic AI Powered Mobile Banking Application with Langflow * Unlocking Document Intelligence with Docling * Data Prep Kit : Data Engineering for LLMs Speakers will include: * Kelly Abuelsaad - Architect & Engineer, AI Platform at IBM * Santosh Borse - Senior Engineer, watsonx Data Engineering at IBM * Gil Isaacs - Software & Cloud Solutions Architect at IBM * Dr Yanglet Liu - SecureFinAI Lab at Columbia University * Kathryn McAvoy – Financial Services Account Technical Leader at IBM * Ming Zhao - Open Technology at IBM",
+  "date_time": "2025-12-15T16:30:00-05:00",
+  "end_time": "2025-12-15T18:30:00-05:00"
+}

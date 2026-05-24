@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-05-14T18:00:00-07:00",
+    "description": "The May SF Hadoop User Group meetup will be held Wednesday, May 14 from 6:00pm to 8:00pm. This meetup will be hosted by Flickr, located at 901 Mission St, San Francisco, CA 94105. Food and drinks will be served.\n\nPresentations:\n\n“Flickr Computer Vision and Image Processing at Scale”\nHuy, Pierre, and Ben/Hugo\n\nFlickr uses Storm and Hadoop extensively. For this session, we are focussing our presentation on one of the top most uses of Hadoop/Storm at Flickr.\n\n“New Data Serialization on Hadoop at Yahoo”\nNandu Jayakumar",
+    "endTime": "2014-05-14T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/179881622/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "179881622",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "May SF Hadoop Users Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-may-sf-hadoop-users-meetup-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/179881622/"
+}

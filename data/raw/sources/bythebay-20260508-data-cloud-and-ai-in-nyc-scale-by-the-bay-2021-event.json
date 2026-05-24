@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2021-10-27T06:00:00-04:00",
+    "description": "Scale By the Bay 2021 is a global independent OSS conference on software and data engineering, running for the 9th year. It is held online this year in the EU+US timezone, starting at 9am EST timezone.\n\nRegister for SBTB at https://scale.bythebay.io using the code NYC20 for 20% off.\n\nWe begin with two workshops on Wednesday, October 27, free to the attendees:\n* Build a Production-ready Data Access Layer with GraphQL and Hasura\n* Exposing an HTTP API using Scala 3\n\nOn October 28, Clement Delangue, the founder of Hugginface, keynotes on the new way to do AI and AI Ethics.\nOn October 29, Alyona Medelyan, founder of Thematic, will keynote on building your own AI startup.\n\nThe program consists of three tracks:\n* Rigorous Software Engineering (Functional Programming, Types, …)\n* Cloud Architectures (Serverless, Containers, Reactive, Kafka, Spark…)\n* End-to-end Data Pipelines with AI/ML\n\nWe have two panels:\n* Hardware vs Software in AI Future\n* AI Product from Deeptech Founder and VC perspective\n\nA map of the program is at https://chief.sc/sbtb2021-map.\n\nRegister for Scale By the Bay with NYC20:\n\nhttps://www.scale.bythebay.io/register\n\nand join us online for the oldest and best independent Bay Area OSS conference of the year!",
+    "endTime": "2021-10-29T20:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/281551050/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "281551050",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scale By the Bay 2021"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-scale-by-the-bay-2021-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/281551050/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2021-05-31T23:00:00-07:00",
+    "description": "Scale By the Bay 2021 will be held online on October 28-29, 2021.\nFollowing the dramatic success of our revolutionary community setup for 2020, SBTB 2021 will also be produced by Konfy, an all-women tech company building events with love for developers, by developers. They created Scala Love, Java Love, Haskell Love, Data Love, and more.\n\nThe CFP is open at https://scale.bythebay.io/cfp until May 31.\n\nEarly bird registration is open too! It's our best deal ever (no code needed) and will be gone as those passes are gone.\n\nCheck out previous years, all linked form the landing page, to get an idea for a talk, and give it your best shot!",
+    "endTime": "2021-06-01T01:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/278029099/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "278029099",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Scale By the Bay 2021 CFP is now open until May 31!"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-scale-by-the-bay-2021-cfp-is-now-open-until-may-31-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/278029099/"
+}

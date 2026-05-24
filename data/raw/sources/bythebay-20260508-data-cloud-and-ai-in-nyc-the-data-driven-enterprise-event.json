@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-05-10T18:00:00-04:00",
+    "description": "The Data-Driven Enterprise\n\nIn a data-driven world, data is at the center of every decision we make. It takes different forms and shapes to visualize it, whether data is in motion or historic, and drive to value across the enterprise. Although some people may believe Big Data is separate and apart from traditional enterprise systems. In fact, that couldn’t be further from the truth. Join us and hear how BigInsights can help you leverage the understanding you gain from Big Data and tie back to dimensions of a business record.\n\nAgenda:\n6:00 pm to 6:30 pm - networking and pizza\n6:30 pm to 7:30 pm - announcement and presentation\n7:30 pm to 8:00 pm - networking and cleanup\n\nJoin us on May 10th to learn more about the data-driven world!\n\nRefreshments will be served.",
+    "endTime": "2016-05-10T20:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/230494257/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "230494257",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "The Data-Driven Enterprise"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-the-data-driven-enterprise-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/230494257/"
+}

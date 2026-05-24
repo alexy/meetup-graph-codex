@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-05-07T17:00:00-07:00",
+    "description": "This is a joint event with the Reactive Systems meetup.\n\nPlease RSVP at https://www.meetup.com/reactive-systems/events/270368083.\n\n-----\n\nReactive Microservices End-to-End with gRPC\n\nReactive programming with RxJava and Spring Reactor is a powerful technique for building scalable asynchronous systems. In this session you will learn about Reactive-gRPC, a library that combines the simplicity of gRPC microservices with the powerful asynchronous programming model of RxJava.\n\ngRPC has native support for streaming services, with built-in flow control to handle backpressure automatically. Reactive-gRPC seamlessly bridges the gRPC backpressure model with RxJava, helping you build backpressure aware streaming applications from the API all the way down to the wire, and provides a unified programming model across server, desktop, and mobile.\n\nIn this session, you will learn:\nHow to use the RxJava and gRPC streaming APIs,\nHow the RxJava, gRPC, and HTTP/2 flow control models work together to create backpressure aware microservices, and\nHow Reactive-gRPC simplifies building highly asynchronous systems and unifies the programming model for server, desktop, and mobile applications.\n\nBio: Ryan Michela is a principal member of the technical staff at Salesforce, where he’s working to integrate the Salesforce ecosystem with microservices. His passions are distributed systems and helping other developers become better. When he’s not digging into the heart of software, Ryan enjoys hiking and exploring the world.\n\n-----\n\nIf you're on the waiting list, that's because you should RSVP at https://www.meetup.com/reactive-systems/events/270368083/, not here!",
+    "endTime": "2020-05-07T19:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/270368246/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "270368246",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[RSVP at Reactive Systems!] Reactive Microservices End-to-End with gRPC"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-rsvp-at-reactive-systems-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce",
+  "source_url": "https://www.meetup.com/sf-scala/events/270368246/"
+}

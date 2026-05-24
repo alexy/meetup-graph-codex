@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-11-29T08:00:00-05:00",
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.**\nIn this series session, we delve into the future of finance powered by quantum computing. Discover how this revolutionary technology can transform the financial services industry by enhancing portfolio optimization, revolutionizing risk assessment, and even revolutionizing customer engagement. We will explore the enormous potential and real-world applications of quantum computing in finance.\n\nNote that this is **part 3 of a 4-session series \"Quantum Horizon: Exploring the Frontier in Quantum Computing Careers\"** on Oct 25/26, Nov 8/9, Nov 29/30, Dec 6/7. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions.\n\n**Presenter:** **Dr.** **Manuel Proissl**\n\nDr. Manuel Proissl is the IBM Quantum Banking lead for EMEA. He serves as a technology leader, senior advisor, and applied industry research advocate of Quantum Computing and Artificial Intelligence, at the forefront of technological progress, to accelerate and empower innovation in business and science.\n\nHe has worked for Tier-1 banks and regulators around the world, in business executive, advisory, and hands on roles, delivering large programs for digital innovation, governance, and monetization of data, AI and emerging technologies. Most notably, he has been the Head of AI and Quantum lead at one of the world's largest wealth managers driving multi-billion-dollar revenue pools, and chief data scientist for challenging quantitative risk & compliance models at a global audit firm. He's made pioneering contributions to fraud pattern recognition for trade surveillance & AML, dynamic price optimization, algorithmic fairness in AI/data products, cognitive governing systems, and quantum physics.\nManuel has a distinguished track record of over 20 years advancing science, technology and industry applications. He is a member of the IEEE Computer Society, American Physical Society, and European AI Alliance. He holds a Ph.D. in Physics.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r6c072b9924cf0461b43ded466eb55f3a]( https://ibm.webex.com/weblink/register/r6c072b9924cf0461b43ded466eb55f3a)**",
+    "endTime": "2023-11-29T09:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/296566859/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "296566859",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Quantum Careers - Part 3: Learning about Quantum Computing in Financial Services"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-3-learning-about-quantum-computing-in-financial-services-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/296566859/"
+}

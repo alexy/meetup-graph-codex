@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2019-05-02T18:00:00-07:00",
+    "description": "This is a joint meetup By the Bay: register at http://bay.area.ai!\n-----\n\nApplied Machine Learning is about as mature as Software Engineering circa 1998. For Data Scientists, it’s hard to collaborate, hard to be productive and hard to deploy to production. In the last 20 years, Software Engineers have become far more collaborative thanks to tools like git, far more productive thanks to cloud computing and far more effective at delivering quality software thanks to CI/CD and agile development practices. At Netflix, I get to work on problems like: how do we scale Data Science innovation by making collaboration effortless? How do we enable Data Scientists to single-handedly and reliably introduce their models to production? How do we make it easy to develop ML models that humans trust? More importantly, how do we use ML to make humans BETTER? In this talk, we’ll explore how Netflix is approaching these problems to further our mission of creating joy for our 125 Million+ members worldwide!\n\nSpeaker: Julie Pitt leads the Machine Learning Infrastructure at Netflix, with the goal of scaling Data Science while increasing innovation. She previously built streaming infrastructure behind the \"play\" button while Netflix was transitioning from domestic DVD-by-mail service to international streaming service.\n\nJulie also co-founded Order of Magnitude Labs, with a mission to build AI capable of doing things that humans find easy and today’s machines find hard: exploration, communication, creativity and accomplishing long-range goals. Early in her career, Julie developed data processing software at Lawrence Livermore National Laboratory that enabled scientists to study the newly-sequenced human genome.\n\n-----\nJulie is a regular speaker at Scale By the Bay, the 2019 CFP opens May 1 and ends May 31, submit your best talks early starting May 1 at http://scale.bythebay.io!",
+    "endTime": "2019-05-02T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/260707992/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "260707992",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[Register at Bay.Area.AI] Applied Machine Learning: a Netflix Production"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-applied-machine-learning-a-netflix-production-julie-pitt",
+  "source_url": "https://www.meetup.com/hadoopsf/events/260707992/"
+}

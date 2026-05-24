@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-2",
+  "source_id": "bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-2.json",
+  "kind": "talk",
+  "event_id": "272898761",
+  "event_title": "Ninny json: type classes & Tools from the Scala community to learn & teach Scala",
+  "title": "Ninny json: type classes & Tools from the Scala community to learn & teach Scala",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Leo Benkel, Leo Benkel Leo, Nathan Fischer, Salar Rahmanian",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/272898761/",
+  "description": "This event will be streamed on Twitch (please log into twitch before the event starts). Once you RSVP you will see the link to twitch to join! For the hallway track and to ask the speakers question you can use the chat on Twitch or join our slack/discord communities at https://www.sfbayareatech.xyz/ - Once you have joined the slack/discord please go to the #sfscala channel. Any questions about the event please ask in our channel on discord above. Thank you. Two talks: Talk1: Ninny json: type classes that know that none is not null by Nathan Fischer ninny-json is an experiment to look at what JSON type classes would look like if they made a distinction between absent JSON fields, and fields with null values. About our Speaker: Nathan Fischer is a San Francisco based developer using Scala to increase productivity and push the errors to compile time. Talk2: Leveraging tools from the Scala community to learn and teach Scala by Leo Benkel Leo is going to present a selected collection of tools and online resources to learn Scala at your own pace. No matter if you are learning from scratch or improving the quality of your code or even getting more familiar with functional programming concepts, there is a resource for that ! About our speaker: Leo Benkel grew up in France and has been living in San Francisco for the last 10 years. He is passionate about functional programming and teaches Scala at Demandbase. He enjoys designing/architecting libraries and software products. Simply, Leo loves exploring where nobody has ever been before and working with teams that want to create the \"possible\" out of the \"improbable\". His draw to exploration and adventure also carry over to life outside of work. When he’s not working, Leo enjoys video games, movies, TV shows, board games, traveling, and eating/cooking good food. Agenda 6pm Welcome to SF Scala by Salar Rahmanian 6.15pm Leveraging tools from the Scala community to learn and teach Scala by Leo Benkel 7pm Ninny json: type classes that know that none is not null by Nathan Fischer 7.30pm Q & A followed by Announcements 8.00pm Event finishes but conversations can continue on slack",
+  "date_time": "2020-09-16T18:00:00-07:00",
+  "end_time": "2020-09-16T20:00:00-07:00"
+}

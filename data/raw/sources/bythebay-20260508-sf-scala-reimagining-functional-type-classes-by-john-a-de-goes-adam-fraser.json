@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-07-30T17:30:00-07:00",
+    "description": "-------How to Join our online/Virtual event ------\n- Before the meetup visit https://www.sfbayareatech.xyz/ and enter your details to join our slack community. Once you submit your email address and name you will receive an invite to join so check your email.\n- Once you have joined our slack community please join the #sfscala channel\n- RSVP to this event here on Meetup\n- Location part of this event page will have a link to Zoom to join the event. We will update this page with the link closer to the event. You will only be able to see the link if you have RSVP to this event.\n- Any questions please contact me (Salar Rahmanian) via our slack community or meetup.\n------PLEASE FOLLOW ABOVE Instructions before event---------\n\nTalk Title: Reimagining Functional Type Classes\n\nTalk Summary:\n\nFor decades, the Functor, Monoid, and Foldable type class hierarchies have dominated functional programming. Implemented in libraries like Scalaz and Cats, these type classes have an ancient origin in Haskell, and they have repeatedly proven useful for advanced functional programmers, who use them to maximize code reuse and increase code correctness.\n\nYet, as these type classes have been copied into Scala and aged, there is a growing awareness of their drawbacks, ranging from being difficult to teach to weird operators that don’t make sense in Scala (ap from Applicative), to overlapping and lawless type classes (Semigroupal), to a complete inability to abstract over data types that possess related structure (such as isomorphic applicatives).\n\nIn this presentation, John A. De Goes introduces a new Scala library with a completely different factoring of functional type classes—one which throws literally everything away and starts from a clean slate. In this new factoring, type classes leverage Scala’s strengths, including variance and modularity. Pieces fit together cleanly and uniformly, and in a way that satisfies existing use cases, but enables new ones never before possible. Finally, type classes are named, organized, and described in a way that makes teaching them easier, without compromising on algebraic principles.\n\nIf you’ve ever thought functional type classes were too impractical or too confusing or too restrictive, now’s your chance to get a fresh perspective on a library that just might make understanding functional programming easier than ever before!\n\nSpeaker: John A. De Goes\nA mathematician by training but a software engineer by vocation, John A. De Goes has been professionally writing software for more than 25 years. John has contributed to dozens of open source projects written in functional programming languages, including ZIO, a library for asynchronous and concurrent programming in functional Scala. In addition to speaking at Strata, OSCON, BigData TechCon, NEScala, ScalaWorld, Scala IO, flatMap, Scalar Conf, LambdaConf, and many other conferences, John also published a variety of books on programming. Currently, John heads Ziverge Inc, a company committed to solving hard business problems using the power of functional programming.\n\nAgenda\n\n5.30pm Welcome to SFScala by Alexy Khrabrov & Salar Rahmanian\n5.45pm Reimagining Functional Type Classes by John A. De Goes\n7.30pm Wrap up and continue conversations on Slack\n\nSponsors\nZiverge helps companies thrive using the competitive advantages of FP.\n\nZiverge is running a variety of Functional Scala workshops and is offering members of this community 10% off with code: \"SFScala10\"\n\nFunctional Scala Fundamentals by Adam Fraser https://www.eventbrite.com/e/functional-scala-fundamentals-tickets-104779747044",
+    "endTime": "2020-07-30T19:30:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/270897048/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "270897048",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Reimagining Functional Type Classes by John A. De Goes"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser",
+  "source_url": "https://www.meetup.com/sf-scala/events/270897048/"
+}

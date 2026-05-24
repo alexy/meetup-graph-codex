@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter-2",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter-2",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter-2.json",
+  "kind": "talk",
+  "event_id": "225350988",
+  "event_title": "January 2016 Meetup",
+  "title": "January 2016 Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": "Jihoon Son @ Gruter, Susan Romero",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/225350988/",
+  "description": "Thanks to Chartboost for hosting us! We'll kick-off 2016 with two tech talks. Talk #1: Introduction to Apache Tajo: Future of Data Warehouse Apache Tajo is a data warehouse system for Web-scale data. It provides virtual integration of a multitude of diverse data sources, thereby facilitating easy and rapid data integration which has been regarded as an essential, but heavy step in business intelligence. In addition, it has a fault-tolerable distributed query engine for accelerating query speed. With the “query federation” and “distributed processing” capacities, Tajo is capable of providing users with reliable and efficient analysis of Web-scale data spread on multiple sources. I will introduce Apache Tajo including its overall architecture, current state and challenges, and discuss advantages what Tajo can bring to users. In addition, I will give a demo of integrated data analysis with Tajo. Speaker: Jihoon Son, Software Engineer, Gruter Bio: Dr. Jihoon Son is a distributed system engineer at Gruter, which is a Hadoop-based big data infrastructure company of South Korea. He is one of the co-founders of Apache Tajo project, and now working on distributed query processing and query optimization of Tajo. He has several speaking experiences at international conferences such as ACM International Workshop on Data Engineering for Wireless and Mobile Access (MobiDE) and International Conference on Data Engineering (IEEE ICDE). Talk #2: Machine Learning using your data in Spark & distributing jobs on your YARN cluster There's a wealth of data on your cluster. Learn how to use the open source release of Sframes by Dato, Graphlab Create and Dato Distributed to develop your machine learning models without taking the data out of your cluster, and taking advantage of job distribution. In this session we will show you how to extract data from your spark cluster and convert it to an Sframe and use Graphlab to build a model without it ever leaving your cluster. Next we will use Dato distributed to train the model and finally we will convert the Sframe back to RDD. Dato's machine learning platform makes sophisticated machine learning easy to build, instant to deploy and versatile to manage. In 2014 Dato (formerly known as Graphlab) certified the initial product Graphlab Create to incorporate large-scale machine learning and graph analytics algorithms at scale. Dato Distributed is the latest Cloudera certified product and is built to scale machine learning tasks by distributing machine learning jobs on a cluster of machines. Speaker: Susan Romero Bio: Susan is a software engineer with experience developing applications in research and enterprise environments. Prior to joining Dato, she created powerful solutions in Infrastructure and Platform as a Service offerings at the IBM SmartCloud Innovation Center and delivered middleware and applications in a customer-facing role for IBM Global Technology Services. She holds a Master’s in Computer Science from NJIT and a Bachelor’s in Fisheries and Wildlife Management from NCSU.",
+  "date_time": "2016-01-12T18:00:00-08:00",
+  "end_time": "2016-01-12T20:00:00-08:00"
+}

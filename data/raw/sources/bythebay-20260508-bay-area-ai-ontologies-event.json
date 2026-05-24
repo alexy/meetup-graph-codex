@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-03-12T18:00:00-07:00",
+    "description": "UPDATE: http://text.bythebay.io schedule (http://text.bythebay.io/schedule.html) is up, 40 talks by 40 amazing companies. We've sent a code to the members; early bird through 3/20.\n\nUpdate: thanks to our Groupon friends, we have the venue! We need a video sponsor for our talks -- please contact the organizers if you want to partner.\n\nWe got one talk in, another coming!\n\nTalk 1: Jay Wacker, Quora\n\nQuora's Topic Ontology\n\nAbstract: I will discuss the philosophy and structure behind Quora's Topic Ontology\n\nTalk 2: Jeff Lerman, QIAGEN\n\nThe Ingenuity Biomedical Knowledge-Base: Advantages of Modeling Knowledge in an Ontology\n\nIngenuity Systems (now a part of QIAGEN) provides software solutions to interpret biological datasets. By aligning customer data to the Ingenuity Knowedgebase (KB), datasets can be viewed and analyzed in the context of relevant biological and biomedical knowledge. The Ingenuity KB is represented as a frame-based ontology, and that structure facilitates a range of powerful features, including inference and testing functionality. I’ll discuss the ontology structure, building process, maintenance regime, and some use-cases.",
+    "endTime": "2015-03-12T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/220718220/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "220718220",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Ontologies"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-ontologies-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/220718220/"
+}

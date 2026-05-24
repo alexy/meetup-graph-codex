@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event",
+  "source_id": "bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event.json",
+  "kind": "talk",
+  "event_id": "228814274",
+  "event_title": "A Data Pipeline for the Internet of Data Centers; Agile Data Science with Scala",
+  "title": "A Data Pipeline for the Internet of Data Centers; Agile Data Science with Scala",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/228814274/",
+  "description": "Title: XJ Liu, A Data Pipeline for the Internet of Data Centers Description: Data centers generate a voluminous amount of machine data ranging from performance metrics, workload activities, resource utilization, system configuration, topologies, events, logs, and failures. Analysis of such data can yield actionable insights for system admins and IT decision-makers to improve efficiency and reduce risk in their infrastructure. CloudPhysics has built a SaaS application which receives machine data from hundreds of thousands of servers around the world and provides data-driven IT analytics. As machines can generate data much faster than humans, building a data pipeline to handle this firehose presents unique challenges. This talk covers our experience in building a scalable analytics back-end for both real-time streaming and batch analysis of machine data, using Scala, Spark, and NoSQL technologies on AWS. We will discuss a unified modeling and analysis framework for heterogeneous, dynamic, semi-structured machine data. We will share the characteristics of our analytical workload, the scaling principles learned through iterations of the back-end, and efficiency gains achieved. Title: Andy Petrella & Xavier Tordoir, Agile Data Science with Scala Description: It turns out that lots of companies want to explore large data sets, both their own and public. This \"digging for gold\" is often called Data Science and spans mathematics, statistics, machine learning, data preparation, software engineering, distributed systems, devops and more. Data science capabilities are often seen as a competitive advantage in the marketplace thus creating a frenzy of activity in open and closed source systems. Recently, Scala has started to become a key language given the popularity of the Spark framework. The game is changing rapidly but many methods have matured, libraries are available and more teams are entering this field. Now, data scientists do write code, but they were not always trained as software developers or distributed systems engineers. And even less so devops. So, to really get the benefit of the data discoveries, a team has to help create and end to end pipeline. Today, this process has lots of friction points. In this talk, Andy Petrella and Xavier Tordoir will walk through a unified environment starting with the Spark Notebook, helping different people with different tasks and background to develop a data service pipeline with minimal friction and maximal agility. Andy will demo the just-released newest features of open source Spark Notebook. Speakers. XJ Liu (Chief Scientist, CloudPhysics) Andy Petrella & Xavier Tordoir (Founders, DataFellas) Schedule 6:30 pm - Registration, Food 6:45 pm - A Data Pipeline for the Internet of Data Centers XJ Liu (CloudPhysics Chief Scientist) 7:15 pm - Agile Data Science with Scala Andy Petrella & Xavier Tordoir (DataFellas Founders) Parking: Plenty of free parking in parking structure behind building.",
+  "date_time": "2016-02-17T18:30:00-08:00",
+  "end_time": "2016-02-17T21:30:00-08:00"
+}

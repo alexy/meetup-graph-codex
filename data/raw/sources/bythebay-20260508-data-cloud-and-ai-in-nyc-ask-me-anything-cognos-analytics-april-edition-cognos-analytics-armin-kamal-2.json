@@ -1,0 +1,63 @@
+{
+  "event": {
+    "dateTime": "2023-04-11T12:00:00-04:00",
+    "description": "**Target Audience:** IBM Cognos Analytics Users or Clients. Note that this is an open Q&A session to address queries about the IBM Cognos Analytics product.\n\n**Summary:**\nJoin our Cognos Analytics Product Management team live to ask and get answers to your most pressing Cognos Analytics questions. If you like product roadmap sneak previews, don't worry - we'll be sharing those, too.\n\nRegister now and join us for a lively session where you can ask anything about Cognos!\n\nRegister for this webinar at: **[https://ibm.webcasts.com/starthere.jsp?ei=1602659&tp_key=805104fcb9](https://ibm.webcasts.com/starthere.jsp?ei=1602659&tp_key=805104fcb9)**\n\n**Key Speakers:**\n\n* **Rachel Su** \\- Product Management\\, Cognos Analytics\n* **Tim Aston** \\- Product Management\\, Cognos Analytics\n* **Zach Taylor** \\- Product Management\\, Cognos Analytics\n* **Rodrigo Andrade** \\- Product Management\\, Cognos Analytics\n* **Sami El Cheikh** \\- Product Management\\, Cognos Analytics\n* **Armin Kamal** \\- Proven Practices Advisor\\, Cognos Support",
+    "endTime": "2023-04-11T13:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/292217439/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "292217439",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Ask Me Anything: Cognos Analytics - April Edition"
+  },
+  "event_id": "292217439",
+  "event_title": "Ask Me Anything: Cognos Analytics - April Edition",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Target Audience:** IBM Cognos Analytics Users or Clients. Note that this is an open Q&A session to address queries about the IBM Cognos Analytics product. **Summary:** Join our Cognos Analytics Product Management team live to ask and get answers to your most pressing Cognos Analytics questions. If you like product roadmap sneak previews, don't worry - we'll be sharing those, too. Register now and join us for a lively session where you can ask anything about Cognos! Register for this webinar at: **[https://ibm.webcasts.com/starthere.jsp?ei=1602659&tp_key=805104fcb9](https://ibm.webcasts.com/starthere.jsp?ei=1602659&tp_key=805104fcb9)** **Key Speakers:** * **Rachel Su** \\- Product Management\\, Cognos Analytics * **Tim Aston** \\- Product Management\\, Cognos Analytics * **Zach Taylor** \\- Product Management\\, Cognos Analytics * **Rodrigo Andrade** \\- Product Management\\, Cognos Analytics * **Sami El Cheikh** \\- Product Management\\, Cognos Analytics * **Armin Kamal** \\- Proven Practices Advisor\\, Cognos Support",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ask-me-anything-cognos-analytics-april-edition-cognos-analytics-armin-kamal-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ask-me-anything-cognos-analytics-april-edition-cognos-analytics-armin-kamal-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ask-me-anything-cognos-analytics-april-edition-cognos-analytics-armin-kamal-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Cognos Analytics Armin Kamal"
+      },
+      {
+        "company": null,
+        "name": "Cognos Analytics Rodrigo Andrade"
+      },
+      {
+        "company": null,
+        "name": "Cognos Analytics Sami El"
+      },
+      {
+        "company": null,
+        "name": "Cognos Analytics Tim Aston"
+      },
+      {
+        "company": null,
+        "name": "Cognos Analytics Zach Taylor"
+      },
+      {
+        "company": null,
+        "name": "Cognos Support"
+      },
+      {
+        "company": null,
+        "name": "Rachel Su"
+      }
+    ],
+    "title": "Ask Me Anything: Cognos Analytics - April Edition"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ask-me-anything-cognos-analytics-april-edition-cognos-analytics-armin-kamal-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/292217439/"
+}

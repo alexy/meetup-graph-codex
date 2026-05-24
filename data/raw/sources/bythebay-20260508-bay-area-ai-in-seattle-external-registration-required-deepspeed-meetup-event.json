@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-02-12T18:00:00-08:00",
+    "description": "*Note: **registration** with your full name and email i**s required** at*\n**[https://www.meetup.com/deepspeed-meetup-group/events/298934126/](https://www.meetup.com/deepspeed-meetup-group/events/298934126/)**\nor\n**[https://developer.microsoft.com/en-us/reactor/events/21771](https://developer.microsoft.com/en-us/reactor/events/21771)**\n*to attend.*\n\n### DeepSpeed Meetup\n\n**12 February\\, 2024 \\| 6:00 PM \\- 8:00 PM**\n**Address: Redmond Reactor 3709 157th Ave NE, Redmond, WA 98052**\n\n* Format: In person (Redmond)\n\nThis will be the first ever meetup for the DeepSpeed open-source project. We will have an overview of DeepSpeed, latest features and release, and deeper dive talks on particular new/important features and use cases.",
+    "endTime": "2024-02-12T20:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/299019724/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "299019724",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[In Seattle / External Registration Required] DeepSpeed Meetup"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-in-seattle-external-registration-required-deepspeed-meetup-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/299019724/"
+}

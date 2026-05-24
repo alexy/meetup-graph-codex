@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-10-08T17:30:00-07:00",
+    "description": "http://photos4.meetupstatic.com/photos/event/8/0/e/0/600_413012992.jpeg\n\nJoin us at KIXEYE for an informative talk by Peter Potts about The Cake Pattern in Practice.\n\nPeter Potts is a Principal Architect in the Services Engineering team at KIXEYE. He develops highly scalable Scala and Akka based backend systems for massively multiplayer online (MMO) games. He studied Mathematics at the University of Cambridge and received a PhD in Theoretical Computing at Imperial College London.\n\nThe Cake Pattern is a strongly typed solution for Dependency Injection (DI) and Aspect-Oriented Programming (AOP) using only the constructs available in the Scala programming language. The pattern was first explained by Martin Odersky and further illuminated by Jonas Bonér. In this talk, we will demonstrate practical ways to use the Cake Pattern. We will cover ways to handle scope, configuration, initialization, actors, modularization and how to manage the proliferation of boilerplate and obtuse compiler errors.\n\nAgenda:\n5:30 PM Register Mix, mingle, eat some snacks\n6:00 PM Peter Potts\n7:00 Q&A Wrap up\n\nAll attendees will need to bring ID to check in at the lobby and will be sent up to the 19th floor where an NDA will be required to enter on the 19th floor.",
+    "endTime": "2014-10-08T20:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/208859462/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "208859462",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "The Cake Pattern in Practice"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-the-cake-pattern-in-practice-martin-odersky",
+  "source_url": "https://www.meetup.com/sf-scala/events/208859462/"
+}

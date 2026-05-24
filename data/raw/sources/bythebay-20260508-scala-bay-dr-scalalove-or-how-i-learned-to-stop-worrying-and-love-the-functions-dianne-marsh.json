@@ -1,0 +1,34 @@
+{
+  "event": {
+    "dateTime": "2013-09-09T19:00:00-07:00",
+    "description": "Speaker: Dianne Marsh\n\ntwitter: @dmarsh (https://twitter.com/dmarsh); blog: diannemarsh.com (http://diannemarsh.com/); book: atomicscala.com (http://atomicscala.com/)\n\nTalk: Dr. Scalalove, Or How I learned to Stop Worrying and Love the Functions\n\nSummary: In this introduction to Scala, I will demonstrate why I love Scala and why I think that you will too. You’ll learn why you don’t need to go from 0 to functions and how you can ease yourself into this language. I’ll show you some Scala, compare it to Java, and give you pointers on how to start your journey into this functional object-oriented language.\n\nAbout The Speaker:A few years ago, I was frustrated by the constant beating Scala was taking as a language that is “hard to learn”, and “harder than Java”. That had not been my experience at all, so I decided to write an introductory book on Scala. Bruce Eckel generously offered to write “Atomic Scala” with me, and we brainstormed on ideas about how to keep the book simple and to not expect prior programming knowledge in Java. We decided that we would write the book without forward references or prerequisites on programming experience, and that we would target both the dedicated novice and the experienced developer. When I started writing Atomic Scala, I was the co-founder of a software consulting company. Now, I’m the Director of Engineering for Cloud Tools at Netflix, leading a team of amazing, talented developers who provide tools for our internal teams to use. Our team owns software written in Java, Groovy, Python, and yes -- Scala!\n\nSpeaker: Manish Pandit\n\nTwitter: @lobster1234 (https://twitter.com/lobster1234); blog: mpandit.me (http://mpandit.me/)\n\nTalk: Powering Partner APIs with Scalatra and Netflix OSS\n\nSummary: In this talk I will go over the architecture for the next generation device metadata APIs, the tech stack, and the development+deployment process. I will also demonstrate real world use cases, which make Scala stand out as a choice programming language for building APIs. For example, producing/consuming JSON, sending HTTP requests, using MySQL/Cassandra, and Caching. I will also discuss testing frameworks, and how they plug into our larger CI/CD infrastructure.\nWe will be touching quite a bit of Netflix OSS components during this talk.\nAbout The Speaker:A programmer at heart, I work with an awesome team of engineers to build awesome products. I work at Netflix as Engineering Manager in the Partner Products Innovation group. Prior to Netflix, I've worked at IGN Entertainment, E*Trade, and Accenture in various engineering roles. I've been working with Scala for the last 2 years, coming from a mostly Java background.\n\nSchedule:\n\n• Doors open at 6:30\n\n6:30-7:00 - networking\n\n• 7:00-7:10 - announcements etc\n\n• 7:10-~8:40 - talk\n\n• 8:40-9:00 - networking",
+    "endTime": "2013-09-09T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/135644722/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "135644722",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala at Netflix"
+  },
+  "event_id": "135644722",
+  "event_title": "Scala at Netflix",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "Summary: In this introduction to Scala, I will demonstrate why I love Scala and why I think that you will too. You’ll learn why you don’t need to go from 0 to functions and how you can ease yourself into this language. I’ll show you some Scala, compare it to Java, and give you pointers on how to start your journey into this functional object-oriented language. About The Speaker:A few years ago, I was frustrated by the constant beating Scala was taking as a language that is “hard to learn”, and “harder than Java”. That had not been my experience at all, so I decided to write an introductory book on Scala. Bruce Eckel generously offered to write “Atomic Scala” with me, and we brainstormed on ideas about how to keep the book simple and to not expect prior programming knowledge in Java. We decided that we would write the book without forward references or prerequisites on programming experience, and that we would target both the dedicated novice and the experienced developer. When I started writing Atomic Scala, I was the co-founder of a software consulting company. Now, I’m the Director of Engineering for Cloud Tools at Netflix, leading a team of amazing, talented developers who provide tools for our internal teams to use. Our team owns software written in Java, Groovy, Python, and yes -- Scala!",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-dr-scalalove-or-how-i-learned-to-stop-worrying-and-love-the-functions-dianne-marsh.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-dr-scalalove-or-how-i-learned-to-stop-worrying-and-love-the-functions-dianne-marsh.json",
+    "source_id": "bythebay-20260508-scala-bay-dr-scalalove-or-how-i-learned-to-stop-worrying-and-love-the-functions-dianne-marsh",
+    "speakers": [],
+    "title": "Dr. Scalalove, Or How I learned to Stop Worrying and Love the Functions"
+  },
+  "source_id": "bythebay-20260508-scala-bay-dr-scalalove-or-how-i-learned-to-stop-worrying-and-love-the-functions-dianne-marsh",
+  "source_url": "https://www.meetup.com/scala-bay/events/135644722/"
+}

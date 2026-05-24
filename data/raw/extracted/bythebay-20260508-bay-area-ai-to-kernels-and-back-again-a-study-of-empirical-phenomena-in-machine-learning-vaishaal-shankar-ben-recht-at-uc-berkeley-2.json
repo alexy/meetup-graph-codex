@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning-vaishaal-shankar-ben-recht-at-uc-berkeley-2",
+  "source_id": "bythebay-20260508-bay-area-ai-to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning-vaishaal-shankar-ben-recht-at-uc-berkeley-2",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning-vaishaal-shankar-ben-recht-at-uc-berkeley-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning-vaishaal-shankar-ben-recht-at-uc-berkeley-2.json",
+  "kind": "talk",
+  "event_id": "270871731",
+  "event_title": "To Kernels and Back Again — A study of Empirical Phenomena in Machine Learning",
+  "title": "To Kernels and Back Again — A study of Empirical Phenomena in Machine Learning",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": "Vaishaal Shankar @ Ben Recht at UC Berkeley",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/270871731/",
+  "description": "As machine learning algorithms increasingly pervade our everyday life, it becomes imperative that we better understand the algorithms we deploy. In this talk I will present my work that uses classical kernel methods to study empirical phenomena in machine learning. I will first present structured kernel constructions that provide competitive performance on a range of scientific tasks ranging from computational biology to heliophysics, but fall short on standard machine learning benchmarks such as Cifar-10 and ImageNet. Then I take a substantial detour to understand whether the high predictive performance of neural networks on standard benchmarks is fundamental, or simply due to overfitting on test sets. This leads to a line of work involving constructing novel test sets for Cifar-10 and ImageNet and precisely measuring human and model performance on these datasets. Finally I return to improve my structured kernel constructions to achieve significantly higher performance on standard machine learning benchmarks. Bio: Vaishaal Shankar is a final year PhD student working with Ben Recht at UC Berkeley. He broadly works on experimental analysis of phenomena in machine learning. A majority of his research has revolved around understanding the fundamental limitations of deep neural networks and their connection to classical kernel methods. He will be joining a special projects team at Amazon in Fall 2020.",
+  "date_time": "2020-06-04T11:00:00-07:00",
+  "end_time": "2020-06-04T12:00:00-07:00"
+}

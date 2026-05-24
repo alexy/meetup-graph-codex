@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-06-08T18:00:00-07:00",
+    "description": "This meetup is a key part of the Cognitive Frameworks Festival, uniting open-source community around the city in the week of June 5:\n\nhttp://festival.framework.foundation\n\nWe have 5 talks for this amazing meetup, showcasing the vibrant ecosystem around Apache Spark.\n\n3 main talks, 20 minute each:\n\nPySpark Beyond Shuffling -- Why it isn't Magic -- but also where there is some really cool magic Holden Karau -- Apache Spark Committer, Spark Technology Center, IBM\n\nApache SystemML: State of the Project and Future PlansFrederick Reiss -- Chief Architect, Spark Technology Center, IBM\n\nPredictionIO\nKenneth Chen -- Cofounder of PredictionIO and Senior PM on Einstein, Salesforce\n\n2 Lightning talks, about 10min each:\n\nHyperparameter Optimization -- when scikit-learn meets PySparkSven Hafeneger -- Software Engineer, IBM\n\nSparklyrJavier Luraschi -- RStudio",
+    "endTime": "2017-06-08T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/240303624/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "240303624",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Spark, Watson and Einstein: Spark.TC, Salesforce and RStudio! "
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization-ibm",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/240303624/"
+}

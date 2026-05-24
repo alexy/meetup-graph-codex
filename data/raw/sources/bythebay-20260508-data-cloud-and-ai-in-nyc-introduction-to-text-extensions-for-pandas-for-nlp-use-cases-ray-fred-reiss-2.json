@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2022-04-20T14:00:00-04:00",
+    "description": "Are you interested to learn about Ray which is a new Open Source system for parallel processing backed by a rapidly-growing open-source community? How about NLP and the opensource library called Text Extensions for Pandas developed by IBM which turns the popular Pandas Dataframes into a universal data structure for natural language processing NLP to help use Pandas DataFrames for representing and manipulating the complex data structures that flow through modern natural language processing applications? Register to this webinar to learn more about these concepts presented by Frederick Reiss.\n\n**\\#\\# Agenda**\n\nText Extensions for Pandas is a library of extensions that turns the popular Pandas DataFrames into a universal data structure for natural language processing. It helps you use Pandas DataFrames for representing and manipulating the complex data structures that flow through modern natural language processing (NLP) applications.\n\nRay is a new system for parallel processing backed by a rapidly-growing open-source community. Ray combines a novel system design that addresses several key challenges of modern machine learning applications with simple, easy to use Python and Java APIs. We’ll present a high-level overview of both of these projects, followed by an example end-to-end application that shows how these two technologies work together to deliver a highly scalable solution to a complex NLP task with very little code.\n\n**\\#\\# Speaker bio**\n\nFred Reiss is a Principal Research Staff Member at IBM Research and Chief Architect at IBM’s Center for Open-Source Data and AI Technologies (CODAIT). He is also one of the authors of the Text Extensions for Pandas library. Fred received his Ph.D. from U.C. Berkeley in 2006 and immediately IBM Research, joining the CODAIT center in 2015. Fred has written multiple peer-reviewed papers in the areas of natural language processing, database systems, and machine learning.\n\n**\\#\\# Host**\n\nOrganized by Center for Open Source Data & AI Technologies (CODAIT)\nEvents Contact: Sepideh Seifzadeh sepi@ibm.com",
+    "endTime": "2022-04-20T15:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/285357014/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "285357014",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Introduction to Text Extensions for Pandas for NLP Use Cases & \u000bRay"
+  },
+  "event_id": "285357014",
+  "event_title": "Introduction to Text Extensions for Pandas for NLP Use Cases & Ray",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "Are you interested to learn about Ray which is a new Open Source system for parallel processing backed by a rapidly-growing open-source community? How about NLP and the opensource library called Text Extensions for Pandas developed by IBM which turns the popular Pandas Dataframes into a universal data structure for natural language processing NLP to help use Pandas DataFrames for representing and manipulating the complex data structures that flow through modern natural language processing applications? Register to this webinar to learn more about these concepts presented by Frederick Reiss. **\\#\\# Agenda** Text Extensions for Pandas is a library of extensions that turns the popular Pandas DataFrames into a universal data structure for natural language processing. It helps you use Pandas DataFrames for representing and manipulating the complex data structures that flow through modern natural language processing (NLP) applications. Ray is a new system for parallel processing backed by a rapidly-growing open-source community. Ray combines a novel system design that addresses several key challenges of modern machine learning applications with simple, easy to use Python and Java APIs. We’ll present a high-level overview of both of these projects, followed by an example end-to-end application that shows how these two technologies work together to deliver a highly scalable solution to a complex NLP task with very little code. **\\#\\# Speaker bio** Fred Reiss is a Principal Research Staff Member at IBM Research and Chief Architect at IBM’s Center for Open-Source Data and AI Technologies (CODAIT). He is also one of the authors of the Text Extensions for Pandas library. Fred received his Ph.D. from U.C. Berkeley in 2006 and immediately IBM Research, joining the CODAIT center in 2015. Fred has written multiple peer-reviewed papers in the areas of natural language processing, database systems, and machine learning. **\\#\\# Host** Organized by Center for Open Source Data & AI Technologies (CODAIT) Events Contact: Sepideh Seifzadeh sepi@ibm.com",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-text-extensions-for-pandas-for-nlp-use-cases-ray-fred-reiss-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-text-extensions-for-pandas-for-nlp-use-cases-ray-fred-reiss-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-text-extensions-for-pandas-for-nlp-use-cases-ray-fred-reiss-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Fred Reiss"
+      },
+      {
+        "company": null,
+        "name": "Frederick Reiss"
+      },
+      {
+        "company": null,
+        "name": "Text Extensions"
+      }
+    ],
+    "title": "Introduction to Text Extensions for Pandas for NLP Use Cases & Ray"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-text-extensions-for-pandas-for-nlp-use-cases-ray-fred-reiss-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/285357014/"
+}

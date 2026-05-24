@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-11-11T19:00:00-08:00",
+    "description": "Title: Richard Wall, Amazon Echo applications\n\nDescription:\n\nThe Amazon Echo is a new kind of human-interface device that communicates primarily by speech and not screens or text. When Dick got his, he set about learning how to program it using Scala, and Amazon's Lambda service, which runs events on demand using Amazon infrastructure. It turns out that Lambda suits Scala nicely for this kind of development, and is useful for many things including Amazon Echo skills (for example, serving websites). SBT plugins and all your favorite libraries make it even easier. Come along and get bitten by the AWS Lambda in Scala bug. As a bonus, all coding will be done in Ensime for Sublime (yes, Ensime lives, and we are hard at work on it).\n\nSpeaker.\n\nRichard Wall is a founder of Scala Bay.\n\nSchedule\n\n• 6:30-7:00 - networking\n\n• 7:00-7:10 - announcements etc\n\n• 7:10-~8:50 - talks\n\n• 8:50-9:00 - networking\n\nImportant:\n\nPlease arrive before 7 pm or earlier. After 7 pm, you will need to call to be let in and your entrance may be delayed.",
+    "endTime": "2015-11-11T22:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/225169599/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "225169599",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Richard Wall, Amazon Echo applications (called skills)"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-richard-wall-amazon-echo-applications-called-skills-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/225169599/"
+}

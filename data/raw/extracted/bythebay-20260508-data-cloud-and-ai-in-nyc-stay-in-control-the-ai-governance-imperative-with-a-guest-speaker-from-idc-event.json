@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-stay-in-control-the-ai-governance-imperative-with-a-guest-speaker-from-idc-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-stay-in-control-the-ai-governance-imperative-with-a-guest-speaker-from-idc-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-stay-in-control-the-ai-governance-imperative-with-a-guest-speaker-from-idc-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-stay-in-control-the-ai-governance-imperative-with-a-guest-speaker-from-idc-event.json",
+  "kind": "event",
+  "event_id": "298776696",
+  "event_title": "Stay in Control: The AI governance imperative with a guest speaker from IDC",
+  "title": "Stay in Control: The AI governance imperative with a guest speaker from IDC",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/298776696/",
+  "description": "Despite the benefits of generative AI, institutions are now facing related risks in regulatory backlash, fines, revenue loss, and brand damage. The need for a transparent, compliant, and trustworthy governance plan has only been punctuated by the recent White House announcement of the strongest global action yet on AI safety and governance. Establishing an AI governance plan that covers both machine learning and Generative AI is paramount for organizations to stay ahead. There has never been a more critical time to navigate a meaningful, company-wide AI plan within your organization. **[Register now](https://ibm.webcasts.com/starthere.jsp?ei=1649938&tp_key=64c3ef04c3&sti=meetup)** Join this IDC webcast and you will learn: * The top 5-7 burning questions about Generative AI * Organizational barriers to AI adoption and how to overcome them * Improvements in AI governance tool kits for both machine learning and Generative AI * How to create a solid AI governance plan with company-wide buy in **[Register now](https://ibm.webcasts.com/starthere.jsp?ei=1649938&tp_key=64c3ef04c3&sti=meetup)**",
+  "date_time": "2024-02-14T13:00:00-05:00",
+  "end_time": "2024-02-14T14:00:00-05:00"
+}

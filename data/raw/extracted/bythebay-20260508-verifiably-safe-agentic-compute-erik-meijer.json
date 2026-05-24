@@ -1,0 +1,20 @@
+{
+  "id": "talk:ai-by-the-bay:bythebay-20260508-verifiably-safe-agentic-compute-erik-meijer",
+  "source_id": "bythebay-20260508-verifiably-safe-agentic-compute-erik-meijer",
+  "source_file": "data/raw/sources/bythebay-20260508-verifiably-safe-agentic-compute-erik-meijer.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-verifiably-safe-agentic-compute-erik-meijer.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "Verifiably Safe Agentic Compute",
+  "conference_id": "ai-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Erik Meijer, VP of Engineering, Normal Computing",
+  "tags": [
+    "AI Native Coding"
+  ],
+  "url": "https://ai.bythebay.io/talks/verifiably-safe-agentic-compute",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

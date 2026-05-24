@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-a-distributed-hash-table-using-akka-websockets-to-kafka-with-akka-streams-akka-streams-your-2",
+  "source_id": "bythebay-20260508-sf-scala-a-distributed-hash-table-using-akka-websockets-to-kafka-with-akka-streams-akka-streams-your-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-a-distributed-hash-table-using-akka-websockets-to-kafka-with-akka-streams-akka-streams-your-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-a-distributed-hash-table-using-akka-websockets-to-kafka-with-akka-streams-akka-streams-your-2.json",
+  "kind": "talk",
+  "event_id": "227426188",
+  "event_title": "A Distributed Hash Table using Akka; Websockets to Kafka with Akka Streams",
+  "title": "A Distributed Hash Table using Akka; Websockets to Kafka with Akka Streams",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Akka Streams Your",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/227426188/",
+  "description": "The RSVPs will be sorted so that empty answers will end up at the bottom. (1) Implementing a Distributed Hash Table with Scala and Akka Tristan Penman will be talking about his experience implementing a distributed hash table, or DHT, based on the Chord protocol. In particular, the talk will cover some Scala and Akka best practices, and look at how these practices influence the design of a non-trivial actor system. Tristan is a developer with a background in C++, with recent experience building scalable messaging systems in the telecommunications industry. (2) From Websockets to Kafka with Akka Streams Your app is a hit. Everyone's using your service. You've instrumented your website to collect real time usage data and you've set up a data processing pipeline to work with large amounts of data in real time, but how do you bridge the gap between web page and data pipeline? With websockets, Kafka and Akka Streams, of course! This talk covers using Akka Streams and Akka HTTP to, in less than 100 lines of code, build a server that consumes streams of events via websocket and publishes them to a Kafka topic, after which you can use the data analysis framework of your choice to analyze them to your heart's content. Paul Kinsky has been writing Scala for the last 3 years and has recently been using Akka Streams to build stream processing pipelines at Nitro. He’s currently working on a book about Akka Streams, Akka Streams in Action. Outside of work, he enjoys climbing, science fiction, and tinkering with Haskell and laser cutters. The professional functional.tv (http://functional.tv/) video for this meetup is sponsored by BoldRadius (http://boldradius.com/). BoldRadius Solutions consults with, trains and supports clients as they deliver previously impossible software-based business models. We are Typesafe’s largest partner in North America, offering licensing and support for RP, deep technological expertise in the Typesafe Reactive Platform including Scala, Akka, Play and Spark and related technologies. Our services increase our clients' success in building reactive applications. Become a video sponsor of SF Scala for February!",
+  "date_time": "2016-01-26T18:30:00-08:00",
+  "end_time": "2016-01-26T21:30:00-08:00"
+}

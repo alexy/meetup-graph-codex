@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event",
+  "source_id": "bythebay-20260508-sf-scala-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event.json",
+  "kind": "workshop",
+  "event_id": "258488711",
+  "event_title": "Bill Venners introduces Property-based Testing in ScalaTest 3.1",
+  "title": "Bill Venners introduces Property-based Testing in ScalaTest 3.1",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/258488711/",
+  "description": "ScalaTest 3.1 will include built-in support for property-based testing. In this talk, Bill Venners will explain property-based testing, walk you through the design implementation of ScalaTest's support in 3, and compare it to ScalaCheck's approach. In addition, Bill will show a preview of Expectations and Facts, coming in ScalaTest 3.2, and show how Facts and property-based testing can be combined to describe and check contract specifications. Bill Venners is president of Artima, Inc., provider of Scala consulting, training, books, and tools. He leads the open source projects for the ScalaTest testing library and the Scalactic library for functional, object-oriented programming. He is coauthor with Martin Odersky and Lex Spoon of the book, Programming in Scala. And he is a community representative on the Scala Center's Advisory Board. ----- We're lucky to be in Bill's habitat, and he will teach special Scala retreats in March and April: Join us at a Scala Retreat! Step away from your daily routine and gather with other developers for a Scala learning experience surrounded by nature. In March and April, Bill Venners will be leading three Scala Retreats: March 18-20: Simply Scala Fundamentals, San Damiano, CA March 21-22: Simply Scala Advanced, San Damiano, CA April 8-9: Effective Scala, Palm Desert, CA Get more details and register here: https://www.artima.com/shop/workshop Enrollment is limited. Please register early.",
+  "date_time": "2019-02-07T18:00:00-08:00",
+  "end_time": "2019-02-07T20:00:00-08:00"
+}

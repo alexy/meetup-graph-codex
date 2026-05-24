@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-10-24T17:30:00-07:00",
+    "description": "Please make sure you're [registered by clicking here](https://lu.ma/b3rhkle8). Github will email you a form before the event, which you will need to complete for your access pass.\n\n**Topic:** Connecting your unstructured data with Generative LLMs\n\n**What we’ll do:**\nHave some food and refreshments. Hear three exciting talks about LLMs and unstructured data.\n5:30 - 6:30 - Welcome/Networking/Registration\n6:35 - 7:00 - [Jon Bennion](https://www.linkedin.com/in/jonbennion/), MLE, [Fox](http://www.foxcorporation.com/)\n7:05 - 7:30 - [Filip Haltmayer](https://www.linkedin.com/in/filiphaltmayer/), SWE, [Zilliz](https://zilliz.com/)\n7:35 - 8:00 - [Rob Crystal-Ornelas,PhD](https://www.linkedin.com/in/robcrystalornelas/), Data Analyst III and [Kasia Sitkiewicz](https://www.linkedin.com/in/kasiasitkiewicz/), Growth Product Manager, [GitHub](https://github.com/)\n8:00 - 8:30 - Networking\n\n**Who Should attend:**\nAnyone interested in talking and learning about Unstructured Data and LLM Apps.\n\n**When:**\nOctober 24th, 2023\n5:30PM\n\n**Where:**\nThis is an in-person event! To secure your spot, kindly [Register](https://lu.ma/b3rhkle8) using this link (registering here on Meetup won't guarantee your entry). Thank you!\nCo-sponsored by [Zilliz](http://zilliz.com/) and [Confluent](https://www.confluent.io/lp/confluent-kafka/).\n\n**Tech Talk 1: How to Detect and Correct Logical Fallacies in LLM model output**\n**Speaker**: Jon Bennion, MLE, Fox\n**Abstract**: Logical fallacies are flawed reasoning or false arguments that can undermine the validity of a model’s outputs. LM models are optimized to perform well on specific metrics like cosine similarity, safety, or helpfulness. However, optimizing for metrics alone does not guarantee logically sound reasoning. Users cannot depend on such outputs - if left unchecked, propagating logical fallacies can spread misinformation, confuse users, and lead to harmful real-world consequences when models are deployed in products or services. Eliminating fallacies ensures model outputs remain logically valid and aligned with human reasoning. This maintains user trust and mitigates risks.\n\n**Tech Talk 2:** **How to stream data with Kafka into your RAG application**\n**Speaker**: Filip Haltmayer, SWE, Zilliz\n**Abstract:** In this talk, Filip will delve into the integration of Kafka (Confluent Cloud) with Zilliz Cloud (Hosted Milvus), showcasing how this synergy enables real-time data ingestion, parsing, and processing. The primary objective is to enhance the accuracy and performance of your Retrieval Augmented Generation (RAG) applications. Additionally, Filip will provide a comprehensive demonstration, offering practical insights into the capabilities and benefits of this integration.\n\n**Tech Talk 3: AI-Powered Pair Programming with GitHub Copilot**\n**Speakers**: Rob Crystal-Ornelas and Kasia Sitkiewicz, GitHub\n**Abstract**: Learn how GitHub’s AI-powered code assistant can help you save time and innovate at any career stage. We’ll demo GitHub Copilot and show the newly beta-released Copilot Chat. Also, we’ll share tips on how to prompt Copilot to make the most of this AI pair-programmer.",
+    "endTime": "2023-10-24T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/unstructured-data-sf/events/296232232/",
+    "group": {
+      "id": "36468260",
+      "name": "Unstructured Data Meetup Bay Area",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "296232232",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Unstructured Data in LLMs"
+  },
+  "meetup_id": "meetup:36468260",
+  "meetup_name": "Unstructured Data Meetup Bay Area",
+  "meetup_url": "https://www.meetup.com/unstructured-data-sf/events/?type=past",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-2",
+  "source_url": "https://www.meetup.com/unstructured-data-sf/events/296232232/"
+}

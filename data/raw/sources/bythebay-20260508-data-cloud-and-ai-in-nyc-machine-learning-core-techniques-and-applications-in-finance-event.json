@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-05-02T09:00:00-04:00",
+    "description": "NOTE: THIS IS A PAID WORKSHOP. REGISTER HERE: http://www.analyticscertificate.com/MachineLearning\n\nhttps://secure.meetupstatic.com/photos/event/5/7/6/b/600_460222379.jpeg\n\nWith R, Python, Apache Spark and a plethora of other open source tools, anyone with a computer can run machine learning algorithms in a jiffy! However, without an understanding of which algorithms to choose and when to apply a technique, most machine learning efforts turn into trial and error experiments with conclusions like \"The algorithms don't work\" or \"Perhaps we should get more data\".\n\nIn this workshop, we will focus on the key tenets of machine learning algorithms and how to choose an algorithm for a problem. Rather than just showing how to run experiments in R, Python or Apache Spark, we will provide an intuitive understanding to machine learning with just enough mathematics and basic statistics.\n\nYou will learn:\n• How do you differentiate Clustering, Classification and Prediction algorithms? • What are the key steps in running a machine learning algorithm?\n• How do you choose an algorithm for a specific goal?\nWhere does exploratory data analysis and feature engineering fit into the picture? • Once you run an algorithm, how do you evaluate the performance of an algorithm?\n• Role of Spark and Deep Learning techniques in Machine Learning\n• Practical Case studies with fully functional code\n\nDay 1\nOn day one, we will review the core techniques in Machine Learning. Through examples we will understand the different machine learning techniques and review evaluation criteria\n\nWhat you will learn\nMachine Learning: An intuitive foundation\nThe Machine Learning pipeline\nSupervised Learning: Classification and Prediction\nMachine learning methods: Regression, KNN, Random Forests, Neural Networks\nEvaluating performance\nCase study 1: Predicting interest rates in Freddie Mac mortgage data\nCase study 2: To give a loan or not using Lending club data\n\nDay 2\nOn day two, we will discuss unsupervised learning techniques and discuss the role of Big Data and Deep Learning techniques for large-scale machine learning. We will also discuss best practices in scaling and using anomaly detection techniques.\n\nWhat you will learn\nUnsupervised learning: Clustering\nWorking with rare-class problems and Anomaly Detection\nMachine Learning with Apache Spark: A brief introduction\nDeep Learning techniques\nWrap up and Best practices in Machine Learning\nCase study 3: Using K-means for automatic clustering of stocks using Apache Spark\nCase study 4: Auto-encoder based Anomaly Detection for Credit risk with Keras and Tensorflow\n\nQUANTUNIVERSITY'S ANALYTICS FOR A CAUSE SCHOLARSHIPS\n\nA limited number of scholarships are available through for eligible students('16 class) looking for fintech and data science roles and unemployed fintech and data science enthusiasts who can't afford the workshop fee.For eligibility criteria and application, click here (https://goo.gl/forms/nz9InCi8vBybPOR43) We thank Microsoft and IBM for sponsoring this event! Contact us for sponsorship opportunities",
+    "endTime": "2017-05-03T17:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/239508396/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "239508396",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Machine Learning: Core techniques and applications in Finance"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-machine-learning-core-techniques-and-applications-in-finance-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/239508396/"
+}

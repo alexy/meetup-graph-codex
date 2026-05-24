@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2016-07-13T18:30:00-07:00",
+    "description": "Aerosolve is an open source machine learning library built by machine learning engineers on the Pricing and Availability team at Airbnb. From the project’s inception we have focused on improving the understanding of data sets by assisting people in interpreting complex data with easy to understand models. Instead of hiding meaning beneath many layers of model complexity, Aerosolve models expose data to the light of understanding. The library was initially used to build the machine learning models that empower the Price Tips and Smart Pricing tools for Airbnb hosts. It has gradually become an important part of machine learning infrastructure at Airbnb and is used by multiple teams across the company.\n\nSpeaker:\n\nPeng Ye is a machine learning software engineer on the Pricing and Availability team at Airbnb. She helped to build large scale machine learning models that were used for Price Tips, Smart Pricing tools for Airbnb hosts. Before joining Airbnb, she worked on applying deep learning for improving video compression at Sony US research center. Peng did her PhD in computer vision at Univ. of Maryland, College Park.\n\nFood and drinks will be provided!\n\nStart/end time: 18:30 with food and drinks\nTalks start at 19:00\nEnd at around 21:00",
+    "endTime": "2016-07-13T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/232021862/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "232021862",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Building Machine Learning Pipeline Using Aerosolve -- AirBnB talk at Salesforce!"
+  },
+  "event_id": "232021862",
+  "event_title": "Building Machine Learning Pipeline Using Aerosolve -- AirBnB talk at Salesforce!",
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "session": {
+    "description": "Aerosolve is an open source machine learning library built by machine learning engineers on the Pricing and Availability team at Airbnb. From the project’s inception we have focused on improving the understanding of data sets by assisting people in interpreting complex data with easy to understand models. Instead of hiding meaning beneath many layers of model complexity, Aerosolve models expose data to the light of understanding. The library was initially used to build the machine learning models that empower the Price Tips and Smart Pricing tools for Airbnb hosts. It has gradually become an important part of machine learning infrastructure at Airbnb and is used by multiple teams across the company. Speaker: Peng Ye is a machine learning software engineer on the Pricing and Availability team at Airbnb. She helped to build large scale machine learning models that were used for Price Tips, Smart Pricing tools for Airbnb hosts. Before joining Airbnb, she worked on applying deep learning for improving video compression at Sony US research center. Peng did her PhD in computer vision at Univ. of Maryland, College Park. Food and drinks will be provided! Start/end time: 18:30 with food and drinks Talks start at 19:00 End at around 21:00",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park-2.json",
+    "source_id": "bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "College Park"
+      },
+      {
+        "company": "Airbnb",
+        "name": "Peng Ye"
+      },
+      {
+        "company": null,
+        "name": "Smart Pricing"
+      }
+    ],
+    "title": "Building Machine Learning Pipeline Using Aerosolve -- AirBnB talk at Salesforce!"
+  },
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park-2",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/232021862/"
+}

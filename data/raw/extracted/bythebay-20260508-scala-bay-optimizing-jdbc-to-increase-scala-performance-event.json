@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-optimizing-jdbc-to-increase-scala-performance-event",
+  "source_id": "bythebay-20260508-scala-bay-optimizing-jdbc-to-increase-scala-performance-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-optimizing-jdbc-to-increase-scala-performance-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-optimizing-jdbc-to-increase-scala-performance-event.json",
+  "kind": "event",
+  "event_id": "229524809",
+  "event_title": "Optimizing JDBC to Increase Scala Performance",
+  "title": "Optimizing JDBC to Increase Scala Performance",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/229524809/",
+  "description": "Title Ramon Lawrence, Roland Lee,\"Optimizing JDBC to Increase Scala Performance\" (http://www.meetup.com/messages/?convo_id=278224434706292736&_xtd=gatlbWFpbF9jbGlja9oAJDVlZGI2OGRmLWNiN2QtNGNhNy1iMzY4LTk4ZGYxOGQwYmY2Yg) Abstract Most application performance and scale problems are due to inefficient database access. There are various solutions and all have their pros and cons: A Networking proxy? ORM? Middleware? We will discuss existing options and a new alternative through JDBC (i.e. the data access layer). Heimdall Data provides Scala developers 1) Granular SQL performance visibility, 2) SQL caching, 3) Automated database failover and 4) Database Security. You get all this with ZERO application code changes. Bio Dr. Ramon Lawrence is VP of Engineering at Heimdall Data and an associate professor at the University of British Columbia, Canada. He has a Ph.D. in Computer Science with a research focus in database systems. His research and development activities have produced software systems for data virtualization and querying NoSQL databases, including MongoDB. Roland Lee's background is in application networking. He has been a developer and product manager in various startups and large companies. All through his career, his industry focus has been to increase the performance of Internet user data. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "date_time": "2016-09-12T18:30:00-07:00",
+  "end_time": "2016-09-12T21:00:00-07:00"
+}

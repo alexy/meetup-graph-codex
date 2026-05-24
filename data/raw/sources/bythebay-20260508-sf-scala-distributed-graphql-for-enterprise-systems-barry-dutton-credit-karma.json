@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2019-03-14T18:00:00-07:00",
+    "description": "(1) How we distributed our GraphQL across services to simplify workflows and increase developer productivity.\n\nBio: Barry Dutton is a Senior Software developer at Credit Karma who has been instrumental in helping the Credit Karma team incorporate GraphQL into its microservices architecture. Before working at Credit Karma, he spent nearly a decade building core products and services at major tech companies, and ships code that reaches tens of millions of users.\n\n(2) Building a high-performance realtime GraphQL engine on Postgres at Hasura\n\nIn this talk I'll talk about our unique approach to building a GraphQL server, by transpiling/compiling GraphQL to SQL instead of using resolvers. This approach allows low-latency, scalable querying with an extremely low-footprint, which becomes especially valuable for large GraphQL queries that fetch non-trivial amounts of data. These are the topics I'll cover:\n-- Compiling GraphQL to SQL\n-- Adding application user authorization primitives\n-- Implementing scalable, realtime with GraphQL subscriptions\n-- Benchmarks to show latency, concurrent connections\n\nBio: Tanmai Gopal is the co-founder of hasura.io. He is a StackOverflow powered fullstack, polyglot developer whose areas of interest and work span react, GraphQL, nodejs, python, haskell, docker, postgres, kubernetes. He is passionate about making it easy to build things and is the instructor of India's largest MOOC imad.tech with over 250,000 students.",
+    "endTime": "2019-03-14T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/258714284/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "258714284",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Distributed GraphQL for Enterprise Systems"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma",
+  "source_url": "https://www.meetup.com/sf-scala/events/258714284/"
+}

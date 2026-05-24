@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-build-tools-and-dev-tooling-an-unmeetup-2",
+  "source_id": "bythebay-20260508-sf-scala-sf-scala-unmeetup-build-tools-and-dev-tooling-an-unmeetup-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-build-tools-and-dev-tooling-an-unmeetup-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-sf-scala-unmeetup-build-tools-and-dev-tooling-an-unmeetup-2.json",
+  "kind": "talk",
+  "event_id": "249399853",
+  "event_title": "SF Scala Unmeetup: Build Tools and Dev Tooling",
+  "title": "SF Scala Unmeetup: Build Tools and Dev Tooling",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "An Unmeetup",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/249399853/",
+  "description": "This month, we'll have an SF Scala Unmeetup with a theme: Build Tools! We've seen much innovation around Scala build tools and dev tooling in the last few months. With sbt's 1.x releases, Scala Center's Bloop, the rise of new build tools like CBT and Mill, a new Language Server Protocol initiative, Ensime 2.0, maturing Scala Native support, etc, there is plenty of exciting tooling to test and adopt -- almost too much for one person or team. Let's get together and share insights and workflows while experimenting with new tooling. Links for inspiration: Scala Center - https://www.scala-lang.org/blog/2018/02/14/tooling.html sbt 1.2 - https://developer.lightbend.com/blog/2018-02-01-sbt-1.2-roadmap/index.html Bloop - https://scalacenter.github.io/bloop/ Mill - https://www.lihaoyi.com/mill/ CBT - https://github.com/cvogt/cbt#chris-build-tool-cbt-for-scala Scala Language Server - https://github.com/scalameta/metals#metals This month's Scala dev tools conference - https://scala.sphere.it/#speakers About the Unmeetup series: An Unmeetup is a casual, community-driven, hands-on meetup modeled after an \"Unconference\" (https://en.wikipedia.org/wiki/Unconference). Attendees propose topics to discuss and projects to work on, then each individual chooses how to spend their time for the evening. This is complementary to the standard meetup and emphasizes community-building and collaboration. Drop by if you: - would like to offer a tutorial or lightning talk. - want to find contributors for your open source project. - have ideas and work-in-progress to share. - are new to Scala and seeking advice. - have a tricky bug to solve. - just want to hack on a project! About our host: We're back at Driver, who will host us in their shiny new headquarters in the heart of the Mission (5 minutes away from BART). Driver is a first-in-kind consumer platform that connects cancer patients to the world’s largest and most advanced inventory of treatments. Their platform combines science and technology with the humanity and expertise of clinical staff, including oncologists and nurses. This team of dedicated engineers, scientists, and physicians all share a common mission to create a world where every cancer patient has access to the best treatments and is empowered with the information and confidence to make the best decision. Read more here: https://driver.xyz/about-us",
+  "date_time": "2018-04-24T18:00:00-07:00",
+  "end_time": "2018-04-24T21:00:00-07:00"
+}

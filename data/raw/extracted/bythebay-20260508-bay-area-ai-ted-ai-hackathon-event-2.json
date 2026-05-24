@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-ted-ai-hackathon-event-2",
+  "source_id": "bythebay-20260508-bay-area-ai-ted-ai-hackathon-event-2",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-ted-ai-hackathon-event-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-ted-ai-hackathon-event-2.json",
+  "kind": "workshop",
+  "event_id": "303266177",
+  "event_title": "TED AI Hackathon",
+  "title": "TED AI Hackathon",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/303266177/",
+  "description": "We’re happy t be the community partners of the TED AI Hackathon. Please [register](https://www.aicamp.ai/event/eventdetails/W2024101910%0A%0A) by September 13, approval is required to join! https://www.aicamp.ai/event/eventdetails/W2024101910 — Welcome to the TED AI Hackathon 2024 registration! The hackathon will run from 10AM Saturday October 19th to 4PM Sunday October 20th, at the Microsoft Reactor in San Francisco. Apply to hack with us. The deadline of application is **September 13th**. All applicants will be updated by September 20th on selections. TED AI Open Source Hackathon is an exciting competition that provides an opportunity for participants to showcase their coding skills, collaborate with fellow developers, and create innovative AI-based solutions, all to promote with the purpose of promoting open-source applications of AI to urgent societal or environmental issues. **Team prizes:** In addition to an incredible experience, you'll have the chance to compete for a $15K cash prize, split among the top three winning teams, which will be divided among the top three winning teams. \\* 1st place: $7k. \\* 2nd place: $5k \\* 3rd place: $3k **Hackathon Timeline:** \\* Sep 13th: Application Close; \\* Sep 20th: Applicants Announced; \\* Oct 1st: Prep Call; \\* Oct 19\\~20: Hackathon! **Sponsors:** \\* AWS \\* Google Cloud \\* GenLab \\* Vectara",
+  "date_time": "2024-10-19T19:00:00-07:00",
+  "end_time": "2024-10-19T21:00:00-07:00"
+}

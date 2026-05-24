@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:36468260:bythebay-20260508-unstructured-data-meetup-bay-area-women-in-data-science-stanford-conference-watch-party-networking-event",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-women-in-data-science-stanford-conference-watch-party-networking-event",
+  "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-women-in-data-science-stanford-conference-watch-party-networking-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-women-in-data-science-stanford-conference-watch-party-networking-event.json",
+  "kind": "social",
+  "event_id": "298808208",
+  "event_title": "Women in Data Science Stanford Conference watch party + networking",
+  "title": "Women in Data Science Stanford Conference watch party + networking",
+  "conference_id": "meetup:36468260",
+  "meetup_id": "meetup:36468260",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "social"
+  ],
+  "url": "https://www.meetup.com/unstructured-data-sf/events/298808208/",
+  "description": "This is an in-person event! [Registration](https://lu.ma/9c5pat0i) is required to get in. Microsoft will email you a form the day before the event, which you will need to complete for your access pass. Registration will close 2 days before the event. **What we’ll do:** Have some food and refreshments. Livestream the [WiDS Stanford Conference](https://www.widsworldwide.org/events/event/wids-stanford-2024/). Hear outstanding women discuss their work in Data Science, AI, and related fields. Stay as long, or little, as you like! Network with local tech women! Get inspired! 8:30 - 9:00 - Welcome/Networking/Registration 9:00 - 12:15 - Live stream [the conference](https://www.widsworldwide.org/events/event/wids-stanford-2024/) 12:15 - 1:35 - Lunch break with guest speaker [Gabriela de Queiroz](https://www.linkedin.com/in/gabrieladequeiroz/), Director of AI, [Microsoft](https://www.microsoft.com/en-us/) 1:35 - 4:40 - Live stream [the conference](https://www.widsworldwide.org/events/event/wids-stanford-2024/) 4:40 - 6:00 - Networking **Who Should attend:** Anyone can attend! Celebrate International Women's Day! Only females will be speakers. **When:** March 8, 2023 9:00AM **Where:** This is an in-person event! [Registration](https://lu.ma/9c5pat0i) is required to get in. Registration will close 3 days before the event. Special thanks to [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/about/) for providing the event space and lunch. Sponsored by Microsoft and [Zilliz](https://zilliz.com/blog?tag=39) maintainers of [Milvus](https://github.com/milvus-io/milvus). **[WiDS San Francisco](https://www.widsworldwide.org/about/our-mission/) is independently organized by WiDS SF ambassadors** [Christy Bergman](https://www.linkedin.com/in/christybergman/), [Diane Woodbridge](https://www.linkedin.com/in/diane-woodbridge/), [Alex Zharchuk](https://www.linkedin.com/in/azharchuk/), [Cassandra Telenko](https://www.linkedin.com/in/cassandratelenko/), and [Madhuri Gupta](https://www.linkedin.com/in/madhuri-gupta/), **to be part of the mission to increase participation of women in data science and to feature outstanding women doing outstanding work.**",
+  "date_time": "2024-03-08T09:00:00-08:00",
+  "end_time": "2024-03-08T17:00:00-08:00"
+}

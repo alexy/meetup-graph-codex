@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-05-22T18:30:00-04:00",
+    "description": "Engaging in Open Source Software - Developing Open Source Strategies for Institutions : a panel will discuss open source adoption by individuals, & within institutions. The importance of developing incentives, processes, & policies, to manage open source internally will be covered. Guidelines for participating in external open source projects will be discussed, as well as gaining personal eminence from open source participation & benefiting from IBM Code https://developer.ibm.com/code/ & CODAIT (Center of Open Source Data & AI Technologies). Panelists include:\n-- Joe \"Sepi\" Crane-Messina - NYC Lead Developer/Advocate ⚡️ Node.js Foundation Community Committee member\n-- Augustina Ragwitz - Social Science/Anthropology Open Tech Lead & R-Ladies leader\n-- Jennifer Skeivik - Open Source Program Manager\n\nRegistration was closed on May 21 afternoon, to compile the list of attendees for security.",
+    "endTime": "2018-05-22T21:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/250718279/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "250718279",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Engaging in Open Source Software"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-engaging-in-open-source-software-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/250718279/"
+}

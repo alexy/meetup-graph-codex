@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-scala-office-hours-event",
+  "source_id": "bythebay-20260508-sf-scala-scala-office-hours-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scala-office-hours-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scala-office-hours-event.json",
+  "kind": "event",
+  "event_id": "240552972",
+  "event_title": "Scala Office Hours!",
+  "title": "Scala Office Hours!",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/240552972/",
+  "description": "Inside the Cognitive Frameworks Festival, we get to join the Makers Spaces at Galvanize, where on Wednesday 6/7 we are fortunate to have several great Scala experts who will hang around to answer any Scala-related questions, informally. Experts bios to follow. They are awesome folks who also know data. RSVP here if you want to come and have your problems solved, then walk over to IBM for the party and Cognitive Future (https://www.meetup.com/bay-area-ai/events/240457597/) lightning talks! Confirmed TAs, in reverse alphabetical order: • Sergei Winitzki, Workday • Jakob Odersky, Driver • Jacob Baumbach, Capital One • Mike, Performant Data",
+  "date_time": "2017-06-07T13:00:00-07:00",
+  "end_time": "2017-06-07T16:00:00-07:00"
+}

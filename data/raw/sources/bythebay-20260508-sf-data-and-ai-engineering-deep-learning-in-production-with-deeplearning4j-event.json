@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-06-09T10:00:00-07:00",
+    "description": "This free tutorial is a part of the Cognitive Frameworks Festival:\n\nhttp://festival.framework.foundation\n\nDeepLearning4J (Deep Learning for Java - DL4J, inception 2013) was specifically designed with Enterprise and Production in mind, as a first-class citizen to the JVM. The DL4J Stack was designed to integrate well with other components of the Big Data Ecosystem, with the ability to scale. While there do exist Open Source components, Skymind also develops an additional layer, the Skymind Intelligence Layer (SKIL) as part of the bundled vendor distribution. For performance functionality, some of the underlying operations of the stack are written natively in C++.\n\nAgenda:\n\n• Intro to Skymind/DL4J, Core Components, and Framework Capabilities\n\n• How to create/setup the environment & executing our examples\n\n• DL4J Deep Learning Workflow + Keras Model Import\n\n• DL4J Network Demos: VGG-16 Classifier, etc...\n\n• Distributed Parallel Training on Multi-GPUs via Apache Spark\n\n• Select Contrasts with Deep Learning Frameworks",
+    "endTime": "2017-06-09T12:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/240297816/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "240297816",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Deep Learning in Production with Deeplearning4j"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-deep-learning-in-production-with-deeplearning4j-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/240297816/"
+}

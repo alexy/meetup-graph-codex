@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-what-does-chatgpt-mean-for-business-drive-disruptive-value-with-generative-ai-manish-goyal-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-what-does-chatgpt-mean-for-business-drive-disruptive-value-with-generative-ai-manish-goyal-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-what-does-chatgpt-mean-for-business-drive-disruptive-value-with-generative-ai-manish-goyal-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-what-does-chatgpt-mean-for-business-drive-disruptive-value-with-generative-ai-manish-goyal-2.json",
+  "kind": "talk",
+  "event_id": "292217300",
+  "event_title": "What does ChatGPT mean for business? - Drive disruptive value with Generative AI",
+  "title": "What does ChatGPT mean for business? - Drive disruptive value with Generative AI",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Manish Goyal",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/292217300/",
+  "description": "**Summary** Discover how, why, and if your business should be leveraging generative AI like ChatGPT, looking at both the promise and perils associated with monetizing this emerging technology. **Register for this Webcast** at: **[https://ibm.webcasts.com/starthere.jsp?ei=1602956&tp_key=ea866bfe71](https://ibm.webcasts.com/starthere.jsp?ei=1602956&tp_key=ea866bfe71)** **During the session, our experts will discuss:** * Innovations like Foundation Models, and Generative AI that drove the phenomenal success of services such as OpenAI’s ChatGPT, and DALL-E. Learn how they differ from existing AI offerings. * Real-world use cases of how enterprises are already deriving business value from Generative AI. * Understand the potential challenges such as bias, hallucination, security, IP, cost, and more. * How enterprises can responsibly and securely deploy these models at scale. Join IBM Consulting as we share our point-of-view around how enterprises can best drive value from Generative AI & Foundation Models in a responsible way and scale it across your business. You will gain an understanding of real-world client examples, business potential, and how to mitigate the pitfalls of this new AI technology. **Key Speakers:** * **Manish Goyal**, VP & Sr. Partner, Global AI & Analytics Leader, IBM Consulting * **Shobhit Varshney**, VP & Sr. Partner, Americas AI Analytics Leader Consulting",
+  "date_time": "2023-03-22T13:00:00-04:00",
+  "end_time": "2023-03-22T14:00:00-04:00"
+}

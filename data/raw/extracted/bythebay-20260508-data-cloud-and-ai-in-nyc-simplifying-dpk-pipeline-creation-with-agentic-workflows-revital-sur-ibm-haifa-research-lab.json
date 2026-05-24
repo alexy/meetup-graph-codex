@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-simplifying-dpk-pipeline-creation-with-agentic-workflows-revital-sur-ibm-haifa-research-lab",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-simplifying-dpk-pipeline-creation-with-agentic-workflows-revital-sur-ibm-haifa-research-lab",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-simplifying-dpk-pipeline-creation-with-agentic-workflows-revital-sur-ibm-haifa-research-lab.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-simplifying-dpk-pipeline-creation-with-agentic-workflows-revital-sur-ibm-haifa-research-lab.json",
+  "kind": "talk",
+  "event_id": "306941379",
+  "event_title": "[AI Alliance] Simplifying DPK Pipeline Creation with Agentic Workflows",
+  "title": "Simplifying DPK Pipeline Creation with Agentic Workflows",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Revital Sur @ IBM Haifa Research Lab",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/306941379/",
+  "description": "**Agenda** * Welcome, housekeeping, etc. * Quick intro about AI Alliance (3 min) * Simplifying DPK Pipeline Creation with Agentic Workflows (40 mins) * Q&A (10 mins) * Wrap-up **Overview** In this session, we present our experimental approach to creating DPK pipelines using agentic workflows. We will begin with a brief introduction to agentic workflows, followed by a walkthrough of two notebooks developed to support this work: The first notebook shows a planner agent for Data-Prep-Kit tasks with code generation. The agent builds DPK pipeline that performs required tasks defined by a natural language. The second notebook demonstrates how DPK transformers can be wrapped as tools within LangChain and LlamaIndex, along with examples of executing the transforms directly. **Session Type** Talk and Demo **Audience** LLM app developers, data scientists, data engineers **Technical Level** Beginner - Intermediate **Prerequisites** None **Duration** 45 mins **Resources** * [first notebook](https://github.com/data-prep-kit/data-prep-kit/blob/dev/examples/agentic/Planning_DPK_agent.ipynb) * [second notebook](https://github.com/data-prep-kit/data-prep-kit/blob/dev/examples/agentic/dpk_as_tools.ipynb) **Speakers** **Mohammad Nassar** Mohammad Nassar, a Cloud Research Engineer at IBM Haifa, specializes in AI-driven data engineering, automation, and hybrid cloud technologies. With an M.Sc. in Computer Science from Technion, his research focused on coding theory and data systems. His work spans AI-powered data preparation, automation pipelines, and large-scale cloud solutions. Passionate about innovation, he also develops mobile applications, blending AI and user engagement. **Revital Sur** Revital Sur is a member of the Cloud Data Platforms group at IBM Haifa Research Lab, where she has been involved in various cloud and middleware projects in recent years. She is a DPK contributor from its first days and recently, she were involved into agentic activities. She holds both a BSc and an MSc in Computer Science from the University of Haifa, Israel.",
+  "date_time": "2025-04-10T12:00:00-04:00",
+  "end_time": "2025-04-10T13:00:00-04:00"
+}

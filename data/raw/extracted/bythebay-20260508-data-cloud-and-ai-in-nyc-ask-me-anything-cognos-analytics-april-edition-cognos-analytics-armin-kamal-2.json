@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ask-me-anything-cognos-analytics-april-edition-cognos-analytics-armin-kamal-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ask-me-anything-cognos-analytics-april-edition-cognos-analytics-armin-kamal-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ask-me-anything-cognos-analytics-april-edition-cognos-analytics-armin-kamal-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ask-me-anything-cognos-analytics-april-edition-cognos-analytics-armin-kamal-2.json",
+  "kind": "talk",
+  "event_id": "292217439",
+  "event_title": "Ask Me Anything: Cognos Analytics - April Edition",
+  "title": "Ask Me Anything: Cognos Analytics - April Edition",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Cognos Analytics Armin Kamal, Cognos Analytics Rodrigo Andrade, Cognos Analytics Sami El, Cognos Analytics Tim Aston, Cognos Analytics Zach Taylor, Cognos Support, Rachel Su",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/292217439/",
+  "description": "**Target Audience:** IBM Cognos Analytics Users or Clients. Note that this is an open Q&A session to address queries about the IBM Cognos Analytics product. **Summary:** Join our Cognos Analytics Product Management team live to ask and get answers to your most pressing Cognos Analytics questions. If you like product roadmap sneak previews, don't worry - we'll be sharing those, too. Register now and join us for a lively session where you can ask anything about Cognos! Register for this webinar at: **[https://ibm.webcasts.com/starthere.jsp?ei=1602659&tp_key=805104fcb9](https://ibm.webcasts.com/starthere.jsp?ei=1602659&tp_key=805104fcb9)** **Key Speakers:** * **Rachel Su** \\- Product Management\\, Cognos Analytics * **Tim Aston** \\- Product Management\\, Cognos Analytics * **Zach Taylor** \\- Product Management\\, Cognos Analytics * **Rodrigo Andrade** \\- Product Management\\, Cognos Analytics * **Sami El Cheikh** \\- Product Management\\, Cognos Analytics * **Armin Kamal** \\- Proven Practices Advisor\\, Cognos Support",
+  "date_time": "2023-04-11T12:00:00-04:00",
+  "end_time": "2023-04-11T13:00:00-04:00"
+}

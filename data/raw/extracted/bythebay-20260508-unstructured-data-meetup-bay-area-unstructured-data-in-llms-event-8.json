@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-8",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-8",
+  "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-8.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-8.json",
+  "kind": "event",
+  "event_id": "298724299",
+  "event_title": "Unstructured Data in LLMs",
+  "title": "Unstructured Data in LLMs",
+  "conference_id": "meetup:36468260",
+  "meetup_id": "meetup:36468260",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/unstructured-data-sf/events/298724299/",
+  "description": "This is an in-person event! [Registration](https://lu.ma/l1lch1zk) is required in order to get in. Github will email you a form the day before the event, which you will need to complete for your access pass. **Topic:** Connecting your unstructured data with Generative AI **What we’ll do:** Have some food and refreshments. Hear three exciting talks about unstructured data and generative AI. 5:30 - 6:00 - Welcome/Networking/Registration 6:05 - 6:30 - [Christy Bergman,](https://www.linkedin.com/in/christybergman/) Dev Advocate, [Zilliz](https://zilliz.com/) 6:35 - 7:00 - [Charles Packer](https://www.linkedin.com/in/charles-packer/) and [Sarah Wooders](https://www.linkedin.com/in/wooders/), Co-founders, [MemGPT.ai](MemGPT.ai) 7:05 - 7:30 - [Idan Gazit](https://www.linkedin.com/in/ACoAAACcJ0YBv96TiK-sKjhGyQaLv4TwWn-jlIM?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B6R0CFyDNSsaTKrcQD7JtQg%3D%3D), Senior Director of Research and [Cole Bemis](https://www.linkedin.com/in/colebemis/), Senior Software Engineer, [GitHub Next](https://githubnext.com/) 7:35 - 7:45 - Community demos - [wordware.ai](https://www.wordware.ai/) 7:45 - 8:30 - Networking **Who Should attend:** Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. **When:** May 21, 2023 5:30PM **Tech Talk 1**: Introduction to Open Source RAG and RAG Evaluation **Speaker**: Christy Bergman **Abstract**: You’ve heard good data matters in Machine Learning, but does it matter for Generative AI applications? Corporate data often differs significantly from the general Internet data used to train most foundation models. Join me for a demo on building an open source RAG (Retrieval Augmented Generation) stack using Milvus vector database for Retrieval, LangChain, Llama 3 with Ollama, Ragas RAG Eval, and optional Zilliz cloud, OpenAI. **Tech Talk 2**: Introduction to Memory Augmented Chat **Speakers**: Charles Packer and Sarah Wooders **Tech Talk 3**: Copilot Workspace: What it is, how it works, why it matters **Speaker**: Idan Gazit and Cole Bemis **Abstract**: Copilot Workspace recently launched into technical preview! Bring your popcorn and come see a live demo of it in action. We'll talk a little bit about the AI developer tooling landscape, what comes after chat, and how these tools should help us to create. **Where:** This is an in-person event. Registration [using this form](https://lu.ma/l1lch1zk) is required to get into the event. Registration in advance will close 2 days before the event. Sponsored by [Zilliz](http://zilliz.com/) maintainers of [Milvus](https://github.com/milvus-io/milvus). Can't make it in person? We will also be streaming live: https://www.twitch.tv/vectordatabase",
+  "date_time": "2024-05-21T17:30:00-07:00",
+  "end_time": "2024-05-21T20:30:00-07:00"
+}

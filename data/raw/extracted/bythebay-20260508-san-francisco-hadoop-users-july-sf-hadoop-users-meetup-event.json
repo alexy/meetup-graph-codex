@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-july-sf-hadoop-users-meetup-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-july-sf-hadoop-users-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-july-sf-hadoop-users-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-july-sf-hadoop-users-meetup-event.json",
+  "kind": "talk",
+  "event_id": "189897052",
+  "event_title": "July SF Hadoop Users Meetup",
+  "title": "July SF Hadoop Users Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/189897052/",
+  "description": "The July SF Hadoop User Group meetup will be held Wednesday, July 16 from 6:00pm to 8:00pm. This meetup will be hosted by Bloomberg, located at 3 Pier #101, San Francisco (Los Angeles Auditorium). Food and drinks will be served. Presentations: “Hadoop at Bloomberg” Bloomberg is the leading data and analytics provider to the financial world and is going through an exciting phase where it is seeking to refresh many of its core data systems. Why? In order to consolidate disparate data platforms down into fewer, faster and hopefully simpler ones. We are looking to consolidate around open platforms and standards (Hadoop, HBase, Kafka). In this talk, we will go over our use cases, the progress we've made in on-boarding various applications and the unique challenges we encountered along the way. “Hadoop DevOps - Infrastructure and Application Deployments” We at Bloomberg have needed to deploy a full Hadoop stack across a variety of environments, from dev to test to production, but we have wanted repeatable and extendable tools to accomplish this task… Come see how we deploy our clusters and are deploying our applications with Chef. Our open source infrastructure-as-code can build any cluster from VM's to bare-metal -- and the paradigm can even deploy applications which run on top. These recipes can be used to a build a three-node virtual cluster on a laptop, or a hundred-node cluster on bare-metal machines, or anything in between. The recipes can deploy Hadoop and Open Stack compute services on the same machines, sharing processor, memory and distributed storage. Finally, because the recipes are written in Ruby, your ability to customize the deployment is nearly limitless.",
+  "date_time": "2014-07-16T18:00:00-07:00",
+  "end_time": "2014-07-16T21:00:00-07:00"
+}

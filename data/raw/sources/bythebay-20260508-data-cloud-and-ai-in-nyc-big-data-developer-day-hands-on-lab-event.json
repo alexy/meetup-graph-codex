@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-08-29T09:00:00-04:00",
+    "description": "Register Today For the IBM Big Data Developer Day- http://ibm.co/13jry2k\n\nNote -Clicking the YES attending button does not confirm your registration for this event - only registration at the above URL will.\n\nExperience IBM’s enterprise-class big data platform that allows you to address the full spectrum of big data business challenges. The morning will include interactive discussions and live demonstrations of big data at rest and big data in motion, then get hands on with Hadoop scripting and text analytics with guidance from development experts. Registration is required on http://ibm.co/13jry2k\n\nThis event is limited to only 50 seats. You may let others know that you are going to this event by clicking on the YES RSVP button on this Meetup page—however— your seat can not be guaranteed until you officially register at the link above.\n\nThanks and we look forward to seeing you soon!",
+    "endTime": "2013-08-29T17:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/131999272/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "131999272",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Big Data Developer Day - hands on lab!"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-big-data-developer-day-hands-on-lab-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/131999272/"
+}

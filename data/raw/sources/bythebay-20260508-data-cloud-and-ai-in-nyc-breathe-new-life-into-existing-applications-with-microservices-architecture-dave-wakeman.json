@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-11-27T18:00:00-05:00",
+    "description": "PLEASE RSVP HERE: https://www.meetup.com/futureofdata-newyork/events/255772559/\n\nAgenda:\n\n6:00 PM - 6:30 PM: Food, drinks, mingling\n\n6:15 PM - 6:30 PM: Artem Ervits - Announcements, call for presenters, future events\n\n6:30 PM - 7:15 PM: Dave Wakeman - If you're a developer, your twitter or LinkedIn feeds are probably filled with posts about Cloud Native applications, Microservices, and technologies like Kubernetes and cloud foundry. That's great for new applications, but did you know it can also apply to existing ones? Come join us to talk about Microservices and Kubernetes, and how you can take advantage of them with your existing applications and new ones as well!\n\nBring your questions and your laptops; you will get the opportunity to deploy your first Microservices application and see a demo of an existing application that has been migrated to Microservices and deployed to Kubernetes.\n\nBio:\n\nDave Wakeman is a Cloud and Blockchain Evangelist at IBM for clients in US Public Markets. He has spent his career working with clients across North America to help them discover and unlock the value of IBM solutions such as business process management, integration, AI, cloud and blockchain. He has been a developer for more than 25 years and has worked with many of the latest technologies and practices, including node.js, Java, DevOps, Microservices, Enterprise Design Thinking, Docker, Kubernetes, and IBM Cloud. He spends his time educating clients on the value of cloud by leading hands-on workshops that immerse his clients in the development experience for cloud-native applications.",
+    "endTime": "2018-11-27T20:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/256348061/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "256348061",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Breathe New Life into Existing Applications with Microservices Architecture "
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-breathe-new-life-into-existing-applications-with-microservices-architecture-dave-wakeman",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/256348061/"
+}

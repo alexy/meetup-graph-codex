@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-managing-your-metadata-with-project-egeria-master-inventor-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-managing-your-metadata-with-project-egeria-master-inventor-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-managing-your-metadata-with-project-egeria-master-inventor-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-managing-your-metadata-with-project-egeria-master-inventor-2.json",
+  "kind": "talk",
+  "event_id": "253974350",
+  "event_title": "Managing Your Metadata with Project Egeria",
+  "title": "Managing Your Metadata with Project Egeria",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Master Inventor, Project Egeria @ Master Inventor",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/253974350/",
+  "description": "Project Egeria is a new initiative that supports the flow of metadata between different technologies and tools, enabling organizations to locate, manage and use their data more effectively. Automating data governance becomes simpler too. Egeria is open source. See https://github.com/odpi/egeria The agenda for the evening is as follows: 6:00pm Networking 6:30pm Kick-Off - John Mertic - Linux Foundation Director of Program Management 6:45pm Why Open Metadata - Mike Nicpan - ING Information Architect 7:15pm Project Egeria - Mandy Chessell - IBM Distinguished Engineer, Master Inventor, Fellow of Royal Academy of Engineering 8:00pm Networking 8:30pm Close Registration will close at noon on Sep 10",
+  "date_time": "2018-09-11T18:00:00-04:00",
+  "end_time": "2018-09-11T20:30:00-04:00"
+}

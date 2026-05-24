@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-scala-usage-at-twitter-frank-sommers-2",
+  "source_id": "bythebay-20260508-scala-bay-scala-usage-at-twitter-frank-sommers-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-scala-usage-at-twitter-frank-sommers-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-scala-usage-at-twitter-frank-sommers-2.json",
+  "kind": "talk",
+  "event_id": "57195142",
+  "event_title": "Scala Usage at Twitter",
+  "title": "Scala Usage at Twitter",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": "Frank Sommers, Mark McBride @ Twitter, Philipp Haller",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/57195142/",
+  "description": "Marius Eriksen will talk about the construction of Twitter's modern, highly concurrent Scala services. He will discuss the various libraries that make up the Twitter stack, and how these primitives help use create correct, composable and modular systems. He will discuss various challenges Twitter ran in to, especially regarding efficiency. Mark McBride will speak on Twitter's build system. Marius works on systems infrastructure at Twitter. He has worked on RPC and streaming systems, profiling tools, storage & indexing systems and the front-end serving stack. He loves applying functional programming techniques to these domains. Marius is the author of Effective Scala (http://twitter.github.com/effectivescala/). Mark McBride is an engineering manager at Twitter. As usual, the schedule for the event is: 6:30 - networking, food 7:00 - announcements 7:15 - presentation 8:30 - Q&A, more networking afterward We will give away 2 copies of IntelliJ IDEA for personal use, and two copies of JRebel. Two free PDF copies of \"Actors in Scala (http://www.artima.com/shop/actors_in_scala)\" by Philipp Haller and Frank Sommers, published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile. This event will be recorded. We will post a link to the recording on this page when it is ready. BREAKING NEWS - Due to popular demand, BASE will host another meetup for Marius to give this presentation again later in April. The event will be held at Twitter HQ, 795 Folsom St, Suite 600 in San Francisco, starting at 6:30 on April 25. If you would prefer to attend this presentation in San Francisco, please cancel your RSVP for this event and re-register with the other event.",
+  "date_time": "2012-04-09T18:30:00-07:00",
+  "end_time": "2012-04-09T21:30:00-07:00"
+}

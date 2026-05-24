@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-09-25T18:00:00-04:00",
+    "description": "AI drones have invaded Strata Data Conference. Attend this meetup and learn how to create your own Friendly Cylons. Trevor will show you how he hacked the drones and connected the camera feed to Machine Learning model to identify humans! This project uses all open source components and will be available on GitHub so we can create an army of Cylons. This project uses IBM Data Science Experience to build the Spark model and HDP open projects like Flink, Solr and Kafka to bring Cylons to life! Watch out New York!\n\nPresenter: Trevor Grant, IBM\n\nhttps://secure.meetupstatic.com/photos/event/b/4/f/1/600_464326321.jpeg\n\nBio: Trevor Grant is committer on the Apache Mahout project and Open Source Technical Evangelist at IBM. He holds an MS in Applied Math and an MBA from Illinois State University. Trevor is an organizer of the newly formed Chicago Apache Flink Meet Up, and has presented at Flink Forward, ApacheCon, Apache Big Data, and other meetups nationwide.\n\nYOU DO NOT HAVE TO BE REGISTERED FOR STRATA DATA CONFERENCE TO ATTEND THIS MEETUP.\n\nThis meetup is hosted by IBM and Hortonworks. Light refreshments will be served.",
+    "endTime": "2017-09-25T20:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/243156555/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "243156555",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Using Open Source AI w/ Drones to identify humans.... Friendly Cylons 1.0..."
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0-trevor-grant",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/243156555/"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Designing Data Infrastructure in the Age of Generative AI",
+  "speaker_text": "Lisa N. Cao, Staff Developer Relations @ Databricks",
+  "tags": [
+    "Open Data Lake",
+    "OSS AI"
+  ],
+  "url": "https://ai.bythebay.io/talks/designing-data-infrastructure-in-the-age-of-generative-ai",
+  "source_id": "bythebay-20260508-designing-data-infrastructure-in-the-age-of-generative-ai-lisa-n-cao-databricks",
+  "source_file": "data/raw/sources/bythebay-20260508-designing-data-infrastructure-in-the-age-of-generative-ai-lisa-n-cao-databricks.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-designing-data-infrastructure-in-the-age-of-generative-ai-lisa-n-cao-databricks.json"
+}

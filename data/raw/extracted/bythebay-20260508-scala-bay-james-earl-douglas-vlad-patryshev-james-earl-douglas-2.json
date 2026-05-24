@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas-2",
+  "source_id": "bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas-2.json",
+  "kind": "talk",
+  "event_id": "208276632",
+  "event_title": "James Earl Douglas; Vlad Patryshev",
+  "title": "James Earl Douglas; Vlad Patryshev",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": "James Earl Douglas, James Earl Douglas Title, Title: Handling Results, Vlad Patryshev, Vlad Patryshev Title",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/208276632/",
+  "description": "We have two talks: 1. Speaker: James Earl Douglas Title: Putting functional programming to work Short description. Frequently among the benefits claimed of functional programming are promises of safety, composability, and reusability, but it is often difficult to connect these ideas with production code solving real-world problems. In this session, we dig into one particular tool: the state monad, to see how it lives up to these promises and helps power the Versal platform. Speaker's short bio. A functional programmer with advanced experience developing production software in Scala and Java, James is passionate about continuous learning and keeping just outside of his comfort zone. James helps build the Scala backend of the Versal platform. When not knee-deep in type theory, he can be found running, cycling, and stargazing around the San Francisco Bay Area. 2. Speaker: Vlad Patryshev Title: Handling Results Short description. Hardly any function is total; what do we do with errors? Throw exceptions into the log? Use Option and ignore error details? Use Either and get confused whether Left is right or Right is wrong? There's a better solution, which is also an applicative functor. Slides: http://tinyurl.com/scalabay-vlad-14 Speaker's short bio. A recent convert to fp, with a knowledge of category theory and some Scala. Working in a startup, http://healthexpense.com ; teaching Logic in Santa Clara University; riding my bicycle in South Santa Clara county; an organizer of Scala Bay, BACAT, SF Bay Area Ukrainians. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:00 - James talk • 8:10-~8:30 - Vlad talk • 8:40-9:00 - networking Regarding Parking Parking available on the back of buildings 100, 150 and 200 W. Evelyn, for about 60 cars. Street parking on neighborhood streets are open - all time limits end at 6pm, so there is no timed/metered parking. There is also paid parking at CalTrain Parking lot, with $5.",
+  "date_time": "2014-10-13T19:00:00-07:00",
+  "end_time": "2014-10-13T22:00:00-07:00"
+}

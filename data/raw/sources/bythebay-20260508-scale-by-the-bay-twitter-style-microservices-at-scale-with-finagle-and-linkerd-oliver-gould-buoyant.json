@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-06-09T18:30:00-07:00",
+    "description": "Schedule\n\n6:30 Open Doors\n\n7:00 Ticketfly's Evolution to Microservices with Jerome Thibaud\n\n7:30 Main Presentation\n\nMain Talk:\n\nAbstract\n\nWhat is required to operate microservices at scale? Beyond containers, beyond schedulers, beyond Go libraries and RPC formats--what is actually required to turn hundreds of services, tens of thousands of machines, and millions of requests per second into a unified, performant, functional, and operable application? In this talk, we walk through the evolution of Twitter’s evolution from Ruby on rails monolith to JVM-based microservice, and we describe the surprising glue [see what I did there?] that held it all together: layer 5, the oft-overlooked “session layer”. We describe Finagle, the high-scale RPC library developed at Twitter and adopted by Pinterest, Soundcloud, ING Bank, and other companies, which allowed Twitter control over the session layer and unified its separate services into a consistent operational model. We introduce linkerd, an open-source proxy form of Finagle, which extends Finagle's operational model to non-JVM or polyglot microservices. Finally, we show how linkerd can be used to \"wrap\" applications running on schedulers like Kubernetes and Mesos to provide higher-level, service-based semantics around scalability, reliability, and fault-tolerance for microservices---even in the presence of unpredictable traffic volumes and unreliable hardware.\n\nSpeaker: Oliver Gould, CTO at Buoyant, Inc.",
+    "endTime": "2016-06-09T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bythebay/events/231200698/",
+    "group": {
+      "id": "18748975",
+      "name": "Scale By the Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "231200698",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Twitter-style Microservices at Scale with Finagle and linkerd"
+  },
+  "meetup_id": "meetup:18748975",
+  "meetup_name": "Scale By the Bay",
+  "meetup_url": "https://www.meetup.com/bythebay/events/?type=past",
+  "source_id": "bythebay-20260508-scale-by-the-bay-twitter-style-microservices-at-scale-with-finagle-and-linkerd-oliver-gould-buoyant",
+  "source_url": "https://www.meetup.com/bythebay/events/231200698/"
+}

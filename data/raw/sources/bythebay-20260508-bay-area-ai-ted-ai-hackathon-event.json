@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-10-14T09:00:00-07:00",
+    "description": "**[Scale By the Bay, the yearly conference of Bay Area AI and developer meetups is coming back in November! Register now.](https://scale.bythebay.io)**\n\n**NOTE**: Only accepted teams will be allowed to attend the hackathon.\n\nBay Area AI is happy to partner with TED AI to share the first TED AI Hackathon to be held in San Francisco at Microsoft Reactor.\n\nPlease join AI for Good work and register at the event website:\n\n[https://www.ai-event.ted.com/hackathon](https://www.ai-event.ted.com/hackathon)\n\nHappy to welcome [Arun Gupta](https://www.linkedin.com/in/arunpgupta/), who leads Open Ecosystem at Intel and previously led open source strategy at Amazon and Apple, as the organizer!",
+    "endTime": "2023-10-15T17:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/296033660/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "296033660",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "TED AI Hackathon"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-ted-ai-hackathon-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/296033660/"
+}

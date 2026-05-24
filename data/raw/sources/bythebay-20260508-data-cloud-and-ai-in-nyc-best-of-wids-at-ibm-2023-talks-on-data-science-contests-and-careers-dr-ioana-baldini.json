@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-07-26T08:00:00-04:00",
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.**\nThis session is open to everyone interested in Data Science! Each year IBMers apply to be WiDS Ambassadors, and host a number of WiDS) Regional events, often in collaboration with universities, partners, etc, The Ambassadors bring the Women in Data Science (WiDS) Worldwide conference, a program from Stanford University, to colleagues and communities at large.\n\nJoin this session to hear from two outstanding speakers who participated in WiDS events:\n\nTalk Title: **Data Science Contests Introduction: How they can help your career**\n· Speaker: Sneha Varghese, Senior Technical Staff Member, IBM\n· Duration: 30 minutes including Q&A\n\nTalk Title: **Career Fireside Chat**\n· Speakers: Dr Ioana Baldini, Research Staff Member, IBM and Sneha Varghese, Senior Technical Staff Member, IBM\n· Duration: 30 mins including Q&A\n\nWiDS @ IBM is an independent event that is organized by the **Technical Meetup Group hosted by IBM** as part of the annual WiDS Worldwide conference, the WiDS Datathon, and an estimated 200 WiDS Regional Events worldwide. Everyone is invited to attend all WiDS conference and WiDS Datathon Workshop events which feature outstanding women doing outstanding work.\n\n**Presenters: Sneha Varghese, Dr Ioana Baldini**\n\n**Sneha Varghese** is a Senior Technical Staff Member and a Data Scientist at IBM. She joined IBM as a software developer with a Master’s degree in Computer Science from New York University. In her past 20 years at IBM, she has led technical teams and provided strategic directions.She holds many patents and is an IBM Academy of Technology member. She is passionate about promoting STEM activities among women and serves as Vice President in Mid-Hudson Society of Women Engineers chapter. She also serves as Sunday school Director and loves music too.\n\n**Dr Ioana Baldini** is a Senior Research Scientist in the IBM Research AI organization. As a result of recent collaborations with non-profit organizations on projects under the IBM Science for Social Good Initiative, Ioana has focused her research efforts on natural language processing applied to domains that have potential for social impact. Her current work focuses on different aspects of fairness in natural language processing systems. Her collaboration with Reboot Rx led to the creation and release of public datasets containing information on investigational COVID-19 treatments on cancer outcomes (independent of COVID-19 infection). Previously at IBM Research, Ioana was part of the core research team who developed OpenWhisk, an open source serverless platform, which is now offered as IBM Cloud Functions. In this role, Ioana contributed several components to the OpenWhisk system and helped deploy it as the official IBM serverless platform. Ioana holds a Masters and PhD degrees from the University of Toronto. She received the NSERC (NSF-equivalent in Canada) Canada Graduate Scholarship, the IBM PhD Fellowship, the Canada Google Anita Borg Scholarship, and the IBM Research Division Award (contributions to OpenWhisk).\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/rd67043032ae6223c7f181c002dffacf0](https://ibm.webex.com/weblink/register/rd67043032ae6223c7f181c002dffacf0)**",
+    "endTime": "2023-07-26T09:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/293933975/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "293933975",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Best of WiDS at IBM 2023: Talks on Data Science Contests and Careers"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/293933975/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18601481:bythebay-20260508-sf-data-and-ai-engineering-better-together-fast-data-with-apache-sparktm-and-apache-ignitetm-event",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-better-together-fast-data-with-apache-sparktm-and-apache-ignitetm-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-better-together-fast-data-with-apache-sparktm-and-apache-ignitetm-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-better-together-fast-data-with-apache-sparktm-and-apache-ignitetm-event.json",
+  "kind": "event",
+  "event_id": "232407316",
+  "event_title": "Better together: Fast Data with Apache Spark™ and Apache Ignite™",
+  "title": "Better together: Fast Data with Apache Spark™ and Apache Ignite™",
+  "conference_id": "meetup:18601481",
+  "meetup_id": "meetup:18601481",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/232407316/",
+  "description": "Thanks Splice Machine for hosting! Spark and Ignite are two of the most popular open source projects in the area of high-performance Big Data and Fast Data. But did you know that one of the best ways to boost performance for your next generation real-time applications is to use them together? In this session, Dmitriy Setrakyan, Apache Ignite Project Management Committee Chairman and co-founder and CPO at GridGain, will explain in detail how IgniteRDD — an implementation of native Spark RDD and DataFrame APIs — shares the state of the RDD across other Spark jobs, applications and workers. Dmitriy will also demonstrate how IgniteRDD, with its advanced in-memory indexing capabilities, allows execution of SQL queries many times faster than native Spark RDDs or Data Frames. Don't miss this opportunity to learn from one of the experts how to use Spark and Ignite better together in your projects.",
+  "date_time": "2016-08-04T18:30:00-07:00",
+  "end_time": "2016-08-04T21:30:00-07:00"
+}

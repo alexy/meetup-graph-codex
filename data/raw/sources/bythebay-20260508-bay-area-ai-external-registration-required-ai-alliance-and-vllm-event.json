@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-01-31T16:00:00-08:00",
+    "description": "*Note: **registration** with your full name and email i**s required** at*\n**[https://lu.ma/ygxbpzhl](https://lu.ma/ygxbpzhl)**\n*to attend. RSVP here is NOT sufficient to attend, security will have the list from Luma to check off your name!*\n\n**Talk 1**: AI Alliance: Community is the Way, **Alexy Khrabrov, IBM Research**\nIn this talk, Alexy, who leads the AI Alliance Community, will present the newly formed AI Alliance, now comprising more than 60 members worldwide, including IBM and UC Berkeley. Alexy will show how community is a core part and value informing AI decisions today.\n\n**Dr. Alexy Khrabrov** is the Open-Source Science Director at IBM Research, the founding Chair of the Generative AI Commons at the Linux Foundation, and the Head of Community for the AI Alliance.\n\n**Talk 2**: vLLM Project Update, **Zhuohan Li, Woosuk Kwon, UC Berkeley**\nIn this talk, the maintainers of the vLLM project will give an overview of the vLLM project, the progress made over the last few months, and preview roadmaps. The talk will be technical and dive into interesting details of vLLM's codebase.\n\n**Zhuohan Li** is a CS PhD student at UC Berkeley, where he is advised by Professor Ion Stoica. He is interested in designing and building efficient machine learning systems. Recently, he has been focusing on the training and serving of large models, specifically LLMs. His works include Alpa, AlpaServe, Vicuna, and vLLM (PagedAttention). He completed his BS at Peking University and has interned at Microsoft Research, Anyscale, and Google Brain.\n\n**Woosuk Kwon** is a CS PhD student at UC Berkeley, where he is advised by Prof. Ion Stoica. His research interest lies in building practical, flexible, and high-performance software systems for emerging applications such as large language models. He completed his BS at Seoul National University.\n\n**Update**: AI Alliance is sponsoring the **afterparty** at the [AI User Conference](https://aiuserconference.com). All registered attendees of this meetup are invited to the afterparty at Hibernia, 1 Jones St., starting at 8pm, after our meetup ends! ***You have to be on the Luma list as attending to go to the afterparty, and also be at the meetup in person.***\n[Register for the afterparty here!](https://www.eventbrite.com/e/ai-user-conference-tickets-719369873657?aff=oddtdtcreator&discount=AI-ALLIANCE)",
+    "endTime": "2024-01-31T19:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/298461968/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "298461968",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[External Registration Required] AI Alliance and vLLM"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-external-registration-required-ai-alliance-and-vllm-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/298461968/"
+}

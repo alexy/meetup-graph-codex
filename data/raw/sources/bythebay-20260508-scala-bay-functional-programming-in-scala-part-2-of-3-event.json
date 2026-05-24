@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-02-08T09:00:00-08:00",
+    "description": "For this event please RSVP here: [https://lu.ma/t4f3qq1e](https://lu.ma/t4f3qq1e)\n\n## **Functional Programming in Scala - Part 2 of 3**\n\n“Functional Programming in Scala\" is a set of three lectures that – as the title suggests – introduce you to the concepts of Functional Programming, with Scala being the programming language of the examples. During this short course, you will learn how to work with functions as first-class citizens of your code, how to use pattern matching and recursion to obtain complex yet readable code, and finally, what a monad is and what to do with it.\nIn total, there are about four and a half hours of material: 1.5 hours of lecture on the basics and another 1.5 hours of joint work between the lecturer and students, where we use the knowledge from the previous lesson to write two more complicated programs, while discussing the details of programming in Scala, and another 1.5 hours of lecture on monads and effects systems. The whole series consists of slides and real-time programming. For coding we will use IntelliJ IDEA with the Scala Plugin.\n\n## **About our speaker**\n\n[Maciej Gorywoda](https://www.linkedin.com/in/mgorywoda/) is a Product Marketing Manager in the IntelliJ Scala Plugin team at [JetBrains](https://www.jetbrains.com/). In 2005, he graduated from the Warsaw University of Technology with an MSc in Artificial Intelligence. He started working with Scala in 2014, and since then, it has become his favourite programming language for both professional work and various hobby projects. He speaks at conferences and produces YouTube videos on the basics of Functional Programming, Scala on Android, and Artificial Intelligence in video games. In 2024, he became an official Scala Ambassador.\nIn his free time, Maciej writes fantasy, trains martial arts, and goes on long-distance bicycle trips.\n\n## **About this course**\n\n* This course will be held online\n* To join our zoom please RSVP on [https://lu.ma/scala](https://lu.ma/scala) to get the zoom link\n* We are also streaming the course live on Twitch if you want to join here: [https://www.twitch.tv/softinio](https://www.twitch.tv/softinio)\n* This is part 2 of 3 of this course. See/Subscribe to our Calendar to RSVP to the other parts here: [https://lu.ma/scala](https://lu.ma/scala)\n\n## **Thank you**\n\nBig thank you to Maciej Gorywoda and Jetbrains for making this event possible and supporting our meetup group.\n\n**Please SUBSCRIBE**\n\nPlease subscribe to our Luma group to receive our newsletter and to hear about our events first: [https://lu.ma/scala](https://lu.ma/scala)",
+    "endTime": "2025-02-08T11:00:00-08:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/305629560/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "305629560",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Functional Programming in Scala - Part 2 of 3"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-functional-programming-in-scala-part-2-of-3-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/305629560/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-08-13T19:00:00-07:00",
+    "description": "Seth Tisue, Compiler Plugins 101\n\nAbstract\n\nCompiler plugins — mysterious, difficult? Yet intriguing? Dark magic you're frightened, yet tempted, to wield? I'll cover what compiler plugins can do, what existing plugins are popular, and how to write your own.\n\nSpeaker Bio\n\nSeth has been a member of the Scala team at Lightbend since 2015. His main interests are compilers and interpreters, functional programming, and open-source software. Set has been active in the Scala community since 2008, in venues such as the Scalawags podcast, the Northeast Scala Symposium, and everywhere people talk about Scala online. Before joining Lightbend, Seth used Scala to build the compiler and other tools for NetLogo, an open-source programming language for kids, teachers, and scientists.\n\nSchedule\n\n• 6:30-7:00 - networking (pizza, beer)\n• 7:00-7:10 - announcements etc.\n• 7:10-8:00 - talk\n• 8:00-8:30 - more networking",
+    "endTime": "2018-08-13T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/248516974/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "248516974",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Seth Tisue, Compiler Plugins 101"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-seth-tisue-compiler-plugins-101-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/248516974/"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-joint-meetup-register-at-sf-ba-ml-word2vec-lda-and-introducing-lda2vec-chris-moody",
+  "source_id": "bythebay-20260508-bay-area-ai-joint-meetup-register-at-sf-ba-ml-word2vec-lda-and-introducing-lda2vec-chris-moody",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-joint-meetup-register-at-sf-ba-ml-word2vec-lda-and-introducing-lda2vec-chris-moody.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-joint-meetup-register-at-sf-ba-ml-word2vec-lda-and-introducing-lda2vec-chris-moody.json",
+  "kind": "talk",
+  "event_id": "229486410",
+  "event_title": "[joint meetup -- register at: SF BA ML] word2vec, LDA, and introducing lda2vec",
+  "title": "word2vec, LDA, and introducing lda2vec",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": "Chris Moody, Tentative Schedule",
+  "tags": [
+    "meetup",
+    "crosspost",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/229486410/",
+  "description": "Chris Moody is speaking at Data By the Bay (http://data.bythebay.io). Join us for two days of text/NLP and three more of Machine Learning, AI, IoT, Life Sciences, UX, and Data Pipelines! Very Early Bird registration (http://data.bythebay.io/tickets.html) ends Match 15th. This is a joint meetup with SF Bay Area Machine Learning. Please register there! (http://www.meetup.com/SF-Bayarea-Machine-Learning/events/229404178/) Speaker: Chris Moody (http://datadaytexas.com/speakers#moody) (Stitchfix) Standard natural language processing (NLP) is a messy and difficult affair. It requires teaching a computer about English-specific word ambiguities as well as the hierarchical, sparse nature of words in sentences. At Stitch Fix, word vectors help computers learn from the raw text in customer notes. Our systems need to identify a medical professional when she writes that she 'used to wear scrubs to work', and distill 'taking a trip' into a Fix for vacation clothing. Applied appropriately, word vectors are dramatically more meaningful and more flexible than current techniques and let computers peer into text in a fundamentally new way. I'll try to convince you that word vectors give us a simple and flexible platform for understanding text while speaking about word2vec, LDA, and introduce our hybrid algorithm lda2vec (https://github.com/cemoody/lda2vec). Tentative Schedule: 6:30pm – 7:00pm Pre-reception 7:00pm – 7:15pm Lightning Presentation (TBD) 7:20pm – 8:20pm Main Talk 8:20pm – 9:00pm Post-reception Special Thanks: Nitro for hosting! -- IMPORTANT -- For building security, all guests must register with their first and last name. When you arrive, you’ll be asked to check in with an ID. Please fill it out when you register.",
+  "date_time": "2016-03-16T18:30:00-07:00",
+  "end_time": "2016-03-16T21:30:00-07:00"
+}

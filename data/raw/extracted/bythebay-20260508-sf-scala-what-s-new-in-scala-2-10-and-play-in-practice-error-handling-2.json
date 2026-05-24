@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-what-s-new-in-scala-2-10-and-play-in-practice-error-handling-2",
+  "source_id": "bythebay-20260508-sf-scala-what-s-new-in-scala-2-10-and-play-in-practice-error-handling-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-what-s-new-in-scala-2-10-and-play-in-practice-error-handling-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-what-s-new-in-scala-2-10-and-play-in-practice-error-handling-2.json",
+  "kind": "talk",
+  "event_id": "111419142",
+  "event_title": "What's New in Scala 2.10 and Play in Practice",
+  "title": "What's New in Scala 2.10 and Play in Practice",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Error Handling, Will Sargent",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/111419142/",
+  "description": "This is the first meetup of the newly invigorated SF Scala, combining the previous version of SF Scala with all of Scala for Startups. Say hi to the new organizing team! Scala’s goal is to distill powerful features down to their essence, and unify them so that they work well together (e.g., functions and objects, implicit classes and value classes, type inference and implicit search,...). Scala 2.10 integrated several new features to make the language even more expressive, without sacrificing simplicity. Here are the main new/improved features: Value Classes (add methods to existing types without paying the object allocation cost) Implicit Classes (codifies a common pattern with implicit conversions that wrap objects of existing types to enrich their interface) String Interpolation (a common feature, but with a twist: it’s fully extensible) ASM-based backend (faster, adds basic 1.6/1.7 support) The Dynamic trait and dependent method types are fully supported. Macros & Reflection (experimental) Futures and Promises (collaboration between EPFL’s Scala team, the Akka team at Typesafe with input from Twitter) Akka actors in the standard distribution We are aware that this multitude of features sometimes poses challenges in selecting the right ones to use in your project. To help you manage this, SIP-18 added language feature imports, which allows you to lock down the set of language features that's right for your team and your project at this time. Speaker: Adriaan is the Scala Tech Lead at Typesafe. He's been hacking scalac since version 2.4, writing a dissertation about type-level abstractions in Scala in the mean time. It all began in 2007 with a visit to the Scala team at EPFL to implement support for type constructor polymorphism in Scala, the first ever external contribution to Scala's type checker (and it's still in there!). He joined EPFL as a post-doc in 2009 to work on improvements to type inference, implicit search, dependent method types (as well as some type theory and work on scala-virtualized). His Summer Fun Project of 2011 got somewhat out of hand and resulted in a complete rewrite of Scala's pattern matcher in Scala 2.10. We'll keep the startup spirit strong and share stories of single-handing startups with Scala. Play 2.1 is a new web application framework that is part of the Typesafe Stack. Will Sargent will go over why Play is better than every other web application framework out there, best practices for Play, and how to set up a single page web application with Play with all the bells and whistles. Speaker: Will Sargent is an independent software consultant. He has been writing web applications for the last 15 years or so. He started playing with Scala around 2.7, has been working with Play 2.0 before it officially came out, and has written Play modules for authentication and integration into popular libraries such as Shiro and Spring. He has some fun ideas about leveraging type safety for better language security and making Play a \"secure by default\" web application framework. He has a blog at Terse Systems, and has written blog posts to demystify and promote Scala features -- see Problems Scala Fixes (http://tersesystems.com/2012/12/16/problems-scala-fixes), Error Handling in Scala (http://tersesystems.com/2012/12/27/error-handling-in-scala).",
+  "date_time": "2013-04-17T18:30:00-07:00",
+  "end_time": "2013-04-17T21:30:00-07:00"
+}

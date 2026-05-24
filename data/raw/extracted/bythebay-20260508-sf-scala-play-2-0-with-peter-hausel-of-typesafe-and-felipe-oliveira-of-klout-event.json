@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-play-2-0-with-peter-hausel-of-typesafe-and-felipe-oliveira-of-klout-event",
+  "source_id": "bythebay-20260508-sf-scala-play-2-0-with-peter-hausel-of-typesafe-and-felipe-oliveira-of-klout-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-play-2-0-with-peter-hausel-of-typesafe-and-felipe-oliveira-of-klout-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-play-2-0-with-peter-hausel-of-typesafe-and-felipe-oliveira-of-klout-event.json",
+  "kind": "talk",
+  "event_id": "43944172",
+  "event_title": "Play 2.0 with Peter Hausel of Typesafe and Felipe Oliveira of Klout",
+  "title": "Play 2.0 with Peter Hausel of Typesafe and Felipe Oliveira of Klout",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/43944172/",
+  "description": "Hello all, For this event we decided to combine forces with Scala for Startups. This meetup is the first part of the two-day Play meetup release series. The second part will be hosted by Scala for Startups at Klout (http://www.meetup.com/Scala-for-Startups/events/47587822/) the day after on Wednesday, March 14th. Peter and Felipe will present together both days. Play 2.0 is due to be released shortly before this meetup. The Play framework revolutionized the Java Web application development, by bringing back simplicity and agility contrasting the so-called standard way of writing enterprise applications. Moving forward, technology and the Web have evolved. The Web has become the central point of all applications. The whole Web architecture is fast moving towards real-time, and the emerging requirements of project profiles have put into question the classic assumptions like SQL as the exclusive datastore technology or the traditional MVC application design. At the programming language level we've witnessed some monumental changes with several JVM languages, including Scala, gaining popularity. In this talk Peter Hausel will introduce Play 2.0 a Java and Scala Web application framework and its core design concepts. Peter Hausel (https://twitter.com/#!/pk11) has more than a decade of software engineering experience. He is obsessed with web technologies, great user experience and open source. He was an early contributor to the Play framework and now leads Typesafe's Play initiative. Felipe Oliveira (http://geeks.aretotally.in/) is a tech lead at Klout developing APIs with the always awesome Play! Framework. Klout serves more than a ten billion API calls a month and growing. Felipe is a great communicator, blogger, and overall geek who is willing to share his love for Play! for whoever wants to hear.",
+  "date_time": "2012-03-13T18:30:00-07:00",
+  "end_time": "2012-03-13T21:30:00-07:00"
+}

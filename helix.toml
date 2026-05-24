@@ -1,0 +1,11 @@
+[project]
+name = "bythebay-scraper"
+queries = "db"
+container_runtime = "docker"
+
+[local.dev]
+port = 8080
+image = "ghcr.io/helixdb/enterprise-dev"
+tag = "latest"
+
+[enterprise]

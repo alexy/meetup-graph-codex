@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2024-02-01T15:30:00-05:00",
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.**\nWe will provide an introduction and overview of quantum computing and IBM Quantum. This will include a discussion on the motivation for quantum computing and how quantum computers work.\n\nNext, we will examine the types of problems to which quantum computing might be applied. The development roadmap will be presented. The IBM Quantum platform, which provides the tooling and interfaces for programming IBM quantum computers, will be introduced.\n\nFinally, we will highlight the IBM Quantum ecosystem which includes the IBM Quantum Network and the Qiskit community. After this session you should be empowered with the knowledge and resources you need to begin your quantum computing journey.\n\nNote that this is part 1 of an 11-session Quantum Series running from January to June. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions.\n\n**Presenter:** **Jane Dong**\n\n**Jane Dong** is an IBM Quantum Ambassador and Digital Enablement Leader for Hybrid Cloud Services. Jane graduated from the University of Toronto specializing in Physics and Mathematics with high distinction. She has solutioned and delivered enterprise level digital solutions for clients across North America.\n\nOutside of her Quantum Ambassador role, Jane and her team focus on creating digital, emerging tech and hybrid cloud solutions consulting works the following streams: Solution Envisioning, Proof-of-concept Development, Production Ready Pilot development services for clients in Energy Utilities, Retail, Engineering & Construction, FSS and Public Sectors.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/re580990e6ef8178dd5b932de3640366e](https://ibm.webex.com/weblink/register/re580990e6ef8178dd5b932de3640366e)**",
+    "endTime": "2024-02-01T16:30:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/297915488/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "297915488",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Quantum Series Part 1: Introduction to Quantum Computing"
+  },
+  "event_id": "297915488",
+  "event_title": "Quantum Series Part 1: Introduction to Quantum Computing",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.** We will provide an introduction and overview of quantum computing and IBM Quantum. This will include a discussion on the motivation for quantum computing and how quantum computers work. Next, we will examine the types of problems to which quantum computing might be applied. The development roadmap will be presented. The IBM Quantum platform, which provides the tooling and interfaces for programming IBM quantum computers, will be introduced. Finally, we will highlight the IBM Quantum ecosystem which includes the IBM Quantum Network and the Qiskit community. After this session you should be empowered with the knowledge and resources you need to begin your quantum computing journey. Note that this is part 1 of an 11-session Quantum Series running from January to June. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions. **Presenter:** **Jane Dong** **Jane Dong** is an IBM Quantum Ambassador and Digital Enablement Leader for Hybrid Cloud Services. Jane graduated from the University of Toronto specializing in Physics and Mathematics with high distinction. She has solutioned and delivered enterprise level digital solutions for clients across North America. Outside of her Quantum Ambassador role, Jane and her team focus on creating digital, emerging tech and hybrid cloud solutions consulting works the following streams: Solution Envisioning, Proof-of-concept Development, Production Ready Pilot development services for clients in Energy Utilities, Retail, Engineering & Construction, FSS and Public Sectors. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/re580990e6ef8178dd5b932de3640366e](https://ibm.webex.com/weblink/register/re580990e6ef8178dd5b932de3640366e)**",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Digital Enablement Leader"
+      },
+      {
+        "company": null,
+        "name": "Jane Dong"
+      },
+      {
+        "company": null,
+        "name": "Jane Dong Jane Dong"
+      }
+    ],
+    "title": "Quantum Series Part 1: Introduction to Quantum Computing"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/297915488/"
+}

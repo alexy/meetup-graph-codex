@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-08-30T18:30:00-07:00",
+    "description": "Scalaz is our #1 most requested topic (http://www.google.com/moderator/#15/e=1ffe4f&t=1ffe4f.40).\n\nThis talk provides an introduction to the amazing scalaz library - not through a brain-exploding introduction to category theory or monad laws, but via its simplest practical parts for a functional programming novice. You'll learn:\n\nHow to use scalaz to make your code simpler, more readable and more testable; How scalaz compensates for some Scala issues; How scalaz helps make your code more typesafe; An introduction to how scalaz encapsulates common patterns like dependency injection and data validation. A scalaz \"cheat sheet\" will be provided to attendees.\n\nAs usual, the schedule for the event is:\n\n6:30 - networking, food\n\n7:00 - announcements\n\n7:15 - presentation\n\n8:30 - Q&A, more networking afterward\n\nThis event will be recorded but not streamed. Please tag your tweets with #scalasv (https://twitter.com/#%21/search?q=%23scalasv).\n\nWe will give away two copies of IntelliJ IDEA 11 for personal use, and two copies of JRebel. Two e-copies of \"Monadic Design Patterns (http://www.artima.com/shop/monadic_design_patterns)\", published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile.\n\nAbout the Presenter\n\nAdam Rosien is a software engineer at Box where he leads projects to adopt Scala for back-end services and implement continuous deployment (CD) practices across the company. He previously worked at Wealthfront, a financial startup recognized as a pioneer in CD. Prior to that he worked at various startups and spent five years as a developer at Xerox PARC.\n\nThis Event Will Also Run at Yelp the Previous Day.\n\nIf you live in San Francisco you might find the event at Yelp (http://www.meetup.com/Bay-Area-Scala-Enthusiasts/events/78777532/) to be more convenient. Please only register at one event.",
+    "endTime": "2012-08-30T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/78612892/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "78612892",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scalaz \"For the Rest of Us\" At Box in Los Altos"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-scalaz-for-the-rest-of-us-at-box-in-los-altos-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/78612892/"
+}

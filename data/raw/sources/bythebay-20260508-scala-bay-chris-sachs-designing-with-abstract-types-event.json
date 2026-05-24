@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-04-14T18:30:00-07:00",
+    "description": "Type members and path-dependent types breathe new life into objects. This talk focusses on type abstraction, and how to wield it effectively to create simple, robust, performant designs.\n\nChris Sachs designed the experimental Scala Basis (https://github.com/reifyit/basis) library, which implements simple collection interfaces with macro optimized extensions providing all auxiliary functions, efficient container implementations, and more. Chris currently works at Sensity Systems, where he uses Scala to control networked LED lights in real-time from the cloud.\n\nLocation: Box\n\nSchedule:\n\n• 6:30-7:00 - networking\n\n• 7:00-7:10 - announcements etc\n\n• 7:10-~8:40 - talk\n\n• 8:40-9:00 - networking",
+    "endTime": "2014-04-14T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/175163962/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "175163962",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Chris Sachs. Designing with Abstract Types"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-chris-sachs-designing-with-abstract-types-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/175163962/"
+}

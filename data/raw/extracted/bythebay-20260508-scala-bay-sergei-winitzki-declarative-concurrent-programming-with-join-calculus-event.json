@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-sergei-winitzki-declarative-concurrent-programming-with-join-calculus-event",
+  "source_id": "bythebay-20260508-scala-bay-sergei-winitzki-declarative-concurrent-programming-with-join-calculus-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-sergei-winitzki-declarative-concurrent-programming-with-join-calculus-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-sergei-winitzki-declarative-concurrent-programming-with-join-calculus-event.json",
+  "kind": "event",
+  "event_id": "243931229",
+  "event_title": "Sergei Winitzki, Declarative concurrent programming with Join Calculus",
+  "title": "Sergei Winitzki, Declarative concurrent programming with Join Calculus",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/243931229/",
+  "description": "Sergei Winitzki, Declarative concurrent programming with Join Calculus Abstract Abstract: I give an introduction to Join calculus, a declarative formalism for concurrent programming. Join Calculus is a development of Pi-calculus that is higher-level and easier to use in practice. Join Calculus radically improves upon well-known concurrency paradigms such as Actors or CSP. I explain how Join Calculus emerges if we want to improve the Actor model by making actors type-safe, stateless, and automatically managed. I am developing `Chymyst`, a new open-source implementation of Join Calculus as an embedded DSL in Scala. I show concise and fully declarative Chymyst solutions for classic concurrency problems such as the \"dining philosophers\" or recursive \"fork/join\". Short Bio Sergei Winitzki is a theoretical physicist turned software engineer, passionate for functional programming, functional type theory, and declarative domain-specific languages. Schedule • 6:30-7:00 - networking (pizza, beer) • 7:00-7:10 - announcements etc. • 7:10-8:00 - talk • 8:00-8:30 - more networking Attention please The company will want you to sign an NDA.",
+  "date_time": "2017-10-16T18:30:00-07:00",
+  "end_time": "2017-10-16T21:30:00-07:00"
+}

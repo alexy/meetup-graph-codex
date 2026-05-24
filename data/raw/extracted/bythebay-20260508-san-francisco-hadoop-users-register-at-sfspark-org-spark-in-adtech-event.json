@@ -1,0 +1,22 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-register-at-sfspark-org-spark-in-adtech-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-register-at-sfspark-org-spark-in-adtech-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-register-at-sfspark-org-spark-in-adtech-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-register-at-sfspark-org-spark-in-adtech-event.json",
+  "kind": "announcement",
+  "event_id": "240397223",
+  "event_title": "[register at sfspark.org] Spark in Adtech",
+  "title": "Spark in Adtech",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "crosspost",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/240397223/",
+  "description": "This joint meetup with SF Spark (as usual) is dedicated to Spark and surrounding data pipelines and production insights in Adtech. From engineering leadership at Chartboost, we'll hear an overview of the 20 years of adtech history, and practical tips on running Spark in both a globally scalable and profitable enterprise. Criteo team will add their own insights to it. Adtech is an elephant in the room nowadays, where the most money is still made on the Internet but not as much hype is generated. Let's see how Spark is actually used in production, for real businesses. RSVP only here: https://www.meetup.com/SF-Spark-and-Friends/events/239736345/",
+  "date_time": "2017-06-06T18:00:00-07:00",
+  "end_time": "2017-06-06T21:00:00-07:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-ragme-ai-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-ragme-ai-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-ragme-ai-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-ragme-ai-event.json",
+  "kind": "event",
+  "event_id": "308111083",
+  "event_title": "[AI Alliance] Introducing RAGme-ai",
+  "title": "Introducing RAGme-ai",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/308111083/",
+  "description": "[RAGme-ai](https://github.com/maximilien/ragme-ai) is a personalized RAG agent for the web sites you visit and care about. Use cases include: 1. Interractive personal RAG adding web sites and documents and using an LLM agent to query 2. Collecting web sites or documents on a particular topic and RAGing and searching them 3. Collecting posts from a blog and RAGing and searching them 4. Collecting visited sites from a user's daily activities and RAGing and searching them 5. Collecting documents from a user and RAGing and searching them RAGing and searching refers to adding documents into a Vector database using some appropriate embedding (process to RAG) and then using an LLM agent to query and use that database as source of knowledge. **About the presenter** Max. Hacker. IBM Research. [LinkedIn](https://www.linkedin.com/in/drmaximilien), [GitHub](https://github.com/maximilien)",
+  "date_time": "2025-05-29T12:00:00-04:00",
+  "end_time": "2025-05-29T13:00:00-04:00"
+}

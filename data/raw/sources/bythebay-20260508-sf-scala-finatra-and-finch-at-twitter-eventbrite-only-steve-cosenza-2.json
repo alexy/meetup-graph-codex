@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2015-04-29T18:00:00-07:00",
+    "description": "Please use Eventbrite to register; only an Eventbrite ticket guarantees attendance.\n\nhttp://www.eventbrite.com/e/finatra-and-finch-at-twitter-tickets-16598468466\n\nFinatra and Finch are two popular web frameworks built on Finagle, Twitter's open source RPC system for the JVM. The Finatra team at Twitter is releasing a new version 2.0 this month, and Finch is rapidly approaching a 1.0 release. This meetup will provide an overview of the histories of these two projects and some of their new and upcoming features.\n6:00pm: Doors open\n6:30pm: Welcome\n6:45pm: Introducing Finatra 2.0 by Steve Cosenza\n7:30pm: A history of Finch by Vladimir Kostyukov\n8:15pm: Some possible futures for Finch by Travis Brown\n8:45pm: Networking, Food and Drinks\n9:00pm: End of event\n\n*Note: No press will be admitted to this event; please e-mail press@twitter.com if you have any questions. Twitter reserves the right to refuse entry to this event. Twitter also reserves the right to remove individuals from Twitter's premises for disruptive or disorderly behavior, or for any other reason in Twitter's sole discretion. Please arrive before 6:30 to ensure admission to the building.",
+    "endTime": "2015-04-29T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/221893230/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "221893230",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Finatra and Finch at Twitter [Eventbrite Only]"
+  },
+  "event_id": "221893230",
+  "event_title": "Finatra and Finch at Twitter [Eventbrite Only]",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "Please use Eventbrite to register; only an Eventbrite ticket guarantees attendance. http://www.eventbrite.com/e/finatra-and-finch-at-twitter-tickets-16598468466 Finatra and Finch are two popular web frameworks built on Finagle, Twitter's open source RPC system for the JVM. The Finatra team at Twitter is releasing a new version 2.0 this month, and Finch is rapidly approaching a 1.0 release. This meetup will provide an overview of the histories of these two projects and some of their new and upcoming features. 6:00pm: Doors open 6:30pm: Welcome 6:45pm: Introducing Finatra 2.0 by Steve Cosenza 7:30pm: A history of Finch by Vladimir Kostyukov 8:15pm: Some possible futures for Finch by Travis Brown 8:45pm: Networking, Food and Drinks 9:00pm: End of event *Note: No press will be admitted to this event; please e-mail press@twitter.com if you have any questions. Twitter reserves the right to refuse entry to this event. Twitter also reserves the right to remove individuals from Twitter's premises for disruptive or disorderly behavior, or for any other reason in Twitter's sole discretion. Please arrive before 6:30 to ensure admission to the building.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-finatra-and-finch-at-twitter-eventbrite-only-steve-cosenza-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-finatra-and-finch-at-twitter-eventbrite-only-steve-cosenza-2.json",
+    "source_id": "bythebay-20260508-sf-scala-finatra-and-finch-at-twitter-eventbrite-only-steve-cosenza-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Steve Cosenza"
+      },
+      {
+        "company": null,
+        "name": "Travis Brown"
+      },
+      {
+        "company": null,
+        "name": "Vladimir Kostyukov"
+      }
+    ],
+    "title": "Finatra and Finch at Twitter [Eventbrite Only]"
+  },
+  "source_id": "bythebay-20260508-sf-scala-finatra-and-finch-at-twitter-eventbrite-only-steve-cosenza-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/221893230/"
+}

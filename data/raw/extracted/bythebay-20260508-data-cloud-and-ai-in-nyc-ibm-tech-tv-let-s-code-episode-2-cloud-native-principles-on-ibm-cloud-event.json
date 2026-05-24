@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-tech-tv-let-s-code-episode-2-cloud-native-principles-on-ibm-cloud-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-tech-tv-let-s-code-episode-2-cloud-native-principles-on-ibm-cloud-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-tech-tv-let-s-code-episode-2-cloud-native-principles-on-ibm-cloud-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-tech-tv-let-s-code-episode-2-cloud-native-principles-on-ibm-cloud-event.json",
+  "kind": "event",
+  "event_id": "272280312",
+  "event_title": "IBM Tech TV Let's Code Episode 2: Cloud Native Principles on IBM Cloud",
+  "title": "IBM Tech TV Let's Code Episode 2: Cloud Native Principles on IBM Cloud",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/272280312/",
+  "description": "IBM Tech TV is a new, always-on platform for the latest technical talks, live demos, and updates straight from IBM experts. Catch shows focused on honing the skills relevant to the success of both your business and yourself, featuring Distinguished Engineers, developers, and executives.At launch, IBM Tech TV will be home to three free, live, and on-demand shows focused on Cloud, and Data & AI, with more shows on the way. Subscribe now and return to discover your new favorite weekly series and to explore a growing library of original, expert-produced content that you can access whenever you want! Let's Code Episode 2 Description: Cloud offers a rich set of managed services, providing all sorts of functionality that relieve you of the headache of managing the infrastructure. Will show an application designed with Cloud Native principles in mind taking advantage of Cloud managed services. As a developer when you are aware of Cloud Native principles this enables you to architect better solutions. Let's Code Series Schedule: August 13th: Deploying a Simple Python App to OpenShift August 20th: Cloud Native Java with Quarkus August 27th: Live Coding 12-Factor App",
+  "date_time": "2020-08-01T12:00:00-04:00",
+  "end_time": "2020-08-01T13:00:00-04:00"
+}

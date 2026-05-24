@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-06-13T18:30:00-07:00",
+    "description": "Title\n\nAsynchronous Orchestration DSL on “squbs”\n\nAbstract\n\nsqubs (rhymes with cubes) is an open source project by PayPal and eBay. It is a collection of software components for standardizing and operationalizing Akka/Streams and Spray-based services in large scale. It includes components such as bootstrapping, actor monitor, actor registry, admin console, data center-aware clustering, and much more. Many of these components can also be used stand-alone with any Akka/Streams/Spray application. Orchestration is a common pattern for aggregating and composing results from multiple back-end services. Today, we’re going to introduce the Orchestration DSL provided as part of the squbs project. We’ll show how you can utilize the extremely concise declaration and composition of the orchestration logic, dependencies, timeout handling, and error handling logic for your mid-tier services. Please join us.\n\nBio\n\nAkara Sucharitakul leads the squbs project as part of the PayPal infrastructure team. He has a lifetime passion on performance, scalability, and resiliency, and appreciates the beauty of application simplicity. Prior to PayPal, Akara has been part of eBay/PayPal up to the split where he led the development of framework and infrastructure that moved teams from a centralized to a distributed architecture that allows roll out of site updates in a matter of minutes after code fixes.\n\nSchedule\n\n• 6:30-7:00 - networking\n• 7:00-7:10 - announcements etc\n• 7:10-~8:40 - talk\n• 8:40-9:00 - networking",
+    "endTime": "2016-06-13T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/228957167/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "228957167",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Akara Sucharitakul, Asynchronous Orchestration DSL on “squbs”"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-akara-sucharitakul-asynchronous-orchestration-dsl-on-squbs-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/228957167/"
+}

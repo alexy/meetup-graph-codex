@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2022-12-07T08:00:00-05:00",
+    "description": "**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1. Repeated at two different times to accommodate various time zones, because it is**\n**2. Posted simultaneously in multiple meetup groups world-wide**\n\nWhile AI models are evolving and we recognize the need to ensure that they are unbiased and provide effective socio-technical solutions, there is still much work to be done.In this session, you will learn from an experienced Designer’s perspective about how to incorporate people-centered considerations in your AI models:\n\n1. Applying current AI/Machine Learning models to create socio-technical solutions and their impact on people\n2. Some considerations to keep in mind about how these wonderful AI models could be used and misused, at scale!\n\n**Presenter: Dawn Ahukanna**\n\nDawn Ahukanna is a Design Principal and Front-End Architect for IBM Systems business unit. Collaborating and co-creating human-centered solutions with clients and business partners, streamlining IT asset management and operations applying automation and preventative maintenance.\n\n***\n\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder: [https://ibm.webex.com/ibm/j.php?RGID=r080c4ad8fe4d4276bc0ed74c89518b01](https://ibm.webex.com/ibm/j.php?RGID=r080c4ad8fe4d4276bc0ed74c89518b01).",
+    "endTime": "2022-12-07T09:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/289676333/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "289676333",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Designing People-Centered AI: Modelling power and powerful modelling!"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-business-unit",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/289676333/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-accelerating-science-with-open-source-sponsored-by-ossci-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-accelerating-science-with-open-source-sponsored-by-ossci-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-accelerating-science-with-open-source-sponsored-by-ossci-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-accelerating-science-with-open-source-sponsored-by-ossci-event.json",
+  "kind": "announcement",
+  "event_id": "294108397",
+  "event_title": "Accelerating Science with Open Source, sponsored by OSSci",
+  "title": "Accelerating Science with Open Source, sponsored by OSSci",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/294108397/",
+  "description": "***Note: [Scale By the Bay](https://scale.bythebay.io), the iconic San Francisco Bay Area global developer conference, is coming back for its 10th anniversary in November. The CFP is open at [bay.news/cfp](http://bay.news/cfp) by June 16 -- submit your best talk!*** Our planet is facing many existential threats. In order to tackle these challenges, we will require a lot of science over the coming years and decades. But without a strong open source foundation, it will take that much longer and cost that much more. Meet Open-Source Science (OSSci), a new NumFOCUS initiative that aims to accelerate scientific research and discovery through better open source in science. OSSci was launched at the SciPy conference in July 2022. Our interest groups – initially focused on material sciences/chemistry, life sciences/healthcare, and climate/sustainability have been getting under way. We want to meet scientists who are using open source successfully in their work. And we want to hear from OSS developers who work on science-related projects. Questions we’d like to explore: * How can we work together to accelerate scientific discovery? * How can the power of open source communities help researchers share knowledge and bring the power of data and AI to bear on the challenges facing humanity? * What are the patterns of OSS use in academia? * How can we break the silos and achieve reuse, sharing common modes of AI augmentation across disciplines? * What socio-technical structures can we harness or build to connect OSS champions in science and support their work, with growing participation in every field of discovery? Agenda and speakers to be confirmed. We’ll have a few short talks and will reserve plenty of time for discussion and socializing. \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\- RSVP is required, please note that walk-ins will not be accepted. Note: Per building policy, RSVPs will close at 12 pm on June 20. Doors @ 5:30 pm Event @ 6:00 - 8:30 pm Venue provided by IBM: 590 Madison Ave Catering (food & drinks) sponsored by Open Source Science (OSSci). Thank you, IBM & OSSci! \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\- The entrance is on the corner of E 56th Street and Madison Ave. The building requires a government-issued photo ID for entrance. This, and all PyData NYC events, is an all-levels event. Newcomers and beginners are welcome. This, and all NumFOCUS-affiliated events and spaces, both in-person and online are governed by a Code of Conduct. More at https://pydata.org/code-of-conduct/ This event might be recorded. It is a public space so photography and videography could be conducted, in which case the audience be notified.",
+  "date_time": "2023-06-22T18:00:00-04:00",
+  "end_time": "2023-06-22T20:30:00-04:00"
+}

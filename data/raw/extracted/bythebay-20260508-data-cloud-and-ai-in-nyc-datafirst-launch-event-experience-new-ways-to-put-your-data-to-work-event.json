@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-datafirst-launch-event-experience-new-ways-to-put-your-data-to-work-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-datafirst-launch-event-experience-new-ways-to-put-your-data-to-work-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-datafirst-launch-event-experience-new-ways-to-put-your-data-to-work-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-datafirst-launch-event-experience-new-ways-to-put-your-data-to-work-event.json",
+  "kind": "event",
+  "event_id": "233694477",
+  "event_title": "DataFirst Launch Event – Experience new ways to put your data to work",
+  "title": "DataFirst Launch Event – Experience new ways to put your data to work",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/233694477/",
+  "description": "On September 27, 2016, leading minds in data and analytics will come together and unveil the latest in cloud technology, enabling you to more efficiently put data to work. Experience how Spark, Hadoop, Python, and more are being used to bring together all types of data professionals –from data engineers, to data scientists, developers and business analysts –to work in new collaborative ways. The IBM DataFirst Launch Event will unite data and analytics leaders and practitioners from the open source community, startups, and enterprises. Check the event site (http://www.ibm.com/analytics/us/en/events/datafirst/index.html) for the latest lineup of guest speakers. The event takes place @ 6pm at the Hudson Mercantile Building, NYC. Here’s the plan: • The Big Reveal –Experience new ways to work for data engineers, data scientist, developers, and business analysts, both individually and collectively. •Hands-on sessions – With interactive experiences for each of these professions. •Use Cases –Community leaders and guest speakers will share their expertise and vision •Networking Opportunity – Food, drinks, data, collaborative demos, and a party on the rooftop Learn more here: DataFirst Launch Event Check-in and networking begins at 6:00 PM. Food and drinks will be served. You must register for this event. To get your ticket, and attend in person, click HERE (https://www.eventbrite.com/e/ibm-datafirst-launch-event-registration-26725283041). Can't attend in person? We'll be live streaming this event. Register for the LIVE STREAM (https://www.eventbrite.com/e/livestream-ibm-datafirst-launch-event-registration-26906650516) and we'll send you a calendar update and login link. NOTE - If you’re attending Strata + Hadoop World at the Jacob Javits Center, it’s a short 8-minute walk to the Hudson Mercantile Building",
+  "date_time": "2016-09-27T18:00:00-04:00",
+  "end_time": "2016-09-27T22:00:00-04:00"
+}

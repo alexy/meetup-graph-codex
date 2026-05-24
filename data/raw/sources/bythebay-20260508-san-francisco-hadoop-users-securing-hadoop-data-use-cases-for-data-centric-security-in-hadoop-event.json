@@ -1,0 +1,34 @@
+{
+  "event": {
+    "dateTime": "2015-04-08T18:00:00-07:00",
+    "description": "The April SF Hadoop User Group meetup will be held Wednesday, April 8 from 6:00pm to 8:00pm. This meetup will be sponsored by HP Security Voltage and held at if(we), 848 Battery Street, San Francisco. Food and drinks will be served.\n\nPresentation: Securing Hadoop Data / Use Cases for Data-centric Security in Hadoop\n\nReiner Kappenberger, Senior Director of Product Management, HP Security Voltage\n\nA key driver to getting Hadoop into production is enabling rapid time-to-insight for your company. Unfortunately, the realization that sensitive, regulated data—payment transactions, customer personally identifiable information (PII), and more—will be flowing unprotected into the Hadoop “data lake” can present a big hurdle to implementation. Join us to understand architectural options for securing Hadoop data, illustrated by real-world use cases.\n\nSecuring Hadoop Data\nGet the theory: Learn how data-centric encryption and tokenization technologies enable successful Hadoop adoption, neutralize data breaches and answer privacy and regulatory concerns. Get clear on related standards. And understand how data-centric security fits with the latest authentication, authorization and audit controls in Hadoop.\n\nUse Cases for Data-centric Security in Hadoop\nHow it works: Find out how Hadoop deployments are rolled out with data-centric protection in place. This customer case-driven talk presents technical and business specifics around 4-5 recent Hadoop deployments in pharma, healthcare insurance, telecommunications, and retail. It includes what you need to know, how to get started, what the deployments look like, and options for integration with Hive, Sqoop, MapReduce and other Hadoop specific interfaces in these multi-platform Enterprise environments.\n\nReiner Kappenberger is Senior Director of Product Management at HP Security Voltage, with over 20 years of computer software industry experience focusing on encryption and security for Big Data environments. His background ranges from device management in the telecommunications sector to GIS and database systems. He holds a Diploma from the FH Regensburg, Germany in computer science.\n\nPresentation: Fast, Cheap and Out of Control: Distributed Log Ingestion at if(we)\n\nChris Mills, Big Data Lead & Andy Alvarado, Sr. Systems Engineer\n\nLog ingestion is something most all of us have to deal with at some time. With high enough volumes, tools like Logstash and Flume can get overwhelmed -- especially on low-spec web servers. We present a minimalist distributed approach for getting logs on low-spec boxes into HDFS using rsyslog and haproxy.\n\nPresentation: A Brief Introduction to Satisfaction\n\nJerome Banks, Sr. Software Engineer\n\nSatisfaction is the next-generation Hadoop scheduler, which allows you to conveniently package, deploy and monitor all your data pipelines. Satisfaction defines a Scala DSL in which you can create goals and dependencies for your Hadoop data sets, and package them as a pipeline Track. The Satisfaction engine will execute Hadoop MapReduce jobs and Hive queries to satisfy your goals, and monitors the process to completion.\n\nJerome Banks is a software engineer, who has worked with various Big Data technologies at if(we), Klout and Quantcast, and will discuss the motivations for developing Satisfaction, and demo how it is currently being used to develop analytics at if(we).",
+    "endTime": "2015-04-08T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/220286707/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "220286707",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "April SF Hadoop Users Meetup "
+  },
+  "event_id": "220286707",
+  "event_title": "April SF Hadoop Users Meetup",
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "session": {
+    "description": "Reiner Kappenberger, Senior Director of Product Management, HP Security Voltage A key driver to getting Hadoop into production is enabling rapid time-to-insight for your company. Unfortunately, the realization that sensitive, regulated data—payment transactions, customer personally identifiable information (PII), and more—will be flowing unprotected into the Hadoop “data lake” can present a big hurdle to implementation. Join us to understand architectural options for securing Hadoop data, illustrated by real-world use cases. Securing Hadoop Data Get the theory: Learn how data-centric encryption and tokenization technologies enable successful Hadoop adoption, neutralize data breaches and answer privacy and regulatory concerns. Get clear on related standards. And understand how data-centric security fits with the latest authentication, authorization and audit controls in Hadoop. Use Cases for Data-centric Security in Hadoop How it works: Find out how Hadoop deployments are rolled out with data-centric protection in place. This customer case-driven talk presents technical and business specifics around 4-5 recent Hadoop deployments in pharma, healthcare insurance, telecommunications, and retail. It includes what you need to know, how to get started, what the deployments look like, and options for integration with Hive, Sqoop, MapReduce and other Hadoop specific interfaces in these multi-platform Enterprise environments. Reiner Kappenberger is Senior Director of Product Management at HP Security Voltage, with over 20 years of computer software industry experience focusing on encryption and security for Big Data environments. His background ranges from device management in the telecommunications sector to GIS and database systems. He holds a Diploma from the FH Regensburg, Germany in computer science.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-securing-hadoop-data-use-cases-for-data-centric-security-in-hadoop-event.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-securing-hadoop-data-use-cases-for-data-centric-security-in-hadoop-event.json",
+    "source_id": "bythebay-20260508-san-francisco-hadoop-users-securing-hadoop-data-use-cases-for-data-centric-security-in-hadoop-event",
+    "speakers": [],
+    "title": "Securing Hadoop Data / Use Cases for Data-centric Security in Hadoop"
+  },
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-securing-hadoop-data-use-cases-for-data-centric-security-in-hadoop-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/220286707/"
+}

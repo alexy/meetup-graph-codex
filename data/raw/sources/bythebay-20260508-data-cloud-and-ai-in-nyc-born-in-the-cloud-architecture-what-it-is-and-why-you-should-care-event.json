@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-11-04T17:30:00-05:00",
+    "description": "Join us on November 4th to hear Yonggang Hu, Distinguished Engineer and Chief Architect talk about Born-in-the-Cloud Architecture.\n\nBigger data, complex compute requirements, and cost/resource constraints are driving organizations to use cloud infrastructure. Yet existing compute- and data-intensive applications are not often designed to take advantage of infrastructure as a service. Firms must re-architect their applications to be cloud-native or \"born-in-the cloud\". Using analytics case studies as examples, Yonggang will explain the born-in-the-cloud architecture, and the opportunities and challenges that it brings.\n\nYonggang will address the following agenda:\n- Introduction\n- Industry and Technology Context\n- Cloud Native Architecture\n- Run and Manage Cloud Native Apps\n- Use Cases and Benefits\n\nCome network, have some snacks, and enjoy a great presentation. See you there!",
+    "endTime": "2015-11-04T20:30:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/226110174/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "226110174",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Born-in-the-Cloud Architecture: What it is and Why You Should Care"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-born-in-the-cloud-architecture-what-it-is-and-why-you-should-care-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/226110174/"
+}

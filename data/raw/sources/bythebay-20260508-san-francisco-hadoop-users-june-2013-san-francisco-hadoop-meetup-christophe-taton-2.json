@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2013-06-12T18:00:00-07:00",
+    "description": "The June 2013 Hadoop meetup will be held Wednesday, June 12, from 6:00pm to 8:00pm. This meetup will be hosted by AdRoll at 972 Mission St, San Francisco, CA. Please sign in at the reception desk.\n\nThis meetup is the night before HBaseCon! In keeping with this theme, we plan to host two HBase-oriented talks. This meetup will not have an unconference portion.\n\nThe following talks will be presented:\n\n\"Real-World Use Cases of the Hadoop/HBase Synergy\"\nDerek Nelson, AdRoll\n\nCombining the batch, heavy lifting Hadoop powerhouse with the low-latency, random access capabilities of HBase can substantially empower your data infrastructure. In this talk, we discuss how several specific AdRoll services thrive on the Hadoop/HBase synergy. Namely, pairing Hadoop with HBase allows us to dynamically aggregate uniques in near real time, efficiently track conversions, and drive our recommendations platform--all in ways that scale horizontally with explosive growth in data volume.\n\n\"Under the Hood: How KijiSchema extends HBase\"\nChristophe Taton, WibiData\n\nHBase provides powerful and generic interfaces, but with great power comes great responsibility. The genericity and extent of HBase interfaces can be tricky. In particular, early designs require great care to avoid various pitfalls that may later affect the scalability and evolvability of the application. While designing such applications, we learned do's and don'ts were captured in an open-source framework named KijiSchema. KijiSchema combines several sensible and cautious design choices, with a safe, efficient, flexible and evolvable core for encoding cells and table layouts. In this talk, we will cover several design tradeoffs and internal details that we made in KijiSchema. Attendees will learn how KijiSchema can help them build powerful HBase-backed applications.",
+    "endTime": "2013-06-12T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/120561212/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "120561212",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "June 2013 San Francisco Hadoop Meetup "
+  },
+  "event_id": "120561212",
+  "event_title": "June 2013 San Francisco Hadoop Meetup",
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "session": {
+    "description": "The June 2013 Hadoop meetup will be held Wednesday, June 12, from 6:00pm to 8:00pm. This meetup will be hosted by AdRoll at 972 Mission St, San Francisco, CA. Please sign in at the reception desk. This meetup is the night before HBaseCon! In keeping with this theme, we plan to host two HBase-oriented talks. This meetup will not have an unconference portion. The following talks will be presented: \"Real-World Use Cases of the Hadoop/HBase Synergy\" Derek Nelson, AdRoll Combining the batch, heavy lifting Hadoop powerhouse with the low-latency, random access capabilities of HBase can substantially empower your data infrastructure. In this talk, we discuss how several specific AdRoll services thrive on the Hadoop/HBase synergy. Namely, pairing Hadoop with HBase allows us to dynamically aggregate uniques in near real time, efficiently track conversions, and drive our recommendations platform--all in ways that scale horizontally with explosive growth in data volume. \"Under the Hood: How KijiSchema extends HBase\" Christophe Taton, WibiData HBase provides powerful and generic interfaces, but with great power comes great responsibility. The genericity and extent of HBase interfaces can be tricky. In particular, early designs require great care to avoid various pitfalls that may later affect the scalability and evolvability of the application. While designing such applications, we learned do's and don'ts were captured in an open-source framework named KijiSchema. KijiSchema combines several sensible and cautious design choices, with a safe, efficient, flexible and evolvable core for encoding cells and table layouts. In this talk, we will cover several design tradeoffs and internal details that we made in KijiSchema. Attendees will learn how KijiSchema can help them build powerful HBase-backed applications.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-june-2013-san-francisco-hadoop-meetup-christophe-taton-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-june-2013-san-francisco-hadoop-meetup-christophe-taton-2.json",
+    "source_id": "bythebay-20260508-san-francisco-hadoop-users-june-2013-san-francisco-hadoop-meetup-christophe-taton-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Christophe Taton"
+      },
+      {
+        "company": null,
+        "name": "Derek Nelson"
+      }
+    ],
+    "title": "June 2013 San Francisco Hadoop Meetup"
+  },
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-june-2013-san-francisco-hadoop-meetup-christophe-taton-2",
+  "source_url": "https://www.meetup.com/hadoopsf/events/120561212/"
+}

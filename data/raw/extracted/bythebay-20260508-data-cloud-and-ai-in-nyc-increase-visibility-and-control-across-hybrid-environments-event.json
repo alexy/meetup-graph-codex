@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-increase-visibility-and-control-across-hybrid-environments-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-increase-visibility-and-control-across-hybrid-environments-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-increase-visibility-and-control-across-hybrid-environments-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-increase-visibility-and-control-across-hybrid-environments-event.json",
+  "kind": "event",
+  "event_id": "311006733",
+  "event_title": "Increase visibility and control across hybrid environments",
+  "title": "Increase visibility and control across hybrid environments",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/311006733/",
+  "description": "Today's enterprise IT landscapes are complex, with diverse integrations, on-prem and multi-cloud deployments, multiple gateways, and more. Gaining control over this complexity is critical to maintaining the agility necessary to succeed. Learn how a hybrid control plane can help you manage this complexity from a single place, even when execution is distributed among multiple environments. With IBM's Hybrid Control Plane, enterprises can gain unified visibility and centralized control over multiple integration patterns — across on-prem, cloud, and hybrid environments—helping reduce silos, improve governance, and simplify operations. Attend this webinar and learn how you can: * Address issues faster - Streamline monitoring and troubleshooting, improving response times and reducing the burden on IT teams * Accelerate time to value - Onboard and deploy integrations faster * Manage across your entire ecosystem - Gain visibility and governance across third-party tools and platforms, supporting a vendor-neutral integration strategy [Check the reg page for details and to RSVP](https://ibm.webcasts.com/starthere.jsp?ei=1726368&tp_key=0f6fd5b990&sti=developer)!",
+  "date_time": "2025-09-17T08:00:00-04:00",
+  "end_time": "2025-09-17T09:00:00-04:00"
+}

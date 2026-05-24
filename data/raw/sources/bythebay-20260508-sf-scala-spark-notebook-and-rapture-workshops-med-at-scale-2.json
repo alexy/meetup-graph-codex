@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2015-03-19T18:30:00-07:00",
+    "description": "In these two talks, we'll follow along in the REPL and Spark Notebook!\n\nAndy Petrella and Jon Pretty come all the way from Europe for ScalaDays, so we catch them at a great time.\n\nTalk 1: Spark Notebook: beefed-up REPL for reproducible distributed data analysis, Andy Petrella\n\nAbstract: \"Zoom out, zoom out, zoom out.\"\nWe've zoomed until having only two clusters of techies.\n\nFirst, the cluster of those finding Apache Spark really cool, and know that the boilerplate or integration can be boring (a sub cluster is now thinking \"True, but waaaayyy less than in Apache Hadoop\").\nSecond, those having barely no knowledge in Apache Spark.\n\nLuckily, this talk targets both. It will introduce the Spark Notebook (https://github.com/andypetrella/spark-notebook/), an easy to install and launch web application that:\n* starts Spark under the hood\n* provides a browser based sheet\n* has en extensible environment\n* enables dynamic results and easy drawings\n\nThe fun part: the talk will be using the Spark Notebook, end to end!\n\nSpeaker bio: Andy (@noootsab) is one of those guyz to be happy that the market found a name for his day to day job: Distributed Data Scientist. He has a long experience in data processing and modeling from his grades in Mathematics and CS (ULg, Belgium) to his later participation to big data oriented projects like Virdata (Belgium), Med At Scale for genomics and others.\nAndy is hacking on distributed data, applying machine learning and leading data scientist teams, one of the reason to create the Spark Notebook.\nThe Spark Notebook is an open source web application dedicated to reproducible and shareable distributed data analyses. He's also the founder of NextLab, co-founder of Wajug, co-organizer of @Devoxx4Kids, author of the book 'Learning Play! Framework 2' and a Scala/Spark trainer. Last but most important, he's an happy husband and a proud father of two great boyz (okay the second is on his way, but likelihood is high enough to say).\n\nTalk 2: Rapture: Better Type Safety across the Seam, Jon Pretty\n\nAs Scala developers, we love the power and confidence that type-safety gives us. However, this happy typesafe world often only arises after transitioning from a typeless context such as user input or a JSON file. Rapture provides a modular family of libraries for making this leap across the dynamic/static seam, for JSON and XML, working with I/O, command line processing, encryption and HTTP, designed primarily to be intuitive and boilerplate-free, with useful diagnostics at runtime and compile time, but without compromising on type safety. Jon will explore Rapture's features and philosophy, and demo the ease of use and safety it offers for everyday programming tasks.\n\nMini-bio: Jon has been involved in the Scala community for the last ten years, having launched the first commercial and open-source Scala software back in 2005. Since then, he has successfully deployed Scala projects into small, medium and large businesses, and UK government, but is best known these days for his work on Rapture, and more recently Typelevel Scala.",
+    "endTime": "2015-03-19T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/220522086/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "220522086",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Spark Notebook and Rapture Workshops"
+  },
+  "event_id": "220522086",
+  "event_title": "Spark Notebook and Rapture Workshops",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "In these two talks, we'll follow along in the REPL and Spark Notebook! Andy Petrella and Jon Pretty come all the way from Europe for ScalaDays, so we catch them at a great time. Talk 1: Spark Notebook: beefed-up REPL for reproducible distributed data analysis, Andy Petrella Abstract: \"Zoom out, zoom out, zoom out.\" We've zoomed until having only two clusters of techies. First, the cluster of those finding Apache Spark really cool, and know that the boilerplate or integration can be boring (a sub cluster is now thinking \"True, but waaaayyy less than in Apache Hadoop\"). Second, those having barely no knowledge in Apache Spark. Luckily, this talk targets both. It will introduce the Spark Notebook (https://github.com/andypetrella/spark-notebook/), an easy to install and launch web application that: * starts Spark under the hood * provides a browser based sheet * has en extensible environment * enables dynamic results and easy drawings The fun part: the talk will be using the Spark Notebook, end to end! Speaker bio: Andy (@noootsab) is one of those guyz to be happy that the market found a name for his day to day job: Distributed Data Scientist. He has a long experience in data processing and modeling from his grades in Mathematics and CS (ULg, Belgium) to his later participation to big data oriented projects like Virdata (Belgium), Med At Scale for genomics and others. Andy is hacking on distributed data, applying machine learning and leading data scientist teams, one of the reason to create the Spark Notebook. The Spark Notebook is an open source web application dedicated to reproducible and shareable distributed data analyses. He's also the founder of NextLab, co-founder of Wajug, co-organizer of @Devoxx4Kids, author of the book 'Learning Play! Framework 2' and a Scala/Spark trainer. Last but most important, he's an happy husband and a proud father of two great boyz (okay the second is on his way, but likelihood is high enough to say). Talk 2: Rapture: Better Type Safety across the Seam, Jon Pretty As Scala developers, we love the power and confidence that type-safety gives us. However, this happy typesafe world often only arises after transitioning from a typeless context such as user input or a JSON file. Rapture provides a modular family of libraries for making this leap across the dynamic/static seam, for JSON and XML, working with I/O, command line processing, encryption and HTTP, designed primarily to be intuitive and boilerplate-free, with useful diagnostics at runtime and compile time, but without compromising on type safety. Jon will explore Rapture's features and philosophy, and demo the ease of use and safety it offers for everyday programming tasks. Mini-bio: Jon has been involved in the Scala community for the last ten years, having launched the first commercial and open-source Scala software back in 2005. Since then, he has successfully deployed Scala projects into small, medium and large businesses, and UK government, but is best known these days for his work on Rapture, and more recently Typelevel Scala.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-spark-notebook-and-rapture-workshops-med-at-scale-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-spark-notebook-and-rapture-workshops-med-at-scale-2.json",
+    "source_id": "bythebay-20260508-sf-scala-spark-notebook-and-rapture-workshops-med-at-scale-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Med At Scale"
+      }
+    ],
+    "title": "Spark Notebook and Rapture Workshops"
+  },
+  "source_id": "bythebay-20260508-sf-scala-spark-notebook-and-rapture-workshops-med-at-scale-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/220522086/"
+}

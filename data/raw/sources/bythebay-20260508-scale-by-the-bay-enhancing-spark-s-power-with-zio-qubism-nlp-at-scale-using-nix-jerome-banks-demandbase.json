@@ -1,0 +1,51 @@
+{
+  "event": {
+    "dateTime": "2020-03-26T18:00:00-07:00",
+    "description": "Please RSVP at SF Scala meetup: https://www.meetup.com/SF-Scala/events/268998404/?isFirstPublish=true\n\nSF Scala Meetup on March 26th, 2020:\n\n3 Great talks from 3 great speakers!\n\nTalk1: \"Enhancing Spark's Power with ZIO\" by Leo Benkel\n\nSummary:\nCombining ZIO/Future with Spark can drastically speed up the performance of your ML projects, as data sources can be fetched in parallel without holding up computation. Obviously ZIO is much better than Future, but it can be challenging to set up. Leo will present some benchmark results, then discuss how his open-source library handles all boilerplate issues so you can easily implement Spark and ZIO in your ML projects!\n\nBio:\nLeo Benkel grew up in France and has been living in San Francisco for the last 10 years. He is passionate about functional programming and teaches Scala at Demandbase. He enjoys designing/architecting libraries and software products. Simply, Leo loves exploring where nobody has ever been before and working with teams that want to create the \"possible\" out of the \"improbable\". His draw to exploration and adventure also carry over to life outside of work. When he’s not working, Leo enjoys video games, movies, TV shows, board games, traveling, and eating/cooking good food.\n\nTalk2: \"Qubism and NLP at Scale with Scala\" by Jerome Banks\n\nSummary:\nQubism is a library of design patterns that focus on data aggregations and OLAP-like “cube” data. Cubism is implemented in Scala and Spark, and leverages XUnit and YPath strings to slice-and-dice segments for aggregations. This allows rows to be exploded in a map phase, annotated in a shuffle/sort phase, and then aggregated in a reduce phase. Jerome will discuss how Qubism is used to handle large-scale NLP tasks behind Demandbase’s intent solution.\n\nBio:\nJerome Banks is a Principal Big Data Engineer with Demandbase. He works on big data solutions that include web-traffic engagement and intent. He developed Cubism to tackle large-scale data aggregations like the ones that power Demandbase's Account-Based Marketing Platform.\n\nTalk 3: \"Using Nix for Haskell development\" by John Wiegley\n\nSummary:\nNix provides a great way to isolate development environments for particular projects, no matter what language or tools they require. In this talk we'll look especially at how Nix can aid in Haskell project development, even in cases where you might need different versions of the compiler for different projects.\n\nExample nix files for a variety of languages can be found here: https://github.com/jwiegley/hello\n\nBio:\nJohn Wiegley started his career working on compiler front-ends, linkers and debuggers, and have been doing so in the C++ community for almost 25 years. He switched to functional programming, where he works on a variety of Haskell projects, including theoretical research using the Coq proof assistant. These avenues led him to the beauty of maths, and study of category theory and abstract algebra, learning how to apply them to better engineering design.\n\nAgenda\n\n6pm: Welcome to SF Scala by Salar Rahmanian\n6:10pm: \"Enhancing Spark's Power with ZIO\" by Leo Benkel\n6:50pm: \"Qubism and NLP at Scale with Scala\" by Jerome Banks\n7:30pm: \"Using Nix for Haskell development\" by John Wiegley\n8:15: Announcements",
+    "endTime": "2020-03-26T21:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/bythebay/events/268998983/",
+    "group": {
+      "id": "18748975",
+      "name": "Scale By the Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "268998983",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[RSVP @ SFScala]Enhancing Spark's Power with ZIO,Qubism & NLP at Scale,Using Nix"
+  },
+  "event_id": "268998983",
+  "event_title": "[RSVP @ SFScala]Enhancing Spark's Power with ZIO,Qubism & NLP at Scale,Using Nix",
+  "meetup_id": "meetup:18748975",
+  "meetup_name": "Scale By the Bay",
+  "meetup_url": "https://www.meetup.com/bythebay/events/?type=past",
+  "session": {
+    "description": "Please RSVP at SF Scala meetup: https://www.meetup.com/SF-Scala/events/268998404/?isFirstPublish=true SF Scala Meetup on March 26th, 2020: 3 Great talks from 3 great speakers! Talk1: \"Enhancing Spark's Power with ZIO\" by Leo Benkel Summary: Combining ZIO/Future with Spark can drastically speed up the performance of your ML projects, as data sources can be fetched in parallel without holding up computation. Obviously ZIO is much better than Future, but it can be challenging to set up. Leo will present some benchmark results, then discuss how his open-source library handles all boilerplate issues so you can easily implement Spark and ZIO in your ML projects! Bio: Leo Benkel grew up in France and has been living in San Francisco for the last 10 years. He is passionate about functional programming and teaches Scala at Demandbase. He enjoys designing/architecting libraries and software products. Simply, Leo loves exploring where nobody has ever been before and working with teams that want to create the \"possible\" out of the \"improbable\". His draw to exploration and adventure also carry over to life outside of work. When he’s not working, Leo enjoys video games, movies, TV shows, board games, traveling, and eating/cooking good food. Talk2: \"Qubism and NLP at Scale with Scala\" by Jerome Banks Summary: Qubism is a library of design patterns that focus on data aggregations and OLAP-like “cube” data. Cubism is implemented in Scala and Spark, and leverages XUnit and YPath strings to slice-and-dice segments for aggregations. This allows rows to be exploded in a map phase, annotated in a shuffle/sort phase, and then aggregated in a reduce phase. Jerome will discuss how Qubism is used to handle large-scale NLP tasks behind Demandbase’s intent solution. Bio: Jerome Banks is a Principal Big Data Engineer with Demandbase. He works on big data solutions that include web-traffic engagement and intent. He developed Cubism to tackle large-scale data aggregations like the ones that power Demandbase's Account-Based Marketing Platform. Talk 3: \"Using Nix for Haskell development\" by John Wiegley Summary: Nix provides a great way to isolate development environments for particular projects, no matter what language or tools they require. In this talk we'll look especially at how Nix can aid in Haskell project development, even in cases where you might need different versions of the compiler for different projects. Example nix files for a variety of languages can be found here: https://github.com/jwiegley/hello Bio: John Wiegley started his career working on compiler front-ends, linkers and debuggers, and have been doing so in the C++ community for almost 25 years. He switched to functional programming, where he works on a variety of Haskell projects, including theoretical research using the Coq proof assistant. These avenues led him to the beauty of maths, and study of category theory and abstract algebra, learning how to apply them to better engineering design. Agenda 6pm: Welcome to SF Scala by Salar Rahmanian 6:10pm: \"Enhancing Spark's Power with ZIO\" by Leo Benkel 6:50pm: \"Qubism and NLP at Scale with Scala\" by Jerome Banks 7:30pm: \"Using Nix for Haskell development\" by John Wiegley 8:15: Announcements",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scale-by-the-bay-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scale-by-the-bay-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase.json",
+    "source_id": "bythebay-20260508-scale-by-the-bay-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase",
+    "speakers": [
+      {
+        "company": "Demandbase",
+        "name": "Jerome Banks"
+      },
+      {
+        "company": null,
+        "name": "John Wiegley"
+      },
+      {
+        "company": null,
+        "name": "Leo Benkel"
+      },
+      {
+        "company": null,
+        "name": "Salar Rahmanian"
+      }
+    ],
+    "title": "Enhancing Spark's Power with ZIO,Qubism & NLP at Scale,Using Nix"
+  },
+  "source_id": "bythebay-20260508-scale-by-the-bay-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase",
+  "source_url": "https://www.meetup.com/bythebay/events/268998983/"
+}

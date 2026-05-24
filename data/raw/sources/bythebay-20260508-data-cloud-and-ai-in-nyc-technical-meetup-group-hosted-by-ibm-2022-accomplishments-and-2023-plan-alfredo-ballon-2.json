@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2022-12-14T08:00:00-05:00",
+    "description": "**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1. Repeated at two different times to accommodate various time zones, because it is**\n**2. Posted simultaneously in multiple meetup groups world-wide**\n\nJoin us as we recap the **Technical Meetup Group hosted by IBM**’s accomplishments in 2022, where we acknowledge the contributions from all our presenters and members who participated in our various sessions over the year.\n\nWe will also share our plan for 2023, describe the exciting sessions we are planning for the first quarter of the year, and will look to your input for topic ideas that you would like to suggest.\n\n**Presenters: Sonia Singh and Alfredo Ballon**\n\n**Sonia Singh, Data and AI Engagement Program Manager for the IBM Ottawa Lab**\n\nSonia is a Community Manager for the IBM Data Science and Natural Language AI communities. She also created and manages the \"**IBM Technical Meetup Group hosted by IBM**\" which hosts various technical topics on a weekly basis, and also manages the \"**Data Science & Data Engineering Community and Guild**\" internal within IBM.\n\nWith a degree in Computer Science and certifications in Project Management and Data Science, her experience includes software development, user interface design, customer research, people management, project management, operations management, data science. Her IBM tenure of 15+ years includes a Corporate Service Corps assignment in Malaysia, which provides high-performing IBMers with quality leadership development, and a more recent IBM Service Corps assignment with the Canadian Council for Aboriginal Business.\n\n**Alfredo Ballon, Briefing Consultant for the IBM Toronto Lab Client Center**\n\nAlfredo started with an Electrical Engineer degree and worked for 2 years as a design engineer at International Telephone and Telegraphs. He joined IBM Peru as a systems engineer, then managed the technical support center before moving to sales as an account manager and account executive, which led him to a sales manager position where exceeded his sales quotas for 15 consecutive years. Alfredo then moved to Canada and created the Client Center in the IBM Toronto Lab.\n\n***\n\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. [https://ibm.webex.com/ibm/j.php?RGID=ra771f3a0bc9a47eaf3ceccd89e70bfe8](https://ibm.webex.com/ibm/j.php?RGID=ra771f3a0bc9a47eaf3ceccd89e70bfe8)",
+    "endTime": "2022-12-14T09:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/289676735/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "289676735",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Technical Meetup Group hosted by IBM - 2022 Accomplishments and 2023 Plan"
+  },
+  "event_id": "289676735",
+  "event_title": "Technical Meetup Group hosted by IBM - 2022 Accomplishments and 2023 Plan",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Please join us at the session that is best suited to your time zone. Note that this topic is:** **1. Repeated at two different times to accommodate various time zones, because it is** **2. Posted simultaneously in multiple meetup groups world-wide** Join us as we recap the **Technical Meetup Group hosted by IBM**’s accomplishments in 2022, where we acknowledge the contributions from all our presenters and members who participated in our various sessions over the year. We will also share our plan for 2023, describe the exciting sessions we are planning for the first quarter of the year, and will look to your input for topic ideas that you would like to suggest. **Presenters: Sonia Singh and Alfredo Ballon** **Sonia Singh, Data and AI Engagement Program Manager for the IBM Ottawa Lab** Sonia is a Community Manager for the IBM Data Science and Natural Language AI communities. She also created and manages the \"**IBM Technical Meetup Group hosted by IBM**\" which hosts various technical topics on a weekly basis, and also manages the \"**Data Science & Data Engineering Community and Guild**\" internal within IBM. With a degree in Computer Science and certifications in Project Management and Data Science, her experience includes software development, user interface design, customer research, people management, project management, operations management, data science. Her IBM tenure of 15+ years includes a Corporate Service Corps assignment in Malaysia, which provides high-performing IBMers with quality leadership development, and a more recent IBM Service Corps assignment with the Canadian Council for Aboriginal Business. **Alfredo Ballon, Briefing Consultant for the IBM Toronto Lab Client Center** Alfredo started with an Electrical Engineer degree and worked for 2 years as a design engineer at International Telephone and Telegraphs. He joined IBM Peru as a systems engineer, then managed the technical support center before moving to sales as an account manager and account executive, which led him to a sales manager position where exceeded his sales quotas for 15 consecutive years. Alfredo then moved to Canada and created the Client Center in the IBM Toronto Lab. *** It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. [https://ibm.webex.com/ibm/j.php?RGID=ra771f3a0bc9a47eaf3ceccd89e70bfe8](https://ibm.webex.com/ibm/j.php?RGID=ra771f3a0bc9a47eaf3ceccd89e70bfe8)",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2022-accomplishments-and-2023-plan-alfredo-ballon-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2022-accomplishments-and-2023-plan-alfredo-ballon-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2022-accomplishments-and-2023-plan-alfredo-ballon-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Alfredo Ballon"
+      },
+      {
+        "company": null,
+        "name": "Alfredo Ballon Sonia Singh"
+      },
+      {
+        "company": null,
+        "name": "Sonia Singh"
+      }
+    ],
+    "title": "Technical Meetup Group hosted by IBM - 2022 Accomplishments and 2023 Plan"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2022-accomplishments-and-2023-plan-alfredo-ballon-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/289676735/"
+}

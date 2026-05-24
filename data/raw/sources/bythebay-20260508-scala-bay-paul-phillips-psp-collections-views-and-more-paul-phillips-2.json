@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2014-01-13T19:00:00-08:00",
+    "description": "Paul Phillips will talk about collections for Scala.\n\n\"Based on my extensive experience with scala collections, I'm writing my own. The focus is much tighter: immutable, performant, predictable, correct. The talk will alternate between why the scala collections manage none of those things, and how I hope to do better.\"\n\nPaul Phillips is a co-founder of Typesafe and the most prolific committer to Scala.\n\nLocation: LinkedIn\n\nSchedule:\n\n• 6:30-7:00 - networking\n\n• 7:00-7:10 - announcements etc\n\n• 7:10-~8:40 - talk\n\n• 8:40-9:00 - networking",
+    "endTime": "2014-01-13T22:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/154014822/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "154014822",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Paul Phillips, \"psp collections: views and more\""
+  },
+  "event_id": "154014822",
+  "event_title": "Paul Phillips, \"psp collections: views and more\"",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "Paul Phillips will talk about collections for Scala. \"Based on my extensive experience with scala collections, I'm writing my own. The focus is much tighter: immutable, performant, predictable, correct. The talk will alternate between why the scala collections manage none of those things, and how I hope to do better.\" Paul Phillips is a co-founder of Typesafe and the most prolific committer to Scala. Location: LinkedIn Schedule: • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips-2.json",
+    "source_id": "bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Paul Phillips"
+      }
+    ],
+    "title": "Paul Phillips, \"psp collections: views and more\""
+  },
+  "source_id": "bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/154014822/"
+}

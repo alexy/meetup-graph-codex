@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-09-27T18:00:00-04:00",
+    "description": "On September 27, 2016, leading minds in data and analytics will come together and unveil the latest in cloud technology, enabling you to more efficiently put data to work. Experience how Spark, Hadoop, Python, and more are being used to bring together all types of data professionals –from data engineers, to data scientists, developers and business analysts –to work in new collaborative ways.\n\nThe IBM DataFirst Launch Event will unite data and analytics leaders and practitioners from the open source community, startups, and enterprises. Check the event site (http://www.ibm.com/analytics/us/en/events/datafirst/index.html) for the latest lineup of guest speakers. The event takes place @ 6pm at the Hudson Mercantile Building, NYC.\n\nHere’s the plan:\n• The Big Reveal –Experience new ways to work for data engineers, data scientist, developers, and business analysts, both individually and collectively.\n\n•Hands-on sessions – With interactive experiences for each of these professions.\n\n•Use Cases –Community leaders and guest speakers will share their expertise and vision\n•Networking Opportunity – Food, drinks, data, collaborative demos, and a party on the rooftop\n\nLearn more here: DataFirst Launch Event\n\nCheck-in and networking begins at 6:00 PM. Food and drinks will be served. You must register for this event.\n\nTo get your ticket, and attend in person, click HERE (https://www.eventbrite.com/e/ibm-datafirst-launch-event-registration-26725283041).\n\nCan't attend in person? We'll be live streaming this event. Register for the\nLIVE STREAM (https://www.eventbrite.com/e/livestream-ibm-datafirst-launch-event-registration-26906650516) and we'll send you a calendar update and login link.\n\nNOTE - If you’re attending Strata + Hadoop World at the Jacob Javits Center, it’s a short 8-minute walk to the Hudson Mercantile Building",
+    "endTime": "2016-09-27T22:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/233694477/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "233694477",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "DataFirst Launch Event – Experience new ways to put your data to work"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-datafirst-launch-event-experience-new-ways-to-put-your-data-to-work-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/233694477/"
+}

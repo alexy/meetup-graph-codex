@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-08-20T18:30:00-07:00",
+    "description": "At Spotify we'll be hosting 2 talks.\n\nSchedule:\n\n6:30: Refreshments and mingling\n\n7:00: \"Playlist recommendations @Spotify\"\n\n7:30: \"Macros in data pipelines\"\n\n8:00: Mingling⋅\n\n\"Playlist recommendations @Spotify\"\n\nMusic recommendations on Spotify is a big part of the user experience and we recently launched personalized playlist recommendations based on user's taste and listening history. Come to hear Nikhil talking about how we use Twitter's Scalding framework to crunch terabytes of data in the form of daily and weekly pipelines.\n\nNikhil Tibrewal is a Data Engineer at Spotify. He graduated from Carnegie Mellon University in 2013 with a B.Sc. in Computer Science and an additional major in Economics. He has been with Spotify for a year and a half and has worked on a wide range of projects spanning recommendations, backend, infrastructure and data engineering.\n\n\"Macros in data pipelines\"\n\nIn this talk Neville presents how Scala Macros can be used to improve data pipeline code levering Parquet, Avro, Scalding and Spark.\n\nNeville has been working at Spotify for 4 years now and is a member of the music recommendation team. He also leads the effort of adopting various Scala frameworks and functional programming techniques for data processing.",
+    "endTime": "2015-08-20T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/224430674/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "224430674",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Playlist recommendations + Macros in data pipelines @Spotify"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-playlist-recommendations-macros-in-data-pipelines-spotify-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/224430674/"
+}

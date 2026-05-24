@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-07-24T18:30:00-07:00",
+    "description": "Scala is great for big data cleaning, gleaning, and modeling. We'll see how Identified uses it to get insights into people ranking and search.\n\nJan Prach is a Scala developer at Identified using Machine Learning and Data Mining to answer key question about people that make Identified stand out. He will overview the overall data flow and focus on several points of interest along the way, and how Scala makes it all happen.\n\nData Science is perceived to be complicated, but with the help of Scala and Scalding most patterns can be simplified to a great bit. In this talk, we will show how many common patterns in data science can be redesigned in many cases to almost a single line!\n\nVitaly Gordon is a senior data scientist on the LinkedIn Product Data Science team where he develops data products that most of you use every day. Prior to LinkedIn, Vitaly founded the data science team at LivePerson and worked in the elite 8200 unit (the Israeli equivalent of the NSA), leading a team of researchers in developing algorithms to fight terrorism. His contributions have been recognized through a number of awards including the “Life Source” award, an award given each year deemed most high-impact in saving lives. Vitaly holds a B.Sc in Computer Science and an MBA from the Israeli Institute of Technology.\n\nChris Severs works in the Search Science applied research group at eBay. Chris fell in love with Scala at first sight and has been one of the main drivers of Scala adoption at eBay. He has contributed to the Scalding and Scoobi open source projects and authored an addition to Scalding to provide support for Apache Avro. Prior to joining eBay he was a postdoctoral researcher at The Mathematical Sciences Research Institute in Berkeley and then at Reykjavík University in Iceland.",
+    "endTime": "2013-07-24T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/126427762/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "126427762",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Data Mining with Scala at Identified"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-data-mining-with-scala-at-identified-vitaly-gordon",
+  "source_url": "https://www.meetup.com/sf-scala/events/126427762/"
+}

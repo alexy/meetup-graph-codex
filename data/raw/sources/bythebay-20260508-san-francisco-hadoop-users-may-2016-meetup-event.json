@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-05-03T18:00:00-07:00",
+    "description": "Join us for two tech talks in June at the great AWS loft on Market St.\n\nAgenda:\n6-630 Food, Drinks & Networking\n630-715 Apache Impala (Incubating) Performance Update\n715-8 Leveraging Shared Cache at Twitter\n\nTech Talk #1: Apache Impala Performance Update\n\nCloudera’s performance engineering team recently completed a new round of benchmark testing based on Impala 2.5 and the most recent stable releases of the major SQL engine options for the Apache Hadoop platform, including Apache Hive-on-Tez and Apache Spark/Spark SQL. This presentation explains the methodology and results.\n\nMostafa Mokhtar, Software Engineer at Cloudera\n\nTech Talk #2: Leveraging Shared Cache at Twitter\n\nThe YARN shared cache is a feature that aims to reduce the overhead of resource localization without requiring application developers to coordinate manually. Leveraging the shared cache, applications can securely share resources localized by a different application or even a different user. In this talk, we will give an overview of the shared cache architecture and a solid foundation for developers who want to build YARN applications that leverage this feature. Additionally, we will discuss some of the benefits we have seen from using the shared cache at Twitter.\n\nChris Trezzo, Software Engineer at TwitterChris is currently a software engineer on the core Hadoop team at Twitter. He is an active contributor to Apache Hadoop and enjoys working with all aspects of the Hadoop ecosystem.\n\nNotes: Location is closest to Powell St. BART station",
+    "endTime": "2016-05-03T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/229848416/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "229848416",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "May 2016 Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-may-2016-meetup-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/229848416/"
+}

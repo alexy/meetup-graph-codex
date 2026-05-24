@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-11-08T18:30:00-08:00",
+    "description": "We are grateful to Oracle for welcoming us to their Oakland Scala space! Oracle is a presenter at the upcoming Scale By the Bay conference on Reactive Java programming -- https://sched.co/FmEf. Reserve your seat at http://scale.bythebay.io/tickets.html by 10/31 when the regular admissions end, and use the code SFSCALA15 to get 15% off!\n\nWe have three talks today -- amazing deep dives into key strengths of Scala. Buckle up for a journey through the clouds along the full stack!\n-----\n\n(1) Building Cloud Services with Akka and Scala\n\nOracle is building a next generation cloud and we will talk about our architectural decisions around Scala.\n\nSpeaker: Grant Gavares\n\nGrant worked as a core staff member on the development of AWS Cloud Services. He now works as an architect with Oracle Cloud Infrastructure.\n\n(2) Scala & Functional Microservices\n\nFunctional Programming and the Declarative style are popular paradigms for writing stable, high-quality code without the use of mutable state. When designing Microservices, however, developers sometimes forget that data persistence can also be immutable. In this talk we'll see how your microservices data layer can benefit from the functional approach.\n\nSpeaker: Jason Swartz\n\nJason is an engineer building high-performance GraphQL edge services at Twitch in San Francisco. He's previously worked in Scala at Mesosphere and Netflix, and is the author of the O'Reilly Media book \"Learning Scala\".\n\n(3) Slinky: a typesafe Scala interface to React\n\nSlinky (https://slinky.shadaj.me) is a typesafe Scala interface to React. By combining the advanced language features offered by Scala with the powerful abstractions from React, Slinky makes it easy to develop large web applications as sets of composable components. In this talk, we will see how Slinky can be used in a variety of contexts and also take a look into how it works internally.\n\nSpeaker: Shadaj Laddad\n\nShadaj is currently a student at UC Berkeley studying Electrical Engineering and Computer Science. He has interned at Apollo, Khan Academy, Coursera, and Paya Labs working with technologies such as GraphQL, React.js, and Scala.js to develop open-source frameworks and education platforms. Shadaj hosts many open-source libraries and projects on GitHub, and has presented at OSCON 2014, Scala Days (2012 - 2018), Scala By the Bay, and the Bay Area Scala Enthusiasts.",
+    "endTime": "2018-11-08T20:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/255950651/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "255950651",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Building Cloud Services w/ Akka and Scala"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices",
+  "source_url": "https://www.meetup.com/sf-scala/events/255950651/"
+}

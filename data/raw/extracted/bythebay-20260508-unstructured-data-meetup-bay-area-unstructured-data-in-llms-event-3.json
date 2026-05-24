@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-3",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-3",
+  "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-3.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-3.json",
+  "kind": "talk",
+  "event_id": "296321063",
+  "event_title": "Unstructured Data in LLMs",
+  "title": "Unstructured Data in LLMs",
+  "conference_id": "meetup:36468260",
+  "meetup_id": "meetup:36468260",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/unstructured-data-sf/events/296321063/",
+  "description": "This is an in-person event! Registration [using this form](https://lu.ma/nmqqrpbx) is required in order to get in. Github will email you a form the day before the event, which you will need to complete for your access pass. **Topic:** Connecting your unstructured data with Generative AI **What we’ll do:** Have some food and refreshments. Hear three exciting talks about unstructured data and generative AI with images. 5:30 - 6:30 - Welcome/Networking/Registration 6:35 - 7:00 - [Mihail Eric](https://www.linkedin.com/in/mihaileric/), Founder, [Storia.ai](https://www.storia.ai/) 7:05 - 7:30 - [Jacob Marks](https://www.linkedin.com/in/jacob-marks/), MLE/DevEvangelist, [Voxel51](http://voxel51/) 7:35 - 8:00 - [Josh Reini](https://www.linkedin.com/in/josh-reini/), Data Scientist/DevRel, [TruEra](https://truera.com/) 8:00 - 8:30 - Networking **Who Should attend:** Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. **When:** November 14th, 2023 5:30PM **Where:** This is an in-person event. Registration [using this form](https://lu.ma/nmqqrpbx) is required to get into the event. Registration in advance will close the day before the event. Sponsored by [Zilliz](http://zilliz.com/) maintainers of [Milvus](https://github.com/milvus-io/milvus). **Tech Talk 2: Using Vector Search to Better Understand Computer Vision Data** **Speaker**: Jacob Marks, MLE/DevEvangelist, Voxel51 **Abstract**: These days, the most popular use case of vector search is retrieval augmented generation (RAG), giving large language models relevant context with which to generate text or code. But did you know that vector search is also an incredibly powerful tool for visual data understanding? In this talk, you will learn how to combine vector search engines with the FiftyOne open source computer vision library for unstructured data curation and visualization, so you can interactively explore and find hidden structure in your data. From standard applications like similarity search and reverse image search, to multimodal applications such as semantic search and concept interpolation, you’ll see your data like never before. **Tech Talk 3: Evaluating Multimodal RAGs in practice** **Speaker**: Josh Reini, Data Scientist/DevRel, TruEra **Abstract**: How do you evaluate multimodal RAGs? The RAG triangle of evals still applies! In multimodal RAGs, we often start with an image as our initial query. Think of a RAG that uses similar x-ray images to recommend a likely diagnosis. To measure our retrieval quality, we can measure the embedding similarity between the query image and retrieved images. In this example, after retrieving images, we will take the linked diagnoses to each X-ray to pass to our LLM. For groundedness, we can use our standard text-based evaluations to measure the entailment of the LLM's diagnosis. Last, we can use answer relevance to ensure the provided diagnosis is relevant to the user's request.",
+  "date_time": "2023-11-14T17:30:00-08:00",
+  "end_time": "2023-11-14T19:30:00-08:00"
+}

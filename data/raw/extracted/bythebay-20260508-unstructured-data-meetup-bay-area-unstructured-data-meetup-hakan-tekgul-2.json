@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-hakan-tekgul-2",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-hakan-tekgul-2",
+  "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-hakan-tekgul-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-hakan-tekgul-2.json",
+  "kind": "talk",
+  "event_id": "303008570",
+  "event_title": "Unstructured Data Meetup",
+  "title": "Unstructured Data Meetup",
+  "conference_id": "meetup:36468260",
+  "meetup_id": "meetup:36468260",
+  "speaker_text": "Hakan Tekgul",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/unstructured-data-sf/events/303008570/",
+  "description": "This is an in-person event! [Registration](https://lu.ma/k16hixaf) is required in order to get in. Github will email you a form the day before the event, which you will need to complete for your access pass. **Topic:** Connecting your unstructured data with Generative AI **What we’ll do:** Have some food and refreshments. Hear three exciting talks about unstructured data and generative AI. 5:30 - 6:00 - Welcome/Networking/Registration 6:05 - 6:30 - [Hakan Tekgul](https://www.linkedin.com/in/hakantekgul/), Evaluating RAG pipelines built on unstructured data 6:35 - 7:00 - [James Luan](https://www.linkedin.com/in/xiaofan-james-luan-37012872/), Milvus 7:05 - 7:30 - [Max Mathys](https://www.linkedin.com/in/max-mathys/), Gandalf: Insights from the World's Largest Red Team 7:35 - 7:45 - Community demo 7:45 - 8:30 - Networking **Tech Talk 1:** Evaluating RAG pipelines built on unstructured data **Speaker:** Hakan Tekgul, Arize **Abstract:** This talk will cover different techniques for evaluating a RAG pipeline built on unstructured data. Standing up a basic RAG pipeline is becoming easier every day, however identifying weak points in your application or dataset remains a challenge. We'll review how you can use traditional assertion-based evaluation techniques, LLM-as-a-Judge approaches, and embedding visualization tools to improve your pipeline using Arize Phoenix. **Tech Talk 3:** Gandalf: Insights from the World's Largest Red Team **Speaker**: Max Mathys, ML Engineer, Lakera AI **Abstract**: Gandalf is a challenge where people can attack LLMs with prompt attack techniques. It has been played by 7M+ players and recorded 10M+ successful attacks against LLMs. This talk analyses different types of attacks that actual players came up with and how you should defend against these attacks. **Who Should attend:** Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. **When:** Nov 19, 2024 5:30PM **Where:** This is an in-person event. Registration [using this form](https://lu.ma/k16hixaf) is required to get into the event. Registration in advance will close 2 days before the event. Sponsored by [Zilliz](http://zilliz.com/) (maintainers of [Milvus](https://github.com/milvus-io/milvus)) and [Arize](https://arize.com/).",
+  "date_time": "2024-11-19T17:30:00-08:00",
+  "end_time": "2024-11-19T20:30:00-08:00"
+}

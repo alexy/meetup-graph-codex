@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2014-03-24T18:30:00-07:00",
+    "description": "You may be scared of scalaz, but it's changing. Scalaz Streams is a way to combine streams and processes in a light-weight mode.\n\nDick Wall is a founder of Scala Bay.\n\nLocation: Box\n\nSchedule:\n\n• 6:30-7:00 - networking\n\n• 7:00-7:10 - announcements etc\n\n• 7:10-~8:40 - talk\n\n• 8:40-9:00 - networking",
+    "endTime": "2014-03-24T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/169514012/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "169514012",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "ScalaZ Streams and the Real World"
+  },
+  "event_id": "169514012",
+  "event_title": "ScalaZ Streams and the Real World",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "You may be scared of scalaz, but it's changing. Scalaz Streams is a way to combine streams and processes in a light-weight mode. Dick Wall is a founder of Scala Bay. Location: Box Schedule: • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-scalaz-streams-and-the-real-world-dick-wall-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-scalaz-streams-and-the-real-world-dick-wall-2.json",
+    "source_id": "bythebay-20260508-scala-bay-scalaz-streams-and-the-real-world-dick-wall-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Dick Wall"
+      }
+    ],
+    "title": "ScalaZ Streams and the Real World"
+  },
+  "source_id": "bythebay-20260508-scala-bay-scalaz-streams-and-the-real-world-dick-wall-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/169514012/"
+}

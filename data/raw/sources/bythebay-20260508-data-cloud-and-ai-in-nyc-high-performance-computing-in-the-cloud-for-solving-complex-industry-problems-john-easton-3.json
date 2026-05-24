@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-08-17T15:30:00-04:00",
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.**\nWhile both cloud computing and high performance computing (HPC) are mature domains with decades of history between them, the intersection between these two is still in its infancy.\n\nHPC is used in industries as diverse as finance, life sciences, automotive and electronic design. Cloud is used by pretty much everyone (whether they realise it or not!). As organisations increasingly look to clouds as a means of fulfilling their growing HPC demands, a variety of new use cases are starting to emerge.\n\nThis session will build upon the experiences of a number of organisations in different industry sectors; finance, automotive, electronics and academic research; who are creating hybrid HPC environments. We will explore and explain some of the technical (and business) challenges to be overcome and the ways that these can be addressed. We will further look to how this space will continue to evolve as new computing paradigms also start to play their role.\n\n**Presenter: John Easton**\n\nJohn is an IBM Distinguished Engineer currently leading a team of technical professionals helping large enterprise clients on their journeys to successful cloud computing. He is internationally known for his work helping commercial clients exploit large scale distributed computing infrastructures, particularly those utilising new and emerging technologies.\n\nHe has worked with clients in a wide range of industries with a particular focus on banks and financial markets firms. He also has significant experience in the telecommunications sector. Previous to his many cloud computing roles for IBM, John led a pan-European team building infrastructures to support client big data and advanced analytical workloads.\n\nOver his time at IBM, John has led initiatives around hybrid systems, computational acceleration, grid computing, energy efficiency and mission-critical systems. John is a member of the IBM Academy of Technology and a Fellow of both the Institute for Engineering and Technology and the British Computer Society.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r57813a72ba288b574139303e420efc7c](https://ibm.webex.com/weblink/register/r57813a72ba288b574139303e420efc7c)**",
+    "endTime": "2023-08-17T16:30:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/293995293/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "293995293",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "High Performance Computing in the cloud for solving complex industry problems"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-high-performance-computing-in-the-cloud-for-solving-complex-industry-problems-john-easton-3",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/293995293/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-09-12T18:30:00-07:00",
+    "description": "Please tweet panel questions and ideas with hashtag #scala2018\n\nMeetup attendees must have their full legal name in their meetup account for the RSVP. We will need this for building security to let everyone into the event.\n\nRod Johnson has made a splash in the Scala community with his ScalaDays 2013 keynote in New York. He listed examples of Scala being opaque and hardcore FP folks communicating in Haskell as an obstacle to widespread adoption, and called for stability and understanding of \"the average programmer.\" Rod pointed to the qualities of Java which keep it the mainstay programming language. The community response varied. We gather a panel of experienced Scala practitioners to debate Rod's keynote ideas with Rod himself!\n\nModerator:\n\nAlexy Khrabrov, SF Scala organizer, founder of Scala FunConf (@khrabrov, https://github.com/alexy )\n\nPanelists:\n\n• James Earl Douglas, co-founder of Versal, speaker at ScalaDays, creator of multiple open-source FP treasures (@jearldouglas, github.com/jamesearldouglas (https://github.com/JamesEarlDouglas))\n\n• Brian McKenna, Senior R&D Engineer at Precog, creator of FP delights (@puffnfresh,  https://github.com/puffnfresh )\n\n• Paul Snively (https://qconnewyork.com/user/334) (@psnively, https://github.com/psnively )\n\n• Ity Kaul, Engineering Lead at Twitter; Scala evangelist (@ity, https://github.com/ity )\n\n• Jorge Ortiz, Software Engineer at Foursquare, long-time Scala enthusiast (@jorgeo, https://github.com/jorgeortiz85 )\n\nThe panel questions will be a combination of the moderator, panelists, audience, and meetup member questions. If you have a question for Rod and the panel, please ask it here as a comment. Separately, please take your time and upvote the best questions by liking them and not liking the others. We'll use the most-liked questions in the panel.\n\nPizza and beer starts at 6:30. The panel begins at 7pm sharp.",
+    "endTime": "2013-09-12T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/133127802/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "133127802",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala in 2018: A Panel with Rod Johnson"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-scala-in-2018-a-panel-with-rod-johnson-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/133127802/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-01-05T18:30:00-08:00",
+    "description": "The Simple Build Tool offers a new way to configure builds systems, starting with the basic concepts of key-value pairs and moving to configuration axis and plugins. The Simple Build tool is a powerful abstraction based on solid functional practices.\n\nThis talk covers the basic abstractions used in Simple Build tool and offers \"cookbook\" recipes for how to accomplish common tasks within the standard configuration for projects.\n\nJosh Suereth is a Senior Software Engineer at Typesafe and the author of \"Scala In Depth\". He has been a Scala enthusiast since 2007. He started his professional career as a software developer in 2004 using programming languages like C++, Perl and Java. He introduced Scala into his company code base first in 2007 and soon after he was infected by Scala fever, contributing to the Scala IDE, maven-scala-plugin and Scala itself. In 2009 he began writing the book \"Scala In Depth\" which provides practical support for using Scala in every day applications. Josh has most recently been modifying the build for Scala to use SBT.\n\nOne or two free copies of IntelliJ IDEA will be given away for personal use. Two free PDF copies of \"Actors in Scala (http://www.artima.com/shop/actors_in_scala)\" by Philipp Haller and Frank Sommers and published by Artima will also be given away.\n\nPlease RSVP, and update your RSVP if you cannot go. Josh presented this same topic the previous day to the SF Scala (http://www.meetup.com/SF-Scala/events/44582202/) group, and it was recorded.\n\nWe will be in the Unite room on the 2nd floor\n\n6:30 - Pizza, beer and networking\n\n7:00 - Presentation and Q&A\n\n9:00 - More networking\n\n9:30 - Time to leave",
+    "endTime": "2012-01-05T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/44582312/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "44582312",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Josh Suereth - SBT Introduction and Cookbook"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-josh-suereth-sbt-introduction-and-cookbook-frank-sommers",
+  "source_url": "https://www.meetup.com/scala-bay/events/44582312/"
+}

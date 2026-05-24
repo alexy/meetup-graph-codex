@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2018-09-11T18:00:00-07:00",
+    "description": "Scala compiler plugins: what are they, how do they work, what can they do? What plugins are popular? You’re probably already using some, perhaps without knowing it. First we’ll survey the plugin landscape, then in the second half of the talk, you’ll learn how to write your own plugin.\n\nSpeaker Bio:\n\nSeth Tisue (https://www.linkedin.com/in/sethtisue/) has been a member of the Scala team at Lightbend since 2015. His main interests are compilers and interpreters, functional programming, and open-source software. Seth has been active in the Scala community since 2008, in venues such as the Scalawags podcast, the Northeast Scala Symposium, and everywhere people talk about Scala online. Before joining Lightbend, Seth used Scala to build the compiler and other tools for NetLogo, an open-source programming language for kids, teachers, and scientists.\n\nAgenda\n\n6pm - Event Starts with networking, Food\n6.30pm - Welcome to SF Scala hosted by Salar Rahmanian\n6.35pm - Scala Compiler Plugins 101 Talk by Seth Tisue\n7.30pm - Announcements\n7.45pm - Networking, Food",
+    "endTime": "2018-09-11T20:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/254191025/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "254191025",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala Compiler Plugins 101"
+  },
+  "event_id": "254191025",
+  "event_title": "Scala Compiler Plugins 101",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "Scala compiler plugins: what are they, how do they work, what can they do? What plugins are popular? You’re probably already using some, perhaps without knowing it. First we’ll survey the plugin landscape, then in the second half of the talk, you’ll learn how to write your own plugin. Speaker Bio: Seth Tisue (https://www.linkedin.com/in/sethtisue/) has been a member of the Scala team at Lightbend since 2015. His main interests are compilers and interpreters, functional programming, and open-source software. Seth has been active in the Scala community since 2008, in venues such as the Scalawags podcast, the Northeast Scala Symposium, and everywhere people talk about Scala online. Before joining Lightbend, Seth used Scala to build the compiler and other tools for NetLogo, an open-source programming language for kids, teachers, and scientists. Agenda 6pm - Event Starts with networking, Food 6.30pm - Welcome to SF Scala hosted by Salar Rahmanian 6.35pm - Scala Compiler Plugins 101 Talk by Seth Tisue 7.30pm - Announcements 7.45pm - Networking, Food",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scala-compiler-plugins-101-salar-rahmanian-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scala-compiler-plugins-101-salar-rahmanian-2.json",
+    "source_id": "bythebay-20260508-sf-scala-scala-compiler-plugins-101-salar-rahmanian-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Salar Rahmanian"
+      },
+      {
+        "company": null,
+        "name": "Seth Tisue"
+      }
+    ],
+    "title": "Scala Compiler Plugins 101"
+  },
+  "source_id": "bythebay-20260508-sf-scala-scala-compiler-plugins-101-salar-rahmanian-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/254191025/"
+}

@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2023-11-15T08:00:00-05:00",
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.**\nThe cloud offers more than just a bucket for data and applications to be delivered “as a service.” Isolated virtual environments, air gap gateways, recovery tools, virtual networking, immutable storage, clean rooms, and new security tools such as scanners and AI are all a part of the next generation of cyber security solutions against advanced threats.\n\nThis session will explore real use cases and VMware client examples of how these tools can be used and, in some cases, combined to augment existing security strategies against ransomware and the new regulations and compliance requirements.\n\n**Presenter: Ana** **Biazetti, David Mitchell**\n\n**Ana Biazetti** is a Distinguished Engineer at IBM who is passionate about developing cutting edge technology solutions that address real world problems. She is a Chief Architect at the IBM Cloud for Financial Services CTO team and helps Banks and Financial Institutions bring their regulated workloads to Hybrid Cloud while fulfilling their resilience, security and compliance requirements.\nWith her extensive experience in software development, dev/sec/ops and cloud solutions, she has implemented High Availability, Disaster Recovery and Continuous Availability across many products and solutions and has been recently focused on Operational Resilience and Cyber Resilience capabilities for Hybrid Cloud.\n\n**David Mitchell** is currently a Senior Product Manager for IBM Cloud Global Solutions and has three decades of successful experience in product management for technology and security companies worldwide. David specializes in new and emerging cybersecurity technologies and regularly sets data protection strategies for financial and government organizations.\nA strong believer in the power of design thinking and customer perspective, David leads the cyber resilience strategy for IBM Cloud. David enjoys creating music, watching the latest binge, and mountain biking when he can.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r99caf7f3b1005925ffe08d3a5ecc6365](https://ibm.webex.com/weblink/register/r99caf7f3b1005925ffe08d3a5ecc6365)**",
+    "endTime": "2023-11-15T09:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/296236744/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "296236744",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "The Cyber Cloud - Next Steps for Augmenting Cyber Security with The Cloud"
+  },
+  "event_id": "296236744",
+  "event_title": "The Cyber Cloud - Next Steps for Augmenting Cyber Security with The Cloud",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.** The cloud offers more than just a bucket for data and applications to be delivered “as a service.” Isolated virtual environments, air gap gateways, recovery tools, virtual networking, immutable storage, clean rooms, and new security tools such as scanners and AI are all a part of the next generation of cyber security solutions against advanced threats. This session will explore real use cases and VMware client examples of how these tools can be used and, in some cases, combined to augment existing security strategies against ransomware and the new regulations and compliance requirements. **Presenter: Ana** **Biazetti, David Mitchell** **Ana Biazetti** is a Distinguished Engineer at IBM who is passionate about developing cutting edge technology solutions that address real world problems. She is a Chief Architect at the IBM Cloud for Financial Services CTO team and helps Banks and Financial Institutions bring their regulated workloads to Hybrid Cloud while fulfilling their resilience, security and compliance requirements. With her extensive experience in software development, dev/sec/ops and cloud solutions, she has implemented High Availability, Disaster Recovery and Continuous Availability across many products and solutions and has been recently focused on Operational Resilience and Cyber Resilience capabilities for Hybrid Cloud. **David Mitchell** is currently a Senior Product Manager for IBM Cloud Global Solutions and has three decades of successful experience in product management for technology and security companies worldwide. David specializes in new and emerging cybersecurity technologies and regularly sets data protection strategies for financial and government organizations. A strong believer in the power of design thinking and customer perspective, David leads the cyber resilience strategy for IBM Cloud. David enjoys creating music, watching the latest binge, and mountain biking when he can. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r99caf7f3b1005925ffe08d3a5ecc6365](https://ibm.webex.com/weblink/register/r99caf7f3b1005925ffe08d3a5ecc6365)**",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-the-cyber-cloud-next-steps-for-augmenting-cyber-security-with-the-cloud-ana-biazetti-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-the-cyber-cloud-next-steps-for-augmenting-cyber-security-with-the-cloud-ana-biazetti-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-the-cyber-cloud-next-steps-for-augmenting-cyber-security-with-the-cloud-ana-biazetti-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Ana Biazetti"
+      },
+      {
+        "company": null,
+        "name": "David Mitchell"
+      },
+      {
+        "company": null,
+        "name": "David Mitchell Ana Biazetti"
+      }
+    ],
+    "title": "The Cyber Cloud - Next Steps for Augmenting Cyber Security with The Cloud"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-the-cyber-cloud-next-steps-for-augmenting-cyber-security-with-the-cloud-ana-biazetti-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/296236744/"
+}

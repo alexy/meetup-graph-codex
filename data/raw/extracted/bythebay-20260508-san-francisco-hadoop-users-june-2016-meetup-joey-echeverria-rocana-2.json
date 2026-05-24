@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana-2",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana-2",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana-2.json",
+  "kind": "talk",
+  "event_id": "230691040",
+  "event_title": "June 2016 Meetup",
+  "title": "June 2016 Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": "Joey Echeverria @ Rocana, O’Reilly Media",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/230691040/",
+  "description": "To expedite check-in, please make it a priority to add your name to the GA list please: https://generalassemb.ly/education/sf-hadoop-users-meetup/san-francisco/25069",
+  "date_time": "2016-06-14T18:00:00-07:00",
+  "end_time": "2016-06-14T21:00:00-07:00"
+}

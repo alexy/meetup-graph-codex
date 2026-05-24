@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2022-10-18T17:00:00-07:00",
+    "description": "Friends -- it's been a long time, but in-person meetups are coming back.\nIt's a new territory for companies and attendees, and the space is limited. Given all RSVPs are usually gone in minutes and Show/RSVP ratio is low, we will charge a nominal fee for this one, going for pizza/beer. Please manage your RSVP diligently.\n\nWe're happy to be back with our long-term friend Lukas Biewald, now the founder and CEO of Weights & Biases, at their office, and CognitiveScale.\n\n**(1) Understanding the Landscape of the Latest Large Models**\n\nThere seems to be a new large ML model grabbing headlines every week.\nWhether it’s OpenAI’s big releases like GPT-3, Dalle-2 or Whisper, or one of the many open source projects generating state-of-the-art models, like Stable Diffusion, OpenFold or Craiyon, these models have found their way into the mainstream. Lukas invites you to the W&B office where he’ll map the landscape for you and share how these teams use W&B to accelerate their work.\n\nSpeaker: **Lukas Biewald**, Founder and CEO, **Weights & Biases**\n\n**(2) AI-Powered Personalization Drives Decision Intelligence**\n\nAI-Powered Personalization drives decision intelligence through continuous learning and feedback loops. Profile-of-One, a key feature of our Cortex AI Platform allows enterprises to build a rich contextual understanding of key entities - such as customers, products, policies, claims, and providers through declared, observed and inferred data. The benefits of AI-Powered Personalization include acquiring new customers, delivering exceptional customer service, and engaging better with existing customers.\n\nSpeaker: **John Andersen** is CognitiveScale’s VP, Solutions Consulting and Architecture. He is a proven technical leader with experience in engineering, customer success, and sales. John has hands-on experience building & leading successful large-scale enterprise solutions that have scaled to millions of end users, as well as industry experience working with large enterprises to influence AI roadmaps through personalization, trusted AI, and repeatable architectural framework initiatives. Prior to John's tenure at CognitiveScale, he was part of the IBM Watson Labs team as a Technical Architect & NLP Developer focused on Embodied Cognition.\n\nThere’ll be pizza & drinks.",
+    "endTime": "2022-10-18T19:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/288827696/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "288827696",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "The AI Meetup is Back In-Person: Large Language Models and Personalized AI!"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-the-ai-meetup-is-back-in-person-large-language-models-and-personalized-ai-john-andersen",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/288827696/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-12-09T18:30:00-08:00",
+    "description": "Fountain.com Natural Language Processing with Scala\n\nFormer Mint.com CEO Aaron Patzer and VP of Engineering Jean Sini have recently announced Fountain.com, a platform which understands plain English questions and routes them to an expert for 1-on-1 live collaboration. The system is written entirely in Scala, and relies heavily on machine learning. Simply say \"My faucet is leaking\" and you'll be routed to a Plumber, type \"How do I export Rhino files to Illustrator\" and you'll be put in touch with someone who knows both CAD tools and Adobe products.\n\nThis talk will focus on setting up a natural language processing system in Scala, primarily using the Sista NLP wrappers on top of Stanford Core NLP. We will walk through the basics of training a language classifier. At Fountain, the classifier separates questions into 100+ top level categories. For you, it may be sentiment analysis, spam detection, or a domain specific classification.\n\nLearn more about Fountain in our recent Wired coverage:\n\nhttp://www.wired.com/2014/10/new-answers-app-aims-succeed-quora-failed/\n\nWe will plan to do some live coding, with slides to back up the presentation. And of course, we're hiring Scala engineers.\n\nBuilding the Enigma Machine with Monads and Lenses\n\nIn this talk the speaker will introduce two functional programming concepts: state monads and lenses. These will then be used to demonstrate how one can implement an entire functional-replica of an M3 Enigma machine, without using mutable state or imperative programming. The Enigma machine is most notable for being used by the German military during WWII for enciphering communications between field units and their commanders securely, and the device is capable of scrambling input messages such that there would be billions of possible outcomes.\n\nTimothy Perrett has been programming with Scala for over 7 years and contributed to many projects in the ecosystem. Timothy was among the first 5 committers to Akka and also authored Lift in Action. Today most of his work involves using Scalaz and Scalaz-Stream to build large-scale distributed systems at Verizon, and popularising functional programming practices in the industry at large.\n\nAgenda:\n\n6:30 doors open\n\n7pm Aaron + Q&A\n\n8pm Tim + Q&A",
+    "endTime": "2014-12-09T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/218670517/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "218670517",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Fountain.com NLP in Scala, Enigma with Monads and Lenses"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-fountain-com-nlp-in-scala-enigma-with-monads-and-lenses-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/218670517/"
+}

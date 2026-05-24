@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2019-11-14T10:00:00-05:00",
+    "description": "REGISTER HERE FOR THIS FREE EVENT: http://bit.ly/2CmfasU\n\nThis event is Eastern Standard Time. Please adjust to your location. Event is on-line.\n\nIBM is proud to present Virtual Community Day: Cloud Migration. This is a free online conference teaching technologists how to utilize Cloud Paks to help scale and improve their products.\n\nDuring this conference, you’ll gain technical skills and insights into the 5 IBM Cloud Paks by watching live talks/demos from 25 industry-leading experts on three distinct tracks:\n\n- Show & Tell: Deep-dive demo session covering the functionalities of IBM Cloud Paks\n- Developer: Learn from IBM and partnered technologists about cloud-native development & serverless strategy\n- Getting Started: Get best practices and guidance through case studies from IBM and their Partners\n\nSee the list of speakers here: https://cloudmigration.bemyapp.com/?utm_source=client&utm_medium=partner\n\nJoin us to learn more. This is an online Community event for Cloud Migration. Event is held in Eastern Standard Time.\n\nREGISTER HERE: http://bit.ly/2CmfasU\n\nOnce you register you will be able to go back into the event to review recorded sessions.",
+    "endTime": "2019-11-14T19:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/266268452/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "266268452",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Community Day: Cloud Migration, Containers, Kubernetes, and Microservices"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-community-day-cloud-migration-containers-kubernetes-and-microservices-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/266268452/"
+}

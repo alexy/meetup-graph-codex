@@ -1,0 +1,22 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-external-registration-required-onnx-runtime-community-event-event",
+  "source_id": "bythebay-20260508-bay-area-ai-external-registration-required-onnx-runtime-community-event-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-external-registration-required-onnx-runtime-community-event-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-external-registration-required-onnx-runtime-community-event-event.json",
+  "kind": "announcement",
+  "event_id": "298981532",
+  "event_title": "[External Registration Required] ONNX Runtime Community Event",
+  "title": "ONNX Runtime Community Event",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "crosspost",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/298981532/",
+  "description": "*Note: **registration** with your full name and email i**s required** at* **[https://developer.microsoft.com/en-us/reactor/events/21648/](https://developer.microsoft.com/en-us/reactor/events/21648/)** *to attend. RSVP here is NOT sufficient to attend, security will have the list from the Microsoft registration page to check off your name!* **ONNX Runtime** (**[https://onnxruntime.ai](https://onnxruntime.ai/)**) is **a cross-platform machine-learning model accelerator that helps genAI models run with improved performance.** Join the ONNX Runtime community meet up to learn more about how you can integrate the power of Generative AI and Large language Models (LLMs) in your apps and services, combined with ONNX Runtime speedup. **Agenda** 9:30 – 10:00 **Introduction** 10:00 – 10:45 **Large Language Model inference with ONNXRuntime** (Kunal Vaishnavi) 10:45 – 11:15 **Finetuning and Inferencing Demo** (Abhishek Jindal) 11:15 – 11:45 **ONNXRuntime on Edge** (Edward Chen) 11:45 – 12:45 Break 12:45 -1:15 **ONNX Runtime inference extensions** (Wenbing Li) 1:15 – 1:45 **Generative AI Library** (Ryan Hill) 1:45-2:00 **Q&A** **Talks:** **Large Language Model inference with ONNX Runtime** (Kunal Vaishnavi) * Learn how to combine the powerful capability of LLaMA-2, Mistral, Falcon and similar models with optimization and quantization improvements from ONNX Runtime (ORT). With the goal of making these models run efficiently and available for all devices, we have introduced several optimizations such as graph fusions and kernel improvements in ORT's inference capabilities. In this talk, we will go over the details of these optimizations and demonstrate the performance gains. **Finetuning and Inferencing Demo** ( Abhishek Jindal) * Demo for finetuning and inferencing a Large Language Model (LLM) using ONNX Runtime. The session will showcase the benefits of using ONNX Runtime (Training and Inference), DeepSpeed, ACPT environment and AzureML for easier and faster training of LLMs. Next, we will demo Training and Inference of Mistral 7B LLM and compare it's performance with PyTorch on both V100 and A100 GPUs. **ONNX Runtime on Edge** (Edward Chen) * Data on the edge devices? Want to respect user privacy and provide an intuitive, personalized experience for your app? ONNX Runtime now enables you to efficiently train and perform inference on resource constrained edge devices, so that data stays on the device and you provide personalized experiences through your app. Along with an overview, we will walkthrough an end-to-end example of training a model and inferencing it through ONNX Runtime. **ONNX Runtime inference extensions** (Wenbing Li) * The talk gives an overview of simplified extension of ORT kernels using native C++ functions. This includes introduction to pre-processing APIs and infrastructure for seamless end-to-end ORT inference. and a Live demonstration showcasing sample code for quick implementation. **Generative AI Library** (Ryan Hill) * The ONNX Runtime Generative AI (genai) library is a library around ONNX Runtime to provide tools to run the popular LLM models easily. Simply send text in and get text out or control the scoring of individual tokens. Popular models like Llama/Gpt/Whisper/Phi-2/Mistral are supported.",
+  "date_time": "2024-02-09T09:30:00-08:00",
+  "end_time": "2024-02-09T14:00:00-08:00"
+}

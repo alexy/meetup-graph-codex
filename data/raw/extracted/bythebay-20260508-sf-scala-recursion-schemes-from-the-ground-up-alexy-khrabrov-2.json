@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-recursion-schemes-from-the-ground-up-alexy-khrabrov-2",
+  "source_id": "bythebay-20260508-sf-scala-recursion-schemes-from-the-ground-up-alexy-khrabrov-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-recursion-schemes-from-the-ground-up-alexy-khrabrov-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-recursion-schemes-from-the-ground-up-alexy-khrabrov-2.json",
+  "kind": "talk",
+  "event_id": "274581039",
+  "event_title": "Recursion schemes from the ground up",
+  "title": "Recursion schemes from the ground up",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Alexy Khrabrov, Nicolas Rinaudo, Nicolas Rinaudo Recursion",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/274581039/",
+  "description": "This event will be streamed on Twitch (please log into twitch before the event starts). Once you RSVP you will see the link to twitch to join! For the hallway track and to ask the speakers question you can use the chat on Twitch or join our discord community at https://www.sfbayareatechies.com/ - Once you have joined please go to the #sf-scala channel. Any questions about the event please ask in our channel on discord above. Thank you. Our Talk: Recursion schemes from the ground up by Nicolas Rinaudo Recursion schemes are a topic that often come up in conversations with experienced, knowledgeable developers. For the longest time, I'd just nod and smile and pretend I knew what was going on. The purpose of this talk is to help people in the same situation. Recursion schemes are far less scary and confusing than the mystique that surrounds them suggests, and this talk attempts to prove it. We'll start from first principles and refactor our way to proper recursion schemes, discovering and explaining all the necessary concepts as we go along. By the end of the talk, attendants should have all the tools they need to understand recursion schemes, and be able to explore the more esoteric ones on their own. Our speaker: Nicolas Rinaudo is the CTO of Besedo, where we use Scala to moderate large volumes of user generated content and do weird things to machine learning models. After too many years as a Java programmer and a thankfully brief stint in marketing, Nicolas discovered Functional Programming through Scala and fell in love. Since then, he's made it his mission to learn and explain the scary bits, by focusing on practical applications. Nicolas is also the author and sole maintainer of a few useful OSS libraries, such as kantan.csv. Agenda 5.30pm Welcome to SFScala by Alexy Khrabrov & Salar Rahmanian 5.45pm Recursion schemes from the ground up by Nicolas Rinaudo 7.00pm Wrap up and continue conversations on Discord",
+  "date_time": "2020-12-08T17:30:00-08:00",
+  "end_time": "2020-12-08T19:00:00-08:00"
+}

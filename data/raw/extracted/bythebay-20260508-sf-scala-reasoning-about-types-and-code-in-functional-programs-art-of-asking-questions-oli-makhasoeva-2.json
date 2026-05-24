@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-reasoning-about-types-and-code-in-functional-programs-art-of-asking-questions-oli-makhasoeva-2",
+  "source_id": "bythebay-20260508-sf-scala-reasoning-about-types-and-code-in-functional-programs-art-of-asking-questions-oli-makhasoeva-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-reasoning-about-types-and-code-in-functional-programs-art-of-asking-questions-oli-makhasoeva-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-reasoning-about-types-and-code-in-functional-programs-art-of-asking-questions-oli-makhasoeva-2.json",
+  "kind": "talk",
+  "event_id": "265169356",
+  "event_title": "Reasoning about types and code in functional programs & Art of asking questions",
+  "title": "Reasoning about types and code in functional programs & Art of asking questions",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Oli Makhasoeva, Sergei Winitzki",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/265169356/",
+  "description": "Talk1: Reasoning about types and code in functional programs Talk Summary: Functional programming is unique among programming paradigms because it allows us to reason rigorously about types and computations before we start writing code. In this way, functional programming is the only paradigm that makes the work of a software developer resemble the work of an engineer. I have been working on a new book, \"The Science of Functional Programming\". This presentation focuses on one of the main themes of the book - the techniques and applications of mathematical reasoning about types and code. I give examples of type and code reasoning tasks that are directly useful to functional programmers. Typical tasks are to determine whether a function with given type signature can be implemented; to write code for a typeclass method that satisfies the laws; and to transform a data type to an equivalent but simpler form. In this presentation, I show in detail two specific examples of mathematical reasoning using a notation I developed in the book. The first example is to derive the equivalence between three different formulations of the free monad. The second example is a proof (in 5 lines of calculations) that a certain complicated monad transformer satisfies its laws, - a proof that a recent academic paper failed to complete because such calculations are too hard when written in the syntax of code in a programming language. About our Speaker: Sergei Winitzki (https://www.linkedin.com/in/sergei-winitzki-11a6431) has a degree in theoretical physics and, after an academic career in physics research, now works as a big data engineer. He is passionate about functional programming, declarative programming, and domain-specific languages. Talk2: The art of asking questions There are specific skills that are crucial for people to utilize in every profession, and without a doubt, one of the most essential skills in a workplace is the ability to ask questions. It doesn’t matter what your job title is. Whether you’re a junior developer, a team lead, or an architect; you need to master the art of asking questions. Why is this skill so important? One study shows that curious children ask, on average, 73 questions every day, a practice that helps them learn faster. This practice is also true of students, interns, and new hires. Asking questions is the simplest and most productive way of learning. However, as we become more senior in our fields, we tend to assume we know it all and stop asking as many questions. But do we ever stop wondering, challenging ourselves, doubting things, or searching for answers? In this keynote, Oli will share insights she's gained while conducting podcast interviews with individuals from a variety of sectors in the Scala community. She'll also discuss how she's incorporated these principles into asking the right questions, a skill that helps her be an effective technical consultant. About our speaker: Oli Makhasoeva (https://www.linkedin.com/in/oli-kitty/) is a Solutions Architect at https://www.47deg.com/, she is a host of Scala Love (https://scala.love/) podcast about Scala.",
+  "date_time": "2019-10-17T18:00:00-07:00",
+  "end_time": "2019-10-17T21:00:00-07:00"
+}

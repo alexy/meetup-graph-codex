@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-advanced-quantum-computing-with-qiskit-sean-wagner-ibm-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-advanced-quantum-computing-with-qiskit-sean-wagner-ibm-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-advanced-quantum-computing-with-qiskit-sean-wagner-ibm-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-advanced-quantum-computing-with-qiskit-sean-wagner-ibm-2.json",
+  "kind": "talk",
+  "event_id": "291844451",
+  "event_title": "Advanced Quantum Computing with Qiskit",
+  "title": "Advanced Quantum Computing with Qiskit",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Sean Wagner @ IBM",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/291844451/",
+  "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.** In this session, we will cover several features of the Qiskit open source development kit that will help you to be more productive and improve performance when programming quantum computers. This will include the Qiskit Runtime feature to run hybrid quantum-classical algorithms more efficiently. We will also cover the new Qiskit Runtime Service available in the IBM Cloud. Note that this is part 6 of an 8-session series on Quantum Computing on Mar 22/23, Apr 5/6, Apr 19/20, May 3/4, May 17/18, May 31/Jun 1, Jun 14/15, Jul 5/6. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions. **Presenter: Dr. Sean Wagner** Sean Wagner is a Research Scientist and a Quantum Technical Ambassador at IBM. When he's not programming and experimenting with Qiskit, Sean spends his time working with researchers at academic institutions and industry partners in Canada on projects involving high-performance computing, hardware acceleration, quantum computing, and data science and AI. Dr. Wagner holds a B.A.Sc. degree in Computer Engineering from the University of Waterloo, and M.A.Sc. and Ph.D. degrees in Electrical and Computer Engineering from the University of Toronto. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/ra995e4384d9e5404fc8abd2e3d4b802b](https://ibm.webex.com/weblink/register/ra995e4384d9e5404fc8abd2e3d4b802b)**",
+  "date_time": "2023-05-31T08:00:00-04:00",
+  "end_time": "2023-05-31T09:00:00-04:00"
+}

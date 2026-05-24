@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-ai-agent-sf-4-evals-event",
+  "source_id": "bythebay-20260508-bay-area-ai-ai-agent-sf-4-evals-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-ai-agent-sf-4-evals-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-ai-agent-sf-4-evals-event.json",
+  "kind": "event",
+  "event_id": "309057782",
+  "event_title": "AI Agent SF #4 — Evals",
+  "title": "AI Agent SF #4 — Evals",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/309057782/",
+  "description": "This is a joint meetup with [AI By the Bay](https://ai.bythebay.io), register on Luma: https://lu.ma/_ai. This event is all about evals. For enterprise-ready reliable AI, join us at AI By the Bay in November! Speak, sponsor, attend.",
+  "date_time": "2025-07-08T17:00:00-07:00",
+  "end_time": "2025-07-09T20:30:00-07:00"
+}

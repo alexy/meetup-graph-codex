@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-10-24T13:30:00-04:00",
+    "description": "**Welcome to the AI Agent Unconference — hosted by NYU and The AI Alliance!**\n\n​Join this open and collaborative gathering where you shape the discussion. This isn’t a typical conference — it’s a participant-driven event for builders, developers, adopters, and anyone interested in discussing the rapidly evolving world of **agentic AI**.\n\n​Whether you’re bringing use cases or solutions, exploring how to address current limitations and evaluation challenges, or working on technical approaches to the governance of AI agents, this event is for you.\n​Together, we’ll co-create the agenda, form spontaneous discussion groups, and dive into the topics that matter most to the attendees. Come ready to share ideas, exchange perspectives, and collaborate on the next generation of open, responsible, and powerful AI agents.\n\nDetails and RSVP: https://luma.com/stbkbht5",
+    "endTime": "2025-10-24T17:30:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/311656665/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "311656665",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "AI Agent Unconference (NYC)"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-agent-unconference-nyc-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/311656665/"
+}

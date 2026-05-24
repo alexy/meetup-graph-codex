@@ -1,0 +1,59 @@
+{
+  "event": {
+    "dateTime": "2015-09-29T18:30:00-04:00",
+    "description": "In conjunction with 2015 Strata + Hadoop World in New York City, you might be interested in attending this meetup. To RSVP go to:\nhttp://www.meetup.com/New-York-Spark-Meetup/events/225041216/\n\nFood. Drink. Spark!\n\nSpark 1.5 was recently released. In this meetup, join TD, Patrick, Reynold from Databricks and Dean from Typesafe to talk about the latest release and what is coming next.\nMany of the major changes in Spark 1.5 are under-the-hood changes to improve Spark’s performance, usability, and operational stability. Spark 1.5 ships major pieces of Project Tungsten, an initiative focused on increasing Spark’s performance through several low-level architectural optimizations. The release also adds operational features for the streaming component, such as backpressure support. Another major theme of this release is data science: Spark 1.5 ships several new machine learning algorithms and utilities, and extends Spark’s new R API with distributed GLM.\nWe will give a high level intro of the release, dive into Project Tungsten and Spark Streaming, and discuss future plans.\n\nSpeakers:\nTathagata Das, Patrick Wendell, Reynold Xin, Databricks\nDean Wampler, Ph.D. (@deanwampler) leads the Big Data efforts at Typesafe, focusing on Spark, Mesos, Hadoop, Akka, and other tools. He is the author of \"Programming Scala, Second Edition\" and \"Functional Programming for Java Developers\", and the co-author of \"Programming Hive\", all from O'Reilly. Dean is a contributor to several open source projects and he co-organizes and speaks at many technology conferences and Chicago-based user groups.\n\nMingling from 6:30-7 and again from 8-9.",
+    "endTime": "2015-09-29T21:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/225522063/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "225522063",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Committer night: spark 1.5 and beyond"
+  },
+  "event_id": "225522063",
+  "event_title": "Committer night: spark 1.5 and beyond",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "In conjunction with 2015 Strata + Hadoop World in New York City, you might be interested in attending this meetup. To RSVP go to: http://www.meetup.com/New-York-Spark-Meetup/events/225041216/ Food. Drink. Spark! Spark 1.5 was recently released. In this meetup, join TD, Patrick, Reynold from Databricks and Dean from Typesafe to talk about the latest release and what is coming next. Many of the major changes in Spark 1.5 are under-the-hood changes to improve Spark’s performance, usability, and operational stability. Spark 1.5 ships major pieces of Project Tungsten, an initiative focused on increasing Spark’s performance through several low-level architectural optimizations. The release also adds operational features for the streaming component, such as backpressure support. Another major theme of this release is data science: Spark 1.5 ships several new machine learning algorithms and utilities, and extends Spark’s new R API with distributed GLM. We will give a high level intro of the release, dive into Project Tungsten and Spark Streaming, and discuss future plans. Speakers: Tathagata Das, Patrick Wendell, Reynold Xin, Databricks Dean Wampler, Ph.D. (@deanwampler) leads the Big Data efforts at Typesafe, focusing on Spark, Mesos, Hadoop, Akka, and other tools. He is the author of \"Programming Scala, Second Edition\" and \"Functional Programming for Java Developers\", and the co-author of \"Programming Hive\", all from O'Reilly. Dean is a contributor to several open source projects and he co-organizes and speaks at many technology conferences and Chicago-based user groups. Mingling from 6:30-7 and again from 8-9.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-committer-night-spark-1-5-and-beyond-databricks-dean-wampler-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-committer-night-spark-1-5-and-beyond-databricks-dean-wampler-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-committer-night-spark-1-5-and-beyond-databricks-dean-wampler-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Databricks Dean Wampler"
+      },
+      {
+        "company": null,
+        "name": "Dean Wampler"
+      },
+      {
+        "company": null,
+        "name": "Patrick Wendell"
+      },
+      {
+        "company": null,
+        "name": "Reynold Xin"
+      },
+      {
+        "company": null,
+        "name": "Second Edition\""
+      },
+      {
+        "company": null,
+        "name": "Tathagata Das"
+      }
+    ],
+    "title": "Committer night: spark 1.5 and beyond"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-committer-night-spark-1-5-and-beyond-databricks-dean-wampler-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/225522063/"
+}

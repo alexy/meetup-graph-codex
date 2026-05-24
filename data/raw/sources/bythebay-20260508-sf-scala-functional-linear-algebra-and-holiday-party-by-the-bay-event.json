@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-12-12T18:00:00-08:00",
+    "description": "• What we'll do\nIt is curious that a bunch of Linear Algebra implementations are written as if it is Fortran all the way down. We can do better, and a functional implementation, with less mutability and more abstractions, may save efforts, space, and processor time. I will show pieces of easy-to-read code that works with vectors and matrices in a functional way. As an example, an efficient and practical implementation of PCA.\n\nLinear Algebra is how you eventually solve Deep Learning and most other Statistical Machine Learning problems.\n\nVlad Patryshev is the organizer of Scala Bay, regular speaker By the Bay, and a software engineer at Salesforce.\n\n• What to bring\nWine and cakes -- it is a Holiday Party too!\n\nWe can also host unmeetup-style lightning talks and it will be the holiday party!",
+    "endTime": "2017-12-12T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/245572574/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "245572574",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Functional Linear Algebra and Holiday Party By the Bay!"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-functional-linear-algebra-and-holiday-party-by-the-bay-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/245572574/"
+}

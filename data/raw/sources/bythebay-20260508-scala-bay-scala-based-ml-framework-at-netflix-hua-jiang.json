@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-11-06T18:30:00-08:00",
+    "description": "Talk 1:\nJeremy Smith, Boson: Machine Learning Framework for Netflix recommendations\n\nAbstract\n\nBoson is a Scala-based Machine Learning framework, which provides a high-level API and tools for ML pipelines at Netflix. It is designed to support interactive experimentation as well as to provide an easy path to running those models in Netflix's production environments. Boson's functionality is somewhat similar to SciKit Learn: dataset preparation, support for a wide range of model trainers and metrics, and an API for combining these steps. In addition, it also provides seamless integration with Netflix's offline data and production systems. In this talk we will go into the details how we are using Scala to make the offline ML training pipelines efficient.\n\nSpeaker Bio\n\nJeremy Smith is a Senior Software Engineer in the Algorithms Engineering group at Netflix, where he works on building production-quality machine learning pipelines and libraries to support research efforts. Previously, he led the Data Engineering team at Acorns, where he worked on building high-scale Scala microservices with Finagle, distributed data processing and streaming applications with Spark, and data warehouse infrastructure tools with Scala and AWS. As a Scala enthusiast, Jeremy also works to evangelize functional programming techniques and typelevel approaches, and is active in the open source Scala community.\n\nTalk 2:\nHua Jiang, Building the Continue Watching model using Boson\n\nAbstract\n\nIf there was ever a single row interface to Netflix, it has to be the Continue Watching row. On any given day, based on planetary motions, the alignment of stars and new content launches, the CW row accounts for a large fraction of user plays. Behind the CW row sits a machine learning title ranking and row positioning model. More details about the details of the ML model can be found here\n\nhttps://medium.com/netflix-techblog/to-be-continued-helping-you-find-shows-to-continue-watching-on-7c0d8ee4dab6\n\n. In this talk, we open the can of worms that is the infrastructure that sits behind the CW models. We will discuss how we used Boson to implement its model training pipeline.\n\nSpeaker Bio\n\nHua Jiang received the Ph.D. degree in electrical engineering from the University of Minnesota, Twin Cities, in 2012. He was with the Design Group of Synopsys Inc. and the Data Infrastructure group, LinkedIn Corporation. He is a Senior Software Engineer at the Algorithms Engineering group of Netflix Inc. His work includes building machine learning infrastructure and exploring for novel computational paradigms to accommodate fast-growing machine learning needs.\n\nSchedule\n\n• 6:30-7:00 - networking (pizza, beer)\n• 7:00-7:10 - announcements etc.\n• 7:10-8:00 - talk\n• 8:00-8:30 - more networking",
+    "endTime": "2017-11-06T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/244389272/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "244389272",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala-based ML framework at Netflix"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang",
+  "source_url": "https://www.meetup.com/scala-bay/events/244389272/"
+}

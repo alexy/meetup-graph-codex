@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-10-16T18:30:00-07:00",
+    "description": "Sergei Winitzki, Declarative concurrent programming with Join Calculus\n\nAbstract\n\nAbstract: I give an introduction to Join calculus, a declarative formalism for concurrent programming. Join Calculus is a development of Pi-calculus that is higher-level and easier to use in practice. Join Calculus radically improves upon well-known concurrency paradigms such as Actors or CSP. I explain how Join Calculus emerges if we want to improve the Actor model by making actors type-safe, stateless, and automatically managed. I am developing `Chymyst`, a new open-source implementation of Join Calculus as an embedded DSL in Scala. I show concise and fully declarative Chymyst solutions for classic concurrency problems such as the \"dining philosophers\" or recursive \"fork/join\".\n\nShort Bio\n\nSergei Winitzki is a theoretical physicist turned software engineer, passionate for functional programming, functional type theory, and declarative domain-specific languages.\n\nSchedule\n\n• 6:30-7:00 - networking (pizza, beer)\n• 7:00-7:10 - announcements etc.\n• 7:10-8:00 - talk\n• 8:00-8:30 - more networking\n\nAttention please\n\nThe company will want you to sign an NDA.",
+    "endTime": "2017-10-16T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/243931229/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "243931229",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Sergei Winitzki, Declarative concurrent programming with Join Calculus"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-sergei-winitzki-declarative-concurrent-programming-with-join-calculus-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/243931229/"
+}

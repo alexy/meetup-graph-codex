@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-02-23T15:30:00-05:00",
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.**\nEarly detection and remediation of IT and business anomalies are critical in today's digital world. Given the increasing rates of transactions, the most common service availability agreement is 99.999% uptime, which only allows for about 5 minutes of outage for an entire year - a task virtually impossible for humans to achieve.\n\nCome learn how AIOps can predict, detect and remediate anomalies by leveraging real-time learning algorithms and enterprise-scale automations.\n\n**Presenter: Arthur De Magalhaes**\n\nArthur is a Senior Technical Staff Member at IBM, in charge of various parts of its AIOps portfolio including connectivity and automatic incident remediation. He has over 17 years of experience designing and developing software in a variety of domains that include optimized data parsers, application server framework and AIOps platforms.\n\nHe is an active Open Source contributor, currently a co-chair of the Kubernetes Service Binding specification and creator of the MicroProfile OpenAPI specification. As an IBM Master Inventor, Arthur leads the patent portfolio of IBM's AIOps offerings.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r5ab108f655e29308e362d32cd7e01cc1](https://ibm.webex.com/weblink/register/r5ab108f655e29308e362d32cd7e01cc1)**",
+    "endTime": "2023-02-23T16:30:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/290321696/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "290321696",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Supercharge anomaly detection and remediation using AIOps"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-supercharge-anomaly-detection-and-remediation-using-aiops-arthur-de-magalhaes-3",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/290321696/"
+}

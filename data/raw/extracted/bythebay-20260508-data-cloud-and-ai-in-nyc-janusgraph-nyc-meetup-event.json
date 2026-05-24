@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-janusgraph-nyc-meetup-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-janusgraph-nyc-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-janusgraph-nyc-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-janusgraph-nyc-meetup-event.json",
+  "kind": "event",
+  "event_id": "237908714",
+  "event_title": "JanusGraph NYC Meetup",
+  "title": "JanusGraph NYC Meetup",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/237908714/",
+  "description": "RSVP TO THIS LINK: https://www.meetup.com/graphs/events/237100744/ Networking : 6:30-7:00pm We'll discuss the new Linux Foundation project JanusGraph, (http://janusgraph.org/)and where contributors can focus their attention There will be a collection of speakers talking about their specialist graph topics including: • Jason Plurad (https://www.linkedin.com/in/pluradj/), software engineer, will discuss IBM's journey in open source graphs and how its Open by Design approach has benefited open communities and IBM offerings. • Haikal Pribaldi (https://www.linkedin.com/in/haikalpribadi/) Founder and CEO of GRAKN.A will share how graph tech is used in GRAKN • Santosh Borse (https://www.linkedin.com/in/santoshborse/), software engineer at IBM, will discuss the creation of an enterprise social graph, how the graph was modeled in IBM, the overall setup, and use of gremlin • Misha Brukman (https://github.com/mbrukman), at Google, will share ideas around the use of graph with BigTable • Raymond Canzanese Jr (https://www.linkedin.com/in/raymond-canzanese-jr-178a846/), CTO at Sift Security, will describe their use of graph technologies • Denise Gosnell (https://www.linkedin.com/in/denisekgosnell/) , Senior Technical Evangelist, will describe her experience of graph and Titan in PokitDok",
+  "date_time": "2017-03-01T18:30:00-05:00",
+  "end_time": "2017-03-01T21:00:00-05:00"
+}

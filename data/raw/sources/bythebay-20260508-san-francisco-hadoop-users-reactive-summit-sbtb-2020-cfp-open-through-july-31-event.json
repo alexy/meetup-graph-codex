@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-07-31T23:59:00-07:00",
+    "description": "Scale By the Bay is now following Reactive Summit, the conference of the Reactive Foundation, a Linux Foundation project focused on cloud-native applications.\n\nWe're happy to report that Martin Odersky and Matei Zaharia, the creators of Scala and Spark, will keynote SBTB 2020, among other awesome keynote speakers.\n\nThe joint CFP is extended through July 31.\n\nThere's still time to submit a talk: https://scale.bythebay.io!\nLooking forward to more great speakers to join us in November.",
+    "endTime": "2020-08-01T01:59:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/271108573/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "271108573",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Reactive Summit + SBTB 2020 CFP Open through July 31"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-reactive-summit-sbtb-2020-cfp-open-through-july-31-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/271108573/"
+}

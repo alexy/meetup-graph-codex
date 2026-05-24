@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18748975:bythebay-20260508-scale-by-the-bay-twitter-style-microservices-at-scale-with-finagle-and-linkerd-oliver-gould-buoyant-2",
+  "source_id": "bythebay-20260508-scale-by-the-bay-twitter-style-microservices-at-scale-with-finagle-and-linkerd-oliver-gould-buoyant-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scale-by-the-bay-twitter-style-microservices-at-scale-with-finagle-and-linkerd-oliver-gould-buoyant-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scale-by-the-bay-twitter-style-microservices-at-scale-with-finagle-and-linkerd-oliver-gould-buoyant-2.json",
+  "kind": "talk",
+  "event_id": "231200698",
+  "event_title": "Twitter-style Microservices at Scale with Finagle and linkerd",
+  "title": "Twitter-style Microservices at Scale with Finagle and linkerd",
+  "conference_id": "meetup:18748975",
+  "meetup_id": "meetup:18748975",
+  "speaker_text": "Oliver Gould @ Buoyant",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bythebay/events/231200698/",
+  "description": "Schedule 6:30 Open Doors 7:00 Ticketfly's Evolution to Microservices with Jerome Thibaud 7:30 Main Presentation Main Talk: Abstract What is required to operate microservices at scale? Beyond containers, beyond schedulers, beyond Go libraries and RPC formats--what is actually required to turn hundreds of services, tens of thousands of machines, and millions of requests per second into a unified, performant, functional, and operable application? In this talk, we walk through the evolution of Twitter’s evolution from Ruby on rails monolith to JVM-based microservice, and we describe the surprising glue [see what I did there?] that held it all together: layer 5, the oft-overlooked “session layer”. We describe Finagle, the high-scale RPC library developed at Twitter and adopted by Pinterest, Soundcloud, ING Bank, and other companies, which allowed Twitter control over the session layer and unified its separate services into a consistent operational model. We introduce linkerd, an open-source proxy form of Finagle, which extends Finagle's operational model to non-JVM or polyglot microservices. Finally, we show how linkerd can be used to \"wrap\" applications running on schedulers like Kubernetes and Mesos to provide higher-level, service-based semantics around scalability, reliability, and fault-tolerance for microservices---even in the presence of unpredictable traffic volumes and unreliable hardware. Speaker: Oliver Gould, CTO at Buoyant, Inc.",
+  "date_time": "2016-06-09T18:30:00-07:00",
+  "end_time": "2016-06-09T21:30:00-07:00"
+}

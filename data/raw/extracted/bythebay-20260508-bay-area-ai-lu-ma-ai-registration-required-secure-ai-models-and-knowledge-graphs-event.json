@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-secure-ai-models-and-knowledge-graphs-event",
+  "source_id": "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-secure-ai-models-and-knowledge-graphs-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-secure-ai-models-and-knowledge-graphs-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-secure-ai-models-and-knowledge-graphs-event.json",
+  "kind": "announcement",
+  "event_id": "303492376",
+  "event_title": "[lu.ma/_ai registration required] Secure AI Models and Knowledge Graphs",
+  "title": "Secure AI Models and Knowledge Graphs",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/303492376/",
+  "description": "We have two deep dives in key AI deployment topics: model safety and knowledge graphs. You must register at [lu.ma/_ai](lu.ma/_ai) and hold a valid ticket and a photo ID matching your name to attend! **KG-enabled AI workflows** **Chris Rec, WhyHow** In this talk, we’ll explore how knowledge graphs can supercharge your AI workflows. We'll demonstrate entity and triple extraction from semi-structured GitHub data and how to build and work with knowledge graphs using the WhyHow graph studio platform. Come discuss exciting patterns emerging in AI workflows fueled by graph technology. **Chris Rec** is the co-founder of WhyHow. WhyHow builds next-gen data pipelines for Knowledge Graphs to improve AI workflows. Chris is a former founder, engineer, and product manager with platform engineering experience at Netflix, AWS, and Coinbase. **While AI is Moving Fast, we should Not Forget Security** **Mihai Maruseac, Google** AI is moving at breakneck speed but we are also seeing security incidents, both in research papers and in real production systems. Most of these look similar to traditional software incidents of the past, but they are repeating at an accelerated pace. In this talk, we'll give an overview of why security is important for AI and how we can quickly resolve several of the most pressing issues. **Mihai Maruseac** is a member of Google Open Source Security team (GOSST), working on Supply Chain Security for ML. Before joining GOSST, Mihai created the TensorFlow Security team after joining Google. Previously, he worked on a startup incorporating Differential Privacy (DP) within Machine Learning (ML) algorithms (now part of Snowflake). Mihai has a PhD in Differential Privacy from UMass Boston.",
+  "date_time": "2024-10-01T18:00:00-07:00",
+  "end_time": "2024-10-01T21:00:00-07:00"
+}

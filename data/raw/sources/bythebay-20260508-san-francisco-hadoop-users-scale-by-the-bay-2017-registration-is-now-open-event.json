@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-11-16T08:00:00-08:00",
+    "description": "The 2017 edition of Scale By the Bay (http://scale.bythebay.io/) is our 5th anniversary. We are witnessing an enormous renaissance in data, machine learning, and micro services, all coming to Scala for thoughtful engineering, enterprise readiness, and scalable performance .\n\nThe recent announcement of IBM and Lightbend partnership to build cognitive applications on the Reactive Platform is just one example how Scala comes into its own across the board.\n\nThis year we are back at Twitter HQ, November 16-18, with the proven and prescient, three-track format we pioneered last year:\n\n— Functional Programming\n— Complete Data Pipelines\n— Reactive Microservices\n\nOur program is packed with about 90 talks and 100 speakers and panelists. This year, we finish our topic expansion reflected with the evolution of the name:\n\nScala=>Scalæ=Scale\n\nWe retain our Scala FP heart, but open up to the world. Runar Bjarnason, a well-known Scala developer, now speaks about Category Theory concepts applicable to both.\n\n• Dean Wampler shows how Fast Data replaces Big Data, combining Spark and Reactive platforms.\n\n• James Ward explains Machine Learning, with his hallmark clarity and full-stack knowledge.\n\n• Helena Edelson keynotes on Self-Improving, Adaptive Distributed Systems for Machine Learning.\n\n• Oscar Boykin shows how to use Functional Reactive Programming for Machine Learning, making it as easy for FP+ML as Elm is for FP+UI.\n\n• Marius Eriksen, who opened every Scala By the Bay from the inception in 2013 to 2015, returns to Twitter to speak again on Cloud Science, now enabling cancer research at GRAIL.\n\nThe list goes on and on — check it all out at\n\nscale.bythebay.io (http://scale.bythebay.io/)\n\nOur Spark programming is unique in its breadth -- Spark is touched in 26 talks, -- and objectivity, including Avoiding Spark Pitfalls at Scale and Spark Datasets: why they aren't great and what could be done about it.\n\nWe also continue our tradition of creating innovative, one of a kind, all-day workshops spanning the whole stacks, in which you walk away with a whole company you build yourself. In 2015, it was the SMACK stack, that we popularized to the point that it is now a thing. This year, we bring together Lyft, Starbucks, Google, and Salesforce technical leaders in a special one day hands-on\n\nIstio workshop (http://scale.bythebay.io/workshop.html)\n\n-- you will learn how to take a Cloud Native Application from inception to production using Istio (https://cloudplatform.googleblog.com/2017/05/istio-modern-approach-to-developing-and.html), with Envoy (https://eng.lyft.com/envoy-7-months-later-41986c2fd443) and other best practices for secure, scalable microservices.\n\nAll previous SBTBs sold out completely. Our Twitter building capacity is about 500, and we’ll be sold out completely fast. Reserve your seat early. Hot breakfast, lunch, and happy hour every single day are our hallmark features, as is uninterruptible, streaming coffee supply. It takes us about six months to produce our flagship conference, and it’s now so much fun, everyone who was there wants to come back, both as a speaker and as an attendee. We hope to see all of our old friends from around the world, and meet the new ones, in November.\n\nSee you By the Bay soon!\nA+ & SBTB",
+    "endTime": "2017-11-18T08:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/239938065/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "239938065",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scale By the Bay 2017 Registration is Now Open"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2017-registration-is-now-open-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/239938065/"
+}

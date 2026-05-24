@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-02-17T18:30:00-08:00",
+    "description": "Title: XJ Liu, A Data Pipeline for the Internet of Data Centers\n\nDescription:\n\nData centers generate a voluminous amount of machine data ranging from performance metrics, workload activities, resource utilization, system configuration, topologies, events, logs, and failures. Analysis of such data can yield actionable insights for system admins and IT decision-makers to improve efficiency and reduce risk in their infrastructure. CloudPhysics has built a SaaS application which receives machine data from hundreds of thousands of servers around the world and provides data-driven IT analytics. As machines can generate data much faster than humans, building a data pipeline to handle this firehose presents unique challenges. This talk covers our experience in building a scalable analytics back-end for both real-time streaming and batch analysis of machine data, using Scala, Spark, and NoSQL technologies on AWS. We will discuss a unified modeling and analysis framework for heterogeneous, dynamic, semi-structured machine data. We will share the characteristics of our analytical workload, the scaling principles learned through iterations of the back-end, and efficiency gains achieved.\n\nTitle: Andy Petrella & Xavier Tordoir, Agile Data Science with Scala\n\nDescription:\n\nIt turns out that lots of companies want to explore large data sets, both their own and public. This \"digging for gold\" is often called Data Science and spans mathematics, statistics, machine learning, data preparation, software engineering, distributed systems, devops and more. Data science capabilities are often seen as a competitive advantage in the marketplace thus creating a frenzy of activity in open and closed source systems.\n\nRecently, Scala has started to become a key language given the popularity of the Spark framework. The game is changing rapidly but many methods have matured, libraries are available and more teams are entering this field.\n\nNow, data scientists do write code, but they were not always trained as software developers or distributed systems engineers. And even less so devops. So, to really get the benefit of the data discoveries, a team has to help create and end to end pipeline. Today, this process has lots of friction points.\n\nIn this talk, Andy Petrella and Xavier Tordoir will walk through a unified environment starting with the Spark Notebook, helping different people with different tasks and background to develop a data service pipeline with minimal friction and maximal agility.\n\nAndy will demo the just-released newest features of open source Spark Notebook.\n\nSpeakers.\n\nXJ Liu (Chief Scientist, CloudPhysics)\n\nAndy Petrella & Xavier Tordoir (Founders, DataFellas)\n\nSchedule\n\n6:30 pm - Registration, Food\n\n6:45 pm - A Data Pipeline for the Internet of Data Centers\n\nXJ Liu (CloudPhysics Chief Scientist)\n\n7:15 pm - Agile Data Science with Scala\n\nAndy Petrella & Xavier Tordoir (DataFellas Founders)\n\nParking:\n\nPlenty of free parking in parking structure behind building.",
+    "endTime": "2016-02-17T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/228814274/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "228814274",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "A Data Pipeline for the Internet of Data Centers;  Agile Data Science with Scala"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/228814274/"
+}

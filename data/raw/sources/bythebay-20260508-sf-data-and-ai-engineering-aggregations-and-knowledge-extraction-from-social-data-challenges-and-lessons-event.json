@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2019-01-15T18:00:00-08:00",
+    "description": "This is a crosspost from the Bay Area AI -- register there to attend!\n\nhttps://www.meetup.com/bay-area-ai/events/257791863/\n\nThis talk is about the construction of new data assets from social media using techniques drawn from the areas of information retrieval, machine learning, graphs, and social networks. I’ll describe three projects based on Twitter and Foursquare data sets that use social data in different ways to help users in information seeking scenarios. The first one, a recommender system for recreational queries using location-based social networks. The second project, a social knowledge graph derived from Twitter with the goal of discovering relationships between people, links, and topics. And the third one, an application for archiving and Wikification of stories.\n\nOmar Alonso is a Principal Applied Scientist with Microsoft where he works on the intersection of information retrieval, social data, human computation, and knowledge graph generation. He is the co-chair of the Human Computation and Crowdsourcing track at WWW'19 and on the organizing committee for HCOMP'19.",
+    "endTime": "2019-01-15T20:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/258047519/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "258047519",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Aggregations and knowledge extraction from social data: challenges and lessons"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-aggregations-and-knowledge-extraction-from-social-data-challenges-and-lessons-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/258047519/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-eventbrite-registration-next-generation-macros-for-scala-eugene-burmako",
+  "source_id": "bythebay-20260508-sf-scala-eventbrite-registration-next-generation-macros-for-scala-eugene-burmako",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-eventbrite-registration-next-generation-macros-for-scala-eugene-burmako.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-eventbrite-registration-next-generation-macros-for-scala-eugene-burmako.json",
+  "kind": "talk",
+  "event_id": "240044013",
+  "event_title": "[Eventbrite registration!] Next-generation macros for Scala",
+  "title": "Next-generation macros for Scala",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Eugene Burmako, Twitter This",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/240044013/",
+  "description": "Note: Twitter requires Eventbrite registration. The meetup will be full, and RSVPs here will not count. Please always read the signup instructions in the subject and follow them! REGISTER HERE TO GET IN: https://www.eventbrite.com/e/next-generation-macros-for-scala-tickets-34697598451 Speaker: Eugene Burmako, Twitter This talk will present the design and the implementation of new-style macros based on Scalameta 2.0. Developed from the day one to be portable between Scala, Dotty and IntelliJ, new-style macros are planned to supersede existing macros based on scala.reflect. Join this meetup to be the first to try out the new macro system and provide early feedback to its authors. Eugene is a member of the Scala language committee and founder of Scala macros and Scala meta. After recently getting his PhD from Martin Odersky at EPFL, he's been working at Twitter on open-source foundations of robust semantic tooling for Scala. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc. • 7:10-8:00 - talk • 8:00-8:30 - networking *********",
+  "date_time": "2017-06-07T18:00:00-07:00",
+  "end_time": "2017-06-07T21:00:00-07:00"
+}

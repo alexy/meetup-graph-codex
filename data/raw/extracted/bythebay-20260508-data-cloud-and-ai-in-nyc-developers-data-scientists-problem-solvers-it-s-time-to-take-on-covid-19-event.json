@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-developers-data-scientists-problem-solvers-it-s-time-to-take-on-covid-19-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-developers-data-scientists-problem-solvers-it-s-time-to-take-on-covid-19-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-developers-data-scientists-problem-solvers-it-s-time-to-take-on-covid-19-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-developers-data-scientists-problem-solvers-it-s-time-to-take-on-covid-19-event.json",
+  "kind": "event",
+  "event_id": "269892926",
+  "event_title": "Developers, data scientists, & problem solvers: It’s time to take on COVID-19",
+  "title": "Developers, data scientists, & problem solvers: It’s time to take on COVID-19",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/269892926/",
+  "description": "This event is held on April 8th and 10th in Eastern Daylight Time. Adjust to your location. Please visit the website to see exact times and topics. You can register here: https://developer.ibm.com/livestream/ We created Call for Code to take on pressing societal issues, and this year we expanded the challenge to include both climate change and COVID-19 (coronavirus), two urgent crises that compromise our health, planet, and survival. COVID-19 is rapidly spreading and has revealed the limits of the systems we take for granted. Commit to the challenge and use open source technology in the cloud to build solutions that can make an immediate and lasting impact. You might already know what you want to build for the 2020 Call for Code Global Challenge COVID-19 edition, but if you don't, we have starter kits (https://developer.ibm.com/callforcode/getstarted/covid-19/) These quick-start guides are tied to easy-to-understand use cases and can help you get started building in a matter of minutes. We made those tools available for developers to help with crisis communications (https://developer.ibm.com/callforcode/getstarted/covid-19/crisis-communication/), remote education (https://developer.ibm.com/callforcode/getstarted/covid-19/remote-education/), and community cooperation (https://developer.ibm.com/callforcode/getstarted/covid-19/community-cooperation/). Still not sure where to start? We've got you covered. Join our livestreams at 12 pm ET on April 8 and April 10 to get an overview of the COVID-19 track, and deep dives into our starter kits, including demos of solution ideas. Join us: https://developer.ibm.com/livestream/ Accept the challenge @ https://developer.ibm.com/callforcode/ Get our COVID-19 starter kits @ https://developer.ibm.com/callforcode/getstarted/covid-19/ Join our Livestream @ https://developer.ibm.com/livestream/ Stay in the know with our Developers newsletters @ https://ibmdeveloper.pages03.net/technology-newsletters We created Call for Code to take on pressing societal issues, and this year we expanded the challenge to include both climate change and COVID-19 (coronavirus), two urgent crises that compromise our health, planet, and survival. COVID-19 is rapidly spreading and has revealed the limits of the systems we take for granted. Commit to the challenge and use open source technology in the cloud to build solutions that can make an immediate and lasting impact.",
+  "date_time": "2020-04-10T12:00:00-04:00",
+  "end_time": "2020-04-10T15:00:00-04:00"
+}

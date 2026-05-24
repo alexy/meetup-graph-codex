@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-alexandr-podkhaliuzin-scala-plugin-for-intellij-idea-tips-tricks-and-more-event",
+  "source_id": "bythebay-20260508-scala-bay-alexandr-podkhaliuzin-scala-plugin-for-intellij-idea-tips-tricks-and-more-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-alexandr-podkhaliuzin-scala-plugin-for-intellij-idea-tips-tricks-and-more-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-alexandr-podkhaliuzin-scala-plugin-for-intellij-idea-tips-tricks-and-more-event.json",
+  "kind": "talk",
+  "event_id": "135646232",
+  "event_title": "Alexandr Podkhaliuzin: Scala plugin for IntelliJ IDEA: tips, tricks and more...",
+  "title": "Alexandr Podkhaliuzin: Scala plugin for IntelliJ IDEA: tips, tricks and more...",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/135646232/",
+  "description": "Alexandr Podkhaliuzin will talk about the popular Scala plugin in the popular IntelliJ IDE. This talk will be mainly about Scala/Play plugin for IntelliJ IDEA: • How to work with Scala/Play plugin. Some special tips and tricks.- Introducing new features and upcoming features. • Description of IntelliJ IDEA API and how to write plugins for IntelliJ IDEA including Scala plugin • Some technical details and stories about Scala language connected to some of Scala plugin features. Alexandr Podkhaliuzin is the lead of Scala plugin for IntelliJ IDEA team. He graduated from Saint-Petersburg University Mathematics Department, having won a series of regional and international mathematical competitions. Since 2008 Aleksandr has been working at JetBrains as software engineer, mainly developing Scala plugin for IntelliJ IDEA. Starting 2012 he teaches Scala at St. Petersburg Academic University. Schedule: • 6:30-7:00 - pizzas & networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "date_time": "2013-09-19T19:00:00-07:00",
+  "end_time": "2013-09-19T22:00:00-07:00"
+}

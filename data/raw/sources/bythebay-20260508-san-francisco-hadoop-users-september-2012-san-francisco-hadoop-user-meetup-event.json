@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-09-12T18:00:00-07:00",
+    "description": "The September Hadoop meetup will be held Wednesday, September 12, from 6:00pm to 8:00pm. This meetup will be hosted by Kontagent at 201 Mission St., San Francisco, CA. (25th floor)\n\nAs usual, we will use the discussion-based \"unconference\" format. At the beginning of the meetup we will collaboratively construct an agenda consisting of several discussion breakout groups. All participants may propose a topic and volunteer to facilitate a discussion. All Hadoop-related topics are encouraged, and all members of the Hadoop community are welcome.\n\nEvent schedule:\n\n6:00pm - Welcome 6:30pm - Introductions; start creating agenda Breakout sessions begin as soon as we're ready 8:00pm - Conclusion Food and refreshments will be provided courtesy of Kontagent.",
+    "endTime": "2012-09-12T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/77623502/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "77623502",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "September 2012 San Francisco Hadoop User Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-september-2012-san-francisco-hadoop-user-meetup-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/77623502/"
+}

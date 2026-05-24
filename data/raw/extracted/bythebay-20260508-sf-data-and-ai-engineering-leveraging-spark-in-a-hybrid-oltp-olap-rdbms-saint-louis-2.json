@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18601481:bythebay-20260508-sf-data-and-ai-engineering-leveraging-spark-in-a-hybrid-oltp-olap-rdbms-saint-louis-2",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-leveraging-spark-in-a-hybrid-oltp-olap-rdbms-saint-louis-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-leveraging-spark-in-a-hybrid-oltp-olap-rdbms-saint-louis-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-leveraging-spark-in-a-hybrid-oltp-olap-rdbms-saint-louis-2.json",
+  "kind": "talk",
+  "event_id": "227426081",
+  "event_title": "Leveraging Spark in a Hybrid OLTP/OLAP RDBMS",
+  "title": "Leveraging Spark in a Hybrid OLTP/OLAP RDBMS",
+  "conference_id": "meetup:18601481",
+  "meetup_id": "meetup:18601481",
+  "speaker_text": "Saint Louis",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/227426081/",
+  "description": "Please answer meetup questions with non-empty strings. We'll sort RSVPs so that empty strings are at the bottom. In this talk, we will discuss how we use Spark as part of a hybrid RDBMS architecture that includes Hadoop and HBase. The optimizer evaluates each query and sends OLTP traffic (including CRUD queries) to HBase and OLAP traffic to Spark. We will focus on the challenges of handling the tradeoffs inherent in an integrated architecture that simultaneously handles real-time and batch traffic. Lessons learned include: - Embedding Spark into a RDBMS - Running Spark on Yarn and isolating OLTP traffic from OLAP traffic - Accelerating the generation of Spark RDDs from HBase - Customizing the Spark UI The lessons learned can also be applied to other hybrid systems, such as Lambda architectures. John Leach is the CTO and Co-Founder of Splice Machine (http://www.splicemachine.com/). With over 15 years of software experience under his belt, John’s expertise in analytics and BI drives his role as Chief Technology Officer. Prior to Splice Machine, John founded Incite Retail in June 2008 and led the company’s strategy and development efforts. At Incite Retail, he built custom Big Data systems (leveraging HBase and Hadoop) for Fortune 500 companies. Prior to Incite Retail, he ran the business intelligence practice at Blue Martini Software and built strategic partnerships with integration partners. John was a key subject matter expert for Blue Martini Software in many strategic implementations across the world. His focus at Blue Martini was helping clients incorporate decision support knowledge into their current business processes utilizing advanced algorithms and machine learning. John received dual bachelor’s degrees in biomedical and mechanical engineering from Washington University in Saint Louis. Leach currently is the organizer for the Saint Louis Hadoop Users Group and is active in the Washington University Elliot Society.",
+  "date_time": "2016-01-21T18:30:00-08:00",
+  "end_time": "2016-01-21T21:30:00-08:00"
+}

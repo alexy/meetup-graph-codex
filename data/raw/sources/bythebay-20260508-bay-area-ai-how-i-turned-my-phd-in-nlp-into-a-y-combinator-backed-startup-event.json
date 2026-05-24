@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-07-02T12:00:00-07:00",
+    "description": "In this year-later update since Alyona had given the original talk at Bay Area NLP, she will share how her startup, Thematic, is growing.\n\nAlyona Medelyan will be sharing her story of discovering NLP while studying linguistics and pivoting her degree into CS and Machine Learning. She will explain the ML framework of the keyword extraction algorithm KEA, powered by one of the first ML libraries WEKA. Having co-authored the most-cited study of using Wikipedia in NLP research, she'll share two of her own projects that use it, including Maui, which ended up getting onto the radar of NATO.\n\nAlyona's passion lies in commercialization of research ideas. On her third attempt she managed to start a company that uses the ideas from her PhD to solve a problem most companies struggle with today: understanding the needs of their customers. She will share how she co-founded Thematic and the what was required to turn it into a successful venture, as well as how it grew since then.\n\nAlyona was instrumental in helping events By the Bay be more diverse since Text By the Bay held in 2015, reaching out from New Zealand (where she's back now due to the global pandemic). We want to thank ScaledML 2020 for hosting Alyona, where we reconnected, and Rob Munro, the organizer of Bay Area NLP, for the original meetup with Alyona last year.",
+    "endTime": "2020-07-02T14:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/270962734/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "270962734",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "How I turned my PhD in NLP into a Y Combinator-backed Startup"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-how-i-turned-my-phd-in-nlp-into-a-y-combinator-backed-startup-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/270962734/"
+}

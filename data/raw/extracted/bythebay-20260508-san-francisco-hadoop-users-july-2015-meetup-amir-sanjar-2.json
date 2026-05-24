@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar-2",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar-2",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar-2.json",
+  "kind": "talk",
+  "event_id": "222870784",
+  "event_title": "July 2015 Meetup",
+  "title": "July 2015 Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": "Amir Sanjar",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/222870784/",
+  "description": "We are happy to invite you to the July 1st SFHUG meeting! We will have one opening presentation and then have a few community-proposed breakouts. Big thanks to the Canonical team for supplying the food & drinks. Agenda 6-630pm -- Networking 630-650pm -- Presentation by Amir Sanjar with Q&A 650-7pm -- Breakout sign-ups 7-730pm -- Breakouts 730-8pm -- Networking First presentation Title: Hadoop: From complexity to simplicity Speaker: Amir Sanjar, Senior Big Data Development Lead, Canonical Abstract: Big data architectures should not mean long and complex setup and operations. In this talk we'll look at tools such as Juju that make it easy to collect, index, and query massive volumes of data across Apache Hadoop, Spark and other enterprise Big Data solution stacks. 1) Intro to Juju 2) Apache Hadoop pluggable model - Port to CDH 5.4 stack 3) Pluggable services: Apache Spark or CDH Spark 4) Pluggable Data Ingestion: Flume, sqoop or Kafka 5) Pluggable Data Visualization: Hue, IPyNotebook, or Apache Zeppelin 6) Cloudera Manager 5.4.x deployment on AWS/MASS/Local/Azure Bio: Amir is a Senior Big Data development lead with many years of experience in leading global HPC development teams from IBM POWER to SystemX. He is a specialist in the distributed solution deployment resulting in seven registered patents in United States. Additional Information Please RSVP to this meetup so we'll have headcount for food. Take the elevator to the 11th floor to the Cloudera office. There are a couple of paid parking lots on California St. The closest BART station is Montgomery St. about four blocks away. See you soon!",
+  "date_time": "2015-07-01T18:00:00-07:00",
+  "end_time": "2015-07-01T20:00:00-07:00"
+}

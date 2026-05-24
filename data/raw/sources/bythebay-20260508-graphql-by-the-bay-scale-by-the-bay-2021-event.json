@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2021-10-27T09:00:00-07:00",
+    "description": "Scale By the Bay 2021 is in less than two weeks, on October 27-29:\n\nhttps://scale.bythebay.io\n\nWe begin with a workshop by Hasura, free for the conference attendees.\n\nBuild a Production-ready Data Access Layer with GraphQL and Hasura\n\nDescription: In this live, hands-on workshop, we will introduce the concept of a data mesh, data federation with GraphQL and how to aggregate different APIs into a unified GraphQL layer with Hasura.\n\nWe will make use of database connections, external GraphQL APIs, REST APIs and establish relationships between them to create a powerful and secure API that can be consumed by any client.\n\nIt will cover:\nAn introduction to GraphQL and the concept of the Data Mesh\nHow to set up a GraphQL API using Hasura\nHow to join across multiple data sources and APIs\nHow to add use Hasura’s auth system to create roles and restrict access to data\nHow to connect the GraphQL API to a frontend client\n\nWe also have 60+ talks on Software Engineering, Cloud Architecture, and Data Pipelines with AI/ML. See the map pf the whole program at https://chief.sc/sbtb2021-map.\n\nSee the full program at https://scale.bythebay.io and register with the code SFGRAPHQL20 for 20% off (before late bird pricing begins).",
+    "endTime": "2021-10-29T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/graphql-by-the-bay/events/281408010/",
+    "group": {
+      "id": "20929747",
+      "name": "GraphQL By the Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "281408010",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scale By the Bay 2021"
+  },
+  "meetup_id": "meetup:20929747",
+  "meetup_name": "GraphQL By the Bay",
+  "meetup_url": "https://www.meetup.com/graphql-by-the-bay/events/?type=past",
+  "source_id": "bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-2021-event",
+  "source_url": "https://www.meetup.com/graphql-by-the-bay/events/281408010/"
+}

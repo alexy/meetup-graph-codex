@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-self-service-data-exploration-with-apache-drill-mapr-anomaly",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-self-service-data-exploration-with-apache-drill-mapr-anomaly",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-self-service-data-exploration-with-apache-drill-mapr-anomaly.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-self-service-data-exploration-with-apache-drill-mapr-anomaly.json",
+  "kind": "talk",
+  "event_id": "206923002",
+  "event_title": "October SF Hadoop Users Meetup",
+  "title": "\"Self Service Data Exploration with Apache Drill\"",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": "MapR Anomaly",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/206923002/",
+  "description": "Tomer Shiran - VP, Product Management, MapR Time to value is everything. With the emergence of new data sources such as web logs, social media, mobile applications and sensor data, organizations are looking extend BI by providing insights into new areas such as operational performance, product optimization and customer satisfaction. However, traditional data management processes simply don’t work in this new world of big data. Organizations now not only have to manage higher volumes of information, but the data itself arrives at faster rates in real time and is more complex and dynamic than traditional transactional datasets. To be useful, this data must be analyzed in much shorter intervals than traditional reporting cycles of weeks and months. In this session, we will see how Apache Drill is driving this audacious goal to bring Self Service data exploration natively on the Hadoop/NoSQL data and how it lets users explore any type of data immediately as it comes in using the familiar ANSI SQL language/SQL tools they are already familiar with. It also covers the exciting challenges that the Apache Drill community is working with, its current status and the roadmap.",
+  "date_time": "2014-10-08T18:00:00-07:00",
+  "end_time": "2014-10-08T21:00:00-07:00"
+}

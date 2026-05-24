@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-scala-and-sips-event",
+  "source_id": "bythebay-20260508-sf-scala-scala-and-sips-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scala-and-sips-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scala-and-sips-event.json",
+  "kind": "event",
+  "event_id": "302988195",
+  "event_title": "Scala and Sips",
+  "title": "Scala and Sips",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/302988195/",
+  "description": "Join & rsvp on the new Luma group and reconnect live! https://lu.ma/wrrc12tx Full details ^^",
+  "date_time": "2024-08-27T17:00:00-07:00",
+  "end_time": "2024-08-27T20:00:00-07:00"
+}

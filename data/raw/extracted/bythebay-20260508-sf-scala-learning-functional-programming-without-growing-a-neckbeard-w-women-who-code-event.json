@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-learning-functional-programming-without-growing-a-neckbeard-w-women-who-code-event",
+  "source_id": "bythebay-20260508-sf-scala-learning-functional-programming-without-growing-a-neckbeard-w-women-who-code-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-learning-functional-programming-without-growing-a-neckbeard-w-women-who-code-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-learning-functional-programming-without-growing-a-neckbeard-w-women-who-code-event.json",
+  "kind": "talk",
+  "event_id": "90399482",
+  "event_title": "Learning Functional Programming without Growing a Neckbeard (w/ Women Who Code)",
+  "title": "Learning Functional Programming without Growing a Neckbeard (w/ Women Who Code)",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/90399482/",
+  "description": "Functional programming--a style of programming that works by defining expressions instead of executing statements--has a reputation for being heavy on the mathematics, incomprehensible, and impractical for day to day programming tasks. Not so! Come learn how to write code that's like Pam Grier--powerful, beautiful, and tough to mess with. You should come to this meetup if you: 1) Are a woman, or the guest of a woman attending the talk. SF Scala is hosting this talk to reach out to a fresh group of programmers. Awesome! If you'd like for SF Scala to reach out to a different group, great--please get in touch with Johanne at johanne.quiambao@marakana.com, she's always looking for new speakers and talks! 2) Can guess at what the following program does: public static void main (String args[]) { System.out.println(\"Greetings! It is I, The Count.\"); try { for (int i = 0; i < args.length; i++) { int n = Integer.parseInt(args[i]); System.out.println(n + \"! \" + n + \" things, ah ah ah!\"); } } catch (Exception e) { System.out.println(\"How could this be, there is nothing to count!\"); } } Scala compiles down to Java bytecode and runs on the JVM, but there's no need to be a Java expert to get started in Scala. If you're reasonably sure what happens when you run the above code, you know enough to understand the concepts in this talk. ABOUT KELSEY INNIS Kelsey Innis is a software engineer at StackMob, where she uses Scala to help mobile developers power their apps. She strives to write code with charisma, uniqueness, nerve and talent and hopes to one day really, truly, I mean like really understand what a monad is.",
+  "date_time": "2012-12-13T18:00:00-08:00",
+  "end_time": "2012-12-13T21:00:00-08:00"
+}

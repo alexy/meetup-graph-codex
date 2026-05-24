@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18601481:bythebay-20260508-sf-data-and-ai-engineering-scalding-on-tez-registration-via-eventbrite-only-event",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-scalding-on-tez-registration-via-eventbrite-only-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-scalding-on-tez-registration-via-eventbrite-only-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-scalding-on-tez-registration-via-eventbrite-only-event.json",
+  "kind": "announcement",
+  "event_id": "223796970",
+  "event_title": "Scalding on Tez [registration via Eventbrite only]",
+  "title": "Scalding on Tez [registration via Eventbrite only]",
+  "conference_id": "meetup:18601481",
+  "meetup_id": "meetup:18601481",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/223796970/",
+  "description": "This is a Twitter event. You have to register via Eventbrite to attend. (https://www.eventbrite.com/e/scalding-on-tez-tickets-17592244878) One of the great benefits of Scalding, the Scala API developed at Twitter for building applications on Hadoop, is that it sits on top of Cascading, which allows for easily porting Scalding apps from MapReduce to newer, faster execution fabrics. In this talk, Cyrille Chepelov will share how he boosted the performance of his company's Scalding app by over 50% by taking advantage of the upcoming release of Cascading 3.0 to scrap MapReduce and run instead over Apache Tez. A Product Innovation Director at Transparency Rights Management, which specializes in copyright-related metadata, Chepelov will discuss how he made the transition away from MapReduce, the concerns that kept him up at night, and why he’s glad he did it. About Cyrille... Hoping not to become a software developer, Cyrille Chepelov trained as a mechanical engineering instructor, but to no avail: he soon found himself developing monitoring solutions for mold-and-die milling machines used by automotive contractors. He then went on to build software for clients in investment banking, government and mass transit. Since joining Transparency Rights Management as Product Innovation Director in 2013, Chepelov works with customers in the music and health data management industries, helping them get clear on the questions they want to ask about their data and building prototypes to deliver answers. 11:30am: Doors open 12:30pm: Doors close 11:30am: Networking and Lunch 12:30pm: Scalding on Tez with Cyrille Chepelov | Q&A 2:00pm: End of event",
+  "date_time": "2015-07-14T11:30:00-07:00",
+  "end_time": "2015-07-14T14:00:00-07:00"
+}

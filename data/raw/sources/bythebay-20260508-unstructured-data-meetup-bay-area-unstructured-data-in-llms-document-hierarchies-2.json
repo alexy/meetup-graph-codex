@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2023-09-27T17:30:00-07:00",
+    "description": "**Topic:** Connecting your unstructured data with LLMs\n\n**What we’ll do:**\nHave some food and refreshments. Hear three exciting talks about LLMs and unstructured data.\n\n5:30 - 6:00 - Welcome/Networking/Registration\n6:05 - 6:30 - Rachel Hu, Founder, CambioML\n6:35 - 7:00 - David Garnitz, Founder, VectorFlow\n7:05 - 7:30 - Yi Ding, Developer Advocate, LlamaIndex\n7:30 - 8:30 - Networking\n\n**Who Should attend:**\nAnyone interested in talking and learning about Unstructured Data and LLM Apps.\n\n**When:**\nSeptember 27th, 2023\n5:30PM\n\n**Where:**\nThis is an in-person event! [Register](https://lu.ma/mfrffurm) to see the location.\nSponsored by [Zilliz](zilliz.com)\n\n**Tech Talk 1: Advanced Strategies for Production RAG**\n**Speaker**: Yi Ding, Developer Advocate, LlamaIndex\n**Abstract**: As we pass the second anniversary of ChatGPT's knowledge cutoff, it's clearer than ever that retrieving the right data for the LLM is crucial for the majority of applications. What we've seen at LlamaIndex is that once you get past the demo, tuning your RAG strategy involves a lot of domain specific optimization and tradeoffs. I will be discussing a number of more advanced strategies including SubQuestionQueryEngine, \"Small to Big,\" Document Hierarchies, and Milvus's Hybrid Search.\n\n**Tech Talk 2: Ingesting Chaos: Handling Unstructured Data Reliably at Scale for RAG & Beyond**\n**Speaker**: David Garnitz, Founder, VectorFlow\n**Abstract**: The wide range of scenario and edge cases to account for makes ingesting and processing unstructured data into vector databases difficult. You can offload some of the complexity by using a vector embedding pipeline. This, in combination with an automated evaluation system, will allow you to experiment with different ingestion techniques to see what works best for your data and use-case.",
+    "endTime": "2023-09-27T20:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/unstructured-data-sf/events/295803056/",
+    "group": {
+      "id": "36468260",
+      "name": "Unstructured Data Meetup Bay Area",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "295803056",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Unstructured Data in LLMs"
+  },
+  "event_id": "295803056",
+  "event_title": "Unstructured Data in LLMs",
+  "meetup_id": "meetup:36468260",
+  "meetup_name": "Unstructured Data Meetup Bay Area",
+  "meetup_url": "https://www.meetup.com/unstructured-data-sf/events/?type=past",
+  "session": {
+    "description": "**Topic:** Connecting your unstructured data with LLMs **What we’ll do:** Have some food and refreshments. Hear three exciting talks about LLMs and unstructured data. 5:30 - 6:00 - Welcome/Networking/Registration 6:05 - 6:30 - Rachel Hu, Founder, CambioML 6:35 - 7:00 - David Garnitz, Founder, VectorFlow 7:05 - 7:30 - Yi Ding, Developer Advocate, LlamaIndex 7:30 - 8:30 - Networking **Who Should attend:** Anyone interested in talking and learning about Unstructured Data and LLM Apps. **When:** September 27th, 2023 5:30PM **Where:** This is an in-person event! [Register](https://lu.ma/mfrffurm) to see the location. Sponsored by [Zilliz](zilliz.com) **Tech Talk 1: Advanced Strategies for Production RAG** **Speaker**: Yi Ding, Developer Advocate, LlamaIndex **Abstract**: As we pass the second anniversary of ChatGPT's knowledge cutoff, it's clearer than ever that retrieving the right data for the LLM is crucial for the majority of applications. What we've seen at LlamaIndex is that once you get past the demo, tuning your RAG strategy involves a lot of domain specific optimization and tradeoffs. I will be discussing a number of more advanced strategies including SubQuestionQueryEngine, \"Small to Big,\" Document Hierarchies, and Milvus's Hybrid Search. **Tech Talk 2: Ingesting Chaos: Handling Unstructured Data Reliably at Scale for RAG & Beyond** **Speaker**: David Garnitz, Founder, VectorFlow **Abstract**: The wide range of scenario and edge cases to account for makes ingesting and processing unstructured data into vector databases difficult. You can offload some of the complexity by using a vector embedding pipeline. This, in combination with an automated evaluation system, will allow you to experiment with different ingestion techniques to see what works best for your data and use-case.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-document-hierarchies-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-document-hierarchies-2.json",
+    "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-document-hierarchies-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Document Hierarchies"
+      }
+    ],
+    "title": "Unstructured Data in LLMs"
+  },
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-document-hierarchies-2",
+  "source_url": "https://www.meetup.com/unstructured-data-sf/events/295803056/"
+}

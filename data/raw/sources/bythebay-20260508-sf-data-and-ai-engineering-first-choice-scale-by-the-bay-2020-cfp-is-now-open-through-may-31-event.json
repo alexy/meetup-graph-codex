@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-05-31T22:00:00-07:00",
+    "description": "The 8th Annual Scale By the Bay developer conference will be held either online or in person in November, 2020.\n\nThe CFP is now open at https://scale.bythebay.io.\n\nThe First Choice CFP will run until May 31st, when 1/2 of the program will be selected. The next 1/4 will be selected by June 30th, and so on. The bar will move higher in each iteration, allowing for the strongest talks to still join.\n\nPlease submit your best talk early, and hope to see you on the program!",
+    "endTime": "2020-06-01T00:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/270391454/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "270391454",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "First Choice Scale By the Bay 2020 CFP is now Open through May 31"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-first-choice-scale-by-the-bay-2020-cfp-is-now-open-through-may-31-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/270391454/"
+}

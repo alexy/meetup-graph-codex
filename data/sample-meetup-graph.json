@@ -1,0 +1,192 @@
+{
+  "source_urls": [
+    "https://example.test/meetups/graph-night",
+    "https://example.test/meetups/rust-data-night"
+  ],
+  "conferences": [
+    {
+      "id": "sample-conference",
+      "name": "Sample By the Bay",
+      "site": "example.test",
+      "url": "https://example.test/"
+    }
+  ],
+  "meetups": [
+    {
+      "id": "meetup:graph-night",
+      "name": "Graph Night",
+      "url": "https://example.test/meetups/graph-night",
+      "timezone": "America/Los_Angeles"
+    },
+    {
+      "id": "meetup:rust-data-night",
+      "name": "Rust Data Night",
+      "url": "https://example.test/meetups/rust-data-night",
+      "timezone": "America/Los_Angeles"
+    }
+  ],
+  "people": [
+    {
+      "id": "person:ada-lovelace",
+      "name": "Ada Lovelace",
+      "conference_id": "sample-conference",
+      "meetup_id": null,
+      "organization": "Analytical Engines",
+      "title": "Researcher",
+      "source_url": "https://example.test/meetups/graph-night",
+      "source_id": "speaker-ada",
+      "source_file": "data/sample-meetup-graph.json"
+    },
+    {
+      "id": "person:grace-hopper",
+      "name": "Grace Hopper",
+      "conference_id": "sample-conference",
+      "meetup_id": null,
+      "organization": "Compiler Labs",
+      "title": "Engineer",
+      "source_url": "https://example.test/meetups/graph-night",
+      "source_id": "speaker-grace",
+      "source_file": "data/sample-meetup-graph.json"
+    },
+    {
+      "id": "person:margaret-hamilton",
+      "name": "Margaret Hamilton",
+      "conference_id": "sample-conference",
+      "meetup_id": null,
+      "organization": "Systems Guild",
+      "title": "Architect",
+      "source_url": "https://example.test/meetups/graph-night",
+      "source_id": "speaker-margaret",
+      "source_file": "data/sample-meetup-graph.json"
+    },
+    {
+      "id": "person:katherine-johnson",
+      "name": "Katherine Johnson",
+      "conference_id": "sample-conference",
+      "meetup_id": null,
+      "organization": "Orbit Math",
+      "title": "Analyst",
+      "source_url": "https://example.test/meetups/rust-data-night",
+      "source_id": "speaker-katherine",
+      "source_file": "data/sample-meetup-graph.json"
+    }
+  ],
+  "talks": [
+    {
+      "id": "talk:graph-night:graph-loading",
+      "source_id": "talk-graph-loading",
+      "source_file": "data/sample-meetup-graph.json",
+      "extracted_file": "data/sample-meetup-graph.json",
+      "kind": "talk",
+      "event_id": "event:graph-night",
+      "event_title": "Graph Night",
+      "title": "Loading Portable Graphs",
+      "conference_id": "sample-conference",
+      "meetup_id": "meetup:graph-night",
+      "speaker_text": "Ada Lovelace, Grace Hopper",
+      "tags": ["graphs", "rust"],
+      "url": "https://example.test/meetups/graph-night/talks/graph-loading",
+      "description": "A joint talk that illustrates co-speakers on the same talk.",
+      "date_time": "2026-05-23T18:00:00-07:00",
+      "end_time": "2026-05-23T18:30:00-07:00"
+    },
+    {
+      "id": "talk:graph-night:query-patterns",
+      "source_id": "talk-query-patterns",
+      "source_file": "data/sample-meetup-graph.json",
+      "extracted_file": "data/sample-meetup-graph.json",
+      "kind": "talk",
+      "event_id": "event:graph-night",
+      "event_title": "Graph Night",
+      "title": "Query Patterns for Meetup Graphs",
+      "conference_id": "sample-conference",
+      "meetup_id": "meetup:graph-night",
+      "speaker_text": "Margaret Hamilton",
+      "tags": ["graphs", "queries"],
+      "url": "https://example.test/meetups/graph-night/talks/query-patterns",
+      "description": "A second talk in the same meetup.",
+      "date_time": "2026-05-23T18:40:00-07:00",
+      "end_time": "2026-05-23T19:10:00-07:00"
+    },
+    {
+      "id": "talk:rust-data-night:async-loaders",
+      "source_id": "talk-async-loaders",
+      "source_file": "data/sample-meetup-graph.json",
+      "extracted_file": "data/sample-meetup-graph.json",
+      "kind": "talk",
+      "event_id": "event:rust-data-night",
+      "event_title": "Rust Data Night",
+      "title": "Async Loaders in Rust",
+      "conference_id": "sample-conference",
+      "meetup_id": "meetup:rust-data-night",
+      "speaker_text": "Ada Lovelace, Katherine Johnson",
+      "tags": ["rust", "async"],
+      "url": "https://example.test/meetups/rust-data-night/talks/async-loaders",
+      "description": "A second meetup where Ada has a different co-speaker.",
+      "date_time": "2026-06-10T18:00:00-07:00",
+      "end_time": "2026-06-10T18:30:00-07:00"
+    }
+  ],
+  "edges": [
+    {
+      "from": "person:ada-lovelace",
+      "to": "sample-conference",
+      "relationship": "SPEAKS_AT"
+    },
+    {
+      "from": "person:grace-hopper",
+      "to": "sample-conference",
+      "relationship": "SPEAKS_AT"
+    },
+    {
+      "from": "person:margaret-hamilton",
+      "to": "sample-conference",
+      "relationship": "SPEAKS_AT"
+    },
+    {
+      "from": "person:katherine-johnson",
+      "to": "sample-conference",
+      "relationship": "SPEAKS_AT"
+    },
+    {
+      "from": "person:ada-lovelace",
+      "to": "talk:graph-night:graph-loading",
+      "relationship": "PRESENTS"
+    },
+    {
+      "from": "person:grace-hopper",
+      "to": "talk:graph-night:graph-loading",
+      "relationship": "PRESENTS"
+    },
+    {
+      "from": "person:margaret-hamilton",
+      "to": "talk:graph-night:query-patterns",
+      "relationship": "PRESENTS"
+    },
+    {
+      "from": "person:ada-lovelace",
+      "to": "talk:rust-data-night:async-loaders",
+      "relationship": "PRESENTS"
+    },
+    {
+      "from": "person:katherine-johnson",
+      "to": "talk:rust-data-night:async-loaders",
+      "relationship": "PRESENTS"
+    },
+    {
+      "from": "talk:graph-night:graph-loading",
+      "to": "meetup:graph-night",
+      "relationship": "PART_OF_MEETUP"
+    },
+    {
+      "from": "talk:graph-night:query-patterns",
+      "to": "meetup:graph-night",
+      "relationship": "PART_OF_MEETUP"
+    },
+    {
+      "from": "talk:rust-data-night:async-loaders",
+      "to": "meetup:rust-data-night",
+      "relationship": "PART_OF_MEETUP"
+    }
+  ]
+}

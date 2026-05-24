@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-open-trusted-data-initiative-otdi-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-open-trusted-data-initiative-otdi-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-open-trusted-data-initiative-otdi-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-open-trusted-data-initiative-otdi-event.json",
+  "kind": "workshop",
+  "event_id": "308111865",
+  "event_title": "[AI Alliance] Open Trusted Data Initiative (OTDI)",
+  "title": "Open Trusted Data Initiative (OTDI)",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/308111865/",
+  "description": "The AI Alliance brings together over 170 organizations to promote open source AI technologies across the globe. Please join us learn about the [Open Trusted Data Initiative (OTDI)](https://the-ai-alliance.github.io/open-trusted-data-initiative/), which seeks to address a common challenge for organizations that need datasets for AI pre-training, tuning, RAG, and other purposes. While lots of useful datasets are available, it is not always clear which ones are licensed for free and unlimited use, with clear provenance for their history, and suitable governance to be sure the claimed licenses and provenance are in fact valid for the whole dataset. Don't miss this important AI Alliance update and learn how you can get involved! **About the presenter** Joe Olson, IBM",
+  "date_time": "2025-06-19T12:00:00-04:00",
+  "end_time": "2025-06-19T13:00:00-04:00"
+}

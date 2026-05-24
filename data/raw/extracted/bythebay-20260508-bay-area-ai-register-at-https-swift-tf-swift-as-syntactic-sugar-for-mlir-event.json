@@ -1,0 +1,22 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-register-at-https-swift-tf-swift-as-syntactic-sugar-for-mlir-event",
+  "source_id": "bythebay-20260508-bay-area-ai-register-at-https-swift-tf-swift-as-syntactic-sugar-for-mlir-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-register-at-https-swift-tf-swift-as-syntactic-sugar-for-mlir-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-register-at-https-swift-tf-swift-as-syntactic-sugar-for-mlir-event.json",
+  "kind": "announcement",
+  "event_id": "262263171",
+  "event_title": "[Register at https://swift.tf!] Swift as syntactic sugar for MLIR",
+  "title": "Swift as syntactic sugar for MLIR",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "crosspost",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/262263171/",
+  "description": "Please register at https://swift.tf! This is a joint meetup with Swift for TensorFlow. If you RSVP here you'll be waitlisted and nothing else will happen! Swift for TensorFlow is covered at https://scale.bythebay.io conference in November. Reserve your seat to learn more! ----- We need a video sponsor for this meetup, at $500. You will be mentioned in the video if it happens and on the meetup! ----- Swift works great as an infinitely hackable syntactic interface to semantics that are defined by the compiler underneath it. The two options today are LLVM (there's a running joke that Swift is just syntactic sugar for LLVM) and TensorFlow graphs (which is the contribution of early versions of Swift for TensorFlow). Multi-Level Intermediate Representation (MLIR) is a generalization of both the LLVM IR and TensorFlow graphs to represent arbitrary computations at multiple levels of abstraction. This enables domain-specific optimizations and code generation (e.g. for CPUs, GPUs, TPUs, and other hardware targets). In the talk, we'll present some thoughts on how Swift could compile down to MLIR and show a few demos of prototype technologies that we've developed. Eugene Burmako (burmako@google.com) is working on Swift for TensorFlow at Google AI. Before joining Google, he made major contributions to Scala at EPFL and Twitter, founding Reasonable Scala compiler, Scalameta and Scala macros. Eugene loves compilers, and his mission is to change the world with compiler technology. Alex Suhan (asuhan@google.com) is also working on Swift for TensorFlow at Google AI. He has been using LLVM to accelerate machine learning and data analytics workloads for the last five years. Alex enjoys working at the interface between software and various hardware accelerators. Our work is the result of discussions and collaboration with many folks - our colleagues from Google, the Swift compiler team from Apple, as well as our community members, including Jeremy Howard from http://fast.ai. We're very grateful for everyone's input and contributions!",
+  "date_time": "2019-09-09T18:00:00-07:00",
+  "end_time": "2019-09-09T20:00:00-07:00"
+}

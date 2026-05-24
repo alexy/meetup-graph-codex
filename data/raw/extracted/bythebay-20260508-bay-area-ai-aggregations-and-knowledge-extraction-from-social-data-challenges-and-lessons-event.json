@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-aggregations-and-knowledge-extraction-from-social-data-challenges-and-lessons-event",
+  "source_id": "bythebay-20260508-bay-area-ai-aggregations-and-knowledge-extraction-from-social-data-challenges-and-lessons-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-aggregations-and-knowledge-extraction-from-social-data-challenges-and-lessons-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-aggregations-and-knowledge-extraction-from-social-data-challenges-and-lessons-event.json",
+  "kind": "talk",
+  "event_id": "257791863",
+  "event_title": "Aggregations and knowledge extraction from social data: challenges and lessons",
+  "title": "Aggregations and knowledge extraction from social data: challenges and lessons",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/257791863/",
+  "description": "This talk is about the construction of new data assets from social media using techniques drawn from the areas of information retrieval, machine learning, graphs, and social networks. I’ll describe three projects based on Twitter and Foursquare data sets that use social data in different ways to help users in information seeking scenarios. The first one, a recommender system for recreational queries using location-based social networks. The second project, a social knowledge graph derived from Twitter with the goal of discovering relationships between people, links, and topics. And the third one, an application for archiving and Wikification of stories. Omar Alonso is a Principal Applied Scientist with Microsoft where he works on the intersection of information retrieval, social data, human computation, and knowledge graph generation. He is the co-chair of the Human Computation and Crowdsourcing track at WWW'19 and on the organizing committee for HCOMP'19.",
+  "date_time": "2019-01-15T18:00:00-08:00",
+  "end_time": "2019-01-15T20:00:00-08:00"
+}

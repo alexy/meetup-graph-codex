@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-07-16T17:30:00-07:00",
+    "description": "This is an in-person event! [Registration](https://lu.ma/ywy6zmz8) is required in order to get in. Github will email you a form the day before the event, which you will need to complete for your access pass.\n\n**Topic:** Connecting your unstructured data with Generative LLMs\n\n**What we’ll do:**\nHave some food and refreshments. Hear three exciting talks about unstructured data and generative AI.\n5:30 - 6:00 - Welcome/Networking/Registration\n6:05 - 6:30 - [Alexandre Bonnet](https://www.linkedin.com/in/alexandre-bonnet1/), Lead ML Solutions Engineer, [Encord](https://encord.com/)\n6:35 - 7:00 - [Joe Maionchi](https://www.linkedin.com/in/jmaionchi/), VP R&D, and [Hendrik Krack](https://www.linkedin.com/in/climateadvocateaienthusiast/), Developer Advocate, [Aparavi](https://aparavi.com/)\n7:05 - 7:30 - [Frank Liu](https://www.linkedin.com/in/fzliu/), Head of AI/M, Zilliz\n7:35 - 7:45 - Community demo\n7:45 - 8:30 - Networking\n\n**Who Should attend:**\nAnyone interested in talking and learning about Unstructured Data and Generative AI Apps.\n\n**Tech Talk 1**: Garbage In, Garbage Out: Why poor data curation is killing your AI models (and how to fix it)\n**Speaker**: Alexandre Bonnet\n**Abstract**: Enterprises have traditionally prioritized data quantity, assuming more is better for AI performance. However, a new reality is setting in: high-quality data, not just volume, is the key. This shift exposes a critical gap – many organizations struggle to understand their existing data and lack effective curation strategies and tools. This talk dives into these data challenges and explores the methods of automating data curation.\n\n**Tech Talk 2**: It's your unstructured data: How to get your GenAI app to production (and speed up your delivery)\n**Speakers**: Joe Maionchi and Hendrik Krack\n**Abstract**: So you've successfully built a GenAI app POC for your company -- now comes the hard part: bringing it to production. Aparavi addresses the challenges of AI projects while addressing data privacy and PII. Our Service for RAG helps AI developers and data scientists to scale their app to 1000s to millions of users using corporate unstructured data. Aparavi’s AI Data Loader cleans, prepares and then loads only the relevant unstructured data for each AI project/app, enabling you to operationalize the creation of GenAI apps easily and accurately while giving you the time to focus on what you really want to do - building a great AI application with useful and relevant context. All within your environment and never having to share private corporate data with anyone - not even Aparavi.\n\n**Talk 3**: Multimodal Embeddings\n**Speaker**: Frank Liu\n**Abstract**: Frank Liu will walk through the history of embeddings and how we got to the cool embedding models used today. He'll end with a demo on how multimodal RAG is used.\n\n**Who Should attend:**\nAnyone interested in talking and learning about Unstructured Data and Generative AI Apps.\n\n**When:**\nJuly 16, 2024\n5:30PM\n\n**Where:**\nThis is an in-person event! Registration is required to get in. Registration will close 2 days before the event. Co-sponsored by [Aparavi](https://aparavi.com/), [Encord](https://encord.com/), and [Zilliz](http://zilliz.com/) (maintainers of [Milvus](https://github.com/milvus-io/milvus)).\n\n**Can’t make it in person? Join us virtually on Twitch:**\n[https://www.twitch.tv/vectordatabase](https://www.twitch.tv/vectordatabase)",
+    "endTime": "2024-07-16T20:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/unstructured-data-sf/events/301140497/",
+    "group": {
+      "id": "36468260",
+      "name": "Unstructured Data Meetup Bay Area",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "301140497",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Unstructured Data in LLMs"
+  },
+  "meetup_id": "meetup:36468260",
+  "meetup_name": "Unstructured Data Meetup Bay Area",
+  "meetup_url": "https://www.meetup.com/unstructured-data-sf/events/?type=past",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-11",
+  "source_url": "https://www.meetup.com/unstructured-data-sf/events/301140497/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-06-07T18:00:00-07:00",
+    "description": "Finagle currently serves 100% of Twitter’s traffic and is an integral component in most of their distributed systems.\n\nWe're pleased to have Marius Eriksen with Twitter (http://twitter.com/) join us to discuss the design and implementation of their RPC system, Finagle. They believe its design is especially amenable for creating systems that are correct, composable, modular and performant. Marius will also dig deeper into the motivations and principles behind Finagle’s design. After explaining the chief abstractions and how these fit together, he will demonstrate how to add support for new protocols by constructing a codec from scratch.\n\nThe rough agenda for the evening looks like this:\n\n6:00-6:25pm: Arrive and Mingle (food/drinks provided)\n6:25-6:30pm: Announcements\n6:30-7:30pm: Marius Presentation\n7:30-8:00pm: Q&A and Wrap-up\n\nAbout Marius Eriksen\n\nMarius works on systems infrastructure at Twitter. He has worked on RPC and streaming systems, profiling tools, storage & indexing systems as well as our front-end serving stack. He loves applying functional programming to these domains.",
+    "endTime": "2012-06-07T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/67166562/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "67166562",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Finagle: Twitter's RPC System"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-finagle-twitter-s-rpc-system-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/67166562/"
+}

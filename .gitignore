@@ -1,0 +1,23 @@
+# Rust build artifacts
+/target/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and runtime output
+*.log
+*.pid
+
+# Editor and OS metadata
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Backup and temporary files
+*~
+*.tmp
+*.bak

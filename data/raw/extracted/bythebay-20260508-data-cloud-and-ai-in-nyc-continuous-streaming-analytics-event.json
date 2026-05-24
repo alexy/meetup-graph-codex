@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-streaming-analytics-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-streaming-analytics-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-streaming-analytics-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-streaming-analytics-event.json",
+  "kind": "event",
+  "event_id": "225607725",
+  "event_title": "Continuous Streaming Analytics",
+  "title": "Continuous Streaming Analytics",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/225607725/",
+  "description": "Hi all. Here is the agenda for the evening tomorrow: • 6-6.20 PM : Introduction to Streams and new directions • 6.20 - 6.40 PM : Streaming Geospatial Analytics, from detecting piracy to solving crimes to finding asteroids • 6.40 - 7.00 PM : Developing on Streams and use-cases in Manufacturing • 7.00 - 8.00 PM : Networking over food & drinks Join us on Tuesday, October 6th, to learn more about real-time streaming data and analytics. We shall introduce the IBM stream processing platform, IBM InfoSphere Streams, and talk about a few different use-cases in healthcare, finance, social media and sports. IBM InfoSphere® Streams is an advanced computing platform that allows user-developed applications to quickly ingest, analyze, and correlate information as it arrives from thousands of real-time sources. The solution can handle very high data throughput rates, up to millions of events or messages per second. A component of the IBM big data platform, InfoSphere Streams processes huge volumes and varieties of data from diverse sources while achieving extremely low latency, enabling decision makers to extract relevant information for timely analysis. InfoSphere Streams radically extends the state of the art in information processing by helping organizations: • Respond in real time to events and changing requirements • Analyze data continuously at rates that are orders of magnitude greater than existing systems • Adapt rapidly to changing data forms and types • Deliver real-time cognitive computing functions to learn patterns and predict outcomes • Manage high availability, heterogeneity and distribution for the streaming data paradigm Agenda : To be posted soon.",
+  "date_time": "2015-10-06T18:00:00-04:00",
+  "end_time": "2015-10-06T20:00:00-04:00"
+}

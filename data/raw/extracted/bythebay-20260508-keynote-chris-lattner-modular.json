@@ -1,0 +1,18 @@
+{
+  "id": "talk:scale-by-the-bay:bythebay-20260508-keynote-chris-lattner-modular",
+  "source_id": "bythebay-20260508-keynote-chris-lattner-modular",
+  "source_file": "data/raw/sources/bythebay-20260508-keynote-chris-lattner-modular.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-keynote-chris-lattner-modular.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "Keynote",
+  "conference_id": "scale-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Chris Lattner",
+  "tags": [],
+  "url": "https://www.scale.bythebay.io/post/chris-lattner",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

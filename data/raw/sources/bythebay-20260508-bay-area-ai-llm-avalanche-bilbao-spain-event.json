@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-09-18T10:00:00-07:00",
+    "description": "LLM Avalanche Bilbao is colocated with OSS Summit EU, the main Linux Foundation conference in Europe.\n\nWe gather all those interested in Generative AI and charting a course for it in Linux Foundation and beyond, to build OSS AI.\n\nIf you are in Europe, hop to Bilbao and join us! You do not have to have a pass to the OSS Summit itself.\n\nThe topics will be technical and include models, applications, benchmarks, community validation mechanisms, and more. The format is an unconference.\n\nYou have to [register at Eventbrite](https://www.eventbrite.com/e/llm-avalanche-bilbao-tickets-718378087197) to attend.\n\n(The Bay we're speaking here is the Bay of Biscay.)",
+    "endTime": "2023-09-18T17:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/296074784/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "296074784",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "LLM Avalanche Bilbao (Spain)"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-llm-avalanche-bilbao-spain-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/296074784/"
+}

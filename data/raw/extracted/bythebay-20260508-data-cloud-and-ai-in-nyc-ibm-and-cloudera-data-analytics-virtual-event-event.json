@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-and-cloudera-data-analytics-virtual-event-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-and-cloudera-data-analytics-virtual-event-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-and-cloudera-data-analytics-virtual-event-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-and-cloudera-data-analytics-virtual-event-event.json",
+  "kind": "event",
+  "event_id": "270955127",
+  "event_title": "IBM and Cloudera Data & Analytics - Virtual Event",
+  "title": "IBM and Cloudera Data & Analytics - Virtual Event",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/270955127/",
+  "description": "This event is online and Pacific Daylight Time. Please adjust to your timezone. Life is changing daily. Most organizations experience growing challenges to enhance IT resiliency and business continuity, reduce operating costs by driving efficiencies, proactively address new cybersecurity risks, and meet the changing needs of digital customers and remote employees. The common denominator in meeting these challenges is data and analytics. Leading companies are turning decision-making into an industrial process – integrating data gathering, analytics and modeling – to make business decisions with ever-improving accuracy. Connecting and securing this data lifecycle is foundational to scaling data-driven decision-making with AI. IBM and Cloudera make this possible and more with Cloudera Data Platform that manages and secures the data lifecycle in any cloud or data center. IBM and Cloudera deliver an enterprise data platform for hybrid cloud, powered by the connected data lifecycle, to build mission-critical and high value applications once, and run them anywhere. Cloudera’s next generation data platform is the industry’s first enterprise data cloud, leveraging Red Hat OpenShift for hybrid cloud deployments that deliver cloud native agility across public and private clouds. Join us on June 11th and accelerate your journey to hybrid cloud and AI. Secure your seat today. Register: https://www.cloudera.com/about/events/virtual-events/ibm-cloudera-journey-to-hybrid-cloud-and-ai.html?utm_medium=3rd-party&utm_source=partner&keyplay=CDP&utm_campaign=FY21-Q2_VE_Globl_IBM%20reg%20link_2020-05-01&cid=7012H000000wkXs&utm_content=IBM",
+  "date_time": "2020-06-11T09:00:00-04:00",
+  "end_time": "2020-06-11T12:00:00-04:00"
+}

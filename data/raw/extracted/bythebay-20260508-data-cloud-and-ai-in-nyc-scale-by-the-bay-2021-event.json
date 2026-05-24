@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-scale-by-the-bay-2021-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-scale-by-the-bay-2021-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-scale-by-the-bay-2021-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-scale-by-the-bay-2021-event.json",
+  "kind": "workshop",
+  "event_id": "281551050",
+  "event_title": "Scale By the Bay 2021",
+  "title": "Scale By the Bay 2021",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/281551050/",
+  "description": "Scale By the Bay 2021 is a global independent OSS conference on software and data engineering, running for the 9th year. It is held online this year in the EU+US timezone, starting at 9am EST timezone. Register for SBTB at https://scale.bythebay.io using the code NYC20 for 20% off. We begin with two workshops on Wednesday, October 27, free to the attendees: * Build a Production-ready Data Access Layer with GraphQL and Hasura * Exposing an HTTP API using Scala 3 On October 28, Clement Delangue, the founder of Hugginface, keynotes on the new way to do AI and AI Ethics. On October 29, Alyona Medelyan, founder of Thematic, will keynote on building your own AI startup. The program consists of three tracks: * Rigorous Software Engineering (Functional Programming, Types, …) * Cloud Architectures (Serverless, Containers, Reactive, Kafka, Spark…) * End-to-end Data Pipelines with AI/ML We have two panels: * Hardware vs Software in AI Future * AI Product from Deeptech Founder and VC perspective A map of the program is at https://chief.sc/sbtb2021-map. Register for Scale By the Bay with NYC20: https://www.scale.bythebay.io/register and join us online for the oldest and best independent Bay Area OSS conference of the year!",
+  "date_time": "2021-10-27T06:00:00-04:00",
+  "end_time": "2021-10-29T20:00:00-04:00"
+}

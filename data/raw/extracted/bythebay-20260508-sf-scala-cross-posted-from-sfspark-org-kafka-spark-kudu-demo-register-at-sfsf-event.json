@@ -1,0 +1,22 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-cross-posted-from-sfspark-org-kafka-spark-kudu-demo-register-at-sfsf-event",
+  "source_id": "bythebay-20260508-sf-scala-cross-posted-from-sfspark-org-kafka-spark-kudu-demo-register-at-sfsf-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-cross-posted-from-sfspark-org-kafka-spark-kudu-demo-register-at-sfsf-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-cross-posted-from-sfspark-org-kafka-spark-kudu-demo-register-at-sfsf-event.json",
+  "kind": "announcement",
+  "event_id": "226109572",
+  "event_title": "[cross-posted from sfspark.org] Kafka+Spark+Kudu demo [register at SFSF]",
+  "title": "Kafka+Spark+Kudu demo [register at SFSF]",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "crosspost",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/226109572/",
+  "description": "We got one of the Cloudera Kudu team members to present Kudu, the data store for modern hardware, at SF Spark and Friends. Please register there! http://www.meetup.com/SF-Spark-and-Friends/events/226023299/",
+  "date_time": "2015-10-22T19:00:00-07:00",
+  "end_time": "2015-10-22T22:00:00-07:00"
+}

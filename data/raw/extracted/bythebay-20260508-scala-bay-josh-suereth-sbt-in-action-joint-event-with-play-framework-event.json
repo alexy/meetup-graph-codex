@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-josh-suereth-sbt-in-action-joint-event-with-play-framework-event",
+  "source_id": "bythebay-20260508-scala-bay-josh-suereth-sbt-in-action-joint-event-with-play-framework-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-josh-suereth-sbt-in-action-joint-event-with-play-framework-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-josh-suereth-sbt-in-action-joint-event-with-play-framework-event.json",
+  "kind": "event",
+  "event_id": "170549992",
+  "event_title": "Josh Suereth, \"SBT in Action\" - joint event with Play Framework",
+  "title": "Josh Suereth, \"SBT in Action\" - joint event with Play Framework",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/170549992/",
+  "description": "This is a joint event with Play Framework: http://www.meetup.com/PlayFramework/events/170541392/ We'll have Josh Suereth (https://twitter.com/jsuereth), active contributor to sbt (http://www.scala-sbt.org/) and author of Scala In Depth (http://www.manning.com/suereth/) / sbt in Action (http://manning.com/suereth2/), to give an introduction to sbt and show how it can make your development flow better. Our Topic One of our most requested topics has been an introduction to sbt. The learning curve can feel quite steep, which gets worse when coming from a Java background. The talk will be accessible to people who have no used Scala or sbt extensively, but will also include useful examples and tips for seasoned sbt users. Full talk description is incoming. Josh will speak for the full hour, and will include a Q&A after. Food and drinks will be provided. Schedule We'll be starting at 7:00pm, so please come a little early if you're coming from SF. • Meet and greet with food / drinks • \"sbt in Action\", Josh Suereth • Q&A / Announcements",
+  "date_time": "2014-03-19T18:30:00-07:00",
+  "end_time": "2014-03-19T21:00:00-07:00"
+}

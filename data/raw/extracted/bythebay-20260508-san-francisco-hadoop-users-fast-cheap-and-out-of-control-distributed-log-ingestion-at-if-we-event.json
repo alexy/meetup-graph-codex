@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-fast-cheap-and-out-of-control-distributed-log-ingestion-at-if-we-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-fast-cheap-and-out-of-control-distributed-log-ingestion-at-if-we-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-fast-cheap-and-out-of-control-distributed-log-ingestion-at-if-we-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-fast-cheap-and-out-of-control-distributed-log-ingestion-at-if-we-event.json",
+  "kind": "talk",
+  "event_id": "220286707",
+  "event_title": "April SF Hadoop Users Meetup",
+  "title": "Fast, Cheap and Out of Control: Distributed Log Ingestion at if(we)",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/220286707/",
+  "description": "Chris Mills, Big Data Lead & Andy Alvarado, Sr. Systems Engineer Log ingestion is something most all of us have to deal with at some time. With high enough volumes, tools like Logstash and Flume can get overwhelmed -- especially on low-spec web servers. We present a minimalist distributed approach for getting logs on low-spec boxes into HDFS using rsyslog and haproxy.",
+  "date_time": "2015-04-08T18:00:00-07:00",
+  "end_time": "2015-04-08T20:00:00-07:00"
+}

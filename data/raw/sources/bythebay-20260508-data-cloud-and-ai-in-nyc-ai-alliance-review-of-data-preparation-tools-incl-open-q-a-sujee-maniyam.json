@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-02-27T12:00:00-05:00",
+    "description": "**Agenda**\n\n* Welcome, housekeeping, etc.\n* Quick intro about AI Alliance (1 min)\n* Presentation: Review of data preparation tools (40 mins)\n* Q&A (10 mins)\n* Wrap-up\n\n**Presentation: Reviewing Data Preparation Tools**\nIn this session we will review the following data preparation tools and techniques we have discussed in the previous sessions:\n\n* [Data Prep Kit](https://github.com/IBM/data-prep-kit)\n* [Docling](https://github.com/DS4SD/docling)\n* Open source RAG with Data Prep Kit + Milvus + Llama\n\nWatch the replay:\n\n* January 30, 2025: Using Docling to process data ([YouTube](https://www.youtube.com/watch?v=RyapKHqom9Q))\n* February 6, 2025: Using Data Prep Kit to process data ([YouTube](https://www.youtube.com/watch?v=8n1dJbXhULc))\n* February 13, 2025: Open source RAG pipeline using Data Prep Kit + Milvus + Granite (recording available soon)\n\n**Session Type**\nTalk and open Q&A\n\n**Audience**\nLLM app developers, data scientists, data engineers\n\n**Technical Level**\nBeginner – Intermediate\n\n**Prerequisites**\nNone\n\n**Resources**\nSee links to session recordings above\n\n**Speaker: Sujee Maniyam, AI Engineer, Developer Advocate (Consulting for [IBM / The AI Alliance](https://thealliance.ai/))**\nSujee Maniyam is an expert in Generative AI, Machine Learning, Deep Learning, Big Data, Distributed Systems, and Cloud technologies. He is passionate about developer education, fostering community engagement. Sujee has led numerous training sessions, hackathons, and workshops. He is also an author, open source contributor and frequent speaker at conferences and meetups.",
+    "endTime": "2025-02-27T13:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/306421923/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "306421923",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] Review of Data Preparation Tools (incl. open Q&A)"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/306421923/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-03-01T18:30:00-08:00",
+    "description": "When he began working with Scala in October, 2009, Brendan McAdams had never written any Scala. Needing to find a way to enhance and improve his company's Java-based platform to better suit a fast paced & growing system, Brendan introduced two new technologies: MongoDB & Scala. But as he found when he began, the tools available for using MongoDB from Scala were severely lacking; this lack formed the basis for the creation of Casbah, a new MongoDB Driver built from the ground up to take full advantage of Scala and feel 'right' to Scala programmers–skilled and unskilled alike.\n\n2 Years later, Casbah is a mature & robust library which takes advantage of many of the advanced concepts in Scala and is deployed by a number of large companies for their core applications. In this talk, Brendan will explore the lessons learned in exploring Scala through the creation of Casbah: Rules of Style for the burgeoning library author, hairy corners of Scala, and when not to be clever and why. Finally, some discussion will be made of things in Scala that you think are a good idea but aren't–because you find out the hard way they don't work like you thought (usually when they blow up on a user's system).\n\nAs always, venue, food, and drinks will be provided by our sponsors!",
+    "endTime": "2012-03-01T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/52512152/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "52512152",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Evolution of Casbah"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-evolution-of-casbah-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/52512152/"
+}

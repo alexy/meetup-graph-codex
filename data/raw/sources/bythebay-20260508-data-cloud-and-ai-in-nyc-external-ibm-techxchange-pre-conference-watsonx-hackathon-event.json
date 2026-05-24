@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-09-12T11:00:00-04:00",
+    "description": "External registration required!\n\nHack your way to the IBM TechXchange Conference! Join this virtual watsonx Hackathon where you’ll get access to watsonx featuring IBM Granite and could win a trip to Las Vegas.\n\nCheck the website to [learn more](https://www.ibm.com/community/ibm-techxchange-conference-hackathon/) and to [RSVP](https://pretxchack.watsonx-challenge.ibm.com/welcome)!",
+    "endTime": "2024-09-12T12:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/303142979/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "303142979",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[EXTERNAL] IBM TechXchange Pre-Conference watsonx Hackathon"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-external-ibm-techxchange-pre-conference-watsonx-hackathon-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/303142979/"
+}

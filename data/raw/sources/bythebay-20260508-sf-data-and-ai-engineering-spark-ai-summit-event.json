@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-06-04T08:00:00-07:00",
+    "description": "As you know Spark + AI Summit, 2018 will be at the Moscone Convention Center, San Francisco. We are providing members of this meetup organization a special 15% discount code SF2MU.\n\nThis year, Spark Summit adds the much needed AI focus. As Databricks matures, and as Spark adoption widens in the industry, we see an exciting series of use cases, new solutions in OSS and SaaS areas, and new entrants in the community as well as progress reports from many companies that are our regulars.\n\nThere are two meetups held in conjunction with the summit: before and after!\n\nBefore: the original BASM (founded in 2012 by Alexy and Matei) on June 4th, 2018, at the Moscone Convention Center, which is open to everyone; you don’t have to be registered to attend!\n\nhttps://www.meetup.com/spark-users/events/250659328/\n\nAnd after:\n\nJoint SF Spark and Friends, Global Advanced Spark and TensorFlow, and Bay Area AI meetup (founded and presented by Alexy, Chris, and Alexy, resp.),\n\nhttps://www.meetup.com/SF-Spark-and-Friends/events/251030715/\n\n-- hosted by Mesosphere in its new office at 225 Bush St., 7th floor -- that used to be Nitro where SF Spark and SF Scala and Bay Area AI were held before and will continue to be held going forward!",
+    "endTime": "2018-06-06T18:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/251030457/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "251030457",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Spark+AI Summit"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-spark-ai-summit-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/251030457/"
+}

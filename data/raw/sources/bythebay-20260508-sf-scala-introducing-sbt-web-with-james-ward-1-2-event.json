@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-04-10T18:00:00-07:00",
+    "description": "James Ward is coming to town, and this time he'll talk about Play 2.3 and sbt-web.\n\nIntroducing sbt-web - A Node & WebJar Compatible Asset Pipeline for the Typesafe Platform\n\nsbt-web is a new web asset pipeline for Play Framework and other sbt-based frameworks. It can pull dependencies from both Node and WebJars. The pipeline covers all of the phases of client-side development, including: linting, compiling (CoffeeScript, LESS, etc), minification, concatenation, fingerprinting, and gzipping. This session will give you an introduction to sbt-web and show you how to get started using it.\n\nThis is a first part of the two-talk series. In the second talk on 4/11 James will show sbt-web in action, live-coding a Play app!\n\nAgenda:\n\n6:00pm doors open\n\n6:30pm announcements and 1-minute hiring pitches -- prepare one!\n\n6:40pm talks begin\n\nParking:\n\nIf you're driving - there is metered and non-metered street parking available, in addition to a paid lot located at 450 South Street. The 450 South lot also offers free bike parking, on the ground floor.\n\nRSVPs strictly enforced, pls manage yours responsibly...",
+    "endTime": "2014-04-10T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/175176582/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "175176582",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Introducing sbt-web with James Ward, 1/2"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-introducing-sbt-web-with-james-ward-1-2-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/175176582/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-sfscala-org-by-the-bay-end-of-year-party-with-bill-venners-essence-of-testing-event",
+  "source_id": "bythebay-20260508-bay-area-ai-sfscala-org-by-the-bay-end-of-year-party-with-bill-venners-essence-of-testing-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-sfscala-org-by-the-bay-end-of-year-party-with-bill-venners-essence-of-testing-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-sfscala-org-by-the-bay-end-of-year-party-with-bill-venners-essence-of-testing-event.json",
+  "kind": "announcement",
+  "event_id": "236197928",
+  "event_title": "[sfscala.org] By the Bay End of Year Party with Bill Venners, Essence of Testing",
+  "title": "By the Bay End of Year Party with Bill Venners, Essence of Testing",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/236197928/",
+  "description": "The By the Bay meetup family plans a final joint gathering of the year! Note: AI.vision (http://ai.vision/), self.driving.cars (http://self.driving.cars/) and oh.hai.ai (http://oh.hai.ai/) Early Birds also end with the year on 12/31. Bill Venners will talk about The Essence of Testing. Clara will do a short talk about what they do! Single sign-up at sfscala.org (http://sfscala.org/). The space is limited so only sign up if you can attend! https://www.meetup.com/SF-Scala/events/236052360/",
+  "date_time": "2016-12-15T18:30:00-08:00",
+  "end_time": "2016-12-15T21:30:00-08:00"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-06-14T17:30:00-04:00",
+    "description": "In New York City, Water Complaints are among the top 311 complaints during the summer.\n\nUsing Water complaints in New York City as an example, in this meet up we shall demonstrate how Spark, Zeppelin, R, Spark SQL, Spark ML Lib, and IBM System ML can be used on publicly available data sources, like 311 and Housing data source from Pluto, to form a seamless data science pipeline and models.\n\nWe'll show how individual data sources can be explored, curated/prepared, merged and then machine learning models can be developed on the resultant data sets. We shall use Zeppelin notebook as the tool for step by step interactive Data Exploration, Data Preparation and Data Modeling activities using Spark as the back end cluster computing framework.\n\nWe'll showcase how data sets can be created and shared across Spark SQL, Spark MLLib, Spark R, R and IBM System ML through Zeppelin. Also we shall show how visualization libraries in R can be used from Zeppelin on the source and predicted data for the interactive visualization.\n\nLight refreshments will be served.",
+    "endTime": "2016-06-14T20:30:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/231605051/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "231605051",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "NY Water Complaint Analysis using Apache Spark"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ny-water-complaint-analysis-using-apache-spark-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/231605051/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-unmeetup-event-2",
+  "source_id": "bythebay-20260508-sf-scala-unmeetup-event-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-unmeetup-event-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-unmeetup-event-2.json",
+  "kind": "workshop",
+  "event_id": "230815842",
+  "event_title": "Unmeetup!",
+  "title": "Unmeetup!",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/230815842/",
+  "description": "Our first SF Scala Unmeetup was a great success; let's have another in May! Please join us for an evening of community-driven workshops, lightning talks, mentorship, and open-source hacking. Special thanks to Workday, who will be hosting the event. Please read more about them here (http://bit.ly/wdaySYMAN). What is an \"Unmeetup\"? An unmeetup is a casual community-driven, hands-on meetup modeled after unconferences (https://en.wikipedia.org/wiki/Unconference). Members propose topics to discuss and projects to work on, then each individual chooses how to spend their time for the evening. This is meant to be complementary to the standard meetup and emphasize community-building and collaboration. You should join if you: • would like to offer a workshop or lightning talk. • want to find contributors for your open source project. • are new to Scala and want to work with other Scala developers. • are experienced with Scala and want to mentor others. • have cool work-in-progress and want feedback. • just want to hack on a project! A project could be a side projects, open source, or code from work you'd like to bounce ideas about. Proposals If you're interested in mentoring, please indicate that in your RSVP survey. If you have a session or project to propose, please submit here: http://bit.ly/unmeetup We will update this page as the google doc is populated. Agenda 6:00pm - Doors Open, refreshments, socializing. 6:45pm - Introduction 7:00pm - Schedule determined by participants After all the sessions are introduced, rooms are allocated based on interest, and participants are left to find each other and hack away!",
+  "date_time": "2016-05-24T18:00:00-07:00",
+  "end_time": "2016-05-24T21:00:00-07:00"
+}

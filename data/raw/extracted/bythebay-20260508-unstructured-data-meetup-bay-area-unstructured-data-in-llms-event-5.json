@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-5",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-5",
+  "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-5.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-5.json",
+  "kind": "talk",
+  "event_id": "297446712",
+  "event_title": "Unstructured Data in LLMs",
+  "title": "Unstructured Data in LLMs",
+  "conference_id": "meetup:36468260",
+  "meetup_id": "meetup:36468260",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/unstructured-data-sf/events/297446712/",
+  "description": "This is an in-person event! Registration [using this form](https://lu.ma/7ao1dce0) is required in order to get in. Github will email you a form the day before the event, which you will need to complete for your access pass. **Topic:** Connecting your unstructured data with Generative AI **What we’ll do:** Have some food and refreshments. Hear three exciting talks about unstructured data and generative AI. 5:30 - 6:30 - Welcome/Networking/Registration 6:35 - 7:00 - [Yury Malkov](https://www.linkedin.com/in/yury-malkov-b6597382/), Research Scientist, [OpenAI](https://openai.com/) 7:05 - 7:30 - [Jithin James](https://www.linkedin.com/in/jjmachan/), CEO and [Shahul ES](https://www.linkedin.com/in/shahules/), Co-Founder, [Ragas](https://github.com/explodinggradients) 7:35 - 8:00 - [Jason Lopatecki](https://www.linkedin.com/in/jason-lopatecki-9509941/), CEO, [Arize](arize.com) 8:00 - 8:30 - Networking **Who Should attend:** Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. **When:** February 20, 2023 5:30PM **Tech Talk 1:** Approximate Nearest Neighbor Search in Recommender Systems **Speaker**: Yury Malkov **Abstract:** I am going to discuss problems and research regarding Approximate Nearest Neighbor Search in Recommender Systems. In particular, the role of fast Approximate Nearest Neighbor (ANN) search in the multi-stage funnel design or a typical Recommender System. I'll discuss research on ANN search with neural ranking distances and its impact on the end-to-end funnel design. **Tech Talk 2:** Metrics Driven Development of RAGs **Speaker**: Jithin James and Shahul ES **Abstract:** We will be walking through a RAG application from scratch with a metrics diven approach. We'll startoff with a very basic RAG system, figure out the most gaps in performance and make improvements along the way guided by proper evaluations of the RAG pipeline. **Tech Talk 3:** Path to Production: LLM System Evaluations and Observability **Speaker**: Jason Lopatecki **Abstract**: As new LLMOps tools race to keep up with the latest capabilities of foundation models, generative AI is at a crossroads. Over half (53.3%) of machine learning teams are planning production deployments of LLMs in the next year, but many continue to cite issues like hallucinations and responsible deployment as barriers in moving LLM-powered systems into the real world. In evaluating LLM-powered apps, human feedback is paramount – but in practice is not available for most sub-calls. This talk by Arize CEO and co-founder, Jason Lopatecki, covers how teams can achieve fast and accurate LLM-assisted evaluations and apply data science rigor to the testing of model and template combinations. In addition to covering LLM evals, the talk will dissect open-source tooling and soon-to-publish results on observability best practices learned from the trenches. **Where:** This is an in-person event. Registration [using this form](https://lu.ma/7ao1dce0) is required to get into the event. Registration in advance will close 2 days before the event. Co-sponsored by [Zilliz](http://zilliz.com/) maintainers of [Milvus](https://github.com/milvus-io/milvus) and [Arize](https://arize.com/).",
+  "date_time": "2024-02-20T17:30:00-08:00",
+  "end_time": "2024-02-20T20:30:00-08:00"
+}

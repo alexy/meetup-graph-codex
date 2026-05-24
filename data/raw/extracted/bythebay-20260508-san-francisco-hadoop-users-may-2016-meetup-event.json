@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-may-2016-meetup-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-may-2016-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-may-2016-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-may-2016-meetup-event.json",
+  "kind": "talk",
+  "event_id": "229848416",
+  "event_title": "May 2016 Meetup",
+  "title": "May 2016 Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/229848416/",
+  "description": "Join us for two tech talks in June at the great AWS loft on Market St. Agenda: 6-630 Food, Drinks & Networking 630-715 Apache Impala (Incubating) Performance Update 715-8 Leveraging Shared Cache at Twitter Tech Talk #1: Apache Impala Performance Update Cloudera’s performance engineering team recently completed a new round of benchmark testing based on Impala 2.5 and the most recent stable releases of the major SQL engine options for the Apache Hadoop platform, including Apache Hive-on-Tez and Apache Spark/Spark SQL. This presentation explains the methodology and results. Mostafa Mokhtar, Software Engineer at Cloudera Tech Talk #2: Leveraging Shared Cache at Twitter The YARN shared cache is a feature that aims to reduce the overhead of resource localization without requiring application developers to coordinate manually. Leveraging the shared cache, applications can securely share resources localized by a different application or even a different user. In this talk, we will give an overview of the shared cache architecture and a solid foundation for developers who want to build YARN applications that leverage this feature. Additionally, we will discuss some of the benefits we have seen from using the shared cache at Twitter. Chris Trezzo, Software Engineer at TwitterChris is currently a software engineer on the core Hadoop team at Twitter. He is an active contributor to Apache Hadoop and enjoys working with all aspects of the Hadoop ecosystem. Notes: Location is closest to Powell St. BART station",
+  "date_time": "2016-05-03T18:00:00-07:00",
+  "end_time": "2016-05-03T21:00:00-07:00"
+}

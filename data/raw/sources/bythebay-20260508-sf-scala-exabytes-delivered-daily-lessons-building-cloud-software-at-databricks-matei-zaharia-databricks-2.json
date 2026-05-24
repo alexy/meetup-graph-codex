@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2020-06-30T11:00:00-07:00",
+    "description": "Exabytes Delivered Each Day: Some Lessons Building Large-Scale Cloud Software at Databricks\n\nCloud service developers need to handle massive scale workloads from thousands of customers with no downtime or regressions. In this talk, we’ll present our experience building a very large scale cloud service at Databricks, which provides a data and ML platform as a service running over AWS and Azure used by some of the largest enterprises in the world. Databricks launches millions of VMs per day in each of these clouds that process exabytes of data per day for interactive, streaming and batch production applications. This means that our control plane has to handle a wide range of workload patterns and cloud issues such as outages. We will describe how we built our control plane for Databricks using Scala services and open source infrastructure such as Kubernetes, Envoy, Prometheus, Apache Spark and Delta Lake, and various design patterns and engineering processes that we learned along the way to make development and operations reliable.\n\nSpeaker: Matei Zaharia is the Chief Technologist and cofounder at Databricks, the creator of Apache Spark, and an Assistant Professor at Stanford University, where he cofounded the DAWN Lab.\n\nNote: Matei will keynote the Scale By the Bay 2020 Conference in November, the CFP is still open at https://scale.bythebay.io!",
+    "endTime": "2020-06-30T13:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/270818386/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "270818386",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Exabytes Delivered Daily: Lessons Building Cloud Software at Databricks"
+  },
+  "event_id": "270818386",
+  "event_title": "Exabytes Delivered Daily: Lessons Building Cloud Software at Databricks",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "Exabytes Delivered Each Day: Some Lessons Building Large-Scale Cloud Software at Databricks Cloud service developers need to handle massive scale workloads from thousands of customers with no downtime or regressions. In this talk, we’ll present our experience building a very large scale cloud service at Databricks, which provides a data and ML platform as a service running over AWS and Azure used by some of the largest enterprises in the world. Databricks launches millions of VMs per day in each of these clouds that process exabytes of data per day for interactive, streaming and batch production applications. This means that our control plane has to handle a wide range of workload patterns and cloud issues such as outages. We will describe how we built our control plane for Databricks using Scala services and open source infrastructure such as Kubernetes, Envoy, Prometheus, Apache Spark and Delta Lake, and various design patterns and engineering processes that we learned along the way to make development and operations reliable. Speaker: Matei Zaharia is the Chief Technologist and cofounder at Databricks, the creator of Apache Spark, and an Assistant Professor at Stanford University, where he cofounded the DAWN Lab. Note: Matei will keynote the Scale By the Bay 2020 Conference in November, the CFP is still open at https://scale.bythebay.io!",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-exabytes-delivered-daily-lessons-building-cloud-software-at-databricks-matei-zaharia-databricks-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-exabytes-delivered-daily-lessons-building-cloud-software-at-databricks-matei-zaharia-databricks-2.json",
+    "source_id": "bythebay-20260508-sf-scala-exabytes-delivered-daily-lessons-building-cloud-software-at-databricks-matei-zaharia-databricks-2",
+    "speakers": [
+      {
+        "company": "Databricks",
+        "name": "Matei Zaharia"
+      }
+    ],
+    "title": "Exabytes Delivered Daily: Lessons Building Cloud Software at Databricks"
+  },
+  "source_id": "bythebay-20260508-sf-scala-exabytes-delivered-daily-lessons-building-cloud-software-at-databricks-matei-zaharia-databricks-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/270818386/"
+}

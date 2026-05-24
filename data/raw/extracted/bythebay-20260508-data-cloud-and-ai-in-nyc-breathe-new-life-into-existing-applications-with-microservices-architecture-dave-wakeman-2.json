@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-breathe-new-life-into-existing-applications-with-microservices-architecture-dave-wakeman-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-breathe-new-life-into-existing-applications-with-microservices-architecture-dave-wakeman-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-breathe-new-life-into-existing-applications-with-microservices-architecture-dave-wakeman-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-breathe-new-life-into-existing-applications-with-microservices-architecture-dave-wakeman-2.json",
+  "kind": "talk",
+  "event_id": "256348061",
+  "event_title": "Breathe New Life into Existing Applications with Microservices Architecture",
+  "title": "Breathe New Life into Existing Applications with Microservices Architecture",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Dave Wakeman",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/256348061/",
+  "description": "PLEASE RSVP HERE: https://www.meetup.com/futureofdata-newyork/events/255772559/",
+  "date_time": "2018-11-27T18:00:00-05:00",
+  "end_time": "2018-11-27T20:00:00-05:00"
+}

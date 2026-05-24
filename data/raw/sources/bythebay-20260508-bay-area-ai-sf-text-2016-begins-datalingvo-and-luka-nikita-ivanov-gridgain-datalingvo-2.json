@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2016-01-19T18:30:00-08:00",
+    "description": "Let's start the year with a couple of great talks -- propose one! We'll get together at Nitro with pizza, beer and wine, surrounded by ML and NLP fans, and plan the awesomest year for text understanding ever!\n\n(1) Human Curated Linguistics - How We Built DataLingvo\n\nSpeaker: Nikita Ivanov, Founder/CEO/CTO at GridGain/DataLingvo\n\nIn this talk I will talk about the technology behind DataLingvo - a Siri-like interface for the business data. Unlike many NLP-based startups DataLingvo is not based on ML but rather on a unique combination of semantic grammar modelling and human curation. Presentation will provide a deep dive into the reasons behind that technology choice as well as cover many tactical technical decisions. Presentation will include a live demo of DataLingvo system.\n\nNikita Ivanov is the guy behind DataLingvo, a cognitive analytics stealth startup that developed a Siri-like interface for the business data based on Human Curated Linguistics (HCL) technology. Nikita is also a founder and served as CEO/CTO for GridGain Systems, a company behind Apache Ignite, an industry leading in-memory data fabric.\n\nNikita is a serial entrepreneur with over 20 years of experience of starting companies and developing software including NLP, HPC and middleware platforms, contributing to the efforts of other startups and notable companies including Adaptec, Visa and BEA Systems. Nikita was one of the first pioneers using nascent Java technology for server side middleware development back in 1996.\n\nHe is an active member of NLP and Java middleware community, contributor to the Java specification, and holds a Master’s degree in Electro Mechanics from Baltic State Technical University, Saint Petersburg, Russia.\n\n(2) Phil Dudchuk, Luka.ai\n\n-- details to follow",
+    "endTime": "2016-01-19T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/227951172/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "227951172",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "SF Text 2016 Begins! DataLingvo and Luka"
+  },
+  "event_id": "227951172",
+  "event_title": "SF Text 2016 Begins! DataLingvo and Luka",
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "session": {
+    "description": "Let's start the year with a couple of great talks -- propose one! We'll get together at Nitro with pizza, beer and wine, surrounded by ML and NLP fans, and plan the awesomest year for text understanding ever! (1) Human Curated Linguistics - How We Built DataLingvo Speaker: Nikita Ivanov, Founder/CEO/CTO at GridGain/DataLingvo In this talk I will talk about the technology behind DataLingvo - a Siri-like interface for the business data. Unlike many NLP-based startups DataLingvo is not based on ML but rather on a unique combination of semantic grammar modelling and human curation. Presentation will provide a deep dive into the reasons behind that technology choice as well as cover many tactical technical decisions. Presentation will include a live demo of DataLingvo system. Nikita Ivanov is the guy behind DataLingvo, a cognitive analytics stealth startup that developed a Siri-like interface for the business data based on Human Curated Linguistics (HCL) technology. Nikita is also a founder and served as CEO/CTO for GridGain Systems, a company behind Apache Ignite, an industry leading in-memory data fabric. Nikita is a serial entrepreneur with over 20 years of experience of starting companies and developing software including NLP, HPC and middleware platforms, contributing to the efforts of other startups and notable companies including Adaptec, Visa and BEA Systems. Nikita was one of the first pioneers using nascent Java technology for server side middleware development back in 1996. He is an active member of NLP and Java middleware community, contributor to the Java specification, and holds a Master’s degree in Electro Mechanics from Baltic State Technical University, Saint Petersburg, Russia. (2) Phil Dudchuk, Luka.ai -- details to follow",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-sf-text-2016-begins-datalingvo-and-luka-nikita-ivanov-gridgain-datalingvo-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-sf-text-2016-begins-datalingvo-and-luka-nikita-ivanov-gridgain-datalingvo-2.json",
+    "source_id": "bythebay-20260508-bay-area-ai-sf-text-2016-begins-datalingvo-and-luka-nikita-ivanov-gridgain-datalingvo-2",
+    "speakers": [
+      {
+        "company": "GridGain/DataLingvo",
+        "name": "Nikita Ivanov"
+      }
+    ],
+    "title": "SF Text 2016 Begins! DataLingvo and Luka"
+  },
+  "source_id": "bythebay-20260508-bay-area-ai-sf-text-2016-begins-datalingvo-and-luka-nikita-ivanov-gridgain-datalingvo-2",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/227951172/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-01-19T15:30:00-05:00",
+    "description": "**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1. Repeated at two different times to accommodate various time zones, because it is**\n**2. Posted simultaneously in multiple meetup groups world-wide**\n\nIn this session, we introduce pre-trained language models, describing what they are and what makes them better than previous approaches for tackling natural language understanding tasks.\n\nFine-tuning pre-trained language models has become the de facto standard for tackling natural language processing/understanding tasks achieving state-of-the-art results on various NLP/NLU tasks across various domains. We will cover a brief history of transfer learning for NLP with pre-trained language models and compare it to transfer learning in computer vision, and describe how pre-trained language models became the standard for solving NLP/NLU tasks.\n\nYou will also learn about various applications of these models for solving domain-specific tasks in scientific, biomedical, and clinical domains among others. We will finally discuss the future of language models and transfer learning for NLP.\n\nThis session will be followed by a hands-on workshop where you will learn about tools and frameworks for loading and fine-tuning pre-trained language models to solve NLP tasks in various domains. The hands-on workshop is scheduled for Jan 25 & 26, 2023 (as two repeat sessions)and titled \"Pre-Trained Language Models: Tools/Frameworks to Solve Downstream NLP/NLU Tasks\".\n\n**Presenter: Reza Fazeli**\n\nReza Fazeli is a conversational AI engineer for Watson Assistant, working closely with IBM Research teams to develop and deploy algorithms for improving our virtual assistant products. He is currently focused on leveraging state-of-the-art machine learning algorithms for enhancing Watson Assistant by learning from the behavior of end users. He also works on other problems in this area such as intent detection, slot filling, disambiguation, and digression.\n\nPreviously, he has worked as a machine learning engineer and data scientist focusing on natural language processing and computer vision problems. Reza completed his graduate studies at University of Toronto where his research focused on using numerical modeling techniques for solving multi-phase flow problems.\n\n***\n\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. [https://ibm.webex.com/ibm/j.php?RGID=r7708b1d0d3031d983a6084e0cedf9028](https://ibm.webex.com/ibm/j.php?RGID=r7708b1d0d3031d983a6084e0cedf9028)",
+    "endTime": "2023-01-19T16:30:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/289690402/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "289690402",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Pre-Trained Language Models: A New Standard for NLU Tasks"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-a-new-standard-for-nlu-tasks-reza-fazeli-watson-assistant-3",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/289690402/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience-saurabh-nachane-4",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience-saurabh-nachane-4",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience-saurabh-nachane-4.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience-saurabh-nachane-4.json",
+  "kind": "talk",
+  "event_id": "290204402",
+  "event_title": "Embeddable AI democratizes AI-adoption to enhance end user experience",
+  "title": "Embeddable AI democratizes AI-adoption to enhance end user experience",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Saurabh Nachane, Saurabh Nachane As",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/290204402/",
+  "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.** Andrew Ng describes “AI is the new electricity” and just as electricity transformed almost everything 100 years ago, one can’t think of a single industry that AI won’t transform in the next several years. IBM continues to demonstrate leadership in the AI space and is set to revolutionize the AI adoption with the recent expansion of the embeddable AI capabilities that leverage the Open Source framework. In this session you will understand: 1. Overview of the embeddable AI portfolio, some of the key technology differentiators. 2. How data scientists and ML ops engineers can leverage some of the key capabilities to build their AI-infused applications **Presenter: Saurabh Nachane** As a Senior product specialist Saurabh has helped launch several AI products at IBM like Cloud Pak for Watson AIOps, Netcool Operations Manager. He has always been a hands-on technologist and currently leads the embeddable AI portfolio. He has a passion for embracing new and emerging technologies with the intent to simplify AI adoption for IBM partners. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder: [https://ibm.webex.com/weblink/register/r288f33a39a6930d93155956b867d9898](https://ibm.webex.com/weblink/register/r288f33a39a6930d93155956b867d9898).",
+  "date_time": "2023-02-09T15:30:00-05:00",
+  "end_time": "2023-02-09T16:30:00-05:00"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-08-04T18:30:00-07:00",
+    "description": "Thanks Splice Machine for hosting!\n\nSpark and Ignite are two of the most popular open source projects in the area of high-performance Big Data and Fast Data. But did you know that one of the best ways to boost performance for your next generation real-time applications is to use them together?\n\nIn this session, Dmitriy Setrakyan, Apache Ignite Project Management Committee Chairman and co-founder and CPO at GridGain, will explain in detail how IgniteRDD — an implementation of native Spark RDD and DataFrame APIs — shares the state of the RDD across other Spark jobs, applications and workers. Dmitriy will also demonstrate how IgniteRDD, with its advanced in-memory indexing capabilities, allows execution of SQL queries many times faster than native Spark RDDs or Data Frames. Don't miss this opportunity to learn from one of the experts how to use Spark and Ignite better together in your projects.",
+    "endTime": "2016-08-04T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/232407316/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "232407316",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Better together: Fast Data with Apache Spark™ and Apache Ignite™"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-better-together-fast-data-with-apache-sparktm-and-apache-ignitetm-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/232407316/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-ryan-delucchi-building-a-reasonable-expression-dsl-with-kleisli-event",
+  "source_id": "bythebay-20260508-scala-bay-ryan-delucchi-building-a-reasonable-expression-dsl-with-kleisli-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-ryan-delucchi-building-a-reasonable-expression-dsl-with-kleisli-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-ryan-delucchi-building-a-reasonable-expression-dsl-with-kleisli-event.json",
+  "kind": "talk",
+  "event_id": "226794200",
+  "event_title": "Ryan Delucchi, Building a Reasonable Expression DSL with Kleisli",
+  "title": "Ryan Delucchi, Building a Reasonable Expression DSL with Kleisli",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/226794200/",
+  "description": "Title: Ryan Delucchi, Building a Reasonable Expression DSL with Kleisli Description: It wasn't long ago that creating a highly specialized mini-language was a herculean undertaking. After dusting off the ol' \"Dragon Book\" we would implement a tokenizer and write our own BNF grammar. Then, we run these grammar rules through some arcane compiler-compiler tool (e.g. yacc) and iterate ad infinitum. But, now we have a truly scalable language at our fingertips. With the aid of predefined constructs and open source libraries, we can build our very own DSL, using this sophisticated language, requiring nothing more than the scalac compiler. Yet, even for building a rather simple expression style DSL, which is at the very heart of many modern rule-based languages, it doesn't take long for the intrinsic complexity of language design to surface. In this talk, we will dig deep in the functional programmer's tool chest, and uncover a little known gem known as the Kleisli. We will explore how this deceptively simple piece of machinery in category theory can be used to build complex expression DSLs, with a completely modular library of operations and pluggable error handling. The code examples will be entirely Scala, with dependencies on the scalaz library. This presentation is geared towards those with an intermediate/advanced skill level in Scala and/or functional programming. Speaker. Ryan Delucchi has worked in the software industry for 12 years at various companies, including TiVo, Hotwire and Netflix. Furthermore, he has built a scripting engine for processing search results and mass transit route validation at startups Mobile Content Networks and Urban Mapping, respectively. Presently, Ryan is a Principal Engineer at Verizon, building core application services for the cutting edge video platform behind OnCue and go90. His latest work includes scalable metric processing, Cassandra fault tolerance, and purely functional systems using scalaz-stream. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:50 - talks • 8:50-9:00 - networking Important: The company offices have moved; check the address",
+  "date_time": "2015-12-14T19:00:00-08:00",
+  "end_time": "2015-12-14T22:00:00-08:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-josh-suereth-sbt-introduction-and-cookbook-event",
+  "source_id": "bythebay-20260508-sf-scala-josh-suereth-sbt-introduction-and-cookbook-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-josh-suereth-sbt-introduction-and-cookbook-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-josh-suereth-sbt-introduction-and-cookbook-event.json",
+  "kind": "talk",
+  "event_id": "44582202",
+  "event_title": "Josh Suereth - SBT Introduction and Cookbook",
+  "title": "Josh Suereth - SBT Introduction and Cookbook",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/44582202/",
+  "description": "The Simple Build Tool offers a new way to configure builds systems, starting with the basic concepts of key-value pairs and moving to configuration axis and plugins. The Simple Build tool is a powerful abstraction based on solid functional practices. This talk covers the basic abstractions used in Simple Build tool and offers \"cookbook\" recipes for how to accomplish common tasks within the standard configuration for projects. Josh Suereth is a Senior Software Engineer at Typesafe and the author of \"Scala In Depth\". He has been a Scala enthusiast since 2007. He started his professional career as a software developer in 2004 using programming languages like C++, Perl and Java. He introduced Scala into his company code base first in 2007 and soon after he was infected by Scala fever, contributing to the Scala IDE, maven-scala-plugin and Scala itself. In 2009 he began writing the book \"Scala In Depth\" which provides practical support for using Scala in every day applications. Josh has most recently been modifying the build for Scala to use SBT. We hope to stream and record this event. One or two free copies of IntelliJ IDEA will be given away for personal use. Please RSVP, and update your RSVP if you cannot go. Josh will present the same topic the next day to Bay Area Scala Enthusiasts (http://www.meetup.com/Bay-Area-Scala-Enthusiasts/events/44582312/). 6:30 - Pizza, beer and networking 7:00 - Presentation and Q&A 9:00 - More networking",
+  "date_time": "2012-01-04T18:30:00-08:00",
+  "end_time": "2012-01-04T21:30:00-08:00"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-05-08T18:30:00-04:00",
+    "description": "Our friends at PyData NYC have another fantastic event lined up.\n\nFor details and to RSVP, check the PyData NYC event page: [LLMOps with Hopsworks and Modal Labs](https://www.meetup.com/pydatanyc/events/300430791/)\n\nPlease check it out while we’re working on lining up new programming for the IBM Meetup Network – in person, virtual, and hybrid. Stay tuned!",
+    "endTime": "2024-05-08T20:30:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/300734831/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "300734831",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[EXTERNAL REGISTRATION] LLMOps with Hopsworks and Modal Labs"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-external-registration-llmops-with-hopsworks-and-modal-labs-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/300734831/"
+}

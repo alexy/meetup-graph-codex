@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-online-office-hours-how-the-raise-act-affects-you-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-online-office-hours-how-the-raise-act-affects-you-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-online-office-hours-how-the-raise-act-affects-you-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-online-office-hours-how-the-raise-act-affects-you-event.json",
+  "kind": "event",
+  "event_id": "309587892",
+  "event_title": "AI Alliance Online Office Hours: “How the RAISE Act Affects You”",
+  "title": "AI Alliance Online Office Hours: “How the RAISE Act Affects You”",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/309587892/",
+  "description": "Learn how New York’s RAISE Act would impact open-source AI innovation, and how you can get involved. Hear from industry experts, participate in Q&A, and share your own experiences with AI development. You can learn more about the RAISE Act in this [message from the AI Alliance Association](https://urldefense.proofpoint.com/v2/url?u=https-3A__thealliance.ai_blog_ai-2Dalliance-2Durges-2Dlawmakers-2Dto-2Drethink-2Dthe-2Dny-2Draise-2Dact&d=DwMFaQ&c=BSDicqBQBDjDI9RkVyTcHQ&r=DHAaH19x6Ok_lcfZAj_EmkOopfCGnxUbLlWbHJvLbzA&m=zvge-0YXo5VzevukUcHigWiNP9S9-LDW-jmeliJs2nIRjOdqCloTbxSUiSx33ydu&s=I0a6FEcPxZISQug1eU7CfMSObeznbHROAvPV1mV3s48&e=). Register now to reserve your spot! Every Thursday at 12 PM ET, we spotlight emerging tools, frameworks, and best practices that are shaping open-source AI ecosystems. Whether you're contributing code, deploying models, or just exploring, you’ll find practical insights and community connection. **About the AI Alliance** The [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players. **Join the community** Sign up for the [AI Alliance newsletter](https://thealliance.ai/community) (check the website footer) and join our new [AI Alliance Discord](https://discord.gg/K8DhemXR).",
+  "date_time": "2025-07-17T12:00:00-04:00",
+  "end_time": "2025-07-17T13:00:00-04:00"
+}

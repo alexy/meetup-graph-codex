@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-07-23T19:00:00-07:00",
+    "description": "Folks -- we're running a special Play meetup with our friends at Nitro and Play Framework:\n\nhttp://www.meetup.com/PlayFramework/events/180580192/\n\nPlease sign up there.\n\nPlay, Akka, and related technologies are covered in depth at the SF Scala annual conference, Scala By the Bay (http://www.scalabythebay.org), this year held at Fort Mason on August 8-9. We run a Typesafe-Certified Fast Track to Scala (http://www.scalabythebay.org/files/scala_training_deck.pdf) course on August 6-7 for those who want to dive deep into Play right away and take advantage of its Scala foundation. SF Scala and Play Framework members receive a special limited discount on the training -- look for it in your meetup email, or email registration@scalabythebay.org if you want one. The discount and Early Bird pricing expire TONIGHT!",
+    "endTime": "2014-07-23T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/195119832/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "195119832",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Composable and Streamable Play! Apps (in SF) — joint event with Play Framework"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-composable-and-streamable-play-apps-in-sf-joint-event-with-play-framework-early-bird",
+  "source_url": "https://www.meetup.com/sf-scala/events/195119832/"
+}

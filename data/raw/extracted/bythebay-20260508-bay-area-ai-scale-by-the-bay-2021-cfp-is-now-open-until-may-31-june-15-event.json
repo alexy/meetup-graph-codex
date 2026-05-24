@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-scale-by-the-bay-2021-cfp-is-now-open-until-may-31-june-15-event",
+  "source_id": "bythebay-20260508-bay-area-ai-scale-by-the-bay-2021-cfp-is-now-open-until-may-31-june-15-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-scale-by-the-bay-2021-cfp-is-now-open-until-may-31-june-15-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-scale-by-the-bay-2021-cfp-is-now-open-until-may-31-june-15-event.json",
+  "kind": "announcement",
+  "event_id": "278329612",
+  "event_title": "Scale By the Bay 2021 CFP is now open until May 31/June 15!",
+  "title": "Scale By the Bay 2021 CFP is now open until May 31/June 15!",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/278329612/",
+  "description": "Scale By the Bay 2021 returns online in October this year. https://www.scale.bythebay.io/cfp A major independent conference for the Bay Area and the world, we're in our 9th year. Our defining characteristics are: -- deeply technical content accepted on merit -- data engineering for AI working together with software engineering and devops -- soup to nuts, high performance to distributed systems approach The CFP works in two stages as always: -- Submit first choice talk by May 31 -- Submit a talk to be considered for the program by June 31. Early bird registration is also open! https://www.scale.bythebay.io/register",
+  "date_time": "2021-05-31T23:00:00-07:00",
+  "end_time": "2021-06-01T01:00:00-07:00"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-12-14T13:00:00-05:00",
+    "description": "Discover the cutting-edge capabilities of watsonx.ai, the next-generation enterprise platform that empowers coders and AI builders with trusted models, tools, and runtimes. [In this session](https://ibm.webcasts.com/starthere.jsp?ei=1641352&tp_key=5eda6e297d&sti=meetup), we will delve into GenAI, a revolutionary feature within watsonx.ai, and explore its diverse functionalities.\n\nLearn how to leverage foundation models for tasks like content generation, summarization, translation, classification, extraction, chat, and coding. Don't miss the chance to embark on an AI-driven journey with watsonx.ai to amplify your daily work.\n\n**[Reserve your spot today](https://ibm.webcasts.com/starthere.jsp?ei=1641352&tp_key=5eda6e297d&sti=meetup)**\n\n\\*Part of this abstract was generated using watsonx.ai",
+    "endTime": "2023-12-14T14:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/297234443/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "297234443",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Exploring GenAI with watsonx.ai: Unleash the power of foundation models"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-exploring-genai-with-watsonx-ai-unleash-the-power-of-foundation-models-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/297234443/"
+}

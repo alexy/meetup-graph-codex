@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-03-09T18:30:00-08:00",
+    "description": "Update: http://data.bythebay.io got a whole new day, http://pipelines.bythebay.io , with multiple Spark/ML talks. Very Early bird registration ends on March 15th.\n\nScalable machine learning is ubiquitous in virtually every\nindustry ranging from insurance, manufacturing, finance, and health sciences. Expressing and and running machine learning algorithms for varying data characteristics and at scale is challenging. In this talk, we will discuss our experience in building Apache SystemML, peak at\nchallenging optimization and implementation strategies in exploiting data-parallel platforms such as MapReduce and Spark, and provide performance and scalability insights.\n\nSpeaker: Berthold Reinwald is a Principal RSM at the IBM Almaden Research Center. He is the technical lead for SystemML. His current research areas include scalable analytics platforms and database technology. He holds\na Ph.D. in Computer Science from the University of Erlangen-Nuernberg, Germany.",
+    "endTime": "2016-03-09T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/229165430/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "229165430",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scalable Machine Learning with Apache SystemML"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-scalable-machine-learning-with-apache-systemml-berthold-reinwald",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/229165430/"
+}

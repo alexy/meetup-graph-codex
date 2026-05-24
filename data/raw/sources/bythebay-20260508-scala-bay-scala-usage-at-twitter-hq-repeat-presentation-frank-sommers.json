@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-04-25T18:30:00-07:00",
+    "description": "Due to popular demand, Marius will give his April 9 presentation again later in April, at Twitter HQ on a date yet to be determined. Please do not register for both events. Registered attendees will be notified of the date for this event by email once it is chosen.\n\nMarius Eriksen will talk about the construction of Twitter's modern, highly concurrent Scala services. He will discuss the various libraries that make up the Twitter stack, and how these primitives help use create correct, composable and modular systems. He will discuss various challenges Twitter ran in to, especially regarding efficiency. Mark McBride will speak on Twitter's build system.\n\nMarius works on systems infrastructure at Twitter. He has worked on RPC and streaming systems, profiling tools, storage & indexing systems and the front-end serving stack. He loves applying functional programming techniques to these domains. Marius is the author of Effective Scala. Mark McBride is an engineering manager at Twitter.\n\nAs usual, the schedule for the event is:\n\n6:30 - networking, food\n\n7:00 - announcements\n\n7:15 - presentations\n\n8:30 - Q&A, more networking afterward\n\nWe will give away 2 copies of IntelliJ IDEA for personal use, and two copies of JRebel. Two free PDF copies of \"Actors in Scala (http://www.artima.com/shop/actors_in_scala)\" by Philipp Haller and Frank Sommers, published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile.\n\nThis event may be recorded. If that comes together, we will post a link to the recording on this page when it is ready.",
+    "endTime": "2012-04-25T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/59580782/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "59580782",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala Usage at Twitter HQ (Repeat presentation)"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-scala-usage-at-twitter-hq-repeat-presentation-frank-sommers",
+  "source_url": "https://www.meetup.com/scala-bay/events/59580782/"
+}

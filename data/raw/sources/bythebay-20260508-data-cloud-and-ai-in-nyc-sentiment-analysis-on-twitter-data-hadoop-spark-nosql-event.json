@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-10-11T18:30:00-04:00",
+    "description": "PLEASE NOTE: THIS EVENT IS AT CAPACITY. IF YOU HAVE NOT ALREADY REGISTERED AT THE LINK PROVIDED BELOW, THERE IS A CHANCE THE ROOM WILL BE FULL.\n\nTo expedite your checkin on the day of the meetup, please register here (https://www.eventbrite.com/e/sentiment-analysis-on-twitter-data-hadoop-spark-nosql-tickets-28000655715).\n\nIn this era of social transparency and cognitive thinking, we would like to invite you to join us for a demonstration of how to analyze customer sentiment while leveraging Hadoop, Spark, and a NoSQL Database on the cloud.\n\nYou will learn how a data pipeline can be built using tools and technologies available on Bluemix (cloud offerings), while experiencing the value of having many tools working seamlessly together to provide a solution that goes from accessing source data to transforming it into a consumable format (report, API, visualization, etc.). You will also see how an Analytics team can make better use of data with a sustainable architecture. We will be adding a load of about 10 years’ worth of historical data as well, to do the analysis of movie series, actors/actresses, etc. Our focus is on the architecture, pipeline and output, to ensure that teams can:\n• Focus less on gathering and organizing the data\n• Access a platform where multiple tools and approaches can be used to analyze the data\n• Generate executive summaries for consumption of insights from a broad audience\n\nReminder - please register HERE (https://www.eventbrite.com/e/sentiment-analysis-on-twitter-data-hadoop-spark-nosql-tickets-28000655715).",
+    "endTime": "2016-10-11T20:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/234423824/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "234423824",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Sentiment Analysis on Twitter Data: Hadoop, Spark, NOSQL"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-sentiment-analysis-on-twitter-data-hadoop-spark-nosql-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/234423824/"
+}

@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2014-09-23T18:00:00-07:00",
+    "description": "Our friends at Firebase will be hosting an SF Scala event for the first time! We'll have Greg Soltis, a Firebase engineer, talk about how they build high performance services in Scala, and Adam Warski of SoftwareMill talking about framework-less dependency injection in Scala.\n\nGreg Soltis - Designing Highly Concurrent, Multi-Protocol, Multi-Tenant Services in Scala\n\nThe Firebase servers speak a variety of protocols and handle many separate applications on each server, all at the same time. In this talk, we'll walk through taking a single scala process from serving a single client, a single protocol and a single application up to that same process serving hundreds of thousands of clients, speaking multiple protocols, across hundreds of applications. Along the way, we'll cover the popular libraries, Netty and Akka. We'll also look at a few snippets of code from a working process built with this architecture and see how it transforms as we scale it up.\n\nAdam Warski - “The framework-less Scala Dependency Injection framework”\n\nUsing a DI framework/container may seem obvious, especially in web development. But *why* do you really need one? After all, \"dependency injection\" is just a fancy name for passing arguments to a constructor.\nIn the *live-coding-only* talk (no slides!) we'll walk through some of the features of DI containers and see if we can replace (and improve!) them with pure, type-safe Scala code. We'll start with \"manual\" DI, followed by using MacWire to generate the wiring code for us. With one simple `wire[]` macro, we can save a lot of typing and still use only Scala language features for creating the object graph at runtime.\nHaving solved the basic problem, we’ll proceed other features of DI containers and web frameworks: scopes and interceptors. We’ll see how to implement an interceptor, and that it’s far easier than it may seem.\nFinally, we'll see what \"Thin Cake Pattern” is, and how to use traits to create and compose modules (similar to the module concept known from Guice, but better).\nAs a bonus - I’ll have some not-only-Scala-related stickers.",
+    "endTime": "2014-09-23T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/203999322/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "203999322",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "High Performance Services and Framework-less Dependency Injection"
+  },
+  "event_id": "203999322",
+  "event_title": "High Performance Services and Framework-less Dependency Injection",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "Our friends at Firebase will be hosting an SF Scala event for the first time! We'll have Greg Soltis, a Firebase engineer, talk about how they build high performance services in Scala, and Adam Warski of SoftwareMill talking about framework-less dependency injection in Scala. Greg Soltis - Designing Highly Concurrent, Multi-Protocol, Multi-Tenant Services in Scala The Firebase servers speak a variety of protocols and handle many separate applications on each server, all at the same time. In this talk, we'll walk through taking a single scala process from serving a single client, a single protocol and a single application up to that same process serving hundreds of thousands of clients, speaking multiple protocols, across hundreds of applications. Along the way, we'll cover the popular libraries, Netty and Akka. We'll also look at a few snippets of code from a working process built with this architecture and see how it transforms as we scale it up. Adam Warski - “The framework-less Scala Dependency Injection framework” Using a DI framework/container may seem obvious, especially in web development. But *why* do you really need one? After all, \"dependency injection\" is just a fancy name for passing arguments to a constructor. In the *live-coding-only* talk (no slides!) we'll walk through some of the features of DI containers and see if we can replace (and improve!) them with pure, type-safe Scala code. We'll start with \"manual\" DI, followed by using MacWire to generate the wiring code for us. With one simple `wire[]` macro, we can save a lot of typing and still use only Scala language features for creating the object graph at runtime. Having solved the basic problem, we’ll proceed other features of DI containers and web frameworks: scopes and interceptors. We’ll see how to implement an interceptor, and that it’s far easier than it may seem. Finally, we'll see what \"Thin Cake Pattern” is, and how to use traits to create and compose modules (similar to the module concept known from Guice, but better). As a bonus - I’ll have some not-only-Scala-related stickers.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill-2.json",
+    "source_id": "bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill-2",
+    "speakers": [
+      {
+        "company": "SoftwareMill",
+        "name": "Adam Warski"
+      }
+    ],
+    "title": "High Performance Services and Framework-less Dependency Injection"
+  },
+  "source_id": "bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/203999322/"
+}

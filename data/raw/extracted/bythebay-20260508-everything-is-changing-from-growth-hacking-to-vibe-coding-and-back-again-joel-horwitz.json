@@ -1,0 +1,22 @@
+{
+  "id": "talk:ai-by-the-bay:bythebay-20260508-everything-is-changing-from-growth-hacking-to-vibe-coding-and-back-again-joel-horwitz",
+  "source_id": "bythebay-20260508-everything-is-changing-from-growth-hacking-to-vibe-coding-and-back-again-joel-horwitz",
+  "source_file": "data/raw/sources/bythebay-20260508-everything-is-changing-from-growth-hacking-to-vibe-coding-and-back-again-joel-horwitz.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-everything-is-changing-from-growth-hacking-to-vibe-coding-and-back-again-joel-horwitz.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "Everything is Changing: From Growth Hacking to Vibe Coding, and Back Again",
+  "conference_id": "ai-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Joel Horwitz, Founder of SynterMedia.AI Built with Amp",
+  "tags": [
+    "Agentic AI",
+    "Context engineering",
+    "LLMOps"
+  ],
+  "url": "https://ai.bythebay.io/talks/everything-is-changing-from-growth-hacking-to-vibe-coding-and-back-again",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-03-29T18:00:00-07:00",
+    "description": "IMPORTANT: for Twitter building requirements we need RSVPs with matching photo IDs at\n\nhttps://sfscala.splashthat.com\n\n-- please RSVP there, being on the meetup list alone will not get you in!\n\nIn machine learning reproducibility is very important. We want to be able to reproduce feature values, trained models, and of course model scores. Functional programming offer powerful tools in our quest for reproducible machine learned systems. In this talk we will see two tools in Stripes toolbox in the theme of reproducibility: 1. our use of the bazel build tool with scala, 2. semblance, our functional-reactive-programming (FRP) based system for feature engineering. We will see how a bazel scala build looks, and hear about how its focus on reproducibility enables build caching which can dramatically lower CI times. We will see how formulating feature engineering as an event-based FRP model rules out an important class of errors which can sabotage your model performance on real data.\n\nOscar is a mathematical hacker at Stripe. Previously he was at Twitter, creating Scalding, Summingbird, and many other things.\n\nWe also got a second talk on Bazel Build by its Google lead Ulf Adams, overviewing Bazel.",
+    "endTime": "2018-03-29T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/248351966/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "248351966",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Oscar Boykin on Reproducible Machine Learning with Functional Programming"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-oscar-boykin-on-reproducible-machine-learning-with-functional-programming-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/248351966/"
+}

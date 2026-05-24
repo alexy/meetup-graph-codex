@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-beat-aliens-with-an-akka-cluster-and-drytools-event",
+  "source_id": "bythebay-20260508-sf-scala-beat-aliens-with-an-akka-cluster-and-drytools-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-beat-aliens-with-an-akka-cluster-and-drytools-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-beat-aliens-with-an-akka-cluster-and-drytools-event.json",
+  "kind": "talk",
+  "event_id": "233094029",
+  "event_title": "Beat Aliens with an Akka Cluster and dryTools",
+  "title": "Beat Aliens with an Akka Cluster and dryTools",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/233094029/",
+  "description": "Scalæ By the Bay 2016 is held at Twitter HQ -- register today while we have tickets left. (http://scala.bythebay.io) Thanks to Tally (meettally.com (http://MeetTally.com)) for hosting us at Shasta Ventures -- a major investor in Scala-centric startups! Tally is the first app that automates credit card management. It lets you keep the rewards and convenience of all your cards, and automatically protects you from inflated APRs, missed payments, and obscure penalties. We enjoy functional programming on the JVM using Scala and use modern technologies that are fun to work with. It will be One in September, and the whole world will converge on our neck of the woods. We'll try to batch the cool Scala teams from the faraway lands and run as many meetups as we can then. Here, we present Poland and Serbia! (1) Beat Aliens with Akka Cluster Krzysztof Otrebski, Ocado Technology Does anyone remember the game “Missile Command” on Atari? I bet you know it or played some kind of clone. I have also crated clone but with small difference, computer system is defending cities. During this session I would like to run missile defence system on a few Raspberry Pi's. Under the hood there will be Scala and Akka Cluster. You want to have defence system which is responsive and resilient, so do I. I will perform network and power failures to provide some idea how quickly it can recover, heal itself and prove that Akka application can be responsive and resilient. (2) Building multiplayer game using streams Michał Płachta, Ocado Technology In this talk you will learn how stream-based programming can be used to implement web frontend and multiplayer backend of the classic game: Snake. Building dynamic applications using imperative approach tends to create lots of unmaintainable code. Stream-based programming tries to solve this problem by introducing fully declarative way of defining application logic. While using streams, you will focus on WHAT needs to be done, not HOW and WHEN. The talk is divided into 3 parts. In the first part you will learn how to create a frontend of the Snake web game using streams as building blocks. Then, we will move to the server side and use Scala and Akka Streams library to create backend service that will allow the game to be played by multiple players. In the third part, we will discuss reactive streams and how they make asynchronous communication safe. (3) Domain driven design in Scala: A primer on crafting DSLs, domain models and code generators - How to build your high-level DSL: * how to design, implement and validate your DSL * problems that arise while working with high-level abstractions - How to define, process and validate your domain models - How to implement code generation templates using Scala's superb string interpolation Dusko Vesin is a Scala Developer and co-founder of dryTools with more than 8 years of experience. Before he found Scala he was mostly building enterprise applications in Java using Spring, Hibernate, GWT and Angular.js. He is currently focused on DSL design, parsers and code generators.",
+  "date_time": "2016-09-20T18:30:00-07:00",
+  "end_time": "2016-09-20T21:30:00-07:00"
+}

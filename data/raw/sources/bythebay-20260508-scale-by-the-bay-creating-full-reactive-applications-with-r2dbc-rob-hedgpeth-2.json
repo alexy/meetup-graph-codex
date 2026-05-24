@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2020-08-20T17:30:00-07:00",
+    "description": "Not too long ago, a reactive variant of the JDBC API was released, known as Reactive Relational Database Connectivity (R2DBC for short). While R2DBC started as an experiment to enable integration of SQL databases into systems that use reactive programming models, it now specifies a robust service-provider interface that can be used to manage data in a fully-reactive and completely non-blocking fashion.\n\nJoin us as we take a look at the R2DBC specification as well as client implementations that make working with relational databases truly reactive. Then, using the recently released MariaDB R2DBC connector, we'll get a first-hand look at the advantages, via a live coding demonstration, to see just what it’s like to use R2DBC in an application!\n\nSpeaker Bio\n\nRob Hedgpeth has been slinging code since the early 2000's. Like many others, he started his journey by building pretty horrendous looking websites. Fortunately, for the world, he has since evolved and has branched out to a variety of projects across web, desktop, mobile, and IoT. Throughout the years he has contributed to the architecture and development of many apps using a large array of languages and technologies. Now as a developer evangelist for MariaDB, Rob gets to combine his love for technology with his mission to fuel developers' curiosity and passion.",
+    "endTime": "2020-08-20T19:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/bythebay/events/272491784/",
+    "group": {
+      "id": "18748975",
+      "name": "Scale By the Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "272491784",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Creating full reactive applications with R2DBC"
+  },
+  "event_id": "272491784",
+  "event_title": "Creating full reactive applications with R2DBC",
+  "meetup_id": "meetup:18748975",
+  "meetup_name": "Scale By the Bay",
+  "meetup_url": "https://www.meetup.com/bythebay/events/?type=past",
+  "session": {
+    "description": "Not too long ago, a reactive variant of the JDBC API was released, known as Reactive Relational Database Connectivity (R2DBC for short). While R2DBC started as an experiment to enable integration of SQL databases into systems that use reactive programming models, it now specifies a robust service-provider interface that can be used to manage data in a fully-reactive and completely non-blocking fashion. Join us as we take a look at the R2DBC specification as well as client implementations that make working with relational databases truly reactive. Then, using the recently released MariaDB R2DBC connector, we'll get a first-hand look at the advantages, via a live coding demonstration, to see just what it’s like to use R2DBC in an application! Speaker Bio Rob Hedgpeth has been slinging code since the early 2000's. Like many others, he started his journey by building pretty horrendous looking websites. Fortunately, for the world, he has since evolved and has branched out to a variety of projects across web, desktop, mobile, and IoT. Throughout the years he has contributed to the architecture and development of many apps using a large array of languages and technologies. Now as a developer evangelist for MariaDB, Rob gets to combine his love for technology with his mission to fuel developers' curiosity and passion.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scale-by-the-bay-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scale-by-the-bay-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth-2.json",
+    "source_id": "bythebay-20260508-scale-by-the-bay-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Rob Hedgpeth"
+      }
+    ],
+    "title": "Creating full reactive applications with R2DBC"
+  },
+  "source_id": "bythebay-20260508-scale-by-the-bay-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth-2",
+  "source_url": "https://www.meetup.com/bythebay/events/272491784/"
+}

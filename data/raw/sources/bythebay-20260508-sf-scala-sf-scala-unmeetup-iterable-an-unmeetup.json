@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-12-04T18:00:00-08:00",
+    "description": "SF Scala is back at Iterable for an Unmeetup! Join us for an evening of side projects, workshops, lightning talks, and open-source hacking. This is a great opportunity to try out new ideas from the recent Scale By the Bay conference (videos: https://www.youtube.com/playlist?list=PLNESult6cnOkDeaaEhq192kdsbMPc3dIJ).\n\nAn Unmeetup is a casual community-driven, hands-on meetup modeled after unconferences (https://en.wikipedia.org/wiki/Unconference). Members propose topics to discuss and projects to work on, then each individual chooses how to spend their time for the evening. This is complementary to the standard meetup and emphasizes community-building and collaboration.\n\nYou should join if you:\n\n• would like to offer a workshop or lightning talk.\n• want to find contributors for your open source project.\n• are new to Scala and want to work with other Scala developers.\n• are experienced with Scala and want to mentor others.\n• have cool work-in-progress and want feedback.\n• have a tricky bug and want help.\n• just want to hack on a project!\n\nAgenda:\n\n6:00 - Doors Open\n6:45 - Welcome and project introductions.\n7:00 - Project time\n8:55 - Wrap up and take the party elsewhere\n\nAbout Iterable:\n\nIterable is empowering the world’s leading brands to achieve true omni-channel relevance at scale. Powered by the same technologies that propelled leaders like Twitter and Facebook in the user engagement space, we are building tools for growth marketers wishing to captivate customers with messaging that matters when it matters.\n\nIterable is growing extremely quickly and we’re looking for people that are fun to work with, get things done, and have a strong drive to work on state-of-the-art technologies, build great products, serve customers and effectively tell our story: https://iterable.com/careers/",
+    "endTime": "2017-12-04T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/245480618/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "245480618",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "SF Scala Unmeetup @ Iterable"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-sf-scala-unmeetup-iterable-an-unmeetup",
+  "source_url": "https://www.meetup.com/sf-scala/events/245480618/"
+}

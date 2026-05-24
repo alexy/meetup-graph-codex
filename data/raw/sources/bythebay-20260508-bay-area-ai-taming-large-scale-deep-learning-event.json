@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-03-01T18:00:00-08:00",
+    "description": "This is a joint event with SF Bay Area Machine Learning meetup (https://www.meetup.com/SF-Bayarea-Machine-Learning/).\n\nDeep learning has yielded a step function improvement at an array of important problems ranging from computer vision to natural language processing, and there is enormous excitement about its potential. However, building practical applications powered by deep learning remains an enormous challenge: the necessary expertise is scarce, the hardware requirements can be prohibitive, and current software tools are immature and limited in scope. In this talk, we will first describe how deep learning workflows are supported by existing software tooling. We will then describe several promising opportunities to drastically improve these workflows via novel algorithmic and software solutions, including automated hyperparameter optimization, efficient utilization of distributed resources via performance models, and reproducible workflow management. This talk draws on academic work done at CMU, Berkeley, and UCLA, as well as our experiences at Determined AI, a startup that provides software to make deep learning engineers dramatically more productive.\n\nEvan R. Sparks is co-founder and CEO of Determined AI, a software company that makes machine learning engineers and data scientists fantastically more productive. While earning his PhD in Computer Science in Berkeley's AMPLab, he contributed to the design and implementation of much of the large-scale machine learning ecosystem around Apache Spark, including MLlib and KeystoneML. Prior to Berkeley, Evan worked in quantitative finance and web intelligence. He also holds an AB in Computer Science from Dartmouth College.",
+    "endTime": "2018-03-01T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/248015635/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "248015635",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Taming Large Scale Deep Learning"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-taming-large-scale-deep-learning-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/248015635/"
+}

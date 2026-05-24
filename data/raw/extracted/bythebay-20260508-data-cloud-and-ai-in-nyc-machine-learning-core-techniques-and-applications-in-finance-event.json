@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-machine-learning-core-techniques-and-applications-in-finance-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-machine-learning-core-techniques-and-applications-in-finance-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-machine-learning-core-techniques-and-applications-in-finance-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-machine-learning-core-techniques-and-applications-in-finance-event.json",
+  "kind": "workshop",
+  "event_id": "239508396",
+  "event_title": "Machine Learning: Core techniques and applications in Finance",
+  "title": "Machine Learning: Core techniques and applications in Finance",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/239508396/",
+  "description": "NOTE: THIS IS A PAID WORKSHOP. REGISTER HERE: http://www.analyticscertificate.com/MachineLearning https://secure.meetupstatic.com/photos/event/5/7/6/b/600_460222379.jpeg With R, Python, Apache Spark and a plethora of other open source tools, anyone with a computer can run machine learning algorithms in a jiffy! However, without an understanding of which algorithms to choose and when to apply a technique, most machine learning efforts turn into trial and error experiments with conclusions like \"The algorithms don't work\" or \"Perhaps we should get more data\". In this workshop, we will focus on the key tenets of machine learning algorithms and how to choose an algorithm for a problem. Rather than just showing how to run experiments in R, Python or Apache Spark, we will provide an intuitive understanding to machine learning with just enough mathematics and basic statistics. You will learn: • How do you differentiate Clustering, Classification and Prediction algorithms? • What are the key steps in running a machine learning algorithm? • How do you choose an algorithm for a specific goal? Where does exploratory data analysis and feature engineering fit into the picture? • Once you run an algorithm, how do you evaluate the performance of an algorithm? • Role of Spark and Deep Learning techniques in Machine Learning • Practical Case studies with fully functional code Day 1 On day one, we will review the core techniques in Machine Learning. Through examples we will understand the different machine learning techniques and review evaluation criteria What you will learn Machine Learning: An intuitive foundation The Machine Learning pipeline Supervised Learning: Classification and Prediction Machine learning methods: Regression, KNN, Random Forests, Neural Networks Evaluating performance Case study 1: Predicting interest rates in Freddie Mac mortgage data Case study 2: To give a loan or not using Lending club data Day 2 On day two, we will discuss unsupervised learning techniques and discuss the role of Big Data and Deep Learning techniques for large-scale machine learning. We will also discuss best practices in scaling and using anomaly detection techniques. What you will learn Unsupervised learning: Clustering Working with rare-class problems and Anomaly Detection Machine Learning with Apache Spark: A brief introduction Deep Learning techniques Wrap up and Best practices in Machine Learning Case study 3: Using K-means for automatic clustering of stocks using Apache Spark Case study 4: Auto-encoder based Anomaly Detection for Credit risk with Keras and Tensorflow QUANTUNIVERSITY'S ANALYTICS FOR A CAUSE SCHOLARSHIPS A limited number of scholarships are available through for eligible students('16 class) looking for fintech and data science roles and unemployed fintech and data science enthusiasts who can't afford the workshop fee.For eligibility criteria and application, click here (https://goo.gl/forms/nz9InCi8vBybPOR43) We thank Microsoft and IBM for sponsoring this event! Contact us for sponsorship opportunities",
+  "date_time": "2017-05-02T09:00:00-04:00",
+  "end_time": "2017-05-03T17:00:00-04:00"
+}

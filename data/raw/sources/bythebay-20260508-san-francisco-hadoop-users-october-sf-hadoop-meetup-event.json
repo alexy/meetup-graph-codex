@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-10-09T18:00:00-07:00",
+    "description": "The October 2013 Hadoop meetup will be held Wednesday, October 9th from 6:00pm to 8:00pm. This meetup will be hosted by Stripe, located at 3180 18th Street, San Francisco, CA.\n\nThis meetup will feature a panel discussion from Chris Severs (eBay), Eric Sammer (Cloudera), Oscar Boykin (Twitter), Colin Marc (Stripe) and SF HUG organizer Aaron Kimball as moderator. This HUG will also feature a presentation from Stripe's Colin Marc.\n\nThe following talks will be presented:\n\nPanel: \"The Next Evolution in the Hadoop Ecosystem: Big Data Applications\"\n\nPanel participants:\n\n• WibiData, Aaron Kimball (moderator)\n\n• eBay, Chris Severs\n\n• Cloudera, Eric Sammer\n\n• Twitter, Oscar Boykin\n\n• Stripe, Colin Marc\n\nThe unfolding Hadoop ecosystem has empowered organizations to build a new class of Big Data Applications that make web and mobile application channels more powerful and more personalized for users than ever before. In this panel discussion, we will hear perspectives from some leading contributors and users of the Hadoop platform on how they see Big Data Applications being built successfully, what tools they like and where the industry is headed as a whole.\n\n\"Stripe Streams data into HBase\"\n\nStripe, Colin Marc\n\nAs a payments provider, Stripe has a veritable goldmine of data to use — and lots of uses for it, from checkout conversion analysis to fraud prevention. But until recently, that data was stored only in disparate production systems, and what aggregates we did have were very ad-hoc.\n\nWe chose to approach this problem iteratively, in order to better understand the requirements and constraints and to explore the different technologies available. With some work (and lots of mistakes), we were able to build a system that streams data into HBase from our production services in real-time, making it available for analytics using MapReduce, Impala and other technologies in the ecosystem.\n\nIn my presentation, I’ll discuss the various architectures and technologies we tried, what worked well and the lessons we learned.",
+    "endTime": "2013-10-09T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/141368262/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "141368262",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "October SF Hadoop Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-meetup-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/141368262/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-01-23T18:00:00-08:00",
+    "description": "Scala-JS just hit 1.0.0 and React-native is maturing well. Combining the advantages of both yields the promise of end-to-end FP to generate 3 different apps from a single code base. Add to the mix GraphQL in a server-less configuration and we have a real shot at building a meaningful app in a meetup.\n\nIrfan Ahmad is a full-stack founder of two Silicon Valley startups. He loves new code smell and started developing with Scala back before it was cool. Prior to this, Irfan was at VMware hacking on hypervisors and at Transmeta working on the Crusoe software microprocessor. Irfan is an inventor on more than thirty patents, has published at ACM SOCC, USENIX FAST, ATC and IEEE IISWC and has chaired HotStorage, HotCloud and VMware’s R&D Innovation Conference. Irfan serves on steering committees for USENIX HotStorage and HotCloud. Irfan earned his pink tie from the University of Waterloo.\n\nTaimur Mirza is a senior software engineer from Automation Anywhere and has more than 15 years of experience in building distributed applications with open source technologies. He worked at Qumu, BabyCenter and DeviceAnywhere in the past.",
+    "endTime": "2018-01-23T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/246126548/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "246126548",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Live-coding Serverless iOS/Android/Web Apps with ScalaJS, React-Native & GraphQL"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-live-coding-serverless-ios-android-web-apps-with-scalajs-react-native-graphql-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/246126548/"
+}

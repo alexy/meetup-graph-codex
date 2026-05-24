@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-11-02T18:00:00-07:00",
+    "description": "Scale By the Bay (http://scale.bythebay.io) is a two weeks away. Functional Programming, Reactive Microservices, Fast Data: 100+ speakers, 3 days, 3 tracks, 3 Happy Hours, fireside chats, Istio/Envoy workshops, and more! Reserve your seat while supply lasts (http://scale.bythebay.io/tickets.html).\n\n--------------------\n\nAll About a Fold\nGabriel Claramunt\n\nFolds are the bread and butter of functional programming, but what are they, really? What do they mean? Let's take a look how folds encode structural recursion. We'll move beyond folding over lists by generalizing to any data structure, and in the process, we'll unravel the secrets behind folding.\n\nGabriel was a happy enterprise developer until he found Scala, fell in love with FP, ruining his life. He has written software for a wide range of businesses, from small startups to Fortune 500 companies and Wall Street banks. After roaming around the Americas, he settled in his home country of Uruguay, where he founded Scalents, a Scala/FP consulting company.",
+    "endTime": "2017-11-02T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/244070797/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "244070797",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "All about a Fold"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-all-about-a-fold-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/244070797/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-closing-the-loop-with-hadoop-from-analysis-to-applications-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-closing-the-loop-with-hadoop-from-analysis-to-applications-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-closing-the-loop-with-hadoop-from-analysis-to-applications-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-closing-the-loop-with-hadoop-from-analysis-to-applications-event.json",
+  "kind": "talk",
+  "event_id": "219049335",
+  "event_title": "February SF Hadoop Users Meetup",
+  "title": "Closing the Loop with Hadoop: From Analysis to Applications",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/219049335/",
+  "description": "Aaron Feldstein, Member of Technical Staff at WibiData Hadoop enables the collection, storage, and analysis of larger volumes of data than ever before, but taking action based on the results of this analysis remains a slow and cumbersome process. In pursuit of closing the loop from collecting user interaction data and analyzing it to affecting future user experiences, we have experimented and learned lessons which may help anyone seeking to make the most of their data. This talk will describe some of those lessons, how we learned them, and what we have built with them in mind. We'll be raffling off O'Reilly Media books, courtesy of O'Reilly Media's Strata Conference + Hadoop World. Meetup members get 20% off Strata with UGSFHUG20. You can register with this code here (http://oreil.ly/UGSJ15). http://photos4.meetupstatic.com/photos/event/5/8/4/600_432121412.jpeg",
+  "date_time": "2015-02-18T18:00:00-08:00",
+  "end_time": "2015-02-18T21:00:00-08:00"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-semantic-indexing-of-four-million-documents-with-spark-register-at-sfspark-org-event",
+  "source_id": "bythebay-20260508-bay-area-ai-semantic-indexing-of-four-million-documents-with-spark-register-at-sfspark-org-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-semantic-indexing-of-four-million-documents-with-spark-register-at-sfspark-org-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-semantic-indexing-of-four-million-documents-with-spark-register-at-sfspark-org-event.json",
+  "kind": "announcement",
+  "event_id": "222858360",
+  "event_title": "Semantic Indexing of Four Million Documents with Spark [register at sfspark.org]",
+  "title": "Semantic Indexing of Four Million Documents with Spark [register at sfspark.org]",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "crosspost",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/222858360/",
+  "description": "This is a joint meetup with SF Spark and Friends, you'll have to register at sfspark.org (http://sfspark.org).",
+  "date_time": "2015-07-09T18:30:00-07:00",
+  "end_time": "2015-07-09T21:30:00-07:00"
+}

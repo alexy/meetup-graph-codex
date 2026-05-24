@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-06-06T18:00:00-07:00",
+    "description": "This joint meetup with SF Spark (as usual) is dedicated to Spark and surrounding data pipelines and production insights in Adtech. From engineering leadership at Chartboost, we'll hear an overview of the 20 years of adtech history, and practical tips on running Spark in both a globally scalable and profitable enterprise. Criteo team will add their own insights to it. Adtech is an elephant in the room nowadays, where the most money is still made on the Internet but not as much hype is generated. Let's see how Spark is actually used in production, for real businesses. RSVP only here:\n\nhttps://www.meetup.com/SF-Spark-and-Friends/events/239736345/",
+    "endTime": "2017-06-06T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/240397223/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "240397223",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[register at sfspark.org] Spark in Adtech"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-register-at-sfspark-org-spark-in-adtech-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/240397223/"
+}

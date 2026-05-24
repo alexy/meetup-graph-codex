@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2016-06-14T18:00:00-07:00",
+    "description": "To expedite check-in, please make it a priority to add your name to the GA list please:\n\nhttps://generalassemb.ly/education/sf-hadoop-users-meetup/san-francisco/25069\n\nAgenda:\n6-630pm Food and Drinks\n630-715pm Tech Talks with Q&A\n715-8pm Networking\n\nTech Talk Description: Real-time stream analysis starts with ingesting raw data and extracting structured records. While stream-processing frameworks such as Apache Spark and Apache Storm provide primitives for processing individual records, processing windows of records, and grouping/joining records, the process of performing common actions such as filtering, applying regular expressions to extract data, and converting records from one schema to another are left to developers writing business logic.\n\nJoey Echeverria presents an alternative approach based on a reusable library that provides configuration-based data transformation. This allows users to write command data-transformation rules once and reuse them in multiple contexts. A common pattern is to consume a single, raw stream and transform it using the same rules before storing in different repositories such as Apache Solr for search and Apache Hadoop HDFS for deep storage.\n\nTopic includes:\n\n*An overview of the stream-processing landscape\n*The common analysis phases in stream-processing applications (filter, extract, transform, group, aggregate, and join)\n*Existing solutions for data transformation in a streaming context\n*The solution for common data filtering, transformation, and extraction\n*The extensibility of this solution with new, custom transformation actions that can be driven by configuration\n*How to use the transformation library for log analytics and IT operations events\n\nSpeaker: Joey Echeverria is the director of engineering at Rocana, where he builds applications for scaling IT operations built on the Apache Hadoop platform. Joey is a committer on the Kite SDK, an Apache-licensed data API for the Hadoop ecosystem. Joey was previously a software engineer at Cloudera, where contributed to several ASF projects including Apache Flume, Apache Sqoop, Apache Hadoop, and Apache HBase. Joey is also a coauthor of Hadoop Security, published by O’Reilly Media.\n\nNotes: The nearest BART station is Montgomery",
+    "endTime": "2016-06-14T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/230691040/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "230691040",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "June 2016 Meetup"
+  },
+  "event_id": "230691040",
+  "event_title": "June 2016 Meetup",
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "session": {
+    "description": "To expedite check-in, please make it a priority to add your name to the GA list please: https://generalassemb.ly/education/sf-hadoop-users-meetup/san-francisco/25069",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana-2.json",
+    "source_id": "bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana-2",
+    "speakers": [
+      {
+        "company": "Rocana",
+        "name": "Joey Echeverria"
+      },
+      {
+        "company": null,
+        "name": "O’Reilly Media"
+      }
+    ],
+    "title": "June 2016 Meetup"
+  },
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana-2",
+  "source_url": "https://www.meetup.com/hadoopsf/events/230691040/"
+}

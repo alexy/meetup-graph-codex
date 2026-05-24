@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-05-24T17:30:00-04:00",
+    "description": "Join us for this informative meetup.\n\nDo you want to know how to accelerate development of machine learning and deep learning models, and improve the accuracy of your models? Come and see how IBM and Nvdia are partnering and using frameworks such as TensorFlow and Caffe to accelerate model development, training times, and improve model accuracy. Every attendee will learn how to leverage free trial resources and publicly available datasets to help hone your skills.\n\nRefreshments will be served.",
+    "endTime": "2018-05-24T19:30:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/249674419/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "249674419",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Accelerate training of machine/deep learning algorithms"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-accelerate-training-of-machine-deep-learning-algorithms-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/249674419/"
+}

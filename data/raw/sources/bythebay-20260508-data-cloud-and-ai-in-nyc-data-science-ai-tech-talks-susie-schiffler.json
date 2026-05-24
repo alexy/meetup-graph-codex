@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2019-06-18T17:00:00-04:00",
+    "description": "Join us for a series of cutting edge tech talks from data scientists & AI experts hosted by 15-20 min talks hosted by Susie Schiffler (Market Development Analyst at IBM) -\n5:00-5:30pm Networking\n5:30-6:00 Dave Reich | The Observationist\n6:00-7:30pm Tech Talks\nSpeakers include:\n– Vasanthi Gopal, Cognitive Solutions Architect – AI in Contracts\n– Javid Huseynov, Ph.D., Principal Data Scientist – Enterprise AI & Knowledge Discovery on Unstructured Data\n– Svetlana Levitan, Ph.D., Analytics Software Engineer – Open standards for machine learning deployment PMML “Predictive Model Markup Language\" and ONNX \"Open Neural Network Exchange\"\n– Pietro Mazzoleni, Ph.D., Head of People Data and AI Platform Strategy & Execution, HR - Analytics in HR\n– Carmen Stefanita, Ph.D., IBM Data Science & AI Elite Team – Understanding Churn in Data Science – a review of churn in the telecommunications industry",
+    "endTime": "2019-06-18T19:30:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/261460067/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "261460067",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Data Science & AI Tech Talks "
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-data-science-ai-tech-talks-susie-schiffler",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/261460067/"
+}

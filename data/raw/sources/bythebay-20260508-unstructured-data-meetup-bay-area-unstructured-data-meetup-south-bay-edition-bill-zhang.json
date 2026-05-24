@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-08-13T17:30:00-07:00",
+    "description": "This is an in-person event! [Registration](https://lu.ma/tutkha5k) is required in order to get in.\n\n**Topic:** Connecting your unstructured data with Generative AI\n\n**What we’ll do:**\nHave some food and refreshments. Hear three exciting talks about unstructured data and generative AI.\n5:30 - 6:00 - Welcome/Networking/Registration\n6:05 - 6:30 - [James Le](https://www.linkedin.com/in/khanhnamle94/), Head of Developer Experience, TwelveLabs\n6:35 - 7:00 - [Bill Zhang](https://www.linkedin.com/in/adambiaozhang/), Software Engineer, Zilliz\n7:05 - 7:30 - [Sriharsha Yayi](https://www.linkedin.com/in/sriharshayayi/overlay/about-this-profile/) (Senior Product Manager) & [Derek Wang](https://www.linkedin.com/in/derek-wang-8218b130/) (Principal Software Engineer), Intuit\n7:45 - 8:30 - Networking\n\n**Tech Talk 1:** Advanced Video Search - Leveraging Twelve Labs and Milvus for Semantic Retrieval\n**Speaker**: James Le, TwelveLabs\n**Abstract**: This talk will explore the power of Twelve Labs' multimodal embeddings and Milvus' efficient vector database to create a robust video search solution. We'll cover key concepts such as generating multimodal embeddings from videos with Twelve Labs' SOTA foundation model, storing them efficiently in Milvus, and performing similarity searches to retrieve relevant content. With this integration, developers can build applications such as content-based video retrieval, recommendation systems, and sophisticated search engines that understand the nuances of video data.\n\n**Tech Talk 2:** Implement Agentic RAG Using Claude 3.5 Sonnet, LlamaIndex, and Milvus\n**Speaker:** Bill Zhang, Zilliz\n**Abstract**: In this talk, we review the cutting-edge techniques for implementing Agentic Retrieval-Augmented Generation (RAG) systems, leveraging the power of Claude 3.5 Sonnet, LlamaIndex, and Milvus. Retrieval-Augmented Generation has become a cornerstone in building intelligent systems that require both generative and retrieval capabilities, enabling more accurate, context-aware, and dynamic responses. The session will cover practical implementation details, including how to set up the RAG pipeline, integrate the components seamlessly, and optimize the system for performance and scalability. We will also explore use cases and real-world applications of Agentic RAG, demonstrating its potential in enhancing AI-driven solutions.\n\n**Tech Talk 3:** Inference on streaming data\n**Speakers:** Sriharsha Yayi & Derek Wang, Intuit\n**Abstract**: At Intuit, our ML teams encountered challenges with processing and running inference on event streams, particularly integrating with messaging systems like Kafka, and scaling based on event volume. To address these issues, we developed Numaflow, an open-source, Kubernetes-native platform for scalable event processing. Numaflow simplifies connections to event sources, facilitates processing and inference on streaming data at scale with minimal learning curve. This talk is aimed at ML engineers, Developers, and those interested in inference on streaming data, demonstrating how Numaflow effectively overcomes these obstacles.\n\n**Who Should attend:**\nAnyone interested in talking and learning about Unstructured Data and Generative AI Apps.\n\n**When:**\nAugust 13 2024\n5:30PM\n\n**Where:**\nThis is an in-person event. [Registration](https://lu.ma/tutkha5k) is required to get into the event. Registration in advance will close 2 days before the event.\nThis event is co-sponsored by [Zilliz](http://zilliz.com/) (maintainers of [Milvu](https://github.com/milvus-io/milvus)s) and SAP",
+    "endTime": "2024-08-13T20:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/unstructured-data-sf/events/302334174/",
+    "group": {
+      "id": "36468260",
+      "name": "Unstructured Data Meetup Bay Area",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "302334174",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Unstructured Data Meetup - South Bay Edition"
+  },
+  "meetup_id": "meetup:36468260",
+  "meetup_name": "Unstructured Data Meetup Bay Area",
+  "meetup_url": "https://www.meetup.com/unstructured-data-sf/events/?type=past",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-south-bay-edition-bill-zhang",
+  "source_url": "https://www.meetup.com/unstructured-data-sf/events/302334174/"
+}

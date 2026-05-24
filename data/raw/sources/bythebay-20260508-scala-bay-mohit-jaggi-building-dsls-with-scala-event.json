@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-10-12T19:00:00-07:00",
+    "description": "Title:\n\nBuilding DSLs with Scala\n\nAbstract:\n\nDSL is a way to expose APIs in a way that make sense in the problem domain and hide implementation specific details. Scala allows us to take this concept to an extreme where even the programming language can be hidden. This talk introduces some best practices of API design with a focus on \"internal\" DSLs and walks through some constructs in Scala that make writing DSLs a breeze. It uses examples from bigdf, the first distributed dataframe DSL in Scala (AFAIK).\n\nBio:\n\nMohit Jaggi has been building market leading products for 15+ years using awesome programming languages like microcode, C, Java and most recently Scala. He believes in using the right tool for the job but these days ends up concluding that Scala is the right tool for most jobs(tell him if you think he is biased). He has built products in diverse domains like networking, security, big data infrastructure, big data analytics and machine learning.\n\nSchedule\n\n• 6:30-7:00 - networking\n\n• 7:00-7:10 - announcements etc\n\n• 7:10-~8:40 - talk\n\n• 8:40-9:00 - networking",
+    "endTime": "2015-10-12T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/224245246/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "224245246",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Mohit Jaggi, Building DSLs with Scala"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-mohit-jaggi-building-dsls-with-scala-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/224245246/"
+}

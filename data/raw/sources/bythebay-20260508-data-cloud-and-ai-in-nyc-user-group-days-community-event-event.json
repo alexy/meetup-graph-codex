@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-05-19T08:00:00-04:00",
+    "description": "This event is Eastern Daylight Time. Please adjust to your timezone. To attend the event and view replays, you must register here: https://bit.ly/2yUjVeS\n\nThis time, users take the stage!\n\nExperience a 2-Day Event Featuring 96 Hours of Content from IBM Customers and Experts. User Groups include: AI, Automation, Cloud Integration, Cloud Pak for Data, Cognos Common, DataOps, Data Science, Db2, IBM Security, Informix Maximo, NETCOOL, Netezza, Open Source, Power Systems Public Cloud, Storage, Websphere, Z Systems.\n\nWe are uniting over a dozen IBM User Groups for a 2-day virtual conference with 6 tracks each day featuring lessons, demos, keynotes, feedback sessions, expert advice, and more. Choose from a comprehensive selection of sessions presented by IBM professionals, partners, customers, and users from around the world who are excited to share their knowledge and expertise with you. Learn more about the technologies you use every day, start a conversation, ask questions, or find new User Groups to connect with. No matter your technology, tool, or proficiency, you will find something here to grow your skillset. Join us on May 19 & 20 for the free, live event!\n\nHashtag:#IBMUserGroupDay\n\nRegister for this event here: https://bit.ly/2yUjVeS\n\nWe look forward to hearing from you.",
+    "endTime": "2020-05-20T16:30:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/270356614/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "270356614",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "User Group Days - Community Event"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-user-group-days-community-event-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/270356614/"
+}

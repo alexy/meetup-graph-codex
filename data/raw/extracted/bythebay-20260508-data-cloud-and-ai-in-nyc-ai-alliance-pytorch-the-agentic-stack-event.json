@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-pytorch-the-agentic-stack-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-pytorch-the-agentic-stack-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-pytorch-the-agentic-stack-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-pytorch-the-agentic-stack-event.json",
+  "kind": "event",
+  "event_id": "312251914",
+  "event_title": "AI Alliance: PyTorch & The Agentic Stack",
+  "title": "AI Alliance: PyTorch & The Agentic Stack",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/312251914/",
+  "description": "External registration: https://events.thealliance.ai/pytorch-x-ai-alliance Join Meta's Joe Spisak for an exclusive look at 6 groundbreaking projects shaping the future of agentic development—from low-level kernels to production-ready agents. **About the presenter** Joe Spisak (Product Director, Meta Superintelligence Labs) leads product efforts across PyTorch and Meta's Agentic platform with over a decade of experience building AI platforms at Meta, Google, and Amazon. He helped make PyTorch the world's leading open-source AI framework and guided its transition to the Linux Foundation in partnership with industry leaders. Joe also spearheaded the open-source strategy for Llama, making cutting-edge models broadly accessible and enabling the community to scale AI in an open and collaborative way. He's an active angel investor and advisor to next-generation AI startups including Anthropic, General Reasoning, and ReflectionAI.",
+  "date_time": "2025-12-05T13:00:00-05:00",
+  "end_time": "2025-12-05T14:00:00-05:00"
+}

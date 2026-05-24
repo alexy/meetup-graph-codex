@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-11-03T16:00:00-08:00",
+    "description": "On November 3rd, we meet at [GitHub](https://www.linkedin.com/company/github/) HQ before it closes down for good. But the Bay Area AI community continues online at NODES and live at AI By the Bay.\n\nGraph Exchange, the innovative Bare Area AI and Neo4j meetup, is opening the floor to startup founders working on Reliable Agentic AI ([https://oss.ci/reliable](https://oss.ci/reliable)) o present their startups, to celebrate the community that met there over the years!\n\n[https://luma.com/w42bbgn5](https://luma.com/w42bbgn5)\n\nWe follow the venerable tradition of open mic at Bay Area AI where we give founders and attendees a minute to pitch their startup, find a cofounder, or even find a job! This time we'll have a CFP for 10 min, 5 min, and 1 min talks, and we can still accommodate ad hoc 1 min talks if time permits. And we'll have a party!\n\nApply at the link in the event, and come see the iconic GitHub space before it's gone!\n\nReliable Agentic AI Manifesto: [https://oss.ci/manifesto](https://oss.ci/manifesto)\nReliable Agentic AI Survey #1: [https://oss.ci/reliable-ai](https://oss.ci/reliable-ai)\nReliable AI Repo: [https://oss.ci/reliable](https://oss.ci/reliable)\n\nNODES: [https://lnkd.in/gjR4v-eU](https://lnkd.in/gjR4v-eU), November 6, online globally\nAI By the Bay: [https://ai.bythebay.io](https://ai.bythebay.io/), November 17-19, Oakland, California",
+    "endTime": "2025-11-03T19:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/311698719/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "311698719",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[lu.ma/_ai registration] Graph Exchange -- Reliable AI -- Open Mic!"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-graph-exchange-reliable-ai-open-mic-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/311698719/"
+}

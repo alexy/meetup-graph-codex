@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2022-12-01T15:30:00-05:00",
+    "description": "**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1. Repeated at two different times to accommodate various time zones, because it is**\n**2. Posted simultaneously in multiple meetup groups world-wide**\n\nRecently Data Fabric became a new buzz word, offering a better alternative to fighting data silos. But what about Data Lakes? Just 10 years ago, they also promised to bring an end to data silos... You probably also heard about Data Mesh architecture and might be wondering how it compares to Data Fabric.\n\nJoin this session to learn how Data Fabric can simplify access to data in today’s siloed data landscapes and how Data Mesh architectures help break down Data Lake monoliths and empower domain teams towards owning and serving data.\n\n**Presenter: Lena Woolf**\n\nLena is an experienced Senior Technical Staff Member of IBM Watson Knowledge Catalog, Data and AI. Over the course of her IBM career, Lena has made sustained technical contributions to IBM software products and has been recognized as a deep technical expert and a recognized thought leader in the fields of Information Management and Governance. Lena has been at the forefront of many key transformational initiatives, including Cloud Native Transformation strategy and Platform Based Software strategy. Lena regularly speaks at professional conferences. As an inventor, she has contributed to many patents and constantly pushes the boundaries of what’s possible with IBM technology. She has a demonstrated history of effectively transforming customer challenges and business requirements into enterprise grade software. Lena is passionate about providing a gender inclusive workspace where everyone can collaborate to drive innovation and business growth.\n\n***\n\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. [https://ibm.webex.com/ibm/j.php?RGID=ra05b04745f09be5df80da57ed8ba3960](https://ibm.webex.com/ibm/j.php?RGID=ra05b04745f09be5df80da57ed8ba3960)",
+    "endTime": "2022-12-01T16:30:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/289676149/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "289676149",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "What's the big deal with Data Fabric vs Data Mesh vs Data Lakes?"
+  },
+  "event_id": "289676149",
+  "event_title": "What's the big deal with Data Fabric vs Data Mesh vs Data Lakes?",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Please join us at the session that is best suited to your time zone. Note that this topic is:** **1. Repeated at two different times to accommodate various time zones, because it is** **2. Posted simultaneously in multiple meetup groups world-wide** Recently Data Fabric became a new buzz word, offering a better alternative to fighting data silos. But what about Data Lakes? Just 10 years ago, they also promised to bring an end to data silos... You probably also heard about Data Mesh architecture and might be wondering how it compares to Data Fabric. Join this session to learn how Data Fabric can simplify access to data in today’s siloed data landscapes and how Data Mesh architectures help break down Data Lake monoliths and empower domain teams towards owning and serving data. **Presenter: Lena Woolf** Lena is an experienced Senior Technical Staff Member of IBM Watson Knowledge Catalog, Data and AI. Over the course of her IBM career, Lena has made sustained technical contributions to IBM software products and has been recognized as a deep technical expert and a recognized thought leader in the fields of Information Management and Governance. Lena has been at the forefront of many key transformational initiatives, including Cloud Native Transformation strategy and Platform Based Software strategy. Lena regularly speaks at professional conferences. As an inventor, she has contributed to many patents and constantly pushes the boundaries of what’s possible with IBM technology. She has a demonstrated history of effectively transforming customer challenges and business requirements into enterprise grade software. Lena is passionate about providing a gender inclusive workspace where everyone can collaborate to drive innovation and business growth. *** It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. [https://ibm.webex.com/ibm/j.php?RGID=ra05b04745f09be5df80da57ed8ba3960](https://ibm.webex.com/ibm/j.php?RGID=ra05b04745f09be5df80da57ed8ba3960)",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-what-s-the-big-deal-with-data-fabric-vs-data-mesh-vs-data-lakes-lena-woolf-4.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-what-s-the-big-deal-with-data-fabric-vs-data-mesh-vs-data-lakes-lena-woolf-4.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-what-s-the-big-deal-with-data-fabric-vs-data-mesh-vs-data-lakes-lena-woolf-4",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Lena Woolf"
+      },
+      {
+        "company": null,
+        "name": "Lena Woolf Lena"
+      }
+    ],
+    "title": "What's the big deal with Data Fabric vs Data Mesh vs Data Lakes?"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-what-s-the-big-deal-with-data-fabric-vs-data-mesh-vs-data-lakes-lena-woolf-4",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/289676149/"
+}

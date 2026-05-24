@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-born-in-the-cloud-architecture-what-it-is-and-why-you-should-care-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-born-in-the-cloud-architecture-what-it-is-and-why-you-should-care-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-born-in-the-cloud-architecture-what-it-is-and-why-you-should-care-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-born-in-the-cloud-architecture-what-it-is-and-why-you-should-care-event.json",
+  "kind": "event",
+  "event_id": "226110174",
+  "event_title": "Born-in-the-Cloud Architecture: What it is and Why You Should Care",
+  "title": "Born-in-the-Cloud Architecture: What it is and Why You Should Care",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/226110174/",
+  "description": "Join us on November 4th to hear Yonggang Hu, Distinguished Engineer and Chief Architect talk about Born-in-the-Cloud Architecture. Bigger data, complex compute requirements, and cost/resource constraints are driving organizations to use cloud infrastructure. Yet existing compute- and data-intensive applications are not often designed to take advantage of infrastructure as a service. Firms must re-architect their applications to be cloud-native or \"born-in-the cloud\". Using analytics case studies as examples, Yonggang will explain the born-in-the-cloud architecture, and the opportunities and challenges that it brings. Yonggang will address the following agenda: - Introduction - Industry and Technology Context - Cloud Native Architecture - Run and Manage Cloud Native Apps - Use Cases and Benefits Come network, have some snacks, and enjoy a great presentation. See you there!",
+  "date_time": "2015-11-04T17:30:00-05:00",
+  "end_time": "2015-11-04T20:30:00-05:00"
+}

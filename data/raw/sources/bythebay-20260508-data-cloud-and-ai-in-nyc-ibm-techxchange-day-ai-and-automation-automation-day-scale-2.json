@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2024-07-16T11:00:00-04:00",
+    "description": "**Drive enterprise AI at scale with experts, users and partners**\n\nAI and Automation Day is a fully digital experience bringing together thousands of industry experts to discuss how to drive enterprise AI at scale. We will explore new watsonx initiatives that can scale AI programs across your enterprise, as well as AI-powered automation solutions designed to transform technology cost and operations management to boost enterprise-wide productivity.\n\n**[Register to access hands-on learning and technical talks across all three tracks.](https://ibm-ai-automationday.bemyapp.com/?utm_source=web_x&utm_medium=meetup&utm_campaign=meetup)**\n\nThis one day virtual event is designed to enable you to:\n\n* Apply AI to your role and unlock the full potential to transform your business processes.\n* Scale practical and urgent business use cases such as code modernization, customer service, finops.\n* Manage and reduce IT complexity and digital labor, among others.\n* Experience technical breakout sessions and best practices from IBM experts, end-users and ecosystem partners.\n\n**[Explore speakers, review session topics, and register today.](https://ibm-ai-automationday.bemyapp.com/?utm_source=web_x&utm_medium=meetup&utm_campaign=meetup)**[ ](https://ibm-ai-automationday.bemyapp.com/?utm_source=web_x&utm_medium=meetup&utm_campaign=meetup)",
+    "endTime": "2024-07-16T17:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/301600887/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "301600887",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "IBM TechXchange Day: AI and Automation"
+  },
+  "event_id": "301600887",
+  "event_title": "IBM TechXchange Day: AI and Automation",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Drive enterprise AI at scale with experts, users and partners** AI and Automation Day is a fully digital experience bringing together thousands of industry experts to discuss how to drive enterprise AI at scale. We will explore new watsonx initiatives that can scale AI programs across your enterprise, as well as AI-powered automation solutions designed to transform technology cost and operations management to boost enterprise-wide productivity. **[Register to access hands-on learning and technical talks across all three tracks.](https://ibm-ai-automationday.bemyapp.com/?utm_source=web_x&utm_medium=meetup&utm_campaign=meetup)** This one day virtual event is designed to enable you to: * Apply AI to your role and unlock the full potential to transform your business processes. * Scale practical and urgent business use cases such as code modernization, customer service, finops. * Manage and reduce IT complexity and digital labor, among others. * Experience technical breakout sessions and best practices from IBM experts, end-users and ecosystem partners. **[Explore speakers, review session topics, and register today.](https://ibm-ai-automationday.bemyapp.com/?utm_source=web_x&utm_medium=meetup&utm_campaign=meetup)**[ ](https://ibm-ai-automationday.bemyapp.com/?utm_source=web_x&utm_medium=meetup&utm_campaign=meetup)",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-day-ai-and-automation-automation-day-scale-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-day-ai-and-automation-automation-day-scale-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-day-ai-and-automation-automation-day-scale-2",
+    "speakers": [
+      {
+        "company": "scale",
+        "name": "Automation Day"
+      }
+    ],
+    "title": "IBM TechXchange Day: AI and Automation"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-day-ai-and-automation-automation-day-scale-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/301600887/"
+}

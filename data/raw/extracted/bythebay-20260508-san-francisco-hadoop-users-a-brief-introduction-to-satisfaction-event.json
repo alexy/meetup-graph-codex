@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-a-brief-introduction-to-satisfaction-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-a-brief-introduction-to-satisfaction-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-a-brief-introduction-to-satisfaction-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-a-brief-introduction-to-satisfaction-event.json",
+  "kind": "talk",
+  "event_id": "220286707",
+  "event_title": "April SF Hadoop Users Meetup",
+  "title": "A Brief Introduction to Satisfaction",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/220286707/",
+  "description": "Jerome Banks, Sr. Software Engineer Satisfaction is the next-generation Hadoop scheduler, which allows you to conveniently package, deploy and monitor all your data pipelines. Satisfaction defines a Scala DSL in which you can create goals and dependencies for your Hadoop data sets, and package them as a pipeline Track. The Satisfaction engine will execute Hadoop MapReduce jobs and Hive queries to satisfy your goals, and monitors the process to completion. Jerome Banks is a software engineer, who has worked with various Big Data technologies at if(we), Klout and Quantcast, and will discuss the motivations for developing Satisfaction, and demo how it is currently being used to develop analytics at if(we).",
+  "date_time": "2015-04-08T18:00:00-07:00",
+  "end_time": "2015-04-08T20:00:00-07:00"
+}

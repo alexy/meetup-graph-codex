@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-think-2019-crowd-chat-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-think-2019-crowd-chat-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-think-2019-crowd-chat-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-think-2019-crowd-chat-event.json",
+  "kind": "event",
+  "event_id": "258097076",
+  "event_title": "Think 2019 - Crowd Chat",
+  "title": "Think 2019 - Crowd Chat",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/258097076/",
+  "description": "Live on January 17th at Noon EST! Learn how to chart your path on the journey to AI. Join a Crowdchat with Wikibon and IBM experts On January 17 at noon EST to learn about AI-related technologies and get a preview of topics, demos and sessions at Think 2019. https://ibm.co/ThinkCrowdChat This event is Eastern Standard Time.",
+  "date_time": "2019-01-17T12:00:00-05:00",
+  "end_time": "2019-01-17T13:00:00-05:00"
+}

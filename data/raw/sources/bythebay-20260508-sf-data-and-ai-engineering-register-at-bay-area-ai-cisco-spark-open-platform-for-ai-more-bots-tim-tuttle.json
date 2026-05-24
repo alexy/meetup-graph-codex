@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-06-09T16:00:00-07:00",
+    "description": "Please RSVP at Bay Area AI Only (https://www.meetup.com/bay-area-ai/events/240491390/)!\n\nThis meetup is a part of the Cognitive Frameworks Festival of meetups By the Bay, going on all around San Francisco June 5-9:\n\nhttp://festival.framework.foundation\nLearn how Artificial Intelligence (AI) is transforming the collaboration experience and enabling new cognitive capabilities. Cisco Spark’s open platform allows you to build custom apps, intelligent conversational bots, and workflow integrations to drive the workplace of the future. This session will focus on: • Current and future trends of of conversational chat and voice bots • How AI-powered collaboration solutions will change the workplace\n\nSpeakers: Jose de Castro and Tim Tuttle\n\nJose de Castro is the CTO for APIs and Integrations within Cisco’s Collaboration Technology Group, leading the effort to open Cisco Spark’s cloud collaboration platform to any developer seeking to embed voice, video and text-based collaboration into their applications. A serial entrepreneur, he co-founded Tropo in 2009, a leading communications-as- a-service provider. As CTO of Tropo, Jose set the technical and strategic product direction, leading Tropo to a successful exit in 2015. With a passion for education and healthcare, Jose hopes to drive real change in both industries through richer and more productive communication.\nTwitter: @loopingrage\n\nTim Tuttle is the Founder and CEO of MindMeld, a San Francisco startup developing AI technology to power the emerging generation of intelligent, voice-driven applications, just acquired by Cisco.",
+    "endTime": "2017-06-09T19:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/240491553/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "240491553",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[register at bay.area.ai] Cisco Spark open platform for AI: More Bots!"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-register-at-bay-area-ai-cisco-spark-open-platform-for-ai-more-bots-tim-tuttle",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/240491553/"
+}

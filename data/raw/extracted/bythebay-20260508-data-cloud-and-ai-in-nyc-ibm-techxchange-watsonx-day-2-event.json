@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-watsonx-day-2-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-watsonx-day-2-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-watsonx-day-2-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-watsonx-day-2-event.json",
+  "kind": "event",
+  "event_id": "297399528",
+  "event_title": "IBM TechXchange watsonx Day 2",
+  "title": "IBM TechXchange watsonx Day 2",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/297399528/",
+  "description": "[Watsonx Day](https://ibm.biz/BdSMLW) brings together a broad range of IBM experts, end-users and community members to share insights and technical experience with next generation AI. This one day virtual event explores watsonx™ and its ability to scale and accelerate the impact of AI with trusted data. Dive into the world of watsonx from wherever you are. Immerse yourself in live discussions led by industry pioneers, engage with IBM experts and stay ahead of the curve with the latest advancements in the AI landscape. watsonx Day 2 is designed to be easily accessible from most timezones. Sessions span from 11 AM to 7 PM ET. Learn more about tracks and speakers, and [register to attend here](https://ibm.biz/BdSMLW).",
+  "date_time": "2023-12-06T11:00:00-05:00",
+  "end_time": "2023-12-06T19:00:00-05:00"
+}

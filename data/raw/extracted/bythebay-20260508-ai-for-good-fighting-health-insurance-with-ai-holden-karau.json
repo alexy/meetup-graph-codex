@@ -1,0 +1,22 @@
+{
+  "id": "talk:ai-by-the-bay:bythebay-20260508-ai-for-good-fighting-health-insurance-with-ai-holden-karau",
+  "source_id": "bythebay-20260508-ai-for-good-fighting-health-insurance-with-ai-holden-karau",
+  "source_file": "data/raw/sources/bythebay-20260508-ai-for-good-fighting-health-insurance-with-ai-holden-karau.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-ai-for-good-fighting-health-insurance-with-ai-holden-karau.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "AI For Good: Fighting Health Insurance with AI",
+  "conference_id": "ai-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Holden Karau, Co-Founder Fight Health Insurance",
+  "tags": [
+    "LLMOps",
+    "Fine tuning",
+    "Models"
+  ],
+  "url": "https://ai.bythebay.io/talks/ai-for-good%3A-fighting-health-insurance-with-ai",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

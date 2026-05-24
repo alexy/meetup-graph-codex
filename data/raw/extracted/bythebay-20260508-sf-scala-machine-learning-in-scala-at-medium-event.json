@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-machine-learning-in-scala-at-medium-event",
+  "source_id": "bythebay-20260508-sf-scala-machine-learning-in-scala-at-medium-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-machine-learning-in-scala-at-medium-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-machine-learning-in-scala-at-medium-event.json",
+  "kind": "workshop",
+  "event_id": "248306984",
+  "event_title": "Machine Learning in Scala at Medium",
+  "title": "Machine Learning in Scala at Medium",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/248306984/",
+  "description": "We have two great talks about Deep Learning/ML in Scala. And we're thrilled for the first time to be at Medium, doing ML in Scala! (1) Deep Learning, TensorFlow, and Spark This fast-paced session starts with an introduction to neural networks and linear regression models, along with a quick view of TensorFlow, followed by some Scala APIs for TensorFlow. You'll also see a simple dockerized image of Scala and TensorFlow code and how to execute the code in that image from the command line. No prior knowledge of NNs, Keras, or TensorFlow is required (but you must be comfortable with Scala). Oswald is a former PhD Candidate (ABD) in Mathematics, an education junkie (6 degrees), and an author of 19 technical books. He has worked for Oracle, AAA, and Just Systems of Japan, along with various startups. He has lived/worked in 5 countries on three continents, and in a previous career he worked in South America, Italy, and the French Riviera, and has traveled to over 70 countries on six continents. He has worked from C/C++/Java developer to CTO, comfortable in 4 languages, and dreams of becoming fluent in Japanese. Currently he is working in an AI start-up and also provides training in Deep Learning and Android. (2) Enabling Big Data and Machine Learning for the Masses: Creating a Spark Platform for the Uninitiated Medium is expanding its use of big data and machine learning to support its product teams. In doing so, it needs to find a way to leverage both the existing technical stack in which it has invested and the knowledge of its engineering team. Unfortunately, these are somewhat at odds. Medium has heavily invested in Scala and Spark for its ETL pipelines. And while Spark certainly provides functionality to support big data analysis and machine learning, its learning curve is very high and only a few Medium engineers have experience with it. To combat this, Medium is actively developing a platform that eases the learning curve for both big data and machine learning operations. This is not only helping get to machine learning results faster, but also write and maintain ETL pipelines more efficiently. The platform includes tools for development, online and offline testing, machine learning experimentation, and monitoring. Tim Kral leads the machine learning team at Medium where he works on automated article quality assessment systems and building out Medium's big data and machine learning infrastructure in Scala and Spark. Previously, he was working with Scala as the principle architect at YesPath, a marketing tech startup which used big data to do marketing analysis and make real-time marketing decisions. Before that, he was a principle engineer working on automated data centers at Salesforce. In his spare time, Tim is developing a micro-services framework which allows for easy statup and fast iterations of Scala and Java backend applications, brewing beer, reading to his daughter, and playing with his cat.",
+  "date_time": "2018-04-10T18:00:00-07:00",
+  "end_time": "2018-04-10T21:00:00-07:00"
+}

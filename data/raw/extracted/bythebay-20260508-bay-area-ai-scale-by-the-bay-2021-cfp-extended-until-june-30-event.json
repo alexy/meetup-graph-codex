@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-scale-by-the-bay-2021-cfp-extended-until-june-30-event",
+  "source_id": "bythebay-20260508-bay-area-ai-scale-by-the-bay-2021-cfp-extended-until-june-30-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-scale-by-the-bay-2021-cfp-extended-until-june-30-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-scale-by-the-bay-2021-cfp-extended-until-june-30-event.json",
+  "kind": "announcement",
+  "event_id": "278707931",
+  "event_title": "Scale By the Bay 2021 CFP extended until June 30",
+  "title": "Scale By the Bay 2021 CFP extended until June 30",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/278707931/",
+  "description": "We invite all meetup members to submit talks to SBTB, as the CFP was extended until June 30. Scale By the Bay 2021 will be held online on October 28-29, 2021. Following the dramatic success of our revolutionary community setup for 2020, SBTB 2021 will also be produced by Konfy, an all-women tech company building events with love for developers, by developers. They created Scala Love, Java Love, Haskell Love, Data Love, and more. The CFP is open at https://scale.bythebay.io/cfp. Early bird registration is open too! It's our best deal ever (no code needed) and will be gone as those passes are gone. Check out previous years, all linked form the landing page, to get an idea for a talk, and give it your best shot!",
+  "date_time": "2021-06-30T23:00:00-07:00",
+  "end_time": "2021-07-01T01:00:00-07:00"
+}

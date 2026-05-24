@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-event-2",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-event-2",
+  "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-event-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-event-2.json",
+  "kind": "talk",
+  "event_id": "300478750",
+  "event_title": "Unstructured Data Meetup",
+  "title": "Unstructured Data Meetup",
+  "conference_id": "meetup:36468260",
+  "meetup_id": "meetup:36468260",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/unstructured-data-sf/events/300478750/",
+  "description": "This is an in-person event! [Registration](https://lu.ma/3q2brqp8) is required in order to get in. Github will email you a form the day before the event, which you will need to complete for your access pass. **Topic:** Connecting your unstructured data with Generative AI **What we’ll do:** Have some food and refreshments. Hear three exciting talks about unstructured data and generative AI. 5:30 - 6:00 - Welcome/Networking/Registration 6:05 - 6:30 - Charles Xie, CEO, [Zilliz](https://zilliz.com/) 6:35 - 7:00 - [Robertson Taylor](https://www.linkedin.com/in/robertsonotaylor/), Solutions Engineer, [marqo.ai](http://marqo.ai) 7:05 - 7:30 - [Aamir Shakir](https://www.linkedin.com/in/aamir-shakir/?originalSubdomain=de), Co-founder, [mixedbread.ai](http://mixedbread.ai) 7:35 - 7:45 - Community demo 7:45 - 8:30 - Networking **Tech Talk 2**: A Different Angle: Retrieval Optimized Embedding Models **Speaker**: Robertson Taylor **Abstract**: When doing embedding retrieval, we rarely want just one piece of information from our document corpus. Whether we’re searching through academic papers or an e-commerce product catalog, we want multiple results which are ranked based on the query. Marqo’s fine-tuning approach, Generalized Contrastive Learning (GCL), moves beyond the binary relationships used to train existing models. GCL introduces both rank and query-awareness to text-only and multimodal models, significantly improving relevance, especially when using user-interaction data. In this talk, we’ll discuss how GCL works, and ways people are using it in the real world. **Tech Talk 3**: Building the Future of Neural Search: How to Train State-of-the-Art Embeddings **Speaker**: Aamir Shakir **Abstract**: Neural search plays a crucial role in Retrieval Augmented Generation (RAG) and various other AI use cases. In this talk, we will discuss the future of neural search, explore interesting challenges we are addressing, and explain how we build our state-of-the-art embedding model, which helps to develop high-quality RAG systems at scale. **Who Should attend:** Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. **When:** August 5, 2023 5:30PM **Where:** This is an in-person event. Registration [using this form](https://lu.ma/3q2brqp8) is required to get into the event. Registration in advance will close 2 days before the event. Sponsored by [Zilliz](http://zilliz.com/) maintainers of [Milvus](https://github.com/milvus-io/milvus). Can't make it in person? We will also be streaming live: https://www.twitch.tv/vectordatabase",
+  "date_time": "2024-08-05T17:30:00-07:00",
+  "end_time": "2024-08-05T20:30:00-07:00"
+}

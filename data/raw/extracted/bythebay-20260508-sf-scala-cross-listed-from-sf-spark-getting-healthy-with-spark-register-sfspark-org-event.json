@@ -1,0 +1,22 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-cross-listed-from-sf-spark-getting-healthy-with-spark-register-sfspark-org-event",
+  "source_id": "bythebay-20260508-sf-scala-cross-listed-from-sf-spark-getting-healthy-with-spark-register-sfspark-org-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-cross-listed-from-sf-spark-getting-healthy-with-spark-register-sfspark-org-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-cross-listed-from-sf-spark-getting-healthy-with-spark-register-sfspark-org-event.json",
+  "kind": "announcement",
+  "event_id": "225709691",
+  "event_title": "[cross-listed from SF Spark] Getting Healthy with Spark [register @ sfspark.org]",
+  "title": "Getting Healthy with Spark [register @ sfspark.org]",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "crosspost",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/225709691/",
+  "description": "Please register at sfspark.org! We're breaking new ground at Trulia's new office for a cool health-oriented meetup on Spark: http://www.meetup.com/SF-Spark-and-Friends/events/225522991/",
+  "date_time": "2015-09-29T18:30:00-07:00",
+  "end_time": "2015-09-29T21:30:00-07:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-data-science-for-all-it-s-a-whole-new-game-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-data-science-for-all-it-s-a-whole-new-game-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-data-science-for-all-it-s-a-whole-new-game-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-data-science-for-all-it-s-a-whole-new-game-event.json",
+  "kind": "event",
+  "event_id": "244552189",
+  "event_title": "Data Science for All: It's a Whole New Game",
+  "title": "Data Science for All: It's a Whole New Game",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/244552189/",
+  "description": "Join us for a 75-minute web event featuring Nate Silver, Tricia Wang and the latest data science tools. This web broadcast explores how data science is becoming accessible to more roles than ever. With the right expertise and the right tools, everyone on the team can pull more meaning from data, while those who need it maintain flexibility to use the latest tools, languages, frameworks and libraries. The agenda includes: • Legendary statistician Nate Silver sheds light on the predictive power of data • A panel of data science experts discuss their unique data challenges and approaches to creating a data-driven culture • IBM Leaders share demos of the latest data science tools • Tech host Katie Linendoll keeps it entertaining and high-energy. Watch and learn more at http://ibm.com/dsforall Be sure to sign up for a calendar reminder and pick up the replay site if you can't make the webcast.",
+  "date_time": "2017-11-01T18:00:00-04:00",
+  "end_time": "2017-11-01T21:00:00-04:00"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "talk:ai-by-the-bay:bythebay-20260508-enterprise-ready-document-processing-for-ai-kerim-satirli-hashicorp-tu-nguyen-staff-education-engineer",
+  "source_id": "bythebay-20260508-enterprise-ready-document-processing-for-ai-kerim-satirli-hashicorp-tu-nguyen-staff-education-engineer",
+  "source_file": "data/raw/sources/bythebay-20260508-enterprise-ready-document-processing-for-ai-kerim-satirli-hashicorp-tu-nguyen-staff-education-engineer.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-enterprise-ready-document-processing-for-ai-kerim-satirli-hashicorp-tu-nguyen-staff-education-engineer.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "Enterprise-ready document processing for AI",
+  "conference_id": "ai-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Kerim Satirli, Senior Developer Advocate II @ HashiCorp, Tu Nguyen, Staff Education Engineer @ HashiCorp",
+  "tags": [
+    "AI Infrastructure",
+    "RAG",
+    "AI Security",
+    "LLMOps"
+  ],
+  "url": "https://ai.bythebay.io/talks/enterprise-ready-document-processing-for-ai",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-09-27T17:30:00-07:00",
+    "description": "Scalatron is a free, open-source programming game in which bots, written in Scala, compete in a virtual arena for energy and survival. This is a friendly tournament (except for killing your neighbor's bot) and a great way to learn or grow in Scala.\n\nJust bring your laptop and an empty stomach, you don't even need Scala installed as everything is compiled on the server.\n\nSchedule\n\n5:30 - Arrival / Networking / Eat hot pizza\n6:00 - Start building bot\n8:00 - Kill all humans / start competition\n8:30 – Decompress /network / eat cold pizza\n\nPlease tag tweets with #scalasv.",
+    "endTime": "2012-09-27T20:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/81157322/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "81157322",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scalatron Hackathon at Originate in SF"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-scalatron-hackathon-at-originate-in-sf-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/81157322/"
+}

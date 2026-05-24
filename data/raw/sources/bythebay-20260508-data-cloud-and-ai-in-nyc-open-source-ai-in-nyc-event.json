@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-06-11T17:00:00-04:00",
+    "description": "To attend: Please enroll here [https://lu.ma/muqvquop](https://lu.ma/muqvquop)\n\n5:30pm - Networking\n6:00pm - TechXChange Dev Day Meetup - Open Source AI in NYC for Developers​\nAgenda will/may include as many as possible of these talks and demos\n​[Granite](https://www.ibm.com/granite/docs/use-cases/all-cookbooks/) \\- Open Source Models \\- BJ Hargrave & Ming Zhang\n[​Docling](https://github.com/docling-project/docling) \\- Document processing\\, parsing diverse formats \\- Michele Dolfi\n​[LM Studio](https://lmstudio.ai/) \\- Your local AI toolkit & bringing it all together \\- Yagil Burowski\n​[Bee AI ](https://github.com/i-am-bee)\\- Discover\\, run\\, and compose AI agents from any framework \\- Shereen Bellamy\n[ ​LocalStack](https://www.localstack.cloud/) \\- Develop and test your AI\\-powered cloud apps locally \\- Waldemar Hummer\n​Panel for Q&A\n​7:30pm - Networking",
+    "endTime": "2025-06-11T20:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/308115626/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "308115626",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Open Source AI in NYC"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-ai-in-nyc-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/308115626/"
+}

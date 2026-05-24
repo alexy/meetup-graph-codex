@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-05-23T18:30:00-07:00",
+    "description": "We're going to have a two awesome talks on Big Data Scala. The location is KIXEYE (http://www.kixeye.com/).\n\nAlex Cozzi will talk on Guerrilla Functional Programming on MapReduce at eBay: a 3 years experience\n\nAbstract: The talk will cover my experience in using Scala to develop MapReduce programs on Hadoop at eBay: motivations, challenges and lesson learned. I will describe how we started using Java-based libraries on hadoop (basic MapReduce and then cascading) and finally moved to Scoobi recently. In addition I will briefly touch on how we are starting to use Akka as well.\n\nAlex is an applied researcher, with eBay since 3 years. He previously worked for Yahoo!, developing ranking functions, and IBM, where he worked on computer vision and collaborative systems. His main interests are machine learning, statistics, big-data, and advanced languages.\n\nMark Hamstra, the author of a forth-coming Spark (http://spark-project.org/) book (http://shop.oreilly.com/product/0636920028512.do) by O'Reilly, will present a current state of Spark and its exciting sibling projects such as Tachyon:\n\nFive Easy Pieces from the most-likely future of Spark-related development. The Spark data analysis framework has generated a lot of interest and attention over the past couple of years, as have the related Shark and Spark Streaming projects from the AMPLab. But we are by no means seeing any slowing down of Spark-related development. In this talk Mark will give quick introductions to five projects from both within and outside the AMPLab that are promising enough to have gotten my attention and to inspire Mark to pass on what he intends to be helpful ways to think about these projects and how they may fit into your future big data projects.\n\nIn addition to trying to complete a forthcoming O'Reilly book on Spark, Mark is currently employed at ClearStory Data, where he spends a significant amount of his time working on Spark-related things and on other stuff that he can't yet talk about. Before getting involved with Scala, Spark and Big Data, Mark previously worked in consulting and CAD software development.",
+    "endTime": "2013-05-23T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/117391902/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "117391902",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Big Data Scala"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-big-data-scala-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/117391902/"
+}

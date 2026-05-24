@@ -1,0 +1,22 @@
+{
+  "id": "talk:ai-by-the-bay:bythebay-20260508-reliable-agentic-ai-the-open-way-mark-collier-the-linux-foundation",
+  "source_id": "bythebay-20260508-reliable-agentic-ai-the-open-way-mark-collier-the-linux-foundation",
+  "source_file": "data/raw/sources/bythebay-20260508-reliable-agentic-ai-the-open-way-mark-collier-the-linux-foundation.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-reliable-agentic-ai-the-open-way-mark-collier-the-linux-foundation.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "Reliable Agentic AI, the Open Way",
+  "conference_id": "ai-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Mark Collier, General Manager for AI and Infrastructure @ the Linux Foundation",
+  "tags": [
+    "AI Infrastructure",
+    "Agentic AI",
+    "OSS AI"
+  ],
+  "url": "https://ai.bythebay.io/talks/reliable-agentic-ai-the-open-way",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

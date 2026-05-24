@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2023-06-06T17:00:00-07:00",
+    "description": "*Thank you to our host Pulze.ai!*\n***Co-founder*** *and **CEO Fabian Baier** will introduce **Pulze.ai**.*\n*Thank you to our sponsor Airbyte for food, drinks, and recording support!*\n*Sponsor introduction by **Michel Tricot, Airbyte CEO**.*\n**[NOTE: you have to register on Eventbrite to get in!](https://www.eventbrite.com/e/llmops-test-driven-development-for-large-language-model-applications-tickets-647631753007)**\n\n**Josh Tobin** *(right)* is the founder and CEO of [Gantry](http://gantry.io/). Previously, Josh worked as a deep learning & robotics researcher at OpenAI and as a management consultant at McKinsey. He is also the creator of Full Stack Deep Learning ([fullstackdeeplearning.com](http://fullstackdeeplearning.com/)), the first course focused on the emerging engineering discipline of production machine learning and LLM applications. Josh did his PhD in Computer Science at UC Berkeley advised by Pieter Abbeel.\nLarge language models are a powerful primitive for building applications quickly and easily. However, when it comes to robustness, reliability, and production readiness, they leave something to be desired.\nIf you've built applications with LLMs, you may have wondered, \"isn't it a bit generous to call this prompt *engineering?*\", \"how do I know if this thing is *actually* working\", or \"is it even possible to test these things\"?\nIn this talk, we will present a more principled way to develop LLM applications using an approach that is analogous to test-driven development. We'll also show you how to get started with this approach in minutes using Gantry.\n\n**Airbyte** is the leading open-source data integration platform that seamlessly syncs data from the largest catalog of APIs, databases, and files to various destinations. Airbyte differentiates itself by its open-source extensibility, deployment options - cloud-hosted or self-managed and transparent and predictable pricing. Airbyte empowers AI-driven organizations with leveraging all their data, whatever the tools they use.\n**[NOTE: you have to register on Eventbrite to get in!](https://www.eventbrite.com/e/llmops-test-driven-development-for-large-language-model-applications-tickets-647631753007)**",
+    "endTime": "2023-06-06T19:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/293915629/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "293915629",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "LLMOps: Test-Driven Development for Large Language Model Applications"
+  },
+  "event_id": "293915629",
+  "event_title": "LLMOps: Test-Driven Development for Large Language Model Applications",
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "session": {
+    "description": "*Thank you to our host Pulze.ai!* ***Co-founder*** *and **CEO Fabian Baier** will introduce **Pulze.ai**.* *Thank you to our sponsor Airbyte for food, drinks, and recording support!* *Sponsor introduction by **Michel Tricot, Airbyte CEO**.* **[NOTE: you have to register on Eventbrite to get in!](https://www.eventbrite.com/e/llmops-test-driven-development-for-large-language-model-applications-tickets-647631753007)** **Josh Tobin** *(right)* is the founder and CEO of [Gantry](http://gantry.io/). Previously, Josh worked as a deep learning & robotics researcher at OpenAI and as a management consultant at McKinsey. He is also the creator of Full Stack Deep Learning ([fullstackdeeplearning.com](http://fullstackdeeplearning.com/)), the first course focused on the emerging engineering discipline of production machine learning and LLM applications. Josh did his PhD in Computer Science at UC Berkeley advised by Pieter Abbeel. Large language models are a powerful primitive for building applications quickly and easily. However, when it comes to robustness, reliability, and production readiness, they leave something to be desired. If you've built applications with LLMs, you may have wondered, \"isn't it a bit generous to call this prompt *engineering?*\", \"how do I know if this thing is *actually* working\", or \"is it even possible to test these things\"? In this talk, we will present a more principled way to develop LLM applications using an approach that is analogous to test-driven development. We'll also show you how to get started with this approach in minutes using Gantry. **Airbyte** is the leading open-source data integration platform that seamlessly syncs data from the largest catalog of APIs, databases, and files to various destinations. Airbyte differentiates itself by its open-source extensibility, deployment options - cloud-hosted or self-managed and transparent and predictable pricing. Airbyte empowers AI-driven organizations with leveraging all their data, whatever the tools they use. **[NOTE: you have to register on Eventbrite to get in!](https://www.eventbrite.com/e/llmops-test-driven-development-for-large-language-model-applications-tickets-647631753007)**",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel-2.json",
+    "source_id": "bythebay-20260508-san-francisco-hadoop-users-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Pieter Abbeel"
+      }
+    ],
+    "title": "LLMOps: Test-Driven Development for Large Language Model Applications"
+  },
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel-2",
+  "source_url": "https://www.meetup.com/hadoopsf/events/293915629/"
+}

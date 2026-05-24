@@ -1,0 +1,13 @@
+{
+  "title": "Durable Agents: long running AI workflows in a flakey world",
+  "speaker_text": "Samuel Colvin, Founder of Pydantic",
+  "tags": [
+    "MCP",
+    "OSS AI",
+    "Agentic AI"
+  ],
+  "url": "https://ai.bythebay.io/talks/durable-agents-long-running-ai-workflows-in-a-flakey-world",
+  "source_id": "bythebay-20260508-durable-agents-long-running-ai-workflows-in-a-flakey-world-samuel-colvin",
+  "source_file": "data/raw/sources/bythebay-20260508-durable-agents-long-running-ai-workflows-in-a-flakey-world-samuel-colvin.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-durable-agents-long-running-ai-workflows-in-a-flakey-world-samuel-colvin.json"
+}

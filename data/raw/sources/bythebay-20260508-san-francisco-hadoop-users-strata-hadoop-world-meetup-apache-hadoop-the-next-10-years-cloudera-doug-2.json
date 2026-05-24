@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2016-03-29T18:00:00-07:00",
+    "description": "YOU DO NOT HAVE TO BE A REGISTERED ATTENDEE TO GO TO MEETUP. PLEASE RSVP HERE: http://goo.gl/forms/GMK4QsKopb\n\n--------------------------------------------------------------\n\nHadoop--the project and the ecosystem--became 10 years young in 2016. Although the accomplishments of its community during that time were impressive beyond all expectations, its best years are yet to come. In this presentation, Doug Cutting, Hadoop co-founder and Cloudera chief architect, reflects on the reasons for Hadoop's success, the lessons for other open source projects (and data management technology overall), and Hadoop's likely significant impact on modern data management (and the people who benefit from it) over the next decade.\n\nMeet the Speaker:\n\nDoug Cutting (https://www.linkedin.com/in/cutting), Chief Architect, Cloudera\n\nDoug is the founder of several successful open source projects, including Lucene, Nutch, Avro, and Hadoop. Doug joined Cloudera in 2009, after previously working at Yahoo!, Excite, Apple, and Xerox PARC. Doug holds a Bachelor’s degree from Stanford University and is the former Chairman of the Board of the Apache Software Foundation.\n\n-----------------------------------------------------------\n\nDiscount Code for Strata + Hadoop World in San Jose March 28-31, 2016: Save 20% on most passes with discount code UGHIVE. LINK: http://www.oreilly.com/pub/cpc/9166\n\nAgenda:\n\n6:00 - 6:30 Registration and Networking\n6:30 - 6:45 Introduction by The Hive\n6:45 - 7:45 Talk by Doug Cutting\n7:45 - 8:00 Q&A\n\nhttp://photos1.meetupstatic.com/photos/event/a/7/8/6/600_446322886.jpeg",
+    "endTime": "2016-03-29T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/229420973/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "229420973",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Strata + Hadoop World Meetup - Apache Hadoop: The Next 10 Years"
+  },
+  "event_id": "229420973",
+  "event_title": "Strata + Hadoop World Meetup - Apache Hadoop: The Next 10 Years",
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "session": {
+    "description": "YOU DO NOT HAVE TO BE A REGISTERED ATTENDEE TO GO TO MEETUP. PLEASE RSVP HERE: http://goo.gl/forms/GMK4QsKopb -------------------------------------------------------------- Hadoop--the project and the ecosystem--became 10 years young in 2016. Although the accomplishments of its community during that time were impressive beyond all expectations, its best years are yet to come. In this presentation, Doug Cutting, Hadoop co-founder and Cloudera chief architect, reflects on the reasons for Hadoop's success, the lessons for other open source projects (and data management technology overall), and Hadoop's likely significant impact on modern data management (and the people who benefit from it) over the next decade. Meet the Speaker: Doug Cutting (https://www.linkedin.com/in/cutting), Chief Architect, Cloudera Doug is the founder of several successful open source projects, including Lucene, Nutch, Avro, and Hadoop. Doug joined Cloudera in 2009, after previously working at Yahoo!, Excite, Apple, and Xerox PARC. Doug holds a Bachelor’s degree from Stanford University and is the former Chairman of the Board of the Apache Software Foundation. ----------------------------------------------------------- Discount Code for Strata + Hadoop World in San Jose March 28-31, 2016: Save 20% on most passes with discount code UGHIVE. LINK: http://www.oreilly.com/pub/cpc/9166",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-strata-hadoop-world-meetup-apache-hadoop-the-next-10-years-cloudera-doug-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-strata-hadoop-world-meetup-apache-hadoop-the-next-10-years-cloudera-doug-2.json",
+    "source_id": "bythebay-20260508-san-francisco-hadoop-users-strata-hadoop-world-meetup-apache-hadoop-the-next-10-years-cloudera-doug-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Cloudera Doug"
+      },
+      {
+        "company": null,
+        "name": "Doug Cutting"
+      }
+    ],
+    "title": "Strata + Hadoop World Meetup - Apache Hadoop: The Next 10 Years"
+  },
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-strata-hadoop-world-meetup-apache-hadoop-the-next-10-years-cloudera-doug-2",
+  "source_url": "https://www.meetup.com/hadoopsf/events/229420973/"
+}

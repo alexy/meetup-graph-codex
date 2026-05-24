@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-03-13T18:00:00-07:00",
+    "description": "The March 2013 Hadoop meetup will be held Wednesday, Mar 13, from 6:00pm to 8:00pm. This meetup will be hosted by Splunk at 250 Brannan St, San Francisco, CA.\n\nStarting in 2013, we will try out a new format for the Hadoop meetup. To provide a focal point for discussions, we will begin meetups with a talk from an invited speaker. We will then transition to our usual discussion-based \"unconference\" format for the second half. The talk speaker will lead a discussion group. All participants may also propose a topic and volunteer to facilitate a discussion. All Hadoop-related topics are encouraged, and all members of the Hadoop community are welcome.\n\nMarch's talk will be given by Clint Sharp: \"Using Splunk and Hadoop to deliver best-in-class Operational Intelligence and Customer Analytics\"\n\nTalk abstract: Sophisticated enterprises now more than ever need to be able to easily provide top tier customer service, especially for their most valuable customers, all the time. However, since customer service is provided by humans, there's always plenty of room for error. This talk will cover how you can use Splunk and Hadoop to monitor and manage your business to deliver best-in-class Operational Intelligence about the health of your business in real-time, and also provide visibility down to individual customer interactions to ensure your best customers are receiving the best possible experience.\n\nClint Sharp is the Sr. Product Manager, Big Data for Splunk.\n\nEvent schedule:\n\n6:00pm - Welcome 6:30pm - Clint Sharp - Operational Intelligence and Customer Analytics 7:15pm - Organize additional breakout sessions Breakout sessions begin as soon as we're ready 8:00pm - Conclusion Food and refreshments will be provided courtesy of Splunk.",
+    "endTime": "2013-03-13T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/105950932/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "105950932",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "March 2013 San Francisco Hadoop User Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-march-2013-san-francisco-hadoop-user-meetup-clint-sharp",
+  "source_url": "https://www.meetup.com/hadoopsf/events/105950932/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-word-embeddings-past-present-and-future-piero-molino-2",
+  "source_id": "bythebay-20260508-bay-area-ai-word-embeddings-past-present-and-future-piero-molino-2",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-word-embeddings-past-present-and-future-piero-molino-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-word-embeddings-past-present-and-future-piero-molino-2.json",
+  "kind": "talk",
+  "event_id": "240298411",
+  "event_title": "Word Embeddings -- Past, Present and Future",
+  "title": "Word Embeddings -- Past, Present and Future",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": "Piero Molino",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/240298411/",
+  "description": "This meetup is a part of the Cognitive Frameworks Festival, uniting meetups By the Bay across San Francisco on 6/5-9: http://festival.framework.foundation Word Embeddings are both a hot research topic and a useful tool for NLP practitioners, as they provide representations used in many intermediate tasks, like part-of-speech tagging, syntactic parsing or named entity recognition, as well as end to end tasks like text classification, sentiment analysis and question answering. The recent attention to this topic started in 2013 when the original word2vec paper was published at NIPS alongside with an efficient and scalable implementation, but a lot of research was carried out on the topic since the 50s in computer science, cognitive science, and computational linguistics. The Historical part of the talk will focus on this body of work, with the aim of distilling ideas and learned lessons many practitioners and machine learning researchers may not be unaware of. The second part of the talk will focus on recent developments and novel methods, highlighting interesting directions that are being explored lately, like the compositionality of meaning, representing words as probability distributions and how to learn representations of knowledge graphs. Speaker Bio: Piero Molino is a Machine Learning researcher at Uber AI Labs with focus on language. Piero Completed a PhD on Question Answering at the University of Bari, Italy. Founded QuestionCube, a startup that built a framework for semantic search and QA. Worked for Yahoo Labs in Barcelona on learning to rank, IBM Watson in New York on natural language processing with deep learning and then joined Geometric Intelligence, where he worked on grounded language understanding. After Uber acquired Geometric Intelligence, he became one of the founding members of Uber AI Labs.",
+  "date_time": "2017-06-08T19:00:00-07:00",
+  "end_time": "2017-06-08T22:00:00-07:00"
+}

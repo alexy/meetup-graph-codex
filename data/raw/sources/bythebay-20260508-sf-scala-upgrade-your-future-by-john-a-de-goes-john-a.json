@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2019-07-29T18:00:00-07:00",
+    "description": "We are excited and greatly privileged to welcome John A. De Goes to the bay area for this meetup. We expect a big turnout so please RSVP early!!!\n\nUpgrade Your Future\n\nScala’s Future has been the gateway drug for many developers to a world of async and concurrent programming. Future makes it easy to write concurrent code, and helps developers escape the horrors of callback hell that come from async code.\n\nHowever, as a first-generation data type for async and concurrent programming, Future is a decade old, and in this decade, the many drawbacks and pain points of Future have become extremely well-understood.\n\nIn this presentation, John A. De Goes will introduce a young library for async and concurrent programming called ZIO, which is rapidly gaining adoption. ZIO presents a next-generation functional design that improves on Future in numerous ways.\n\nLearn from side-by-side code examples how ZIO enables you to write safer, more type-safe, more efficient, and saner code, that takes care of the messy real world problems like thread management, error management, and resource management.\n\nDiscover why it’s time for your company to upgrade its Future with ZIO!\n\nAbout John A. De Goes\n\nA mathematician by training but a software engineer by vocation, John A. De Goes has been professionally writing software for more than 25 years. John has contributed to dozens of open source projects written in functional programming languages, including ZIO, a library for asynchronous and concurrent programming in functional Scala. In addition to speaking at Strata, OSCON, BigData TechCon, NEScala, ScalaWorld, Scala IO, flatMap, Scalar Conf, LambdaConf, and many other conferences, John also published a variety of books on programming. Currently, John consults at De Goes Consulting, a consultancy committed to solving hard business problems using the power of pure functional programming.",
+    "endTime": "2019-07-29T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/262945562/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "262945562",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Upgrade Your Future by John A. De Goes"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-upgrade-your-future-by-john-a-de-goes-john-a",
+  "source_url": "https://www.meetup.com/sf-scala/events/262945562/"
+}

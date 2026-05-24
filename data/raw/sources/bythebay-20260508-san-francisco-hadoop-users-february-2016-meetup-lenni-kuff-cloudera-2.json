@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2016-02-02T18:00:00-08:00",
+    "description": "Join us in February to learn how to simplify Hadoop. Thank you to Ellation for hosting us!\n\nAgenda:\n6-630pm Food & Drinks\n630- 715pm Tech talk with Q&A\n715-8pm Networking\n\nSimplifying Hadoop with RecordService, A Secure and Unified Data Access Path for Compute Frameworks\n\nOne of the key values of the Hadoop ecosystem is its flexibility. There is a myriad of components that make up this ecosystem, allowing Hadoop to tackle otherwise intractable problems. However, having so many components provides a significant integration, implementation, and usability burden. Features that ought to work in all the components often require sizable per-component effort to ensure correctness across the stack.\n\nLenni Kuff explores RecordService, a new solution to this problem that provides an API to read data from Hadoop storage managers and return them as canonical records. This eliminates the need for components to support individual file formats, handle security, perform auditing, and implement sophisticated IO scheduling and other common processing that is at the bottom of any computation.\n\nLenni discusses the architecture of the service and the integration work done for MapReduce and Spark. Many existing applications on those frameworks can take advantage of the service with little to no modification. Lenni demonstrates how this provides fine grain (column level and row level) security, through Sentry integration, and improves performance for existing MapReduce and Spark applications by up to 5×. Lenni concludes by discussing how this architecture can enable significant future improvements to the Hadoop ecosystem.\n\nAbout the speaker: Lenni Kuff is an engineering manager at Cloudera. Before joining Cloudera, he worked at Microsoft on a number of projects including SQL Server storage engine, SQL Azure, and Hadoop on Azure. Lenni graduated from the University of Wisconsin-Madison with degrees in computer science and computer engineering.\n\nLOCATION:\n\nEllation is in the professional offices at the Westfield Center, 835 Market Street, between 4th and 5th Street. Please enter on Market Street, next to Walgreens and the Timberland Store. Look for the purple SFSU Banner. Once entering the building, please check-in with security. They will assist you to the 7th Floor reception area.\n\nBart Stop: Powell Station",
+    "endTime": "2016-02-02T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/227844240/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "227844240",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "February 2016 Meetup"
+  },
+  "event_id": "227844240",
+  "event_title": "February 2016 Meetup",
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "session": {
+    "description": "Join us in February to learn how to simplify Hadoop. Thank you to Ellation for hosting us!",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera-2.json",
+    "source_id": "bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera-2",
+    "speakers": [
+      {
+        "company": "Cloudera",
+        "name": "Lenni Kuff"
+      }
+    ],
+    "title": "February 2016 Meetup"
+  },
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera-2",
+  "source_url": "https://www.meetup.com/hadoopsf/events/227844240/"
+}

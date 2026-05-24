@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-what-do-autoboxing-value-classes-and-specialization-have-in-common-vlad-ureche-2",
+  "source_id": "bythebay-20260508-scala-bay-what-do-autoboxing-value-classes-and-specialization-have-in-common-vlad-ureche-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-what-do-autoboxing-value-classes-and-specialization-have-in-common-vlad-ureche-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-what-do-autoboxing-value-classes-and-specialization-have-in-common-vlad-ureche-2.json",
+  "kind": "talk",
+  "event_id": "195410302",
+  "event_title": "What do autoboxing, value classes and specialization have in common?",
+  "title": "What do autoboxing, value classes and specialization have in common?",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": "Vlad Ureche",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/195410302/",
+  "description": "Speaker: Vlad Ureche, EPFL Title: What do autoboxing, value classes and specialization have in common? Description: Would you answer \"a lot\"? In this talk, Vlad will present a theory that unifies autoboxing, value classes, specialization and staging in a single transformation mechanism. This theory has been successfully used to implement three program transformations: miniboxing specialization (scala-miniboxing.org (http://scala-miniboxing.org/)), multi-parameter value classes ( http://github.com/miniboxing/value-plugin/wiki ) and staging ( http://github.com/miniboxing/staging-plugin/wiki ). The aim of all these transformations is to replace the data representation of certain objects in the program without altering the semantics. For example, we may want to unbox “scala.Int” to Java’s more efficient “int” representation whenever possible, to avoid the overhead of heap objects. However, unboxing even a single method parameter requires adapting all its callers plus the method’s body. This makes it very hard to transform a program without introducing inconsistencies. Yet, tracking the data representation in the type allows us to add coercions between representations in an automatic, reliable and optimal way. This mechanism can later be customized to unbox primitive types, inline value classes, to perform specialization, to optimize closures or to allow multi-stage programming, which peels away the abstraction layers slowing down high-level code. Now, the question is: what’s YOUR use case for the transformation mechanism? Speaker's short bio. Vlad is a PhD student in the Scala Lab at EPFL, where he's working on optimizing high-level patterns in the Scala programming language down to fast JVM bytecode. His main project, miniboxing (scala-miniboxing.org (http://scala-miniboxing.org/)), is aimed at compiling generic classes down to very efficient bytecode. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "date_time": "2014-08-01T19:00:00-07:00",
+  "end_time": "2014-08-01T22:00:00-07:00"
+}

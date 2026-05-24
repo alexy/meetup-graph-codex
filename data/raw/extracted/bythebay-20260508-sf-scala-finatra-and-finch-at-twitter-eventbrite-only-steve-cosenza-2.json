@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-finatra-and-finch-at-twitter-eventbrite-only-steve-cosenza-2",
+  "source_id": "bythebay-20260508-sf-scala-finatra-and-finch-at-twitter-eventbrite-only-steve-cosenza-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-finatra-and-finch-at-twitter-eventbrite-only-steve-cosenza-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-finatra-and-finch-at-twitter-eventbrite-only-steve-cosenza-2.json",
+  "kind": "talk",
+  "event_id": "221893230",
+  "event_title": "Finatra and Finch at Twitter [Eventbrite Only]",
+  "title": "Finatra and Finch at Twitter [Eventbrite Only]",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Steve Cosenza, Travis Brown, Vladimir Kostyukov",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/221893230/",
+  "description": "Please use Eventbrite to register; only an Eventbrite ticket guarantees attendance. http://www.eventbrite.com/e/finatra-and-finch-at-twitter-tickets-16598468466 Finatra and Finch are two popular web frameworks built on Finagle, Twitter's open source RPC system for the JVM. The Finatra team at Twitter is releasing a new version 2.0 this month, and Finch is rapidly approaching a 1.0 release. This meetup will provide an overview of the histories of these two projects and some of their new and upcoming features. 6:00pm: Doors open 6:30pm: Welcome 6:45pm: Introducing Finatra 2.0 by Steve Cosenza 7:30pm: A history of Finch by Vladimir Kostyukov 8:15pm: Some possible futures for Finch by Travis Brown 8:45pm: Networking, Food and Drinks 9:00pm: End of event *Note: No press will be admitted to this event; please e-mail press@twitter.com if you have any questions. Twitter reserves the right to refuse entry to this event. Twitter also reserves the right to remove individuals from Twitter's premises for disruptive or disorderly behavior, or for any other reason in Twitter's sole discretion. Please arrive before 6:30 to ensure admission to the building.",
+  "date_time": "2015-04-29T18:00:00-07:00",
+  "end_time": "2015-04-29T21:00:00-07:00"
+}

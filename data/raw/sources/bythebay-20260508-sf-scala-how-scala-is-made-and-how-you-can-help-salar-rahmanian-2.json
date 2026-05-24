@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2024-10-17T17:30:00-07:00",
+    "description": "It gives me great pleasure to welcome [Krzysztof Romanowski](https://www.linkedin.com/in/romanowskikr/) of [VirtusLab](https://virtuslab.com) (Head of Scala & Tooling) to not only Bay Area Scala but to San Francisco Bay Area. Yes, he is traveling from Europe to give this talk in person so we all need to come and make him welcome please!!!\n\n**📣Please RSVP on Luma to attend & for full location details here:** [https://lu.ma/qq7k3iem](https://lu.ma/qq7k3iem)\n\n**Talk Title**\n\nHow Scala is made and how you can help?\n\n**Talk Summary**\n\nI am using Scala from 2011 and since 2019, part of my job (and the main reason I picked it) is to grow Scala and its community. In this talk I will explain the inner workings of an organisation that goes into releasing, maintaining and developing Scala and core parts of its ecosystem. I will discuss what are those parts, what problems the team of teams face and what you can expect in the future.\n\nLater, I will focus about ways to support the ecosystem. The help comes in various shapes and I will try to convince you that there is one that fits your needs.\n\nAs build tools are my pet peeve, expect some Scala CLI and Bazel as well!\n\n**Speaker**\n\n[Krzysztof Romanowski ](https://www.linkedin.com/in/romanowskikr/)has dedicated the majority of his career to working on the Scala project and enhancing the Developer Experience (DX), often combining the two. He focuses on hands-on development of developer tools (like scala-cli) and leading teams working on Scala applications and DX/ developer tooling. Currently, he oversees the DX (tooling) and Scala departments at VirtusLab.\n\n## **Agenda**\n\n​5.30pm - Arrival, meet people, networking, find seat\n​6.00pm - Welcome to Bay Area Scala by Salar Rahmanian\n​6.10pm - Talk: How Scala is made and how you can help?\n​7.30pm - Make our way to[ local bar Perry's](https://www.perryssf.com/location/embarcadero/) to continue conversations and for some food and drinks (self funded)\n\n## ​Thank You\n\n​Big Thank you to:\n\n* ​Our speaker\n* [​Iterable](https://iterable.com) for hosting our event, you are awesome!\n* ​Everyone who attended and support our meetup group\n\n**Notes**\n\n* Don't forget to complete our meetup Survey, I need to know what makes everyone happy: [https://forms.gle/nhZMQDnxQ5dC8mEE7](https://forms.gle/nhZMQDnxQ5dC8mEE7)\n* Subscribe to our Lu.ma to get our newsletter and hear about our events first: [https://lu.ma/scala](https://lu.ma/scala)",
+    "endTime": "2024-10-17T19:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/303718305/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "303718305",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "How Scala is made and how you can help?"
+  },
+  "event_id": "303718305",
+  "event_title": "How Scala is made and how you can help?",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "It gives me great pleasure to welcome [Krzysztof Romanowski](https://www.linkedin.com/in/romanowskikr/) of [VirtusLab](https://virtuslab.com) (Head of Scala & Tooling) to not only Bay Area Scala but to San Francisco Bay Area. Yes, he is traveling from Europe to give this talk in person so we all need to come and make him welcome please!!! **📣Please RSVP on Luma to attend & for full location details here:** [https://lu.ma/qq7k3iem](https://lu.ma/qq7k3iem) **Talk Title** How Scala is made and how you can help? **Talk Summary** I am using Scala from 2011 and since 2019, part of my job (and the main reason I picked it) is to grow Scala and its community. In this talk I will explain the inner workings of an organisation that goes into releasing, maintaining and developing Scala and core parts of its ecosystem. I will discuss what are those parts, what problems the team of teams face and what you can expect in the future. Later, I will focus about ways to support the ecosystem. The help comes in various shapes and I will try to convince you that there is one that fits your needs. As build tools are my pet peeve, expect some Scala CLI and Bazel as well! **Speaker** [Krzysztof Romanowski ](https://www.linkedin.com/in/romanowskikr/)has dedicated the majority of his career to working on the Scala project and enhancing the Developer Experience (DX), often combining the two. He focuses on hands-on development of developer tools (like scala-cli) and leading teams working on Scala applications and DX/ developer tooling. Currently, he oversees the DX (tooling) and Scala departments at VirtusLab. ## **Agenda** 5.30pm - Arrival, meet people, networking, find seat 6.00pm - Welcome to Bay Area Scala by Salar Rahmanian 6.10pm - Talk: How Scala is made and how you can help? 7.30pm - Make our way to[ local bar Perry's](https://www.perryssf.com/location/embarcadero/) to continue conversations and for some food and drinks (self funded) ## Thank You Big Thank you to: * Our speaker * [Iterable](https://iterable.com) for hosting our event, you are awesome! * Everyone who attended and support our meetup group **Notes** * Don't forget to complete our meetup Survey, I need to know what makes everyone happy: [https://forms.gle/nhZMQDnxQ5dC8mEE7](https://forms.gle/nhZMQDnxQ5dC8mEE7) * Subscribe to our Lu.ma to get our newsletter and hear about our events first: [https://lu.ma/scala](https://lu.ma/scala)",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-how-scala-is-made-and-how-you-can-help-salar-rahmanian-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-how-scala-is-made-and-how-you-can-help-salar-rahmanian-2.json",
+    "source_id": "bythebay-20260508-sf-scala-how-scala-is-made-and-how-you-can-help-salar-rahmanian-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Salar Rahmanian"
+      }
+    ],
+    "title": "How Scala is made and how you can help?"
+  },
+  "source_id": "bythebay-20260508-sf-scala-how-scala-is-made-and-how-you-can-help-salar-rahmanian-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/303718305/"
+}

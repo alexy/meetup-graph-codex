@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-agentic-ai-adventure-with-langflow-cassandra-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-agentic-ai-adventure-with-langflow-cassandra-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-agentic-ai-adventure-with-langflow-cassandra-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-agentic-ai-adventure-with-langflow-cassandra-event.json",
+  "kind": "event",
+  "event_id": "313655968",
+  "event_title": "Agentic AI Adventure with Langflow & Cassandra",
+  "title": "Agentic AI Adventure with Langflow & Cassandra",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/313655968/",
+  "description": "To participate you must enroll here [https://www.ibm.com/events/reg/flow/ibm/FHB3R6MB/landing/page/landing](https://www.ibm.com/events/reg/flow/ibm/FHB3R6MB/landing/page/landing) Agenda 11:30 AM - 12:00 PM Registration & Welcome 12:00 PM - 12:30 PM Lab Setup & Lunch 12:30 PM - 3:00 PM Hands-on Lab 1: Spec Coding with Cassandra Hands-on Lab 2: Build Agentic AI Application with Langflow and Astra DB 3:00 PM - 3:15 PM Wrap Up",
+  "date_time": "2026-03-11T11:30:00-04:00",
+  "end_time": "2026-03-11T15:15:00-04:00"
+}

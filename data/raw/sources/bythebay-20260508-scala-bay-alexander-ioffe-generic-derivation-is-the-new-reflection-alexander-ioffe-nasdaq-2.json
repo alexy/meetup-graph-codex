@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2021-02-24T15:00:00-08:00",
+    "description": "Title: Generic Derivation is the New Reflection\nFka: Unlock the Secrets of Scala 3 Macros\n\nUsing Scala 3 TypeClass derivation is a great way to write performant Json Encoders but that is only the beginning of the story. If we look deeper into Dotty Mirrors and inline, we discover an incredibly deep feature-set that elegantly solves a plethora of meta-programming problems. In addition to encoding and decoding arbitrary products and co-products, Dotty Mirrors give us a unified way to drive any kind of expansion that needs to loop over the fields of a case class or the possibilities of a sealed trait (or Dotty enum), and there is a whole lot more of that going on in everyday libraries then we think. Join me as I demonstrate these capabilities, drawing examples from the Quill library to demonstrate how a real macro-drive system would make use of them.\n\nSpeaker: Alexander Ioffe, Senior Software Engineer at Nasdaq, a contributor to Quill (a LINQ-like persistence layer for Scala). He prefers Vodka to Whiskey, Schnitzel to Steak, and there are no photographs of Alexander in existence before the age of 5.",
+    "endTime": "2021-02-24T17:00:00-08:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/276447525/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "276447525",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Alexander Ioffe, Generic Derivation is the New Reflection"
+  },
+  "event_id": "276447525",
+  "event_title": "Alexander Ioffe, Generic Derivation is the New Reflection",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "Title: Generic Derivation is the New Reflection Fka: Unlock the Secrets of Scala 3 Macros Using Scala 3 TypeClass derivation is a great way to write performant Json Encoders but that is only the beginning of the story. If we look deeper into Dotty Mirrors and inline, we discover an incredibly deep feature-set that elegantly solves a plethora of meta-programming problems. In addition to encoding and decoding arbitrary products and co-products, Dotty Mirrors give us a unified way to drive any kind of expansion that needs to loop over the fields of a case class or the possibilities of a sealed trait (or Dotty enum), and there is a whole lot more of that going on in everyday libraries then we think. Join me as I demonstrate these capabilities, drawing examples from the Quill library to demonstrate how a real macro-drive system would make use of them. Speaker: Alexander Ioffe, Senior Software Engineer at Nasdaq, a contributor to Quill (a LINQ-like persistence layer for Scala). He prefers Vodka to Whiskey, Schnitzel to Steak, and there are no photographs of Alexander in existence before the age of 5.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq-2.json",
+    "source_id": "bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq-2",
+    "speakers": [
+      {
+        "company": "Nasdaq",
+        "name": "Alexander Ioffe"
+      },
+      {
+        "company": null,
+        "name": "Generic Derivation"
+      }
+    ],
+    "title": "Alexander Ioffe, Generic Derivation is the New Reflection"
+  },
+  "source_id": "bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/276447525/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-11-20T18:00:00-08:00",
+    "description": "FYI- This month’s meetup will be held on the third Wednesday of the month.\n\nThe November SF Hadoop User Group meetup will be held Wednesday, November 20 from 6:00pm to 8:00pm. This meetup will be hosted by Splunk, located at 250 Brannan St, San Francisco, CA. Food and drinks will be served.\n\nNovember’s talk will be given by Splunk’s director of product management, Clint Sharp:\n\n“Inside Hunk: Architecture, Analytics and Use Cases”\n\nTalk abstract: Join us and learn about Hunk and how we built it. We'll cover the architecture, the challenges, the solutions and best of all, you'll get to chat with the engineers who built it! You will learn about how we were able to achieve interactivity on top of a batch-processing system with true schema-on-read, how we minimized resource waste, how Hunk enables one to go from raw data to analytics in minutes and if that doesn't excite you, we'll also show you how we made Hunk provide analytics on some uncommon data types.",
+    "endTime": "2013-11-20T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/148676842/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "148676842",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "November SF Hadoop Users Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-november-sf-hadoop-users-meetup-clint-sharp",
+  "source_url": "https://www.meetup.com/hadoopsf/events/148676842/"
+}

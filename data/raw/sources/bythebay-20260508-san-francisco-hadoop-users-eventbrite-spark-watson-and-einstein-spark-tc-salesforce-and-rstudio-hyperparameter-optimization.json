@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-06-08T18:00:00-07:00",
+    "description": "Please register at the free Eventbrite link:\n\nhttps://www.eventbrite.com/e/sf-spark-meetup-talks-from-spark-watson-and-einstein-tickets-34982003113\n\nThis meetup is a key part of the Cognitive Frameworks Festival, uniting open-source community around the city in the week of June 5:\n\nhttp://festival.framework.foundation\n\nWe have 5 talks for this amazing meetup, showcasing the vibrant ecosystem around Apache Spark.\n\n3 main talks, 20 minute each: PySpark Beyond Shuffling -- Why it isn't Magic -- but also where there is some really cool magic\nHolden Karau -- Apache Spark Committer, Spark Technology Center, IBM\n\nApache SystemML: State of the Project and Future Plans\nFrederick Reiss -- Chief Architect, Spark Technology Center, IBM\n\nPredictionIO\nKenneth Chen -- Cofounder of PredictionIO and Senior PM on Einstein, Salesforce\n\n2 Lightning talks, about 10min each:\n\nHyperparameter Optimization -- when scikit-learn meets PySpark\nSven Hafeneger -- Software Engineer, IBM Sparklyr\nJavier Luraschi -- RStudio",
+    "endTime": "2017-06-08T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/240397065/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "240397065",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[Eventbrite] Spark, Watson and Einstein: Spark.TC, Salesforce and RStudio!"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-eventbrite-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization",
+  "source_url": "https://www.meetup.com/hadoopsf/events/240397065/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-07-11T10:00:00-07:00",
+    "description": "Any modern engineering team spends at least 20% of their time productionizing their software stack. Engineers of small startups and large enterprises constantly struggle with all the same problems of building CI/CD pipelines, cost and performance optimization, security governance. Moreover, with the proliferation of cloud offerings it became incredibly easy for engineers to add new components to software infrastructure, further increasing future management complexity and operational costs. It becomes obvious that cloud software operations is the area ripe for disruptive automation, as we now have both the necessity and the tools to solve it.\n\nIn this presentation I will demonstrate how Faros AI - https://www.faros.ai?ref=scala-bay - helps engineering teams to automate their day-to-day tasks and focus on providing real customer value.\n\nSpeaker: Matthew Tovbin\nCo-Founder, Faros AI\n\nJoin Zoom Meeting\nhttps://scu.zoom.us/j/95229947801?pwd=MzdqODBwK1Y1UHkwQVdYSjV2NjFrUT09\n\nMeeting ID: 952 2994 7801\nPassword: 583404\n\nJoin by phone:\n+1 (669) 900-6833\nMeeting ID: 952 2994 7801\n\nOne tap mobile\n+16699006833,,95229947801#",
+    "endTime": "2020-07-11T11:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/271744135/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "271744135",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Matthew Tovbin, Fueling Software Automation with Scala & GraphQL"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-matthew-tovbin-fueling-software-automation-with-scala-graphql-join-zoom-meeting",
+  "source_url": "https://www.meetup.com/scala-bay/events/271744135/"
+}

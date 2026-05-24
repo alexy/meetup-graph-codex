@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-08-06T09:00:00-04:00",
+    "description": "IBM Tech TV is a new, always-on platform for the latest technical talks, live demos, and updates straight from IBM experts. Catch shows focused on honing the skills relevant to the success of both your business and yourself, featuring Distinguished Engineers, developers, and executives. At launch, IBM Tech TV will be home to three free, live, and on-demand shows focused on Cloud, and Data & AI, with more shows on the way. Subscribe now and return to discover your new favorite weekly series and to explore a growing library of original, expert-produced content that you can access whenever you want!\n\nDisruption! Episode 2:\n\nThe myriad sources, formats, and locations of enterprise data has long been a source of frustration for organizations. The Big Data revolution of the last decade has only added rocket fuel to this problem. To tackle this issue requires a platform that makes connecting to data, relating disparate data, and providing that data using well understood methods a reality. This ability needs to work exactly the same way regardless of format (structured and unstructured), source type (RDBMS, noSQL, CoS, App, Doc, RealTime, etc), and location (cloud, on premise, data service). Without this capability, the journey to AI is impossible.\n\nDisruption! Series Schedule:\nAugust 13th: Organize: Enabling self-service data access and transformation and true data governance\nAugust 20th: Analyze: Rapid Machine Learning Model Development in a Dynamic Landscape\nAugust 27th: Infuse: Understanding how to deliver data-driven insights to critical processes and maximize impact",
+    "endTime": "2020-08-06T10:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/272280301/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "272280301",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "IBM Tech TV Disruption! Episode 2: Collect: Simplifying Access to Data"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-tech-tv-disruption-episode-2-collect-simplifying-access-to-data-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/272280301/"
+}

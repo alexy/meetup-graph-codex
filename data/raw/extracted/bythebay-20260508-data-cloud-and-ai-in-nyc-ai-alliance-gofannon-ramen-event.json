@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-gofannon-ramen-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-gofannon-ramen-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-gofannon-ramen-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-gofannon-ramen-event.json",
+  "kind": "talk",
+  "event_id": "311871599",
+  "event_title": "[AI Alliance] Gofannon: Ramen",
+  "title": "Gofannon: Ramen",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/311871599/",
+  "description": "Everyone is talking about agents; if you don't have agents already in production you are hopelessly behind. Wasn't vibe coding supposed to take care of everyone's computer problems? How am I behind if AI takes care of everything for me now? Maybe I need an MCP and then I'll be caught up. Wouldn't it be nice if there was a tool where I could just say what I wanted the agent to do and it would vibe it out for me? And then maybe I could tell it what I wanted the app to look like, and it would vibe that out too. That day is today, that tool is called gofannon. In this talk we'll discuss our motivations for making gofannon, lessons learned that we've incorporated from prior iterations, and a (possibly live) demo where we'll go from idea to deployed app. See you there! **About the presenters** Trevor Grant (IBM) **Andrew Musselman** is a seasoned technology leader with 20+ years of experience building scalable platforms and data-driven solutions. He is a builder with business focus, and has helped companies realize multiple millions of annual savings and revenue through innovation and modernization. Andrew has been an Apache Software Foundation contributor for over 12 years, and brings together the community-driven value of open source work with concrete business results, ranging from data engineering and platform development to cutting-edge AI solutions. **About the AI Alliance** The [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players. **Join the community** Sign up for the [AI Alliance newsletter](https://thealliance.ai/community) (check the website footer) and join our new [AI Alliance Discord](https://discord.gg/YtsWdke6E9).",
+  "date_time": "2025-11-13T14:00:00-05:00",
+  "end_time": "2025-11-13T15:00:00-05:00"
+}

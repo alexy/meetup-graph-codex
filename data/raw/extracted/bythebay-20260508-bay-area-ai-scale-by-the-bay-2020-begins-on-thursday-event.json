@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-scale-by-the-bay-2020-begins-on-thursday-event",
+  "source_id": "bythebay-20260508-bay-area-ai-scale-by-the-bay-2020-begins-on-thursday-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-scale-by-the-bay-2020-begins-on-thursday-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-scale-by-the-bay-2020-begins-on-thursday-event.json",
+  "kind": "event",
+  "event_id": "274498233",
+  "event_title": "Scale By the Bay 2020 begins on Thursday!",
+  "title": "Scale By the Bay 2020 begins on Thursday!",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/274498233/",
+  "description": "Folks -- the first-ever online SBTB is this week. https://scale.bythebay.io/ The online ticket is a already a low $125, and we give you 20% off that with BAYAREAAI20: https://scale.bythebay.io/register Some highlights: Martin Odersky opens SBTB on 11/12 with Countdown to 3! Matei Zaharia and Anima Anandkumar keynote Li Haoyi, Getting Things Done in the Scala REPL Julien Truffault, Monocle 3: a peek into the future Adam Warski, Project Loom? Better Futures? What’s next for JVM concurrent programming Prof. Bayer, the co-creator of B-trees, presents C-chain: the Integration of 5G and real time Blockchain Shameera Rathnayaka of Spotify, Materialize Typeclasses with Magnolia Justin Heyes-Jones, YoppWorks, Applicative: The Origin Story Steve Cosenza, Twitter, Rebuilding Twitter’s public API Greg Kesler, Intuit, Query Planning in GraphQL Lei Gao, Workday Goku Flow: A Self-Service Data Pipeline Builder Prashant Sharma, IBM, Apache Spark meets FIPS standard Dean Wampler, Domino Data Labs, Ray: A System for High-performance, Distributed Machine Learning Applications Dirk Slama, VP Co-Innovation, Bosch, AIoT: Why now? And How To? Antje Barth, AWS, Put Your Machine Learning on Autopilot We have three debate panels we are (in)famous for: Will AI Kill Programming? Were Microservices a Huge Mistake? Programming Languages in the Era of the Cloud See the full program at https://www.scale.bythebay.io/schedule, and register!",
+  "date_time": "2020-11-12T06:45:00-08:00",
+  "end_time": "2020-11-13T18:30:00-08:00"
+}

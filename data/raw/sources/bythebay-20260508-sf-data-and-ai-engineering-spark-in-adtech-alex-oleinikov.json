@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-06-06T18:00:00-07:00",
+    "description": "Spark is increasingly used in adtech. Let's review the applications and best practices!\n\nWe have two sets of talks in this extended meetup, which is a part of the Cognitive Frameworks Festival running 6/6-9 in partnership with IBM, Galvanize, and Framework Foundation.\n\nOur gracious hosts from Chartboost present, as well as Criteo, another key user of Scala and Spark in Adtech.\n\n1. AdTech Engineering at Chartboost\nSpeakers:Deepak Thakral, Chartboost VP of Product and Engineering, is an industry veteran leading vision and technical strategy. Prior to Chartboost, he led Engineering and Product for Quixey and YP / AT&T Interactive.Vivek Hariharan, Senior Director of Engineering at Chartboost, oversees the SDK, Apps, AdServing and Data engineering teams and was formerly an engineering leader across several large-scale advertising, targeting and data initiatives for Yahoo!\n\nAbout CB: Chartboost is the world’s largest mobile games-only platform, helping game developers grow their audience, monetize, and make better data-driven decisions. They work with 90% of the top-grossing iOS and Android game developers and are currently being leveraged by over 300,000 games, reaching 1 billion active players around the world every month.\n\n2. Practical insights on monadic error handling in Spark\nAlex Oleinikov, Criteo\n\nError handling in distributed systems is tough, but once done right it can make data pipeline's beavior predictable and incident investigations will no longer be a puzzle. The talk covers a monadic approach to error handling, tradeoffs of it's implementation in Spark, advantages, related technical difficulties and ways to deal with them.\n\nAlex works on data collection and knowledge extraction for the last 6 years. He developed media information knowledge base which powers the Media vertical at Yandex. There he also worked on consumer facing web services, their performance and scalability aspects. Lately he’s busy bringing the miracle of machine learning to search ads camapaign management at Criteo.\n\nhttps://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif",
+    "endTime": "2017-06-06T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/239736345/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "239736345",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Spark in Adtech"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/239736345/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-04-11T18:00:00-07:00",
+    "description": "In which James builds upon the previous day's SBT-Web-fu and live codes a Play 2.3 app!\n\nReactive All The Way Down\n\nThe world is going Reactive but not just for the back-end; UIs are also becoming Reactive. In this session we will walk through how to build an end-to-end Reactive application with Scala, Play Framework, Akka, and AngularJS.\n\nFun fact: this is Alexy's birthday. Thanks James for coming all the way from Colorado to help us celebrate with Scala folks in SF at SF Scala!:)\n\nAgenda\n\n6:00 doors open\n\n6:30 announcements, including 1-minute hiring pitches -- prepare yours!\n\n6:40 talks begin\n\nRSVP strictly enforced, pls manage yours responsibly...",
+    "endTime": "2014-04-11T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/175274442/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "175274442",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Reactive All the Way Down with James Ward, 2/2"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-reactive-all-the-way-down-with-james-ward-2-2-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/175274442/"
+}

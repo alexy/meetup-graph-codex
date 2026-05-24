@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-06-07T18:00:00-07:00",
+    "description": "Join us for a meetup with StreamSets to discuss the latest Spark elements\n\nAgenda:\n\n6:00-6:30pm Food, drinks and networking\n\n6:30-7:30pm Tech talk\n\n7:30-8:00pm Networking\n\nBig data tools such as Hadoop and Spark allow you to process data at unprecedented scale, but keeping your processing engine fed can be a challenge. Metadata in upstream sources such as relational databases and log files can ‘drift’ due to infrastructure, OS and application changes, causing ETL tools and hand-coded solutions to fail. StreamSets Data Collector (SDC), is Apache 2.0 licensed open source software that allows data scientists and data engineers to build robust big data ingest pipelines using pre-built and custom processing stages via a browser-based UI.\n\nIn this session, Hari will explain how SDC integrates with Apache Spark, and how developers can create their own custom reusable processing elements using Spark’s programming model and existing libraries such as GraphX or MLLib. You'll learn how Spark can run SDC pipelines in a wide variety of environments, from standalone systems such as a developer's laptop, to on-premises and in-cloud clusters, allowing developers, data scientists and data engineers to process data at unprecedented scale.",
+    "endTime": "2017-06-07T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/239675820/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "239675820",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Integrated Dataflow Processing with Spark and StreamSets"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-integrated-dataflow-processing-with-spark-and-streamsets-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/239675820/"
+}

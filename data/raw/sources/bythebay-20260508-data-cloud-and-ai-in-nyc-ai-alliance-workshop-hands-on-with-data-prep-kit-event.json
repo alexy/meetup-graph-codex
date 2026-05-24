@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-03-20T12:00:00-04:00",
+    "description": "**Overview**\nWhen building machine learning and data applications, a significant portion of your time will be dedicated to data wrangling - from content extraction and cleaning to de-duplication and filtering out problematic data. In this hands-on session we will explore Data Prep Kit - an open source toolkit, designed to streamline these essential tasks. Attendees will learn first hand how to use the Data Prep Kit to accelerate data preparation, improve overall data quality, and enhance the efficiency of building robust LLM applications.\n\n**Description**\nData Prep Kit is a comprehensive Python library that democratizes and accelerates data preparation by providing out-of-the-box solutions for common tasks. Engineered to scale from a single laptop to large cloud clusters, it has been successfully used to process terabytes of data for training IBM Granite Large Language Models (LLMs).\n\nData Prep Kit offers a robust feature set including duplicate elimination, advanced document and code handling, language detection (for both spoken and programming languages), removal of personally identifiable information (PII), as well as spam, hate speech, and malware detection.\n\nMore about Data Prep Kit : https://github.com/IBM/data-prep-kit\n\nJoin us for this hands-on session to explore how to use Data Prep Kit to accelerate data preparation, enhance data quality.\n\nIn this workshop we will do the following:\n\n* getting started with Data Prep Kit\n* Extract content from various documents (PDFs, DOCX, HTML)\n* Cleanup documents by removing excess markup\n* Detect and remove duplicate documents\n* Detect and remove low quality and spam documents\n\n**What do you need to participate in this workshop?**\n\n* Comfortable in python programming language\n* We will run the workshop code using Google Collab (free) - no other setup is needed!\n\n**Session Type**\nHands-on workshop\n\n**Audience**\nLLM app developers, data scientists, data engineers\n\n**Technical Level**\nBeginner - Intermediate\n\n**Prerequisites**\n\n* Comfortable in python programming language\n* We will run the workshop using Google Collab (free) - no other setup is needed!\n\n**Duration**\n60 mins\n\n**Industry**\nCross industry\n\n**Speaker Bio**\nhttps://sujee.dev/bio\n\n**About the AI Alliance**\nThe [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+    "endTime": "2025-03-20T13:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/306535885/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "306535885",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] Workshop: Hands-on with Data Prep Kit"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-hands-on-with-data-prep-kit-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/306535885/"
+}

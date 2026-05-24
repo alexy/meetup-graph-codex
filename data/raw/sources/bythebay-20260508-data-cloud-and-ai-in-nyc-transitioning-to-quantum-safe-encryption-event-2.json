@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-02-02T15:30:00-05:00",
+    "description": "**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1. Repeated at two different times to accommodate various time zones, because it is**\n**2. Posted simultaneously in multiple meetup groups world-wide**\n\nWith the vast increase in computing power, quantum computers promise to revolutionize many fields including artificial intelligence, medicine\nand space exploration.\n\nBut they may also be abused to break key cryptographic algorithms we depend upon for the safety of our digital world. This poses a risk for a wide range of areas such as securing data communications, signing certificates for establishing trust, signing financial transactions in blockchain, signing software for secure distribution, signing legal documents, verifying authenticity of messages and protecting sensitive data.\n\nFortunately, alternate cryptographic algorithms which are safe against attacks by both quantum and classical computers do exist. In fact, the US National Institute of Standards and Technology (NIST) has just recently announced such alternatives, following the completion of the third round of the Post-Quantum Cryptography (PQC) standardization process. In total, four PQC algorithms have been selected by NIST, one for key establishment (CRYSTALS-KYBER) and three for digital signature (CRYSTALS-Dilithium, FALCON and SPHINCS). While this is encouraging, the major challenge ahead is transitioning today’s encryption implementations into Quantum Safe Encryption (QSE).\n\nThis session describes how exactly quantum computers impact encryption and outlines an approach for guiding organizations to transition to QSE.\n\n**Presenter: Dr. Walid Rjaibi**\n\nDr. Walid Rjaibi is a Distinguished Engineer and CTO for Data Security at IBM. He drives the research for data security as well as the technical architecture and vision for products and services.\n\nPrior to his current role, Walid held several technical and management roles within IBM including Research Staff Member at the IBM Zurich Research Lab, Security Architect for DB2 at the IBM Toronto Lab, and Chief Security Architect for Data & AI at the IBM Toronto Lab. His Data Security work resulted in 27 granted patents, publications in leading scientific and academic journals/conferences, and industry-proven commercial capabilities that are relied upon by thousands of organizations from around the world to protect critical data and meet security and compliance mandates.\n\nWalid also serves on the professional advisory board for the department of Electrical Engineering & Computer Science at York University, the department of Computer & Information Systems at the University of Michigan and the Cybersecurity Center at the University of Missouri.\n\n***\n\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. [https://ibm.webex.com/ibm/j.php?RGID=rc80937fc315c960cd85a7be7518099e9](https://ibm.webex.com/ibm/j.php?RGID=rc80937fc315c960cd85a7be7518099e9)",
+    "endTime": "2023-02-02T16:30:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/289690976/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "289690976",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Transitioning to Quantum Safe Encryption"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-transitioning-to-quantum-safe-encryption-event-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/289690976/"
+}

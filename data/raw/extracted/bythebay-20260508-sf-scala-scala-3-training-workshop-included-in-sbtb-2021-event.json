@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-scala-3-training-workshop-included-in-sbtb-2021-event",
+  "source_id": "bythebay-20260508-sf-scala-scala-3-training-workshop-included-in-sbtb-2021-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scala-3-training-workshop-included-in-sbtb-2021-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scala-3-training-workshop-included-in-sbtb-2021-event.json",
+  "kind": "workshop",
+  "event_id": "281527122",
+  "event_title": "Scala 3 Training Workshop included in SBTB 2021",
+  "title": "Scala 3 Training Workshop included in SBTB 2021",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/281527122/",
+  "description": "We're delighted to add a Scala 3 workshop to Scale By the Bay 2021, in a week, free to the attendees! (If you already have a pass it is included.) Register for SBTB at https://scale.bythebay.io using code SFSCALA20 for 20% off. Trainer: Adam Warski, globally recognized FP speaker and leader Time: 27th of October, 9-12AM SF time (19-21PM CET) - 3h Title: Exposing an HTTP API using Scala 3 Description: It's about time to leverage the new features available in Scala 3! A number of libraries have been updated, making it possible to write fully-functional applications using the latest Scala version. We'll create a basic application from scratch, exposing an HTTP API, using the following Scala 3 features: * enums to define data structures * opaque types for even more type-safety * typeclass derivation using the `derives` keyword * extension methods * new braceless syntax The following Scala libraries will be involved: * tapir for describing web endpoints * http4s as the HTTP server implementation * cats-effect to control effects and for asynchronous programming If you've been using Scala 2 before, or if you are completely new to Scala - come and see how functional programmings works our in practice! No prior Scala experience is required. *A starting repository and setup instructions will be provided for the attendees before the workshop.* Reserve your seat for SBTB at https://scale.bythebay.io using code SFSCALA20 for 20% off. Adam Warski is one of the co-founders and CTO of SoftwareMill, where he codes mainly using Scala and other interesting technologies. He is involved in open source projects, such as sttp, tapir, Quicklens, ElasticMQ and others. Adam has been a speaker at major conferences, such as JavaOne, LambdaConf, Devoxx and ScalaDays. Apart from writing closed- and open-source software, his ideas or insights usually end up with a blog post: https://softwaremill.com/blog.",
+  "date_time": "2021-10-27T09:00:00-07:00",
+  "end_time": "2021-10-27T12:00:00-07:00"
+}

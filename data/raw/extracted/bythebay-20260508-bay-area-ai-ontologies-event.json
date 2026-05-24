@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-ontologies-event",
+  "source_id": "bythebay-20260508-bay-area-ai-ontologies-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-ontologies-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-ontologies-event.json",
+  "kind": "announcement",
+  "event_id": "220718220",
+  "event_title": "Ontologies",
+  "title": "Ontologies",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/220718220/",
+  "description": "UPDATE: http://text.bythebay.io schedule (http://text.bythebay.io/schedule.html) is up, 40 talks by 40 amazing companies. We've sent a code to the members; early bird through 3/20. Update: thanks to our Groupon friends, we have the venue! We need a video sponsor for our talks -- please contact the organizers if you want to partner. We got one talk in, another coming! Talk 1: Jay Wacker, Quora Quora's Topic Ontology Abstract: I will discuss the philosophy and structure behind Quora's Topic Ontology Talk 2: Jeff Lerman, QIAGEN The Ingenuity Biomedical Knowledge-Base: Advantages of Modeling Knowledge in an Ontology Ingenuity Systems (now a part of QIAGEN) provides software solutions to interpret biological datasets. By aligning customer data to the Ingenuity Knowedgebase (KB), datasets can be viewed and analyzed in the context of relevant biological and biomedical knowledge. The Ingenuity KB is represented as a frame-based ontology, and that structure facilitates a range of powerful features, including inference and testing functionality. I’ll discuss the ontology structure, building process, maintenance regime, and some use-cases.",
+  "date_time": "2015-03-12T18:00:00-07:00",
+  "end_time": "2015-03-12T21:00:00-07:00"
+}

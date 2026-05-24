@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-itbench-new-open-source-benchmark-suite-for-ai-agents-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-itbench-new-open-source-benchmark-suite-for-ai-agents-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-itbench-new-open-source-benchmark-suite-for-ai-agents-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-itbench-new-open-source-benchmark-suite-for-ai-agents-event.json",
+  "kind": "event",
+  "event_id": "308436218",
+  "event_title": "[AI Alliance] ITBench - New Open-Source Benchmark Suite for AI Agents",
+  "title": "ITBench - New Open-Source Benchmark Suite for AI Agents",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/308436218/",
+  "description": "[ITBench](https://github.com/IBM/ITBench) is a new open-source benchmark suite designed to evaluate AI agents in real-world IT environments across 3 key areas: * Site Reliability Engineering (#SRE) * Financial Operations (#FinOps) * Compliance & Security Operations (#CISO) The ITBench SaaS offering covers the entire workflow – from environment deployment, scenario setup, and agent evaluations, making it easy to test and compare your AI solutions. See the public leaderboards on GitHub here: https://github.com/IBM/ITBench-Leaderboard Hear IBM Distinguished Engineer and Master Inventor, Ruchi Mahindru, explain how IT Bench can help businesses mitigate risk across large-scale systems. **Join the community** * Subscribe to the AI Alliance community newsletter (see [sign-up form at the bottom of the homepage](https://thealliance.ai)) * Join the AI Alliance Discord: https://discord.gg/ntG3yqSr **About the AI Alliance** The [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+  "date_time": "2025-06-12T12:00:00-04:00",
+  "end_time": "2025-06-12T13:00:00-04:00"
+}

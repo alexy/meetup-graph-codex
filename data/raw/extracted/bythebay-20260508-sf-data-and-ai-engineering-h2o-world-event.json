@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18601481:bythebay-20260508-sf-data-and-ai-engineering-h2o-world-event",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-h2o-world-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-h2o-world-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-h2o-world-event.json",
+  "kind": "workshop",
+  "event_id": "245570657",
+  "event_title": "H2O World",
+  "title": "H2O World",
+  "conference_id": "meetup:18601481",
+  "meetup_id": "meetup:18601481",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/245570657/",
+  "description": "• What we'll do H2O World 2017 Date: 4th and 5th December, 2017 Location: Computer History Museum, Mountain View We’re back with our flagship event H2O World 2017 to bring together the best of data science, AI, and business transformation. We’re going to make it rain insights and storm discussions with speakers from industry-leading companies such as ADP, Amazon’s A9, Booking.com, Capital One, Comcast, Experian, Kaiser Permanente, PayPal and many more to learn how they are using data science, machine learning and AI to transform their business. Enjoy 50+ sessions on topics such as Auto Feature Engineering, Machine Learning Interpretability, NLP, Automatic Machine Learning, Convex Optimization, Auto Visualization, Computer Vision and many more. In addition to learning from industry experts, we invite you to: * Chat with 5 Kaggle Grandmasters * Compete in the Hackathon * Participate in hands-on lab sessions with the makers behind H2O products * Book signings by Professor Rob Tibshirani, Darren Cook, Michal Malohlava * Make a memory at the digital caricature booth * Let your taste buds loose by our food trucks Register here: h2oworld.h2o.ai To win a ticket to H2O World 2017, please tweet your best hashtag about H2O / H2O World to @h2oai and the most impressive hashtags will stand a chance to win. You could also fill out this small survey but we suggest to let your creative horses loose on twitter and better your chances. To avail a discounted ticket, please use discount code ALEXY65 on our general admission tickets to avail a 65% discount! Note: RSVP'ing on meetup.com doesn't account for your ticket to H2O World 2017. Please visit the official website at h2oworld.h2o.ai and save a spot! • What to bring • Important to know",
+  "date_time": "2017-12-04T08:00:00-08:00",
+  "end_time": "2017-12-05T21:00:00-08:00"
+}

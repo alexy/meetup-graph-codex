@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-gemma-developer-meetup-june-2025-daniel-han-chen",
+  "source_id": "bythebay-20260508-bay-area-ai-gemma-developer-meetup-june-2025-daniel-han-chen",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-gemma-developer-meetup-june-2025-daniel-han-chen.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-gemma-developer-meetup-june-2025-daniel-han-chen.json",
+  "kind": "talk",
+  "event_id": "308553764",
+  "event_title": "[Cross Posting] Gemma Developer Meetup (June 2025)",
+  "title": "Gemma Developer Meetup (June 2025)",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": "Daniel Han-Chen, Google Explore, Mayank Chaturvedi, Monday June",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/308553764/",
+  "description": "[Cross-posting event] **Registration is** **REQUIRED** at [HERE](https://www.meetup.com/gemma-developer-sf-bay-area/events/308535399/) **by Monday June 23** \\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\- Join us for an evening of tech talks at the **Gemma Developer Meetup** in San Francisco! Whether you're a developer, researcher, or data scientist working with open LLMs, this event is a great opportunity to learn from experts and connect with the Gemma experts and developers in SF and Silicon Valley. #### **Talks & Speakers** **🧠 Fine-Tuning Gemma to Replicate an Individual's Personality** *Speaker: Mayank Chaturvedi, Google* Explore how the Gemma model can be fine-tuned to emulate the personality and cognitive style of a specific individual. This hobby project uses Hugging Face Transformers and the TRL library to push the boundaries of personalization in AI. **🤖 Building Effective AI Agents with Reinforcement Learning and Gemma 3** *Speaker: Daniel Han-Chen, unsloth* Learn how to create your own local AI agents using Gemma 3. This talk covers everything from lightweight fine-tuning to advanced reinforcement learning using GRPO. You'll also see how to train models efficiently using Unsloth — even on limited hardware or for free via Google Colab and Kaggle. More talks to be announced soon.",
+  "date_time": "2025-06-26T17:00:00-07:00",
+  "end_time": "2025-06-26T20:00:00-07:00"
+}

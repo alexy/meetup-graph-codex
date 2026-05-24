@@ -1,0 +1,22 @@
+{
+  "id": "talk:ai-by-the-bay:bythebay-20260508-ai-and-data-streaming-integrating-agents-with-data-in-motion-for-real-time-enterprise-intelligence-peter-corless-redpanda",
+  "source_id": "bythebay-20260508-ai-and-data-streaming-integrating-agents-with-data-in-motion-for-real-time-enterprise-intelligence-peter-corless-redpanda",
+  "source_file": "data/raw/sources/bythebay-20260508-ai-and-data-streaming-integrating-agents-with-data-in-motion-for-real-time-enterprise-intelligence-peter-corless-redpanda.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-ai-and-data-streaming-integrating-agents-with-data-in-motion-for-real-time-enterprise-intelligence-peter-corless-redpanda.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "AI and data streaming: Integrating agents with data-in-motion for real-time enterprise intelligence",
+  "conference_id": "ai-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Peter Corless, Principal Product Marketing Manager @ Redpanda",
+  "tags": [
+    "AI Infrastructure",
+    "Agentic AI",
+    "MCP"
+  ],
+  "url": "https://ai.bythebay.io/talks/ai-and-data-streaming-integrating-agents-with-data-in-motion-for-real-time-enterprise-intelligence",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

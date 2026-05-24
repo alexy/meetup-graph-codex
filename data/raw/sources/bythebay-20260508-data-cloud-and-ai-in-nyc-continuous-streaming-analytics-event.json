@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-10-06T18:00:00-04:00",
+    "description": "Hi all. Here is the agenda for the evening tomorrow:\n\n• 6-6.20 PM : Introduction to Streams and new directions\n\n• 6.20 - 6.40 PM : Streaming Geospatial Analytics, from detecting piracy to solving crimes to finding asteroids\n\n• 6.40 - 7.00 PM : Developing on Streams and use-cases in Manufacturing\n\n• 7.00 - 8.00 PM : Networking over food & drinks\n\nJoin us on Tuesday, October 6th, to learn more about real-time streaming data and analytics. We shall introduce the IBM stream processing platform, IBM InfoSphere Streams, and talk about a few different use-cases in healthcare, finance, social media and sports.\n\nIBM InfoSphere® Streams is an advanced computing platform that allows user-developed applications to quickly ingest, analyze, and correlate information as it arrives from thousands of real-time sources. The solution can handle very high data throughput rates, up to millions of events or messages per second.\n\nA component of the IBM big data platform, InfoSphere Streams processes huge volumes and varieties of data from diverse sources while achieving extremely low latency, enabling decision makers to extract relevant information for timely analysis. InfoSphere Streams radically extends the state of the art in information processing by helping organizations:\n\n• Respond in real time to events and changing requirements\n\n• Analyze data continuously at rates that are orders of magnitude greater than existing systems\n\n• Adapt rapidly to changing data forms and types\n\n• Deliver real-time cognitive computing functions to learn patterns and predict outcomes\n\n• Manage high availability, heterogeneity and distribution for the streaming data paradigm\n\nAgenda : To be posted soon.",
+    "endTime": "2015-10-06T20:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/225607725/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "225607725",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Continuous Streaming Analytics"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-streaming-analytics-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/225607725/"
+}

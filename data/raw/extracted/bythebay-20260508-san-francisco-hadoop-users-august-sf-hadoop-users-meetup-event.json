@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-august-sf-hadoop-users-meetup-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-august-sf-hadoop-users-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-august-sf-hadoop-users-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-august-sf-hadoop-users-meetup-event.json",
+  "kind": "talk",
+  "event_id": "196685952",
+  "event_title": "August SF Hadoop Users Meetup",
+  "title": "August SF Hadoop Users Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/196685952/",
+  "description": "The August SF Hadoop User Group meetup will be held Wednesday, August 13 from 6:00pm to 8:00pm. This meetup will be hosted by Lookout, located at 1 Front Street 26th Floor, San Francisco, CA. Food and drinks will be served. Presentation: “Hadoop at Lookout” Lookout is a mobile security company with over 50 million registered users. As we move towards breaking our monolithic architecture to a more service oriented one we are seeing an increasing need to process stream data with low latencies for analytics. In this talk we will talk about our event ingestion pipelines in to Hadoop and how it powers internal analytics. Our pipelines use Storm, Kafka and process text and binary data(protobufs). The presentation will be followed by breakout sessions.",
+  "date_time": "2014-08-13T18:00:00-07:00",
+  "end_time": "2014-08-13T21:00:00-07:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-narek-asadorian-functional-programming-the-enterprise-edition-einstein-activity-capture-2",
+  "source_id": "bythebay-20260508-scala-bay-narek-asadorian-functional-programming-the-enterprise-edition-einstein-activity-capture-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-narek-asadorian-functional-programming-the-enterprise-edition-einstein-activity-capture-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-narek-asadorian-functional-programming-the-enterprise-edition-einstein-activity-capture-2.json",
+  "kind": "talk",
+  "event_id": "248517175",
+  "event_title": "Narek Asadorian, \"Functional Programming: The Enterprise Edition\"",
+  "title": "Narek Asadorian, \"Functional Programming: The Enterprise Edition\"",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": "Einstein Activity Capture, Narek Asadorian @ Salesforce",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/248517175/",
+  "description": "Narek Asadorian, \"Functional Programming: The Enterprise Edition\" Abstract Despite its increasing popularity, functional programming is still stuck in the back seat when it comes to the enterprise. This talk aims to address common pitfalls in enterprise software engineering which can be avoided through the application of functional programming principles, as well as to introduce the clarity and maintainability inherent to functional code. In this talk, we will cover computational effects including failure handling, IO and partiality using various functors and monads. We will also explore the \"softer\" side of teaching and advocating for FP at work, including strategies for coaching teammates off of imperative and side-effect ridden coding practices. The material in the talk will focus on Scala specifically, but the principles should apply to any programming language supporting types. While enterprise software is implied in the title, the learnings and examples in the talk can be implemented in any commercial software development environment. The content presented is intended to have multiple levels of approachability. Beginners will be exposed to FP concepts from a relatable and novel angle, while advanced programmers will learn new ways to approach and teach these concepts. Engineering managers can gain an understanding of how functional code scales and remains maintainable. Speaker Bio Narek Asadorian is a Senior Software Engineer with Salesforce, where he works on streaming data pipelines and data enrichment microservices in support of the Salesforce Inbox and Einstein Activity Capture products. He is a Scala programmer and all-around functional programming enthusiast and advocate. Narek is also the organizer of Salesforce's internal programming meetup, #lambda. In his free time, he enjoys making electronic music and fine dining. Schedule • 6:30-7:00 - networking (pizza, beer) • 7:00-7:10 - announcements etc. • 7:10-8:00 - talk • 8:00-8:30 - more networking",
+  "date_time": "2018-05-08T19:00:00-07:00",
+  "end_time": "2018-05-08T21:00:00-07:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-scala-notebook-a-browser-based-interactive-scala-prompt-event",
+  "source_id": "bythebay-20260508-sf-scala-scala-notebook-a-browser-based-interactive-scala-prompt-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scala-notebook-a-browser-based-interactive-scala-prompt-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scala-notebook-a-browser-based-interactive-scala-prompt-event.json",
+  "kind": "event",
+  "event_id": "219687797",
+  "event_title": "Scala Notebook: a Browser-based Interactive Scala Prompt",
+  "title": "Scala Notebook: a Browser-based Interactive Scala Prompt",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/219687797/",
+  "description": "Update 0: Nitro Smart Document directions with Databricks Cloud will be introduced! Update 1: Domino cloud platform will be inrtoduced! Based off of the IPython notebook project, Scala Notebook lets you interact with Scala through a browser in a notebook-like pattern: * Past commands can be viewed and edited* Rich results (like HTML or images) are interleaved with the commands that generated them* Supports interactive widgets, that allow browser interactions translate into Scala execution and vice versa One of the original authors will demo Scala Notebook, talk a little about its construction, and answer any questions about it. Chris Yang is a co-founder of Domino Data Labs, a PaaS for data scientists. Senior developer at Bridgewater Associates, building the next-generation investment analytics platform. Studied CS at MIT.",
+  "date_time": "2015-02-05T18:00:00-08:00",
+  "end_time": "2015-02-05T21:00:00-08:00"
+}

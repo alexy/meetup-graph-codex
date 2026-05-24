@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-innovation-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-innovation-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-innovation-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-innovation-event.json",
+  "kind": "event",
+  "event_id": "295945611",
+  "event_title": "IBM TechXchange Conference 2023 Live Stream - Keynote Innovation",
+  "title": "IBM TechXchange Conference 2023 Live Stream - Keynote Innovation",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/295945611/",
+  "description": "Are you ready to dive into the world of cutting-edge technology, such as generative AI? Join us at the upcoming **[IBM TechXchange Conference 2023 Keynote Sessions](http://ibm.biz/techxchange)**, a captivating series of **no-cost live streams** that will unravel the latest advancements in AI, automation, security, and cloud solutions. **Keynote Innovation: Are You Ready for the New Age of AI and Beyond?** Understanding where technology is going can give every enterprise technologist a leg up on the competition. Making the right bets means the difference between leading an industry and getting left behind. In this session, you will hear from Swaroop Kolluri, Founder and Director of venture capitalist firm Neotribe Ventures, on where the hi-tech investment community is making bets in a fireside chat with TechXchange host Jason Gartner. Followed by IBM Fellow, Ruchir Puri, Chief Scientist from IBM Research, who will introduce you to the IBM Technology Atlas. Drilling down on the AI roadmap in particular will help you guide the business decisions needed to bring a new era of performance and efficiency to your business. **Speakers** * Jason Gartner, GM, Technical Sales & Client Engineering, IBM * Ruchir Puri, IBM Fellow, Chief Scientist in IBM Research **How to Attend** * All you need to do is just go to the [IBM TechXchange Conference website](https://ibm.biz/BdMaFp) at the scheduled times to view the live keynote sessions! * The sessions will be live-streamed on the IBM TechXchange Conference website at [https://ibm.biz/BdMaFp](https://ibm.biz/BdMaFp). You can also watch the recordings after the event.",
+  "date_time": "2023-09-12T16:15:00-04:00",
+  "end_time": "2023-09-12T17:15:00-04:00"
+}

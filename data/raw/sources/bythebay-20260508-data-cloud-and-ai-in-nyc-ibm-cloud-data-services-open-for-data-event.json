@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-05-05T11:00:00-04:00",
+    "description": "IBM cloud supports 47 of the top 50 Fortune 500 companies\n\nBusinesses are changing how they go to market, how they sell products and services, and how they reach new customers. The value of a customer is increasingly about the overall relationship and experience and less about what they bought.\n\nAs new web, mobile, e-commerce, and social applications reinvent traditional business practices, we’re seeing the growth of digital transformation across industries where consumers subscribe rather than buy. The cloud has accelerated the rate of disruption and made it easy to build and use new services, but the cloud is only part of the story.\n\nMany clients are beginning to consider a hybrid cloud approach, choosing the best technology and data placement strategy for their business. A hybrid cloud strategy brings the best of both worlds—reduced cost, reduced complexity and better business agility with the cloud, and the ability to use your investment in existing systems for those workloads that need to remain on premise.\n\nGet more information on these issues and answers to your questions when you join us for lunch at Bobby Vans on May 5th from 11:00 AM to 1:30 PM. You’ll hear how IBM is helping customers move to the cloud, embrace open source, make better use of their existing investment in technology. We’ll also discuss:\n\n• The rise of the subscription economy\n\n• The power of open source\n\n• Next gen cloud data management capabilities\n\n• Opportunities to use the hybrid cloud model to help your business go faster\n\nSpace is limited! Register here to save your seat.\n\nYou must REGISTER at - https://ibm.biz/Bd4eg7",
+    "endTime": "2016-05-05T13:30:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/230724559/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "230724559",
+    "isOnline": false,
+    "status": "CANCELLED",
+    "title": "IBM Cloud Data Services - Open For Data"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-cloud-data-services-open-for-data-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/230724559/"
+}

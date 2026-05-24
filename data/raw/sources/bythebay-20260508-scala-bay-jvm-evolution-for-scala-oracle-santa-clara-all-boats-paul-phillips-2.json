@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2013-02-14T18:30:00-08:00",
+    "description": "Ever wonder what goes on below the arrows, double colons, and tildes of Scala's syntax? What changes must be made to the JVM and compiler to allow for higher order functions, Actors, and pattern matching? What low level engineering feats will be required for Scala and Java to truly interoperate? Come hear two speakers very close to the thinking and understanding of what goes in to making powerful functional programming features a reality on the JVM.\n\nA Rising VM Lifts All Boats\nPaul Phillips is the most prolific contributor to the Scala compiler and a co-founder of Typesafe. He will discuss the current state of scalac and how it emits byte code.\n\nAs usual, the schedule for the event is:\n\n6:30 - networking, food\n\n7:00 - announcements\n\n7:15 - Paul Phillips\n\n9:00 - More networking\n\nWe will give away two copies of IntelliJ IDEA Ultimate 12 for personal use, and two copies of JRebel. Two e-copies of \"Monadic Design Patterns (http://www.artima.com/shop/monadic_design_patterns)\", published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile. Tweet to #scalasv to be eligible (http://www.meetup.com/Bay-Area-Scala-Enthusiasts/pages/Rules_For_Giveaways/).",
+    "endTime": "2013-02-14T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/95528212/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "95528212",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "JVM Evolution for Scala @ Oracle Santa Clara"
+  },
+  "event_id": "95528212",
+  "event_title": "JVM Evolution for Scala @ Oracle Santa Clara",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "Ever wonder what goes on below the arrows, double colons, and tildes of Scala's syntax? What changes must be made to the JVM and compiler to allow for higher order functions, Actors, and pattern matching? What low level engineering feats will be required for Scala and Java to truly interoperate? Come hear two speakers very close to the thinking and understanding of what goes in to making powerful functional programming features a reality on the JVM. A Rising VM Lifts All Boats Paul Phillips is the most prolific contributor to the Scala compiler and a co-founder of Typesafe. He will discuss the current state of scalac and how it emits byte code. As usual, the schedule for the event is: 6:30 - networking, food 7:00 - announcements 7:15 - Paul Phillips 9:00 - More networking We will give away two copies of IntelliJ IDEA Ultimate 12 for personal use, and two copies of JRebel. Two e-copies of \"Monadic Design Patterns (http://www.artima.com/shop/monadic_design_patterns)\", published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile. Tweet to #scalasv to be eligible (http://www.meetup.com/Bay-Area-Scala-Enthusiasts/pages/Rules_For_Giveaways/).",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-jvm-evolution-for-scala-oracle-santa-clara-all-boats-paul-phillips-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-jvm-evolution-for-scala-oracle-santa-clara-all-boats-paul-phillips-2.json",
+    "source_id": "bythebay-20260508-scala-bay-jvm-evolution-for-scala-oracle-santa-clara-all-boats-paul-phillips-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "All Boats Paul Phillips"
+      }
+    ],
+    "title": "JVM Evolution for Scala @ Oracle Santa Clara"
+  },
+  "source_id": "bythebay-20260508-scala-bay-jvm-evolution-for-scala-oracle-santa-clara-all-boats-paul-phillips-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/95528212/"
+}

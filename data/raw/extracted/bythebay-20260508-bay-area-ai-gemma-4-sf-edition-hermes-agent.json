@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-gemma-4-sf-edition-hermes-agent",
+  "source_id": "bythebay-20260508-bay-area-ai-gemma-4-sf-edition-hermes-agent",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-gemma-4-sf-edition-hermes-agent.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-gemma-4-sf-edition-hermes-agent.json",
+  "kind": "talk",
+  "event_id": "314321640",
+  "event_title": "[Partner Event] Gemma 4: SF Edition",
+  "title": "Gemma 4: SF Edition",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": "Hermes Agent, Nous Research, Olivier Lacombe, Welcome Remarks @ Google DeepMind",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/314321640/",
+  "description": "**Registration and Approval are** **REQUIRED** on **[Cerebral Valley page](https://cerebralvalley.ai/e/gemma-4-sf-edition)**[ ](https://cerebralvalley.ai/e/gemma-4-sf-edition) Google DeepMind’s Gemma team is hosting a demo night in San Francisco to celebrate the launch of Gemma 4 and other models! This is a night for the builders. We’re bringing together \\~100 founders, ML engineers, and open-source contributors to go under the hood. Join us to network with people from the open models ecosystem, hear from the engineers behind the weights, and see how the community is building with open models. We’ll have exclusive talks from the Gemma team, Awni (MLX creator), Daniel Han (Unsloth co-founder), Henry (Cactus Compute), Nous Research, and more! ### **Brief Agenda** * **Welcome Remarks and Introduction to Gemma 4** - *Omar Sanseviero and Olivier Lacombe, Google DeepMind* * **Lightning Talks** \\- Open source contributors\\, builders\\, and Gemma researchers will do short presentations\\. You’ll hear from the creators of tools such as MLX\\, Unsloth\\, and Cactus Compute * **Sunset Social - Connect with the open models ecosystem, try out exciting demos, and enjoy an evening of AI!** ### Detailed Agenda * Welcome Remarks - Omar Sanseviero, Google DeepMind * Introduction to Gemma 4 - Olivier Lacombe, Google DeepMind * Daniel Han, Unsloth * MLX - Awni Hannun, MLX creator * Hermes Agent with Gemma: The Agent That Grows With You - Sam Herring, Nous Research * Intro to Google’s open medical models - Fereshteh Mahvar, Google * Inside the Gemma 4 Ecosystem- Sara Smoot, Google DeepMind * A deeper look at Agent Skills on Mobile using Gemma 4 - Cormac Brick, Google * Why Hybrid Inference? - Henry Ndubuaku, Founder, Cactus Compute * Roger Wang, vLLM Core Maintainer & Co-Founder of Inferact If you’re building with open models, working on AI tools, or just want to see what Gemma can do up close, we’d love to have you in the room.",
+  "date_time": "2026-04-17T18:00:00-07:00",
+  "end_time": "2026-04-17T22:00:00-07:00"
+}

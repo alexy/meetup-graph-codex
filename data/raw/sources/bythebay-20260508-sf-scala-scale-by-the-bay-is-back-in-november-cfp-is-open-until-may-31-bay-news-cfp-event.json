@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-05-31T21:00:00-07:00",
+    "description": "Scale By the Bay returns in person at its iconic home in Oakland on the shores of Lake Merritt. We'll have our famous three tracks and a new one:\n\n* **Thoughtful Software Engineering**\n* **Cloud Architectures**\n* **Data Pipelines for ML/AI**\n* **[Open-Source Science](http://opensource.science)**\n\nThe CFP is now open -- [submit](http://bay.news/cfp) your first choice talk by May 31!\nIt's been awhile since our meetups reconvened in person. We're slowly getting back into the swing of things. Companies are opening their doors, engineers trek to workshops and live events all over Bay Area. We'll have our *hallway track,* OSS demos, a *bespoke all-day hands-on workshop* the day before the talks, a fireside chat with OpenAI, and folks from all the leading companies in technology sharing their insights. There will be code and data in every talk. The density of actionable content at SBTB is at least 5x higher than any other event you'll attend this year. As an independent conference, we can compare all systems objectively and real usage in the wild by 3rd parties will help you build better and faster.\nWe need all our sponsors back -- coming back live is no easy feat. If your company cares about developer community, connect with us on sponsorship opportunities and reengage with our community going forward, and SBTB and the meetups and around the world.\n[Super Early Bird registration](bay.news/register) is also open!\n\nSee the venue, the speakers, and themes in our [2019 photos](bay.news/photos).\n\nGet your pass, [submit a talk](bay.news/cfp), and join us By the Bay!",
+    "endTime": "2023-06-01T00:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/293353259/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "293353259",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scale By the Bay is back in November!  CFP is open until May 31: bay.news/cfp"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-scale-by-the-bay-is-back-in-november-cfp-is-open-until-may-31-bay-news-cfp-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/293353259/"
+}

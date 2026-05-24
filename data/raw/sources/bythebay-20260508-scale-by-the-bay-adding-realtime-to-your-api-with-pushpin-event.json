@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-11-12T18:30:00-08:00",
+    "description": "Talk Abstract:\n\nIf you've built a HTTP/REST API and your consumers are constantly polling it for updates, then it's time to consider adding some kind of realtime push mechanism to your API. Common mechanisms include HTTP streaming and WebSockets. In this talk we'll cover how realtime APIs are designed using familiar examples (e.g. Twitter), and then discuss how the Pushpin open source project can make these kinds of APIs easier to create.\n\nSpeaker Bio:\n\nJustin is the CEO of Fanout and former CTO of Livefyre. He is a proponent of open source and open standards and was a major contributor to XMPP. For Justin, it's not enough to build something that works; it needs to play well with others, too.",
+    "endTime": "2015-11-12T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bythebay/events/226022829/",
+    "group": {
+      "id": "18748975",
+      "name": "Scale By the Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "226022829",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Adding realtime to your API with Pushpin"
+  },
+  "meetup_id": "meetup:18748975",
+  "meetup_name": "Scale By the Bay",
+  "meetup_url": "https://www.meetup.com/bythebay/events/?type=past",
+  "source_id": "bythebay-20260508-scale-by-the-bay-adding-realtime-to-your-api-with-pushpin-event",
+  "source_url": "https://www.meetup.com/bythebay/events/226022829/"
+}

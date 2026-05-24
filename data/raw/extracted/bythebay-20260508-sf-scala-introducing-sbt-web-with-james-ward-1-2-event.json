@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-introducing-sbt-web-with-james-ward-1-2-event",
+  "source_id": "bythebay-20260508-sf-scala-introducing-sbt-web-with-james-ward-1-2-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-introducing-sbt-web-with-james-ward-1-2-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-introducing-sbt-web-with-james-ward-1-2-event.json",
+  "kind": "event",
+  "event_id": "175176582",
+  "event_title": "Introducing sbt-web with James Ward, 1/2",
+  "title": "Introducing sbt-web with James Ward, 1/2",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/175176582/",
+  "description": "James Ward is coming to town, and this time he'll talk about Play 2.3 and sbt-web. Introducing sbt-web - A Node & WebJar Compatible Asset Pipeline for the Typesafe Platform sbt-web is a new web asset pipeline for Play Framework and other sbt-based frameworks. It can pull dependencies from both Node and WebJars. The pipeline covers all of the phases of client-side development, including: linting, compiling (CoffeeScript, LESS, etc), minification, concatenation, fingerprinting, and gzipping. This session will give you an introduction to sbt-web and show you how to get started using it. This is a first part of the two-talk series. In the second talk on 4/11 James will show sbt-web in action, live-coding a Play app! Agenda: 6:00pm doors open 6:30pm announcements and 1-minute hiring pitches -- prepare one! 6:40pm talks begin Parking: If you're driving - there is metered and non-metered street parking available, in addition to a paid lot located at 450 South Street. The 450 South lot also offers free bike parking, on the ground floor. RSVPs strictly enforced, pls manage yours responsibly...",
+  "date_time": "2014-04-10T18:00:00-07:00",
+  "end_time": "2014-04-10T21:00:00-07:00"
+}

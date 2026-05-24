@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2023-09-07T15:30:00-04:00",
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.**\nStrategic Foresight is a structured and systematic framework/discipline of using ideas about the future to anticipate and better prepare for change. It is about exploring different plausible futures that could arise, and the opportunities and challenges they could present.\n\nIn this talk, we will workshop through the different processes and methods of applying strategic foresight for your industry and organization, including horizon scanning, Scenario Planning, and Windtunnelling your strategies. You will learn how to be prepared not just for one future, but multiple potential future scenarios in order to future-proof your business.\n\n**Presenter: Jenny Hwang**\n\nJenny is a design researcher, strategist, and foresight practitioner looking to foster positive impact through design.\n\nShe’s worked for tech companies of various sizes from IBM to Shopify to Wattpad. With a background in Psychology, Marketing, Theatre, and Human-Centred Design, she leverages design-thinking and strategic foresight to help organizations solve complex problems and plan for multiple future scenarios.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r8564bc983354e996b1292fdadc050ac4](https://ibm.webex.com/weblink/register/r8564bc983354e996b1292fdadc050ac4)**",
+    "endTime": "2023-09-07T16:30:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/295180700/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "295180700",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "How to be ready for our preferred future: What is Strategic Foresight?"
+  },
+  "event_id": "295180700",
+  "event_title": "How to be ready for our preferred future: What is Strategic Foresight?",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.** Strategic Foresight is a structured and systematic framework/discipline of using ideas about the future to anticipate and better prepare for change. It is about exploring different plausible futures that could arise, and the opportunities and challenges they could present. In this talk, we will workshop through the different processes and methods of applying strategic foresight for your industry and organization, including horizon scanning, Scenario Planning, and Windtunnelling your strategies. You will learn how to be prepared not just for one future, but multiple potential future scenarios in order to future-proof your business. **Presenter: Jenny Hwang** Jenny is a design researcher, strategist, and foresight practitioner looking to foster positive impact through design. She’s worked for tech companies of various sizes from IBM to Shopify to Wattpad. With a background in Psychology, Marketing, Theatre, and Human-Centred Design, she leverages design-thinking and strategic foresight to help organizations solve complex problems and plan for multiple future scenarios. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r8564bc983354e996b1292fdadc050ac4](https://ibm.webex.com/weblink/register/r8564bc983354e996b1292fdadc050ac4)**",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-be-ready-for-our-preferred-future-what-is-strategic-foresight-jenny-hwang-4.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-be-ready-for-our-preferred-future-what-is-strategic-foresight-jenny-hwang-4.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-be-ready-for-our-preferred-future-what-is-strategic-foresight-jenny-hwang-4",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Jenny Hwang"
+      },
+      {
+        "company": null,
+        "name": "Jenny Hwang Jenny"
+      },
+      {
+        "company": "change",
+        "name": "Strategic Foresight"
+      }
+    ],
+    "title": "How to be ready for our preferred future: What is Strategic Foresight?"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-be-ready-for-our-preferred-future-what-is-strategic-foresight-jenny-hwang-4",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/295180700/"
+}

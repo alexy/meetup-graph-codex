@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2021-04-22T17:00:00-07:00",
+    "description": "Details\nJoin us on the 22nd of April at 5 pm PST to listen to John A. De Goes speaking about The ZIO of the Future & Girish Kolanthra speaking about Capital One’s Scala Journey. 🙌\n\n--\n\nOur Scala Journey by Girish Kolanthra (Capital One)\n\nThe talk is about our team journey from imperative programming using Java and Spring to introducing functional programming using Scala in a large financial services company. We will cover both the evolution of the technologies we used as well as our approach to teaching our engineers Functional Scala.\n\nBio:\nGirish is a lead software engineer in the Core Modernization group at Capital One. He has a Bachelor of Science in Computer Science and Engineering and has been building software in fintech since 1999. Prior to becoming fascinated with Functional Programming in 2016, Girish worked mostly with Java and its surrounding ecosystem. He started the functional programming journey with tools like RxJava and is now a strong proponent of FP with Scala.\n\n--\n\nThe ZIO of the Future by John De Goes (Ziverge)\n\nZIO is an open-source library that delivers a better “Future” for asynchronous and concurrent programming in Scala. With hundreds of contributors, dozens of corporate adopters, and almost a million downloads a month, ZIO has seen striking growth in the year since its release.\n\nIn this presentation, John A. De Goes, the architect of ZIO, provides a compelling case for how ZIO can simplify the development of modern applications. Step by step, John demonstrates how ZIO gives you performance, power, and correctness, in a package that’s a delight to use.\n\nAfter making a case for ZIO, John proceeds to highlight some of the new improvements in the upcoming release of ZIO 2.0, including improved performance, better ergonomics, architectural and API simplifications, and a design that is years ahead of alternatives in the space.\n\nCome learn about the ZIO of the future!\n\nBio:\nA mathematician by training but a software engineer by vocation, John A. De Goes has been professionally writing software for more than 25 years. John has contributed to dozens of open source projects written in functional programming languages, including ZIO, a library for asynchronous and concurrent programming in functional Scala. In addition to speaking at Strata, OSCON, BigData TechCon, NEScala, ScalaWorld, Scala IO, flatMap, Scalar Conf, LambdaConf, and many other conferences, John also published a variety of books on programming. Currently, John heads Ziverge Inc, a company committed to solving hard business problems using the power of functional programming",
+    "endTime": "2021-04-22T19:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/277181540/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "277181540",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "John A. De Goes (The ZIO of the Future) & Girish Kolanthra (Our Scala Journey)"
+  },
+  "event_id": "277181540",
+  "event_title": "John A. De Goes (The ZIO of the Future) & Girish Kolanthra (Our Scala Journey)",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "Details Join us on the 22nd of April at 5 pm PST to listen to John A. De Goes speaking about The ZIO of the Future & Girish Kolanthra speaking about Capital One’s Scala Journey. 🙌 -- Our Scala Journey by Girish Kolanthra (Capital One) The talk is about our team journey from imperative programming using Java and Spring to introducing functional programming using Scala in a large financial services company. We will cover both the evolution of the technologies we used as well as our approach to teaching our engineers Functional Scala. Bio: Girish is a lead software engineer in the Core Modernization group at Capital One. He has a Bachelor of Science in Computer Science and Engineering and has been building software in fintech since 1999. Prior to becoming fascinated with Functional Programming in 2016, Girish worked mostly with Java and its surrounding ecosystem. He started the functional programming journey with tools like RxJava and is now a strong proponent of FP with Scala. -- The ZIO of the Future by John De Goes (Ziverge) ZIO is an open-source library that delivers a better “Future” for asynchronous and concurrent programming in Scala. With hundreds of contributors, dozens of corporate adopters, and almost a million downloads a month, ZIO has seen striking growth in the year since its release. In this presentation, John A. De Goes, the architect of ZIO, provides a compelling case for how ZIO can simplify the development of modern applications. Step by step, John demonstrates how ZIO gives you performance, power, and correctness, in a package that’s a delight to use. After making a case for ZIO, John proceeds to highlight some of the new improvements in the upcoming release of ZIO 2.0, including improved performance, better ergonomics, architectural and API simplifications, and a design that is years ahead of alternatives in the space. Come learn about the ZIO of the future! Bio: A mathematician by training but a software engineer by vocation, John A. De Goes has been professionally writing software for more than 25 years. John has contributed to dozens of open source projects written in functional programming languages, including ZIO, a library for asynchronous and concurrent programming in functional Scala. In addition to speaking at Strata, OSCON, BigData TechCon, NEScala, ScalaWorld, Scala IO, flatMap, Scalar Conf, LambdaConf, and many other conferences, John also published a variety of books on programming. Currently, John heads Ziverge Inc, a company committed to solving hard business problems using the power of functional programming",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-john-a-de-goes-the-zio-of-the-future-girish-kolanthra-our-scala-journey-girish-kolanthra-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-john-a-de-goes-the-zio-of-the-future-girish-kolanthra-our-scala-journey-girish-kolanthra-2.json",
+    "source_id": "bythebay-20260508-scala-bay-john-a-de-goes-the-zio-of-the-future-girish-kolanthra-our-scala-journey-girish-kolanthra-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Girish Kolanthra"
+      },
+      {
+        "company": null,
+        "name": "John De Goes"
+      }
+    ],
+    "title": "John A. De Goes (The ZIO of the Future) & Girish Kolanthra (Our Scala Journey)"
+  },
+  "source_id": "bythebay-20260508-scala-bay-john-a-de-goes-the-zio-of-the-future-girish-kolanthra-our-scala-journey-girish-kolanthra-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/277181540/"
+}

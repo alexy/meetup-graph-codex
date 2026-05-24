@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-03-08T09:00:00-08:00",
+    "description": "This is an in-person event! [Registration](https://lu.ma/9c5pat0i) is required to get in. Microsoft will email you a form the day before the event, which you will need to complete for your access pass. Registration will close 2 days before the event.\n\n**What we’ll do:**\nHave some food and refreshments. Livestream the [WiDS Stanford Conference](https://www.widsworldwide.org/events/event/wids-stanford-2024/). Hear outstanding women discuss their work in Data Science, AI, and related fields. Stay as long, or little, as you like! Network with local tech women! Get inspired!\n\n8:30 - 9:00 - Welcome/Networking/Registration\n9:00 - 12:15 - Live stream [the conference](https://www.widsworldwide.org/events/event/wids-stanford-2024/)\n12:15 - 1:35 - Lunch break with guest speaker [Gabriela de Queiroz](https://www.linkedin.com/in/gabrieladequeiroz/), Director of AI, [Microsoft](https://www.microsoft.com/en-us/)\n1:35 - 4:40 - Live stream [the conference](https://www.widsworldwide.org/events/event/wids-stanford-2024/)\n4:40 - 6:00 - Networking\n\n**Who Should attend:**\nAnyone can attend! Celebrate International Women's Day! Only females will be speakers.\n\n**When:**\nMarch 8, 2023\n9:00AM\n\n**Where:**\nThis is an in-person event! [Registration](https://lu.ma/9c5pat0i) is required to get in. Registration will close 3 days before the event.\n\nSpecial thanks to [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/about/) for providing the event space and lunch. Sponsored by Microsoft and [Zilliz](https://zilliz.com/blog?tag=39) maintainers of [Milvus](https://github.com/milvus-io/milvus).\n\n**[WiDS San Francisco](https://www.widsworldwide.org/about/our-mission/) is independently organized by WiDS SF ambassadors** [Christy Bergman](https://www.linkedin.com/in/christybergman/), [Diane Woodbridge](https://www.linkedin.com/in/diane-woodbridge/), [Alex Zharchuk](https://www.linkedin.com/in/azharchuk/), [Cassandra Telenko](https://www.linkedin.com/in/cassandratelenko/), and [Madhuri Gupta](https://www.linkedin.com/in/madhuri-gupta/), **to be part of the mission to increase participation of women in data science and to feature outstanding women doing outstanding work.**",
+    "endTime": "2024-03-08T17:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/unstructured-data-sf/events/298808208/",
+    "group": {
+      "id": "36468260",
+      "name": "Unstructured Data Meetup Bay Area",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "298808208",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Women in Data Science Stanford Conference watch party + networking"
+  },
+  "meetup_id": "meetup:36468260",
+  "meetup_name": "Unstructured Data Meetup Bay Area",
+  "meetup_url": "https://www.meetup.com/unstructured-data-sf/events/?type=past",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-women-in-data-science-stanford-conference-watch-party-networking-event",
+  "source_url": "https://www.meetup.com/unstructured-data-sf/events/298808208/"
+}

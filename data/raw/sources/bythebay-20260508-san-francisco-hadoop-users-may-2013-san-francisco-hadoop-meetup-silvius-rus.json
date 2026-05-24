@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-05-08T18:00:00-07:00",
+    "description": "The May 2013 Hadoop meetup will be held Wednesday, May 8, from 6:00pm to 8:00pm. This meetup will be hosted by Quantcast at 201 3rd St, San Francisco, CA.\n\nStarting in 2013, we will try out a new format for the Hadoop meetup. To provide a focal point for discussions, we will begin meetups with a talk from an invited speaker. We will then transition to our usual discussion-based \"unconference\" format for the second half. The talk speaker will lead a discussion group. All participants may also propose a topic and volunteer to facilitate a discussion. All Hadoop-related topics are encouraged, and all members of the Hadoop community are welcome.\n\nMay's talk will be given by Silvius Rus: \"Petabyte Scale Data Processing at Quantcast\"\n\nTalk abstract: The talk will present the big data storage, processing and query systems in production at Quantcast. We receive up to 50 TB of new data every day,respond to 700,000 events per second, process up to 30 PB per day and store tens of petabytes of data. Our infrastructure supports batch dataflow pipelines, interactive analytics, realtime and streaming processing.\n\nSilvius is the Director, Big Data Platforms at Quantcast.\n\nEvent schedule:\n\n6:00pm - Welcome 6:30pm - Silvius Rus - \"Petabyte Scale Data Processing at Quantcast\" 7:15pm - Organize additional breakout sessions Breakout sessions begin as soon as we're ready 8:00pm - Conclusion Food and refreshments will be provided courtesy of Quantcast.",
+    "endTime": "2013-05-08T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/114514922/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "114514922",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "May 2013 San Francisco Hadoop Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-may-2013-san-francisco-hadoop-meetup-silvius-rus",
+  "source_url": "https://www.meetup.com/hadoopsf/events/114514922/"
+}

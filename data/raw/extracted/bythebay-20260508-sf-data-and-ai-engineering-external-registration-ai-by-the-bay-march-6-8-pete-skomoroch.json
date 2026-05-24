@@ -1,0 +1,22 @@
+{
+  "id": "talk:meetup:18601481:bythebay-20260508-sf-data-and-ai-engineering-external-registration-ai-by-the-bay-march-6-8-pete-skomoroch",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-external-registration-ai-by-the-bay-march-6-8-pete-skomoroch",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-external-registration-ai-by-the-bay-march-6-8-pete-skomoroch.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-external-registration-ai-by-the-bay-march-6-8-pete-skomoroch.json",
+  "kind": "talk",
+  "event_id": "237726188",
+  "event_title": "[external registration] AI By the Bay: March 6-8",
+  "title": "AI By the Bay: March 6-8",
+  "conference_id": "meetup:18601481",
+  "meetup_id": "meetup:18601481",
+  "speaker_text": "Pete Skomoroch",
+  "tags": [
+    "meetup",
+    "crosspost",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/237726188/",
+  "description": "What’s New at AI By the Bay AI By the Bay (https://ai.bythebay.io) is emerging as a world-class technical conference defining AI technology and strategy. The first day is overview with live coding, the second is self.driving.cars, and the third is AI strategy from hands-on industry leaders. Regular Admission ends on 2/21 and Late Bird begins 2/22. Register (https://ai.bythebay.io/#tickets)soon! Major additions to the self.driving.cars (http://self.driving.cars/) day — Danny Shapiro, Senior Director of Automotive, Nvidia, keynotes on AI for Self-Driving. Lior Ron, cofounder of Otto (now Uber) joins for a fireside chat. George Hotz, the first iPhone hacker and now CEO of http://Comma.ai , speaks. Smart Cars and Smart Cities panel features Ted Graham, Head of Open Innovation of General Motors; Aleks Kojic, Director of Autonomous Driving of Delphi, Karen Tay, Smart Nation Director of Singapore, Elliot Katz, DLA Piper Head of Self-Driving and Connected Cars Practice, and Doug Davenport, founder of ProspectSV. Stephen Merity, Sr. Reseach Scientist at Salesforce, focuses on Attention and Memory in Deep Learning Networks at hai.ai (http://hai.ai/), while Richard Socher, Chief Scientist at Salesforce, tackles the Limits of Deep Learning at AI.Vision. AI.Vision (http://ai.vision/) Real Future of AI Panel features Lukas Biewald, the founder of CrowdFlower, Shubha Nabar, Director of Data Science, Salesforce Einstein; SriSatish Ambati, founder and CEO of http://H2O.ai , and others. AI.Vision also has a full Bots Panel, moderated by Pete Skomoroch, the O’Reilly bots podcast co-author, and features David Hall of Semantic Machines, Sonal Gupta of Viv, Yushay Carmiel of Spoken Labs, and Andrew Burgert of Azumo. AI VC Panel features partners from Accel, DCVC, Comet Labs, and BoostrapLabs, strong VC investors with active and growing AI portfolios. Speaker Highlights George Hotz broke into the iPhone, then into self-driving cars with comma.ai, changing perspectives forever and making both accessible to the masses. Hear his story, and what's next, at self.driving.car (http://self.driving.cars)s. Vitaly Gordon, VP of Data Science and Data Engineering at Salesforce Einstein, will show, with live coding, Machine Learning Done Right at http://hai.ai . Lior Ron co-founded Otto, a self-driving trucks startup, that was acquired by Uber a few months out of stealth for around $700 million. Now the Otto trucks are carrying self-driving Uber cars. Hear Lior in a fireside chat at http://self.driving.cars .",
+  "date_time": "2017-03-06T08:00:00-08:00",
+  "end_time": "2017-03-08T09:00:00-08:00"
+}

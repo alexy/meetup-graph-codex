@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-watsonx-day-an-ibm-techxchange-virtual-event-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-watsonx-day-an-ibm-techxchange-virtual-event-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-watsonx-day-an-ibm-techxchange-virtual-event-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-watsonx-day-an-ibm-techxchange-virtual-event-event.json",
+  "kind": "event",
+  "event_id": "294059385",
+  "event_title": "Watsonx Day, an IBM TechXchange Virtual Event",
+  "title": "Watsonx Day, an IBM TechXchange Virtual Event",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/294059385/",
+  "description": "Watsonx Day, is an IBM TechXchange Virtual Event and a must-attend event for technologists who want to put AI to work. This free, virtual conference is happening on 21 June 2023 (replays available) across three time zones (ET, EMEA, APAC). * Eastern Time (UTC -5): 11 AM–6 PM * Western European Time (UTC +1) : 3 PM–5 PM * APAC Time (UTC +9): 9 AM–11 AM Access over 40 sessions across three tracks: * **watsonx from IBM Experts:** Top IBM experts share insights and expertise to scale and accelerate the impact of AI with trusted data. * **watsonx from Real World Examples**: IBM users who have successfully implemented watsonx will engage in interactive discussions. * **watsonx from the Ecosystem:** Trusted IBM ecosystem partners will leverage and complement the watsonx platform to drive innovation & AI adoption. Partners will implement and extend watsonx for different use cases and industries, showcasing how it can transform businesses and create value. Watsonx Day provides a sampling of technical content to come at the upcoming [IBM TechXchange Conference](https://www.ibm.com/community/ibm-techxchange-conference/?utm_source=drape&utm_medium=web&utm_campaign=techxchange&utm_id=tech005) in Las Vegas this September. Register for watsonx Day via **[https://ibm-techxchange.bemyapp.com/watsonx](https://ibm-techxchange.bemyapp.com/watsonx)**",
+  "date_time": "2023-06-21T11:00:00-04:00",
+  "end_time": "2023-06-21T18:00:00-04:00"
+}

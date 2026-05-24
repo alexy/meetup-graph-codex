@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-03-06T08:00:00-08:00",
+    "description": "The groundbreaking AI By the Bay sequence starts in March at The Pearl -- uncompromising AI meaning by day, rooftop party by night! Early Bird ends with the last second of the year 2016 -- join us, and make 2017 the year of AI.\n\nhttp://ai.vision\nhttp://self.driving.cars\nhttp://oh.hai.ai\n\nUse the code BAYAREAAI (https://www.universe.com/embed2/events/582a8788155c6b004e96b236?state=%7B%22currentDiscountCode%22%3A%7B%22code%22%3A%22BAYAREAAI%22%7D%7D) for an exclusive discount.",
+    "endTime": "2017-03-08T20:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/236485280/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "236485280",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "AI By the Bay: oh.hai.ai, self.driving.cars, ai.vision: March 6-8"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-ai-by-the-bay-oh-hai-ai-self-driving-cars-ai-vision-march-6-8-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/236485280/"
+}

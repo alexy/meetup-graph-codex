@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-06-05T18:00:00-07:00",
+    "description": "https://www.meetup.com/Bay-Area-Mesos-User-Group/events/240212186/\n\nThis meetup is a part of the Cognitive Frameworks Festival:\n\nfestival.framework.foundation\n\n-- run at Mesosphere by our partner Mesos User Group, and requires external registration below.\n\nFor the brief history of the SMACK stack, popularized first at this meetup, see http://chief.sc/smackstack .\n\nPlease RSVP for the meetup HERE to guarantee yourself a seat! (https://www.eventbrite.com/e/lets-talk-smack-meet-the-smack-stack-experts-ama-meetup-tickets-34758244846)\n\nLet's talk some SMACK! Join us for a fantastic evening with some of the experts of the SMACK stack technologies. For this meetup, we'll be doing things a little differently and running it like a live reddit AMA (ask me anything). We'll have a panelist of experts from the technologies in the SMACK stack (Apache Spark,Mesosphere/Apache Mesos, Akka, Apache Cassandra, ApacheKafka) to answer any and all questions you may have, so please come prepared with some good questions!\n\nFor full details (full meetup description, who the panelists are, etc) remember to RSVP HERE. Hope to see you all there!",
+    "endTime": "2017-06-05T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/240398046/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "240398046",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[partner meetup] Let's talk SMACK: Meet the SMACK Stack Experts AMA Meetup"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/240398046/"
+}

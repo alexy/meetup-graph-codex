@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-2h-workshop-how-to-start-online-business-free-san-francisco-hilton-san-jose-session-2",
+  "source_id": "bythebay-20260508-scala-bay-2h-workshop-how-to-start-online-business-free-san-francisco-hilton-san-jose-session-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-2h-workshop-how-to-start-online-business-free-san-francisco-hilton-san-jose-session-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-2h-workshop-how-to-start-online-business-free-san-francisco-hilton-san-jose-session-2.json",
+  "kind": "talk",
+  "event_id": "224509078",
+  "event_title": "2H Workshop - How to Start Online Business - FREE - San Francisco",
+  "title": "2H Workshop - How to Start Online Business - FREE - San Francisco",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": "Hilton San Jose Session",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/224509078/",
+  "description": "2H Workshop - How to Start Online Business - FREE - San Francisco CLICK THE LINK BELOW TO CONFIRM YOUR REGISTRATION & SAVE YOUR SPOT! http://bit.ly/imf-sanfrancisco August 10th Pleasanton Marriott Session 1: 12:30 pm – 2:30 pm Session 2: 6:30 pm – 8:30 pm August 11th Doubletree by Hilton San Jose Session 1: 12:30 pm – 2:30 pm Session 2: 6:30 pm – 8:30 pm August 12th Crowne Plaza Concord/Walnut Creek Session 1: 12:30 pm – 2:30 pm Session 2: 6:30 pm – 8:30 pm August 13th Hyatt San Francisco Airport Session 1: 12:30 pm – 2:30 pm Session 2: 6:30 pm – 8:30 pm Price: FREE! \"Would You Like An Internet Earner To Show You How To Create A Full-Time Income In Your Spare Time... For FREE?\" Find the precise administered structure that an unlimited number home-based specialists are beginning now making a few bucks online and now you can as well...",
+  "date_time": "2015-08-10T12:30:00-07:00",
+  "end_time": "2015-08-13T20:30:00-07:00"
+}

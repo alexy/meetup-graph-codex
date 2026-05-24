@@ -1,0 +1,24 @@
+{
+  "id": "talk:ai-by-the-bay:bythebay-20260508-context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence-gabriela-de-queiroz-arcade-dev",
+  "source_id": "bythebay-20260508-context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence-gabriela-de-queiroz-arcade-dev",
+  "source_file": "data/raw/sources/bythebay-20260508-context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence-gabriela-de-queiroz-arcade-dev.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence-gabriela-de-queiroz-arcade-dev.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "Context Is All That Matters: MCP and the Dawn of Agentic Intelligence",
+  "conference_id": "ai-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Gabriela de Queiroz, Founder of f02 labs, Shub Argha, Head of Solutions Engineering @ Arcade.dev",
+  "tags": [
+    "MCP",
+    "AI Infrastructure",
+    "Agentic AI",
+    "LLMOps",
+    "OSS AI"
+  ],
+  "url": "https://ai.bythebay.io/talks/context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

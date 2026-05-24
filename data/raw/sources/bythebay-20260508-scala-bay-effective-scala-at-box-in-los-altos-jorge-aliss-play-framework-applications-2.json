@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2012-12-12T18:30:00-08:00",
+    "description": "Jorge Aliss is the author of the popular SecureSocial Play plugin; he will describe what it does, why he made it and the types of authentication schemes it provides for Play Framework applications.\n\nNo shop can introduce Scala into an existing Java code base without knowing why, where, how --- and how much. Mike Slinn of Micronautics Research Corporation and lead organizer of BASE will present a tutorial on the mechanics of Java / Scala interoperability.\n\nThe Agenda:\n\n7:00 - 7:10 opening remarks\n\n7:10 - 8:10 Mike Slinn\n\n8:10 - 9:00 Jorge Aliss\n\nBox will providing water, soda, beer and food.\n\nWe will give away two copies of IntelliJ IDEA 12 Ultimate for personal use, and two copies of JRebel. Two e-copies of \"Monadic Design Patterns (http://www.artima.com/shop/monadic_design_patterns)\", published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile.\n\nAbout Parking\n\nThe most convenient parking is next door, at 4410 El Camino Real. Do not try to go down the ramp to the parking garage at 4400 El Camino Real. A key card is required to get in, and backing out of that ramp can be quite difficult.",
+    "endTime": "2012-12-12T21:15:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/76919492/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "76919492",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Effective Scala at Box in Los Altos"
+  },
+  "event_id": "76919492",
+  "event_title": "Effective Scala at Box in Los Altos",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "Jorge Aliss is the author of the popular SecureSocial Play plugin; he will describe what it does, why he made it and the types of authentication schemes it provides for Play Framework applications. No shop can introduce Scala into an existing Java code base without knowing why, where, how --- and how much. Mike Slinn of Micronautics Research Corporation and lead organizer of BASE will present a tutorial on the mechanics of Java / Scala interoperability. The",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-effective-scala-at-box-in-los-altos-jorge-aliss-play-framework-applications-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-effective-scala-at-box-in-los-altos-jorge-aliss-play-framework-applications-2.json",
+    "source_id": "bythebay-20260508-scala-bay-effective-scala-at-box-in-los-altos-jorge-aliss-play-framework-applications-2",
+    "speakers": [
+      {
+        "company": "Play Framework applications",
+        "name": "Jorge Aliss"
+      }
+    ],
+    "title": "Effective Scala at Box in Los Altos"
+  },
+  "source_id": "bythebay-20260508-scala-bay-effective-scala-at-box-in-los-altos-jorge-aliss-play-framework-applications-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/76919492/"
+}

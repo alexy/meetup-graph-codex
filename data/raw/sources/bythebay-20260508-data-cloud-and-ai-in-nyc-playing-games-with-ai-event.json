@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-10-12T18:00:00-04:00",
+    "description": "In this meetup, we will learn how AI, in particular, Reinforcement Learning learns to play games. We will provide an overview of Monte Carlo methods, including prediction and control. Then see how we can use this to play the game of Black Jack with no user input. Have your Laptops ready as this meetup is hands-on.",
+    "endTime": "2020-10-12T20:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/273302013/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "273302013",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Playing Games with AI"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-playing-games-with-ai-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/273302013/"
+}

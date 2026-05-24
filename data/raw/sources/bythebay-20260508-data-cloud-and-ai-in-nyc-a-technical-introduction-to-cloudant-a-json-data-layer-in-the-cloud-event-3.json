@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-02-05T09:00:00-05:00",
+    "description": "IBM® Cloudant™ database service delivers high availability, elastic scalability and innovative mobile device synchronization. The Cloudant JSON cloud-based data service allows mobile and web developers to quickly and easily store and access the rapidly increasing amount of mobile data using an application programming interface (API) that is significantly easier to use than alternatives. Increasingly, developers have embraced NoSQL databases because of their flexibility, and JSON has become thepredominant NoSQL database technology for mobile and web app developers. This session consists of both presentations and hands-on lab exercises.\n\nTo guarantee your seat, register here (https://docs.google.com/forms/d/1L8e7fubDSiHddg5Em5WOUECz0Snql_jemELqdsbiqkE/viewform)and receive a confirmation.\n\nThis session introduces Cloudant and how it differs from other data management platforms. Key features are described, including Cloudant Query, MapReduce and integrated Lucene Search along with RESTful HTTP API.\n\nAgenda\n\n• NoSQL landscape\n\n• Database as a service\n\n• JSON primer\n\n• Cloudant dashboard\n\n• Replication\n\n• RESTful APIs\n\n• Primary indexes\n\n• Cloudant query\n\n• Secondary indexes or MapReduce\n\n• Search indexes Accessing Cloudant from an application\n\nThis event is free. Complimentary refreshments including continental breakfast and lunch will be provided. For your convenience, registration and continental breakfast begins at 8:30 a.m. The session starts at 9:00 a.m. and ends at approximately 5:00 p.m.\n\nTo guarantee your seat, register here (https://docs.google.com/forms/d/1L8e7fubDSiHddg5Em5WOUECz0Snql_jemELqdsbiqkE/viewform)and receive a confirmation.",
+    "endTime": "2015-02-05T16:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/219936169/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "219936169",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "A Technical Introduction to Cloudant : A JSON Data Layer in the Cloud"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event-3",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/219936169/"
+}

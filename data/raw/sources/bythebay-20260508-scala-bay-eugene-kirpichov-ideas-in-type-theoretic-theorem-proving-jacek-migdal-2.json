@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2014-05-12T19:00:00-07:00",
+    "description": "Ligntning talk (~10')\n\nSpeaker: Jacek Migdal (Sumo Logic)\n\nTitle: Building Scala at scale\n\nDescription: How Sumo Logic achieves fast Scala compilation time through modularization and a few handy tricks\n\n(from organizers)\n\nThis is a rather unusual topic for Scala meetups; but I think we need to refresh our brains and get some new ideas from outside the box (no pun)\n\nShort description. This talk explains how writing programs and proving theorems are really the same thing, introducing one by one several of the most important ideas behind type-theoretic proof assistants such as Coq. No prior experience with type theory required.\n\nSpeaker's short bio. Eugene Kirpichov is an engineer at Google's distributed data processing frameworks team and a big fan of functional programming and related branches of mathematics.\n\nSchedule\n\n• 6:30-7:00 - networking\n\n• 7:00-7:10 - announcements etc\n\n• 7:10-~8:40 - talk\n\n• 8:40-9:00 - networking",
+    "endTime": "2014-05-12T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/178469482/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "178469482",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Eugene Kirpichov. Ideas in type-theoretic theorem proving"
+  },
+  "event_id": "178469482",
+  "event_title": "Eugene Kirpichov. Ideas in type-theoretic theorem proving",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "Ligntning talk (~10') Speaker: Jacek Migdal (Sumo Logic) Title: Building Scala at scale Description: How Sumo Logic achieves fast Scala compilation time through modularization and a few handy tricks (from organizers) This is a rather unusual topic for Scala meetups; but I think we need to refresh our brains and get some new ideas from outside the box (no pun) Short description. This talk explains how writing programs and proving theorems are really the same thing, introducing one by one several of the most important ideas behind type-theoretic proof assistants such as Coq. No prior experience with type theory required. Speaker's short bio. Eugene Kirpichov is an engineer at Google's distributed data processing frameworks team and a big fan of functional programming and related branches of mathematics. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-eugene-kirpichov-ideas-in-type-theoretic-theorem-proving-jacek-migdal-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-eugene-kirpichov-ideas-in-type-theoretic-theorem-proving-jacek-migdal-2.json",
+    "source_id": "bythebay-20260508-scala-bay-eugene-kirpichov-ideas-in-type-theoretic-theorem-proving-jacek-migdal-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Jacek Migdal"
+      }
+    ],
+    "title": "Eugene Kirpichov. Ideas in type-theoretic theorem proving"
+  },
+  "source_id": "bythebay-20260508-scala-bay-eugene-kirpichov-ideas-in-type-theoretic-theorem-proving-jacek-migdal-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/178469482/"
+}

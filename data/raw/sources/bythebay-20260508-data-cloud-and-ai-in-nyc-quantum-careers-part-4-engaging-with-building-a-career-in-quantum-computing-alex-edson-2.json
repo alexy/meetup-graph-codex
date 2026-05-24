@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2023-12-06T08:00:00-05:00",
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.**\nThis session is for anyone who has an interest in getting started with coding on quantum computers or would like to use their skills to work on emerging technology like quantum.\nIn this sessions we'll be covering:\n\\- Where to find resources for becoming a certified Qiskit developer\\.\n\\- How you can engage with the Qiskit community through events such as hackathons and summer schools\\.\n\\- Tips when applying for jobs related to quantum computing\n\\- Our experience of getting into quantum computing\n\nNote that this is **part 4 of a 4-session series \"Quantum Horizon: Exploring the Frontier in Quantum Computing Careers\"** on Oct 25/26, Nov 8/9, Nov 29/30, Dec 6/7. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions.\n\n**Presenters: Alex Edson, Arushi Karki**\n\n**Alex Edson**, in his role as one of IBM's Quantum Ambassadors, talks to a wide variety of clients and communicate the exciting opportunities that quantum computing can bring. His interest for quantum computing was sparked during his masters course in Theoretical Physics when he worked on simulating quantum noise reduction. In his day to day work as a DevSecOps engineer, he leverages cloud technologies to create secure and resilient platforms for public sector clients as well as shortening the software development lifecycle for software engineers.\n\n**Aarushi Karki**'s background in Physics, specialising in Biophysics and medical research procedures, has paved the way for her deep interest in quantum technologies for healthcare applications. With over 5+ years of experience in laboratory environments, she has cultivated a passion for bridging scientific theory with real-world solutions. As a new member of IBM's Healthcare and Life Sciences (HCLS) Quantum Guild, she is excited to explore the exciting potential of quantum computing in healthcare and beyond.\n\nIn her day role, she is a data engineer developing efficient and reliable data pipelines. These pipelines automate the seamless movement of data from source to destination while performing necessary and efficient transformations along the way.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/re5ee33b6015eae3f7095f409d3cca295](https://ibm.webex.com/weblink/register/re5ee33b6015eae3f7095f409d3cca295)**",
+    "endTime": "2023-12-06T09:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/296567184/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "296567184",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Quantum Careers - Part 4: Engaging with & Building a career in Quantum Computing"
+  },
+  "event_id": "296567184",
+  "event_title": "Quantum Careers - Part 4: Engaging with & Building a career in Quantum Computing",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.** This session is for anyone who has an interest in getting started with coding on quantum computers or would like to use their skills to work on emerging technology like quantum. In this sessions we'll be covering: \\- Where to find resources for becoming a certified Qiskit developer\\. \\- How you can engage with the Qiskit community through events such as hackathons and summer schools\\. \\- Tips when applying for jobs related to quantum computing \\- Our experience of getting into quantum computing Note that this is **part 4 of a 4-session series \"Quantum Horizon: Exploring the Frontier in Quantum Computing Careers\"** on Oct 25/26, Nov 8/9, Nov 29/30, Dec 6/7. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions. **Presenters: Alex Edson, Arushi Karki** **Alex Edson**, in his role as one of IBM's Quantum Ambassadors, talks to a wide variety of clients and communicate the exciting opportunities that quantum computing can bring. His interest for quantum computing was sparked during his masters course in Theoretical Physics when he worked on simulating quantum noise reduction. In his day to day work as a DevSecOps engineer, he leverages cloud technologies to create secure and resilient platforms for public sector clients as well as shortening the software development lifecycle for software engineers. **Aarushi Karki**'s background in Physics, specialising in Biophysics and medical research procedures, has paved the way for her deep interest in quantum technologies for healthcare applications. With over 5+ years of experience in laboratory environments, she has cultivated a passion for bridging scientific theory with real-world solutions. As a new member of IBM's Healthcare and Life Sciences (HCLS) Quantum Guild, she is excited to explore the exciting potential of quantum computing in healthcare and beyond. In her day role, she is a data engineer developing efficient and reliable data pipelines. These pipelines automate the seamless movement of data from source to destination while performing necessary and efficient transformations along the way. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/re5ee33b6015eae3f7095f409d3cca295](https://ibm.webex.com/weblink/register/re5ee33b6015eae3f7095f409d3cca295)**",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-4-engaging-with-building-a-career-in-quantum-computing-alex-edson-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-4-engaging-with-building-a-career-in-quantum-computing-alex-edson-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-4-engaging-with-building-a-career-in-quantum-computing-alex-edson-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Alex Edson"
+      },
+      {
+        "company": null,
+        "name": "Arushi Karki"
+      },
+      {
+        "company": null,
+        "name": "Arushi Karki Alex Edson"
+      }
+    ],
+    "title": "Quantum Careers - Part 4: Engaging with & Building a career in Quantum Computing"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-4-engaging-with-building-a-career-in-quantum-computing-alex-edson-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/296567184/"
+}

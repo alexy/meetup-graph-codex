@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2019-03-25T10:00:00-04:00",
+    "description": "Inspired by Women’s History Month and International Women’s Day and Women in Data Science, IBM and its partners are amplifying the work of incredible women trailblazers and contributors to data science and quantum computing. Join us on March 25 in NYC for a day of talks, hands-on workshops, and networking to learn more about IBM’s revolutionary launch into Quantum Computing, the current state of AI and Data Science and meet the women leading the charge. You can join us for the whole day – or for parts of the day.\n\nPlease register before March 22: https://ibmwomenindatasciencequantum.splashthat.com\n\nMore info https://developer.ibm.com/opentech/2019/03/17/women-in-data-science-and-quantum-computing-new-york-2019-03-25/",
+    "endTime": "2019-03-25T18:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/259925539/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "259925539",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Women in Data Science and Quantum Computing - March 25 "
+  },
+  "event_id": "259925539",
+  "event_title": "Women in Data Science and Quantum Computing - March 25",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "Inspired by Women’s History Month and International Women’s Day and Women in Data Science, IBM and its partners are amplifying the work of incredible women trailblazers and contributors to data science and quantum computing. Join us on March 25 in NYC for a day of talks, hands-on workshops, and networking to learn more about IBM’s revolutionary launch into Quantum Computing, the current state of AI and Data Science and meet the women leading the charge. You can join us for the whole day – or for parts of the day. Please register before March 22: https://ibmwomenindatasciencequantum.splashthat.com More info https://developer.ibm.com/opentech/2019/03/17/women-in-data-science-and-quantum-computing-new-york-2019-03-25/",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-and-quantum-computing-march-25-women-s-history-month-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-and-quantum-computing-march-25-women-s-history-month-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-and-quantum-computing-march-25-women-s-history-month-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Women’s History Month"
+      }
+    ],
+    "title": "Women in Data Science and Quantum Computing - March 25"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-and-quantum-computing-march-25-women-s-history-month-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/259925539/"
+}

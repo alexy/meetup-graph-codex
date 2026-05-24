@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-02-15T18:30:00-08:00",
+    "description": "Have you read the leaked private Yammer email about their issues with Scala? Are you familiar enough with the subjects raised to be able to discuss them intelligently? Some of these topics are advanced, others run deep. This panel discussion will focus on the major topics that were raised. Monday night's event (http://www.meetup.com/Scala-for-Startups/events/49518642/) in San Francisco was rated 5 stars.\n\nTopics are here (https://docs.google.com/document/d/1DsU7nbdRdddkzQgO-uvq4d7EffAasI5On6H3oJWfh8w/edit). So far our panelists (in order of acceptance) include Bill Venners, Dick Wall and Mark McBride. We would like a few more panelists, so if you feel comfortable about holding forth in public about these and other topics, please let Mike Slinn or Dick Wall know. Mike will moderate the discussion.\n\nWe need a volunteer to stream and/or record this event.",
+    "endTime": "2012-02-15T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/49519272/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "49519272",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala Practicalities - Panel Discussion"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-scala-practicalities-panel-discussion-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/49519272/"
+}

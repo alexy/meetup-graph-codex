@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-06-06T18:30:00-07:00",
+    "description": "This meetup is a housewarming of the new Mesosphere office, that used to be the Nitro office, where we held so many SF Scala, SF Spark, Bay Area AI, Reactive Systems, and Advanced Spark meetups. And you know what? We are bringing the sexy back with all of them joining forces at once!\n\nWelcome the first joint meetup at Mesosphere, and remember to check in regularly for the great things to come that are happening here!",
+    "endTime": "2018-06-06T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/251030715/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "251030715",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Joint SF Spark, Global Advanced Spark and TensorFlow, and Bay Area AI Megameetup"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-joint-sf-spark-global-advanced-spark-and-tensorflow-and-bay-area-ai-megameetup-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/251030715/"
+}

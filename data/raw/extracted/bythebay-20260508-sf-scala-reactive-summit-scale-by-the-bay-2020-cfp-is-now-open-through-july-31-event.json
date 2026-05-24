@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-reactive-summit-scale-by-the-bay-2020-cfp-is-now-open-through-july-31-event",
+  "source_id": "bythebay-20260508-sf-scala-reactive-summit-scale-by-the-bay-2020-cfp-is-now-open-through-july-31-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-reactive-summit-scale-by-the-bay-2020-cfp-is-now-open-through-july-31-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-reactive-summit-scale-by-the-bay-2020-cfp-is-now-open-through-july-31-event.json",
+  "kind": "announcement",
+  "event_id": "270391283",
+  "event_title": "Reactive Summit + Scale By the Bay 2020 CFP is now Open through July 31",
+  "title": "Reactive Summit + Scale By the Bay 2020 CFP is now Open through July 31",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/270391283/",
+  "description": "Scale By the Bay is now following Reactive Summit, the conference of the Reactive Foundation, a Linux Foundation project focused on cloud-native applications. The 8th Annual Scale By the Bay developer conference will be held either online or in person in November, 2020. The joint CFP is now extended at https://scale.bythebay.io, until July 31. Please submit your best talk early, and hope to see you on the program!",
+  "date_time": "2020-07-31T23:59:00-07:00",
+  "end_time": "2020-08-01T01:59:00-07:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-david-pollak-scala-and-clojure-playing-well-together-event",
+  "source_id": "bythebay-20260508-scala-bay-david-pollak-scala-and-clojure-playing-well-together-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-david-pollak-scala-and-clojure-playing-well-together-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-david-pollak-scala-and-clojure-playing-well-together-event.json",
+  "kind": "workshop",
+  "event_id": "222841619",
+  "event_title": "David Pollak, \"Scala and Clojure: Playing Well Together\"",
+  "title": "David Pollak, \"Scala and Clojure: Playing Well Together\"",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/222841619/",
+  "description": "Title: David Pollak, \"Scala and Clojure: playing well together\" Description: Scala and Clojure are both alternative JVM languages. They are both functional languages. But can both languages play well together? Yes, they can. David Pollak, founder of the Lift Web Framework Project and author of Beginning Scala, shows how it's easy and fun to integrate Scala and Clojure. David will demonstrate a ClojureScript front end to a Lift web tier to a Clojure backend... all exchanging data... but more importantly... semantically aligned. Because Scala Seq and Clojure lazy sequences translate to each other and Actors and core.async translate to each other and many of the other idiomatic Scala and Clojure-isms are mirrored in the other language. Please join us for a nice of typed and typeless, but always functional, fun. Speaker. David Pollak has a long and checkered history in the Scala community. Notable positives: David founded Lift, wrote Beginning Scala, introduced Scala to Twitter and LinkedIn and the SAP ecosystem... Over the last few years, David has been using both Scala and Clojure professionally and has written some lesser known Clojure modules including Dragonmark (distributed core.async). David's a lawyer by training and a notable loudmouth. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:50 - talks • 8:50-9:00 - networking",
+  "date_time": "2015-06-11T19:00:00-07:00",
+  "end_time": "2015-06-11T22:00:00-07:00"
+}

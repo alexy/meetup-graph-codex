@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:36468260:bythebay-20260508-unstructured-data-meetup-bay-area-milvus-community-talks-event",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-milvus-community-talks-event",
+  "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-milvus-community-talks-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-milvus-community-talks-event.json",
+  "kind": "talk",
+  "event_id": "287272694",
+  "event_title": "Milvus Community Talks",
+  "title": "Milvus Community Talks",
+  "conference_id": "meetup:36468260",
+  "meetup_id": "meetup:36468260",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/unstructured-data-sf/events/287272694/",
+  "description": "Welcome to our first Milvus Community Meetup, sponsored by [Zilliz](https://zilliz.com)! In this meetup, [Frank Liu](https://linkedin.com/in/fzliu) will talk about some of the latest features in the upcoming [Milvus 2.1 release](https://github.com/milvus-io/milvus/releases) and [Rishav Ray](https://www.linkedin.com/in/rishavray/) will be talking about how Milvus helps power real-time recommendation at [Trell](https://trell.co/). **New Features in Milvus 2.1** We'll first briefly go over some of the differences between Milvus 2.x and Milvus 1.x before talking about some of the latest features in the upcoming version of Milvus. **Main Talk: Building a Real-Time Recommendation System with Milvus** Ever wondered how YouTube suggested videos update instantaneously or how Amazon updates recommendations based on your previous clicks/searches? The secret lies in real-time recommendation systems - tech stacks that allow companies to personalize a user's suggestions based on their previous history. In this talk, Rishav will discuss how Milvus can be used to build such an end-to-end real-time recommendation system.",
+  "date_time": "2022-07-28T19:00:00-07:00",
+  "end_time": "2022-07-28T20:00:00-07:00"
+}

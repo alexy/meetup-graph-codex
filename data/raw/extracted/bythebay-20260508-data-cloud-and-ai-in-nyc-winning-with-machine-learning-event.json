@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-winning-with-machine-learning-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-winning-with-machine-learning-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-winning-with-machine-learning-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-winning-with-machine-learning-event.json",
+  "kind": "event",
+  "event_id": "238590959",
+  "event_title": "Winning with Machine Learning",
+  "title": "Winning with Machine Learning",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/238590959/",
+  "description": "TO CONFIRM YOUR SEAT, YOU MUST REGISTER HERE: New York - April 18th (https://www-01.ibm.com/events/wwe/grp/grp304.nsf/Registration.xsp?openform&seminar=62ARBWES&locale=en_US) Monetizing the data behind your firewall. With the exponential growth in data, 80% of which is unstructured, the business benefit of using machine learning to seek out opportunities is massive. Amongst a survey of large companies, 76% indicated they are targeting higher sales growth with machine learning. Join us to learn how organizations can take machine learning out of the laboratory and into wide-scale, commercial use so that continuous intelligence can be applied throughout the enterprise. We will share some practical tips on how to get started with machine learning as well as IBM’s plans to use machine learning to infuse cognitive capabilities across our private cloud data and analytics portfolio to unlock the value of the data behind your firewall. There will be two specific tracks covered on the day, one will focus on the area of Data Management and the second will focus on Data Analytics. For a more detailed description on each of these tracks please click here for Session Details (https://www-01.ibm.com/events/wwe/grp/grp304.nsf/Additional.xsp?openform&seminar=DA7JP5ES&locale=en_US) Agenda - 10.00am - Welcome and Introductions - 10.15am - Keynote Address Winning with Machine Learning - Daniel Hernandez, VP of Analytics - 10.45am - Session One: Data Management: Utilizing Spark to Hadoop to Fire up Innovation or Data Analytics: Introduction to Machine Learning for IT Executives - 11.30am - Session Two: Data Management: Diversify Your Applications, Not Your Databases or Data Analytics: Data Science Convergence - 12.15pm - Networking Lunch - 13.30pm - Session Three: Data Management: Tackling Data Compliance & Better Insights with a Unified Governance Approach or Data Analytics: Unleashing Apache Spark and Machine Learning on the Data Warehouse - 14.15pm - Summary & Close",
+  "date_time": "2017-04-18T10:00:00-04:00",
+  "end_time": "2017-04-18T16:30:00-04:00"
+}

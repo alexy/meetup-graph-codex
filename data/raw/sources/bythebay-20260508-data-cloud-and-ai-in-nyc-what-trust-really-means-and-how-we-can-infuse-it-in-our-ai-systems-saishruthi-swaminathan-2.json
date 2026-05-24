@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2022-11-16T08:00:00-05:00",
+    "description": "**Note that this event is posted in multiple meetup groups world-wide. If this time is not suitable for your time zone, please join the session offered at the alternate time slot.**\n\nMachine learning models are increasingly being used to inform high-stakes decisions. In this session, we will explore what it means to build a trustworthy AI system.\n\nFocus Areas:\n\n* What trust means in the AI space and why it is important\n* Trustworthy AI, Responsible AI, Sustainable AI - what do they all mean?\n* Basis of building trustworthy AI systems\n* Understanding the pillars of trustworthy AI and how they add value\n* Socio-technological challenges\n* Tools in the space of trustworthy AI\n* Overview of different regulations, what is out there, why trust is important to comply with regulations\n\n**Presenter: Saishruthi Swaminathan**\n\nSaishruthi Swaminathan is an advocate for Trustworthy AI and a Data Scientist. She has a Master's in Electrical Engineering specializing in Data Science and a Bachelor's degree in Electronics and Instrumentation Engineering.\n\nHer passion is to dive deep into the ocean of data, extract insights, and use AI for social good. She has spoken at over 70 events worldwide over the past three years. In 2021, the Women in AI (WAIE) team recognized her as one of the 100 brilliant women in AI Ethics 2022. She is on a mission to spread the knowledge and experience she acquired in her learning process.\n\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder: [https://ibm.webex.com/ibm/j.php?RGID=r5530d70abbd99cb2465f2eb30525d3f2](https://ibm.webex.com/ibm/j.php?RGID=r5530d70abbd99cb2465f2eb30525d3f2).",
+    "endTime": "2022-11-16T09:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/289646468/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "289646468",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "What trust really means and how we can infuse it in our AI systems"
+  },
+  "event_id": "289646468",
+  "event_title": "What trust really means and how we can infuse it in our AI systems",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Note that this event is posted in multiple meetup groups world-wide. If this time is not suitable for your time zone, please join the session offered at the alternate time slot.** Machine learning models are increasingly being used to inform high-stakes decisions. In this session, we will explore what it means to build a trustworthy AI system. Focus Areas: * What trust means in the AI space and why it is important * Trustworthy AI, Responsible AI, Sustainable AI - what do they all mean? * Basis of building trustworthy AI systems * Understanding the pillars of trustworthy AI and how they add value * Socio-technological challenges * Tools in the space of trustworthy AI * Overview of different regulations, what is out there, why trust is important to comply with regulations **Presenter: Saishruthi Swaminathan** Saishruthi Swaminathan is an advocate for Trustworthy AI and a Data Scientist. She has a Master's in Electrical Engineering specializing in Data Science and a Bachelor's degree in Electronics and Instrumentation Engineering. Her passion is to dive deep into the ocean of data, extract insights, and use AI for social good. She has spoken at over 70 events worldwide over the past three years. In 2021, the Women in AI (WAIE) team recognized her as one of the 100 brilliant women in AI Ethics 2022. She is on a mission to spread the knowledge and experience she acquired in her learning process. \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder: [https://ibm.webex.com/ibm/j.php?RGID=r5530d70abbd99cb2465f2eb30525d3f2](https://ibm.webex.com/ibm/j.php?RGID=r5530d70abbd99cb2465f2eb30525d3f2).",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-what-trust-really-means-and-how-we-can-infuse-it-in-our-ai-systems-saishruthi-swaminathan-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-what-trust-really-means-and-how-we-can-infuse-it-in-our-ai-systems-saishruthi-swaminathan-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-what-trust-really-means-and-how-we-can-infuse-it-in-our-ai-systems-saishruthi-swaminathan-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Saishruthi Swaminathan"
+      },
+      {
+        "company": null,
+        "name": "Saishruthi Swaminathan Saishruthi Swaminathan"
+      }
+    ],
+    "title": "What trust really means and how we can infuse it in our AI systems"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-what-trust-really-means-and-how-we-can-infuse-it-in-our-ai-systems-saishruthi-swaminathan-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/289646468/"
+}

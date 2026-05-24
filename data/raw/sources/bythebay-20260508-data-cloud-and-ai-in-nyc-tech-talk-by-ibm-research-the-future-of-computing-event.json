@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2022-06-16T15:00:00-04:00",
+    "description": "**About**\n\nSilicon Valley Technical Vitality Council (SV-TVC)\nIBM Academy of Technology Affiliate\n\n**Registration**\n\nAttendees must complete their registration by signing up via WebEx: [https://ibm.webex.com/ibm/j.php?RGID=rd687f7cfbe68ad7d596e706bffb2a04f](https://ibm.webex.com/ibm/j.php?RGID=rd687f7cfbe68ad7d596e706bffb2a04f)\n\n**Agenda**\n\nAttend this session to learn about what we do at IBM Research, our current priority areas of Research, and our vision of how classical computing plus AI plus Quantum computing will combine to create new opportunities in computation.\n\n**Speaker Bio**\n\nDr. Jeffrey J. Welser\nChief Operating Officer and Vice President, IBM Research\n\nDr. Jeffrey Welser is Chief Operating Officer for IBM Research and Vice President, Exploratory Science and University Collaborations. He oversees IBM Research Labs based in California, Brazil and Japan, as well as the MIT-IBM Watson AI Lab in Cambridge. He oversees exploratory and applied research to advance data technology and analytics for Hybrid Cloud and AI systems and software, with a strong focus on advanced computing technologies for AI, neuromorphic devices and quantum computing.\n\nAfter joining IBM Research in 1995, Dr. Welser worked on a broad range of technologies, including novel silicon devices, high-performance CMOS and SOI device design, and next generation system components. He has led teams in both development and research, as well as running industrial, academic and government consortiums, including the SRC\nNanoelectronics Research Initiative.\n\nDr. Welser received his Ph.D. in Electrical Engineering from Stanford University. He holds 21 US Patents and has published over 75 technical papers and presentations. He is an IEEE Fellow, a member of the IBM Academy of Technology and the American Physical Society, and Chairman of the Bay Area Science and Innovation Consortium. He serves on several university and industry technical boards, and has participated in numerous Federal Agency, National Academies and Congressional panels on advanced semiconductor and computing technology.",
+    "endTime": "2022-06-16T16:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/286575185/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "286575185",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Tech Talk by IBM Research – The Future of Computing"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-tech-talk-by-ibm-research-the-future-of-computing-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/286575185/"
+}

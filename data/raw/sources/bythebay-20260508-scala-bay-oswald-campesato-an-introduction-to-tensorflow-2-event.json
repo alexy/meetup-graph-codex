@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2019-06-27T19:00:00-07:00",
+    "description": "Oswald Campesato, \"An introduction to TensorFlow 2\"\n\nA fast-paced introduction to TensorFlow 2 about some important new features (such as generators and the @tf.function decorator) and TF 1.x functionality that's been removed from TF 2 (yes, tf.Session() has retired).\nSome concise code samples are presented to illustrate how to use new features of TensorFlow 2.\n\nYou'll also get a quick introduction to lazy operators (if you know FRP this will be super easy), along with a code comparison between TF 1.x/iterators with tf.data.Dataset and TF 2/generators with tf.data.Dataset.\n\nFinally, we'll see how to define tf.keras models in TF 2 for CNNs and LSTMs, and briefly discuss BiDirectional LSTMs and VAEs.\n\nAlthough familiarity with TF 1.x is helpful, newcomers with an avid interest in learning about TensorFlow 2 can benefit from this session.\n\nPlease note that TF 2 is currently in early release, and that this presentation does not contain Scala-related code samples.\n\nSchedule\n\n• 6:30-7:00 - networking (pizza, soft drinks)\n• 7:00-7:10 - announcements etc.\n• 7:10-8:00 - talk\n• 8:00-8:30 - more networking",
+    "endTime": "2019-06-27T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/262526936/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "262526936",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Oswald Campesato, An introduction to TensorFlow 2"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-oswald-campesato-an-introduction-to-tensorflow-2-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/262526936/"
+}

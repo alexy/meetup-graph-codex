@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-bruce-eckel-rethinking-scala-event",
+  "source_id": "bythebay-20260508-sf-scala-bruce-eckel-rethinking-scala-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-bruce-eckel-rethinking-scala-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-bruce-eckel-rethinking-scala-event.json",
+  "kind": "talk",
+  "event_id": "179263772",
+  "event_title": "Bruce Eckel, Rethinking Scala",
+  "title": "Bruce Eckel, Rethinking Scala",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/179263772/",
+  "description": "Attendance: we will do first-come, first-serve to capacity. Once the venue is full a sign will be posted and no more folks let in, please be on time. Abstract: How fares this grand language experiment called Scala? Bruce relates experiences while writing \"Atomic Scala,\" insights from last Fall's Scala Summit, and conversations from his recent trip to the Craft Conference in Budapest, with the goal of starting discussions on the issues and direction of the language. Bruce Eckel, one of the most respected and beloved authors and thinkers on programming, is coming to San Francisco! Bruce is the author of Thinking in C++, Thinking in Java, and most recently Atomic Scala. A generation of programmers grew on his Thinking series, and there's no rival to Thinking in Java (TIJ) for learning Java. Bruce unfolds any complex subject in a series of graduated examples, and in Atomic Scala, he takes it up a notch by doing Test-Driven Development of the examples from the ground up. Bruce also runs a Scala Summit in his mountain redoubt of Crested Butte, co-hosted with James Ward of Typesafe. Scala community is blessed to have the wisdom of Bruce applied to simplifying Scala and getting to the practical meaning of its abstractions. Kenny Lee, Director of Analytics at Chartboost, a zen master of data wrangling with Scala and its Big Data offsprings, will provide an overview of Chartboost data pipelines. Agenda: 6:30 doors open 6:50 announcements, including <1min hiring pitches (prepare yours!) 7:00 Kenny 7:20 Bruce We need a video sponsor for this talk. The sponsor's logo will precede the recording. Please contact alexy @ scalable.pro if you want to help us make a memorable recording of Bruce Eckel about Scala! There are multiple parking garages near the building and one under it. Street parking is also available, $0.25/hr after 6pm.",
+  "date_time": "2014-05-07T18:30:00-07:00",
+  "end_time": "2014-05-07T21:30:00-07:00"
+}

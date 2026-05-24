@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman-2.json",
+  "kind": "talk",
+  "event_id": "297490882",
+  "event_title": "Using ML to optimize business outcomes",
+  "title": "Using ML to optimize business outcomes",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Mark Freeman, Mark Freeman Mr",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/297490882/",
+  "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.** This session will provide an introduction to applications of machine learning to optimization. Optimization (often called prescriptive analytics) is a branch of data science that recommends the best actions for maximizing a desirable outcome (or minimizing an undesirable outcome). Modern applications often involve a combination of machine learning and mathematical programming. Attendees will get an introduction to modern applications of prescriptive analytics, illustrated through a variety of real world use cases. These use cases include optimizing treatments to maximize health outcomes, optimizing pricing to maximize profits, and optimizing maintenance operations to minimize cost. A review of these real world applications will enable attendees to explore how prescriptive analytics might contribute value to their own organizations. **Presenter:** **Mark Freeman** Mr. Freeman is an executive data scientist with PhD-level education and over 25 years experience in advanced analytics and machine learning. As a Chief Data Scientist at IBM Consulting, he leads data science teams delivering production grade machine learning solutions to clients across multiple industries. He is a published author of advanced analytics research and principal patent author for optimal automated forecasting. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r35a4b43d09dd200b049cf51dd4fce7c5](https://ibm.webex.com/weblink/register/r35a4b43d09dd200b049cf51dd4fce7c5)**",
+  "date_time": "2024-01-24T08:00:00-05:00",
+  "end_time": "2024-01-24T09:00:00-05:00"
+}

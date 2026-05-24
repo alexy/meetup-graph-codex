@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-tools-frameworks-to-solve-downstream-nlp-nlu-tasks-reza-fazeli-watson-assistant-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-tools-frameworks-to-solve-downstream-nlp-nlu-tasks-reza-fazeli-watson-assistant-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-tools-frameworks-to-solve-downstream-nlp-nlu-tasks-reza-fazeli-watson-assistant-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-tools-frameworks-to-solve-downstream-nlp-nlu-tasks-reza-fazeli-watson-assistant-2.json",
+  "kind": "talk",
+  "event_id": "289690549",
+  "event_title": "Pre-Trained Language Models: Tools/Frameworks to Solve Downstream NLP/NLU Tasks",
+  "title": "Pre-Trained Language Models: Tools/Frameworks to Solve Downstream NLP/NLU Tasks",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Reza Fazeli @ Watson Assistant, Reza Fazeli Reza Fazeli",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/289690549/",
+  "description": "**Please join us at the session that is best suited to your time zone. Note that this topic is:** **1. Repeated at two different times to accommodate various time zones, because it is** **2. Posted simultaneously in multiple meetup groups world-wide** This a follow-up to the \"Pre-Trained Language Models: A New Standard for NLU Tasks\" sessions held on Jan 18 & 19, 2023, where we introduced pre-trained language models and explained how they have become a new standard for solving various NLP tasks. In this session, we will start with a quick recap of the previous session and then do a deep dive into the tools and frameworks for loading and fine-tuning pre-trained language models. We will load models from the HuggingFace Model Hub https://huggingface.co/models and fine-tune them on a public dataset to solve a downstream NLP task using a small dataset and a few training steps. **Presenter: Reza Fazeli** Reza Fazeli is a conversational AI engineer for Watson Assistant, working closely with IBM Research teams to develop and deploy algorithms for improving our virtual assistant products. He is currently focused on leveraging state-of-the-art machine learning algorithms for enhancing Watson Assistant by learning from the behavior of end users. He also works on other problems in this area such as intent detection, slot filling, disambiguation, and digression. Previously, he has worked as a machine learning engineer and data scientist focusing on natural language processing and computer vision problems. Reza completed his graduate studies at University of Toronto where his research focused on using numerical modeling techniques for solving multi-phase flow problems. *** It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. [https://ibm.webex.com/ibm/j.php?RGID=rfa7d7279a9db7813873d3eaf867c0e66](https://ibm.webex.com/ibm/j.php?RGID=rfa7d7279a9db7813873d3eaf867c0e66)",
+  "date_time": "2023-01-25T08:00:00-05:00",
+  "end_time": "2023-01-25T09:00:00-05:00"
+}

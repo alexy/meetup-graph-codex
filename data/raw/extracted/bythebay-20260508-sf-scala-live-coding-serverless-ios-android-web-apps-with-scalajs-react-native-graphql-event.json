@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-live-coding-serverless-ios-android-web-apps-with-scalajs-react-native-graphql-event",
+  "source_id": "bythebay-20260508-sf-scala-live-coding-serverless-ios-android-web-apps-with-scalajs-react-native-graphql-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-live-coding-serverless-ios-android-web-apps-with-scalajs-react-native-graphql-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-live-coding-serverless-ios-android-web-apps-with-scalajs-react-native-graphql-event.json",
+  "kind": "event",
+  "event_id": "246126548",
+  "event_title": "Live-coding Serverless iOS/Android/Web Apps with ScalaJS, React-Native & GraphQL",
+  "title": "Live-coding Serverless iOS/Android/Web Apps with ScalaJS, React-Native & GraphQL",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/246126548/",
+  "description": "Scala-JS just hit 1.0.0 and React-native is maturing well. Combining the advantages of both yields the promise of end-to-end FP to generate 3 different apps from a single code base. Add to the mix GraphQL in a server-less configuration and we have a real shot at building a meaningful app in a meetup. Irfan Ahmad is a full-stack founder of two Silicon Valley startups. He loves new code smell and started developing with Scala back before it was cool. Prior to this, Irfan was at VMware hacking on hypervisors and at Transmeta working on the Crusoe software microprocessor. Irfan is an inventor on more than thirty patents, has published at ACM SOCC, USENIX FAST, ATC and IEEE IISWC and has chaired HotStorage, HotCloud and VMware’s R&D Innovation Conference. Irfan serves on steering committees for USENIX HotStorage and HotCloud. Irfan earned his pink tie from the University of Waterloo. Taimur Mirza is a senior software engineer from Automation Anywhere and has more than 15 years of experience in building distributed applications with open source technologies. He worked at Qumu, BabyCenter and DeviceAnywhere in the past.",
+  "date_time": "2018-01-23T18:00:00-08:00",
+  "end_time": "2018-01-23T21:00:00-08:00"
+}

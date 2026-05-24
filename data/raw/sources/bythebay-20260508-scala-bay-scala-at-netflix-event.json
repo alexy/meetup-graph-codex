@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-08-13T18:30:00-07:00",
+    "description": "Field reports of how Scala is used by large organizations have been well-received by this group, so by popular demand, this month's topic is \"Scala at Netflix\".\n\nNetflix's Freedom and Responsibility (http://www.slideshare.net/reed2001/culture-1798664) culture gives developers the option to use whatever language they feel is most appropriate for a new project. Over the last two years, several have chosen Scala, and at this meeting they will talk about the role their projects play in the Netflix ecosystem, the advantages that Scala provides over language alternatives, and any pitfalls or drawbacks they may have encountered. Among the projects covered will be:\n\nScruffy, a web application for visualizing dependency relationships in Ivy repositories Edera, an sbt plugin for building Scala projects \"the Netflix way\" Atlas, a real-time distributed monitoring system and an as-yet-unnamed metadata service built atop Lucene and Cassandra As usual, the schedule for the event is:\n\n6:30 - networking, food\n\n7:00 - announcements\n\n7:15 - presentation\n\n8:30 - Q&A, more networking afterward\n\nNetflix is providing water, soda, beer and food.\n\nWe will give away two copies of IntelliJ IDEA 11 (fully activated) for personal use, and two copies of JRebel. Two e-copies of \"Monadic Design Patterns (http://www.artima.com/shop/monadic_design_patterns)\", published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile.",
+    "endTime": "2012-08-13T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/69365452/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "69365452",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala at Netflix"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-scala-at-netflix-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/69365452/"
+}

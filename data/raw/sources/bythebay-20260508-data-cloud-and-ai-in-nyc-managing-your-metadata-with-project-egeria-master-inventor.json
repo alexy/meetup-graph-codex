@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-09-11T18:00:00-04:00",
+    "description": "Project Egeria is a new initiative that supports the flow of metadata between different technologies and tools, enabling organizations to locate, manage and use their data more effectively. Automating data governance becomes simpler too. Egeria is open source. See https://github.com/odpi/egeria\n\nThe agenda for the evening is as follows:\n6:00pm Networking\n6:30pm Kick-Off - John Mertic - Linux Foundation Director of Program Management\n6:45pm Why Open Metadata - Mike Nicpan - ING Information Architect\n7:15pm Project Egeria - Mandy Chessell - IBM Distinguished Engineer, Master Inventor, Fellow of Royal Academy of Engineering\n8:00pm Networking\n8:30pm Close\n\nRegistration will close at noon on Sep 10",
+    "endTime": "2018-09-11T20:30:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/253974350/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "253974350",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Managing Your Metadata with Project Egeria "
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-managing-your-metadata-with-project-egeria-master-inventor",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/253974350/"
+}

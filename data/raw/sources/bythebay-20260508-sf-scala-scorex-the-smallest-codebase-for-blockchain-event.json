@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-10-03T19:00:00-07:00",
+    "description": "Note: Scale By the Bay (http://scale.bythebay.io), our flagship engineering conference, begins on November 15. Reserve your seat now!\n\nDmitry Meshkov, one of the founders of Ergo Platform (http://www.ergoplatform.org) and contributor to Scorex (https://github.com/ScorexFoundation/Scorex), will give a code-centric deep dive into Bitcoin mechanics from an engineering viewpoint.\n\nZihe Huang, technical lead at Topl (http://topl.co), is an open-source project and its goal is to make investing in foreign small and medium enterprises just as easily as investing in domestic companies. Topl is built on Scorex 2 and believes the power of blockchain can foster economic development and growth in developing countries. In this talk, I will be talking about why we chose Scala and Scorex and our development progress so far.",
+    "endTime": "2017-10-03T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/243376543/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "243376543",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scorex -- the Smallest Codebase for Blockchain"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-scorex-the-smallest-codebase-for-blockchain-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/243376543/"
+}

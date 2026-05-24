@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2024-06-25T17:30:00-07:00",
+    "description": "This is an in-person event! [Registration](https://lu.ma/yt8y3mn2) is required in order to get in.\n\n**Topic:** Connecting your unstructured data with Generative AI\n\n**What we’ll do:**\nHave some food and refreshments. Hear three exciting talks about unstructured data and generative AI.\n5:30 - 6:00 - Welcome/Networking/Registration\n6:05 - 6:30 - [Kate Grossman](https://www.linkedin.com/in/kate-grossman-954459172/), GenAI Software Developer, SAP\n6:35 - 7:00 - [Yi Wang](https://www.linkedin.com/in/njucst/), SWE, Zilliz\n7:05 - 7:30 - [Lisa N Cao](https://www.linkedin.com/in/lisancao/), Product Manager, Datastrato\n7:45 - 8:30 - Networking\n\n**Who Should attend:**\nAnyone interested in talking and learning about Unstructured Data and Generative AI Apps.\n\nTech Talk 1: Harnessing the Power of Generative AI with Large Language Models in Human Capital Management\nSpeaker: Kate Grossman, SAP\nAbstract: The emergence of Generative AI, powered by large language models (LLMs), is revolutionizing the way enterprises manage and leverage their data. This talk dives into SAP's innovative use of LLMs and Generative AI to enhance business processes, improve decision-making, and drive operational efficiencies in the world of human capital management.\n\nTech Talk 2: Multimodal Rag with Milvus\nSpeaker: Yi Wang, Zilliz\nAbstract: We've seen an influx of powerful multimodal capabilities in many LLMs. In this talk, we'll vectorize a dataset of images and texts into the same embedding space, store them in Milvus, retrieve all relevant data using multilingual texts and/or images and input multimodal data as context into GPT-4o.\n\nTech Talk 3: Metadata Lakes for Next-Gen AI/ML\nSpeaker: Lisa N Cao, Datastrato\nAbstract: As data catalogs evolve to meet the growing and new demands of high-velocity, unstructured data, we see them taking a new shape as an emergent and flexible way to activate metadata for multiple uses. This talk discusses modern uses of metadata at the infrastructure level for AI-enablement in RAG pipelines in response to the new demands of the ecosystem. We will also discuss Apache (incubating) Gravitino and its open source-first approach to data cataloging across multi-cloud and geo-distributed architectures.\n\n**When:**\nJune 25, 2024\n5:30PM\n\n**Where:**\nThis is an in-person event. [Registration](https://lu.ma/yt8y3mn2) is required to get into the event. Registration in advance will close 2 days before the event.\nThis event is co-sponsored by [Zilliz](http://zilliz.com/) (maintainers of [Milvu](https://github.com/milvus-io/milvus)s) and SAP",
+    "endTime": "2024-06-25T20:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/unstructured-data-sf/events/301509881/",
+    "group": {
+      "id": "36468260",
+      "name": "Unstructured Data Meetup Bay Area",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "301509881",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Unstructured Data in LLMs - South Bay Edition"
+  },
+  "event_id": "301509881",
+  "event_title": "Unstructured Data in LLMs - South Bay Edition",
+  "meetup_id": "meetup:36468260",
+  "meetup_name": "Unstructured Data Meetup Bay Area",
+  "meetup_url": "https://www.meetup.com/unstructured-data-sf/events/?type=past",
+  "session": {
+    "description": "This is an in-person event! [Registration](https://lu.ma/yt8y3mn2) is required in order to get in. **Topic:** Connecting your unstructured data with Generative AI **What we’ll do:** Have some food and refreshments. Hear three exciting talks about unstructured data and generative AI. 5:30 - 6:00 - Welcome/Networking/Registration 6:05 - 6:30 - [Kate Grossman](https://www.linkedin.com/in/kate-grossman-954459172/), GenAI Software Developer, SAP 6:35 - 7:00 - [Yi Wang](https://www.linkedin.com/in/njucst/), SWE, Zilliz 7:05 - 7:30 - [Lisa N Cao](https://www.linkedin.com/in/lisancao/), Product Manager, Datastrato 7:45 - 8:30 - Networking **Who Should attend:** Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. Tech Talk 1: Harnessing the Power of Generative AI with Large Language Models in Human Capital Management Speaker: Kate Grossman, SAP Abstract: The emergence of Generative AI, powered by large language models (LLMs), is revolutionizing the way enterprises manage and leverage their data. This talk dives into SAP's innovative use of LLMs and Generative AI to enhance business processes, improve decision-making, and drive operational efficiencies in the world of human capital management. Tech Talk 2: Multimodal Rag with Milvus Speaker: Yi Wang, Zilliz Abstract: We've seen an influx of powerful multimodal capabilities in many LLMs. In this talk, we'll vectorize a dataset of images and texts into the same embedding space, store them in Milvus, retrieve all relevant data using multilingual texts and/or images and input multimodal data as context into GPT-4o. Tech Talk 3: Metadata Lakes for Next-Gen AI/ML Speaker: Lisa N Cao, Datastrato Abstract: As data catalogs evolve to meet the growing and new demands of high-velocity, unstructured data, we see them taking a new shape as an emergent and flexible way to activate metadata for multiple uses. This talk discusses modern uses of metadata at the infrastructure level for AI-enablement in RAG pipelines in response to the new demands of the ecosystem. We will also discuss Apache (incubating) Gravitino and its open source-first approach to data cataloging across multi-cloud and geo-distributed architectures. **When:** June 25, 2024 5:30PM **Where:** This is an in-person event. [Registration](https://lu.ma/yt8y3mn2) is required to get into the event. Registration in advance will close 2 days before the event. This event is co-sponsored by [Zilliz](http://zilliz.com/) (maintainers of [Milvu](https://github.com/milvus-io/milvus)s) and SAP",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-kate-grossman-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-kate-grossman-2.json",
+    "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-kate-grossman-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Kate Grossman"
+      },
+      {
+        "company": null,
+        "name": "Lisa N Cao"
+      },
+      {
+        "company": null,
+        "name": "Yi Wang"
+      }
+    ],
+    "title": "Unstructured Data in LLMs - South Bay Edition"
+  },
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-kate-grossman-2",
+  "source_url": "https://www.meetup.com/unstructured-data-sf/events/301509881/"
+}

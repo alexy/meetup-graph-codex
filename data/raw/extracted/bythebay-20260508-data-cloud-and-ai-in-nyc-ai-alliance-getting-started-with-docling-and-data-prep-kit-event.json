@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-getting-started-with-docling-and-data-prep-kit-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-getting-started-with-docling-and-data-prep-kit-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-getting-started-with-docling-and-data-prep-kit-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-getting-started-with-docling-and-data-prep-kit-event.json",
+  "kind": "workshop",
+  "event_id": "305798978",
+  "event_title": "AI Alliance: Getting Started with Docling and Data Prep Kit",
+  "title": "AI Alliance: Getting Started with Docling and Data Prep Kit",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/305798978/",
+  "description": "**Data Prep Kit** is a robust, open-source Python toolkit designed to simplify and accelerate data preparation for diverse use cases. It provides out-of-the-box support for common data preparation tasks and is designed to scale seamlessly from a personal laptop to large cloud-based clusters. Key features include document deduplication, handling both documents and code, language detection (spoken and programming languages), PII removal, spam and hate speech detection, and malware detection in code. One of the key components of the Data Prep Kit is **Docling**, a versatile document processor capable of handling multiple formats such as PDF, HTML, and DOCX. By integrating with Docling, Data Prep Kit ensures seamless parsing of supported file types, making it an indispensable tool for data scientists and ML engineers. In this talk, I will introduce the capabilities of Data Prep Kit and Docling, walk you through their key features, and demonstrate how to get started with these powerful tools to streamline your data preparation workflows. * Learn more about Data Prep Kit: https://github.com/IBM/data-prep-kit * Learn more about Docling: https://github.com/DS4SD/docling **Session Type** Talk / Hands on Workshop (hybrid) **Audience** LLM app developers, data scientists, data engineers **Technical Level** Beginner - Intermediate **Prerequisites** A Python development environment is strongly recommended for this workshop. Step-by-step instructions for setting up the environment will be provided. **Industry** Cross industry **Agenda** * Welcome & introductions (5') * About the AI Alliance & how you can get involved (5') * Main talk: “Getting Started with Docling and Data Prep Kit” (30') * Q&A * Closing **About the instructor** [Sujee Maniyam](https://sujee.dev/bio-sujee.html) (AI Engineer, Developer Advocate @ Node51) is an expert in Generative AI, Machine Learning, Deep Learning, Big Data, Distributed Systems, and Cloud technologies. He is passionate about developer education, fostering community engagement. Sujee has led numerous training sessions, hackathons, and workshops. He is also an author, open source contributor and frequent speaker at conferences and meetups. **About the AI Alliance** The [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+  "date_time": "2025-01-30T12:00:00-05:00",
+  "end_time": "2025-01-30T13:00:00-05:00"
+}

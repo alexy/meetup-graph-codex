@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-10-22T19:00:00-04:00",
+    "description": "To attend you must register here [https://luma.com/98j1utv6](https://luma.com/98j1utv6)\n\nAgenda\n5 - 5:45: Pizza / Beer\n​5:45 - 6:15: Future of Cassandra® based GenAI with IBM watsonx\n​6:15 - 7:00: ACID Transactions with Apache Cassandra - Aaron Ploetz\n​7:00 - 8:00: Major name customer scenario with Cassandra\n​8:00 - 9:00: Networking\nSWAG giveaways - special items for first 35 attendees",
+    "endTime": "2025-10-22T22:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/311180998/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "311180998",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Cassandra New York Metro Area User Group"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-cassandra-new-york-metro-area-user-group-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/311180998/"
+}

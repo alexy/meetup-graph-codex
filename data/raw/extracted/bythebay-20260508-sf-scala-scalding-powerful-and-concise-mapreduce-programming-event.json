@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-scalding-powerful-and-concise-mapreduce-programming-event",
+  "source_id": "bythebay-20260508-sf-scala-scalding-powerful-and-concise-mapreduce-programming-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scalding-powerful-and-concise-mapreduce-programming-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scalding-powerful-and-concise-mapreduce-programming-event.json",
+  "kind": "event",
+  "event_id": "58112082",
+  "event_title": "Scalding: Powerful and Concise MapReduce Programming",
+  "title": "Scalding: Powerful and Concise MapReduce Programming",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/58112082/",
+  "description": "Scala is a functional programming language on the JVM. Hadoop uses a functional programming model to represent large-scale distributed computation. Scala is thus a very natural match for Hadoop. Twitter uses Scalding for data analysis and machine learning, particularly in cases where we need more than sql-like queries on the logs, for instance fitting models and matrix processing. It scales beautifully from simple, grep-like jobs all the way up to jobs with hundreds of map-reduce pairs. We are pleased to have Dr. Oscar Boykin and Dr. Argyris Zymnis from Twitter to give us some insight on Scalding DSL and provide some example jobs for common use cases. They will also be including a hands-on session where participants can try scalding on their local machine to run a realistic job. MORE ABOUT THE PRESENTERS... Presenters Dr. Oscar Boykin and Dr. Argyris Zymnis are the main scalding committers. Both are at Twitter and work on the Revenue Quality Engineering team. Both are often bearded but generally discourage use of the term \"neckbeard\".",
+  "date_time": "2012-04-19T18:30:00-07:00",
+  "end_time": "2012-04-19T21:30:00-07:00"
+}

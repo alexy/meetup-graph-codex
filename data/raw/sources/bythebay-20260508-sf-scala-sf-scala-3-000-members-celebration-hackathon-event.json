@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-04-29T12:00:00-07:00",
+    "description": "We're 3,000 members strong -- the biggest Scala meetup in the world, the most diverse, most widely deployed, most traffic moving, community in the world.\n\nLet's celebrate with code! This hackathon will kick off at noon with pizza and unconference-style project leads pitches. Then teams will split and work on their code, and reconvene to present around 9pm.\n\nWe need a prize sponsor and a host for this event! We'll expect everybody to code.\n\nSeveral themes emerged:\n\n-- Akkathon\n-- Scala for Good -- with genomics advice from AMPLab and Driver\n-- FP+Data\n-- Finagle\n-- Scala.js\n\nFeel free to propose more ideas in the comments!\n\nSchedule:\n\n12 noon -- lunch and project proposals\n\n1-8 -- hacking unlike anything you've seen\n\n8-9 -- more feverish hectic hacking to finish projects\n\n9pm -- judging and awards!",
+    "endTime": "2016-04-29T15:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/229861293/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "229861293",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "SF Scala 3,000 Members Celebration Hackathon!"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-sf-scala-3-000-members-celebration-hackathon-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/229861293/"
+}

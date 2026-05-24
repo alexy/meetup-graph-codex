@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2018-01-25T18:00:00-05:00",
+    "description": "Details\n\nData science holds tremendous potential for organizations to uncover new insights and drivers of revenue and profitability. Big Data has brought the promise of doing data science at scale to enterprises, however this promise also comes with challenges for data scientists to continuously learn and collaborate. Data Scientists have many tools at their disposal such as notebooks like Jupyter and Apache Zeppelin & IDEs such as RStudio with languages like R, Python, Scala and frameworks like Apache Spark. Given all the choices how do you best collaborate to build your model and then work through the development lifecycle to deploy it from test into production?\n\nIBM Data Science Experience (DSX) provides you with the environment and tools to solve your business problems by collaboratively analyzing data. DSX is now part of the IBM Watson Data Platform which is an integrated platform of tools, services, and data that helps companies accelerate their shift to become data driven organizations. The platform can consume and work on any data source: on-premises or cloud, structured or unstructured, in-motion or at rest, internal or external to an organization. It has five main data and analytics functions (ingest, persist, analyze, deploy, and govern) that can be exercised in any order and any combination. The compose-able services provide APIs that enable customers, business partners, and system integrators to build on and extend these capabilities.With IBM Data Science Experience, you can create Python, Scala, and R notebooks to analyze your data, collaborate with others on your notebooks, add comments, and view a history of your notebooks. You can create a machine learning flow, which is a graphical representation of data, by using the Flow Editor to prepare or shape data, train or deploy a model, or transform data and export it back to a database table or file in object storage and Use visualization's in your notebooks to present data visually to help identify patterns, gain insights, and make decisions. Many of your favorite open source visualization libraries, such as matplotlib, are pre-installed and available on DSX. Data Science Experience machine learning flows use Apache Spark machine learning (SparkML) algorithms to build models. RStudio, included in IBM Data Science Experience, provides an IDE for working with R. DSX has a thriving community which contains resources to help you learn more about data science. Join us on to see an use case driven demo of DSX and how it can help you get started on and/or accelerate your data science journey.\n\nPLEASE NOTE. IN ORDER TO PROVIDE AN ACCURATE LIST FOR SECURITY, WE NEED ADDITIONAL INFORMATION. PLEASE ACCESS THIS LINK TO PROVIDE YOUR INFORMATION. THIS INFORMATION WILL ONLY BE USED FOR BUILDING SECURITY PURPOSES.\n\nhttps://docs.google.com/forms/d/e/1FAIpQLSek4oGjVeSvJ7sMeMAUM_tP0dHOsMjT6a6IRvgJP-IhmEY7ig/viewform\n\nAgenda:\n\n- 6:00 pm: Pizza and networking\n- 6:30pm: Why Data Science on Big Data? Data Science at Scale Demo\n\nQ&A\n\nSpeakers:\n\nArtem Ervits, Sr., Solutions Engineer, Hortonworks\n\nRahul Daterao, Enterprise Cloud Architect, IBM\nRahu is an Enterprise Cloud Architect at IBM and a Watson Data Platform Cloud Specialist with expertise in Big Data, Elastic Search and other NoSQL technologies. His 20+ years experience includes being hands-on CTO for two NYC based startups (Appssavvy and KickApps). He is an open source technology evangelist, engineer, developer and enjoys to collaborate with all those passionate and interested in driving innovation.( https://www.linkedin.com/in/rahul-daterao-baa9ab1/ )",
+    "endTime": "2018-01-25T21:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/246046747/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "246046747",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Enterprise Data Science at Scale"
+  },
+  "event_id": "246046747",
+  "event_title": "Enterprise Data Science at Scale",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "Details Data science holds tremendous potential for organizations to uncover new insights and drivers of revenue and profitability. Big Data has brought the promise of doing data science at scale to enterprises, however this promise also comes with challenges for data scientists to continuously learn and collaborate. Data Scientists have many tools at their disposal such as notebooks like Jupyter and Apache Zeppelin & IDEs such as RStudio with languages like R, Python, Scala and frameworks like Apache Spark. Given all the choices how do you best collaborate to build your model and then work through the development lifecycle to deploy it from test into production? IBM Data Science Experience (DSX) provides you with the environment and tools to solve your business problems by collaboratively analyzing data. DSX is now part of the IBM Watson Data Platform which is an integrated platform of tools, services, and data that helps companies accelerate their shift to become data driven organizations. The platform can consume and work on any data source: on-premises or cloud, structured or unstructured, in-motion or at rest, internal or external to an organization. It has five main data and analytics functions (ingest, persist, analyze, deploy, and govern) that can be exercised in any order and any combination. The compose-able services provide APIs that enable customers, business partners, and system integrators to build on and extend these capabilities.With IBM Data Science Experience, you can create Python, Scala, and R notebooks to analyze your data, collaborate with others on your notebooks, add comments, and view a history of your notebooks. You can create a machine learning flow, which is a graphical representation of data, by using the Flow Editor to prepare or shape data, train or deploy a model, or transform data and export it back to a database table or file in object storage and Use visualization's in your notebooks to present data visually to help identify patterns, gain insights, and make decisions. Many of your favorite open source visualization libraries, such as matplotlib, are pre-installed and available on DSX. Data Science Experience machine learning flows use Apache Spark machine learning (SparkML) algorithms to build models. RStudio, included in IBM Data Science Experience, provides an IDE for working with R. DSX has a thriving community which contains resources to help you learn more about data science. Join us on to see an use case driven demo of DSX and how it can help you get started on and/or accelerate your data science journey. PLEASE NOTE. IN ORDER TO PROVIDE AN ACCURATE LIST FOR SECURITY, WE NEED ADDITIONAL INFORMATION. PLEASE ACCESS THIS LINK TO PROVIDE YOUR INFORMATION. THIS INFORMATION WILL ONLY BE USED FOR BUILDING SECURITY PURPOSES. https://docs.google.com/forms/d/e/1FAIpQLSek4oGjVeSvJ7sMeMAUM_tP0dHOsMjT6a6IRvgJP-IhmEY7ig/viewform",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Artem Ervits"
+      },
+      {
+        "company": null,
+        "name": "Elastic Search"
+      },
+      {
+        "company": null,
+        "name": "Rahul Daterao"
+      }
+    ],
+    "title": "Enterprise Data Science at Scale"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/246046747/"
+}

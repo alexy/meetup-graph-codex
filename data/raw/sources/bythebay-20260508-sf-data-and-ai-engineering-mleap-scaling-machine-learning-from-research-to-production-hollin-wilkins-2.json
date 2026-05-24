@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2017-05-04T18:00:00-07:00",
+    "description": "Thank you Splice Machine for hosting. We need a video sponsor for this meetup!\n\nMLeap is an open-source technology that allows Data Scientists and Engineers to deploy ML Pipelines and Models trained in Spark, Scikit-Learn and TensorFlow to a scoring engine instantly.\n\nDuring our presentation, we will show you how to:\n\n• Train feature transformers (standard scalers, one-hot-encoders, PCA, etc) in Spark\n\n• Train a model in both Spark and TensorFlow\n\n• Deploy both the feature transformation pipeline and the trained models to a cloud-based API server as well as an IoT device\n\nWhy MLeap? Data Scientists use a myriad tools to analyze datasets, clean them, build offline models and validate their performance. The resulting scripts are thrown across the wall to Data Engineers and Architects whose job is to bring these pipelines to production. The Engineers are left with the unenviable job of not only reproducing the Data Scientists’ conclusions, but to also scale the resulting pipeline - both of which require a deep understanding of data science itself. As a result, most, if not all, machine learning deployments in the wild end up either too simplistic or take too long to deploy to production.\n\nMLeap solves this problem by providing serialization of ML Pipelines to an MLeap Bundle, which is a graph-based serialization framework built on top of Protobuf 3 and JSON. In addition, MLeap also provides a highly optimized execution engine that doesn’t rely on the Spark-context or scikit-learn, making inference blazing fast and is capable of executing one model or thousands of models in parallel. Today, MLeap is used in production by silicon valley start-ups as well as Fortune 500 companies and we're looking forward to sharing it with the broader community.\n\nSpeakers\n\nHollin Wilkins is a co-founder of Combust, an ML/AI start-up in the Bay Area. He has been working on machine learning infrastructure since 2015, focusing on platforms for data scientists and engineers to rapidly iterate on ML algorithms and pipeline deployments. Previously he worked in the games industry at LindenLab on Blocksworld and Versu, helping to build everything from game UI, to servers, to custom logic languages that drive user experiences. He holds a degree in Biology from Cornell University and spends his time hiking with his dog and snowboarding.\n\nMikhail Semeniuk is a co-founder of Combust, an ML/AI start-up in the Bay Area. Prior to Combust, he held a number of leadership roles in Product Management and Data Science for Shift, TrueCar, and UnitedHealth Group. Mikhail studied Mathematics and Economics at the University of Minnesota. He spent a good part of his\ncareer working on both the research and development side of machine learning, which inspired his mission to bridge the gap between data science and engineering. He grew up in Minneapolis and lived in Venice, CA for 6 years where he pursued skydiving and hopes of being a decent surfer, and now resides in the Bay Area.",
+    "endTime": "2017-05-04T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/239378825/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "239378825",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "MLeap: Scaling Machine Learning from Research to Production"
+  },
+  "event_id": "239378825",
+  "event_title": "MLeap: Scaling Machine Learning from Research to Production",
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "session": {
+    "description": "Thank you Splice Machine for hosting. We need a video sponsor for this meetup! MLeap is an open-source technology that allows Data Scientists and Engineers to deploy ML Pipelines and Models trained in Spark, Scikit-Learn and TensorFlow to a scoring engine instantly. During our presentation, we will show you how to: • Train feature transformers (standard scalers, one-hot-encoders, PCA, etc) in Spark • Train a model in both Spark and TensorFlow • Deploy both the feature transformation pipeline and the trained models to a cloud-based API server as well as an IoT device Why MLeap? Data Scientists use a myriad tools to analyze datasets, clean them, build offline models and validate their performance. The resulting scripts are thrown across the wall to Data Engineers and Architects whose job is to bring these pipelines to production. The Engineers are left with the unenviable job of not only reproducing the Data Scientists’ conclusions, but to also scale the resulting pipeline - both of which require a deep understanding of data science itself. As a result, most, if not all, machine learning deployments in the wild end up either too simplistic or take too long to deploy to production. MLeap solves this problem by providing serialization of ML Pipelines to an MLeap Bundle, which is a graph-based serialization framework built on top of Protobuf 3 and JSON. In addition, MLeap also provides a highly optimized execution engine that doesn’t rely on the Spark-context or scikit-learn, making inference blazing fast and is capable of executing one model or thousands of models in parallel. Today, MLeap is used in production by silicon valley start-ups as well as Fortune 500 companies and we're looking forward to sharing it with the broader community. Speakers Hollin Wilkins is a co-founder of Combust, an ML/AI start-up in the Bay Area. He has been working on machine learning infrastructure since 2015, focusing on platforms for data scientists and engineers to rapidly iterate on ML algorithms and pipeline deployments. Previously he worked in the games industry at LindenLab on Blocksworld and Versu, helping to build everything from game UI, to servers, to custom logic languages that drive user experiences. He holds a degree in Biology from Cornell University and spends his time hiking with his dog and snowboarding. Mikhail Semeniuk is a co-founder of Combust, an ML/AI start-up in the Bay Area. Prior to Combust, he held a number of leadership roles in Product Management and Data Science for Shift, TrueCar, and UnitedHealth Group. Mikhail studied Mathematics and Economics at the University of Minnesota. He spent a good part of his career working on both the research and development side of machine learning, which inspired his mission to bridge the gap between data science and engineering. He grew up in Minneapolis and lived in Venice, CA for 6 years where he pursued skydiving and hopes of being a decent surfer, and now resides in the Bay Area.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-mleap-scaling-machine-learning-from-research-to-production-hollin-wilkins-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-mleap-scaling-machine-learning-from-research-to-production-hollin-wilkins-2.json",
+    "source_id": "bythebay-20260508-sf-data-and-ai-engineering-mleap-scaling-machine-learning-from-research-to-production-hollin-wilkins-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Hollin Wilkins"
+      },
+      {
+        "company": null,
+        "name": "Mikhail Semeniuk"
+      }
+    ],
+    "title": "MLeap: Scaling Machine Learning from Research to Production"
+  },
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-mleap-scaling-machine-learning-from-research-to-production-hollin-wilkins-2",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/239378825/"
+}

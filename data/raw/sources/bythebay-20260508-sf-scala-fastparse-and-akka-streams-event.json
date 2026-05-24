@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-10-13T18:30:00-07:00",
+    "description": "After a long summer with the ground-breaking FinagleCon=>Scala By the Bay=>Big Data Scala sequence, bracketed by three meetups in August, SF Scala returns with an all-star cast:\n\nHaoyi Li, FastParse: Fast, programmable, modern parser-combinators in Scala\n\nParsing semi-structured text has always been a pain: from fragile regexes, to complex tools like YACC or ANTLR. Scala's parser combinators promised another approach: your parser is just a few simple objects right in your code! But they brought with it a confusing API, buggy internals, and overwhelmingly slow performance.\n\nFastParse is a cleaned up, modern take on parser combinators that aims to fix that. FastParse drops dozens of glyphs in the scala-parser-combinators API for a few well-documented operators, and is 100x faster than scala-parser-combinators, approaching the speed of hand-written parsers. Best of all,\n\nFastParse can be trivially extended to provide extra features like ad-hoc querying or automatic-syntax highlighting, right from the grammar you already wrote for the parser!\n\nThis talk will present FastParse and how you can use it next time you're facing semi-structured text.\n\nHaoyi works at Dropbox during the day and does things with Scala/Scala.js at night.\n\nPaul Kinsky, Getting Started with Akka Streams\n\nThis session aims to provide a gentle introduction to Akka Streams by using it to build a stream processing pipeline for incrementally parsing large CSV files. Following this 'hello world' level example, the same processing pipeline will be repurposed to process messages delivered via websocket.\n\nPaul Kinsky has been writing Scala for the last 3 years and has recently been using Akka Streams to build stream processing pipelines at Nitro. He’s currently working on a book about Akka Streams, Akka Streams in Action. Outside of work, he enjoys climbing, science fiction, and tinkering with Haskell and laser cutters.",
+    "endTime": "2015-10-13T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/225779954/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "225779954",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "FastParse and Akka Streams"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-fastparse-and-akka-streams-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/225779954/"
+}

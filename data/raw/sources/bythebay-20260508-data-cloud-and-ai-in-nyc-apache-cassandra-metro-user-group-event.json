@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2026-02-18T17:00:00-05:00",
+    "description": "# To attend enroll here:\n\n# [https://luma.com/q6kuetpe](https://luma.com/q6kuetpe)\n\n# Agenda​\n\n​5 - 5:45: Pizza / Beer\n​​5:45 - 6:15: NetApp, what we do, our role in open source - Mariah McLaughlin, NetApp\n​​6:15 - 7:00: Unleashing AI in Cassandra 5 - Ritam Das, NetApp\n​​7:00 - 8:00: When “Eventually” Meant 11 ms:\nDesigning Deterministic Cassandra Architectures in the Telecom Core - Thomas Elliott, Your Augmented Life Advisory Services\n​​8:00 - 9:00: Networking",
+    "endTime": "2026-02-18T21:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/313190655/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "313190655",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Apache Cassandra Metro User Group  "
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-apache-cassandra-metro-user-group-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/313190655/"
+}

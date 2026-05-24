@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2022-11-03T15:30:00-04:00",
+    "description": "Quantum computing is poised to potentially have an impact on machine learning methods. In this seminar, we will cover the current state and future prospects of machine learning with quantum computers. This includes algorithms and models such as quantum kernel estimation, variational quantum classifiers, quantum neural networks, and quantum generative-adversarial networks (QGANs). We will also demonstrate the capabilities of the Qiskit Machine Learning open source software project.\n\n**Presenter: Sean Wagner**\nSean is a Research Scientist and a Quantum Technical Ambassador at IBM. When he's not programming and experimenting with Qiskit, Sean spends his time working with researchers at academic institutions and industry partners in Canada on projects involving high-performance computing, hardware acceleration, quantum computing, and data science and AI. Dr. Wagner holds a B.A.Sc. degree in Computer Engineering from the University of Waterloo, and M.A.Sc. and Ph.D. degrees in Electrical and Computer Engineering from the University of Toronto.\n\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. [https://ibm.webex.com/ibm/j.php?RGID=rf9d5addf4260e39d5469911a695263d4](https://ibm.webex.com/ibm/j.php?RGID=rf9d5addf4260e39d5469911a695263d4)",
+    "endTime": "2022-11-03T17:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/289461907/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "289461907",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Quantum Computing and Machine Learning"
+  },
+  "event_id": "289461907",
+  "event_title": "Quantum Computing and Machine Learning",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "Quantum computing is poised to potentially have an impact on machine learning methods. In this seminar, we will cover the current state and future prospects of machine learning with quantum computers. This includes algorithms and models such as quantum kernel estimation, variational quantum classifiers, quantum neural networks, and quantum generative-adversarial networks (QGANs). We will also demonstrate the capabilities of the Qiskit Machine Learning open source software project. **Presenter: Sean Wagner** Sean is a Research Scientist and a Quantum Technical Ambassador at IBM. When he's not programming and experimenting with Qiskit, Sean spends his time working with researchers at academic institutions and industry partners in Canada on projects involving high-performance computing, hardware acceleration, quantum computing, and data science and AI. Dr. Wagner holds a B.A.Sc. degree in Computer Engineering from the University of Waterloo, and M.A.Sc. and Ph.D. degrees in Electrical and Computer Engineering from the University of Toronto. It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. [https://ibm.webex.com/ibm/j.php?RGID=rf9d5addf4260e39d5469911a695263d4](https://ibm.webex.com/ibm/j.php?RGID=rf9d5addf4260e39d5469911a695263d4)",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-sean-wagner-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-sean-wagner-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-sean-wagner-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Sean Wagner"
+      },
+      {
+        "company": null,
+        "name": "Sean Wagner Sean"
+      }
+    ],
+    "title": "Quantum Computing and Machine Learning"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-sean-wagner-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/289461907/"
+}

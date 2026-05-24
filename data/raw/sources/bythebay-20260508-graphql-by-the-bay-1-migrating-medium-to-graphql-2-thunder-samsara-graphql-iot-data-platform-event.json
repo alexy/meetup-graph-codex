@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2019-05-23T18:00:00-07:00",
+    "description": "Join us at Samsara for two great talks about GraphQL in production, spanning both hardware and software stacks!\n\n(1) 2 Fast 2 Furious: Migrating Medium's Architecture Without Slowing Down\n\nWe’re shifting gears to leverage new technologies created since we built Medium 5 years ago, but we need to incrementally gain benefits from the new system along the way and we can’t afford to let it hinder feature development. By taking advantage of GraphQL’s flexibility and our existing infrastructure, we’re able to make widespread yet gradual architectural changes! Come see how Medium is changing lanes without slowing down. Anyone thinking about moving to GraphQL (or thinking about migrating an exisiting architecture in general) can benefit from this talk, but especially anyone who is building their own GraphQL server or needs practical advice on how to successfully migrate a legacy system to GraphQL without “stopping the world,” getting defunded partway through, or building a system no one uses. Abstract Migrating an entire system to new tools and frameworks isn’t an easy task. And doing that while not impacting feature development? That’s even harder. We’ll walk through how Medium is migrating off of our existing system, without hindering product development, and while also incrementally gaining the benefits of a new system along the way. We’ll go over the design of our new architecture, our phased migration approach, and how the layered structure of our GraphQL server (written in Scala with Sangria) was integral to the success of both.\n\n- Goals of the migration\n- Design of the new system\n- Phased approach\n- Phase 1: developer experience\n- IDLs (protobuf) + GraphQL\n- Phase 2: services + gRPC\n- GraphQL server layers\n- Fetchers\n- Repos\n- Schema (derivation)\n- Putting it all together\n\nSasha Solomon is a Senior Software Engineer helping build the next generation API on Twitter's GraphQL team. She was previously the Tech Lead of the Platforms team at Medium working on GraphQL as well. She has spoken at GraphQL Conf, GraphQL Asia, Scale by the Bay (2019 CFP runs May 1-31 at http://scale.bythebay.io), and other meetups on various topics related to GraphQL and infrastructure. In her spare time, she enjoys tabletop RPGs, karaoke, and most recently, building mechanical keyboards.\n\n(2) GraphQL for the Samsara Sensor Data Plaform\n\nSamsara is a sensor data platform for operations, supporting a diverse set of features - everything from tracking vehicles in a fleet to monitoring quality control on a production line. In this talk, we’ll explore the origins and evolution of our GraphQL systems over the last three years and how they’ve helped us ship great products quickly and safely.\n\nStephen is an infrastructure engineer at Samsara where he spends time thinking about making developer tools easy to understand, maintain, and use. He has worked on building both frontend and backend infrastructure to empower product teams and is a core contributor to Samsara’s open-source GraphQL framework, Thunder.",
+    "endTime": "2019-05-23T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/graphql-by-the-bay/events/261050384/",
+    "group": {
+      "id": "20929747",
+      "name": "GraphQL By the Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "261050384",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "(1) Migrating Medium to GraphQL (2) Thunder, Samsara GraphQL IoT Data Platform"
+  },
+  "meetup_id": "meetup:20929747",
+  "meetup_name": "GraphQL By the Bay",
+  "meetup_url": "https://www.meetup.com/graphql-by-the-bay/events/?type=past",
+  "source_id": "bythebay-20260508-graphql-by-the-bay-1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform-event",
+  "source_url": "https://www.meetup.com/graphql-by-the-bay/events/261050384/"
+}

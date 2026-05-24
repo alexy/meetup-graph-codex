@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-leveraging-large-language-models-for-learning-health-systems-randy-giffen-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-leveraging-large-language-models-for-learning-health-systems-randy-giffen-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-leveraging-large-language-models-for-learning-health-systems-randy-giffen-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-leveraging-large-language-models-for-learning-health-systems-randy-giffen-2.json",
+  "kind": "talk",
+  "event_id": "296193368",
+  "event_title": "Leveraging Large Language Models for Learning Health Systems",
+  "title": "Leveraging Large Language Models for Learning Health Systems",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Randy Giffen, Randy Giffen Randy Giffen",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/296193368/",
+  "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.** Learning Health Systems seek to learn from experience and continuously improve outcomes. Large Language Models (LLMs) are deep-learning neural networks with billions of parameters. They are trained using large collections of written content to both identify the characteristics of text and to generate new text (including summaries and translations). This session will provide an overview of how LLMs work and how they might be applied to specific tasks and use cases in healthcare to support the goals of a Learning Health System. **Presenter: Randy Giffen** Randy Giffen is a healthcare solutions architect and a member of the IBM Canada Innovation Team. He has 25 years of experience in software development from coding to senior management and 12 years of experience in patient care including 6 years of general practice. He has conducted academic research in both computer science and healthcare and has 7 US Patents for invention. He is an adjunct Professor at the University of Ottawa. He is currently assigned to the Center for Analytics Informatics and Research at Memorial University. His research interests include the use of predictive analytics and machine learning in the context of clinical care. Previously, he developed software systems for predictive maintenance, enterprise connectivity, and process management. Prior to that he worked on the Eclipse project. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r8e8437805843e9ae43656fd39eda3f7b](https://ibm.webex.com/weblink/register/r8e8437805843e9ae43656fd39eda3f7b)**",
+  "date_time": "2023-11-01T08:00:00-04:00",
+  "end_time": "2023-11-01T09:00:00-04:00"
+}

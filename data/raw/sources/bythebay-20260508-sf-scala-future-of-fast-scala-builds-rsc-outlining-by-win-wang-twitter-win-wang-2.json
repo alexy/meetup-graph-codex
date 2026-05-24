@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2019-08-29T18:00:00-07:00",
+    "description": "Compilation speed is a large pain point for many Scala developers. Twitter is one of the world’s largest Scala shops, and we continuously integrate all our projects at once in our monorepo. Lowering build times is crucial to help Twitter continue developing fast and safely. While Scala compilation is difficult to parallelize, the Language Tools team at Twitter has been working on a Scala outliner, Rsc, which produces the equivalent of C++ header files for Scala. Armed with these outlines, Scala compilation parallelism can be unlocked, allowing developers to take advantage of parallel, and even distributed, compilation to iterate ever faster. Learn how we're rolling out a Scala outliner into our continuous integration pipeline, while using open source APIs and implementations to compile and test millions of lines of code thousands of times a day to support low latency builds of Twitter's projects from source. Also important is community feedback on our ideas surrounding the developer experience of Rsc.\n\nAbout our Speaker: Win Wang\n\nWin Wang (https://www.linkedin.com/in/winwang) is a functional programming enthusiast working at Twitter to better the Scala developer experience. Currently focused on reducing compile times.\n\nIn addition to RSVP here on meetup please register here to be able to attend the event:\n\nhttp://sfscalameetuptwitter.splashthat.com/",
+    "endTime": "2019-08-29T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/263552326/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "263552326",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Future of Fast Scala Builds: Rsc Outlining By Win Wang @ Twitter"
+  },
+  "event_id": "263552326",
+  "event_title": "Future of Fast Scala Builds: Rsc Outlining By Win Wang @ Twitter",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "Compilation speed is a large pain point for many Scala developers. Twitter is one of the world’s largest Scala shops, and we continuously integrate all our projects at once in our monorepo. Lowering build times is crucial to help Twitter continue developing fast and safely. While Scala compilation is difficult to parallelize, the Language Tools team at Twitter has been working on a Scala outliner, Rsc, which produces the equivalent of C++ header files for Scala. Armed with these outlines, Scala compilation parallelism can be unlocked, allowing developers to take advantage of parallel, and even distributed, compilation to iterate ever faster. Learn how we're rolling out a Scala outliner into our continuous integration pipeline, while using open source APIs and implementations to compile and test millions of lines of code thousands of times a day to support low latency builds of Twitter's projects from source. Also important is community feedback on our ideas surrounding the developer experience of Rsc. About our Speaker: Win Wang Win Wang (https://www.linkedin.com/in/winwang) is a functional programming enthusiast working at Twitter to better the Scala developer experience. Currently focused on reducing compile times. In addition to RSVP here on meetup please register here to be able to attend the event: http://sfscalameetuptwitter.splashthat.com/",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-future-of-fast-scala-builds-rsc-outlining-by-win-wang-twitter-win-wang-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-future-of-fast-scala-builds-rsc-outlining-by-win-wang-twitter-win-wang-2.json",
+    "source_id": "bythebay-20260508-sf-scala-future-of-fast-scala-builds-rsc-outlining-by-win-wang-twitter-win-wang-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Win Wang"
+      },
+      {
+        "company": null,
+        "name": "Win Wang Win Wang"
+      }
+    ],
+    "title": "Future of Fast Scala Builds: Rsc Outlining By Win Wang @ Twitter"
+  },
+  "source_id": "bythebay-20260508-sf-scala-future-of-fast-scala-builds-rsc-outlining-by-win-wang-twitter-win-wang-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/263552326/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-11-14T08:00:00-08:00",
+    "description": "Dear Friends — we are proud to announce the program of Scale By the Bay 2018, our sixth year of the flagship, and by now iconic, independent developer conference By the Bay. (Tl;dr: get your spot at http://scale.bythebay.io while supplies last, and especially when Early Bird is in effect until August 31.)\n\nThe conference follows the established three-day, three track structure, hosted for the third year in a row by Twitter HQ in its wonderful modern building, with all of its spacious tracks, community spaces, cozy booths, and the commons area where so many connections are made during the hallway track.\n\nThis year, Martin Odersky, the creator of Scala, opens the main conference on November 15. Neha Narkhede, the co-creator of Kafka and cofounder of Confluent, is keynoting the day 2.\n\nThe three tracks are\n— Functional and Thoughtful Programming\n— Reactive Microservices and Streaming Architectures\n— End-to-end Data Pipelines all the way up to Machine Learning and AI\n\nThe 100 sessions include technology leaders such as Twitter, IBM, Microsoft, Salesforce, Fauna, DataStax, Databricks, Confluent, Credit Karma, Sumo Logic, GoPro, Buoyant, Workday, Zignal Labs, and many more. We cover your tools with JetBrains, your shopping with Best Buy and Target, your vacations with HomeAway, your listening with Spotify, your viewing with Netflix, your reading with Medium, and your banking with JP Morgan Chase. The list goes on and on and on — we have the most of the advanced stacks and approaches employed by the best that Silicon Valley offers to the world at scale, shared as best practices, with code, yours to learn, take home, and build upon.\n\nOur speakers span the whole spectrum from the first-time presenters with leading companies to veterans of SBTB going all the way back to 2013, evolving their craft before our eyes. You can follow their progress by watching their previous talks on http://functional.tv and the photos of the past conferences at\nhttps://meetup.bythebay.photo/Conferences/Scale-By-the-Bay\n\nThe three panels, closing each day, are:\n\n— Thoughtful Software Engineering\n— Data Engineering for AI, and\n— Cloud, Edge, and Silver Lining.\n\nEach day begins with a hot breakfast, that begins an uninterruptible supply of Philz coffee through the whole day, and lunch is provided. On the first two days, the closing panels are followed by our signature happy hours, with great drinks, food, and conversation. The hallway tracks are legendary.\n\nSBTB is famous for its bespoke, all-day, build-yourself-a-company training. This year, we double it. Cliff Click, the legend of software engineering, is teaching a full day Advanced Software Engineering workshop on 11/13, followed by Ryan Knight, now of Fauna, leading cloud-native data pipelines on 11/14. The workshops are limited by 80 participants each.\n\nAs last year, we’ll plan an unconference track for those who want to share their ideas in an intimate setting for joint brainstorming.\n\nThe only thing moderate about SBTB is its size — we cap at 600 attendees to preserve the immediate and direct nature of the communication that happens, sparks that fly, and serendipity that always occurs. We are always sold out by the time the conference begins in November — so reserve your seat early at http://scale.bythebay.io! And enjoy the Early Bird that is in effect until August 31.",
+    "endTime": "2018-11-17T18:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/253351238/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "253351238",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scale By the Bay 2018"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2018-ryan-knight",
+  "source_url": "https://www.meetup.com/hadoopsf/events/253351238/"
+}

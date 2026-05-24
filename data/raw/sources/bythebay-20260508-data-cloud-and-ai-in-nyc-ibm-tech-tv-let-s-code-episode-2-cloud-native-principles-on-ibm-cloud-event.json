@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-08-01T12:00:00-04:00",
+    "description": "IBM Tech TV is a new, always-on platform for the latest technical talks, live demos, and updates straight from IBM experts. Catch shows focused on honing the skills relevant to the success of both your business and yourself, featuring Distinguished Engineers, developers, and executives.At launch, IBM Tech TV will be home to three free, live, and on-demand shows focused on Cloud, and Data & AI, with more shows on the way. Subscribe now and return to discover your new favorite weekly series and to explore a growing library of original, expert-produced content that you can access whenever you want!\n\nLet's Code Episode 2 Description:\nCloud offers a rich set of managed services, providing all sorts of functionality that relieve you of the headache of managing the infrastructure. Will show an application designed with Cloud Native principles in mind taking advantage of Cloud managed services. As a developer when you are aware of Cloud Native principles this enables you to architect better solutions.\n\nLet's Code Series Schedule:\nAugust 13th: Deploying a Simple Python App to OpenShift\nAugust 20th: Cloud Native Java with Quarkus\nAugust 27th: Live Coding 12-Factor App",
+    "endTime": "2020-08-01T13:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/272280312/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "272280312",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "IBM Tech TV Let's Code Episode 2: Cloud Native Principles on IBM Cloud"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-tech-tv-let-s-code-episode-2-cloud-native-principles-on-ibm-cloud-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/272280312/"
+}

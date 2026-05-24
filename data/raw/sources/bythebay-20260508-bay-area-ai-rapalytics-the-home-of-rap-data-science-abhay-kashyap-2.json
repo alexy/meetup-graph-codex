@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2015-07-14T18:30:00-07:00",
+    "description": "http://Rapalytics.com is a website dedicated to the extraction and visualization of text analytics from Rap Lyrics. Rapalytics lets you explore and compare analytics central to Rap Music such as rhyme density, vocabulary, simile usage and profanity of Artists and their Albums. The site currently features over 1000 albums from over 150 artists.\n\nFor the Rap Fans - Remember all those long drawn out arguments about who the most lyrical rapper is? You can finally put that to rest with evidence from Rapalytics!\n\nFor the NLP nerds - Standard NLP models are trained on well written and grammatical text. NLP on Rap lyrics deal with the challenges of handling noisy text with a fundamentally different grammar.\n\nData Sources: http://ohhla.com , http://musicbrainz.org , http://last.fm\n\nNLP tools used: Stanford CoreNLP, CMU LMtool, NLTK\nVisualization library: D3\n\nReddit discussion page: http://www.reddit.com/r/dataisbeautiful/comment...­\n\nAbhay Kashyap is a 4th year PhD student at the University of Maryland, Baltimore County and currently a Data Scientist Intern at @WalmartLabs, San Bruno. His interest in Rap Music coupled with his knowledge in Natural Language Processing led him to create Rapalytics.com, a website dedicated towards applying NLP techniques to Rap Lyrics.",
+    "endTime": "2015-07-14T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/223171399/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "223171399",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Rapalytics, the home of Rap Data Science!"
+  },
+  "event_id": "223171399",
+  "event_title": "Rapalytics, the home of Rap Data Science!",
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "session": {
+    "description": "http://Rapalytics.com is a website dedicated to the extraction and visualization of text analytics from Rap Lyrics. Rapalytics lets you explore and compare analytics central to Rap Music such as rhyme density, vocabulary, simile usage and profanity of Artists and their Albums. The site currently features over 1000 albums from over 150 artists. For the Rap Fans - Remember all those long drawn out arguments about who the most lyrical rapper is? You can finally put that to rest with evidence from Rapalytics! For the NLP nerds - Standard NLP models are trained on well written and grammatical text. NLP on Rap lyrics deal with the challenges of handling noisy text with a fundamentally different grammar. Data Sources: http://ohhla.com , http://musicbrainz.org , http://last.fm NLP tools used: Stanford CoreNLP, CMU LMtool, NLTK Visualization library: D3 Reddit discussion page: http://www.reddit.com/r/dataisbeautiful/comment...­ Abhay Kashyap is a 4th year PhD student at the University of Maryland, Baltimore County and currently a Data Scientist Intern at @WalmartLabs, San Bruno. His interest in Rap Music coupled with his knowledge in Natural Language Processing led him to create Rapalytics.com, a website dedicated towards applying NLP techniques to Rap Lyrics.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-rapalytics-the-home-of-rap-data-science-abhay-kashyap-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-rapalytics-the-home-of-rap-data-science-abhay-kashyap-2.json",
+    "source_id": "bythebay-20260508-bay-area-ai-rapalytics-the-home-of-rap-data-science-abhay-kashyap-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Abhay Kashyap"
+      }
+    ],
+    "title": "Rapalytics, the home of Rap Data Science!"
+  },
+  "source_id": "bythebay-20260508-bay-area-ai-rapalytics-the-home-of-rap-data-science-abhay-kashyap-2",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/223171399/"
+}

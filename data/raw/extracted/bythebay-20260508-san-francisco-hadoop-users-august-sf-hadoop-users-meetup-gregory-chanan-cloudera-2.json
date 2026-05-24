@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-august-sf-hadoop-users-meetup-gregory-chanan-cloudera-2",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-august-sf-hadoop-users-meetup-gregory-chanan-cloudera-2",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-august-sf-hadoop-users-meetup-gregory-chanan-cloudera-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-august-sf-hadoop-users-meetup-gregory-chanan-cloudera-2.json",
+  "kind": "talk",
+  "event_id": "130863422",
+  "event_title": "August SF Hadoop Users Meetup",
+  "title": "August SF Hadoop Users Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": "Gregory Chanan @ Cloudera",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/130863422/",
+  "description": "The August 2013 Hadoop meetup will be held Wednesday, August 14th from 6:00pm to 8:00pm. This meetup will be hosted by Cloudera, located at 433 California St., 11th floor, San Francisco, CA. This meetup will feature the traditional \"unconference style\" with a talk from Cloudera's Gregory Chanan, a software engineer at Cloudera, followed by breakout sessions. The following talk will be presented: \"Solr+Hadoop\" Gregory Chanan, Cloudera Recently Apache Solr has been integrated into the Hadoop ecosystem to provide full text search at \"big data\" scale. This talk will give an overview of how Cloudera tackled integrating Solr into the Hadoop ecosystem and highlight some of the design decisions and future plans. Learn how Solr is going to get closer to Hadoop, which contributions are going to what project and how you should consider tackling search at Hadoop scale in the future.",
+  "date_time": "2013-08-14T18:00:00-07:00",
+  "end_time": "2013-08-14T20:00:00-07:00"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-02-22T14:00:00-08:00",
+    "description": "IBM Index (http://chief.sc/index-2018) is a fantastic new developer conference. Register (http://chief.sc/index-2018-register) by 2/20 with the code CD3ALEXY to attend the Community Day for free and the main program for just $280.\n\nSMACK 2.0 panel (http://chief.sc/index-2018-smack20-panel) is held on 2/22 at 2pm, preceded by the SMACK 2.0 workshop (http://chief.sc/iindex-2018-smack20-workshop) on the community day (day 0, 2/20, 3-5:30pm).\n\nIn this panel, we discuss SMACK (http://smackstack.org/), the popular framework to describe and compare data pipelines. SMACK 1.0 was often composed of Spark, Mesos, Akka, Cassandra and Kafka. In SMACK 2.0, we explore emerging ways to build scalable data-heavy applications for Machine Learning, relying on Streaming, and in-Memory computing (including Spark), Model-serving, API, Cloud/Cassandra/Containers and Kubernetes (with Kafka often being the source). Instead of fixing SMACK components as we did for SMACK 1.0 — Data source, API, Compute, Persistence, Operationalization — we consider alternatives for various use cases. For instance, S will increasingly be Serverless. What are the emerging patterns, and when some of the approaches make more sense than others? Certain applications, such as Fintech, inform in-Memory computing, while others, such as IoT, favor streaming with real-time AI feedback.\n\nPanelists:\n\nNikita Ivanov, co-founder and CTO, GridGain\nSijie Guo, co-founder, Streamlio\nAnya Bida, DevOps Engineer, Salesforce\nHugh McKee, Developer Advocate, Lightbend\nThathagata Das, Software Engineer, Databricks\n\nThe SMACK 2.0 panel is preceded by the workshop (http://chief.sc/iindex-2018-smack20-workshop) during the Community Day.\n\nBoth sessions are curated and moderated by Dr. Alexy Khrabrov (http://chiefscientist.org/), the founder and organizer of Scale By the Bay and the creator of the original SMACK Stack (http://smackstack.org/) training.",
+    "endTime": "2018-02-22T17:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/247629184/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "247629184",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "SMACK 2.0: Emerging Data Pipelines Panel at Index"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo",
+  "source_url": "https://www.meetup.com/sf-scala/events/247629184/"
+}

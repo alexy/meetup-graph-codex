@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2014-09-09T19:00:00-07:00",
+    "description": "We will have two speakers, Jason Swartz and Manish Pandit, both from Netflix.\n\n1. Jason Swartz, Enterprise APIs With Ease Using Scala\n\nOur REST API server project at Netflix was a big success, resulting in\n150 web services in five months and no downtime. By taking advantage\nof self-documenting API frameworks, continuous integration with\nJSON-friendly API tests and automated deployments, we were able to\nfocus on building services that would publicize themselves. This\nsession highlights the engineering tools and processes that enable\nrapid API development, deployment and adoption. I'll cover the\nScalatra, Swagger, and ScalaTest frameworks as well as Netflix's\npush-button deployment system using Jenkins and Asgard.\n\nJason is a Software Engineer in the San Francisco Bay Area, developing applications and services in Scala at Netflix. Before making the switch to functional programming and REST API development he managed the developer docs and support team at eBay, wrote advertising and merchandising platforms in Java and built tools and UI prototypes at Apple Computer. He is working on his first book, \"Learning Scala\", to be published by O'Reilly Media.\n\n2. Manish Pandit, API Antipatterns: How to identify and avoid them\n\nAPIs have become a part of the product ecosystem - and help the businesses by extending their developer base, and offering seamless integration with other services or products. Sometimes, the APIs themselves are the product. However, with so many APIs around, patterns emerge. Patterns are repeatable, reusable solutions to commonly occurring problems. Where there are patterns, there are also antipatterns.\n\nWhile APIs are not a new paradigm - there are no set standards or specifications formed by a committees or governing bodies for APIs. On top of this, the APIs are often built at various stages of the product, and have a good chance of being disjoint as more are added. In this talk I’ll discuss various antipatterns that creep into the API design and implementation, and how to identify and avoid them. I will also share my experience with building APIs at Netflix as a reference.\n\nWhile the antipatterns do not pose as big a functional challenge, they can and do impact integration efforts, scalability and performance among other things. After my session, you should be able to get familiar with the best practices around solving the most common patterns, and make your engineers and API consumers happy!\n\nManish is an Engineering Manager in the Streaming Platforms group at Netflix. Prior to Netflix, Manish worked at IGN Entertainment, E*Trade, and Accenture in various engineering leadership roles. Manish has been working with Scala for the last 3 years, coming from a decade long Java background. Manish has spoken at various conferences and meetups in an around SF Bay Area, including JavaOne, OSCON, Silicon Valley Code Camp, and APICon SF.\n\nSchedule\n\n• 6:30-7:00 - networking\n\n• 7:00-7:10 - announcements etc\n\n• 7:10-~8:40 - talk\n\n• 8:40-9:00 - networking",
+    "endTime": "2014-09-09T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/195982742/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "195982742",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Developing API in Scala"
+  },
+  "event_id": "195982742",
+  "event_title": "Developing API in Scala",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "We will have two speakers, Jason Swartz and Manish Pandit, both from Netflix. 1. Jason Swartz, Enterprise APIs With Ease Using Scala Our REST API server project at Netflix was a big success, resulting in 150 web services in five months and no downtime. By taking advantage of self-documenting API frameworks, continuous integration with JSON-friendly API tests and automated deployments, we were able to focus on building services that would publicize themselves. This session highlights the engineering tools and processes that enable rapid API development, deployment and adoption. I'll cover the Scalatra, Swagger, and ScalaTest frameworks as well as Netflix's push-button deployment system using Jenkins and Asgard. Jason is a Software Engineer in the San Francisco Bay Area, developing applications and services in Scala at Netflix. Before making the switch to functional programming and REST API development he managed the developer docs and support team at eBay, wrote advertising and merchandising platforms in Java and built tools and UI prototypes at Apple Computer. He is working on his first book, \"Learning Scala\", to be published by O'Reilly Media. 2. Manish Pandit, API Antipatterns: How to identify and avoid them APIs have become a part of the product ecosystem - and help the businesses by extending their developer base, and offering seamless integration with other services or products. Sometimes, the APIs themselves are the product. However, with so many APIs around, patterns emerge. Patterns are repeatable, reusable solutions to commonly occurring problems. Where there are patterns, there are also antipatterns. While APIs are not a new paradigm - there are no set standards or specifications formed by a committees or governing bodies for APIs. On top of this, the APIs are often built at various stages of the product, and have a good chance of being disjoint as more are added. In this talk I’ll discuss various antipatterns that creep into the API design and implementation, and how to identify and avoid them. I will also share my experience with building APIs at Netflix as a reference. While the antipatterns do not pose as big a functional challenge, they can and do impact integration efforts, scalability and performance among other things. After my session, you should be able to get familiar with the best practices around solving the most common patterns, and make your engineers and API consumers happy! Manish is an Engineering Manager in the Streaming Platforms group at Netflix. Prior to Netflix, Manish worked at IGN Entertainment, E*Trade, and Accenture in various engineering leadership roles. Manish has been working with Scala for the last 3 years, coming from a decade long Java background. Manish has spoken at various conferences and meetups in an around SF Bay Area, including JavaOne, OSCON, Silicon Valley Code Camp, and APICon SF. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-developing-api-in-scala-o-reilly-media-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-developing-api-in-scala-o-reilly-media-2.json",
+    "source_id": "bythebay-20260508-scala-bay-developing-api-in-scala-o-reilly-media-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "O'Reilly Media"
+      }
+    ],
+    "title": "Developing API in Scala"
+  },
+  "source_id": "bythebay-20260508-scala-bay-developing-api-in-scala-o-reilly-media-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/195982742/"
+}

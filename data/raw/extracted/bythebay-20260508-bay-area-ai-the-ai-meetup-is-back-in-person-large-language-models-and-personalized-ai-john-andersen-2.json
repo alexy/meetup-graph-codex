@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-the-ai-meetup-is-back-in-person-large-language-models-and-personalized-ai-john-andersen-2",
+  "source_id": "bythebay-20260508-bay-area-ai-the-ai-meetup-is-back-in-person-large-language-models-and-personalized-ai-john-andersen-2",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-the-ai-meetup-is-back-in-person-large-language-models-and-personalized-ai-john-andersen-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-the-ai-meetup-is-back-in-person-large-language-models-and-personalized-ai-john-andersen-2.json",
+  "kind": "talk",
+  "event_id": "288827696",
+  "event_title": "The AI Meetup is Back In-Person: Large Language Models and Personalized AI!",
+  "title": "The AI Meetup is Back In-Person: Large Language Models and Personalized AI!",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": "John Andersen, Lukas Biewald, Solutions Consulting",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/288827696/",
+  "description": "Friends -- it's been a long time, but in-person meetups are coming back. It's a new territory for companies and attendees, and the space is limited. Given all RSVPs are usually gone in minutes and Show/RSVP ratio is low, we will charge a nominal fee for this one, going for pizza/beer. Please manage your RSVP diligently. We're happy to be back with our long-term friend Lukas Biewald, now the founder and CEO of Weights & Biases, at their office, and CognitiveScale. **(1) Understanding the Landscape of the Latest Large Models** There seems to be a new large ML model grabbing headlines every week. Whether it’s OpenAI’s big releases like GPT-3, Dalle-2 or Whisper, or one of the many open source projects generating state-of-the-art models, like Stable Diffusion, OpenFold or Craiyon, these models have found their way into the mainstream. Lukas invites you to the W&B office where he’ll map the landscape for you and share how these teams use W&B to accelerate their work. Speaker: **Lukas Biewald**, Founder and CEO, **Weights & Biases** **(2) AI-Powered Personalization Drives Decision Intelligence** AI-Powered Personalization drives decision intelligence through continuous learning and feedback loops. Profile-of-One, a key feature of our Cortex AI Platform allows enterprises to build a rich contextual understanding of key entities - such as customers, products, policies, claims, and providers through declared, observed and inferred data. The benefits of AI-Powered Personalization include acquiring new customers, delivering exceptional customer service, and engaging better with existing customers. Speaker: **John Andersen** is CognitiveScale’s VP, Solutions Consulting and Architecture. He is a proven technical leader with experience in engineering, customer success, and sales. John has hands-on experience building & leading successful large-scale enterprise solutions that have scaled to millions of end users, as well as industry experience working with large enterprises to influence AI roadmaps through personalization, trusted AI, and repeatable architectural framework initiatives. Prior to John's tenure at CognitiveScale, he was part of the IBM Watson Labs team as a Technical Architect & NLP Developer focused on Embodied Cognition. There’ll be pizza & drinks.",
+  "date_time": "2022-10-18T17:00:00-07:00",
+  "end_time": "2022-10-18T19:00:00-07:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-deploy-ai-community-day-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-deploy-ai-community-day-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-deploy-ai-community-day-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-deploy-ai-community-day-event.json",
+  "kind": "event",
+  "event_id": "269183438",
+  "event_title": "Deploy AI - Community Day",
+  "title": "Deploy AI - Community Day",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/269183438/",
+  "description": "REGISTER HERE FOR THIS FREE EVENT: http://bit.ly/3cw8Pw0 This event is Eastern Standard Time. Please adjust to your location. Event is on-line. Scrupulously managed data and open source software projects are changing the way we build AI products. Together, they are the backbone of today’s cloud deployment. IBM will be hosting a 1-day AI virtual conference on March 10, 2020. Follow along with the 25+ speakers sharing their knowledge on topics of AI Models, Open Source AI, and AI Infrastructure. Deploy AI is the preeminent virtual conference for data science experts. Talk to our experts about what comes next. John this conference to learn about why you need to utilize your investments of time and manpower and get ready to deploy AI. Register here: http://bit.ly/3cw8Pw0",
+  "date_time": "2020-03-10T08:00:00-04:00",
+  "end_time": "2020-03-10T17:00:00-04:00"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-10-17T18:30:00-07:00",
+    "description": "Embedded domain specific languages (EDSLs) are a powerful tool for abstracting complexities such as effects and business logic from our programs. Instead of mixing ad-hoc error handling, database access, and web calls through our code, we isolate each domain into a little language. These little languages can then be used to write “mini-programs” describing, for example, how to create a web page for a user.\n\nOur program then becomes a composition of mini-programs, and running our program becomes interpreting these mini-programs into actions.\n\nIn this talk we'll explore two ways of encoding monadic EDSLs in Scala and explore the tradeoffs between the two.\n\nBio\n\nAdelbert is a Software Engineer at Box and a recent graduate from UC Santa Barbara where he studied Computer Science and researched graph querying and modeling. He enjoys programming with an FP flavor and learning more about programming.\n\nSchedule\n\n• 6:30-7:00 - networking\n• 7:00-7:10 - announcements etc\n• 7:10-~8:40 - talk\n• 8:40-9:00 - networking\n\nParking\n\nFeel free to park in the Box parking garage, make sure to take a ticket and keep it with you. On your way out from the event you can stop by the security desk on the first floor and have them validate your ticket so you don't have to pay when exiting the garage.\n\n----------\n\nEDIT: Looks like \"Monadic EDSLs\" got the most votes in the polls, so monadic EDSLs it is! For those who have seen the one hundred Free monad talks out there, worry not. I will be talking about Free monads, but I'll also show another way of encoding EDSLs and comparing and contrasting them!\n\nPrior content left here for posterity, but polls are now closed!\n\n----------\n\nSo there's a couple of things I can talk about and I wasn't sure which one to pick, so I figure I'd let you folks pick. Among the topics I can talk about are:\n\n• Correct by construction programming - compiler-enforced invariant-respecting programming\n\n• Introduction/design/implementation/uses of Shapeless (https://github.com/milessabin/shapeless)\n\n• Monadic embedded domain-specific languages\n\nVote here! https://www.meetup.com/Scala-Bay/polls/1232260/\n\nI'm going to make a decision on the results Saturday Sept 24, so vote soon!",
+    "endTime": "2016-10-17T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/230428555/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "230428555",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Adelbert Chang, Monadic embedded domain-specific languages"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-adelbert-chang-monadic-embedded-domain-specific-languages-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/230428555/"
+}

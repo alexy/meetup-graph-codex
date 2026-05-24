@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-11-05T12:00:00-08:00",
+    "description": "Scale By the Bay 2020 (https://scale.bythebay.io) begins on November 12 with a keynote by Martin Odersky. We eagerly anticipate Scala 3 becoming ready for production.\n\nScala 3 introduces significant changes to Scala that address many known limitations and pain points and sets the stage for future growth of the language. At the same time, Scala 3 attempts to make migration as painless as possible.\n\nWhile researching the forthcoming Third Edition of Programming Scala, which focuses on Scala 3, I learned a lot about the changes and developed opinions about their strengths and weaknesses. I'll demonstrate several of the more important changes and offer my thoughts about them in this talk.\n\nSpeaker Bio\n\nDean (@deanwampler) is the founder of Chicago Area Scala Enthusiasts and a Principal Software Engineer at Domino Data Lab (we're hiring!), where he works on various aspects of the Domino platform for data scientists. He's working on the third edition of O'Reilly's \"Programming Scala\", which covers Scala 3.",
+    "endTime": "2020-11-05T14:00:00-08:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/274111863/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "274111863",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "What's New in Scala 3?"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-what-s-new-in-scala-3-martin-odersky",
+  "source_url": "https://www.meetup.com/sf-scala/events/274111863/"
+}

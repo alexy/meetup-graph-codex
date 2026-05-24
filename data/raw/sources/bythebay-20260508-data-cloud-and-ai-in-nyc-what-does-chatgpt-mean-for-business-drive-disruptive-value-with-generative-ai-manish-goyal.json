@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-03-22T13:00:00-04:00",
+    "description": "**Summary**\nDiscover how, why, and if your business should be leveraging generative AI like ChatGPT, looking at both the promise and perils associated with monetizing this emerging technology.\n\n**Register for this Webcast** at: **[https://ibm.webcasts.com/starthere.jsp?ei=1602956&tp_key=ea866bfe71](https://ibm.webcasts.com/starthere.jsp?ei=1602956&tp_key=ea866bfe71)**\n\n**During the session, our experts will discuss:**\n\n* Innovations like Foundation Models, and Generative AI that drove the phenomenal success of services such as OpenAI’s ChatGPT, and DALL-E. Learn how they differ from existing AI offerings.\n* Real-world use cases of how enterprises are already deriving business value from Generative AI.\n* Understand the potential challenges such as bias, hallucination, security, IP, cost, and more.\n* How enterprises can responsibly and securely deploy these models at scale.\n\nJoin IBM Consulting as we share our point-of-view around how enterprises can best drive value from Generative AI & Foundation Models in a responsible way and scale it across your business.\n\nYou will gain an understanding of real-world client examples, business potential, and how to mitigate the pitfalls of this new AI technology.\n\n**Key Speakers:**\n\n* **Manish Goyal**, VP & Sr. Partner, Global AI & Analytics Leader, IBM Consulting\n* **Shobhit Varshney**, VP & Sr. Partner, Americas AI Analytics Leader Consulting",
+    "endTime": "2023-03-22T14:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/292217300/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "292217300",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "What does ChatGPT mean for business? - Drive disruptive value with Generative AI"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-what-does-chatgpt-mean-for-business-drive-disruptive-value-with-generative-ai-manish-goyal",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/292217300/"
+}

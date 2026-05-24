@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-machine-learning-workflows-at-scale-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-machine-learning-workflows-at-scale-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-machine-learning-workflows-at-scale-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-machine-learning-workflows-at-scale-event.json",
+  "kind": "event",
+  "event_id": "256079698",
+  "event_title": "Machine Learning Workflows at Scale",
+  "title": "Machine Learning Workflows at Scale",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/256079698/",
+  "description": "You must RSVP here: https://www.meetup.com/futureofdata-princeton/events/254821251/ Please join IBM and Hortonworks for an evening discussing how to manage machine learning workflows at scale. We'll be focusing on the latest version of Hortonworks Data Platform and its integration with IBM's data science platform, Watson Studio Local. Fancy food and drinks will be served from Zoe's Kitchen!",
+  "date_time": "2018-11-14T18:00:00-05:00",
+  "end_time": "2018-11-14T20:00:00-05:00"
+}

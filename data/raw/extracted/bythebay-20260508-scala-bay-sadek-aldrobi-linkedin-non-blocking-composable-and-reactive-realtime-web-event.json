@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-sadek-aldrobi-linkedin-non-blocking-composable-and-reactive-realtime-web-event",
+  "source_id": "bythebay-20260508-scala-bay-sadek-aldrobi-linkedin-non-blocking-composable-and-reactive-realtime-web-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-sadek-aldrobi-linkedin-non-blocking-composable-and-reactive-realtime-web-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-sadek-aldrobi-linkedin-non-blocking-composable-and-reactive-realtime-web-event.json",
+  "kind": "talk",
+  "event_id": "88983192",
+  "event_title": "Sadek Aldrobi @ LinkedIn - Non-blocking, composable and reactive realtime web",
+  "title": "Sadek Aldrobi @ LinkedIn - Non-blocking, composable and reactive realtime web",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/88983192/",
+  "description": "Play is a modern web application framework empowered by the JVM and featuring simplicity and high scalability on top of its web-friendly architecture. One of the major focuses of the Play framework is supporting real-time web apps. Real-time apps provide continuous client/server communication using technologies like websockets, server-sent events and comet. The real-time web opens a new horizon of possibilities and opportunities for web applications. In this talk we will look into Play's reactive and non-blocking architecture based on Scala futures and iteratees. We will also see how this architecture not only provides a solid core for scaling these kinds of apps but also responds to the urgent need for a programming model that embraces the complexity of real-time web. It provides, indeed, all the necessary tools for manipulating streams of data at the appropriate level of detail. The talk will feature demos and code samples for illustration. The code examples will be written for Play 2.1, Scala 2.10 and the few lines of JavaScript necessary to support the Scala examples. The concepts will be equally applicable to Play 2.0 and Scala 2.9. As usual, the schedule for the event is: 6:30 - networking, food 7:00 - announcements 7:10 - presentation 8:30 - Q&A, more networking afterward We will give away copies of IntelliJ IDEA 11 and JRebel for personal use. Two e-copies of \"Monadic Design Patterns\", published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile. This event will be recorded but not streamed. Tweets will be tagged with #scalasv. http://qconlondon.com/dl/photos/speakers/sadache%20aldrobi.jpg About the Speaker Sadek Drobi is CTO of Zenexity and a Play2 co-creator. As a core Play developer, he works on the design and implementation of the framework. Twitter: @sadache (https://twitter.com/Sadache) Blog: http://sadache.tumblr.com",
+  "date_time": "2012-11-07T18:30:00-08:00",
+  "end_time": "2012-11-07T21:00:00-08:00"
+}

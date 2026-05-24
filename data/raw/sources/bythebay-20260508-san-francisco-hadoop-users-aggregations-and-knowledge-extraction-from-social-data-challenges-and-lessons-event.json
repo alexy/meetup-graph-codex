@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2019-01-15T18:00:00-08:00",
+    "description": "This is a crosspost from the Bay Area AI -- register there to attend!\n\nhttps://www.meetup.com/bay-area-ai/events/257791863/\n\nThis talk is about the construction of new data assets from social media using techniques drawn from the areas of information retrieval, machine learning, graphs, and social networks. I’ll describe three projects based on Twitter and Foursquare data sets that use social data in different ways to help users in information seeking scenarios. The first one, a recommender system for recreational queries using location-based social networks. The second project, a social knowledge graph derived from Twitter with the goal of discovering relationships between people, links, and topics. And the third one, an application for archiving and Wikification of stories.\n\nOmar Alonso is a Principal Applied Scientist with Microsoft where he works on the intersection of information retrieval, social data, human computation, and knowledge graph generation. He is the co-chair of the Human Computation and Crowdsourcing track at WWW'19 and on the organizing committee for HCOMP'19.",
+    "endTime": "2019-01-15T20:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/258047539/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "258047539",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Aggregations and knowledge extraction from social data: challenges and lessons"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-aggregations-and-knowledge-extraction-from-social-data-challenges-and-lessons-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/258047539/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-01-31T08:00:00-05:00",
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.**\nWe will provide an introduction and overview of quantum computing and IBM Quantum. This will include a discussion on the motivation for quantum computing and how quantum computers work.\n\nNext, we will examine the types of problems to which quantum computing might be applied. The development roadmap will be presented. The IBM Quantum platform, which provides the tooling and interfaces for programming IBM quantum computers, will be introduced.\n\nFinally, we will highlight the IBM Quantum ecosystem which includes the IBM Quantum Network and the Qiskit community. After this session you should be empowered with the knowledge and resources you need to begin your quantum computing journey.\n\nNote that this is part 1 of an 11-session Quantum Series running from January to June. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions.\n\n**Presenter:** **Henrik Vosegaard**\n\n**Henrik Vosegaard** is an IT Solution Architect in IBM Consulting and an IBM Quantum Ambassador. He works mainly on public IT infrastructure engagements, often with a focus on security aspects.\nHenrik holds a Ph.D. in Mathematics and a B.Sc. in Computer Science from Aarhus University and is an experienced teacher and presenter.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/ra9c1d3e2a64293fd14612ed3b36ce69b](https://ibm.webex.com/weblink/register/ra9c1d3e2a64293fd14612ed3b36ce69b)**",
+    "endTime": "2024-01-31T09:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/297911086/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "297911086",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Quantum Series Part 1: Introduction to Quantum Computing"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-henrik-vosegaard",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/297911086/"
+}

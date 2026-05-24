@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-david-pollak-getting-pushy-pushing-data-from-server-to-browser-event",
+  "source_id": "bythebay-20260508-scala-bay-david-pollak-getting-pushy-pushing-data-from-server-to-browser-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-david-pollak-getting-pushy-pushing-data-from-server-to-browser-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-david-pollak-getting-pushy-pushing-data-from-server-to-browser-event.json",
+  "kind": "event",
+  "event_id": "127433452",
+  "event_title": "David Pollak: \"Getting Pushy: pushing data from server to browser\"",
+  "title": "David Pollak: \"Getting Pushy: pushing data from server to browser\"",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/127433452/",
+  "description": "Join David Pollak, Lift’s founder, as he walks through Lift’s design decision and then see those same design decisions applied to a Clojure/ClojureScript/AngularJS side project that David has been working on. As single page web applications and dynamic updating applications become the way that web applications are delivered, pushing data from the server to the client when there’s state change server-side keeps the applications “alive” and doing server-push via REST is a challenge. Doing server-push via web sockets has limitations related to how many open connections to a given host are allowed by the client. The Lift web framework has excellent support for server-push technology that abstracts the delivery mechanism from the delivery itself so that the browser and server can deal with lost connections, connection starvation, etc. without involving the application developer. Schedule: 6:30-7:00 - networking 7:00-7:10 - announcements etc 7:10-~8:40 - David talk 8:40-9:00 - networking",
+  "date_time": "2013-08-12T19:00:00-07:00",
+  "end_time": "2013-08-12T22:00:00-07:00"
+}

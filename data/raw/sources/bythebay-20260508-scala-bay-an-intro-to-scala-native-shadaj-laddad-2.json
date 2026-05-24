@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2017-08-14T18:30:00-07:00",
+    "description": "An Intro to Scala Native, by Shadaj Laddad\n\nAbstract\n\nThis talk will introduce the basic concepts of Scala Native, a Scala to LLVM compiler, such as how it works, where it can be used, and how to use it in your own projects! In this talk, we will work through implementing a simple project in Scala Native and will discuss future improvements to Scala Native and its ecosystem of ported Scala libraries.\n\nBio\n\nShadaj loves to program. He is fluent in many programming languages, with Scala being his favorite for its combination of functional and object-oriented concepts. Shadaj hosts his projects on GitHub, and has a channel on YouTube. He has presented at OSCON 2014, Scala Days (2012, 2013, 2014, 2015, 2016, 2017), Scala By the Bay, and the Bay Area Scala Enthusiast group showing his Scala projects. Shadaj is currently the Co-President of Lynbrook Robotics, his high-school robotics team. He has interned at Meteor Development Group, Khan Academy, Coursera, and Paya Labs working with technologies such as React.js, Play! Framework, and Scala.js to develop educational platforms. When not doing his school work or programming he plays the sitar, an Indian classical instrument and volunteers at a local non-profit music organization.\n\nSchedule\n\n• 6:30-7:00 - networking\n• 7:00-7:10 - announcements etc.\n• 7:10-8:00 - talk\n• 8:00-8:30 - networking",
+    "endTime": "2017-08-14T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/239831257/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "239831257",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "An Intro to Scala Native"
+  },
+  "event_id": "239831257",
+  "event_title": "An Intro to Scala Native",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "An Intro to Scala Native, by Shadaj Laddad Abstract This talk will introduce the basic concepts of Scala Native, a Scala to LLVM compiler, such as how it works, where it can be used, and how to use it in your own projects! In this talk, we will work through implementing a simple project in Scala Native and will discuss future improvements to Scala Native and its ecosystem of ported Scala libraries. Bio Shadaj loves to program. He is fluent in many programming languages, with Scala being his favorite for its combination of functional and object-oriented concepts. Shadaj hosts his projects on GitHub, and has a channel on YouTube. He has presented at OSCON 2014, Scala Days (2012, 2013, 2014, 2015, 2016, 2017), Scala By the Bay, and the Bay Area Scala Enthusiast group showing his Scala projects. Shadaj is currently the Co-President of Lynbrook Robotics, his high-school robotics team. He has interned at Meteor Development Group, Khan Academy, Coursera, and Paya Labs working with technologies such as React.js, Play! Framework, and Scala.js to develop educational platforms. When not doing his school work or programming he plays the sitar, an Indian classical instrument and volunteers at a local non-profit music organization. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc. • 7:10-8:00 - talk • 8:00-8:30 - networking",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-an-intro-to-scala-native-shadaj-laddad-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-an-intro-to-scala-native-shadaj-laddad-2.json",
+    "source_id": "bythebay-20260508-scala-bay-an-intro-to-scala-native-shadaj-laddad-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Shadaj Laddad"
+      }
+    ],
+    "title": "An Intro to Scala Native"
+  },
+  "source_id": "bythebay-20260508-scala-bay-an-intro-to-scala-native-shadaj-laddad-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/239831257/"
+}

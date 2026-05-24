@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-11-02T18:00:00-07:00",
+    "description": "This is a joint meetup with SF Scala -- RSVP only there (https://www.meetup.com/preview/SF-Scala/events/244070797) please!\n\nScale By the Bay (http://scale.bythebay.io/) is a month away. Functional Programming, Reactive Microservices, Fast Data: 100+ speakers, 3 days, 3 tracks, 3 Happy Hours, fireside chats, Istio/Envoy workshops, and more! Reserve your seat while supply lasts (http://scale.bythebay.io/tickets.html).\n\n-------------------------\n\nAs Martin Odersky explained in his Big Data Scala keynote, Spark is a Scala DSL (https://youtu.be/NW5h8d_ZyOs) for data operations. The \"big\" means that Scala Collections API is lifted onto a cluster. Spark does its job best when you don't even notice it's there, simply invoking Scala methods on collections, and it's making the collections aggregating the memory of a cluster \"just work\".\n\nWhen you ask why, around 2012, Spark shot up in popularity, first among Scala developers, when we spun the original Spark Users meetup off of SF Scala, you would hear: Scala Collections API. Any method you would expect, such as map, reduce, and filter, is indeed there, named intuitively. Spark did a great job taking that and popularizing it among people new to Functional Programming, such as data scientists.\n\nBut if you ask, what lays at the root of the collections, and most of FP in practice, it is a fold.\n\nIn this talk, Gabriel Claramunt, one of the shining teaching stars in the firmament of Scala community world-wide, will tell you all about it.\n\n--------------------\n\nAll About a Fold\nGabriel Claramunt\n\nFolds are the bread and butter of functional programming, but what are they, really? What do they mean? Let's take a look how folds encode structural recursion. We'll move beyond folding over lists by generalizing to any data structure, and in the process, we'll unravel the secrets behind folding.\n\nGabriel was a happy enterprise developer until he found Scala, fell in love with FP, ruining his life. He has written software for a wide range of businesses, from small startups to Fortune 500 companies and Wall Street banks. After roaming around the Americas, he settled in his home country of Uruguay, where he founded Scalents, a Scala/FP consulting company.",
+    "endTime": "2017-11-02T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/244071065/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "244071065",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[RSVP at SF Scala Only!] All About a Fold"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-sf-scala-only-all-about-a-fold-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/244071065/"
+}

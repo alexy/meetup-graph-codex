@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-11-14T12:00:00-08:00",
+    "description": "We are incredibly happy to report that Haoyi Li, the tireless driver of Scala.js education and adoption, is leading the SF Scala.js 2016 Learning Session immediately following Scalæ By the Bay (where he is a speaker). Since Haoyi moved back to Singapore, this is a unique opportunity to learn from him directly.\n\nThere's a lot of interest, but not enough knowledge, among the backend Scala developers (the majority) to self-start a Scala.js project. Join us to learn the basics of using Scala in the browser and build your first end-to-end Scala application.\n\nWe will cover the basics of Scala.js, interacting with the HTML DOM and native JavaScript, sharing code with the server, and help you use this knowledge to build a basic full-stack Scala application. We'll have TA's Jakob Odersky, Stewart Stewart, and Ignacio Cases available to help with questions course throughout the day.\n\nAgenda:\n\n• 12pm - 3pm: Tutorial\n\n• 3pm - 6pm: Semi-structured work time\n\n• 6pm: Demos and conclusions\n\nUpdate: the workshop will be immediately followed by the inaugural GraphQL meetup (http://sfgraphql.org). We are incredibly grateful to Zenefits to hosting both back to back. Many companies present at the first GraphQL Summit use GraphQL to replace REST, as Facebook did -- but with Scala (Sangria) on the backend. Notably, Coursera and Credit Karma, and Project September, all speaking at SBTB. We'll switch to GraphQL mode around 7pm. Please join the meetup there if you want to stay for that and get another pizza (or a slice at least:).",
+    "endTime": "2016-11-14T15:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/233628295/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "233628295",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala.js Workshop followed by the new GraphQL Meetup"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-scala-js-workshop-followed-by-the-new-graphql-meetup-credit-karma",
+  "source_url": "https://www.meetup.com/sf-scala/events/233628295/"
+}

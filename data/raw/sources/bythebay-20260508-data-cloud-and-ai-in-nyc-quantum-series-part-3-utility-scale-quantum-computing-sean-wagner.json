@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-02-28T08:00:00-05:00",
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.**\nDescription to be added at a later date.\n\nNote that this is part 3 of an 11-session Quantum Series running from January to June. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions.\n\n**Presenter:** **Sean Wagner**\n\n**Sean Wagner** is a Research Scientist and a Quantum Technical Ambassador at IBM. When he's not programming and experimenting with Qiskit, Sean spends his time working with researchers at academic institutions and industry partners in Canada on projects involving high-performance computing, hardware acceleration, quantum computing, and data science and AI.\n\nSean holds a B.A.Sc. degree in Computer Engineering from the University of Waterloo, and M.A.Sc. and Ph.D. degrees in Electrical and Computer Engineering from the University of Toronto.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/rbf96442acced45def117b20d29f935ca](https://ibm.webex.com/weblink/register/rbf96442acced45def117b20d29f935ca)**",
+    "endTime": "2024-02-28T09:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/297915961/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "297915961",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Quantum Series Part 3: Utility Scale Quantum Computing"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-3-utility-scale-quantum-computing-sean-wagner",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/297915961/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-andrew-kuhnhausen-on-type-classes-followed-by-unmeetup-domino-data-lab-event",
+  "source_id": "bythebay-20260508-sf-scala-andrew-kuhnhausen-on-type-classes-followed-by-unmeetup-domino-data-lab-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-andrew-kuhnhausen-on-type-classes-followed-by-unmeetup-domino-data-lab-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-andrew-kuhnhausen-on-type-classes-followed-by-unmeetup-domino-data-lab-event.json",
+  "kind": "unconference",
+  "event_id": "239465355",
+  "event_title": "Andrew Kuhnhausen on Type Classes, followed by UnMeetup @ Domino Data Lab",
+  "title": "Andrew Kuhnhausen on Type Classes, followed by UnMeetup @ Domino Data Lab",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "unconference"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/239465355/",
+  "description": "Scala as an Object-Functional language has an almost endless supply of options to tackle the day-to-day problems that we run into as developers. However, it's often not clear when to choose one option over another. Type-classes provide a simple solution to several problem spaces -- often filling the gaps that other traditional solutions fail to fill. In my talk, I will iterate over a real-world problem using common tools made available by Scala to help gain some intuition about how type-classes work and why they are useful. Most importantly, since type-classes can be used to completely replace entire features of the Scala language, I give some concrete examples of pragmatic use-cases to show some insight into where and when to apply type-classes to day-to-day problems. Andrew Kuhnhausen is a software engineer at Domino Data Lab. Time permitting, we'll continue after the talk with an UnMeetup (a casual community-driven, hands-on meetup modeled after unconferences (https://en.wikipedia.org/wiki/Unconference)). Agenda 6:00 - Doors Open 6:30 - Andrew's talk followed by UnMeetup 8:55 - Wrap up and take the party elsewhere About Domino Data Lab (Venue) At Domino Data Lab we are accelerating the evolution of data science through the creation of a scalable, centralized platform that allows for rapid model development and collaborative research. Our platform enables data scientists to develop better medicines, grow more productive crops, build better cars, or simply recommend the best song to play next. Our small team of 15 engineers has built the platform with Scala & Docker: https://www.dominodatalab.com/careers",
+  "date_time": "2017-05-16T18:00:00-07:00",
+  "end_time": "2017-05-16T21:00:00-07:00"
+}

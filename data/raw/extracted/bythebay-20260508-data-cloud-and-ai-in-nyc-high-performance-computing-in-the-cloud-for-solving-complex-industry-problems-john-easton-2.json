@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-high-performance-computing-in-the-cloud-for-solving-complex-industry-problems-john-easton-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-high-performance-computing-in-the-cloud-for-solving-complex-industry-problems-john-easton-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-high-performance-computing-in-the-cloud-for-solving-complex-industry-problems-john-easton-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-high-performance-computing-in-the-cloud-for-solving-complex-industry-problems-john-easton-2.json",
+  "kind": "talk",
+  "event_id": "293995107",
+  "event_title": "High Performance Computing in the cloud for solving complex industry problems",
+  "title": "High Performance Computing in the cloud for solving complex industry problems",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "John Easton, John Easton John",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/293995107/",
+  "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.** While both cloud computing and high performance computing (HPC) are mature domains with decades of history between them, the intersection between these two is still in its infancy. HPC is used in industries as diverse as finance, life sciences, automotive and electronic design. Cloud is used by pretty much everyone (whether they realise it or not!). As organisations increasingly look to clouds as a means of fulfilling their growing HPC demands, a variety of new use cases are starting to emerge. This session will build upon the experiences of a number of organisations in different industry sectors; finance, automotive, electronics and academic research; who are creating hybrid HPC environments. We will explore and explain some of the technical (and business) challenges to be overcome and the ways that these can be addressed. We will further look to how this space will continue to evolve as new computing paradigms also start to play their role. **Presenter: John Easton** John is an IBM Distinguished Engineer currently leading a team of technical professionals helping large enterprise clients on their journeys to successful cloud computing. He is internationally known for his work helping commercial clients exploit large scale distributed computing infrastructures, particularly those utilising new and emerging technologies. He has worked with clients in a wide range of industries with a particular focus on banks and financial markets firms. He also has significant experience in the telecommunications sector. Previous to his many cloud computing roles for IBM, John led a pan-European team building infrastructures to support client big data and advanced analytical workloads. Over his time at IBM, John has led initiatives around hybrid systems, computational acceleration, grid computing, energy efficiency and mission-critical systems. John is a member of the IBM Academy of Technology and a Fellow of both the Institute for Engineering and Technology and the British Computer Society. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r6a5a078224ad4bf372c1f214a815f5f5](https://ibm.webex.com/weblink/register/r6a5a078224ad4bf372c1f214a815f5f5)**",
+  "date_time": "2023-08-16T08:00:00-04:00",
+  "end_time": "2023-08-16T09:00:00-04:00"
+}

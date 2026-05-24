@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-09-17T08:00:00-04:00",
+    "description": "Today's enterprise IT landscapes are complex, with diverse integrations, on-prem and multi-cloud deployments, multiple gateways, and more. Gaining control over this complexity is critical to maintaining the agility necessary to succeed. Learn how a hybrid control plane can help you manage this complexity from a single place, even when execution is distributed among multiple environments.\n\nWith IBM's Hybrid Control Plane, enterprises can gain unified visibility and centralized control over multiple integration patterns — across on-prem, cloud, and hybrid environments—helping reduce silos, improve governance, and simplify operations.\n\nAttend this webinar and learn how you can:\n\n* Address issues faster - Streamline monitoring and troubleshooting, improving response times and reducing the burden on IT teams\n* Accelerate time to value - Onboard and deploy integrations faster\n* Manage across your entire ecosystem - Gain visibility and governance across third-party tools and platforms, supporting a vendor-neutral integration strategy\n\n[Check the reg page for details and to RSVP](https://ibm.webcasts.com/starthere.jsp?ei=1726368&tp_key=0f6fd5b990&sti=developer)!",
+    "endTime": "2025-09-17T09:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/311006733/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "311006733",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Increase visibility and control across hybrid environments"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-increase-visibility-and-control-across-hybrid-environments-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/311006733/"
+}

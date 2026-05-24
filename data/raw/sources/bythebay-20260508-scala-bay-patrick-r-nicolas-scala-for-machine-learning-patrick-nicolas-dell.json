@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-07-27T19:00:00-07:00",
+    "description": "Title:\n\nScala for Machine Learning\n\nAbstract:\n\nWhat makes Scala particularly suitable to implement machine learning techniques?\nThe presentation introduces some of the features of Scala critical in building scientific and data mining applications:\n1. Implementation of mathematical abstractions (monadic kernels..)\n2. Dynamic instantiation of data transformations and workflows (dependency injection)\n3. Scalable execution (streaming, data flow control)\n\nNote: Knowledge machine learning is not a pre-requisite to understand the concepts in the presentation\n\nBio:\n\nPatrick Nicolas is a lead R&D engineer at Dell (Santa Clara). He has 25+ years experience in software engineering, building large scale applications using C++, Java and Scala. His interests include real-time data analytics, modeling and information geometry.\nHe is the author of \"Scala for Machine Learning\" Packt Publishing ISBN: 978-1-783355-874-2 2014\n\nSchedule\n\n• 6:30-7:00 - networking\n\n• 7:00-7:10 - announcements etc\n\n• 7:10-~8:40 - talk\n\n• 8:40-9:00 - networking",
+    "endTime": "2015-07-27T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/223478413/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "223478413",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Patrick R. Nicolas, \"Scala for Machine Learning\""
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-patrick-r-nicolas-scala-for-machine-learning-patrick-nicolas-dell",
+  "source_url": "https://www.meetup.com/scala-bay/events/223478413/"
+}

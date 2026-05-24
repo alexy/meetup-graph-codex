@@ -1,0 +1,22 @@
+{
+  "id": "talk:ai-by-the-bay:bythebay-20260508-securing-ai-agents-on-the-open-web-one-task-one-browser-francis-bouvier-lightpanda",
+  "source_id": "bythebay-20260508-securing-ai-agents-on-the-open-web-one-task-one-browser-francis-bouvier-lightpanda",
+  "source_file": "data/raw/sources/bythebay-20260508-securing-ai-agents-on-the-open-web-one-task-one-browser-francis-bouvier-lightpanda.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-securing-ai-agents-on-the-open-web-one-task-one-browser-francis-bouvier-lightpanda.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "Securing AI agents on the open web: one task, one browser.",
+  "conference_id": "ai-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Francis Bouvier, CEO @ Lightpanda",
+  "tags": [
+    "Agentic AI",
+    "AI Infrastructure",
+    "AI Security"
+  ],
+  "url": "https://ai.bythebay.io/talks/securing-ai-agents-on-the-open-web-one-task-one-browser",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

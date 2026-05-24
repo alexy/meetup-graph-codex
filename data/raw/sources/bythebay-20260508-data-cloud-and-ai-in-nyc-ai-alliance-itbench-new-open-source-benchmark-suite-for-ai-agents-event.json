@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-06-12T12:00:00-04:00",
+    "description": "[ITBench](https://github.com/IBM/ITBench) is a new open-source benchmark suite designed to evaluate AI agents in real-world IT environments across 3 key areas:\n\n* Site Reliability Engineering (#SRE)\n* Financial Operations (#FinOps)\n* Compliance & Security Operations (#CISO)\n\nThe ITBench SaaS offering covers the entire workflow – from environment deployment, scenario setup, and agent evaluations, making it easy to test and compare your AI solutions.\n\nSee the public leaderboards on GitHub here: https://github.com/IBM/ITBench-Leaderboard\n\nHear IBM Distinguished Engineer and Master Inventor, Ruchi Mahindru, explain how IT Bench can help businesses mitigate risk across large-scale systems.\n\n**Join the community**\n\n* Subscribe to the AI Alliance community newsletter (see [sign-up form at the bottom of the homepage](https://thealliance.ai))\n* Join the AI Alliance Discord: https://discord.gg/ntG3yqSr\n\n**About the AI Alliance**\n\nThe [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+    "endTime": "2025-06-12T13:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/308436218/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "308436218",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] ITBench - New Open-Source Benchmark Suite for AI Agents"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-itbench-new-open-source-benchmark-suite-for-ai-agents-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/308436218/"
+}

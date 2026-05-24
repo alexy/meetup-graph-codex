@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-02-27T09:00:00-05:00",
+    "description": "This event is a series of online webinars. Register for one event or all of the events. Event is each Thursday in February. Event is Pacific Standard Time. Please adjust to your location.\n\nRegister at the link below to access recordings.\n\nWe know you move fast and like to learn from the best. That’s why we’re providing weekly webinars to accelerate your learning in data science every Thursday at noon Eastern (9am Pacific ) in February. Join our IBM data science experts live to\n- brush up on the basics of using data science\n- get up to speed on new innovations\n- get live answers to all your questions\n\nYou can take your data science and AI initiatives up a notch by learning how to use the newest features from IBM Data Science, including Cloud Pak for Data, Watson Studio, Watson Machine Learning and Watson OpenScale.\n\nRegister now and get ready to fast-track your success in data science and AI.\n\nhttps://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=meetup&eventid=2171948&sessionid=1&key=92183C76B77CC0F58D0DBDEC0FF6944B®Tag=775767&sourcepage=register",
+    "endTime": "2020-02-27T10:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/268477739/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "268477739",
+    "isOnline": false,
+    "status": "CANCELLED",
+    "title": "Data Science and AI - Accelerate your learning"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-data-science-and-ai-accelerate-your-learning-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/268477739/"
+}

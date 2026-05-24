@@ -1,0 +1,21 @@
+{
+  "id": "talk:ai-by-the-bay:bythebay-20260508-spec-driven-development-ai-assisted-coding-with-documentation-at-the-core-bruno-borges-microsoft",
+  "source_id": "bythebay-20260508-spec-driven-development-ai-assisted-coding-with-documentation-at-the-core-bruno-borges-microsoft",
+  "source_file": "data/raw/sources/bythebay-20260508-spec-driven-development-ai-assisted-coding-with-documentation-at-the-core-bruno-borges-microsoft.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-spec-driven-development-ai-assisted-coding-with-documentation-at-the-core-bruno-borges-microsoft.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "Spec Driven Development: AI Assisted Coding With Documentation at the Core",
+  "conference_id": "ai-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Bruno Borges, Principal Product Manager @ Microsoft",
+  "tags": [
+    "AI Native Coding",
+    "OSS AI"
+  ],
+  "url": "https://ai.bythebay.io/talks/spec-driven-development",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

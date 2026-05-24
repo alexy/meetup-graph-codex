@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-03-18T20:00:00-04:00",
+    "description": "Open your Data Potential: Innovation in Hadoop, Spark, R and Streaming Driving Better Outcomes for Enterprises and Entrepreneurs.\n\nCalling all Big Data Entrepreneurs! At Spark Summit or Structure Data? Or just interested in how big data can help make the world a better place?\n\nJoin Crisis Text Line (http://www.crisistextline.org/), DataCamp (https://www.datacamp.com/), DataKind (http://www.datakind.org/) and IBM at Techstars (http://www.techstars.com/program/locations/nyc/) NYC to talk Big Data and share ideas about the latest technology innovations that are driving social change today.\n\nSign up, grab a friend (or come meet new friends) and join us for great company, great ideas and great fun.\n\nSpace is limited so RSVP quickly!!!",
+    "endTime": "2015-03-18T21:30:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/220977338/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "220977338",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Open your Data Potential !!"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-open-your-data-potential-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/220977338/"
+}

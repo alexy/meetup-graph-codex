@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-08-08T04:00:00-04:00",
+    "description": "**The Landscape of AI Agents and Identity**\n\nAs AI agents grow more autonomous and pervasive—powering workflows, interfacing with users, and making decisions—the question of trust becomes unavoidable. Who are these agents acting on behalf of? What gives them the authority to act? How can we verify their provenance, their integrity, or even revoke that authority when needed?\n\nThis presentation explores the evolving landscape of AI Agents and Identity, highlighting the foundational challenges in building trusted agents. We’ll examine:\n\n* Why traditional identity systems fall short in agent-based architectures\n* The importance of verifiable identity, delegation, and auditability\n* How to ensure agents are acting within their intended boundaries\n* Emerging standards and design patterns that aim to make AI agent ecosystems secure, interoperable, and trustworthy\n* Whether you're building agentic infrastructure or considering how identity fits into your AI strategy, this is a critical moment to shape the rules of trust.\n\n**About the speaker**\nAndor Kesselman is an engineer, builder, CTO, and open source advocate. He is currently the founder of a stealth startup building trust infrastructure for enterprise AI.\n\n**About the AI Alliance**\nThe [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.\n\n**Join the community**\nSign up for the [AI Alliance newsletter](https://thealliance.ai/community) (check the website footer) and join our new [AI Alliance Discord](https://discord.gg/YtsWdke6E9).",
+    "endTime": "2025-08-08T05:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/310379070/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "310379070",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] How can Agents be Trusted?"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-how-can-agents-be-trusted-andor-kesselman",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/310379070/"
+}

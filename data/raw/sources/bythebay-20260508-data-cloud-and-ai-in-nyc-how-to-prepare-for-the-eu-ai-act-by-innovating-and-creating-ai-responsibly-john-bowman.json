@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-07-20T15:30:00-04:00",
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.**\nIn this presentation, we will explore the European Union's AI Act draft and how businesses can prepare for its implementation.\n\nOrganizations are creating systems that impact millions of people. Potential risks come alongside its great potential. Thus, we need everyone at the table co-creating a future with AI, that is worth living in. The European Commission published a proposal for laying down harmonized rules on AI to balance innovation power and Europeans' values, fundamental rights and principles. We will discuss the key provisions of the Act, including the requirements for high-risk AI systems.\n\nThrough case studies, we will provide practical insights on how to innovate and create AI responsibly, supporting AI Act requirements while also driving business growth. A holistic approach to AI governance - organizationally and technically.\n\nAttendees will leave with a clear understanding of the EU AI Act, its implications for their business, and actionable steps to prevent harmful implications.\n\n**Presenters:** **John Bowman**\n\n**John Bowman** joined IBM’s Chief Privacy Office in October 2022 as AI Ethics Market Strategy Lead. His role includes advising on enhancements to support regulatory compliance, helping to create a deployment framework, and commercialisation of select IBM CPO assets.\n\nPreviously, John was a Senior Principal in Promontory, IBM Consulting, having joined the company in 2014. John’s client engagements included managing privacy change programmes and advising on issues of risk, policy and compliance.\n\nPrior to joining Promontory, John worked at the UK Ministry of Justice where he was Head of EU and International Data Protection Policy. In this role, he served as the UK government’s lead negotiator on the EU General Data Protection Regulation (GDPR).\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r3fa77d41d9b31bce6fcf9fe3cc6ff898](https://ibm.webex.com/weblink/register/r3fa77d41d9b31bce6fcf9fe3cc6ff898)**",
+    "endTime": "2023-07-20T16:30:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/292859986/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "292859986",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "How to Prepare for the EU AI Act by Innovating and Creating AI Responsibly"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly-john-bowman",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/292859986/"
+}

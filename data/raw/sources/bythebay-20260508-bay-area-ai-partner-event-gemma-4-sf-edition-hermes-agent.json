@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2026-04-17T18:00:00-07:00",
+    "description": "**Registration and Approval are** **REQUIRED** on **[Cerebral Valley page](https://cerebralvalley.ai/e/gemma-4-sf-edition)**[ ](https://cerebralvalley.ai/e/gemma-4-sf-edition)\n\nGoogle DeepMind’s Gemma team is hosting a demo night in San Francisco to celebrate the launch of Gemma 4 and other models!\nThis is a night for the builders. We’re bringing together \\~100 founders, ML engineers, and open-source contributors to go under the hood.\nJoin us to network with people from the open models ecosystem, hear from the engineers behind the weights, and see how the community is building with open models. We’ll have exclusive talks from the Gemma team, Awni (MLX creator), Daniel Han (Unsloth co-founder), Henry (Cactus Compute), Nous Research, and more!\n\n### **Brief Agenda**\n\n* **Welcome Remarks and Introduction to Gemma 4** - *Omar Sanseviero and Olivier Lacombe, Google DeepMind*\n* **Lightning Talks** \\- Open source contributors\\, builders\\, and Gemma researchers will do short presentations\\. You’ll hear from the creators of tools such as MLX\\, Unsloth\\, and Cactus Compute\n* **Sunset Social - Connect with the open models ecosystem, try out exciting demos, and enjoy an evening of AI!**\n\n### Detailed Agenda\n\n* Welcome Remarks - Omar Sanseviero, Google DeepMind\n* Introduction to Gemma 4 - Olivier Lacombe, Google DeepMind\n* Daniel Han, Unsloth\n* MLX - Awni Hannun, MLX creator\n* Hermes Agent with Gemma: The Agent That Grows With You - Sam Herring, Nous Research\n* Intro to Google’s open medical models - Fereshteh Mahvar, Google\n* Inside the Gemma 4 Ecosystem- Sara Smoot, Google DeepMind\n* A deeper look at Agent Skills on Mobile using Gemma 4 - Cormac Brick, Google\n* Why Hybrid Inference? - Henry Ndubuaku, Founder, Cactus Compute\n* Roger Wang, vLLM Core Maintainer & Co-Founder of Inferact\n\nIf you’re building with open models, working on AI tools, or just want to see what Gemma can do up close, we’d love to have you in the room.",
+    "endTime": "2026-04-17T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/314321640/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "314321640",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[Partner Event] Gemma 4: SF Edition"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/314321640/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-engaging-in-open-source-software-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-engaging-in-open-source-software-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-engaging-in-open-source-software-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-engaging-in-open-source-software-event.json",
+  "kind": "event",
+  "event_id": "250718279",
+  "event_title": "Engaging in Open Source Software",
+  "title": "Engaging in Open Source Software",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/250718279/",
+  "description": "Engaging in Open Source Software - Developing Open Source Strategies for Institutions : a panel will discuss open source adoption by individuals, & within institutions. The importance of developing incentives, processes, & policies, to manage open source internally will be covered. Guidelines for participating in external open source projects will be discussed, as well as gaining personal eminence from open source participation & benefiting from IBM Code https://developer.ibm.com/code/ & CODAIT (Center of Open Source Data & AI Technologies). Panelists include: -- Joe \"Sepi\" Crane-Messina - NYC Lead Developer/Advocate ⚡️ Node.js Foundation Community Committee member -- Augustina Ragwitz - Social Science/Anthropology Open Tech Lead & R-Ladies leader -- Jennifer Skeivik - Open Source Program Manager Registration was closed on May 21 afternoon, to compile the list of attendees for security.",
+  "date_time": "2018-05-22T18:30:00-04:00",
+  "end_time": "2018-05-22T21:00:00-04:00"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-10-15T18:30:00-07:00",
+    "description": "This talk presents Slick, Typesafe's library for accessing databases, the successor of the popular ScalaQuery library. With Slick, database queries can be expressed using Scala code, which is composable, more convenient than Java APIs like JPA and safer than string-based query languages like SQL.\n\nSlick queries use the familiar for-comprehension construct and a collection-like API. They are type-safe and checked by the Scala compiler. It is possible to call custom stored procedures and even fall back to SQL if required. Slick currently supports MySQL, Microsoft SQL Server, SQLite, PostgreSQL, Derby/JavaDB, H2, HSQLDB/HyperSQL, and Microsoft Access. Other databases are coming up.\n\nThe Slick team is working on making Slick extensible to custom data sources e.g. NoSQL databases. We are also developing an even easier API and the ability to schedule queries over multiple backends.\n\nThe presentation will feature live-demos of user-code and a look behind the scenes.\n\nAs usual, the schedule for the event is:\n\n6:30 - networking, food\n\n7:00 - announcements\n\n7:15 - presentation\n\n8:30 - Q&A, more networking afterward\n\nWe will give away two copies of IntelliJ IDEA 11 for personal use, and two copies of JRebel. Two e-copies of \"Monadic Design Patterns\", published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile.\n\nThis event will be recorded but not streamed. Tweets will be tagged with #scalasv.\n\nJan Christopher Vogt is a software engineer in the Scala team at EPFL Lausanne, Switzerland. He is mainly working on project Slick in close cooperation with Typesafe and is also involved in the development of Scala 2.10's reflection and macros. His main focus is the new macro-based \"direct embedding\" of queries into Scala. Earlier, Christopher developed \"Scala Integrated Query\", a research prototype, which was presented during Scala Days 2011 at Stanford. In the past, he worked for AstraZeneca and as an independent, web-related software developer with Python. Christopher enjoys traveling, skiing, sailing and Scouting.",
+    "endTime": "2012-10-15T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/80268902/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "80268902",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Typesafe Slick at Ticketfly in San Francisco"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-typesafe-slick-at-ticketfly-in-san-francisco-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/80268902/"
+}

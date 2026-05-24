@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-konrad-malawski-reactive-streams-akka-streams-and-the-jdk-ecosystem-event",
+  "source_id": "bythebay-20260508-scala-bay-konrad-malawski-reactive-streams-akka-streams-and-the-jdk-ecosystem-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-konrad-malawski-reactive-streams-akka-streams-and-the-jdk-ecosystem-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-konrad-malawski-reactive-streams-akka-streams-and-the-jdk-ecosystem-event.json",
+  "kind": "event",
+  "event_id": "225079080",
+  "event_title": "Konrad Malawski, \"Reactive Streams, Akka Streams and the JDK Ecosystem\"",
+  "title": "Konrad Malawski, \"Reactive Streams, Akka Streams and the JDK Ecosystem\"",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/225079080/",
+  "description": "Title: Konrad Malawski, \"Reactive Streams, Akka Streams and the JDK Ecosystem\" Abstract: Reactive streams are a shared effort of multiple companies (such as Netflix, Typesafe, RedHat, and Pivotal) and individuals striving to implement stream processing libraries to make the stream processing on the JVM common and back-pressured. Their recent 1.0.final release will fundamentally change the JVM ecosystem, providing an interop protocol between different streaming libraries such as Akka Streams and RxJava. This session looks into the core concepts of reactive streams and how “dynamic push-pull-based back pressure” works in them. Then it discusses details of the Akka Streams library and how it enables you to express arbitrarily complex stream layouts with very good readability and performance. Speaker. Akka hakker @ Typesafe, where he also participated in the Reactive Streams initiative and implemented its Technology Compatibility Kit. Konrad is a late-night passionate dev living by the motto \"Life is Study!\". His favourite discussion topics range from distributed systems to capybaras. He has founded and run multiple user groups (Java, Scala, Computer Science, ...), and has is part of program committees of awesome conferences such as GeeCON and JavaOne SF. Other than that, he's a frequent speaker on distributed systems and concurrency topics, at conferences all around the world. In those rare times he's not coding, he spreads the joy of computer science, through helping local user groups and whitepaper reading clubs. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:50 - talks • 8:50-9:00 - networking",
+  "date_time": "2015-10-26T19:00:00-07:00",
+  "end_time": "2015-10-26T22:00:00-07:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18601481:bythebay-20260508-sf-data-and-ai-engineering-scale-by-the-bay-2021-event",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-scale-by-the-bay-2021-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-scale-by-the-bay-2021-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-scale-by-the-bay-2021-event.json",
+  "kind": "event",
+  "event_id": "281376888",
+  "event_title": "Scale By the Bay 2021",
+  "title": "Scale By the Bay 2021",
+  "conference_id": "meetup:18601481",
+  "meetup_id": "meetup:18601481",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/281376888/",
+  "description": "Register for SBTB at https://scale.bythebay.io using the code SFSPARK20 for 20% off. ----- A few years ago, at AI By the Bay, we predicted that every application will soon be an AI application. Today it is the case practically everywhere. On the one hand, we see a broad deployment of AI, and the production issues related to it: reliability, ease of use, integration in the end to end data pipelines. On the other hand, the high-level question of AI ethics didn't go anywhere -- rather, they are elevated into practical question of explainability, bias, and AI safety. Clement Delangue, the founder of Huggingface, keynotes SBTB 2021 on the new approaches to do AI and NLP that both changes the way we do things and makes ethics a core part. Alena Medelyan, the founder of Thematic, another great NLP success story, keynotes on how to do your own AI startup properly. Ricardo Baeza-Yates, one of the founders of modern Information Retrieval, illuminates Responsible AI. This year features a strong reproducibility review with the SAME project from Microsoft's MLOps leader and returning SBTB speaker David Aronchik. Another SBTB and Bay Area AI veteran, Lukas Biewald, is now a founder of Weight and Biases and presents his own Reproducible ML view. The productionization of AI is evident in the rise of platforms and tools around its deployment. Our friends from DVC.org and Iterative.ai enjoy widespread acceptance. With Milecia McGregor of Iterative.ai we learn how to manage experiments with it. Databases are at the root of all data, and we have a great review of what works. Uber and Databricks show how SQL is reborn with Spark. Rob Hedgepeth from MariaDB tells us not to call it a SQL comeback. We get to rethink scalable ML with the Spark ecosystem and Adi Polak of Microsoft. We show how to build and operate AI platforms in excruciating detail, soup to nuts. We build a complete one from scratch with Aporia, packed with tools like DVC, MLflow, and GitHub Actions. We see how to build containerized and serverless ML with NuWorks. We learn from real-world platform at Workday, a company that returns to share its experience. ----- Reserve your seat at https://scale.bythebay.io with SFSPARK20",
+  "date_time": "2021-10-28T06:00:00-07:00",
+  "end_time": "2021-10-29T20:00:00-07:00"
+}

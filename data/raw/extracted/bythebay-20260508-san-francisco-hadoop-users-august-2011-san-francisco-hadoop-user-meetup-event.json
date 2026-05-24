@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-august-2011-san-francisco-hadoop-user-meetup-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-august-2011-san-francisco-hadoop-user-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-august-2011-san-francisco-hadoop-user-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-august-2011-san-francisco-hadoop-user-meetup-event.json",
+  "kind": "unconference",
+  "event_id": "26462151",
+  "event_title": "August 2011 San Francisco Hadoop User Meetup",
+  "title": "August 2011 San Francisco Hadoop User Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "unconference"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/26462151/",
+  "description": "The August Hadoop meetup will be held Wednesday, August 10, from 6pm to 8pm. This meetup will be hosted at the University of San Francisco (USF) in the Harney Science Center. The entrance is on Golden Gate Ave, across from Chabot Terrace. As usual, we will use the discussion-based \"unconference\" format. At the beginning of the meetup we will collaboratively construct an agenda consisting of several discussion breakout groups. All participants may propose a topic and volunteer to facilitate a discussion. All Hadoop-related topics are encouraged, and all members of the Hadoop community are welcome. Event schedule: 6pm - Welcome 6:30pm - Introductions; start creating agenda Breakout sessions begin as soon as we're ready 8pm - Conclusion Food and refreshments will be provided, courtesy of SnapLogic.",
+  "date_time": "2011-08-10T18:00:00-07:00",
+  "end_time": "2011-08-10T21:00:00-07:00"
+}

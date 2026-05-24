@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-sentiment-analysis-on-twitter-data-hadoop-spark-nosql-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-sentiment-analysis-on-twitter-data-hadoop-spark-nosql-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-sentiment-analysis-on-twitter-data-hadoop-spark-nosql-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-sentiment-analysis-on-twitter-data-hadoop-spark-nosql-event.json",
+  "kind": "event",
+  "event_id": "234423824",
+  "event_title": "Sentiment Analysis on Twitter Data: Hadoop, Spark, NOSQL",
+  "title": "Sentiment Analysis on Twitter Data: Hadoop, Spark, NOSQL",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/234423824/",
+  "description": "PLEASE NOTE: THIS EVENT IS AT CAPACITY. IF YOU HAVE NOT ALREADY REGISTERED AT THE LINK PROVIDED BELOW, THERE IS A CHANCE THE ROOM WILL BE FULL. To expedite your checkin on the day of the meetup, please register here (https://www.eventbrite.com/e/sentiment-analysis-on-twitter-data-hadoop-spark-nosql-tickets-28000655715). In this era of social transparency and cognitive thinking, we would like to invite you to join us for a demonstration of how to analyze customer sentiment while leveraging Hadoop, Spark, and a NoSQL Database on the cloud. You will learn how a data pipeline can be built using tools and technologies available on Bluemix (cloud offerings), while experiencing the value of having many tools working seamlessly together to provide a solution that goes from accessing source data to transforming it into a consumable format (report, API, visualization, etc.). You will also see how an Analytics team can make better use of data with a sustainable architecture. We will be adding a load of about 10 years’ worth of historical data as well, to do the analysis of movie series, actors/actresses, etc. Our focus is on the architecture, pipeline and output, to ensure that teams can: • Focus less on gathering and organizing the data • Access a platform where multiple tools and approaches can be used to analyze the data • Generate executive summaries for consumption of insights from a broad audience Reminder - please register HERE (https://www.eventbrite.com/e/sentiment-analysis-on-twitter-data-hadoop-spark-nosql-tickets-28000655715).",
+  "date_time": "2016-10-11T18:30:00-04:00",
+  "end_time": "2016-10-11T20:00:00-04:00"
+}

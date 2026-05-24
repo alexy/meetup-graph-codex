@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-02-19T18:00:00-08:00",
+    "description": "The February SF Hadoop User Group meetup will be held Wednesday, February 19 from 6:00pm to 8:00pm. This meetup will be hosted by Yelp, located at 140 New Montgomery St San Francisco, CA 94105. Food and drinks will be served.\n\nFebruary’s talk will be given by Yelp’s Engineering Manager, Jim Blomo. The presentation will be followed by breakout sessions.\n\nMore information on the Presentation:\n\n\"Oh Hadoop, Where Art Thou?\"\nYelp, Jim Blomo\n\nWe all know and love the Hadoop's prowess in distributed batch jobs, but how can we make the most of this power? Where does Hadoop fit into the data-mining abilities of companies like Yelp? This talk will put Hadoop in it's place: an intermediate layer between databases, logs, key-value storage systems, and end-user features. Getting the most out of Hadoop depends on what you put in -- and how you get it out -- so we'll discuss tips in both areas. Examples will be given from Jim's experiences at Yelp, which uses Hadoop and mrjob to power everything from ads optimization to spam filtering.\n\nJim Blomo (@jimblomo) is passionate about putting data to work by developing robust, elegant systems. At Yelp, he manages a growing data mining team that uses Hadoop, mrjob, and oddjob to process TBs of data. Before Yelp, he built infrastructure for startups and Amazon. He enjoys the food, culture, and outdoors of the San Francisco Bay Area with his family.",
+    "endTime": "2014-02-19T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/164267012/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "164267012",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "February SF Hadoop Users Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-february-sf-hadoop-users-meetup-jim-blomo",
+  "source_url": "https://www.meetup.com/hadoopsf/events/164267012/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-08-13T18:00:00-07:00",
+    "description": "The August SF Hadoop User Group meetup will be held Wednesday, August 13 from 6:00pm to 8:00pm. This meetup will be hosted by Lookout, located at 1 Front Street 26th Floor, San Francisco, CA. Food and drinks will be served.\n\nPresentation:\n\n“Hadoop at Lookout”\n\nLookout is a mobile security company with over 50 million registered users. As we move towards breaking our monolithic architecture to a more service oriented one we are seeing an increasing need to process stream data with low latencies for analytics. In this talk we will talk about our event ingestion pipelines in to Hadoop and how it powers internal analytics. Our pipelines use Storm, Kafka and process text and binary data(protobufs).\n\nThe presentation will be followed by breakout sessions.",
+    "endTime": "2014-08-13T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/196685952/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "196685952",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "August SF Hadoop Users Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-august-sf-hadoop-users-meetup-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/196685952/"
+}

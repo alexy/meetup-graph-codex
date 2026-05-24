@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-05-15T12:00:00-04:00",
+    "description": "**Description**\nEvaluating the performance of language models and AI agents can be challenging, especially across diverse tasks and domains. In this session, we'll introduce [Unitxt](https://www.unitxt.ai), an open-source framework for unified text evaluation, and explore how it simplifies the process of benchmarking LLMs and agents using a standardized format.\n\nWe'll walk through the core ideas behind LLM evaluation—what to measure, how to measure it, and why it matters—and then dive into hands-on examples of evaluating LLMs for quality, reliability, safety and more, as well as evaluating multi-modalities and agentic tool invocation.\nWhether you're just getting started with evaluation or looking for a powerful and flexible tool to streamline your workflows, this session will offer practical insights and code-based demos to help you get up and running.\n\nBring your questions, ideas, or examples—we’ll have time for discussion and Q&A at the end!\n\n**Speaker Bio**\nElron Bandel ([LinkedIn](https://www.linkedin.com/in/elron/)) works to redefine how language models are tested and used at scale. At IBM Research, he leads projects that enhance researchers' abilities to test and utilize language models at transformative scales. Elron co-authored IBM's standard evaluation platform for large language models and spearheads the development of Unitxt, an open-source Python library for AI performance assessment. His academic record supervised by Prof. Yoav Goldberg included work on developing AlephBERT and its innovative evaluation suite, and research into robust language model testing.\n\n**About the AI Alliance**\n\nThe [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+    "endTime": "2025-05-15T13:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/307701147/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "307701147",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] Model and Agent Evaluation with Unitxt"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-model-and-agent-evaluation-with-unitxt-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/307701147/"
+}

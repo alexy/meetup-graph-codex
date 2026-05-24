@@ -1,0 +1,13 @@
+{
+  "title": "The advent of the open data lake",
+  "speaker_text": "Julien Le Dem, Principal Engineer @ Datadog, co-creator of Parquet, Arrow and OpenLineage",
+  "tags": [
+    "Open Data Lake",
+    "OSS AI",
+    "AI Infrastructure"
+  ],
+  "url": "https://ai.bythebay.io/talks/the-advent-of-the-open-data-lake",
+  "source_id": "bythebay-20260508-the-advent-of-the-open-data-lake-julien-le-dem-datadog-co-creator-of-parquet-arrow-and-openlineage",
+  "source_file": "data/raw/sources/bythebay-20260508-the-advent-of-the-open-data-lake-julien-le-dem-datadog-co-creator-of-parquet-arrow-and-openlineage.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-the-advent-of-the-open-data-lake-julien-le-dem-datadog-co-creator-of-parquet-arrow-and-openlineage.json"
+}

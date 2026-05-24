@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2017-06-09T16:00:00-07:00",
+    "description": "We have two great talks in this meetup. Cisco presents its vision and Spark+AI strategy. Ople digs into AI for business as a change process.\n\nThis is a closing meetup in the http://festival.framework.foundation saga, preceded by another one with two great AI talks (https://www.meetup.com/bay-area-ai/events/240597202/), and followed by a party. Be there!\n\nAgenda:\n\n4pm Cisco\n\n5pm Ople\n\n6pm Party!\n\nLearn how Artificial Intelligence (AI) is transforming the collaboration experience and enabling new cognitive capabilities. Cisco Spark’s open platform allows you to build custom apps, intelligent conversational bots, and workflow integrations to drive the workplace of the future.\n\nThis session will focus on:\n\n• Current and future trends of of conversational chat and voice bots\n\n• How AI-powered collaboration solutions will change the workplace\n\nSpeaker: Jose de Castro\n\nJose de Castro is the CTO for APIs and Integrations within Cisco’s Collaboration Technology Group, leading the effort to open Cisco Spark’s cloud collaboration platform to any developer seeking to embed voice, video and text-based collaboration into their applications. A serial entrepreneur, he co-founded Tropo in 2009, a leading communications-as- a-service provider. As CTO of Tropo, Jose set the technical and strategic product direction, leading Tropo to a successful exit in 2015. With a passion for education and healthcare, Jose hopes to drive real change in both industries through richer and more productive communication.\nTwitter: @loopingrage\n\nThe Change AI Needs, not the one it Wants\nSpeaker: Pedro Alves\n\nAI and deep learning have taken the world by storm, especially Silicon Valley, with companies in almost every industry creating positions in the field. Currently, there is a sizeable gap between what AI promises to do for companies and what it actually is doing for them. I want to take a deeper look into the state of AI in industry. This talk will address some of the problems and challenges that AI has, how it can help industries when it is working properly, and how to help get AI from where it is today to where it has the potential to be more quickly.\n\nPedro has experience in predicting, analyzing and visualizing data in the fields of: genomics, gene networks, cancer metastasis, insurance fraud/costs, hospital readmissions, soccer strategies, joint injuries, social graphs, human attraction, spam detection, topic modeling and computer vision among others. Pedro is incredibly passionate about all aspects of AI and is constantly creating new techniques and algorithms to suit the problems at hand. Pedro also has a strong attraction to the basics, which can be forgotten easily these days, such as the scientific method and just looking at the data. Recently his efforts were geared towards detecting and interpreting everything that is happening in the world in real-time, from major concerts and sporting events to major and minor news using deep learning. Currently Pedro has decided to begin a startup with the main goal of changing AI in order to help it deliver on its promises.",
+    "endTime": "2017-06-09T19:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/240491390/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "240491390",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Cisco Spark AI: More Bots! And the Change AI Needs, not the one it Wants"
+  },
+  "event_id": "240491390",
+  "event_title": "Cisco Spark AI: More Bots! And the Change AI Needs, not the one it Wants",
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "session": {
+    "description": "We have two great talks in this meetup. Cisco presents its vision and Spark+AI strategy. Ople digs into AI for business as a change process. This is a closing meetup in the http://festival.framework.foundation saga, preceded by another one with two great AI talks (https://www.meetup.com/bay-area-ai/events/240597202/), and followed by a party. Be there!",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-cisco-spark-ai-more-bots-and-the-change-ai-needs-not-the-one-it-wants-castro-jose-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-cisco-spark-ai-more-bots-and-the-change-ai-needs-not-the-one-it-wants-castro-jose-2.json",
+    "source_id": "bythebay-20260508-bay-area-ai-cisco-spark-ai-more-bots-and-the-change-ai-needs-not-the-one-it-wants-castro-jose-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Castro Jose"
+      },
+      {
+        "company": null,
+        "name": "Pedro Alves"
+      }
+    ],
+    "title": "Cisco Spark AI: More Bots! And the Change AI Needs, not the one it Wants"
+  },
+  "source_id": "bythebay-20260508-bay-area-ai-cisco-spark-ai-more-bots-and-the-change-ai-needs-not-the-one-it-wants-castro-jose-2",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/240491390/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-09-13T18:00:00-07:00",
+    "description": "HUG Scheduled Talks:\n\n• Ingest Framework with Spark Streaming and Kafka\n\n• The Pillar of Effective Archiving and Tiering in Hadoop\n\n_______________________________________________________________\n\nIngest Framework with Spark Streaming and Kafka\n\nPresented by:\n\n• Everardo Lopez, Software Development Lead for Cloud Analytics, Intel Corporation\n\n• Carlos Villavicencio, Security Researcher for Cloud Analytics, Intel Corporation\n\nIn order to create an extensible and scalable version of the current ingest module used by the ONI project (http://open-network-insight.org/), the engineering team is leveraging a new capability to collect data from different telemetry sources and with different formats. This Ingest Framework was created to collect, translate, and send data for ONI's ML algorithms in real time to Apache Hadoop HDFS. We are able to achieve this goal by using different open source technologies like Apache Kafka, Apache Spark Streaming, and Python.\n\nThis method uses Python collectors/producers to send messages (network data) to Kafka, with Spark Streaming reading data in real-time from Kafka and processing it (depending of the network source) with different tools (e.i. nfdump, thsark, etc) to convert network data into Apache Avro-Apache Parquet format. The data is then stored as Apache Hive tables so it can be accessed using tools like Apache Impala or Hive.\n\n_____________________________________________________________________\n\nThe Pillars of Effective Data Archiving and Tiering in Hadoop\n\nPresented by:\n\nPete Kisich, FactorData Corporation\n\nThis talk will cover utilizing native Hadoop storage policies and types to effectively archive and tier data in your existing Hadoop infrastructure.\n\nKey focus areas are:\n\n1. Current state of tiering in Hadoop\n\n2. Identifying key metrics for successful archiving\n\n3. Automation requirements at scale\n\n4. Current limitations and gotchas The impact of successful archive provides Hadoop users better performance, lower hardware cost, and lower software costs.\n\nThis session will cover the techniques and tools available to unlock this powerful capability in native Hadoop.\n\n____________________________________________________________________\n\nAgenda\n\n• 6-630pm Food, Drinks and Networking\n\n• 630-715pm Hadoop Talk with Q&A\n\n• 715-8pm Networking",
+    "endTime": "2016-09-13T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/233741637/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "233741637",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "September 2016 Meetup"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-september-2016-meetup-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/233741637/"
+}

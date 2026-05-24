@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2021-04-14T17:30:00-07:00",
+    "description": "This event will be streamed on Twitch (please log into twitch before the event starts). Once you RSVP you will see the link to twitch to join!\n\nFor the hallway track and to ask the speakers question you can use the chat on Twitch or join our discord community at https://www.sfbayareatechies.com/ - Once you have joined please go to the #live-techtalk channel.\n\nAny questions about the event please ask in our channel on discord above. Thank you.\n\nIntroduction to Cats Parse By Jeff Lewis\n\nBuilding parsers is tedious and boring. Until you use Cats Parse that is! This talk will save you from boredom by giving you everything you need to get started using Cats Parse in your own projects.\n\nAbout our speaker\n\nJeff Lewis is a Scala developer of five years and a functional programming enthusiast. He recently started Scala Monthly, a monthly coding challenge designed to help people learn about Scala libraries and language features.\n\nAgenda (Pacific Time)\n\n5.30pm Welcome to SFScala by Salar Rahmanian\n5.45pm Introduction to Cats Parse By Jeff Lewis\n7.00pm Wrap up and continue conversations on Discord",
+    "endTime": "2021-04-14T19:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/276753362/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "276753362",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Introduction to Cats Parse By Jeff Lewis"
+  },
+  "event_id": "276753362",
+  "event_title": "Introduction to Cats Parse By Jeff Lewis",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "This event will be streamed on Twitch (please log into twitch before the event starts). Once you RSVP you will see the link to twitch to join! For the hallway track and to ask the speakers question you can use the chat on Twitch or join our discord community at https://www.sfbayareatechies.com/ - Once you have joined please go to the #live-techtalk channel. Any questions about the event please ask in our channel on discord above. Thank you. Introduction to Cats Parse By Jeff Lewis Building parsers is tedious and boring. Until you use Cats Parse that is! This talk will save you from boredom by giving you everything you need to get started using Cats Parse in your own projects. About our speaker Jeff Lewis is a Scala developer of five years and a functional programming enthusiast. He recently started Scala Monthly, a monthly coding challenge designed to help people learn about Scala libraries and language features. Agenda (Pacific Time) 5.30pm Welcome to SFScala by Salar Rahmanian 5.45pm Introduction to Cats Parse By Jeff Lewis 7.00pm Wrap up and continue conversations on Discord",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-introduction-to-cats-parse-by-jeff-lewis-jeff-lewis-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-introduction-to-cats-parse-by-jeff-lewis-jeff-lewis-2.json",
+    "source_id": "bythebay-20260508-sf-scala-introduction-to-cats-parse-by-jeff-lewis-jeff-lewis-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Jeff Lewis"
+      },
+      {
+        "company": null,
+        "name": "Jeff Lewis Building"
+      },
+      {
+        "company": null,
+        "name": "Salar Rahmanian"
+      }
+    ],
+    "title": "Introduction to Cats Parse By Jeff Lewis"
+  },
+  "source_id": "bythebay-20260508-sf-scala-introduction-to-cats-parse-by-jeff-lewis-jeff-lewis-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/276753362/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-06-16T23:00:00-07:00",
+    "description": "Scale By the Bay, the iconic developer conference in the Bay Area, comes back live and in person for its 10th Anniversary:\n\nhttp://scale.bythebay.io\n\nThe CFP is extended by June 16, submit your best talk on distributed systems, big data, ETLs, and data pipelines for ML/AI at\n\nhttp://bay.news/cfp",
+    "endTime": "2023-06-17T00:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/294108327/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "294108327",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scale By the Bay CFP extended to June 16!"
+  },
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-cfp-extended-to-june-16-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/294108327/"
+}

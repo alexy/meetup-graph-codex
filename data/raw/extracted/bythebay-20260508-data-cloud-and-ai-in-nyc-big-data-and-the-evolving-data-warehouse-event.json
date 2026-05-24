@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-big-data-and-the-evolving-data-warehouse-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-big-data-and-the-evolving-data-warehouse-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-big-data-and-the-evolving-data-warehouse-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-big-data-and-the-evolving-data-warehouse-event.json",
+  "kind": "event",
+  "event_id": "143660022",
+  "event_title": "Big Data and the Evolving Data Warehouse",
+  "title": "Big Data and the Evolving Data Warehouse",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/143660022/",
+  "description": "Big Data Developers. The Big Data Developer Day - Big Data and the Evolving Data Warehouse, October 31st, registration site is closed. If you have not registered and would like to attend as a walk-in, please email Nancy Berlin - nberlin@us.ibm.com. REMINDER: YOU MUST REGISTER AT http://ibm.com/1b6XM9m TO SECURE A SEAT AT THE BIG DATA DEVELOPER DAY - BIG DATA AND THE EVOLVING DATA WAREHOUSE. SPACE IS LIMITED - REGISTER SOON. Once you have joined the Meetup in NYC, please be sure to register at: http://ibm.co/1b6XM9m in order to secure your space in the Big Data Developer Day on 10/31/13. Space is limited so please register soon. Join us on Oct 31, 2013 to participate in an exclusive Big Data Developer Day hosted by the IBM Big Data team. Open source Apache Hadoop is a great framework for distributed processing of large data sets. But there’s a difference between \"playing\" with big data versus solving real problems. The reality is that Hadoop alone might not be enough. Experience IBM’s enterprise-class Hadoop product, InfoSphere BigInsights, which enhances open source Hadoop with required enterprise capabilities including: analytics, visualization, security, standard SQL, enterprise HBase, developer/admin tools, and more. The morning session will include interactive discussions and live demonstrations of IBM's view of the evolving Enterprise Data Warehouse and the role of hadoop (aka Data Warehouse Augmentation (http://www-01.ibm.com/software/data/bigdata/use-cases/data-warehouse.html)); http://www.youtube.com/watch?v=JcCWvVIAAMA and, in the afternoon, get hands-on with InfoSphere BigInsights Quick Start Edition (http://ibm.co/quickstart) with guidance from development experts. This is a unique opportunity to develop skills and learn about exciting technologies and techniques that you can immediately take back to your organization. This event is FREE. Breakfast, Lunch and snacks will be provided. Agenda (subject to change) 9:00 am to 9:30 am Breakfast & Registration 9:30 am to 10:30 am Welcome and Keynote - Big Data & the Evolving Warehouse 10:30 am to 11:15 am SQL for Hadoop - Demo 11:15 am to 11:30 am Break 11:30 am to 12:15 pm Enterprise ready HBase 12:15 pm to 1:00 pm Lunch 1:00 pm to 5:00 pm Hands-on Lab - tentative labs • Getting started with Hive • Leveraging the full power of SQL with Hadoop • Simplifying HBase queries with IBM Big SQL Labs will use BigInsights Quickstart VM (http://bm.co/quickstart). To learn more before hand try Big SQL on the cloud (http://bigsql.imdemocloud.com) or Big Data University (http://bigdatauniversity.com). 5:30 PM Close Thank You for Attending Seating is limited, please adjust your RSVP accordingly. To guarantee your seat, you must register here: http://ibm.co/1b6XM9m (http://ibm.co/1b6XM9m)",
+  "date_time": "2013-10-31T09:00:00-04:00",
+  "end_time": "2013-10-31T17:30:00-04:00"
+}

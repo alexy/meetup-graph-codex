@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-infusing-your-search-results-with-the-power-of-nlp-and-semantic-knowledge-jenna-lau-caruso-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-infusing-your-search-results-with-the-power-of-nlp-and-semantic-knowledge-jenna-lau-caruso-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-infusing-your-search-results-with-the-power-of-nlp-and-semantic-knowledge-jenna-lau-caruso-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-infusing-your-search-results-with-the-power-of-nlp-and-semantic-knowledge-jenna-lau-caruso-2.json",
+  "kind": "talk",
+  "event_id": "292861501",
+  "event_title": "Infusing your Search Results with the Power of NLP and Semantic Knowledge",
+  "title": "Infusing your Search Results with the Power of NLP and Semantic Knowledge",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Jenna Lau-Caruso, Jenna Lau-Caruso Jenna Lau-Caruso",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/292861501/",
+  "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.** We’ve all had that frustrating experience of trying to search for something and not finding the results we are after. By building systems that leverage NLP, we can infuse our systems with semantic knowledge and minimize this frustration for end users of our systems. Free-text search can be limiting, requiring us to search using the exact set of keywords that have been indexed. To go beyond simple text matching requires an understanding of both the search intent and the semantic meaning of the words being searched. In this session we will explore: \\- How knowledge graphs can be used to represent semantic relationships \\- How ontologies can be used to infer additional knowledge from the graph \\- How natural language processing techniques can be applied to understanding search intent \\- How a knowledge graph can be combined with traditional text search indices **Presenters:** **Jenna Lau-Caruso** Jenna Lau-Caruso is a Senior Software Engineer with Cloud Pak for Data in IBM Data and AI. Since joining IBM in 2006, she has worked in a variety of domains including automation, virtualization, and high performance distributed computing. For the past two and a half years she has been focused on elevating the search capabilities on the Cloud Pak for Data platform. Jenna graduated from York University with a Bachelor of Arts in Computer Science and Creative Writing. She loves being able to apply creativity to solve problems through computing. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/rff28513fcbbe8c293e9fd131df87c950](https://ibm.webex.com/weblink/register/rff28513fcbbe8c293e9fd131df87c950)**",
+  "date_time": "2023-06-21T08:00:00-04:00",
+  "end_time": "2023-06-21T09:00:00-04:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-1-learning-about-quantum-computing-basics-nour-elhuda-zuraiki-ibm-4",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-1-learning-about-quantum-computing-basics-nour-elhuda-zuraiki-ibm-4",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-1-learning-about-quantum-computing-basics-nour-elhuda-zuraiki-ibm-4.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-1-learning-about-quantum-computing-basics-nour-elhuda-zuraiki-ibm-4.json",
+  "kind": "talk",
+  "event_id": "296566357",
+  "event_title": "Quantum Careers - Part 1: Learning about Quantum Computing Basics",
+  "title": "Quantum Careers - Part 1: Learning about Quantum Computing Basics",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Nour Elhuda Zuraiki @ IBM, Nour Elhuda Zuraiki Nour",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/296566357/",
+  "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.** In this session we'll be covering the basics of quantum computing from qubits to Qiskit. One of IBM's Quantum ambassadors will be providing answers to the following questions: \\- What are the limitations of classical computers? \\- How can we use quantum mechanics to bypass these limitations? \\- What is a qubit and how do we build quantum circuits with them? \\- How do we run quantum circuits using Qiskit? Note that this is **part 1 of a 4-session series \"Quantum Horizon: Exploring the Frontier in Quantum Computing Careers\"** on Oct 25/26, Nov 8/9, Nov 29/30, Dec 6/7. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions. **Presenter: Nour Elhuda Zuraiki** Nour Elhuda Zuraiki is an accomplished Data Consultant at IBM, she leverages her academic background in Theoretical Physics, holding a Master's from King's College London and a Bachelor's from Lancaster University, to drive innovation in the complex realm of Human Machine Teaming (HMT) working for the Ministry of Defence (MoD). Her typical day involves diving into data analysis, crafting code for data engineering, and leading drone experiments for meticulous data curation and formatting. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r4333277d962d0dc256875ccc25314c7c](https://ibm.webex.com/weblink/register/r4333277d962d0dc256875ccc25314c7c)**",
+  "date_time": "2023-10-26T15:30:00-04:00",
+  "end_time": "2023-10-26T16:30:00-04:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "talk:ai-by-the-bay:bythebay-20260508-the-world-s-largest-open-source-entity-graph-jose-plehn-opendata-org",
+  "source_id": "bythebay-20260508-the-world-s-largest-open-source-entity-graph-jose-plehn-opendata-org",
+  "source_file": "data/raw/sources/bythebay-20260508-the-world-s-largest-open-source-entity-graph-jose-plehn-opendata-org.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-the-world-s-largest-open-source-entity-graph-jose-plehn-opendata-org.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "The World's Largest Open Source Entity Graph",
+  "conference_id": "ai-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Jose Plehn, CEO@ BrightQuery; Founder @ OpenData.org",
+  "tags": [],
+  "url": "https://ai.bythebay.io/talks/the-worlds-largest-open-source-entity-graph",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

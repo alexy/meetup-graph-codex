@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2013-06-13T19:00:00-07:00",
+    "description": "Eugene Burmako is a PhD student at EPFL. His recent contribution to Scala was implementing macros, available in Scala 2.10.\n\nA peculiarity of Scala macros is the fact that they are very good at synergizing with the language features and the type system of vanilla Scala. The most impressive example of such a synergy are implicit macros that combine the flexibility of implicits and the code generation power of compile-time metaprogramming without compromising understandability and type safety.\n\nThe talk begins with a simple serializer how-to, then generalizing it without sacrificing performance. Eugene will demonstrate a trick of two from macrology 101, and then discuss matching the performance of hand-crafted serializers without going through the trouble of actually writing any boilerplate code.\n\nHaving familiarized ourselves with macros, Eugene will push the boundaries of conciseness by using materialization, a new technique introduced in Scala 2.10.2. With a couple of materializing macros in place, the amount of code necessary to make a class serializable will be reduced to absolute zero.\n\nThe talk will conclude with the details of interaction between materializers and type inference and how that allowed us to address a challenging theoretical problem.\n\nSchedule:\n\n6:30-7:00 - networking 7:00-7:10 - announcements etc 7:10-~8:40 - Eugene talk 8:40-9:00 - networking",
+    "endTime": "2013-06-13T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/121848382/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "121848382",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Applied Materialization: When Macros Meet Implicits with Eugene Burmako"
+  },
+  "event_id": "121848382",
+  "event_title": "Applied Materialization: When Macros Meet Implicits with Eugene Burmako",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "Eugene Burmako is a PhD student at EPFL. His recent contribution to Scala was implementing macros, available in Scala 2.10. A peculiarity of Scala macros is the fact that they are very good at synergizing with the language features and the type system of vanilla Scala. The most impressive example of such a synergy are implicit macros that combine the flexibility of implicits and the code generation power of compile-time metaprogramming without compromising understandability and type safety. The talk begins with a simple serializer how-to, then generalizing it without sacrificing performance. Eugene will demonstrate a trick of two from macrology 101, and then discuss matching the performance of hand-crafted serializers without going through the trouble of actually writing any boilerplate code. Having familiarized ourselves with macros, Eugene will push the boundaries of conciseness by using materialization, a new technique introduced in Scala 2.10.2. With a couple of materializing macros in place, the amount of code necessary to make a class serializable will be reduced to absolute zero. The talk will conclude with the details of interaction between materializers and type inference and how that allowed us to address a challenging theoretical problem. Schedule: 6:30-7:00 - networking 7:00-7:10 - announcements etc 7:10-~8:40 - Eugene talk 8:40-9:00 - networking",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-applied-materialization-when-macros-meet-implicits-with-eugene-burmako-eugene-burmako-epfl-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-applied-materialization-when-macros-meet-implicits-with-eugene-burmako-eugene-burmako-epfl-2.json",
+    "source_id": "bythebay-20260508-scala-bay-applied-materialization-when-macros-meet-implicits-with-eugene-burmako-eugene-burmako-epfl-2",
+    "speakers": [
+      {
+        "company": "EPFL",
+        "name": "Eugene Burmako"
+      }
+    ],
+    "title": "Applied Materialization: When Macros Meet Implicits with Eugene Burmako"
+  },
+  "source_id": "bythebay-20260508-scala-bay-applied-materialization-when-macros-meet-implicits-with-eugene-burmako-eugene-burmako-epfl-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/121848382/"
+}

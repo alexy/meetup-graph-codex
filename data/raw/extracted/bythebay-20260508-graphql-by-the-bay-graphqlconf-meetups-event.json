@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:20929747:bythebay-20260508-graphql-by-the-bay-graphqlconf-meetups-event",
+  "source_id": "bythebay-20260508-graphql-by-the-bay-graphqlconf-meetups-event",
+  "source_file": "data/raw/sources/bythebay-20260508-graphql-by-the-bay-graphqlconf-meetups-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-graphql-by-the-bay-graphqlconf-meetups-event.json",
+  "kind": "event",
+  "event_id": "296173405",
+  "event_title": "GraphQLConf Meetups!",
+  "title": "GraphQLConf Meetups!",
+  "conference_id": "meetup:20929747",
+  "meetup_id": "meetup:20929747",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/graphql-by-the-bay/events/296173405/",
+  "description": "Our city is welcoming the [GraphQL Conference](https://graphql.org/conf/)! We gather the local community at not one, but two amazing meetups. Pick one based on what technocal content you want to see and learn about. The [GraphQL SF #12: Generative AI Night hosted at GitHub](https://www.meetup.com/graphql-sf/events/295804141/) is hosted by GitHub and the topics is the AI for UX. And [GraphQL SF Meetup: September Edition](https://www.meetup.com/sf-graphql/events/296063389/), colocated with the conference, features several talks, from federated API, to web3, to Rust full-stack GraphQL solutions. If you like GraphQL as middleware, make sure to attend [Scale By the Bay](https://scale.bythebay.io), the main independent conference of Bay Area meetups, that pioneered GraphQL middleware in 2016.",
+  "date_time": "2023-09-19T19:00:00-07:00",
+  "end_time": "2023-09-19T21:00:00-07:00"
+}

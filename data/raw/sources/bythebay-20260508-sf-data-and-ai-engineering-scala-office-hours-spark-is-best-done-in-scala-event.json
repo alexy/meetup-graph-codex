@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-06-07T13:00:00-07:00",
+    "description": "According to Martin Odersky, the creator of Scala, Spark is a Scala DSL (https://youtu.be/NW5h8d_ZyOs). Spark is written in Scala. Its most advanced features work best with Scala. It's most concise in Scala. Switching between SQL and general programming is done best with Scala DSLs. If you learn just enough Scala for Spark (https://www.meetup.com/SF-Spark-and-Friends/events/240078598/), you'll be able to take advantage of Spark much better.\n\nInside the Cognitive Frameworks Festival (http://festival.framework.foundation), we get to join the Makers Spaces at Galvanize, where on Wednesday 6/7 we are fortunate to have several great Scala experts who will hang around to answer any Scala-related questions, informally.\n\nExperts bios to follow. They are awesome folks who also know data. RSVP here if you want to come and have your problems solved, then walk over to IBM for the party and Cognitive Future (https://www.meetup.com/bay-area-ai/events/240457597/) lightning talks!\n\nConfirmed TAs, in reverse alphabetical order:\n\n• Sergei Winitzki, Workday\n\n• Jakob Odersky, Driver\n\n• Jacob Baumbach, Capital One\n\n• Mike, Performant Data\n\nCome and ask your Scala questions, and have our experts do your job!",
+    "endTime": "2017-06-07T16:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/240591418/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "240591418",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala Office Hours: Spark is Best Done in Scala"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-scala-office-hours-spark-is-best-done-in-scala-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/240591418/"
+}

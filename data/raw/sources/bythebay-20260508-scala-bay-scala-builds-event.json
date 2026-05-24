@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-12-10T18:30:00-08:00",
+    "description": "SBT, Zinc, Artifactory and Gradle",
+    "endTime": "2012-12-10T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/85054672/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "85054672",
+    "isOnline": false,
+    "status": "CANCELLED",
+    "title": "Scala Builds"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-scala-builds-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/85054672/"
+}

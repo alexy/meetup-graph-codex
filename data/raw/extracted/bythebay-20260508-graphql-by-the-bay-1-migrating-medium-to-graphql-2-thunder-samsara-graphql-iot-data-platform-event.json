@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:20929747:bythebay-20260508-graphql-by-the-bay-1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform-event",
+  "source_id": "bythebay-20260508-graphql-by-the-bay-1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform-event",
+  "source_file": "data/raw/sources/bythebay-20260508-graphql-by-the-bay-1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-graphql-by-the-bay-1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform-event.json",
+  "kind": "talk",
+  "event_id": "261050384",
+  "event_title": "(1) Migrating Medium to GraphQL (2) Thunder, Samsara GraphQL IoT Data Platform",
+  "title": "(1) Migrating Medium to GraphQL (2) Thunder, Samsara GraphQL IoT Data Platform",
+  "conference_id": "meetup:20929747",
+  "meetup_id": "meetup:20929747",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/graphql-by-the-bay/events/261050384/",
+  "description": "Join us at Samsara for two great talks about GraphQL in production, spanning both hardware and software stacks! (1) 2 Fast 2 Furious: Migrating Medium's Architecture Without Slowing Down We’re shifting gears to leverage new technologies created since we built Medium 5 years ago, but we need to incrementally gain benefits from the new system along the way and we can’t afford to let it hinder feature development. By taking advantage of GraphQL’s flexibility and our existing infrastructure, we’re able to make widespread yet gradual architectural changes! Come see how Medium is changing lanes without slowing down. Anyone thinking about moving to GraphQL (or thinking about migrating an exisiting architecture in general) can benefit from this talk, but especially anyone who is building their own GraphQL server or needs practical advice on how to successfully migrate a legacy system to GraphQL without “stopping the world,” getting defunded partway through, or building a system no one uses. Abstract Migrating an entire system to new tools and frameworks isn’t an easy task. And doing that while not impacting feature development? That’s even harder. We’ll walk through how Medium is migrating off of our existing system, without hindering product development, and while also incrementally gaining the benefits of a new system along the way. We’ll go over the design of our new architecture, our phased migration approach, and how the layered structure of our GraphQL server (written in Scala with Sangria) was integral to the success of both. - Goals of the migration - Design of the new system - Phased approach - Phase 1: developer experience - IDLs (protobuf) + GraphQL - Phase 2: services + gRPC - GraphQL server layers - Fetchers - Repos - Schema (derivation) - Putting it all together Sasha Solomon is a Senior Software Engineer helping build the next generation API on Twitter's GraphQL team. She was previously the Tech Lead of the Platforms team at Medium working on GraphQL as well. She has spoken at GraphQL Conf, GraphQL Asia, Scale by the Bay (2019 CFP runs May 1-31 at http://scale.bythebay.io), and other meetups on various topics related to GraphQL and infrastructure. In her spare time, she enjoys tabletop RPGs, karaoke, and most recently, building mechanical keyboards. (2) GraphQL for the Samsara Sensor Data Plaform Samsara is a sensor data platform for operations, supporting a diverse set of features - everything from tracking vehicles in a fleet to monitoring quality control on a production line. In this talk, we’ll explore the origins and evolution of our GraphQL systems over the last three years and how they’ve helped us ship great products quickly and safely. Stephen is an infrastructure engineer at Samsara where he spends time thinking about making developer tools easy to understand, maintain, and use. He has worked on building both frontend and backend infrastructure to empower product teams and is a core contributor to Samsara’s open-source GraphQL framework, Thunder.",
+  "date_time": "2019-05-23T18:00:00-07:00",
+  "end_time": "2019-05-23T20:00:00-07:00"
+}

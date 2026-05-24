@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2024-11-13T17:30:00-08:00",
+    "description": "This is an in-person event! **[Registration](https://lu.ma/p4rvrcdc) is required in order to get in**.\n​\n**Topic:** Connecting your unstructured data with Generative LLMs\n​\n**What we’ll do:**\nHave some food and refreshments. Hear three exciting talks about unstructured data and generative AI.\n\n**What we’ll do:**\n5:30 - 6:00 - Welcome/Networking/Registration\n6:05 - 6:30 - [Dinesh Chandrasekhar,](https://www.linkedin.com/in/dineshc/) Challenges in Structured Document Data Extraction at Scale with LLMs\n6:35 - 7:00 - [James Luan](https://www.linkedin.com/in/xiaofan-james-luan-37012872/), Why Dense Embedding Search Isn’t Enough: The Case for Hybrid Search. - a sneak peek of Milvus 2.5\n7:05 - 7:30 - [Rob Quiros](https://www.linkedin.com/in/robquiros/), Beyond RAG Partitions: Per-User, Per-Chunk Access Policy\n7:30 - 8:00 - Networking\n\n**Tech Talk 1:** Challenges in Structured Document Data Extraction at Scale with LLMs\n**Speaker**: Dinesh Chandrasekhar, Unstract\n**Abstract**: All businesses have to deal with unstructured documents at some level. Some have to deal with them at scale. While an LLM-powered approach to this problem is most certainly head and shoulders above traditional machine learning-based approaches, it is not without its challenges. Top concerns being accuracy and cost, which can really begin to hurt at scale.\n\nIn this talk, we will look at how Unstract, an open source platform purpose-built for structured document data extraction, solves these challenges. Dealing with 5M+ pages of structured content extraction per month, Unstract uses various techniques to attain accuracy and cost efficiency.\n\nTopics Covered\n\\- Introduction to Unstructured Data Processing\n\\- Processing Document Data\n\\- Extraction Difficulties\n\\- Unstract to the rescue\n\\- Demo\n\n**Tech Talk 3**: Beyond RAG Partitions: Per-User, Per-Chunk Access Policy\n**Speaker:** Rob Quiros, CEO & Co-Founder, Caber Systems, Inc.\nAbstract: Partitioning vector databases has proven to be a useful tool for privacy and per-tenant isolation. Recent releases of vector db software, including Milvus, have continued to improve partitioning capabilities such as pushing the number of partitions into the millions and providing improved selection of partitions per tenant.\nDespite these advances, management overhead increases with the number of partitions. Relative to the capabilities enterprises require and have come to expect from their existing storage systems and databases, there is still a shortfall. New capabilities specific to how vector databases store data and how they are used in RAG applications are needed.\n**Topics Covered**:\n\n* Origins of enterprise requirements for granular access control and policy in storage systems.\n* Sensitive data identification: data classification versus access control.\n* The problem data-duplication in enterprise datasets presents when copying permissions from documents to chunks.\n* How enterprise access requirements can be met with per-user, per-chunk access control\n* Case study and example implementation.\n\n​**When:**\nNov 13, 2024\n5:30PM\n\n**Where:**\nThis is an in-person event. [Registration](https://lu.ma/p4rvrcdc) is required to get into the event. Registration in advance will close 2 days before the event.\n​This event is sponsored by [Zilliz](http://zilliz.com/) (maintainers of [Milvu](https://github.com/milvus-io/milvus)s)",
+    "endTime": "2024-11-13T20:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/unstructured-data-sf/events/304207224/",
+    "group": {
+      "id": "36468260",
+      "name": "Unstructured Data Meetup Bay Area",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "304207224",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Unstructured Data in LLMs - South Bay Edition"
+  },
+  "event_id": "304207224",
+  "event_title": "Unstructured Data in LLMs - South Bay Edition",
+  "meetup_id": "meetup:36468260",
+  "meetup_name": "Unstructured Data Meetup Bay Area",
+  "meetup_url": "https://www.meetup.com/unstructured-data-sf/events/?type=past",
+  "session": {
+    "description": "This is an in-person event! **[Registration](https://lu.ma/p4rvrcdc) is required in order to get in**. **Topic:** Connecting your unstructured data with Generative LLMs **What we’ll do:** Have some food and refreshments. Hear three exciting talks about unstructured data and generative AI. **What we’ll do:** 5:30 - 6:00 - Welcome/Networking/Registration 6:05 - 6:30 - [Dinesh Chandrasekhar,](https://www.linkedin.com/in/dineshc/) Challenges in Structured Document Data Extraction at Scale with LLMs 6:35 - 7:00 - [James Luan](https://www.linkedin.com/in/xiaofan-james-luan-37012872/), Why Dense Embedding Search Isn’t Enough: The Case for Hybrid Search. - a sneak peek of Milvus 2.5 7:05 - 7:30 - [Rob Quiros](https://www.linkedin.com/in/robquiros/), Beyond RAG Partitions: Per-User, Per-Chunk Access Policy 7:30 - 8:00 - Networking **Tech Talk 1:** Challenges in Structured Document Data Extraction at Scale with LLMs **Speaker**: Dinesh Chandrasekhar, Unstract **Abstract**: All businesses have to deal with unstructured documents at some level. Some have to deal with them at scale. While an LLM-powered approach to this problem is most certainly head and shoulders above traditional machine learning-based approaches, it is not without its challenges. Top concerns being accuracy and cost, which can really begin to hurt at scale. In this talk, we will look at how Unstract, an open source platform purpose-built for structured document data extraction, solves these challenges. Dealing with 5M+ pages of structured content extraction per month, Unstract uses various techniques to attain accuracy and cost efficiency. Topics Covered \\- Introduction to Unstructured Data Processing \\- Processing Document Data \\- Extraction Difficulties \\- Unstract to the rescue \\- Demo **Tech Talk 3**: Beyond RAG Partitions: Per-User, Per-Chunk Access Policy **Speaker:** Rob Quiros, CEO & Co-Founder, Caber Systems, Inc. Abstract: Partitioning vector databases has proven to be a useful tool for privacy and per-tenant isolation. Recent releases of vector db software, including Milvus, have continued to improve partitioning capabilities such as pushing the number of partitions into the millions and providing improved selection of partitions per tenant. Despite these advances, management overhead increases with the number of partitions. Relative to the capabilities enterprises require and have come to expect from their existing storage systems and databases, there is still a shortfall. New capabilities specific to how vector databases store data and how they are used in RAG applications are needed. **Topics Covered**: * Origins of enterprise requirements for granular access control and policy in storage systems. * Sensitive data identification: data classification versus access control. * The problem data-duplication in enterprise datasets presents when copying permissions from documents to chunks. * How enterprise access requirements can be met with per-user, per-chunk access control * Case study and example implementation. **When:** Nov 13, 2024 5:30PM **Where:** This is an in-person event. [Registration](https://lu.ma/p4rvrcdc) is required to get into the event. Registration in advance will close 2 days before the event. This event is sponsored by [Zilliz](http://zilliz.com/) (maintainers of [Milvu](https://github.com/milvus-io/milvus)s)",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-rob-quiros-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-rob-quiros-2.json",
+    "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-rob-quiros-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Rob Quiros"
+      },
+      {
+        "company": null,
+        "name": "Why Dense Embedding Search"
+      }
+    ],
+    "title": "Unstructured Data in LLMs - South Bay Edition"
+  },
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-rob-quiros-2",
+  "source_url": "https://www.meetup.com/unstructured-data-sf/events/304207224/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-h2o-big-data-machine-learning-for-everyone-fortune-magazine",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-h2o-big-data-machine-learning-for-everyone-fortune-magazine",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-h2o-big-data-machine-learning-for-everyone-fortune-magazine.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-h2o-big-data-machine-learning-for-everyone-fortune-magazine.json",
+  "kind": "talk",
+  "event_id": "219004016",
+  "event_title": "December SF Hadoop Users Meetup",
+  "title": "\"H2O: Big Data Machine Learning for Everyone\"",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": "Fortune Magazine",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/219004016/",
+  "description": "Yan Zou - Head of Product and Data Science, 0xdata (H2O.ai) H2O is an open source machine learning platform. In this talk, I will use examples to demonstrate how H2O can be used by every analytical professional to gain instant insights over big data, and then give an introduction to a few H2O's powerful algorithms, namely Random Forest, Gradient Boost, and Deep Learning. The audience can learn how H2O is not only very easy to use, but also powerful when it comes to implemented algorithms. I'll also talk about the scoring and deployment model for H2O, focusing on H2O's NanoFast Scoring engine, and how companies such as Cisco are able to run 60K+ ensemble models, on 160M+ rows and 1000+ features on a 4-machine cluster in 2 days.",
+  "date_time": "2014-12-10T18:00:00-08:00",
+  "end_time": "2014-12-10T21:00:00-08:00"
+}

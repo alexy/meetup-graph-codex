@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-masterclass-hackathon-ai-explainability-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-masterclass-hackathon-ai-explainability-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-masterclass-hackathon-ai-explainability-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-masterclass-hackathon-ai-explainability-event.json",
+  "kind": "workshop",
+  "event_id": "269892963",
+  "event_title": "IBM Masterclass & Hackathon: AI Explainability",
+  "title": "IBM Masterclass & Hackathon: AI Explainability",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/269892963/",
+  "description": "Go beyond the code, advance towards responsible and trustworthy AI. Begins March 27, 2020 and ends May 1, 2020. This is a free on-line webinar that can be accessed at any time. REGISTER HERE FOR THIS FREE COURSE & EVENT: ibm.biz/AIExplainability Take our free masterclass and then apply your new skills in the online Hackathon. Come learn new open-source and IBM data science tools like AIX360 and Lale. As well as, how to explain your model to any stakeholder and how to integrate explainable workflows. MASTERCLASS Quickly learn new data science concepts with this free 90-minute micro-course. HACKATHON Apply these new concepts by creating your own project to showcase and compete for the $8,000 prizepool and an IBM skill badge. MENTORSHIP Connect 1:1 with IBM data science experts for help and guidance on your project. WHO IS THIS FOR? All Data Scientists, AI & ML Devs and Engineers, Startups and Enterprise WHY EXPLAINABILITY? Explainability is the ability for data scientists to produce applicable results for their peers, managers, and end-users. Can your results be understood and applied by other data scientists and stakeholders? It is up to you as a data scientist to use your business knowledge, mathematical, and programmatic skills to communicate your findings and methods. Explainability is an important tool used to make your reasoning behind each decision transparent and repeatable. In this course, learn the importance of building an explainability workflow and how to implement these practices from the beginning. Then, using your new skills and tools, apply what you have learned by submitting your own project. Each submission for the hackathon will have a chance at cash prizes during the 6-week competition. ------------------------------------------------- REGISTER HERE FOR THIS FREE COURSE & EVENT: ibm.biz/AIExplainability",
+  "date_time": "2020-05-01T09:00:00-04:00",
+  "end_time": "2020-05-01T11:00:00-04:00"
+}

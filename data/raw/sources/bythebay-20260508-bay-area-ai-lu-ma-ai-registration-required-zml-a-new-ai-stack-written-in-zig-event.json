@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-10-09T18:00:00-07:00",
+    "description": "Steeve Morin, the creator of ZML, a new AI stack written in Zig, is coming to SF from Paris.\n\nThis is a fantastic opportunity to learn more about how AI actually works -- from training to inference, and speed it up.\n\nhttps://github.com/zml\n\n**We need a venue for this event in San Francisco** fitting at least 50 people. Email alexy@chiefscientist.org if you have one!\n\nYou have to hold a valid [ticket](https://lu.ma/6mad0am2) from lu.ma/_ai and a matching Photo ID to get in.",
+    "endTime": "2024-10-09T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/303667975/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "303667975",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[lu.ma/_ai registration required] ZML: a new AI stack written in Zig!"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-zml-a-new-ai-stack-written-in-zig-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/303667975/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-real-world-use-cases-for-advanced-fp-at-x-ai-beginner-friendly-event",
+  "source_id": "bythebay-20260508-sf-scala-real-world-use-cases-for-advanced-fp-at-x-ai-beginner-friendly-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-real-world-use-cases-for-advanced-fp-at-x-ai-beginner-friendly-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-real-world-use-cases-for-advanced-fp-at-x-ai-beginner-friendly-event.json",
+  "kind": "event",
+  "event_id": "224546256",
+  "event_title": "Real World Use Cases for Advanced FP at x.ai [beginner-friendly]",
+  "title": "Real World Use Cases for Advanced FP at x.ai [beginner-friendly]",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/224546256/",
+  "description": "At x.ai we are building Amy and Andrew, AI assistants, who magically schedule meetings for you over email. Their brain is written in Scala, carefully employing functional programming techniques to improve correctness, testability and maintainability. This is the story of our decisions, how they turned out and what we overlooked. I’ll speak about relevant parts of our architecture and how we are using libraries like scalaz, shapeless and Monocle in production. I’ll give a gentle, beginner-targeted introduction to concepts such as Reader, Applicative, Monoid, Semigroup and Lenses and explain how we use them in Amy’s and Andrew’s brain. Jan Christopher Vogt ( @cvogt ) is a Software Engineer at x.ai. He used to work in Martin Odersky’s Scala lab in Switzerland and is best know for his work on Slick and the extensible records library Compossible.",
+  "date_time": "2015-11-10T18:30:00-08:00",
+  "end_time": "2015-11-10T21:30:00-08:00"
+}

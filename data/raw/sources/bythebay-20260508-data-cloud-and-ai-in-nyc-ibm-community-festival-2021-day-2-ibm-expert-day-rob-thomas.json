@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2021-11-09T06:00:00-05:00",
+    "description": "** Experts together everywhere **\n\nFor this festival, we will be taking over IBM Expert TV. Subscribe to IBM Expert TV and gather with our IBM Community of over 250,000 IBM users that brings together a global network of the world’s foremost technologists.\n\nThis five-day festival will have days dedicated to user groups, the IBM Loyalty program, IBM experts, and our Cloud Without Compromise program with an opening keynote presentation by Rob Thomas, Senior Vice President of IBM Global Markets. We couldn’t be more excited to bring you the very best that the IBM Community has to offer.\n\n** IBM Expert Day **\n\nTap into the IBM innovation pipeline of technology experts, distinguished engineers, and others to gain digital innovation skills and tools needed to automate at scale, predict outcomes, secure your business, modernize for agility, and create the architecture needed for a digital advantage.\n\n** Program **\n\nSee the full agenda here: https://ibm.ent.box.com/s/ks6pbjxwaovpyz42j3xx7ctxpj0hdkdr\n\nCheck out this Medium post for a recap of Day 1 and an outlook at the remainder of the festival: https://medium.com/ibm-data-ai/join-us-at-the-ibm-community-festival-ca28d28072dc",
+    "endTime": "2021-11-09T22:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/281961195/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "281961195",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "IBM Community Festival 2021: Day 2 – IBM Expert Day"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-2-ibm-expert-day-rob-thomas",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/281961195/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-adam-warski-relational-dbs-scala-comparing-libraries-event",
+  "source_id": "bythebay-20260508-scala-bay-adam-warski-relational-dbs-scala-comparing-libraries-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-adam-warski-relational-dbs-scala-comparing-libraries-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-adam-warski-relational-dbs-scala-comparing-libraries-event.json",
+  "kind": "event",
+  "event_id": "239830974",
+  "event_title": "Adam Warski, Relational DBs & Scala: comparing libraries",
+  "title": "Adam Warski, Relational DBs & Scala: comparing libraries",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/239830974/",
+  "description": "Abstract “RDBMs might no longer be the only storage option, but they aren't going anywhere. Which library to access them suits you best? Find out during this live-coding session! We’ll look at four of the most popular relational database access libraries in Scala: Slick, Doobie, Quill and Scalikejdbc. We’ll compare them in terms of necessary meta-data mapping, query capabilities and transaction support. We’ll also discuss how they support asynchronous I/O and streaming results sets. There won’t be any slides, just code so that you can see for yourself how much typing is necessary to get them to work. AutoBio I am one of the co-founders of SoftwareMill, where I code mainly using Scala and other interesting technologies. I am involved in open-source projects, such as MacWire, ScalaClippy, Quicklens, ElasticMQ and others. I have been a speaker at major conferences, such as JavaOne, Devoxx and ScalaDays. Apart from writing closed- and open-source software, in my free time I try to read the Internet on various (functional) programming-related subjects. Any ideas or insights usually end up with a blog ( https://softwaremill.com/blog ) Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc. • 7:10-8:00 - talk • 8:00-8:30 - networking",
+  "date_time": "2017-06-01T18:30:00-07:00",
+  "end_time": "2017-06-01T21:30:00-07:00"
+}

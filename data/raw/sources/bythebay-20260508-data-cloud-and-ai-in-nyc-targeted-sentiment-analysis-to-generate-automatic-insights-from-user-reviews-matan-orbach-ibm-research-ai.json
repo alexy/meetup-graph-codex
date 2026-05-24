@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-05-10T08:00:00-04:00",
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.**\nTargeted Sentiment Analysis (TSA) is a contemporary AI method for generating valuable insights from user reviews. Such insights may aid consumers in their decision-making, or help companies when they strive to understand customer satisfaction and guide marketing campaigns.\n\nIn this session, we will dive into recent advancements in TSA, including the first open-domain TSA benchmark, and a multi-domain TSA system that can process user reviews from diverse product and service domains. We will also cover a demo of a real-world TSA system, developed within IBM, which allows any user to use TSA through IBM's Watson Studio.\n\nThe demo will show how hundreds of reviews can be quickly analyzed with TSA, and how the pros and cons of a particular business may be easily extracted.\n\n**Presenter: Matan Orbach**\n\nMatan Orbach is a Research Staff Member at IBM Research AI. Since joining IBM in 2014, he has worked on a diverse set of NLP tasks, including, among others, multilingual stance detection and targeted sentiment analysis. Before that, Matan led a team within [Project Debater](https://research.ibm.com/interactive/project-debater/), an IBM Grand Challenge, which focused on rebuttal generation through the use of principled arguments. Prior to joining IBM, Matan received his M.Sc. from the faculty of Electrical Engineering at the Technion, where his research focused on graph-based semi-supervised learning.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/raabf77c37ff3e5502efbd3c2f7d1d355](https://ibm.webex.com/weblink/register/raabf77c37ff3e5502efbd3c2f7d1d355)**",
+    "endTime": "2023-05-10T09:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/291850004/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "291850004",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Targeted Sentiment Analysis to generate Automatic Insights from User Reviews"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/291850004/"
+}

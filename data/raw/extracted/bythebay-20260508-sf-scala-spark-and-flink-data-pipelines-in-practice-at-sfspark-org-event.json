@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-spark-and-flink-data-pipelines-in-practice-at-sfspark-org-event",
+  "source_id": "bythebay-20260508-sf-scala-spark-and-flink-data-pipelines-in-practice-at-sfspark-org-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-spark-and-flink-data-pipelines-in-practice-at-sfspark-org-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-spark-and-flink-data-pipelines-in-practice-at-sfspark-org-event.json",
+  "kind": "event",
+  "event_id": "222631981",
+  "event_title": "Spark and Flink Data Pipelines in Practice at sfspark.org",
+  "title": "Spark and Flink Data Pipelines in Practice at sfspark.org",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/222631981/",
+  "description": "This is a pointer to our new offspring, SF Spark and Friends (a little brother of our first one, Spark Users, now all grown up). Join at http://sfspark.org for the inaugural meetup, how to set it all up and go to the races! In the first meetup we show exactly what you need to do do productionize Apache Spark in your company, as well as introduce Apache Flink, one of the new friends from the streaming space. Spark and Flink Data Pipelines in Practice (http://www.meetup.com/SF-Spark-and-Friends/events/222631734/)",
+  "date_time": "2015-06-16T19:00:00-07:00",
+  "end_time": "2015-06-16T22:00:00-07:00"
+}

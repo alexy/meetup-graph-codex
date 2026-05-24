@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-apache-spark-maker-community-event-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-apache-spark-maker-community-event-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-apache-spark-maker-community-event-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-apache-spark-maker-community-event-event.json",
+  "kind": "event",
+  "event_id": "230756121",
+  "event_title": "Apache Spark Maker Community Event",
+  "title": "Apache Spark Maker Community Event",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/230756121/",
+  "description": "On June 6, 2016, leading minds in data and analytics from Tesla, Netflix, Silicon Valley Data Science, and IBM will come together to demonstrate how open data and analytics technologies such as R, Spark, Python and more are forming a vibrant ecosystem. The community has a shared goal of working with all data to build unexpected insights and launch new business applications. The Apache Spark Maker Community Event will bring together data scientists, data engineers, data developers, and data designers June 6th @ 6pm at Galvanize, San Francisco. Here’s the plan: - The Big Reveal – New sample Apache Spark apps and tools - Use Cases – Monsanto will share how they are using R and Spark to optimize their supply chain - Learning Session - Hear from experts working on Spark projects and building the Spark ecosystem of open data and analytics technologies - Networking Opportunity – Food, drinks and data, explore a Hall of Innovation showcasing Spark demos Join us. Learn more here: Apache Spark Maker Community Event (http://www.ibm.com/analytics/us/en/events/apache-spark/) Registration begins at 5:30 PM and the discussion starts at 6:30 PM; food and drinks will be served. You must register for this event. To get your ticket, and attend in person, click HERE (https://www.eventbrite.com/e/apache-sparktm-maker-community-event-registration-24742595770?cm_mc_uid=39680333471514613509392&cm_mc_sid_50200000=1461961944). Can't attend in person? We'll be live streaming this event on a computer screen near you! Register for the live stream (https://www.eventbrite.com/e/livestream-apache-sparktm-maker-community-event-registration-24790223225?cm_mc_uid=39680333471514613509392&cm_mc_sid_50200000=1461961944) and we'll send you a calendar update and login link.",
+  "date_time": "2016-06-06T17:30:00-04:00",
+  "end_time": "2016-06-06T21:30:00-04:00"
+}

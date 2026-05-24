@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips-2",
+  "source_id": "bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips-2.json",
+  "kind": "talk",
+  "event_id": "154014822",
+  "event_title": "Paul Phillips, \"psp collections: views and more\"",
+  "title": "Paul Phillips, \"psp collections: views and more\"",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": "Paul Phillips",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/154014822/",
+  "description": "Paul Phillips will talk about collections for Scala. \"Based on my extensive experience with scala collections, I'm writing my own. The focus is much tighter: immutable, performant, predictable, correct. The talk will alternate between why the scala collections manage none of those things, and how I hope to do better.\" Paul Phillips is a co-founder of Typesafe and the most prolific committer to Scala. Location: LinkedIn Schedule: • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "date_time": "2014-01-13T19:00:00-08:00",
+  "end_time": "2014-01-13T22:00:00-08:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-agent-meetup-nyc-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-agent-meetup-nyc-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-agent-meetup-nyc-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-agent-meetup-nyc-event.json",
+  "kind": "event",
+  "event_id": "311139336",
+  "event_title": "AI Agent Meetup NYC",
+  "title": "AI Agent Meetup NYC",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/311139336/",
+  "description": "**AI Agent Meetup NYC: Deep Research for Finance, Education AI & the Need for Speed** This [AI Alliance](https://aialliance.org/) event is sponsored by SingleStore. The NYC AI Agent Meetup is a place for AI Agent Developers, Engineers, UX, Ops, and Applied Researchers exploring and leading the evolution of AI agents. Whether you're building autonomous systems, experimenting with LLM-powered assistants, or integrating AI agents into real-world applications, this meetup is the place to discover, share insights, and collaborate with your peers. Join us for talks, demos, discussions and networking with like-minded innovators shaping the next generation of AI. The theme is Agentic AI including Deep Research for Finance, Education AI, and Speed Details and RSVP: https://luma.com/a2jxf2ck",
+  "date_time": "2025-09-30T17:30:00-04:00",
+  "end_time": "2025-09-30T20:30:00-04:00"
+}

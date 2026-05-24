@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2011-12-08T18:30:00-08:00",
+    "description": "Martin Odersky is a professor of programming methods at the EPFL, where he heads the programming research group. He codesigned and implemented the Pizza and Generic Java extensions of Java, and is the inventor of Scala. Martin will be presenting what's coming in Scala 2.10 and will be available for Q&A.\n\nThis event will be streamed and recorded. We will give away free copies of IntelliJ IDEA for personal use.\n\nMartin will also present the same topic two days earlier in Palo Alto to the BASE group (http://www.meetup.com/Bay-Area-Scala-Enthusiasts/events/43082342/).\n\nThe session will be streamed live at http://www.ustream.tv/channel/ign-meetups",
+    "endTime": "2011-12-08T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/42955912/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "42955912",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Martin Odersky Presents What's Coming in Scala 2.10"
+  },
+  "event_id": "42955912",
+  "event_title": "Martin Odersky Presents What's Coming in Scala 2.10",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "Martin Odersky is a professor of programming methods at the EPFL, where he heads the programming research group. He codesigned and implemented the Pizza and Generic Java extensions of Java, and is the inventor of Scala. Martin will be presenting what's coming in Scala 2.10 and will be available for Q&A. This event will be streamed and recorded. We will give away free copies of IntelliJ IDEA for personal use. Martin will also present the same topic two days earlier in Palo Alto to the BASE group (http://www.meetup.com/Bay-Area-Scala-Enthusiasts/events/43082342/). The session will be streamed live at http://www.ustream.tv/channel/ign-meetups",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-martin-odersky-presents-what-s-coming-in-scala-2-10-martin-odersky-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-martin-odersky-presents-what-s-coming-in-scala-2-10-martin-odersky-2.json",
+    "source_id": "bythebay-20260508-sf-scala-martin-odersky-presents-what-s-coming-in-scala-2-10-martin-odersky-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Martin Odersky"
+      }
+    ],
+    "title": "Martin Odersky Presents What's Coming in Scala 2.10"
+  },
+  "source_id": "bythebay-20260508-sf-scala-martin-odersky-presents-what-s-coming-in-scala-2-10-martin-odersky-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/42955912/"
+}

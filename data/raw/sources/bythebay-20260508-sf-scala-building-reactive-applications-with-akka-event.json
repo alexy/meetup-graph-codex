@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-03-20T18:30:00-07:00",
+    "description": "The demands and expectations for applications have changed dramatically in recent years. Applications today are deployed on a wide range of infrastructure; from mobile devices up to thousands of nodes running in the cloud—all powered by multi-core processors. They need to be rich and collaborative, have a real-time feel with millisecond response time and should never stop running. Additionally, modern applications are a mashup of external services that need﻿ to be consumed and composed to provide the features at hand. We are seeing a new type of applications emerging to address these new challenges—these are being called Reactive Applications. In this talk we will introduce you to Akka and discuss how it can help you deliver on the four key traits of Reactive; Event-Driven, Scalable, Resilient and Responsive. We will start with the basics of Akka and work our way towards some of its more advanced modules such as Akka Cluster and Akka Persistence.\n\nBio: Jonas Bonér the co-founder and CTO of Typesafe and the inventor Akka. Learn more at: http://jonasboner.com\n\nAgenda:\n\n6:30pm doors open\n\n6:50pm announcements, including hiring (prepare a 1 minute pitch if you are hiring!)\n\n7:00pm talk",
+    "endTime": "2014-03-20T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/166180622/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "166180622",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Building Reactive Applications with Akka"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-building-reactive-applications-with-akka-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/166180622/"
+}

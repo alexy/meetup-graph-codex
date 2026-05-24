@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-11-02T18:00:00-07:00",
+    "description": "Note: Scala+Scale By the Bay (http://scala.bythebay.io) conference, held at Twitter on November 11-13, covers Data Pipelines for Machine Learning / Data Mining. Meetup members are eligible for a discount they are sent via email.\n\nBay Area AI is starting a thorough, most rigorous exploration of AI as it takes the industry by storm.\n\nOur signature approach is two-fold: we bring you companies leading AI implementation and working with numerous real-life customers who are deploying AI, while keeping scientific depth and providing insights into the MIND stack powering the technology behind the applications. In addition to the various topics of interest we're covering monthly or twice a month, we'll have in-depth series on important topics, such as Deep Learning.\n\nWe'll have two talks.\n\n(1) AI at CrowdFlower, Lukas Biewald\n\nOur new cycle starts at CrowdFlower, a leading provider of Human-in-the-Loop AI. Lukas Biewald, founder and Chief Data Scientist, will describe the enormous amount of data processing customers perform on its platform, and where CrowdFlower AI is headed.\n\nLukas co-founded CrowdFlower. He has worked as a Senior Scientist and Manager within the Ranking and Management Team at Powerset, Inc., a natural language search technology company later acquired by Microsoft, and also led the Search Relevance Team for Yahoo! Japan. He graduated from Stanford University with a BS in Mathematics and an MS in Computer Science. Lukas is also an expert-level Go player.\n\n(2) From Logic to English via Chart Parsing, Darryl McAdams\n\nThis talk with look at an old, but interesting, technique for generating text in English (or any other language!) from a logical representation of its meaning, using a generalization of chart parsing, and a clever \"flat\" representation of logical formulas. This technique can be used to easily handle non-local properties of meanings, such as quantification and question words.\n\nAbout the presenter: I'm is a linguist, type theorist, and functional programmer working on a natural language AI project. You can find me on twitter as @psygnisfive and on freenode as augur.",
+    "endTime": "2016-11-02T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/234760100/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "234760100",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Bay Area AI: CrowdFlower AI and Text Generation"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-bay-area-ai-crowdflower-ai-and-text-generation-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/234760100/"
+}

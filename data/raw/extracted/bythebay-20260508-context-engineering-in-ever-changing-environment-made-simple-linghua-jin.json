@@ -1,0 +1,23 @@
+{
+  "id": "talk:ai-by-the-bay:bythebay-20260508-context-engineering-in-ever-changing-environment-made-simple-linghua-jin",
+  "source_id": "bythebay-20260508-context-engineering-in-ever-changing-environment-made-simple-linghua-jin",
+  "source_file": "data/raw/sources/bythebay-20260508-context-engineering-in-ever-changing-environment-made-simple-linghua-jin.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-context-engineering-in-ever-changing-environment-made-simple-linghua-jin.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "Context engineering in ever changing environment - made simple",
+  "conference_id": "ai-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Linghua Jin, Co-founder of CocoIndex",
+  "tags": [
+    "Context engineering",
+    "Agentic AI",
+    "LLMOps",
+    "Graph Knowledge"
+  ],
+  "url": "https://ai.bythebay.io/talks/context-engineering-in-ever-changing-environment-made-simple",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

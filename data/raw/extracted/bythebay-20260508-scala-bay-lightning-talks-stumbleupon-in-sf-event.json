@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-lightning-talks-stumbleupon-in-sf-event",
+  "source_id": "bythebay-20260508-scala-bay-lightning-talks-stumbleupon-in-sf-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-lightning-talks-stumbleupon-in-sf-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-lightning-talks-stumbleupon-in-sf-event.json",
+  "kind": "event",
+  "event_id": "95527972",
+  "event_title": "Lightning Talks @ StumbleUpon in SF",
+  "title": "Lightning Talks @ StumbleUpon in SF",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/95527972/",
+  "description": "15-20 minute presentations on Scala-related topics, by BASE members, for BASE members. Listed in alphabetic order; presentation order yet to be determined. David Andrzejewski: Scala at Sumo Logic: type classes with a machine learning example (SF & SJ) James Douglas: Dependency Injection with Jellyfish (SF Only) Bob Kohlenberger: NumVal, an implicitly abstract numerics class. The talk will discuss Scala coding, testing, and performance issues, comparison with Spire, and intended use in a data visualization API. (repeating at all 3 venues) Christopher Olson: Delimited Continuations for Asynchronous IO 0.2.0 (repeating at 2 or 3 venues) Tony Tam: Swagger Vlad Patryshev Scalaz Kittens (repeating at all 3 venues) As usual, the schedule for the event is: 6:30 - networking, food 7:00 - announcements 7:10 - presentations start 9:00 - More networking We will give away two copies of IntelliJ IDEA 11 for personal use, and two copies of JRebel. Two e-copies of \"Monadic Design Patterns (http://www.artima.com/shop/monadic_design_patterns)\", published by Artima will also be given away If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile. This event will repeat in Corte Madera (http://www.meetup.com/Bay-Area-Scala-Enthusiasts/events/95919892/) and somewhere on the Peninsula/San Jose (http://www.meetup.com/Bay-Area-Scala-Enthusiasts/events/95920032/). Some speakers will present at one or more events. If your organization would like to host either of these events, please contact an organizer.",
+  "date_time": "2013-01-14T18:30:00-08:00",
+  "end_time": "2013-01-14T21:00:00-08:00"
+}

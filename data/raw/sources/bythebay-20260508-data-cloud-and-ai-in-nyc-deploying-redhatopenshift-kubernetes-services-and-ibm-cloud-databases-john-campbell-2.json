@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2019-09-26T18:30:00-04:00",
+    "description": "When building an open source enterprise solution on the cloud, there is a lot to consider before you get started. Will your solution scale? How resilient will it be? Does your team have the time and skills to handle timely provisioning and upgrades? What about compliance?\n\nCome to IBM Developer's meetup where we will answer these questions and you will learn:\nWhat is the difference between Kubernetes and OpenShift?\n* How to build highly available and secure applications using IBM RedHat OpenShift (based on Kubernetes) and IBM Cloud Databases.\n* Watch a step-by-step demo\n* Common use cases and approaches to building resilient applications\n* Best Practices\n* Q&A\n\nSpeaker bio:\nJohn Campbell is an experienced Cloud Engineer. Currently working with clients around the world to help them get the best value developing and delivering services through cloud. Most recently he has worked with Government and Defence organizations designing and deploying secure cloud capabilities, moving a private healthcare client through their initial move to public cloud, taking new SaaS offerings to market with a partner, and designing a large scale global analytics cloud service, for a major banking client.\n\nPrior to this, John has helped clients utilize emerging technologies, including OpenStack, Hadoop and data centric systems, with a focus on business agility, and the underlying organizational transformation. Through his career, John has held a number of European and Worldwide roles including development, product management and strategy. John also represents IBM on a number of working groups to foster closer relationships and information sharing, helping to deliver more successful services.\nOutside of IT, John is a qualified rescue diver, keen cook and improving beekeeper.\n\nIf you want to view the workshop content - you can navigate to https://roks-icd.cloud-design.dev/icd. Also, if you actually want to do some pre-work - deploying the IBM Cloud DB will take about 5-10 min. You can go ahead and do that in advance on the 'lite' plan. Also, bring your laptop!",
+    "endTime": "2019-09-26T20:30:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/264801420/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "264801420",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Deploying RedHatOpenShift Kubernetes Services and IBM Cloud Databases"
+  },
+  "event_id": "264801420",
+  "event_title": "Deploying RedHatOpenShift Kubernetes Services and IBM Cloud Databases",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "When building an open source enterprise solution on the cloud, there is a lot to consider before you get started. Will your solution scale? How resilient will it be? Does your team have the time and skills to handle timely provisioning and upgrades? What about compliance? Come to IBM Developer's meetup where we will answer these questions and you will learn: What is the difference between Kubernetes and OpenShift? * How to build highly available and secure applications using IBM RedHat OpenShift (based on Kubernetes) and IBM Cloud Databases. * Watch a step-by-step demo * Common use cases and approaches to building resilient applications * Best Practices * Q&A Speaker bio: John Campbell is an experienced Cloud Engineer. Currently working with clients around the world to help them get the best value developing and delivering services through cloud. Most recently he has worked with Government and Defence organizations designing and deploying secure cloud capabilities, moving a private healthcare client through their initial move to public cloud, taking new SaaS offerings to market with a partner, and designing a large scale global analytics cloud service, for a major banking client. Prior to this, John has helped clients utilize emerging technologies, including OpenStack, Hadoop and data centric systems, with a focus on business agility, and the underlying organizational transformation. Through his career, John has held a number of European and Worldwide roles including development, product management and strategy. John also represents IBM on a number of working groups to foster closer relationships and information sharing, helping to deliver more successful services. Outside of IT, John is a qualified rescue diver, keen cook and improving beekeeper. If you want to view the workshop content - you can navigate to https://roks-icd.cloud-design.dev/icd. Also, if you actually want to do some pre-work - deploying the IBM Cloud DB will take about 5-10 min. You can go ahead and do that in advance on the 'lite' plan. Also, bring your laptop!",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-deploying-redhatopenshift-kubernetes-services-and-ibm-cloud-databases-john-campbell-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-deploying-redhatopenshift-kubernetes-services-and-ibm-cloud-databases-john-campbell-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-deploying-redhatopenshift-kubernetes-services-and-ibm-cloud-databases-john-campbell-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "John Campbell"
+      }
+    ],
+    "title": "Deploying RedHatOpenShift Kubernetes Services and IBM Cloud Databases"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-deploying-redhatopenshift-kubernetes-services-and-ibm-cloud-databases-john-campbell-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/264801420/"
+}

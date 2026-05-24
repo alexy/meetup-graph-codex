@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2016-12-06T18:00:00-08:00",
+    "description": "Please join us for a community-driven evening of side projects, workshops, lightning talks, and open-source hacking. Try out new ideas from Scala By the Bay and the Scala.js Workshop! Thanks again TicketFly (http://careers.ticketfly.com/) for hosting yet another unmeetup! They have a great venue, and past events there have been a great success.\nWhat is an \"Unmeetup\"?\n\nAn unmeetup is a casual community-driven, hands-on meetup modeled after unconferences (https://en.wikipedia.org/wiki/Unconference). Members propose topics to discuss and projects to work on, then each individual chooses how to spend their time for the evening. This is complementary to the standard meetup and emphasizes community-building and collaboration.\n\nYou should join if you:\n\n• would like to offer a workshop or lightning talk.\n\n• want to find contributors for your open source project.\n\n• are new to Scala and want to work with other Scala developers.\n\n• are experienced with Scala and want to mentor others.\n\n• have cool work-in-progress and want feedback.\n\n• just want to hack on a project!\n\nA project could be a side projects, open source, or code from work you'd like to bounce ideas about.\n\nAgenda\n\n6:00 - Doors Open\n\n6:45 - Welcome and project introductions\n\n7:00 - Project time\n\n8:55 - Wrap up and take the party elsewhere\n\nAbout Ticketfly\n\nTicketfly, a subsidiary of Pandora, is a technology company reimagining the live event experience for promoters and fans. Its powerful ticketing, digital marketing, and analytics software helps promoters sell more tickets, streamline operations, and increase revenue per attendee, while its consumer tools make it easy for fans to find and purchase tickets to great events across North America. Since 2008, more than 1,200 leading venues and promoters have partnered with Ticketfly, including Merriweather Post Pavilion, the Brooklyn Bowl, Central Park SummerStage, Pitchfork Music Festival, and The Troubadour. Ticketfly is led by Andrew Dreskin, co-founder of TicketWeb, the first company to ever sell tickets online. In 2014, Ticketfly crossed the $1B mark in transaction volume and in 2015 it was named one of Fast Company's \"Most Innovative Companies in Music\".",
+    "endTime": "2016-12-06T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/235846399/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "235846399",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "SF Scala UnMeetup @ TicketFly"
+  },
+  "event_id": "235846399",
+  "event_title": "SF Scala UnMeetup @ TicketFly",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "Please join us for a community-driven evening of side projects, workshops, lightning talks, and open-source hacking. Try out new ideas from Scala By the Bay and the Scala.js Workshop! Thanks again TicketFly (http://careers.ticketfly.com/) for hosting yet another unmeetup! They have a great venue, and past events there have been a great success. What is an \"Unmeetup\"? An unmeetup is a casual community-driven, hands-on meetup modeled after unconferences (https://en.wikipedia.org/wiki/Unconference). Members propose topics to discuss and projects to work on, then each individual chooses how to spend their time for the evening. This is complementary to the standard meetup and emphasizes community-building and collaboration. You should join if you: • would like to offer a workshop or lightning talk. • want to find contributors for your open source project. • are new to Scala and want to work with other Scala developers. • are experienced with Scala and want to mentor others. • have cool work-in-progress and want feedback. • just want to hack on a project! A project could be a side projects, open source, or code from work you'd like to bounce ideas about. Agenda 6:00 - Doors Open 6:45 - Welcome and project introductions 7:00 - Project time 8:55 - Wrap up and take the party elsewhere About Ticketfly Ticketfly, a subsidiary of Pandora, is a technology company reimagining the live event experience for promoters and fans. Its powerful ticketing, digital marketing, and analytics software helps promoters sell more tickets, streamline operations, and increase revenue per attendee, while its consumer tools make it easy for fans to find and purchase tickets to great events across North America. Since 2008, more than 1,200 leading venues and promoters have partnered with Ticketfly, including Merriweather Post Pavilion, the Brooklyn Bowl, Central Park SummerStage, Pitchfork Music Festival, and The Troubadour. Ticketfly is led by Andrew Dreskin, co-founder of TicketWeb, the first company to ever sell tickets online. In 2014, Ticketfly crossed the $1B mark in transaction volume and in 2015 it was named one of Fast Company's \"Most Innovative Companies in Music\".",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-andrew-dreskin-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-andrew-dreskin-2.json",
+    "source_id": "bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-andrew-dreskin-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Andrew Dreskin"
+      }
+    ],
+    "title": "SF Scala UnMeetup @ TicketFly"
+  },
+  "source_id": "bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-andrew-dreskin-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/235846399/"
+}

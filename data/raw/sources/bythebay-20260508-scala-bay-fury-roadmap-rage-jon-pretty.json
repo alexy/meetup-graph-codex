@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2020-10-28T18:00:00-07:00",
+    "description": "Fury (https://github.com/propensive/fury) is close to its first milestone release, a \"preview\" where, for the first time, we can recommend adoption for experimentation. The roadmap to version 1.0 still has a long way to go, but in this talk, I will introduce some of the new features arriving in Milestone 1 (\"Alecto\"), such as ecosystem-wide updates, Scala.js support, and online publishing, plus a preview of some of the exciting new prospects for later milestones, including integration with Docker, a GUI extension for VS Code and distributed builds.\n\nSpeaker: Jon Pretty (https://www.linkedin.com/in/jpretty)\nBio: Jon long-time Scala developer, delivering the first commercial and open-source projects in Scala in 2005. He is a former chair of the Scala Center Advisory Board and currently serves as advisor on the Virtus Lab Scala Steering Committee. Jon actively contributes to the Scala open-source ecosystem with Fury, Magnolia and Kaleidoscope, and organizes the annual Scala World conference. He contributes free online training through ScalaZONE and Functional Africa, and provides commercial advanced Scala training courses, specializing in the type system.",
+    "endTime": "2020-10-28T19:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/273537257/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "273537257",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Fury: Roadmap Rage"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-fury-roadmap-rage-jon-pretty",
+  "source_url": "https://www.meetup.com/scala-bay/events/273537257/"
+}

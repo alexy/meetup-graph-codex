@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz-2",
+  "source_id": "bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz-2.json",
+  "kind": "talk",
+  "event_id": "187365722",
+  "event_title": "Functional APIs in Scala",
+  "title": "Functional APIs in Scala",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Jason Swartz, O'Reilly Media",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/187365722/",
+  "description": "We have two talks on creating API services in Scala, following the best practices of functional programming, by Jason Swartz and James Earl Douglas. ANNOUNCEMENT: Scala By the Bay Developer Conference and Training (http://www.scalabythebay.org) is now open for registration (http://scala-by-the-bay.ticketleap.com/scala-by-the-bay-2014/) ! Seating is limited, with early bird pricing in effect until July 2nd. Talk A: Jason Swartz, Build quickly, fail faster & deploy automatically. Enterprise APIs with ease. Our REST API server project at Netflix was a big success, resulting in 150 web services in five months and no downtime. By taking advantage of self-documenting API frameworks, continuous integration with JSON-friendly API tests and automated deployments, we were able to focus on building services that would publicize themselves. This session highlights the engineering tools and processes that enable rapid API development, deployment and adoption. I'll cover the Scalatra, Swagger, and ScalaTest frameworks as well as Netflix's push-button deployment system using Jenkins and Asgard. Jason is a Software Engineer in the San Francisco Bay Area, developing applications and services in Scala at Netflix. Before making the switch to functional programming and REST API development he managed the developer docs and support team at eBay, wrote advertising and merchandising platforms in Java and built tools and UI prototypes at Apple Computer. He is working on his first book, \"Learning Scala\", to be published this summer by O'Reilly Media. Talk B: James Earl Douglas, Putting functional programming to work Frequently among the benefits claimed of functional programming are promises of safety, composability, and reusability, but it is often difficult to connect these ideas with production code solving real-world problems. In this session, we dig into one particular tool: the state monad, to see how it lives up to these promises and helps power the Versal platform. A programmer passionate about continuous learning, inspiring the joy of teaching, and keeping just outside of his comfort zone, James helps build the Scala backend of the Versal platform. When not knee-deep in type theory, he can be found riding his bicycle. We need a venue for this meetup. Please contact alexy@scalable.pro to host it. We need a video sponsor for this event. We record every meetup ourselves and publish it on functional.tv (http://functional.tv/). We include sponsor logos in the recordings. If you are in the NLP/ML space, this is a great opportunity to connect with the community -- contact alexy@scalable.pro for sponsorship.",
+  "date_time": "2014-06-26T18:30:00-07:00",
+  "end_time": "2014-06-26T21:30:00-07:00"
+}

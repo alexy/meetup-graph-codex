@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event",
+  "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event.json",
+  "kind": "talk",
+  "event_id": "299449651",
+  "event_title": "Unstructured Data in LLMs - South Bay Edition",
+  "title": "Unstructured Data in LLMs - South Bay Edition",
+  "conference_id": "meetup:36468260",
+  "meetup_id": "meetup:36468260",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/unstructured-data-sf/events/299449651/",
+  "description": "This is an in-person event! [Registration](https://lu.ma/odhcf97e) is required in order to get in. **Topic:** Connecting your unstructured data with Generative AI **What we’ll do:** Have some food and refreshments. Hear three exciting talks about unstructured data and generative AI. 5:30 - 6:30 - Welcome/Networking/Registration 6:35 - 7:00 - Sparse Vectors with Milvus - [Yi Wang](https://www.linkedin.com/in/njucst/), Zilliz Cloud Software Engineer 7:05 - 7:30 - Chat with your data, privately and locally - [Jay Rodge](https://www.linkedin.com/in/jayrodge/), Developer Advocate at NVIDIA 7:35 - 8:00 - Voyage AI Embedding for your RAG apps - [Tengyu Ma](https://www.linkedin.com/in/tengyuma/), Voyage AI CEO 8:00 - 8:30 - Networking **Who Should attend:** Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. **When:** March 27, 2024 5:30PM **Tech Talk 1:** Sparse Vectors with Milvus **Speaker**: Yi Wang, Software Engineer at Zilliz **Abstract**: The latest version of Milvus introduces sparse vectors to use in your semantic searches. Learn from Yi, Software Engineer at Zilliz, how you can use sparse and dense embeddings to power your RAG apps. **Tech Talk 2:** Chat with your data, privately and locally **Speaker**: Jay Rodge, Developer Advocate at NVIDIA **Abstract**: Sometimes people worry that if they ask ChatGPT a question, their queries may be used to train the AI model. However, if you use a local application or RAG to search for proprietary documents stored locally on your machine, like patents or personal diaries, the data will be safe. Although this is a good solution, it may slow down the process of running LLMs locally if models with original weights are used. In this talk, Jay proposes a local and optimized RAG pipeline for systems using consumer desktop/laptop NVIDIA GPUs. We will use Milvus as our vector database for faster vector search, and TensorRT-LLM optimized open-source LLM leveraging local GPU compute. **Tech Talk 3:** Voyage AI Embedding for your RAG apps **Speaker**: Tengyu Ma, Co-Founder & CEO, Voyage AI. Assistant Professor, Stanford University **Abstract**: Voyage AI is a team of leading AI researchers, dedicated to enabling teams to build better RAG applications via quality retrieval. This talk will present the Voyage AI state-of-the-art embedding models and APIs, which outperforms alternatives such as OpenAI v3 text embeddings. These models are a part of the Zilliz Cloud Pipelines. **Where:** This is an in-person event. Registration is required to get into the event. Registration in advance will close 2 days before the event. Sponsored by [Zilliz](http://zilliz.com/) maintainers of [Milvus](https://github.com/milvus-io/milvus)",
+  "date_time": "2024-03-27T17:30:00-07:00",
+  "end_time": "2024-03-27T20:30:00-07:00"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-12-10T18:00:00-05:00",
+    "description": "Do you like to learn about new innovations in the application development space? Are you part of an app development team where the demand for applications is greater than your bandwidth to deliver them? Do you work in the line of business and want to create apps to solve problems and add business value, but learning to code is intimidating and overwhelming? Are you spending most of your time performing rework because the apps you deliver don’t align with your customer’s changing requirements?\n\nIf you answered yes to any of these questions, a low code application development platform may help you bridge the divide between the business and IT to deliver high quality enterprise apps in a fraction of the time it takes with traditional coding and development approaches.\nLow Code is a visual approach to application development using an intuitive drag and drop interface for UI, logic, and data models to build web and mobile applications.\n\nJoin us on December 10th for a presentation and demonstration where you will learn how low code helps companies:\n- Build enterprise applications rapidly using developers existing skills to solve business problems across a wide range of use cases.\n- Enable the business to contribute directly to app development throughout the app dev lifecycle to build applications that make an impact and drive tangible business value.\n- Take advantage of technologies like Watson IoT and recognition services without having to write custom code.\n\nJeff Goldberg is a technology and product Evangelist at Mendix, the leading low-code application development platform bringing business and IT together to build enterprise applications at scale. As a new age technologist, Jeff combines his business domain knowledge with technical experience in a variety of roles over the past 20 years, helping development teams in IT and the line of business maximize value in areas such as BI, integration, security, automation, and app development. With projects ranging from writing macros to level up characters in his favorite pc game to coding solutions that help customers turn insights into action, Jeff enjoys sharing his vision of how low code is a force enabling developers to make a deeper impact in the work they do with greater efficiency and less effort.\n\nDue to IBM Security, you must have photo ID to enter the building. Please RSVP with your full first/last name. Light refreshments will be served.",
+    "endTime": "2018-12-10T20:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/256821339/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "256821339",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Power Up full stack app development with Low Code"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-power-up-full-stack-app-development-with-low-code-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/256821339/"
+}

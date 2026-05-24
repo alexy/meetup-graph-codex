@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-deepspeed-meetup-linkedin-event",
+  "source_id": "bythebay-20260508-bay-area-ai-deepspeed-meetup-linkedin-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-deepspeed-meetup-linkedin-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-deepspeed-meetup-linkedin-event.json",
+  "kind": "workshop",
+  "event_id": "299901377",
+  "event_title": "DeepSpeed Meetup @LinkedIn",
+  "title": "DeepSpeed Meetup @LinkedIn",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/299901377/",
+  "description": "*Note: **registration is required** at* [https://www.meetup.com/deepspeed-meetup-group/events/299786564/](https://www.meetup.com/deepspeed-meetup-group/events/299786564/) **DeepSpeed** is an easy-to-use deep learning optimization software suite that powers unprecedented scale and speed for both training and inference. DeepSpeed enables world's most powerful language models. In this meetup, **LinkedIn**, **Intel** and **Microsoft** DeepSpeed teams will present the latest techniques and use cases with DeepSpeed at **LinkedIn HQ** in Mountain View, CA. Meetup agenda: * **ML Infrastructure and Platform for Generative AI (LinkedIn)** * **Learnings of adopting and contributing to ZeRO+ (LinkedIn)** * **Story of DeepSpeed and DeepSpeed inference on brew models (LinkedIn)** * **Intel 4th Gen hardware with DeepSpeed (Intel)** * **DeepSpeed FastGen (DeepSpeed)**",
+  "date_time": "2024-04-03T17:00:00-07:00",
+  "end_time": "2024-04-03T19:00:00-07:00"
+}

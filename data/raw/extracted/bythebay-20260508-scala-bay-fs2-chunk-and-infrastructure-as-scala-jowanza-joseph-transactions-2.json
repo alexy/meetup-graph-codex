@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-fs2-chunk-and-infrastructure-as-scala-jowanza-joseph-transactions-2",
+  "source_id": "bythebay-20260508-scala-bay-fs2-chunk-and-infrastructure-as-scala-jowanza-joseph-transactions-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-fs2-chunk-and-infrastructure-as-scala-jowanza-joseph-transactions-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-fs2-chunk-and-infrastructure-as-scala-jowanza-joseph-transactions-2.json",
+  "kind": "talk",
+  "event_id": "282531416",
+  "event_title": "fs2.Chunk and Infrastructure as Scala",
+  "title": "fs2.Chunk and Infrastructure as Scala",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": "Jowanza Joseph Transactions",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/282531416/",
+  "description": "All SBTB 2021 videos are up: https://chief.sc/sbtb2021-videos ----- For this festive end of 2021 meetup, we have two incredible talks: (1) fs2.Chunk by Michael Pilquist The Chunk data structure powers the fs2 streaming library. In this talk, we’ll look at the design of Chunk and in particular, how design constraints guided its evolution. Michael has been using Scala since 2009, when he was convinced to give it a try by listening to Dick Wall and the Java Posse. He introduced Scala at Comcast and has written a number of open source functional programming libraries since then, including scodec, simulacrum, and ip4s. He’s also the lead maintainer of FS2, a pretty neat functional streaming library, and contributes heavily to the Typelevel ecosystem. (2) An Introduction to Transactions in Apache Pulsar by Jowanza Joseph Transactions are an API in Apache Pulsar that enables atomic operations among pulsar consumers and producers. This talk covers the motivating factors for Transactions in a system like Apache Pulsar, deep dives into the transactions API, and walks through some examples of using Transactions with the pulsar4s client. Attendees can expect to learn about Pulsar Transaction in-depth and take away ways they can use Pulsar Transactions in their applications. Jowanza Joseph is VP of Engineering at Finicity, A Mastercard Company. Jowanza's career has focused on large-scale distributed systems and distributed pub/sub. Jowanza is the author of Master Apache Pulsar.",
+  "date_time": "2021-12-14T12:00:00-08:00",
+  "end_time": "2021-12-14T14:00:00-08:00"
+}

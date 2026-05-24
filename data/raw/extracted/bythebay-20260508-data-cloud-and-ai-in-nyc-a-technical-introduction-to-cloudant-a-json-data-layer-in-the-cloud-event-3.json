@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event-3",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event-3",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event-3.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event-3.json",
+  "kind": "event",
+  "event_id": "219936169",
+  "event_title": "A Technical Introduction to Cloudant : A JSON Data Layer in the Cloud",
+  "title": "A Technical Introduction to Cloudant : A JSON Data Layer in the Cloud",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/219936169/",
+  "description": "IBM® Cloudant™ database service delivers high availability, elastic scalability and innovative mobile device synchronization. The Cloudant JSON cloud-based data service allows mobile and web developers to quickly and easily store and access the rapidly increasing amount of mobile data using an application programming interface (API) that is significantly easier to use than alternatives. Increasingly, developers have embraced NoSQL databases because of their flexibility, and JSON has become thepredominant NoSQL database technology for mobile and web app developers. This session consists of both presentations and hands-on lab exercises. To guarantee your seat, register here (https://docs.google.com/forms/d/1L8e7fubDSiHddg5Em5WOUECz0Snql_jemELqdsbiqkE/viewform)and receive a confirmation. This session introduces Cloudant and how it differs from other data management platforms. Key features are described, including Cloudant Query, MapReduce and integrated Lucene Search along with RESTful HTTP API. Agenda • NoSQL landscape • Database as a service • JSON primer • Cloudant dashboard • Replication • RESTful APIs • Primary indexes • Cloudant query • Secondary indexes or MapReduce • Search indexes Accessing Cloudant from an application This event is free. Complimentary refreshments including continental breakfast and lunch will be provided. For your convenience, registration and continental breakfast begins at 8:30 a.m. The session starts at 9:00 a.m. and ends at approximately 5:00 p.m. To guarantee your seat, register here (https://docs.google.com/forms/d/1L8e7fubDSiHddg5Em5WOUECz0Snql_jemELqdsbiqkE/viewform)and receive a confirmation.",
+  "date_time": "2015-02-05T09:00:00-05:00",
+  "end_time": "2015-02-05T16:00:00-05:00"
+}

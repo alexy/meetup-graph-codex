@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-scala-at-linkedin-frank-sommers-2",
+  "source_id": "bythebay-20260508-scala-bay-scala-at-linkedin-frank-sommers-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-scala-at-linkedin-frank-sommers-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-scala-at-linkedin-frank-sommers-2.json",
+  "kind": "talk",
+  "event_id": "57803812",
+  "event_title": "Scala at LinkedIn",
+  "title": "Scala at LinkedIn",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": "Frank Sommers, Joshua Erlich, Philipp Haller, Rui Wang",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/57803812/",
+  "description": "Dhananjay Ragade -- Overview of Scala at LinkedIn Mark Pascual -- Scala usage in LinkedIn Today Joel Koshy -- Kafka Rui Wang and Joshua Erlich -- Norbert and uses of Scala in the Search & Analytics team As usual, the schedule for the event is: 6:30 - networking, food 7:00 - announcements 7:15 - presentation 8:30 - Q&A, more networking afterward Depending on attendance, we will give away 1 or 2 copies of IntelliJ IDEA for personal use. Two copies of JRebel will be given away. One or two free PDF copies of \"Actors in Scala (http://www.artima.com/shop/actors_in_scala)\" by Philipp Haller and Frank Sommers, published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile. This event will be recorded. We will post a link to the recording on this page when it is ready.",
+  "date_time": "2012-05-14T18:30:00-07:00",
+  "end_time": "2012-05-14T21:30:00-07:00"
+}

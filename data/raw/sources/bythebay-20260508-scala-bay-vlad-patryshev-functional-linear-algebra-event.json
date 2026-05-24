@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-04-09T19:00:00-07:00",
+    "description": "Samsung Research America is happy to host this talk:\n\nVlad Patryshev, \"Functional Linear Algebra\"\n\nAbstract\n\nIt is curious that a bunch of Linear Algebra implementations are written as if it is Fortran all the way down. We can do better, and a functional implementation, with less mutability and more abstractions, may save efforts, space, and processor time. I will show pieces of easy-to-read code that works with vectors and matrices in a functional way. As an example, an efficient and practical implementation of PCA.\n\nShort Bio\n\nVlad is currently an engineer at Salesforce. He also teaches Logic and Formal Methods at Santa Clara University. A fan of math and fp. Organizer of Scala Bay and Bay Area Categories and Types.\n\nSchedule\n\n• 6:30-7:00 - networking (pizza, beer)\n• 7:00-7:10 - announcements etc.\n• 7:10-8:00 - talk\n• 8:00-8:30 - more networking",
+    "endTime": "2018-04-09T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/248179801/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "248179801",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Vlad Patryshev, \"Functional Linear Algebra\""
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-vlad-patryshev-functional-linear-algebra-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/248179801/"
+}

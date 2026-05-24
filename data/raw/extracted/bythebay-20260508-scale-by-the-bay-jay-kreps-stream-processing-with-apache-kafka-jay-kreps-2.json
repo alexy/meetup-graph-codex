@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18748975:bythebay-20260508-scale-by-the-bay-jay-kreps-stream-processing-with-apache-kafka-jay-kreps-2",
+  "source_id": "bythebay-20260508-scale-by-the-bay-jay-kreps-stream-processing-with-apache-kafka-jay-kreps-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scale-by-the-bay-jay-kreps-stream-processing-with-apache-kafka-jay-kreps-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scale-by-the-bay-jay-kreps-stream-processing-with-apache-kafka-jay-kreps-2.json",
+  "kind": "talk",
+  "event_id": "225292151",
+  "event_title": "Jay Kreps: Stream Processing with Apache Kafka",
+  "title": "Jay Kreps: Stream Processing with Apache Kafka",
+  "conference_id": "meetup:18748975",
+  "meetup_id": "meetup:18748975",
+  "speaker_text": "Jay Kreps",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bythebay/events/225292151/",
+  "description": "Schedule 6:30 - Doors 7:00 - Talk starts Talk Abstract Most software systems continuously transform streams of inputs into streams of outputs. Yet the idea of directly modeling stream processing in infrastructure systems is just coming into it's own after a few decades on the periphery. This talk will cover the basic challenges of reliable, distributed, stateful stream processing. It will cover how Apache Kafka was designed to support capturing and processing distributed data streams by building up the basic primitives needed for a stream processing system. Finally it will explore how these kind of infrastructure maps to practical problems based on our experience building and scaling Kafka to handle streams that captured hundreds of billions of records per day. Speaker Jay Kreps is the original author of several of open source projects including Apache Kafka, Apache Samza, Voldemort, and Azkaban. Jay is the co-founder and CEO at Confluent, a company built around realtime data streams and the open source messaging system Apache Kafka.",
+  "date_time": "2015-10-08T18:30:00-07:00",
+  "end_time": "2015-10-08T21:30:00-07:00"
+}

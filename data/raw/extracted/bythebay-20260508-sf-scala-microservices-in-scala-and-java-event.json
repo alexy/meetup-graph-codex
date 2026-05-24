@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-microservices-in-scala-and-java-event",
+  "source_id": "bythebay-20260508-sf-scala-microservices-in-scala-and-java-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-microservices-in-scala-and-java-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-microservices-in-scala-and-java-event.json",
+  "kind": "announcement",
+  "event_id": "229155087",
+  "event_title": "Microservices in Scala and Java",
+  "title": "Microservices in Scala and Java",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/229155087/",
+  "description": "Note: microservices are covered in depth at Data Pipelines By the Bay, a part of http://data.bythebay.io . Early bird registration ends March 31. This meetup will be hosted by Tradeshift. Chris Richardson, the founder of the original Cloudfoundry and now http://Eventuate.io and http://microservices.io , will overview microservices in Scala and Java. Jamie Allen, the Senior Director of Global Services at Lightbend (formerly Typesafe), will outline its vision for microservices and talk about Lagom, a new platform.",
+  "date_time": "2016-03-17T18:00:00-07:00",
+  "end_time": "2016-03-17T21:00:00-07:00"
+}

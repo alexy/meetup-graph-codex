@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-big-data-scala-at-twitter-use-eventbrite-event",
+  "source_id": "bythebay-20260508-sf-scala-big-data-scala-at-twitter-use-eventbrite-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-big-data-scala-at-twitter-use-eventbrite-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-big-data-scala-at-twitter-use-eventbrite-event.json",
+  "kind": "announcement",
+  "event_id": "219387962",
+  "event_title": "Big Data Scala at Twitter: use Eventbrite",
+  "title": "Big Data Scala at Twitter: use Eventbrite",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/219387962/",
+  "description": "Let's start the new year with a big bang -- a Big Data Scala at Twitter kind of bang, to be precise! Oscar Boykin and Avi Bryant return from their respective islands to this unique event, where the whole analytics stack from Twitter will be explained, together with the current Twitter team, and while at Twitter. The only thing we ask is that you tweet about it and mention @sfscala (http://twitter.com/sfscala). Avi will present a new distributed machine learning library running on Scalding. As usual for the Twitter events, RSVPs are managed via Eventbrite -- this time we won't duplicate them here, so the Eventbrite is the system of record. Use the following link to register -- you'll have to present a photo ID matching the information you supply there: http://www.eventbrite.com/e/big-data-scala-at-twitter-tickets-6966307413 We're sorry about no-signup on the meetup -- Twitter Eventbrite policy makes it necessary. We've also changed our mind on how to react to it with the meetup RSVP -- feel free to click \"I want a spot\" so we can have an idea here as well; however, if a meetup doesn't take signups, it means there's either an external registration involved, or a qualifying step. Serendipitously, in 2015, SF Scala starts a whole new conference, called bigdatascala.org (http://www.bigdatascala.org) -- the CFP is open through 2/27/2015, please submit talks!",
+  "date_time": "2015-01-06T18:00:00-08:00",
+  "end_time": "2015-01-06T21:00:00-08:00"
+}

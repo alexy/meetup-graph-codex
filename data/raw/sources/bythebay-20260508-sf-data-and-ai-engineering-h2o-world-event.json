@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-12-04T08:00:00-08:00",
+    "description": "• What we'll do\nH2O World 2017\n\nDate: 4th and 5th December, 2017\nLocation: Computer History Museum, Mountain View\nWe’re back with our flagship event H2O World 2017 to bring together the best of data science, AI, and business transformation.\n\nWe’re going to make it rain insights and storm discussions with speakers from industry-leading companies such as ADP, Amazon’s A9, Booking.com, Capital One, Comcast, Experian, Kaiser Permanente, PayPal and many more to learn how they are using data science, machine learning and AI to transform their business.\n\nEnjoy 50+ sessions on topics such as Auto Feature Engineering, Machine Learning Interpretability, NLP, Automatic Machine Learning, Convex Optimization, Auto Visualization, Computer Vision and many more.\n\nIn addition to learning from industry experts, we invite you to:\n\n* Chat with 5 Kaggle Grandmasters\n* Compete in the Hackathon\n* Participate in hands-on lab sessions with the makers behind H2O products\n* Book signings by Professor Rob Tibshirani, Darren Cook, Michal Malohlava\n* Make a memory at the digital caricature booth\n* Let your taste buds loose by our food trucks\n\nRegister here: h2oworld.h2o.ai\n\nTo win a ticket to H2O World 2017, please tweet your best hashtag about H2O / H2O World to @h2oai and the most impressive hashtags will stand a chance to win. You could also fill out this small survey but we suggest to let your creative horses loose on twitter and better your chances. To avail a discounted ticket, please use discount code ALEXY65 on our general admission tickets to avail a 65% discount!\n\nNote: RSVP'ing on meetup.com doesn't account for your ticket to H2O World 2017. Please visit the official website at h2oworld.h2o.ai and save a spot!\n\n• What to bring\n\n• Important to know",
+    "endTime": "2017-12-05T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/245570657/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "245570657",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "H2O World"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-h2o-world-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/245570657/"
+}

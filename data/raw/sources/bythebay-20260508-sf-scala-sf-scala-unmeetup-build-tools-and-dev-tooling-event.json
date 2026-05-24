@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-04-24T18:00:00-07:00",
+    "description": "This is a duplicate of https://www.meetup.com/SF-Scala/events/249399853/. Please RSVP there instead.\nWe'll delete this entry shortly.",
+    "endTime": "2018-04-24T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/249366613/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "249366613",
+    "isOnline": false,
+    "status": "CANCELLED",
+    "title": "SF Scala Unmeetup: Build Tools and Dev Tooling"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-sf-scala-unmeetup-build-tools-and-dev-tooling-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/249366613/"
+}

@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2014-11-13T18:00:00-08:00",
+    "description": "The September SF Hadoop User Group meetup will be held Thursday, November 13 from 6:00pm to 8:00pm (please note this is a departure from our usual Wednesday meetups). This meetup will be hosted by Datameer, located at 1550 Bryant Street, Penthouse Suite (11th Floor), San Francisco. Food and drinks will be served.\n\nPresentation: Top Big Data Use Cases in Financial Services\n\nWei Wang - Sr. Director, Product Marketing, Datameer\n\nIn financial services, the top big data analytics use cases include customer analytics to understand the customer journey using data from all customer interaction channels, predict and avoid customer churn, and fraud and compliance. The financial and corporate benefits of these use cases range from improving customer retention to hundreds of millions of dollars in incremental revenue and protection of shareholder value.\n\nPresentation: Understanding Datameer 5.0 with Smart Execution\n\nMatt Schumpert - Director, Product Management, Datameer\n\nThis session will demonstrate the advancements in Datameer 5.0 with Smart ExecutionTM and its ability to optimize performance and cluster utilization across a variety of Hadoop workloads. Learn how we can do this on both small and large data by dynamically selecting the optimal compute framework at every step and performing in-memory processing, resulting in dramatic performance improvements and enhanced end-user productivity to get more out of your Hadoop investment by improving productivity, hardware utilization, and your ability to support near-real-time analytics use cases on a single, cost-effective platform.",
+    "endTime": "2014-11-13T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/217855512/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "217855512",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "November SF Hadoop Users Meetup"
+  },
+  "event_id": "217855512",
+  "event_title": "November SF Hadoop Users Meetup",
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "session": {
+    "description": "Wei Wang - Sr. Director, Product Marketing, Datameer In financial services, the top big data analytics use cases include customer analytics to understand the customer journey using data from all customer interaction channels, predict and avoid customer churn, and fraud and compliance. The financial and corporate benefits of these use cases range from improving customer retention to hundreds of millions of dollars in incremental revenue and protection of shareholder value.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-top-big-data-use-cases-in-financial-services-wei-wang.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-top-big-data-use-cases-in-financial-services-wei-wang.json",
+    "source_id": "bythebay-20260508-san-francisco-hadoop-users-top-big-data-use-cases-in-financial-services-wei-wang",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Wei Wang"
+      }
+    ],
+    "title": "Top Big Data Use Cases in Financial Services"
+  },
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-top-big-data-use-cases-in-financial-services-wei-wang",
+  "source_url": "https://www.meetup.com/hadoopsf/events/217855512/"
+}

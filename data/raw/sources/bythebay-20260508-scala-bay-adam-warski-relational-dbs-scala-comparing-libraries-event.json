@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-06-01T18:30:00-07:00",
+    "description": "Abstract\n\n“RDBMs might no longer be the only storage option, but they aren't going anywhere. Which library to access them suits you best? Find out during this live-coding session!\n\nWe’ll look at four of the most popular relational database access libraries in Scala: Slick, Doobie, Quill and Scalikejdbc. We’ll compare them in terms of necessary meta-data mapping, query capabilities and transaction support. We’ll also discuss how they support asynchronous I/O and streaming results sets.\n\nThere won’t be any slides, just code so that you can see for yourself how much typing is necessary to get them to work.\n\nAutoBio\n\nI am one of the co-founders of SoftwareMill, where I code mainly using Scala and other interesting technologies. I am involved in open-source projects, such as MacWire, ScalaClippy, Quicklens, ElasticMQ and others. I have been a speaker at major conferences, such as JavaOne, Devoxx and ScalaDays.\n\nApart from writing closed- and open-source software, in my free time I try to read the Internet on various (functional) programming-related subjects. Any ideas or insights usually end up with a blog ( https://softwaremill.com/blog )\n\nSchedule\n\n• 6:30-7:00 - networking\n• 7:00-7:10 - announcements etc.\n• 7:10-8:00 - talk\n• 8:00-8:30 - networking",
+    "endTime": "2017-06-01T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/239830974/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "239830974",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Adam Warski, Relational DBs & Scala: comparing libraries"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-adam-warski-relational-dbs-scala-comparing-libraries-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/239830974/"
+}

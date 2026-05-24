@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-introduction-to-cats-parse-by-jeff-lewis-jeff-lewis-2",
+  "source_id": "bythebay-20260508-sf-scala-introduction-to-cats-parse-by-jeff-lewis-jeff-lewis-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-introduction-to-cats-parse-by-jeff-lewis-jeff-lewis-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-introduction-to-cats-parse-by-jeff-lewis-jeff-lewis-2.json",
+  "kind": "talk",
+  "event_id": "276753362",
+  "event_title": "Introduction to Cats Parse By Jeff Lewis",
+  "title": "Introduction to Cats Parse By Jeff Lewis",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Jeff Lewis, Jeff Lewis Building, Salar Rahmanian",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/276753362/",
+  "description": "This event will be streamed on Twitch (please log into twitch before the event starts). Once you RSVP you will see the link to twitch to join! For the hallway track and to ask the speakers question you can use the chat on Twitch or join our discord community at https://www.sfbayareatechies.com/ - Once you have joined please go to the #live-techtalk channel. Any questions about the event please ask in our channel on discord above. Thank you. Introduction to Cats Parse By Jeff Lewis Building parsers is tedious and boring. Until you use Cats Parse that is! This talk will save you from boredom by giving you everything you need to get started using Cats Parse in your own projects. About our speaker Jeff Lewis is a Scala developer of five years and a functional programming enthusiast. He recently started Scala Monthly, a monthly coding challenge designed to help people learn about Scala libraries and language features. Agenda (Pacific Time) 5.30pm Welcome to SFScala by Salar Rahmanian 5.45pm Introduction to Cats Parse By Jeff Lewis 7.00pm Wrap up and continue conversations on Discord",
+  "date_time": "2021-04-14T17:30:00-07:00",
+  "end_time": "2021-04-14T19:00:00-07:00"
+}

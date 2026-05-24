@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-04-02T18:00:00-07:00",
+    "description": "[The AI Alliance](thealliance.ai) was launched in December 2023 as the global force to uphold OSS AI, open source and open science.\n​The Alliance meets for the first time in San Francisco and the same evening we hold a public meetup. Local greats like Databricks and Anyscale are expected to present as well as Alliance work stream leaders. Keep your eye on the program as we’ll add a lot of speakers soon!\n\nPlease ***register on Luma in order to attend***: [https://lu.ma/kiidiyeb](https://lu.ma/kiidiyeb).\n\nAgenda\n\n**5:30-6:00pm** socializing, pizza and beer\n**6:00pm** Grand Welcome\n\n* Alexy Khrabrov, **NumFOCUS**, the **Bay.Area.AI** founder, AI Alliance community co-lead\n* Eric Peter, **Databricks**, PM on the Mosaic AI team\n* Anthony Annunziata, **IBM, AI Alliance lead**\n\n**6:20pm** DBRX: [Introducing DBRX: A New State-of-the-Art Open LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm), **Abhi Venigalla and Ajay Saini, Databricks and MosaicML**\n**7:10pm** New Model Openness Framework, **Matt White, Linux Foundation**\n**7:30pm** AI Alliance Panel, Future Directions of Open-Source AI\n\n* ​Christopher Nguyen, AItomatic\n* ​Dean Wampler, IBM\n* Irene Solaiman, HuggingFace\n* Anthony Annunziata, IBM, moderator\n\n*Note: you have to be registered on Luma above to get in with a valid ID matching your name on the registration!*",
+    "endTime": "2024-04-02T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/299961290/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "299961290",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[Luma registration] AI Alliance Meetup 2"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-luma-registration-ai-alliance-meetup-2-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/299961290/"
+}

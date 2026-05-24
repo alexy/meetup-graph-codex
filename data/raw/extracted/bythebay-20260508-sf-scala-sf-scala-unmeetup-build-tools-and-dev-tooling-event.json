@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-build-tools-and-dev-tooling-event",
+  "source_id": "bythebay-20260508-sf-scala-sf-scala-unmeetup-build-tools-and-dev-tooling-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-build-tools-and-dev-tooling-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-sf-scala-unmeetup-build-tools-and-dev-tooling-event.json",
+  "kind": "unconference",
+  "event_id": "249366613",
+  "event_title": "SF Scala Unmeetup: Build Tools and Dev Tooling",
+  "title": "SF Scala Unmeetup: Build Tools and Dev Tooling",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "unconference"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/249366613/",
+  "description": "This is a duplicate of https://www.meetup.com/SF-Scala/events/249399853/. Please RSVP there instead. We'll delete this entry shortly.",
+  "date_time": "2018-04-24T18:00:00-07:00",
+  "end_time": "2018-04-24T21:00:00-07:00"
+}

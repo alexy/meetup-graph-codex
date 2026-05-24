@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-05-11T19:00:00-07:00",
+    "description": "Title\n\nComputation Expressions in Scala\n\nAbstract\n\nComputation Expressions are a generalization of do-notation and Idiom Brackets. They provide a single notation that uses the least powerful abstraction in order to translate sugared code into de-sugared code in the most flexible way possible. I will present a project I have been working on to implement computation expressions in Scala. In particular, I will show how this notation helps write asynchronous code with very little cognitive overhead.\n\nBio\n\nJean-Rémi has always had a passion for programming languages and how to make them better. This has lead him to study many different languages and paradigms. Scala was his gateway drug into the world of advanced programming languages and although he loves to tinker and read about new languages, he still does the vast majority of his development in Scala. His recent area of focus has been type-level programming and meta-programming.\n\nHe currently works at Verizon Oncue in the Bay Area where he, among other things, contributes to Remotely ( https://github.com/oncue/remotely ), a purely functional RPC framework for Scala.\n\nSchedule\n\n• 6:30-7:00 - networking\n• 7:00-7:10 - announcements etc\n• 7:10-~8:40 - talk\n• 8:40-9:00 - networking",
+    "endTime": "2015-05-11T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/222141286/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "222141286",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Jean-Rémi Desjardins, Computation Expressions in Scala"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-jean-remi-desjardins-computation-expressions-in-scala-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/222141286/"
+}

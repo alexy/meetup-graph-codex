@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-05-30T18:00:00-07:00",
+    "description": "Traefik, a Modern Reverse-Proxy\n\nHow do you effectively manage inbound network traffic in your container based infrastructure? This talk will be a deep dive into Traefik, a modern reverse-proxy and load balancer made to deploy microservices with ease. From automatic SSL to advanced load-balancing, you will discover what's inside this great project built by the community!\n\nIn addition to an Traefik overview, we will show you how we use Traefik at Nitro. Our Systems Engineering team will talk about how Nitro uses Traefik to manage inbound traffic within our infrastructure.\n\nSpeaker: Emile Vauge\n\nCreator of traefik.io (http://traefik.io/), Emile is developer and founder of containo.us (http://containo.us/). He has more than 10 years experience developing software for the web and the industry and is certified Docker trainer. Lately he got interested in the DevOps methods. He is particularly interested in orchestration tools like Swarm, Mesos and Kubernetes.\n\nSpeaker: Ben Parli\n\nSenior Systems Engineer @ Nitro.\n\nAgenda:\n\n6pm: Doors open\n\n6 - 6:45: Food / Drink / Socialize\n\n7pm: Traefik Talks\n\n8pm: Wrap-up / Socialize",
+    "endTime": "2017-05-30T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bythebay/events/240186980/",
+    "group": {
+      "id": "18748975",
+      "name": "Scale By the Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "240186980",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Traefik, a Modern Reverse-Proxy"
+  },
+  "meetup_id": "meetup:18748975",
+  "meetup_name": "Scale By the Bay",
+  "meetup_url": "https://www.meetup.com/bythebay/events/?type=past",
+  "source_id": "bythebay-20260508-scale-by-the-bay-traefik-a-modern-reverse-proxy-ben-parli",
+  "source_url": "https://www.meetup.com/bythebay/events/240186980/"
+}

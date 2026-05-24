@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2015-05-13T08:30:00-04:00",
+    "description": "THIS EVENT IS CURRENTLY SOLD OUT.\n\nInformation has become one of the world’s most valuable natural resources. We’re swimming in data, but it can be challenging to capitalize on it.\n\nNow is the time to harness your data in game-changing ways. If your company is exploring new approaches to innovate with systems of insight and customer engagement to improve operational decision making and generate new revenue streams, then The Future of Analytics in Action is a must-attend event.\n\nCome hear how a comprehensive set of integrated cloud data services covering content, database, and analytics capabilities is creating new opportunities to transform industries, including financial services, insurance, automotive, healthcare, food services, media and entertainment, and more.\n\nAttendees will:\n- hear real-world client examples of companies leveraging Bluemix, Cloud Data Services, and Watson Analytics to disrupt their industries;\n- see demonstrations of how IBM’s cloud-based services deliver a rich developer experience and a fast on-ramp to bring offerings to market in as little as 90 days.\n- network with peers to understand how companies are deploying these new technologies in cost-efficient ways to create competitive advantage\n\nAgenda\n\n8:30am - Registration and Continental Breakfast\n9:00am - The Future of Analytics in Action: The Art of the\nPossible\n10:00am - Demonstration\n10:30am - Break\n10:45am - Real World Insights: A Client's Perspective\n11:15am - Open Q&A\n12:00pm - Lunch and Networking\n1:00pm - Close and thank you for attending.\n\nIn order to reserve your spot, register here:\n\nhttp://future-of-analytics-nyc.eventbrite.com (http://www.eventbrite.com/e/the-future-of-analytics-in-action-new-york-city-registration-16659031612)",
+    "endTime": "2015-05-13T13:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/222329190/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "222329190",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "The Future of Analytics in Action"
+  },
+  "event_id": "222329190",
+  "event_title": "The Future of Analytics in Action",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "THIS EVENT IS CURRENTLY SOLD OUT. Information has become one of the world’s most valuable natural resources. We’re swimming in data, but it can be challenging to capitalize on it. Now is the time to harness your data in game-changing ways. If your company is exploring new approaches to innovate with systems of insight and customer engagement to improve operational decision making and generate new revenue streams, then The Future of Analytics in Action is a must-attend event. Come hear how a comprehensive set of integrated cloud data services covering content, database, and analytics capabilities is creating new opportunities to transform industries, including financial services, insurance, automotive, healthcare, food services, media and entertainment, and more. Attendees will: - hear real-world client examples of companies leveraging Bluemix, Cloud Data Services, and Watson Analytics to disrupt their industries; - see demonstrations of how IBM’s cloud-based services deliver a rich developer experience and a fast on-ramp to bring offerings to market in as little as 90 days. - network with peers to understand how companies are deploying these new technologies in cost-efficient ways to create competitive advantage Agenda 8:30am - Registration and Continental Breakfast 9:00am - The Future of Analytics in Action: The Art of the Possible 10:00am - Demonstration 10:30am - Break 10:45am - Real World Insights: A Client's Perspective 11:15am - Open Q&A 12:00pm - Lunch and Networking 1:00pm - Close and thank you for attending. In order to reserve your spot, register here: http://future-of-analytics-nyc.eventbrite.com (http://www.eventbrite.com/e/the-future-of-analytics-in-action-new-york-city-registration-16659031612)",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-the-future-of-analytics-in-action-continental-breakfast-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-the-future-of-analytics-in-action-continental-breakfast-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-the-future-of-analytics-in-action-continental-breakfast-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Continental Breakfast"
+      }
+    ],
+    "title": "The Future of Analytics in Action"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-the-future-of-analytics-in-action-continental-breakfast-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/222329190/"
+}

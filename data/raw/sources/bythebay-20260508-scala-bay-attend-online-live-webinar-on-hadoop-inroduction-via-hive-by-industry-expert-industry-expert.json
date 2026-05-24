@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-09-28T21:30:00-07:00",
+    "description": "Hello,\n\nWe would like to cordially invite you to INTRODUCTION TO BIGDATA AND HADOOP VIA HIVE (http://unbouncepages.com/webinar-haoop-hive/)It is Scheduled for 28th September 2016, Wednesday 09:30 PM To 11:00 PM EDT. (http://unbouncepages.com/webinar-haoop-hive/)\nWhat you'll Learn:\n\n• INTRODUCTION TO BIG DATA\n\n• CHALLENGES OF BIG DATA AND INTRODUCTION TO HADOOP\n\n• INTRODUCTION TO HADOOP AND ITS CHARACTERISTICS\n\n• INTRODUCTION TO HIVE AND ITS FEATURES\n\n• HIVE COMPONENTS AND ITS ARCHITECTURE\n\n• HIVE OPERATIONS\n\nKEY FEATURES OF SPARK:\n\n• FAST ANALYTICS\n• REAL-TIME STREAM PROCESSING\n• FAULT TOLERANT\n• POWERFUL AND INTEGRATED DATA PROCESSING\n• EASY TO USE\n\nIn case you can't make it sign-up anyway, we'll send you the recording.\n\nThis promises to be an extremely enriching session and we hope you can make it -Register Now (http://unbouncepages.com/webinar-haoop-hive/)\n\nIf you have any additional questions or require further clarification, please, do not hesitate to Call me on\n+91 7022 55 1245 or send me an Email (brajesh@kratoes.com).\n\nCheers !",
+    "endTime": "2016-09-28T23:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/234473305/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "234473305",
+    "isOnline": false,
+    "status": "CANCELLED",
+    "title": "Attend online Live Webinar on Hadoop Inroduction via Hive  by Industry Expert"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-attend-online-live-webinar-on-hadoop-inroduction-via-hive-by-industry-expert-industry-expert",
+  "source_url": "https://www.meetup.com/scala-bay/events/234473305/"
+}

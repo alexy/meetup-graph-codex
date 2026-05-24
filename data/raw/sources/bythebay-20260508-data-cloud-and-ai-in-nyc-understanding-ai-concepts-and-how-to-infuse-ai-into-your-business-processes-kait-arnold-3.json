@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-09-21T15:30:00-04:00",
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.**\nIn this session, you will learn all about the buzz words surrounding Artificial Intelligence - Generative AI, Large Language Models, Natural Language Processing, and Machine Learning and how these concepts can be weaved into your business processes to transform the future of your organization.\n\nTopics Covered:\n\n* How Conversational AI is transforming client services augmenting client facing reps via an omni-channel virtual agent\n* How AI developers can leverage our next generation enterprise studio that empowers users to train, validate, tune, and deploy both traditional and new generative AI capabilities in a low-code/no-code environment\n* How AI can reduce manual labor of your call center and operations team through call summarization, extraction of key insights, and sentiment analysis\n\n**Presenter: Kaitlyn Arnold**\n\nKait Arnold is an AI Solutions Engineer at IBM serving the Financial Services Industry. Prior to IBM, she managed a team of Analytics Consultants working on projects related to business intelligence, data science, and data engineering. She has her Master’s in Computational Mathematics & Statistics in Data Science from the University of Notre Dame and graduated from Fairfield with a dual major in Finance and Information Systems and a minor in Business Analytics. Through her experience, she has cultivated a strong passion for helping others use technology, creativity, and innovation to achieve their goals.\n\nKait enjoys giving back to her community in the form of teaching. In 2022, she taught Python for Data Science for Women in Data, and is currently teaching her first University level Master’s course on Artificial Intelligence at her alma mater, Fairfield University.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r43f6234331b1d4bcde003494342734d6](https://ibm.webex.com/weblink/register/r43f6234331b1d4bcde003494342734d6)**",
+    "endTime": "2023-09-21T16:30:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/295222102/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "295222102",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Understanding AI Concepts and How to Infuse AI into Your Business Processes"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes-kait-arnold-3",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/295222102/"
+}

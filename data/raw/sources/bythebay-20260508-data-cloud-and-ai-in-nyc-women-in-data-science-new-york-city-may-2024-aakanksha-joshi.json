@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-05-17T11:15:00-04:00",
+    "description": "**Welcome to Women in Data Science - New York City May 2024!**\n\n**WiDS New York City is independently organized by *Chuxin Liu, Kannu Priya, Maria Sanchez, Niki Karanikola, Paulina Toro Isaza, Ruchi Mahindru, Sandhya Nayak, Sneha Varghese, Srideepika Jayaraman, Thara Palanivel, Vanishri Murali, Vasanthi Gopal* to be part of the mission to increase participation of *women in data science* and to feature outstanding women doing outstanding work.**\n\n**Our aim is to inspire, educate and support Women in the field of Data Science, by uplifting, energizing and building long term relationships across companies, partners, communities and universities in the New York and Tri-State region.**\n\nJoin us at **CUNY Graduate Center** for a day filled with inspiring talks, workshops, and networking opportunities. Whether you're a seasoned data scientist or just starting out, this event is perfect for anyone interested in the world of data science.\nLearn from industry experts, connect with like-minded individuals, and gain valuable insights into the latest trends in data science. Don't miss this chance to be part of a supportive community of women in the data science field.\nMark your calendars and get ready for an unforgettable experience at Women in Data Science - New York City!\n\n**All genders are invited to attend all WiDS Worldwide & Regional conference events.**\n\nAgenda:\n\n11:15 AM to 12:00 PM - Resume building workshop (Optional)\n\n12:00 PM - 1:00 PM - Networking - All are welcome to join! (Bring your own lunch)\n\n1:00 PM - 1:05 PM - Welcome note and introduction to WIDS\n\n1:05 PM - 1:35 PM - Keynote speech: \"Future of Work: A Vision for AI Powered Digital Labor\" by Dr. Gargi Dasgupta, Director, Technical Product Management and AI Leader, Digital Labor @ IBM\n\n1:35 PM - 2:00 PM - \"AI for Women's Health\" by Dr. Yiye Zhang, Associate Professor, Division of Health Informatics, Department of Population Health Sciences, Graduate Faculty, Cornell Systems Engineering, Informatics Director, Clinical Decision Support\n\n2:00 PM - 2:25 PM - \"Red Teaming Generative Language Models\" by Dr. Ioana Baldini, Senior Research Scientist, IBM Research AI Organization\n\n2:25 PM - 2:50 PM - Break\n\n2:50 PM - 3:00 PM - Recognize Fact Vs Fiction - AI Edition by WiDS Ambassadors Srideepika Jayaraman & Vanishri Murali\n\n3:00 PM - 3:25 PM - \"Generative AI Use Cases in the Public Sector\" by Aakanksha Joshi, Senior AI Engineer @IBM\n\n3:25 PM - 3:50 PM - \"Seeding, Weeding and Feeding - Keys to Successful Marketing” by Madhavi Chakrabarty, Sr. Director and Asst. Professor of Professional Practice, Rutgers Business School\n\n3:50 PM - 4:35 PM Panel on Career Development\nPanel Moderators -\nChuxin Liu - Senior Associate @ J.P. Morgan Chase\nMaria Sanchez - Senior Client Engineering AI Engineer @IBM\nPanelists:\nNiki Karanikola Machine Learning Engineer @VNA\nEda Kavlakoglu - Program director @IBM\nAmaris Efthimiou - Innovation Designer @ IBM Client Engineering\nRuchi Mahindru - IBM Distinguished Engineer\n\n4:35 PM - 4:40 PM - Update on PyData Community Events\n\n4:40 PM - 4:55 PM - Lucky draw event - Attendees (both Online and Live participants) qualify to win at the lucky draw to get 30 mins coaching/mentoring sessions with our esteemed Speakers & WiDS Ambassadors. Make sure to register and mark your attendance.\n\n4:55 AM - 5:00 PM - Vote of Thanks",
+    "endTime": "2024-05-17T17:00:00-04:00",
+    "eventType": "HYBRID",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/300338070/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "300338070",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Women in Data Science - New York City May 2024"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/300338070/"
+}

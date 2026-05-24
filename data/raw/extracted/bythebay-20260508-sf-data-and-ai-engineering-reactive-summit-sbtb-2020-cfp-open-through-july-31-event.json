@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18601481:bythebay-20260508-sf-data-and-ai-engineering-reactive-summit-sbtb-2020-cfp-open-through-july-31-event",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-reactive-summit-sbtb-2020-cfp-open-through-july-31-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-reactive-summit-sbtb-2020-cfp-open-through-july-31-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-reactive-summit-sbtb-2020-cfp-open-through-july-31-event.json",
+  "kind": "announcement",
+  "event_id": "271108558",
+  "event_title": "Reactive Summit + SBTB 2020 CFP Open through July 31",
+  "title": "Reactive Summit + SBTB 2020 CFP Open through July 31",
+  "conference_id": "meetup:18601481",
+  "meetup_id": "meetup:18601481",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/271108558/",
+  "description": "Scale By the Bay is now following Reactive Summit, the conference of the Reactive Foundation, a Linux Foundation project focused on cloud-native applications. We're happy to report that Martin Odersky and Matei Zaharia, the creators of Scala and Spark, will keynote SBTB 2020, among other awesome keynote speakers. The general CFP is open through June 30. There's still time to submit a talk: https://scale.bythebay.io! Looking forward to more great speakers to join us in November.",
+  "date_time": "2020-07-31T23:59:00-07:00",
+  "end_time": "2020-08-01T01:59:00-07:00"
+}

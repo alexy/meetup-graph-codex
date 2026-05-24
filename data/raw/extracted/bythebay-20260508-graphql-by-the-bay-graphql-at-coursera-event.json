@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:20929747:bythebay-20260508-graphql-by-the-bay-graphql-at-coursera-event",
+  "source_id": "bythebay-20260508-graphql-by-the-bay-graphql-at-coursera-event",
+  "source_file": "data/raw/sources/bythebay-20260508-graphql-by-the-bay-graphql-at-coursera-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-graphql-by-the-bay-graphql-at-coursera-event.json",
+  "kind": "workshop",
+  "event_id": "235184302",
+  "event_title": "GraphQL at Coursera",
+  "title": "GraphQL at Coursera",
+  "conference_id": "meetup:20929747",
+  "meetup_id": "meetup:20929747",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/graphql-by-the-bay/events/235184302/",
+  "description": "Coursera is the leading online education company in the world. Its backend is Scala, and they evolved multiple ideas of the API to serve its thousands of courses with multiple ontologies, authors, students, etc. Coursera embraced GraphQL and uses Sangria, the excellent Open-Source implementation of GraphQL for Scala. Brennan Saeta, the Software Architect at Coursera, has presented it at the first GraphQL Summit. At this meetup, we'll explore what GraphQL is and how it will supercede REST. GitHub bet their future of the GraphQL API. This meetup will immediately follow the full-day Scala.js Workshop (https://www.meetup.com/SF-Scala/events/233628295/) at Zenefits, in turn following Scalæ By the Bay (http://scal.ae) conference held at Twitter 11/11-13. GraphQL needs a strongly type, performant schema to serve efficiently -- everything JavaScript is not and Scala is. Several companies strongly present at the GraphQL Summit are presenting at Scala By the Bay, including Credit Karma and Coursera. If you want to full-stackify your developers, use the code GRAPHQL20 (https://www.universe.com/embed/listings/49LD7R/bookings/new?modal=1&discount_code=GRAPHQL20) for 20% remaining late bird registrations.",
+  "date_time": "2016-11-14T19:00:00-08:00",
+  "end_time": "2016-11-14T22:00:00-08:00"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-03-19T17:30:00-07:00",
+    "description": "This is an in-person event! Registration [using this form](https://lu.ma/c3bwce5i) is required in order to get in. Github will email you a form the day before the event, which you will need to complete for your access pass.\n\n**Topic:** Connecting your unstructured data with Generative AI\n\n**What we’ll do:**\nHave some food and refreshments. Hear three exciting talks about unstructured data and generative AI.\n\n5:30 - 6:30 - Welcome/Networking/Registration\n7:05 - 7:30 - [James Luan](https://www.linkedin.com/in/xiaofan-james-luan-37012872/), VP Engineering, [Zilliz](https://zilliz.com/)\n6:35 - 7:00 - [Lance Martin](https://www.linkedin.com/in/lance-martin-64a33b5/), Software/ML, [LangChain](https://www.langchain.com/)\n7:35 - 8:00 - [AJ Steers](https://www.linkedin.com/in/aaronsteers/), Staff Software Engineer, [Airbyte](https://airbyte.com/)\n8:00 - 8:10 - Community demos\n8:10 - 8:30 - Networking\n\n**Who Should attend:**\nAnyone interested in talking and learning about Unstructured Data and Generative AI Apps.\n\n**When:**\nMarch 19, 2023\n5:30PM\n\n​**Tech Talk 1**: VectorDB Schema Design 101 - Considerations for Building a Scalable and Performant Vector Search\n**Speaker**: James Luan\n**Abstract**: People often say that vector search is easy, but that's not entirely true. Vector search is more than just vector indexing and a Python wrapper. If you want to build a high-performance, scalable, and production-ready vector search service, you need to consider many factors.\n\n​Milvus is a high-performance, highly scalable vector database built for the cloud. Like a traditional database, we have designed a schema system with concepts such as collections, fields, shards, partitions, indexes, and various secondary indexes, to improve the performance of vector search.\n\n​In this talk, I will share how to correctly design your database schema structure and use the right data model to enable you to use Milvus with efficiency and scalability. We will also introduce complex use cases in RAG applications, such as multi-tenancy, scalar filtering/scalar indexing, and hybrid searches.\n\n**Tech Talk 2:** LangGraph for Flow Engineering\n**Speaker**: Lance Martin\n**Abstract**: Recent work on code generation and RAG have used a \"flow\" paradigm rather than a naive \"prompt:answer\" paradigm. With a flow paradigm, answers can be iteratively constructed by testing and / or self-reflection to improve the solution. We recently launched [LangGraph](https://github.com/langchain-ai/langgraph?ref=blog.langchain.dev) to support flow engineering, giving the user the ability to represent flows as a graph. We've shown that this can be employed for RAG (Self-RAG, Corrective RAG) as well as code-generation (AlphaCodium).\n\n**Tech Talk 3:** Text as Data, From Anywhere to Anywhere\n**Speaker**: AJ Steers\n**Abstract**: With great data comes great GenAI opportunities.” We live in a world where not only do we have access to amazing and valuable data, but we now have GenAI solutions that can consume, analyze, and act on that data in ways we could never have foreseen just 2 short years ago. In this talk, we’ll talk about the value of having a uniform way to access all your data, data you may have access to today without even knowing it, and how to send it exactly where it is needed - whether that’s to a data warehouse for analytics or to a vector store for the next great AI app.\n\n**Where:**\nThis is an in-person event. Registration [using this form](https://lu.ma/c3bwce5i) is required to get into the event. Registration in advance will close 2 days before the event. Co-sponsored by [Zilliz](http://zilliz.com/) maintainers of [Milvus](https://github.com/milvus-io/milvus) and [Airbyte](https://airbyte.com/).\n\n**Also streaming:** on [twitch.tv](http://twitch.tv) at 6:30pm",
+    "endTime": "2024-03-19T20:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/unstructured-data-sf/events/297446753/",
+    "group": {
+      "id": "36468260",
+      "name": "Unstructured Data Meetup Bay Area",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "297446753",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Unstructured Data in LLMs"
+  },
+  "meetup_id": "meetup:36468260",
+  "meetup_name": "Unstructured Data Meetup Bay Area",
+  "meetup_url": "https://www.meetup.com/unstructured-data-sf/events/?type=past",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-6",
+  "source_url": "https://www.meetup.com/unstructured-data-sf/events/297446753/"
+}

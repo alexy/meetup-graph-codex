@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-functional-linear-algebra-and-holiday-party-by-the-bay-vlad-patryshev-salesforce-2",
+  "source_id": "bythebay-20260508-bay-area-ai-functional-linear-algebra-and-holiday-party-by-the-bay-vlad-patryshev-salesforce-2",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-functional-linear-algebra-and-holiday-party-by-the-bay-vlad-patryshev-salesforce-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-functional-linear-algebra-and-holiday-party-by-the-bay-vlad-patryshev-salesforce-2.json",
+  "kind": "talk",
+  "event_id": "245572610",
+  "event_title": "Functional Linear Algebra and Holiday Party By the Bay!",
+  "title": "Functional Linear Algebra and Holiday Party By the Bay!",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": "Vlad Patryshev @ Salesforce",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/245572610/",
+  "description": "• What we'll do It is curious that a bunch of Linear Algebra implementations are written as if it is Fortran all the way down. We can do better, and a functional implementation, with less mutability and more abstractions, may save efforts, space, and processor time. I will show pieces of easy-to-read code that works with vectors and matrices in a functional way. As an example, an efficient and practical implementation of PCA. Linear Algebra is how you eventually solve Deep Learning and most other Statistical Machine Learning problems. We can also host unmeetup-style lightning talks and it will be the holiday party! Vlad Patryshev is the organizer of Scala Bay, regular speaker By the Bay, and a software engineer at Salesforce. • What to bring Wine and cakes -- it is a Holiday Party too! • Important to know",
+  "date_time": "2017-12-12T18:00:00-08:00",
+  "end_time": "2017-12-12T21:00:00-08:00"
+}

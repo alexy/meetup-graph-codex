@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-06-15T18:00:00-07:00",
+    "description": "**Topic:** Connecting your unstructured data with LLMs\n\nWe are meeting for our first happy hour/discussion group about Unstructured Data and its future in machine learning and LLM apps!\n\n**What we’ll do:**\nHave some snacks and refreshments. Have a couple of lightning talks (\\~10-15 minutes) and then unstructured networking.\n\n6:00-6:30 - Arrive and open networking\n6:30-6:45 - Document Relevance and LLMs - [Filip Haltmayer](https://www.linkedin.com/in/filiphaltmayer/)\n6:45-7:00 - Quivr: Talk to Your GenAI Second Brain - [Shaun Wei](https://twitter.com/agishaun)\n7:00-7:15 - OpenLLM: Serving LLMs for production - [Chaoyu Yang](https://www.linkedin.com/in/parano/)\n7:15-8:00 - Networking\n\n**Who Should attend:**\nAnyone interested in talking and learning about Unstructured Data and LLM Apps.\n\n**When:**\nJune 15th, 2023\n6:00PM\n\nSponsored by [Zilliz](zilliz.com)",
+    "endTime": "2023-06-15T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/unstructured-data-sf/events/293939805/",
+    "group": {
+      "id": "36468260",
+      "name": "Unstructured Data Meetup Bay Area",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "293939805",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Unstructured Data Meetup"
+  },
+  "meetup_id": "meetup:36468260",
+  "meetup_name": "Unstructured Data Meetup Bay Area",
+  "meetup_url": "https://www.meetup.com/unstructured-data-sf/events/?type=past",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-event",
+  "source_url": "https://www.meetup.com/unstructured-data-sf/events/293939805/"
+}

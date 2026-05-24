@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-06-06T17:30:00-04:00",
+    "description": "On June 6, 2016, leading minds in data and analytics from Tesla, Netflix, Silicon Valley Data Science, and IBM will come together to demonstrate how open data and analytics technologies such as R, Spark, Python and more are forming a vibrant ecosystem. The community has a shared goal of working with all data to build unexpected insights and launch new business applications.\n\nThe Apache Spark Maker Community Event will bring together data scientists, data engineers, data developers, and data designers June 6th @ 6pm at Galvanize, San Francisco. Here’s the plan:\n\n- The Big Reveal – New sample Apache Spark apps and tools\n\n- Use Cases – Monsanto will share how they are using R and Spark to optimize their supply chain\n\n- Learning Session - Hear from experts working on Spark projects and building the Spark ecosystem of open data and analytics technologies\n\n- Networking Opportunity – Food, drinks and data, explore a Hall of Innovation showcasing Spark demos\n\nJoin us. Learn more here: Apache Spark Maker Community Event (http://www.ibm.com/analytics/us/en/events/apache-spark/)\n\nRegistration begins at 5:30 PM and the discussion starts at 6:30 PM; food and drinks will be served. You must register for this event.\n\nTo get your ticket, and attend in person, click HERE (https://www.eventbrite.com/e/apache-sparktm-maker-community-event-registration-24742595770?cm_mc_uid=39680333471514613509392&cm_mc_sid_50200000=1461961944).\n\nCan't attend in person? We'll be live streaming this event on a computer screen near you! Register for the live stream (https://www.eventbrite.com/e/livestream-apache-sparktm-maker-community-event-registration-24790223225?cm_mc_uid=39680333471514613509392&cm_mc_sid_50200000=1461961944) and we'll send you a calendar update and login link.",
+    "endTime": "2016-06-06T21:30:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/230756121/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "230756121",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Apache Spark Maker Community Event"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-apache-spark-maker-community-event-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/230756121/"
+}

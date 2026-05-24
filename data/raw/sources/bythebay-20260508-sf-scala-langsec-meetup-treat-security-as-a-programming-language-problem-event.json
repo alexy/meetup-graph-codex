@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-05-23T18:00:00-07:00",
+    "description": "This is a joint event with Bay Area Haskell User Group (https://www.meetup.com/Bay-Area-Haskell-Users-Group/events/251017141/), held at Formation, the citadel of thoughtful functional programming. Join us!\n\n-----\n\nAmbiguity Is Insecurity\n\nIt’s 2018, and every day it seems as if there are more and more software vulnerabilities. Where do they come from, and how can we plug the holes? We’ll explore the ways in which implementations accidentally betray the intentions their specifications promised, and how to close the vulnerability gap, through the lenses of formal language theory and type theory, in this introduction to language-theoretic security.\n\nBio:\nBy day a mild-mannered software engineer, by night the leader of the Langsec Conspiracy (http://langsec.org), Meredith L. Patterson lives in Brussels, Belgium. She wrote and maintains the Hammer parser generator library (https://github.com/UpstandingHackers/hammer). When not travelling to far too many infosec conferences, she enjoys bicycling, cooking, and target shooting.",
+    "endTime": "2018-05-23T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/250786131/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "250786131",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "LangSec Meetup -- Treat Security as a Programming Language Problem!"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-langsec-meetup-treat-security-as-a-programming-language-problem-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/250786131/"
+}

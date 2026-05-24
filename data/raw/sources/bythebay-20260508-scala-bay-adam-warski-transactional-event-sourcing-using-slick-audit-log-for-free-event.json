@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-08-08T18:30:00-07:00",
+    "description": "Description: Event sourcing is a great alternative to traditional “CRUD”-type architectures. The central concept is a persistent stream of *events*, which drives all changes to the read model and running any kind of business logic. There’s a lot of technical and business benefits to such an approach, such as being able to re-create the state of the system at any point in time, or keeping a detailed *audit log* of all actions.\n\nTypically, implementations of event sourcing are presented using a NoSQL data storage, which is great for many use cases (e.g. using Akka Persistence + Cassandra). However, nothing stops us from using a relational database and SQL! In many applications (especially “enterprise”), this brings many benefits, such as powerful and familiar query capabilities and higher guarantees around data consistency.\n\nIn this mainly **live-coding talk** we’ll see one way of implementing transactional event sourcing using the `slick-eventsourcing` micro-framework, introducing the core concepts: *command handlers*, *read model updates* and *event listeners*, and how to use them to build an event-sourced application. We’ll see how Slick’s `DBAction` and Scala flexibility makes it possible to provide an **elegant DSL** to build the system from simple functions with minimum dependencies.\n\nAdam about himself: \"I am one of the co-founders of SoftwareMill, where I code mainly using Scala and other interesting technologies. I am involved in open-source projects, such as Macwire, Supler, ElasticMQ and others. I have been a speaker at major conferences, such as JavaOne, Devoxx and ScalaDays.\n\nApart from writing closed- and open-source software, in my free time I try to read the Internet on various (functional) programming-related subjects, any ideas or insights usually end up on my blog: http://www.warski.org/blog \"\n\nSchedule\n\n• 6:30-7:00 - networking\n• 7:00-7:10 - announcements etc\n• 7:10-~8:40 - talk\n• 8:40-9:00 - networking",
+    "endTime": "2016-08-08T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/232762394/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "232762394",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Adam Warski, \"Transactional event sourcing using Slick (audit log for free!)\""
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-adam-warski-transactional-event-sourcing-using-slick-audit-log-for-free-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/232762394/"
+}

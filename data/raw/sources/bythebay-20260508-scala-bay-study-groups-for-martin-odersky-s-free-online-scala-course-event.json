@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-09-18T19:00:00-07:00",
+    "description": "If you would like to learn Scala, this is a terrific opportunity. Professor Odersky is offering a free 7 week course online, starting Sept 18.\n\nThis meta-event notice is to help you join local study groups near to where you live or work. If you want to join a study group, please register for this meta-event and add a comment when you register, stating the geographic location where you would like to meet when you register. We have members all over California, the US and the rest of the world. This meta-event is open to all BASE members everywhere.\n\nBASE members can edit this event notice; if you would like to host a local study group, please add the address, date and times for your own study group at the bottom of this event notice. You can also use the new scheduling feature of Google Hangout (http://support.google.com/calendar/bin/answer.py?hl=en&topic=2619599&answer=2690797) to get together with remote colleagues on a regular basis.\n\nIf you find a local study group that you would like to attend, please contact the local organizer directly. We'd love to hear how you are doing, so be sure to post comments for this meta-event below.\n\nSTUDY GROUPS (ADD MORE BELOW)\n\nHost: Micronautics Research\n840 Main St, Half Moon Bay, CA 94019\nThursday evenings 7-9pm\nMike Slinn mslinn@micronauticsresearch.com 415-367-3789\n\nHost: Coursera\n\n1975 West El Camino Rd, Mountain View, CA 94040, Suite 202\n\nevery monday evenings (till class ends) starting at 6:00pm\n\nleith (eleith@coursera.org)\n\nup to 30 people\n\nHost: VMware Inc (up to 20 people)\nThursday evenings 7-9pm\nBuilding A - 3401 Hillview Ave, Palo Alto CA 94304\nNagappan Alagappan nalagappan@vmware.com 510-386-6971",
+    "endTime": "2012-09-18T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/80098122/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "80098122",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Study Groups for Martin Odersky's Free Online Scala Course"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-study-groups-for-martin-odersky-s-free-online-scala-course-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/80098122/"
+}

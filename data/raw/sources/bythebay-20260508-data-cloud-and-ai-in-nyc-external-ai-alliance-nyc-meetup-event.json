@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-11-06T18:00:00-05:00",
+    "description": "​Join us at the AI Alliance meetup in NYC. Experience open innovation AI product demos from AI Alliance members and friends and network with AI professionals. Food and drinks will be provided.\n\n​This AI Alliance event is hosted by [IBM](https://www.ibm.com/us-en), [Lightning AI ](https://lightning.ai/)and [LastMile AI](https://lastmileai.dev/).\n\n# About the AI Alliance\n\n​The [AI Alliance](https://thealliance.ai/community) is a global community that builds, enables, and advocates for open innovation across the AI technology landscape, including software, data and models, safety, security and trust, tooling, evaluation, hardware, education, open science, and advocacy.\n​Co-founded in December 2023 by IBM and Meta, the AI Alliance comprises 130+ member organizations from 20+ countries.\n\n# Details & RSVP\n\n[https://lu.ma/f9mwgf9t](https://lu.ma/f9mwgf9t)",
+    "endTime": "2024-11-06T21:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/304382397/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "304382397",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[EXTERNAL] AI Alliance NYC Meetup"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-external-ai-alliance-nyc-meetup-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/304382397/"
+}

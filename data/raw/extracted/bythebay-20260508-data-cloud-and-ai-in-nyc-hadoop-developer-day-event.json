@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-hadoop-developer-day-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-hadoop-developer-day-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-hadoop-developer-day-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-hadoop-developer-day-event.json",
+  "kind": "event",
+  "event_id": "173144062",
+  "event_title": "Hadoop Developer Day",
+  "title": "Hadoop Developer Day",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/173144062/",
+  "description": "Hadoop Developer Day -- Let's get hands-on with Hadoop REGISTRATION IS CLOSED. WE CURRENTLY HAVE A WAITLIST AND IF THERE ARE CANCELLATIONS, WE CAN ACCOMMODATE ADDITIONAL PEOPLE. HOWEVER, OUR SEATING CAPACITY IS LIMITED FOR THIS EVENT SO IF YOU HAVE NOT BEEN CONFIRMED THROUGH THE IBM REGISTRATION FOR THIS EVENT, PLEASE CHECK BACK WITH THE MEETUP GROUP FOR ADDITIONAL EVENTS IN THE NEAR FUTURE. Want to learn more about Hadoop and the Big Data Problems it can solve? How about the key open source components related to Hadoop? Or, understand how Big Data solutions can work in the cloud? Or understand the components of Hadoop and how to leverage HDFS? Then this Hadoop Developer Day is for you. You will learn what the essential steps are involved with implementing a MapReduce program that runs in Hadoop as well as use IBM InfoSphere BigInsights tools to simplify the development and deployment of MapReduce programs. You will learn how to use Hive to implement data warehousing solutions in a Hadoop environment (using HiveQL), understand the IBM BigSQL approach to managing structured data in Hadoop and use IBM BigSQL to store and query large data sets in Hadoop. REGISTER EARLY - SEATING IS LIMITED: http://bit.ly/1pZdHeu This Hadoop Developer Day will cover all this and more in this live classroom delivery. To participate in the Hands-on-Labs, you will need to bring your own laptop, pre-load the IBM BigInsights QuickStart VM (http://ibm.co/QuickStart). This event is FREE. Breakfast and Lunch will be provided. Agenda (subject to change). 8:00 am - Registration & Welcome 9:00 am - Big Data Overview 9:30 am - Introduction to Hadoop 10:15 am - Hadoop Architecture (MR and HDFS) 11:15 am - Hands-on Lab: MapReduce & HDFS 12:15 pm - Lunch 1:15 pm - Data Warehouse Modernization 2:15 pm - Hands-on Lab: Visualize data using BigSheets 3:30 pm - SQL for Hadoop 4:30 pm - Hands-on Lab: SQL for Hadoop 5:30 pm - Close and Thank you for Attending. You must bring your laptop to participate in the Hands-on Labs. Please download the following prior to the event. Download the VM image (single-node): http://ibm.co/QuickStart Watch the VM setup demo: YouTube Video (http://www.youtube.com/watch?v=imIVJjUhrVo&list=PLKXuYvvzzm-RIL1g279a0b95sjY3tYKqn&index=2) For Windows - VMware Player (free download) is required to run a VMware image: https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_player/6_0 For Mac - VMware Fusion (free trial) https://www.vmware.com/products/fusion/ Presentations and Lab Guides: http://bigdatauniversity.com/courses/course/view.php?id=313 REGISTER EARLY - SEATING IS LIMITED: http://bit.ly/1pZdHeu",
+  "date_time": "2014-05-06T09:00:00-04:00",
+  "end_time": "2014-05-06T17:30:00-04:00"
+}

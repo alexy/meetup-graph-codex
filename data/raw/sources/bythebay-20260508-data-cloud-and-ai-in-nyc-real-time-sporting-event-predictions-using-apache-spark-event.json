@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-07-18T17:30:00-04:00",
+    "description": "Want to impress your friends? This meetup will cover a method to use historical sporting event score information and the spread to make updated real time predictions based on the current state of the sporting event.\n\nTechnologies highlighted will include IBM's Bluemix platform using Node.js and Spark as a Service. We will also make use of notebooks to dig into some machine learning concepts that were used along the way.\n\nAfter attending the session , you should have a good idea of how you can use Apache Spark, Bluemix and machine learning technologies to make real time predictions and impress your friends!\n\nRefreshments will be served.",
+    "endTime": "2016-07-18T20:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/232086830/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "232086830",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Real Time Sporting Event Predictions using Apache Spark"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-real-time-sporting-event-predictions-using-apache-spark-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/232086830/"
+}

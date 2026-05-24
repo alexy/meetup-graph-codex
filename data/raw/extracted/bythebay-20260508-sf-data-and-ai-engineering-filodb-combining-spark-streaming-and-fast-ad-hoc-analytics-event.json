@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18601481:bythebay-20260508-sf-data-and-ai-engineering-filodb-combining-spark-streaming-and-fast-ad-hoc-analytics-event",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-filodb-combining-spark-streaming-and-fast-ad-hoc-analytics-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-filodb-combining-spark-streaming-and-fast-ad-hoc-analytics-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-filodb-combining-spark-streaming-and-fast-ad-hoc-analytics-event.json",
+  "kind": "event",
+  "event_id": "225854878",
+  "event_title": "FiloDB: Combining Spark Streaming and Fast Ad-Hoc Analytics",
+  "title": "FiloDB: Combining Spark Streaming and Fast Ad-Hoc Analytics",
+  "conference_id": "meetup:18601481",
+  "meetup_id": "meetup:18601481",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/225854878/",
+  "description": "We need a video sponsor for this meetup. We'd appreciate you take a moment and answer the meetup questions. If you leave just empty strings, we reserve the right to reallocate RSVPs to folks who do answer. Many people are turning to the SMACK stack (Spark/Scala, Mesos, Akka, Cassandra, Kafka) for real-time stream processing applications, but stick with Parquet for ad hoc analysis of static data. What if you would like flexible queries on real time streaming data, plus historical data? Do you have to set up two giant big data stacks? No! FiloDB is a new open-source distributed, versioned, and columnar analytical database designed for modern streaming workloads.Come check out how it can enable flexible ad-hoc analytics for a new generation of real-time Spark and Spark Streaming applications. Have the performance of Parquet with the ease of use of NoSQL databases for streaming applications. Evan loves to design, build, and improve bleeding edge distributed data and backend systems using the latest in open source technologies. He is the creator of the FiloDB open-source distributed analytical OLAP database, as well as the Spark Job Server. He has led the design and implementation of multiple big data platforms based on Storm, Spark, Kafka, Cassandra, and Scala/Akka, including a columnar real-time distributed query engine. He is an active contributor to the Apache Spark project, and a Datastax Cassandra MVP. He has built Spark applications since Spark 0.8, Cassandra since 0.6. He is a big believer in GitHub, open source, and meetups, and have given talks at various conferences including Spark Summit, Cassandra Summit, FOSS4G, and Scala Days. He has a Bachelors and Masters of Electrical Engineering, with distinction, from Stanford University. His projects can be found at http://velvia.github.io (http://velvia.github.io/) We need a video sponsor for this meetup.",
+  "date_time": "2015-11-16T18:30:00-08:00",
+  "end_time": "2015-11-16T21:30:00-08:00"
+}

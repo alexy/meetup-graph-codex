@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2023-07-19T10:00:00-04:00",
+    "description": "Watsonx is IBM upcoming enterprise-ready AI and data platform designed to multiply the impact of AI across your business.\n\nIn this session, we will provide an overview of AI evolution and introduce the three components of the new platform:\n\n* the [watsonx.ai](http://watsonx.ai/) studio for new foundation models, generative AI and machine learning;\n* the watsonx.data fit-for-purpose store for the flexibility of a data lake and the performance of a data warehouse;\n* plus the watsonx.governance toolkit, to enable AI workflows that are built with responsibility, transparency and explainability.\n\nIn this workshop attendees will learn about:\n\n* Watsonx IBM's generative AI platform, with some technical aspect.\n* Real business use cases related to LLMs.\n* How to build your own AI assistant using OpenAI's pre-trained GPT-3 model\n\nSpeaker:\nTal Neeman \\- Cloud Architect \\- Call for Code at IBM \\| Developer Ecosystems\n\nRecommendation: Please register ahead of the event at https://www.crowdcast.io/c/cfc-isv-watsonx to secure your spot and receive link to join the event.",
+    "endTime": "2023-07-19T11:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/294722997/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "294722997",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Seize the AI Advantage: Discover WatsonX, IBM’s Generative AI Platform"
+  },
+  "event_id": "294722997",
+  "event_title": "Seize the AI Advantage: Discover WatsonX, IBM’s Generative AI Platform",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "Watsonx is IBM upcoming enterprise-ready AI and data platform designed to multiply the impact of AI across your business. In this session, we will provide an overview of AI evolution and introduce the three components of the new platform: * the [watsonx.ai](http://watsonx.ai/) studio for new foundation models, generative AI and machine learning; * the watsonx.data fit-for-purpose store for the flexibility of a data lake and the performance of a data warehouse; * plus the watsonx.governance toolkit, to enable AI workflows that are built with responsibility, transparency and explainability. In this workshop attendees will learn about: * Watsonx IBM's generative AI platform, with some technical aspect. * Real business use cases related to LLMs. * How to build your own AI assistant using OpenAI's pre-trained GPT-3 model Speaker: Tal Neeman \\- Cloud Architect \\- Call for Code at IBM \\| Developer Ecosystems Recommendation: Please register ahead of the event at https://www.crowdcast.io/c/cfc-isv-watsonx to secure your spot and receive link to join the event.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-seize-the-ai-advantage-discover-watsonx-ibm-s-generative-ai-platform-tal-neeman-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-seize-the-ai-advantage-discover-watsonx-ibm-s-generative-ai-platform-tal-neeman-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-seize-the-ai-advantage-discover-watsonx-ibm-s-generative-ai-platform-tal-neeman-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Tal Neeman"
+      }
+    ],
+    "title": "Seize the AI Advantage: Discover WatsonX, IBM’s Generative AI Platform"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-seize-the-ai-advantage-discover-watsonx-ibm-s-generative-ai-platform-tal-neeman-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/294722997/"
+}

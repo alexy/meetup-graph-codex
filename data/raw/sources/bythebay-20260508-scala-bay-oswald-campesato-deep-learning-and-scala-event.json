@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2018-02-05T19:00:00-08:00",
+    "description": "Oswald Campesato, \"Deep Learning and Scala\"\n\nAbstract\n\nA fast-paced introduction to Deep Learning (DL) concepts, such as neural networks, back propagation, activation functions, CNNs, RNNs (if time permits), and the CLT/AUT/fixed-point theorems, along with code samples in Scala and TensorFlow.\n\nSpeaker Bio\n\nOswald is a former PhD Candidate (ABD) in Mathematics, an education junkie (6 degrees), and an author of 18 technical books. He has worked for Oracle, AAA, and Just Systems of Japan, along with various startups. He has lived/worked in 5 countries on three continents, and in a previous career he worked in South America, Italy, and the French Riviera, and has traveled to 70 countries on six continents. He has worked from C/C++/Java developer to CTO, comfortable in 4 languages, and wants to become fluent in Japanese. Currently he is a consultant and provides training in Deep Learning and Android.\n\nSchedule\n\n• 6:30-7:00 - networking (pizza, beer)\n• 7:00-7:10 - announcements etc.\n• 7:10-8:00 - talk\n• 8:00-8:30 - more networking",
+    "endTime": "2018-02-05T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/246206268/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "246206268",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Oswald Campesato, \"Deep Learning and Scala\""
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-oswald-campesato-deep-learning-and-scala-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/246206268/"
+}

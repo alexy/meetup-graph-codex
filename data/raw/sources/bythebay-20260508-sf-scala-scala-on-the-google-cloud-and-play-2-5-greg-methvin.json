@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2016-03-23T18:30:00-07:00",
+    "description": "Neville Li from Spotify will present:\n\nScio: Scala on the Google Cloud\n\nScio (http://github.com/spotify/scio) is a Scala API for Google Cloud Dataflow inspired by Spark and Scalding. It unleashes the power of Google Cloud big data products with a concise and elegant Scala DSL. We’ll discuss the unified batch and streaming model, core API design, and additional features such as type safe BigQuery, HDFS, and REPL. There’ll also be a live coding demo.\n\nSpeaker: Neville has been working at Spotify for 5 years now and is a member of the music recommendation team. He also leads the effort of adopting various Scala frameworks and functional programming techniques for data processing.\n\nLightbend's Play team will present Play 2.5:\n\nPlay 2.5: More Streams, More Speed, Less State\n\nCome see what's new in Play 2.5! Play is an asynchronous, non-blocking web framework and 2.5 brings a whole raft of goodies with it. Some major points:\n\n• Akka Streams integration, like Iteratees but much easier to understand\n\n• Additions to Java HTTP APIs\n\n• Performance improvement of up to 20%\n\n• Internal upgrading to Netty 4.0 and AsyncHttpClient 2.0\n\n• Method and classes that depend on global state singleton object have been deprecated\n\nDocumentation and Template Scrubbing\n\nSpeakers: Will Sargent and Greg Methvin work at Lightbend on the Play team. Please check out Will's in-progress book Play in Practice (http://shop.oreilly.com/product/0636920035718.do) and download the sample chapters.\n\nDue to the packed program, we shift everything up 30 minutes: doors open at 6, and talks begin at 6:30pm sharp. This event will be full so please manage your RSVP responsibly. We're using a powerful set of single-node small data systems to make sure RSVPs are fairly utilized.",
+    "endTime": "2016-03-23T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/229445932/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "229445932",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala on the Google Cloud and Play 2.5"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-scala-on-the-google-cloud-and-play-2-5-greg-methvin",
+  "source_url": "https://www.meetup.com/sf-scala/events/229445932/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-04-05T08:00:00-04:00",
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.**\nIn this hands-on workshop, you will learn the fundamentals of programming a quantum computer. We will use the IBM Quantum platform to create quantum circuits both visually using the Circuit Composer and with Python code using the open source Qiskit framework.\n\nYou will have the opportunity to run your circuits using quantum simulators and on real quantum computers in the IBM Cloud. Attendees should sign-up for a free account on the IBM Quantum platform beforehand at https://quantum-computing.ibm.com to best experience this hands-on session.\n\nNote that this is part 2 of an 8-session series on Quantum Computing on Mar 22/23, Apr 5/6, Apr 19/20, May 3/4, May 17/18, May 31/Jun 1, Jun 14/15, Jul 5/6. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions.\n\n**Presenter: Christopher Burton**\n\nChris Burton is an IBM Quantum ambassador and certified Qiskit Developer. He is currently completing his thesis on Quantum Machine Learning (QML) and is always open to chatting quantum computing enthusiasts.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r8777e5d4e5759c3848861727776e1556](https://ibm.webex.com/weblink/register/r8777e5d4e5759c3848861727776e1556)**",
+    "endTime": "2023-04-05T09:30:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/291795993/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "291795993",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Getting Started with Quantum Computing Hands-on"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-getting-started-with-quantum-computing-hands-on-chris-burton",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/291795993/"
+}

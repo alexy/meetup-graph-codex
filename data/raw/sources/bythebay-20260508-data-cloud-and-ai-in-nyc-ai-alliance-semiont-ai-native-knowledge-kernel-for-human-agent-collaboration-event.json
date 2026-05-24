@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-11-20T12:00:00-05:00",
+    "description": "Meet [Semiont](https://the-ai-alliance.github.io/semiont/), the wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge. Includes MCP server.\n\n**About the presenter**\nAdam Pingel ([LinkedIn](https://www.linkedin.com/in/adampingel/), [GitHub](https://github.com/adampingel)) is IBM's Head of Open Tools and Applications for the [AI Alliance](https://thealliance.ai). Adam has been fascinated by AI and chatbots since playing with [Racter](https://en.wikipedia.org/wiki/Racter) in the 80’s. But the “winters” were long and frequent. The stars aligned in 2015 when he became VPE at Ravel Law. Ravel was building AI-powered tools for the legal industry and was working with Harvard Law School on what is now known as the Caselaw Access Project. After an acquisition by LexisNexis in 2017, he moved his family to Raleigh (in 2019) to take the role of CTO of Global Platforms. In 2022 he joined IBM to work on domain-specific applications of generative AI. Adam holds an MS and BS in CS from UCLA and Stanford, respectively. When not at a keyboard, he enjoys spending time with his family.\n\n**About the AI Alliance**\nThe [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.\n\n**Join the community**\nSign up for the [AI Alliance newsletter](https://thealliance.ai/community) (check the website footer) and join our new [AI Alliance Discord](https://discord.gg/YtsWdke6E9).",
+    "endTime": "2025-11-20T13:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/311870230/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "311870230",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] SEMIONT – AI-Native Knowledge Kernel for Human/Agent Collaboration"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-semiont-ai-native-knowledge-kernel-for-human-agent-collaboration-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/311870230/"
+}

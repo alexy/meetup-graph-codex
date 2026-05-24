@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-03-19T19:00:00-07:00",
+    "description": "Title: Eugene Burmako, scala.meta: hands-on\n\nDescription:\n\nscala.meta is a simple, robust and portable metaprogramming foundation for Scala. Based on our experience with scala.reflect, we are building scala.meta to provide a metaprogramming API that doesn't require knowledge about compiler internals and is friendly to IDEs and incremental compilation.\nIn this talk, I will present our progress in a series of practical examples that show how scala.meta handles common metaprogramming tasks: code generation with new and improved quasiquotes, program analysis with a drastically simplified introspection API, as well as code rewriting with a concise and functional tree traversal/transformation framework.\n\nSpeaker.\n\nProgramming languages enthusiast, PhD student at EPFL, member of Scala team, Scala macros guy.\n\nTitle: Denys Shabalin, How unsafe is unsafe?\n\nAbstract: From time to time, we face serious challenges which seem to be unsolvable as long as we stick to the typical standard tools at our disposal. One of the non-standard tools in JVM developer's toolbox is sun.misc.Unsafe, a tool that if used in correctly, just a like a chainsaw, can cause serious damage.\nThis talk is going to overview some of the Unsafe's functionality and show how it can be used as an underlying platform to create new powerful and safe abstractions on top of it using a combination of advanced Scala features like macros, dynamic, value classes etc.\n\nSpeaker.\n\nDenys is the author of Scala 2.11's quasiquotes, a project aimed at making AST manipulation a pleasure. He is also an active contributor to scala/scala repository, hacking on compiler internals, reflection API and macros. At the moment he is working as a PhD student at EPFL performing research in compilers and programming languages.\n\nSchedule\n\n• 6:30-7:00 - networking\n\n• 7:00-7:10 - announcements etc\n\n• 7:10-~8:50 - talks\n\n• 8:50-9:00 - networking",
+    "endTime": "2015-03-19T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/220121786/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "220121786",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Eugene Burmako, \"scala.meta: hands-on\"; Denis Shabalin, \"How unsafe is unsafe?\""
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-eugene-burmako-scala-meta-hands-on-denis-shabalin-how-unsafe-is-unsafe-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/220121786/"
+}

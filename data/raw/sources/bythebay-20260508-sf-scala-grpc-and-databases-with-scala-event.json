@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-05-31T18:00:00-07:00",
+    "description": "Note: http://scale.bythebay.io CFP is open until May 31st, the day of the meetup!\n\nWe have two talks for this meetup, one from the new company hosting us, and another from Adam Warski, our friend visiting from Poland again!\n\nAgenda\n\n• 6pm doors open\n\n• 6:30 BigCommerce\n\n• 7:30 Adam Warski\n\n• 8:30-9pm more mingling\n\n• 9pm end of the event\n\n1. Supercharging your Microservices with gRPC and Scala\nZack Angelo\n\nIn this talk we explore how to build Scala services with gRPC, a polyglot service communication framework from Google. Moving from a monolithic application to one composed of services is process fraught with tradeoffs. gRPC helps you to navigate many of those tradeoffs by baking in many of the best practices learned over the years of running a production RPC system at Google.\n\nZack Angelo is a software architect at BigCommerce. He is a three-time startup founder. His most recent startup Zing, a cloud based point of sale, was acquired by BigCommerce in April 2015. He's previously worked in the energy and telecom industries developing real-time streaming data analytics systems and VoIP application platforms, respectively.\n\n2. Relational Databases & Scala: Comparing Libraries\nAdam Warski\n\nRDBMs might no longer be the only storage option, but they aren't going anywhere. Which library to access them suits you best? Find out during this live-coding session!\n\nWe’ll look at four of the most popular relational database access libraries in Scala: Slick, Doobie, Quill and Scalikejdbc. We’ll compare them in terms of necessary meta-data mapping, query capabilities and transaction support. We’ll also discuss how they support asynchronous I/O and streaming results sets.\n\nThere won’t be any slides, just code so that you can see for yourself how much typing is necessary to get them to work.\n\nAdam Warski, in his own words: I am one of the co-founders of SoftwareMill, where I code mainly using Scala and other interesting technologies. I am involved in open-source projects, such as MacWire, ScalaClippy, Quicklens, ElasticMQ and others. I have been a speaker at major conferences, such as JavaOne, Devoxx and ScalaDays.\n\nApart from writing closed- and open-source software, in my free time I try to read the Internet on various (functional) programming-related subjects. Any ideas or insights usually end up with a blog ( https://softwaremill.com/blog ).",
+    "endTime": "2017-05-31T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/239942879/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "239942879",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "gRPC and Databases with Scala"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-grpc-and-databases-with-scala-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/239942879/"
+}

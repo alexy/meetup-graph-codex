@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-04-28T18:30:00-07:00",
+    "description": "Abstract\n\nCreating a popular open-source library such as Ammonite, FastParse, or Scalatags is a lot more than just writing Scala code. This talk will explore both the code and non-code aspects of building such a library: designing the public API, the role of tests/documentation, and how to think about the three tensions of consistency, transparency, and intuitiveness that often pull your API design in different directions. From this talk you will hopefully learn everything about designing a library apart from writing code.\n\nBio\n\nHaoyi is a software engineer, previously at Dropbox, currently working at Bright Technology Services, a data-science and software engineering consultancy. He is the author of many open source libraries, and an early contributor to the Scala.js ecosystem.\n\nSchedule\n\n• 6:30-7:00 - networking\n• 7:00-7:10 - announcements etc.\n• 7:10-8:00 - talk\n• 8:00-8:30 - networking",
+    "endTime": "2017-04-28T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/238966218/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "238966218",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Haoyi Li, Designing Open Source Libraries"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-haoyi-li-designing-open-source-libraries-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/238966218/"
+}

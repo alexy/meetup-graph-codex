@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-evolving-infrastructure-after-twitter-a-panel-event",
+  "source_id": "bythebay-20260508-sf-scala-evolving-infrastructure-after-twitter-a-panel-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-evolving-infrastructure-after-twitter-a-panel-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-evolving-infrastructure-after-twitter-a-panel-event.json",
+  "kind": "event",
+  "event_id": "236807300",
+  "event_title": "Evolving Infrastructure After Twitter: a Panel",
+  "title": "Evolving Infrastructure After Twitter: a Panel",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/236807300/",
+  "description": "Note: AI.bythebay.io (http://ai.bythebay.io) conference is featuring Scala in data pipelines and AI context. Use SFSCALA (https://www.universe.com/embed2/events/582a8788155c6b004e96b236?state=%7B%22currentDiscountCode%22%3A%7B%22code%22%3A%22SFSCALA%22%7D%7D) to register. Experiences building and operating Twitter at massive scale drove the technical team to start new infrastructure projects and companies. In this panel discussion, current and former members of Twitter’s technical team will talk about the infrastructure challenges that inspired Pelikan Cache, FaunaDB, Buoyant, and Turbine Labs.",
+  "date_time": "2017-01-24T18:30:00-08:00",
+  "end_time": "2017-01-24T21:30:00-08:00"
+}

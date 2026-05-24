@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2023-11-15T11:30:00-05:00",
+    "description": "Join us for an informative webinar as we discuss the general availability of IBM watsonx Code Assistant for Red Hat Ansible Lightspeed. This powerful tool harnesses the capabilities of Generative AI to enhance your Ansible automation workflows and unlock the full potential of automating your IT infrastructure with the power of AI-driven code generation. During the webinar, our experts will dive into the key features and capabilities of the solution, share real-world client experiences and outcomes, and guide you on how to get started with this innovative technology. Don't miss this opportunity to learn how IBM watsonx Code Assistant for Red Hat Ansible Lightspeed can revolutionize your automation processes.\n\nDuring the webinar, attendees will gain insight into the following topics:\n\n* GA features & capabilities\n* Client experience & outcomes\n* How to get started\n\n**[Register now](https://ibm.webcasts.com/starthere.jsp?ei=1629083&tp_key=250aeba335&sti=meetup)**",
+    "endTime": "2023-11-15T12:30:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/297069767/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "297069767",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Introducing IBM watsonx Code Assistant for Red Hat Ansible Lightspeed"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-introducing-ibm-watsonx-code-assistant-for-red-hat-ansible-lightspeed-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/297069767/"
+}

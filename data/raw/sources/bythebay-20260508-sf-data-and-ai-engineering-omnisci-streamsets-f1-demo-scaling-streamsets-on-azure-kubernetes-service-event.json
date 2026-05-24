@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2019-06-04T18:30:00-07:00",
+    "description": "This is a joint event with the StreamSets User Group:\n\nhttps://www.meetup.com/San-Francisco-StreamSets-User-Group-Meetup/events/261489457\n\nJoin us for two great presentations, food, beverages, and take a turn in OmniSci's instrumented F1 simulator!\n\nAgenda:\n\n6:30pm - Food, beverages, and try out OmniSci's F1 simulator!\n\n7:15pm - Creating the OmniSci F1 Demo: Real-Time Data Ingestion With StreamSets\n\nVeda Shankar - Senior Developer Advocate - OmniSci\nhttps://www.linkedin.com/in/veda-shankar-6260a516\n\nTelematics is a rapidly growing use case for IoT and Big Data, and OmniSci hacked a F1 racing game to demonstrate how telematics data can be collected and analyzed in real-time.\n\nA combination of open source tools were used to generate, capture, process, analyze, and chart the data from a Formula 1 racing simulation. StreamSets was used to visually architect and implement the data flows with an open-source Docker container. Read this blog for more details: https://streamsets.com/blog/omnisci-f1-demo-real-time-data-ingestion-streamsets/\n\n7:45pm - Scaling StreamSets On Azure Kubernetes Service\n\nSpeaker TBD\n\nProvisioning agents are containerized applications that run within a container orchestration framework, such as Kubernetes. You can run Kubernetes on-premise, or leverage cloud-based solutions such as Azure Kubernetes Service (AKS) and Google Kubernetes Engine for a \"pay-as-you-consume\" model without the complexity of implementation, installation, and maintenance.\n\nIn this session, we will show how to scale StreamSets Data Collector instances on Azure Kubernetes Service (AKS) using provisioning agents that help automate upgrading and scaling resources on-demand, without having to stop execution of dataflow pipeline jobs.\n\n8:30pm - Close",
+    "endTime": "2019-06-04T20:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/261917372/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "261917372",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "OmniSci-StreamSets F1 Demo + Scaling StreamSets On Azure Kubernetes Service"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-omnisci-streamsets-f1-demo-scaling-streamsets-on-azure-kubernetes-service-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/261917372/"
+}

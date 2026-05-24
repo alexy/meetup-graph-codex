@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-meetup-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-meetup-event.json",
+  "kind": "talk",
+  "event_id": "141368262",
+  "event_title": "October SF Hadoop Meetup",
+  "title": "October SF Hadoop Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/141368262/",
+  "description": "The October 2013 Hadoop meetup will be held Wednesday, October 9th from 6:00pm to 8:00pm. This meetup will be hosted by Stripe, located at 3180 18th Street, San Francisco, CA. This meetup will feature a panel discussion from Chris Severs (eBay), Eric Sammer (Cloudera), Oscar Boykin (Twitter), Colin Marc (Stripe) and SF HUG organizer Aaron Kimball as moderator. This HUG will also feature a presentation from Stripe's Colin Marc. The following talks will be presented: Panel: \"The Next Evolution in the Hadoop Ecosystem: Big Data Applications\" Panel participants: • WibiData, Aaron Kimball (moderator) • eBay, Chris Severs • Cloudera, Eric Sammer • Twitter, Oscar Boykin • Stripe, Colin Marc The unfolding Hadoop ecosystem has empowered organizations to build a new class of Big Data Applications that make web and mobile application channels more powerful and more personalized for users than ever before. In this panel discussion, we will hear perspectives from some leading contributors and users of the Hadoop platform on how they see Big Data Applications being built successfully, what tools they like and where the industry is headed as a whole. \"Stripe Streams data into HBase\" Stripe, Colin Marc As a payments provider, Stripe has a veritable goldmine of data to use — and lots of uses for it, from checkout conversion analysis to fraud prevention. But until recently, that data was stored only in disparate production systems, and what aggregates we did have were very ad-hoc. We chose to approach this problem iteratively, in order to better understand the requirements and constraints and to explore the different technologies available. With some work (and lots of mistakes), we were able to build a system that streams data into HBase from our production services in real-time, making it available for analytics using MapReduce, Impala and other technologies in the ecosystem. In my presentation, I’ll discuss the various architectures and technologies we tried, what worked well and the lessons we learned.",
+  "date_time": "2013-10-09T18:00:00-07:00",
+  "end_time": "2013-10-09T21:00:00-07:00"
+}

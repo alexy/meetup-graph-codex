@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-08-05T17:30:00-07:00",
+    "description": "This is an in-person event! [Registration](https://lu.ma/3q2brqp8) is required in order to get in. Github will email you a form the day before the event, which you will need to complete for your access pass.\n\n**Topic:** Connecting your unstructured data with Generative AI\n\n**What we’ll do:**\nHave some food and refreshments. Hear three exciting talks about unstructured data and generative AI.\n\n5:30 - 6:00 - Welcome/Networking/Registration\n6:05 - 6:30 - Charles Xie, CEO, [Zilliz](https://zilliz.com/)\n6:35 - 7:00 - [Robertson Taylor](https://www.linkedin.com/in/robertsonotaylor/), Solutions Engineer, [marqo.ai](http://marqo.ai)\n7:05 - 7:30 - [Aamir Shakir](https://www.linkedin.com/in/aamir-shakir/?originalSubdomain=de), Co-founder, [mixedbread.ai](http://mixedbread.ai)\n7:35 - 7:45 - Community demo\n7:45 - 8:30 - Networking\n\n​​**Tech Talk 2**: A Different Angle: Retrieval Optimized Embedding Models\n**Speaker**: Robertson Taylor\n**Abstract**: When doing embedding retrieval, we rarely want just one piece of information from our document corpus. Whether we’re searching through academic papers or an e-commerce product catalog, we want multiple results which are ranked based on the query.\nMarqo’s fine-tuning approach, Generalized Contrastive Learning (GCL), moves beyond the binary relationships used to train existing models. GCL introduces both rank and query-awareness to text-only and multimodal models, significantly improving relevance, especially when using user-interaction data.\nIn this talk, we’ll discuss how GCL works, and ways people are using it in the real world.\n\n**Tech Talk 3**: Building the Future of Neural Search: How to Train State-of-the-Art Embeddings\n**Speaker**: Aamir Shakir\n**Abstract**: Neural search plays a crucial role in Retrieval Augmented Generation (RAG) and various other AI use cases. In this talk, we will discuss the future of neural search, explore interesting challenges we are addressing, and explain how we build our state-of-the-art embedding model, which helps to develop high-quality RAG systems at scale.\n\n**Who Should attend:**\nAnyone interested in talking and learning about Unstructured Data and Generative AI Apps.\n\n**When:**\nAugust 5, 2023\n5:30PM\n\n**Where:**\nThis is an in-person event. Registration [using this form](https://lu.ma/3q2brqp8) is required to get into the event. Registration in advance will close 2 days before the event. Sponsored by [Zilliz](http://zilliz.com/) maintainers of [Milvus](https://github.com/milvus-io/milvus).\n\nCan't make it in person? We will also be streaming live: https://www.twitch.tv/vectordatabase",
+    "endTime": "2024-08-05T20:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/unstructured-data-sf/events/300478750/",
+    "group": {
+      "id": "36468260",
+      "name": "Unstructured Data Meetup Bay Area",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "300478750",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Unstructured Data Meetup"
+  },
+  "meetup_id": "meetup:36468260",
+  "meetup_name": "Unstructured Data Meetup Bay Area",
+  "meetup_url": "https://www.meetup.com/unstructured-data-sf/events/?type=past",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-event-2",
+  "source_url": "https://www.meetup.com/unstructured-data-sf/events/300478750/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-feature-extraction-for-predictive-ltv-modeling-using-hadoop-hive-and-cascading-martin-colaco-kontagent",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-feature-extraction-for-predictive-ltv-modeling-using-hadoop-hive-and-cascading-martin-colaco-kontagent",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-feature-extraction-for-predictive-ltv-modeling-using-hadoop-hive-and-cascading-martin-colaco-kontagent.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-feature-extraction-for-predictive-ltv-modeling-using-hadoop-hive-and-cascading-martin-colaco-kontagent.json",
+  "kind": "talk",
+  "event_id": "111716932",
+  "event_title": "April 2013 San Francisco Hadoop Meetup",
+  "title": "Feature Extraction for Predictive LTV Modeling using Hadoop, Hive, and Cascading",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": "Martin Colaco @ Kontagent",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/111716932/",
+  "description": "The April 2013 Hadoop meetup will be held Wednesday, April 10, from 6:00pm to 8:00pm. This meetup will be hosted by Kontagent at 201 Mission St, San Francisco, CA. Their office is on the 25th floor. Starting in 2013, we will try out a new format for the Hadoop meetup. To provide a focal point for discussions, we will begin meetups with a talk from an invited speaker. We will then transition to our usual discussion-based \"unconference\" format for the second half. The talk speaker will lead a discussion group. All participants may also propose a topic and volunteer to facilitate a discussion. All Hadoop-related topics are encouraged, and all members of the Hadoop community are welcome. April's talk will be given by Martin Colaco: \"Feature Extraction for Predictive LTV Modeling using Hadoop, Hive, and Cascading\" Talk abstract: One of the biggest challenges for people building data products today is developing and refining features for modeling purposes (i.e. feature extraction) with the volume and variability of web scale data. In this talk, Martin will discuss some of the challenges and solutions faced by Kontagent as it built out a predictive lifetime value model for its customers. As you will learn, Hadoop is critical to this feature extraction process, and Cascading is quite handy when building out more complex features than can be readily developed in a query framework like Hive. Martin Colaco is the Director of Data Science for Kontagent. Event schedule: 6:00pm - Welcome 6:30pm - Martin Colaco - \"Feature Extraction for Predictive LTV Modeling using Hadoop, Hive, and Cascading\" 7:15pm - Organize additional breakout sessions Breakout sessions begin as soon as we're ready 8:00pm - Conclusion Food and refreshments will be provided courtesy of Kontagent.",
+  "date_time": "2013-04-10T18:00:00-07:00",
+  "end_time": "2013-04-10T21:00:00-07:00"
+}

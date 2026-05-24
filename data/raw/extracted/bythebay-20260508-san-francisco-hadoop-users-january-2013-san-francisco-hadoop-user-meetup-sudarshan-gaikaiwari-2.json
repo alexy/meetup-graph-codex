@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-january-2013-san-francisco-hadoop-user-meetup-sudarshan-gaikaiwari-2",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-january-2013-san-francisco-hadoop-user-meetup-sudarshan-gaikaiwari-2",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-january-2013-san-francisco-hadoop-user-meetup-sudarshan-gaikaiwari-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-january-2013-san-francisco-hadoop-user-meetup-sudarshan-gaikaiwari-2.json",
+  "kind": "talk",
+  "event_id": "95687012",
+  "event_title": "January 2013 San Francisco Hadoop User Meetup",
+  "title": "January 2013 San Francisco Hadoop User Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": "Sudarshan Gaikaiwari, Yelp's MapReduce",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/95687012/",
+  "description": "The January, 2013 Hadoop meetup will be held Wednesday, Jan 9, from 6:00pm to 8:00pm. This meetup will be hosted by Yelp at 706 Mission St, San Francisco, CA (on the 10th floor). Starting in 2013, we will try out a new format for the Hadoop meetup. To provide a focal point for discussions, we will begin meetups with a talk from an invited speaker. We will then transition to our usual discussion-based \"unconference\" format for the second half. The talk speaker will lead a discussion group. All participants may also propose a topic and volunteer to facilitate a discussion. All Hadoop-related topics are encouraged, and all members of the Hadoop community are welcome. January's talk will be given by Sudarshan Gaikaiwari, who will speak about mrjob, Yelp's MapReduce framework. You can learn more about this framework at https://github.com/Yelp/mrjob/. Event schedule: 6:00pm - Welcome 6:30pm - Sudarshan Gaikaiwari - Talk on mrjob 7:15pm - Organize additional breakout sessions Breakout sessions begin as soon as we're ready 8:00pm - Conclusion Food and refreshments will be provided courtesy of Yelp.",
+  "date_time": "2013-01-09T18:00:00-08:00",
+  "end_time": "2013-01-09T21:00:00-08:00"
+}

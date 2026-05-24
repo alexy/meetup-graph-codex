@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2021-02-04T17:30:00-08:00",
+    "description": "This event will be streamed on Twitch (please log into twitch before the event starts). Once you RSVP you will see the link to twitch to join!\n\nFor the hallway track and to ask the speakers question you can use the chat on Twitch or join our discord community at https://www.sfbayareatechies.com/ - Once you have joined please go to the #live-techtalk channel.\n\nAny questions about the event please ask in our channel on discord above. Thank you.\n\nTalk: Kiar - Key/Value store with MVCC based Transaction System\n\nMulti-version Concurrency Control, MVCC, is currently the most popular protocol among modern database management systems.\nIn this talk, we will look at an implementation of a MVCC based transaction system for an in-memory store.\n\nA few highlights:\n\n(1) Supports Delta Versioning\n(2) Data Validation via Precision Locking\n(3) Columnar Memory Layout using Apache Arrow\n(4) Built using ZIO functional programming library.\n\nReference Paper:\nFast Serializable Multi-Version Concurrency Control\nfor Main-Memory Database Systems: https://db.in.tum.de/~muehlbau/papers/mvcc.pdf\n\nAbout our Speaker Sandeep Virdi\n\nSandeep Virdi is an engineer who likes to build things. He is interested in functional programming and all paradigms associated with it. In his free time he likes to hike and spend time with his kids.\n\nAgenda\n\n5.30pm Welcome to SFScala by Salar Rahmanian\n5.45pm Kiar - Key/Value store with MVCC based Transaction System By Sandeep Virdi\n7.00pm Wrap up and continue conversations on Discord",
+    "endTime": "2021-02-04T19:30:00-08:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/275839287/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "275839287",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Kiar - Key/Value store with MVCC based Transaction System By Sandeep Virdi"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-kiar-key-value-store-with-mvcc-based-transaction-system-by-sandeep-virdi-salar-rahmanian",
+  "source_url": "https://www.meetup.com/sf-scala/events/275839287/"
+}

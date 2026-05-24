@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-09-11T18:30:00-07:00",
+    "description": "Abstract\n\nMost application performance and scale problems are due to inefficient database access. Heimdall Data is a data access layer providing Scala developers 1) SQL auto-caching and auto-invalidation, 3) Automated database failover and 4) Database Firewall. This all-in-one platform requires ZERO application code changes and is database vendor neutral (e.g. MySQL, Postgres, Oracle, SQL Server)\n\nAutoBio\n\nDr. Ramon Lawrence is VP of Engineering at Heimdall Data and an associate professor at the University of British Columbia, Canada. He has a Ph.D. in Computer Science with a research focus in database systems. His research and development activities have produced software systems for data virtualization and querying NoSQL databases.\n\nRoland Lee's background is in application networking. He has been a developer and product manager in various startups and large companies. All through his career, his industry focus has been to increase the performance of Internet user data.\n\nSchedule\n\n• 6:30-7:00 - networking\n• 7:00-7:10 - announcements etc.\n• 7:10-8:00 - talk\n• 8:00-8:30 - networking",
+    "endTime": "2017-09-11T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/240486142/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "240486142",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Ramon Lawrence,Roland Lee, Optimizing Scala Performance at the Data Access Layer"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-ramon-lawrence-roland-lee-optimizing-scala-performance-at-the-data-access-layer-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/240486142/"
+}

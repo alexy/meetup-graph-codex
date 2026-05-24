@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2019-03-05T18:00:00-08:00",
+    "description": "This is a crosspost from Bay Area AI, please register at\n\nhttps://www.meetup.com/bay-area-ai/events/258164070\n\nMachine Learning (ML) pipelines are the key building block for productionizing ML code. However, pipelines are often developed as \"silos\" - features tend not to be easily re-used across pipelines or even within the same pipeline. Silos lead to duplication, unnecessarily re-implementing features and in the worst case correctness problems, if, for example, the features used for training and serving have inconsistent implementations. The Feature Store solves the problem of siloed and ad-hoc machine learning pipelines, by providing a data layer where feature engineering can be separated from the usage of features to generate training data. That is, the Feature Store should provide a clean API separating Data Engineering from Data Science.\n\nIn this talk, we will introduce the world's first open-source Feature Store, built on Hopsworks, Apache Spark, and Apache Hive and targeting both TensorFlow/Keras and PyTorch. We will show how ML pipelines can be programmed, end-to-end, in Python, and the role of the Feature Store as a natural interface between Data Engineers and Data Scientists. In an end-to-end pipeline, we will show how the Feature Store works, and how you can write end-to-end ML pipelines in Python only (if you so choose).\n\nSpeaker Bio:\n\nJim Dowling is the CEO of Logical Clocks AB, as well as an Associate Professor at KTH Royal Institute of Technology in Stockholm. He is the lead architect of Hops, the world's most fastest and most scalable Hadoop distribution and first Hadoop platform with support for GPUs as a resource. He is a regular speaker at AI industry conferences, and blogs at O'Reilly on AI.",
+    "endTime": "2019-03-05T20:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/258164228/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "258164228",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "The Feature Store: the missing API between Data Engineering and Data Science?"
+  },
+  "event_id": "258164228",
+  "event_title": "The Feature Store: the missing API between Data Engineering and Data Science?",
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "session": {
+    "description": "This is a crosspost from Bay Area AI, please register at https://www.meetup.com/bay-area-ai/events/258164070 Machine Learning (ML) pipelines are the key building block for productionizing ML code. However, pipelines are often developed as \"silos\" - features tend not to be easily re-used across pipelines or even within the same pipeline. Silos lead to duplication, unnecessarily re-implementing features and in the worst case correctness problems, if, for example, the features used for training and serving have inconsistent implementations. The Feature Store solves the problem of siloed and ad-hoc machine learning pipelines, by providing a data layer where feature engineering can be separated from the usage of features to generate training data. That is, the Feature Store should provide a clean API separating Data Engineering from Data Science. In this talk, we will introduce the world's first open-source Feature Store, built on Hopsworks, Apache Spark, and Apache Hive and targeting both TensorFlow/Keras and PyTorch. We will show how ML pipelines can be programmed, end-to-end, in Python, and the role of the Feature Store as a natural interface between Data Engineers and Data Scientists. In an end-to-end pipeline, we will show how the Feature Store works, and how you can write end-to-end ML pipelines in Python only (if you so choose). Speaker Bio: Jim Dowling is the CEO of Logical Clocks AB, as well as an Associate Professor at KTH Royal Institute of Technology in Stockholm. He is the lead architect of Hops, the world's most fastest and most scalable Hadoop distribution and first Hadoop platform with support for GPUs as a resource. He is a regular speaker at AI industry conferences, and blogs at O'Reilly on AI.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling-2.json",
+    "source_id": "bythebay-20260508-sf-data-and-ai-engineering-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Jim Dowling"
+      }
+    ],
+    "title": "The Feature Store: the missing API between Data Engineering and Data Science?"
+  },
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling-2",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/258164228/"
+}

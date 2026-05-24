@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2021-03-25T16:00:00-07:00",
+    "description": "This is a joint meetup with Bay Area AI, please register there:\n\nhttps://www.meetup.com/bay-area-ai/events/277024081/\n\nWhile the rise of Kubernetes has been meteoric, deployment of stateful services onto Kubernetes is still in its infancy. While tooling to build operators to handle the natural complexity that stateful distributed services bring, it requires deep expertise both in Kubernetes API development and the problem domain. The Kubernetes Universal Declarative Operator (KUDO) is a framework for rapidly building production-grade operators for complex, stateful services on Kubernetes.\n\nThis talk will introduce operators and KUDO, and demonstrate two production ready operators on top of Kubernetes built with KUDO.\n\nSpeaker:\nGerred Dillion, D2IQ, the creator of KUDO.",
+    "endTime": "2021-03-25T18:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/277024095/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "277024095",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[RSVP at bay.area.ai] KUDO for MLOps: Kubernetes Universal Declarative Operator"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/277024095/"
+}

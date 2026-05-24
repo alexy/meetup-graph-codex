@@ -1,0 +1,18 @@
+{
+  "id": "talk:scale-by-the-bay:bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success-fabiana-clemente-ydata",
+  "source_id": "bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success-fabiana-clemente-ydata",
+  "source_file": "data/raw/sources/bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success-fabiana-clemente-ydata.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success-fabiana-clemente-ydata.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "Unlocking the Power of Data-Centric AI: Mastering Data Preparation for ML Success.",
+  "conference_id": "scale-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Fabiana Clemente",
+  "tags": [],
+  "url": "https://www.scale.bythebay.io/post/fabiana-clemente-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

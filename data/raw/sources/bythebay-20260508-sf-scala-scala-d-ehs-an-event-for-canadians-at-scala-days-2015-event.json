@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-03-18T20:00:00-07:00",
+    "description": "https://prismic-io.s3.amazonaws.com/boldradius/63367a5a6d01402964a46cc16010b9ea3a64456e_scala-dehs-2.png\n\nJoin your fellow Canadians for a great night of networking and discussions. Drinks and appetizers will be provided by event sponsors BoldRadius and Hootsuite. We look forward to seeing you there!",
+    "endTime": "2015-03-18T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/220939307/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "220939307",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala D'EHs - An Event for Canadians at Scala Days 2015"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-scala-d-ehs-an-event-for-canadians-at-scala-days-2015-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/220939307/"
+}

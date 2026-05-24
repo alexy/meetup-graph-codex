@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-03-13T17:00:00-07:00",
+    "description": "ScalaDays (http://scaladays.org) is coming to SF, and Martin Odersky speaks at SF Scala as a warm-up to the flagship Scala conference!\n\n5:00 PM - Guest Check in (We will be needing the manifest of attendees prior to the event)\n5:30 PM - 6:00 PM – Pizza Networking\n6:00 PM - 6:15 PM - Introductions/Verizon’s OnCue Media Team overview\n\n6:15 PM - 7:15 PM - Martin Odersky\n\nThe Binary Compatibility Challenge\n\nBinary compatibility has been a persistent challenge for the Scala community. This not because we do not take it seriously - in fact the opposite is true. Over the years, the Scala community has developed sophisticated tools and rigid processes to deal with binary compatibility. Yet the problem persists. In this talk I will explain what binary compatibility means in the Scala context and why it poses such a problem. I will then put forward a possible solution that relies on a new high-level interchange format of typed trees.\n\nQ&A/socialize afterward\n\n7:15 PM - 7:45 PM – Cake – Social – Networking\n*8:00 PM (hard stop)",
+    "endTime": "2015-03-13T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/220508829/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "220508829",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Martin Odersky at Verizon"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-martin-odersky-at-verizon-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/220508829/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-04-30T18:00:00-07:00",
+    "description": "We have an amazing Big Data meetup covering two key pieces of data flows: high-performance queues and high-performance databases.\n\nJay Kreps: I ♥ Log: Real-time Data and Apache Kafka\n\nThis talk will discuss how logs and stream-processing can form a backbone for data flow, ETL, and real-time data processing. It will describe the challenges and lessons learned as LinkedIn built out its real-time data subscription and processing infrastructure. It will also discuss the role of real-time processing and its relationship to offline processing frameworks such as MapReduce.\n\nJay is a Principal Staff Engineer at LinkedIn where he is the lead architect for online data infrastructure. He is among the original authors of several open source projects including a distributed key-value store called Project Voldemort, a messaging system called Kafka, and a stream processing system called Samza.\n\nOhmData open-sources C5, a simple, reliable, scalable, open-source HBase-compatible database. Ryan Rawson and Alex Newman, the founders, will talk about architecture and future of big databases.\n\nC5 is a simple, reliable, and scalable open source database which improves on HBase in every way. It is optimized for fast failover and can be used in production for both OLTP and analytics, eliminating a whole class of pipelines and bottlenecks. It is the first HBase successor, fully HBase API-compatible, developed from the ground up to run on the cloud installs with very easy to no maintenance and tuning. Failover happens instantly, which makes it a viable option for APIs, and all the data is accessible to Hadoop analytics flows right away. C5 takes full advantage of high speed IO (SSDs) and is simple to grow to hundreds and thousands of nodes as needed.\n\nAlex and Ryan are veterans of big data OSS before it was big data, Amazon, Google, Cloudera, StumbleUpon, and Drawn to Scale. Ryan is a core committer to HBase.\n\nDoors open at 6, talks begin at 6:30.\n\nNote: we need a video sponsor for this talk. The sponsor's logo will precede the recording. Please contact alexy@scalable.pro if you want to help more folks learn about using Scala for data pipelines!",
+    "endTime": "2014-04-30T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/178464502/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "178464502",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Big Data Scala: Kafka and OhmData"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-big-data-scala-kafka-and-ohmdata-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/178464502/"
+}

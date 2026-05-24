@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2021-05-31T23:00:00-07:00",
+    "description": "Scale By the Bay 2021 returns online in October this year.\n\nhttps://www.scale.bythebay.io/cfp\n\nA major independent conference for the Bay Area and the world, we're in our 9th year. Our defining characteristics are:\n\n-- deeply technical content accepted on merit\n-- data engineering for AI working together with software engineering and devops\n-- soup to nuts, high performance to distributed systems approach\n\nThe CFP works in two stages as always:\n-- Submit first choice talk by May 31\n-- Submit a talk to be considered for the program by June 31.\n\nEarly bird registration is also open!\n\nhttps://www.scale.bythebay.io/register",
+    "endTime": "2021-06-01T01:00:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/278329612/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "278329612",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Scale By the Bay 2021 CFP is now open until May 31/June 15!"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-scale-by-the-bay-2021-cfp-is-now-open-until-may-31-june-15-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/278329612/"
+}

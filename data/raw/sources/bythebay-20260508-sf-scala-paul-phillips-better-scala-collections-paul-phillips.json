@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-01-14T18:00:00-08:00",
+    "description": "Paul Phillips is a co-founder of Typesafe and the most prolific committer to Scala. His talk is about creating a better collections library for Scala.\n\n\"Based on my extensive experience with scala collections, I'm writing my own. The focus is much tighter: immutable, performant, predictable, correct. The talk will alternate between why the scala collections manage none of those things, and how I hope to do better.\"\n\nAgenda:\n\n6:00PM -- doors open\n\n6:30PM -- talk begins\n\n... 10:30PM -- Paul flies back to the Northern Shores, so we want to make sure we have enough time for questions and discussion, hence the talk will start promptly on time! If you are arriving late please proceed to the back.",
+    "endTime": "2014-01-14T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/155024812/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "155024812",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Paul Phillips: Better Scala Collections"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-paul-phillips-better-scala-collections-paul-phillips",
+  "source_url": "https://www.meetup.com/sf-scala/events/155024812/"
+}

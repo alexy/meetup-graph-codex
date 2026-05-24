@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2025-09-25T12:00:00-04:00",
+    "description": "Deep Research architectures have become increasingly popular over the past three months as users want more complex tasks to be handled by LLMs. The LastMile AI team has gone through a journey to understand what core components are needed for a Deep Research Agent and what qualities enable it to be ready for production. We'll be sharing the core architecture for a Deep Research Agent and how these components influence the behavior of the agent.\n\n**About the speaker**\nAndrew Hoh is a co-founder and the CPO of LastMile AI. Previously, he was a Product Leader at Meta AI, driving product for their AI Platform. Previously, he was the Product Manager for the Machine Learning Infrastructure team at Airbnb and a founding team member of Azure Cosmos DB, Microsoft Azure's distributed NoSQL database.\n\n**Resources**\nCheck out this recent post on the AI Alliance blog: [Building a Deep Research Agent Using MCP-Agent](https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent)\n\n**About the AI Alliance**\nThe [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.\n\n**Join the community**\nSign up for the [AI Alliance newsletter](https://thealliance.ai/community) (check the website footer) and join our new [AI Alliance Discord](https://discord.gg/YtsWdke6E9).",
+    "endTime": "2025-09-25T13:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/311169111/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "311169111",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] Building a Deep Research Agent Using MCP-Agent"
+  },
+  "event_id": "311169111",
+  "event_title": "[AI Alliance] Building a Deep Research Agent Using MCP-Agent",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "Deep Research architectures have become increasingly popular over the past three months as users want more complex tasks to be handled by LLMs. The LastMile AI team has gone through a journey to understand what core components are needed for a Deep Research Agent and what qualities enable it to be ready for production. We'll be sharing the core architecture for a Deep Research Agent and how these components influence the behavior of the agent. **About the speaker** Andrew Hoh is a co-founder and the CPO of LastMile AI. Previously, he was a Product Leader at Meta AI, driving product for their AI Platform. Previously, he was the Product Manager for the Machine Learning Infrastructure team at Airbnb and a founding team member of Azure Cosmos DB, Microsoft Azure's distributed NoSQL database. **Resources** Check out this recent post on the AI Alliance blog: [Building a Deep Research Agent Using MCP-Agent](https://thealliance.ai/blog/building-a-deep-research-agent-using-mcp-agent) **About the AI Alliance** The [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players. **Join the community** Sign up for the [AI Alliance newsletter](https://thealliance.ai/community) (check the website footer) and join our new [AI Alliance Discord](https://discord.gg/YtsWdke6E9).",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-building-a-deep-research-agent-using-mcp-agent-andrew-hoh.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-building-a-deep-research-agent-using-mcp-agent-andrew-hoh.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-building-a-deep-research-agent-using-mcp-agent-andrew-hoh",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Andrew Hoh"
+      }
+    ],
+    "title": "Building a Deep Research Agent Using MCP-Agent"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-building-a-deep-research-agent-using-mcp-agent-andrew-hoh",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/311169111/"
+}

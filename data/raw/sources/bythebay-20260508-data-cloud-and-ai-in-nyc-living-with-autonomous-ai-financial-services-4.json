@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2024-03-21T15:30:00-04:00",
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.**\nFor everyone who wants to learn a little about how “Robots with Autonomy” will likely play an important role in creating a sustainable future in areas such as maintaining our built environment, keeping a rapidly ageing population secure in their homes or keeping degraded land due to climate change productive.\n\n* We’re unlikely to see humanoid or large autonomous robots in our homes for some time but what are we going to see in the short to medium term, e.g. intelligent vacuum cleaners?\n* Why bio-mimetic approaches, mimicking the animals we have learned to share our living spaces with for several thousand years are perhaps the best way of using autonomous AI\n* Explore ethical and use-case decisions made when attempting to create autonomous prototypes for eldercare\n* Understand what to look for in a personal robot and how an autonomous AI can provide privacy protection, intuitive interaction and shared history to its owners\n\n**Presenter:** **Jason Garforth**\n\n**Jason Garforth**, in his role as one of IBM’s Enterprise Architects specialises in AI and ERP (Oracle/SAP), gets to work with a wide variety of commercial and academic clients across Healthcare, Financial Services and Manufacturing. Interested in “intelligent machines” from a young age, the quest for Artificial Intelligence spans three academic degrees across multiple decades including a PhD in “Artificial Intelligence, Executive Attention and Autonomous Robotics from The UK’s Open University”. A passion for healthcare, sparked in 2015 continues to the present, developing biomimetic, biologically plausible, privacy protecting, embedded AI for eldercare.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r6e43ab1ddfa7e2ff2bd12cf76bc28dfc](https://ibm.webex.com/weblink/register/r6e43ab1ddfa7e2ff2bd12cf76bc28dfc)**",
+    "endTime": "2024-03-21T16:30:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/297906483/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "297906483",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Living with Autonomous AI"
+  },
+  "event_id": "297906483",
+  "event_title": "Living with Autonomous AI",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.** For everyone who wants to learn a little about how “Robots with Autonomy” will likely play an important role in creating a sustainable future in areas such as maintaining our built environment, keeping a rapidly ageing population secure in their homes or keeping degraded land due to climate change productive. * We’re unlikely to see humanoid or large autonomous robots in our homes for some time but what are we going to see in the short to medium term, e.g. intelligent vacuum cleaners? * Why bio-mimetic approaches, mimicking the animals we have learned to share our living spaces with for several thousand years are perhaps the best way of using autonomous AI * Explore ethical and use-case decisions made when attempting to create autonomous prototypes for eldercare * Understand what to look for in a personal robot and how an autonomous AI can provide privacy protection, intuitive interaction and shared history to its owners **Presenter:** **Jason Garforth** **Jason Garforth**, in his role as one of IBM’s Enterprise Architects specialises in AI and ERP (Oracle/SAP), gets to work with a wide variety of commercial and academic clients across Healthcare, Financial Services and Manufacturing. Interested in “intelligent machines” from a young age, the quest for Artificial Intelligence spans three academic degrees across multiple decades including a PhD in “Artificial Intelligence, Executive Attention and Autonomous Robotics from The UK’s Open University”. A passion for healthcare, sparked in 2015 continues to the present, developing biomimetic, biologically plausible, privacy protecting, embedded AI for eldercare. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r6e43ab1ddfa7e2ff2bd12cf76bc28dfc](https://ibm.webex.com/weblink/register/r6e43ab1ddfa7e2ff2bd12cf76bc28dfc)**",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services-4.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services-4.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services-4",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Financial Services"
+      },
+      {
+        "company": null,
+        "name": "Jason Garforth"
+      },
+      {
+        "company": null,
+        "name": "Jason Garforth Jason Garforth"
+      }
+    ],
+    "title": "Living with Autonomous AI"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services-4",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/297906483/"
+}

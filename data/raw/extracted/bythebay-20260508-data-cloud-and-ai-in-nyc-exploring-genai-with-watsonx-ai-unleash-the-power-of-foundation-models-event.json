@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-exploring-genai-with-watsonx-ai-unleash-the-power-of-foundation-models-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-exploring-genai-with-watsonx-ai-unleash-the-power-of-foundation-models-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-exploring-genai-with-watsonx-ai-unleash-the-power-of-foundation-models-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-exploring-genai-with-watsonx-ai-unleash-the-power-of-foundation-models-event.json",
+  "kind": "event",
+  "event_id": "297234443",
+  "event_title": "Exploring GenAI with watsonx.ai: Unleash the power of foundation models",
+  "title": "Exploring GenAI with watsonx.ai: Unleash the power of foundation models",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/297234443/",
+  "description": "Discover the cutting-edge capabilities of watsonx.ai, the next-generation enterprise platform that empowers coders and AI builders with trusted models, tools, and runtimes. [In this session](https://ibm.webcasts.com/starthere.jsp?ei=1641352&tp_key=5eda6e297d&sti=meetup), we will delve into GenAI, a revolutionary feature within watsonx.ai, and explore its diverse functionalities. Learn how to leverage foundation models for tasks like content generation, summarization, translation, classification, extraction, chat, and coding. Don't miss the chance to embark on an AI-driven journey with watsonx.ai to amplify your daily work. **[Reserve your spot today](https://ibm.webcasts.com/starthere.jsp?ei=1641352&tp_key=5eda6e297d&sti=meetup)** \\*Part of this abstract was generated using watsonx.ai",
+  "date_time": "2023-12-14T13:00:00-05:00",
+  "end_time": "2023-12-14T14:00:00-05:00"
+}

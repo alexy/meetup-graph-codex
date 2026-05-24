@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-we-are-ai-the-bay-area-ai-community-showcase-event",
+  "source_id": "bythebay-20260508-bay-area-ai-we-are-ai-the-bay-area-ai-community-showcase-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-we-are-ai-the-bay-area-ai-community-showcase-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-we-are-ai-the-bay-area-ai-community-showcase-event.json",
+  "kind": "announcement",
+  "event_id": "237433699",
+  "event_title": "We.Are.AI: The Bay Area AI Community Showcase",
+  "title": "We.Are.AI: The Bay Area AI Community Showcase",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/237433699/",
+  "description": "Please spread the word as far and wide as you can: http://we.are.ai ! Note: the global AI showcase is starting on March 6-8 at AI By the Bay (http://ai.bythebay.io). Join us for the tour de force of open-source AI and a rooftop party every night! Use the code BAYAREAAI for maximum discount (while supplies last). The top-voted projects of the community showcase will get free tickets to the conference and a chance to pitch. Folks -- as the community is growing and most companies venture into AI, let's have a mega-showcase of the current AI projects across the Bay Area! Please describe your project here: http://chief.sc/ai-community -- a free event of all the meetups listed below to review Bay Area AI projects in 5-minute pitches. A project can be just an idea, open-source skunkworks, AI startup, an accelerator, an enterprise initiative, and even more. You can present your project in 2, 5, or 10 minute pitches, and ask for collaborators, funders, advice, and anything else you need to make it succeed. A panel of judges will rate the projects and the winners will receive full passes to AI By the Bay conference with a chance to present there as well. We'll select as many good projects as we can for 5-10 minute presentations. If you'd like to present a full-length talk (20-40 minutes), please submit it via CFP at http://data.bythebay.io for June 3-4. We need a good venue for 2-3 hour event and lots of seats for as many companies as we can feature. This is a free meetup and both presenters and attendees come from the meetup community. We are celebrating our meetups as true community events driven by the technologists. We'll run a list of all partner meetups here: Bay Area AI SF Spark and Friends (http://sfspark.org) SF Hadoop (http://sfhadoop.org) SF Bay Area Machine Learning (https://www.meetup.com/SF-Bayarea-Machine-Learning/) SF Big Analytics (https://www.meetup.com/SF-Big-Analytics/) If you want to sponsor food/drinks, contact Alexy at alexy@scalable.pro.",
+  "date_time": "2017-02-28T17:30:00-08:00",
+  "end_time": "2017-02-28T20:30:00-08:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana-2",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana-2",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana-2.json",
+  "kind": "talk",
+  "event_id": "224902669",
+  "event_title": "November 2015 Meetup",
+  "title": "November 2015 Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": "Joey Echevarria @ Rocana, Joey Echeverria @ Rocana with Q&A, O'Reilly Media",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/224902669/",
+  "description": "Thanks to Microsoft for letting us use their new community space!",
+  "date_time": "2015-11-04T18:00:00-08:00",
+  "end_time": "2015-11-04T20:00:00-08:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-knowledge-graphs-for-enterprise-ai-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-knowledge-graphs-for-enterprise-ai-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-knowledge-graphs-for-enterprise-ai-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-knowledge-graphs-for-enterprise-ai-event.json",
+  "kind": "talk",
+  "event_id": "307583295",
+  "event_title": "[AI Alliance] Knowledge Graphs for Enterprise AI",
+  "title": "Knowledge Graphs for Enterprise AI",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/307583295/",
+  "description": "**Description** [Proscenium](https://the-ai-alliance.github.io/proscenium/) is an emerging library of composable glue focused on enterprise AI applications. It prioritizes support for domains where the creation and use of structured data is critical. This talk will walk through the construction an application for the legal domain built with Proscenium that involves: 1. Document enrichment 2. Entity resolution 3. Knowledge Graph construction 4. Query handling 5. Chat integration Finally, we'll cover the future roadmap and ways that you could contribute! **Speaker Bio** Adam Pingel ([LinkedIn](https://www.linkedin.com/in/adampingel/), [GitHub](https://github.com/adampingel)) is IBM's Head of Open Tools and Applications for the [AI Alliance](https://thealliance.ai). Adam has been fascinated by AI and chatbots since playing with [Racter](https://en.wikipedia.org/wiki/Racter) in the 80’s. But the “winters” were long and frequent. The stars aligned in 2015 when he became VPE at Ravel Law. Ravel was building AI-powered tools for the legal industry and was working with Harvard Law School on what is now known as the Caselaw Access Project. After an acquisition by LexisNexis in 2017, he moved his family to Raleigh (in 2019) to take the role of CTO of Global Platforms. In 2022 he joined IBM to work on domain-specific applications of generative AI. Adam holds an MS and BS in CS from UCLA and Stanford, respectively. When not at a keyboard, he enjoys spending time with his family. **About the AI Alliance** The [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+  "date_time": "2025-05-22T12:00:00-04:00",
+  "end_time": "2025-05-22T13:00:00-04:00"
+}

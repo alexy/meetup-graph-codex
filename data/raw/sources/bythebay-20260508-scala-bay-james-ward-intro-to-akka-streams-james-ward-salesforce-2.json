@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2018-03-26T19:00:00-07:00",
+    "description": "James Ward, \"Intro to Akka Streams\"\n\nAkka Streams is an actor-based stream processing library which supports reactive back-pressure. This session will walk through the basics of what Akka Streams is and how to use it. You’ll learn from a few slides, live coding, and some real-world examples the basics of Akka Streams.\n\nSpeaker Bio\n\nJames Ward is the Engineering and Open Source Ambassador at Salesforce.com. He tweets as @_JamesWard and blogs on jamesward.com.\n\nMore: http://www.jamesward.com/about-james-ward/\n\nSchedule\n\n• 6:30-7:00 - networking (pizza, beer)\n• 7:00-7:10 - announcements etc.\n• 7:10-8:00 - talk\n• 8:00-8:30 - more networking",
+    "endTime": "2018-03-26T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/248179725/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "248179725",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "James Ward, Intro to Akka Streams"
+  },
+  "event_id": "248179725",
+  "event_title": "James Ward, Intro to Akka Streams",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "James Ward, \"Intro to Akka Streams\" Akka Streams is an actor-based stream processing library which supports reactive back-pressure. This session will walk through the basics of what Akka Streams is and how to use it. You’ll learn from a few slides, live coding, and some real-world examples the basics of Akka Streams. Speaker Bio James Ward is the Engineering and Open Source Ambassador at Salesforce.com. He tweets as @_JamesWard and blogs on jamesward.com. More: http://www.jamesward.com/about-james-ward/ Schedule • 6:30-7:00 - networking (pizza, beer) • 7:00-7:10 - announcements etc. • 7:10-8:00 - talk • 8:00-8:30 - more networking",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-james-ward-intro-to-akka-streams-james-ward-salesforce-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-james-ward-intro-to-akka-streams-james-ward-salesforce-2.json",
+    "source_id": "bythebay-20260508-scala-bay-james-ward-intro-to-akka-streams-james-ward-salesforce-2",
+    "speakers": [
+      {
+        "company": "Salesforce",
+        "name": "James Ward"
+      },
+      {
+        "company": "Salesforce",
+        "name": "Open Source Ambassador"
+      }
+    ],
+    "title": "James Ward, Intro to Akka Streams"
+  },
+  "source_id": "bythebay-20260508-scala-bay-james-ward-intro-to-akka-streams-james-ward-salesforce-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/248179725/"
+}

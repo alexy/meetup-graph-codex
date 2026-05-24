@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes-kait-arnold-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes-kait-arnold-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes-kait-arnold-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes-kait-arnold-2.json",
+  "kind": "talk",
+  "event_id": "295221859",
+  "event_title": "Understanding AI Concepts and How to Infuse AI into Your Business Processes",
+  "title": "Understanding AI Concepts and How to Infuse AI into Your Business Processes",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Kait Arnold, Kaitlyn Arnold, Kaitlyn Arnold Kait Arnold",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/295221859/",
+  "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.** In this session, you will learn all about the buzz words surrounding Artificial Intelligence - Generative AI, Large Language Models, Natural Language Processing, and Machine Learning and how these concepts can be weaved into your business processes to transform the future of your organization. Topics Covered: * How Conversational AI is transforming client services augmenting client facing reps via an omni-channel virtual agent * How AI developers can leverage our next generation enterprise studio that empowers users to train, validate, tune, and deploy both traditional and new generative AI capabilities in a low-code/no-code environment * How AI can reduce manual labor of your call center and operations team through call summarization, extraction of key insights, and sentiment analysis **Presenter: Kaitlyn Arnold** Kait Arnold is an AI Solutions Engineer at IBM serving the Financial Services Industry. Prior to IBM, she managed a team of Analytics Consultants working on projects related to business intelligence, data science, and data engineering. She has her Master’s in Computational Mathematics & Statistics in Data Science from the University of Notre Dame and graduated from Fairfield with a dual major in Finance and Information Systems and a minor in Business Analytics. Through her experience, she has cultivated a strong passion for helping others use technology, creativity, and innovation to achieve their goals. Kait enjoys giving back to her community in the form of teaching. In 2022, she taught Python for Data Science for Women in Data, and is currently teaching her first University level Master’s course on Artificial Intelligence at her alma mater, Fairfield University. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r4b8e880137ee533d2ddc88fe6759e5da](https://ibm.webex.com/weblink/register/r4b8e880137ee533d2ddc88fe6759e5da)**",
+  "date_time": "2023-09-20T08:00:00-04:00",
+  "end_time": "2023-09-20T09:00:00-04:00"
+}

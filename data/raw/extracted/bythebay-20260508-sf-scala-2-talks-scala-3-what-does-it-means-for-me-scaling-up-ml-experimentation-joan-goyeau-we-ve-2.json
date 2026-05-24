@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-2-talks-scala-3-what-does-it-means-for-me-scaling-up-ml-experimentation-joan-goyeau-we-ve-2",
+  "source_id": "bythebay-20260508-sf-scala-2-talks-scala-3-what-does-it-means-for-me-scaling-up-ml-experimentation-joan-goyeau-we-ve-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-2-talks-scala-3-what-does-it-means-for-me-scaling-up-ml-experimentation-joan-goyeau-we-ve-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-2-talks-scala-3-what-does-it-means-for-me-scaling-up-ml-experimentation-joan-goyeau-we-ve-2.json",
+  "kind": "talk",
+  "event_id": "263019567",
+  "event_title": "2 Talks: Scala 3, what does it means for me? & Scaling up ML Experimentation",
+  "title": "2 Talks: Scala 3, what does it means for me? & Scaling up ML Experimentation",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Joan Goyeau We’ve",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/263019567/",
+  "description": "We have two great talks lined up for this event. Scala 3, what does it means for me? By Joan Goyeau We’ve all heard about Dotty or Scala 3 either through Martin Odersky’s great talks or features listing on Dotty’s website. This sounds like a big change but how will it affect me as a Scala user in my day to day development? Here at Netflix we are processing millions of events per second with Scala, so we’ve hit a few corner cases of the language that often end up in complicated and boilerplate workarounds that new features in Scala 3 are believed to be solving. Please join this talk to see what the future of the Scala landscape looks like for you and discuss your own compilation stories. About Joan Goyeau Data Engineer @ Netflix Passionate about Scala and solving data related problems. Maintainer of Orkestra.tech, a typesafe CI/CD server as a library. Scaling up ML Experimentation at Tubi 5x and Beyond By Alexandros Bantis The Tubi.tv streaming app (https://tubitv.com/) is installed on over 50 million mobile and OTT devices. To meet the needs of a fast-growing audience Tubi is enabling rapid machine learning (ML) experimentation using Scala. Ranking Service serves pre-computed personalization requests. It is a critical component of our next-generation machine learning services that has helped ramp up our rate of experimentation by 5x. It's built with Scala/Akka, ScalaPB, Kinesis, ScyllaDB, and has experimentation support built into the domain model. This presentation will discuss some of the challenges, motivations and experiences related to this project. About Alexandros Bantis Alexandros Bantis, Senior Scala Engineer, Tubi Alexandros has been building out the next generation of ML personalization services at Tubi over the past year. Before that he spent three years at Apple building out the publishing pipeline for Apple.com. Outside of Scala, he can usually be found at the playground with his children.",
+  "date_time": "2019-08-21T18:00:00-07:00",
+  "end_time": "2019-08-21T21:00:00-07:00"
+}

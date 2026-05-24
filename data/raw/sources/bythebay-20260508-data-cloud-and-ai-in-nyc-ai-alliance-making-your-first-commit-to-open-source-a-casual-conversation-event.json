@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-02-20T12:00:00-05:00",
+    "description": "This session will follow more of a Q&A format. More details to be shared soon! Learn about:\n\n* Why choosing the project is important\n* Types of OSS communities\n* What project leads care about\n* Roadmap to getting involved with OSS projects\n* Live demo\n\n**Session Type**\nOpen Q&A session\n\n**Audience**\nLLM app developers, data scientists, data engineers\n\n**Technical Level**\nn/a (all levels)\n\n**Prerequisites**\nn/a\n\n**Industry**\nCross industry\n\n**Agenda**\n\n* Welcome & introductions (5')\n* Conversation starter (15’)\n* Q&A\n* Closing\n\n**About the instructor**\nTrevor Grant (IBM Research) is getting back into speaking after a hiatus from an otherwise prolific career that was put on pause during the pandemic. During his pause he became a father, published a book (Kubeflow for Machine Learning: From Lab to Production), had a second son, consulted for a while, went back to work for IBM Research, and became car free (this list is not ordered chronologically nor by significance). He has been putzing around generative AI since \\~2017, and someday hopes to give a talk on his Star Trek Chat bots of 2018-2020. His primary open source interest at the moment is the **qumat** project of Apache Mahout and the **gofannon** project of the AI Alliance.\n\n**About the AI Alliance**\nThe [AI Alliance](https://thealliance.ai/) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+    "endTime": "2025-02-20T13:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/306138354/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "306138354",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] Making Your First Commit To Open Source: A Casual Conversation"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-making-your-first-commit-to-open-source-a-casual-conversation-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/306138354/"
+}

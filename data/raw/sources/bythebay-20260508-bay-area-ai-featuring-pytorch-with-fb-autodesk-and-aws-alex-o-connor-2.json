@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2020-02-11T18:00:00-08:00",
+    "description": "On Feb 11, Bay Area AI Meetup will be featuring PyTorch with speakers from Facebook, Autodesk and AWS.\n\nTalk 1: \"PyTorch 1.4 Release Update\" by Facebook\n\n- Speaker: Brad Heintz is a partner engineer at Facebook working with PyTorch, the open source framework for Deep Learning in research and enterprise production. He's been building software, professionally and for fun, for forty years.\n\nTalk 2: “Doing NLP with Transformers” by Autodesk\n\n- Summary: Since their introduction three years ago, transformers have had an enormous impact on the state of the art for many natural language-based tasks. One interesting aspect of transformer-based systems is that they include large, pre-trained language models which are freely available. This talk will discuss the transformer, and how to fine-tune transformers for use on Sagemaker instances for different applications, including some of the ways they are used in Autodesk’s Digital Help organization.\n\n- Speaker: Alex O'Connor is Lead Data Scientist for the DPE-DHX-DS Data Science Team at Autodesk. Alex obtained his PhD in Computer Science from Trinity College Dublin in 2010. From there he went on to be a Funded Investigator at the SFI ADAPT Global Centre for Digital Content, and Lecturer at Dublin City University. He has published in research areas including the semantic web, natural language processing, digital humanities, and adaptive hypermedia. Before joining Autodesk, Alex was Director of Research at a Fintech startup in Menlo Park.\n\nTalk 3: \"Less Code, More Intelligence with PyTorch on SageMaker\" by AWS\n\n- Summary: Tired of managing your own EC2 instances? Wish you could just write your Torch model and walk away? In this session we’ll dive deep into Amazon SageMaker and understand how it helps both senior data scientists and beginning developers increase their impact by leveraging a managed service. We will focus on common design patterns for developing, training, and deploying PyTorch models.\n\n- Speaker: Emily Webber is a Machine Learning Solutions Architect at AWS. She has been leading data science projects for many years, piloting the application of machine learning into social media violence detection, economic policy evaluation, computer vision, reinforcement learning, IOT, drone, and robotic design. She is a keynote speaker at Amazon Web Services, and has lead hundreds of workshops for customers in every stage of their cloud journey. Her direct contributions have led to countless innovations on the AWS machine learning stack, and many of her customers are public about their appreciation for Amazon SageMaker. Previously she worked as a solutions architect for an explainable AI start-up in Chicago and as data scientist at the Federal Reserve Bank of Chicago.",
+    "endTime": "2020-02-11T20:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/268317060/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "268317060",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Featuring PyTorch with FB, Autodesk and AWS"
+  },
+  "event_id": "268317060",
+  "event_title": "Featuring PyTorch with FB, Autodesk and AWS",
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "session": {
+    "description": "On Feb 11, Bay Area AI Meetup will be featuring PyTorch with speakers from Facebook, Autodesk and AWS. Talk 1: \"PyTorch 1.4 Release Update\" by Facebook - Speaker: Brad Heintz is a partner engineer at Facebook working with PyTorch, the open source framework for Deep Learning in research and enterprise production. He's been building software, professionally and for fun, for forty years. Talk 2: “Doing NLP with Transformers” by Autodesk - Summary: Since their introduction three years ago, transformers have had an enormous impact on the state of the art for many natural language-based tasks. One interesting aspect of transformer-based systems is that they include large, pre-trained language models which are freely available. This talk will discuss the transformer, and how to fine-tune transformers for use on Sagemaker instances for different applications, including some of the ways they are used in Autodesk’s Digital Help organization. - Speaker: Alex O'Connor is Lead Data Scientist for the DPE-DHX-DS Data Science Team at Autodesk. Alex obtained his PhD in Computer Science from Trinity College Dublin in 2010. From there he went on to be a Funded Investigator at the SFI ADAPT Global Centre for Digital Content, and Lecturer at Dublin City University. He has published in research areas including the semantic web, natural language processing, digital humanities, and adaptive hypermedia. Before joining Autodesk, Alex was Director of Research at a Fintech startup in Menlo Park. Talk 3: \"Less Code, More Intelligence with PyTorch on SageMaker\" by AWS - Summary: Tired of managing your own EC2 instances? Wish you could just write your Torch model and walk away? In this session we’ll dive deep into Amazon SageMaker and understand how it helps both senior data scientists and beginning developers increase their impact by leveraging a managed service. We will focus on common design patterns for developing, training, and deploying PyTorch models. - Speaker: Emily Webber is a Machine Learning Solutions Architect at AWS. She has been leading data science projects for many years, piloting the application of machine learning into social media violence detection, economic policy evaluation, computer vision, reinforcement learning, IOT, drone, and robotic design. She is a keynote speaker at Amazon Web Services, and has lead hundreds of workshops for customers in every stage of their cloud journey. Her direct contributions have led to countless innovations on the AWS machine learning stack, and many of her customers are public about their appreciation for Amazon SageMaker. Previously she worked as a solutions architect for an explainable AI start-up in Chicago and as data scientist at the Federal Reserve Bank of Chicago.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-2.json",
+    "source_id": "bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Alex O'Connor"
+      },
+      {
+        "company": "Facebook working with PyTorch",
+        "name": "Brad Heintz"
+      },
+      {
+        "company": "AWS",
+        "name": "Emily Webber"
+      }
+    ],
+    "title": "Featuring PyTorch with FB, Autodesk and AWS"
+  },
+  "source_id": "bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-2",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/268317060/"
+}

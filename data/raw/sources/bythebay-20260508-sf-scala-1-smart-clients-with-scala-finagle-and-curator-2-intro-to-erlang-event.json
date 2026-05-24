@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-10-28T18:00:00-07:00",
+    "description": "We have two distributed systems talks. In one, we cover Driud. In another, we'll examine how Erlang, the original actor system language, arrived at its best practices.\n\nSmart Clients with Scala, Finagle, and Curator\n\nDistributed systems have a number of classic concerns: peer discovery, availability, concurrency-safety, failover, data partitioning, and so on. Some services handle all this on the server side, but it is also possible to do some or all of these tasks on the client side. In many cases this separation can lead to a simpler and more flexible architecture. In this talk, we’ll discuss an example of a production system designed in this fashion: the Druid + Tranquility combination.\n\nDruid is an open-source data store meant for real-time analytics, and Tranquility is a smart client for sending events to Druid as they occur. We will cover what the Druid ingestion servers are and are not responsible for, and how the client uses Scala, Finagle, and Curator to take care of the classic distributed system concerns with ease and high performance.\n\nFor more information about Druid, see http://druid.io/; for more information about Tranquility, see https://github.com/metamx/tranquility.\n\nBio\nGian is a backend software engineer at Metamarkets, where he is responsible for the infrastructure behind its data ingestion pipelines and is also a committer on the Druid project. He comes to Metamarkets from Yahoo! where he worked on its server deployment and configuration management platform. He holds a BS in Computer Science from Caltech.\n\nAn Introduction to Erlang\nErlang is known for its message-passing philosophy, its scalability, and the high uptime of Erlang-based systems. It is also known for having a weird syntax, and for being bundled with its own VM, all good sense to the contrary.\n\nWhat is Erlang? What elements of the language and standard libraries make it so suitable for distributed systems? What have Erlang practitioners learned about concurrent and distributed systems from their 20+ years of experience with them?\n\nThis talk will provide an overview of the language, with an emphasis on its actor model of concurrency, and its support for distributed systems. No Erlang knowledge is necessary.\n\nBio:\nSteven Grady is Senior Architect with Erlang Solutions, Ltd, the premier Erlangconsulting company. He has been programming professionally for 30+ years, with a primary focus on Erlang since 2008. He is a language afficianado, having worked professionally in Pascal, C, C++, Tcl, Perl, Ruby, Lua, JavaScript, Python, and Java, before coming to Erlang. (He has also dabbled in Scala and Haskell, among others.)\n\nAgenda\n\n6:00pm -- doors open, food, drink, and networking, best view in the city\n\n6:30-7:30pm -- Druid\n\n7:30pm-8:30pm -- Erlang\n\n8:30-9:00pm -- networking",
+    "endTime": "2014-10-28T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/213630542/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "213630542",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "(1) Smart Clients with Scala, Finagle and Curator; (2) Intro to Erlang"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-1-smart-clients-with-scala-finagle-and-curator-2-intro-to-erlang-event",
+  "source_url": "https://www.meetup.com/sf-scala/events/213630542/"
+}

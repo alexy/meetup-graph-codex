@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2012-07-09T18:30:00-07:00",
+    "description": "Please note: for security reasons, Palantir Security asks that you show identification at the door. If you prefer not to show identification, you can have a visitor badge created (with your photo) when you arrive.\n\nIf you've heard about the delimited continuations plugin in Scala 2.8+, but been intimidated by them then this talk is for you. Matthew Neeley and James Douglas will explain what delimited continuations are and how they can be used with some real-world scenarios to solve interesting problems.\n\nMatthew will start with introductory material and examples, including delimited continuations for action composition with Play 2, Akka's data flow feature, C#-style async/await) and resource management. James will then discuss his \"imperatively\" project, which uses delimited continuations to build complex, multi-step Web workflows out of easy to follow imperative code. There will be a shared Q & A session at the end. Matthew and James encourage questions throughout.\n\nThe schedule for the event is:\n\n6:30 - networking, food\n\n7:00 - announcements\n\n7:10 - Matthew presents\n\n8:10 - James presents\n\n8:40 - Q&A\n\nPalantir is providing water, soda, beer and food.\n\nWe will give away two copies of IntelliJ IDEA 11 for personal use, and two copies of JRebel. Two free PDF copies of \"Actors in Scala\" by Philipp Haller and Frank Sommers and published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile.\n\nThis event will be recorded.\n\nMatthew Neeley has a PhD in physics from UCSB, where he worked on quantum computing with superconducting qubits. He continued his research at MIT Lincoln Laboratory before deciding that the most enjoyable part of experimental physics was writing code, so why not do that full time? He now works at NetWallet in Palo Alto.\n\nJames Douglas is a Forward Deployed Engineer at Palantir, where he focuses on functional Web APIs built on a variety of JVM-based stacks. He has a special interest in theoretical computer science, including delimited continuations and how they are useful to applied programming.",
+    "endTime": "2012-07-09T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/69366042/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "69366042",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Unraveling delimited continuations"
+  },
+  "event_id": "69366042",
+  "event_title": "Unraveling delimited continuations",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "Please note: for security reasons, Palantir Security asks that you show identification at the door. If you prefer not to show identification, you can have a visitor badge created (with your photo) when you arrive. If you've heard about the delimited continuations plugin in Scala 2.8+, but been intimidated by them then this talk is for you. Matthew Neeley and James Douglas will explain what delimited continuations are and how they can be used with some real-world scenarios to solve interesting problems. Matthew will start with introductory material and examples, including delimited continuations for action composition with Play 2, Akka's data flow feature, C#-style async/await) and resource management. James will then discuss his \"imperatively\" project, which uses delimited continuations to build complex, multi-step Web workflows out of easy to follow imperative code. There will be a shared Q & A session at the end. Matthew and James encourage questions throughout. The schedule for the event is: 6:30 - networking, food 7:00 - announcements 7:10 - Matthew presents 8:10 - James presents 8:40 - Q&A Palantir is providing water, soda, beer and food. We will give away two copies of IntelliJ IDEA 11 for personal use, and two copies of JRebel. Two free PDF copies of \"Actors in Scala\" by Philipp Haller and Frank Sommers and published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile. This event will be recorded. Matthew Neeley has a PhD in physics from UCSB, where he worked on quantum computing with superconducting qubits. He continued his research at MIT Lincoln Laboratory before deciding that the most enjoyable part of experimental physics was writing code, so why not do that full time? He now works at NetWallet in Palo Alto. James Douglas is a Forward Deployed Engineer at Palantir, where he focuses on functional Web APIs built on a variety of JVM-based stacks. He has a special interest in theoretical computer science, including delimited continuations and how they are useful to applied programming.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-unraveling-delimited-continuations-frank-sommers-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-unraveling-delimited-continuations-frank-sommers-2.json",
+    "source_id": "bythebay-20260508-scala-bay-unraveling-delimited-continuations-frank-sommers-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Frank Sommers"
+      },
+      {
+        "company": null,
+        "name": "Palo Alto"
+      },
+      {
+        "company": null,
+        "name": "Philipp Haller"
+      }
+    ],
+    "title": "Unraveling delimited continuations"
+  },
+  "source_id": "bythebay-20260508-scala-bay-unraveling-delimited-continuations-frank-sommers-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/69366042/"
+}

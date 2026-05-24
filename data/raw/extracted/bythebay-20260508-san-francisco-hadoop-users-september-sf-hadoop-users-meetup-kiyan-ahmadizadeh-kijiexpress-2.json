@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-kiyan-ahmadizadeh-kijiexpress-2",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-kiyan-ahmadizadeh-kijiexpress-2",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-kiyan-ahmadizadeh-kijiexpress-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-kiyan-ahmadizadeh-kijiexpress-2.json",
+  "kind": "talk",
+  "event_id": "136499862",
+  "event_title": "September SF Hadoop Users Meetup",
+  "title": "September SF Hadoop Users Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": "Kiyan Ahmadizadeh KijiExpress",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/136499862/",
+  "description": "The September 2013 Hadoop meetup will be held Wednesday, September 11th from 6:00pm to 8:00pm. This meetup will be hosted by WibiData, located at 375 Alabama St #350, San Francisco, CA. This meetup will feature talks from WibiData engineer, Kiyan Ahmadizadeh and member of the technical staff at Hortonworks Inc and Apache Hadoop YARN project lead, Vinod Kumar Vavilapalli. The following talks will be presented: \"Faster Model Deployment with KijiExpress\" WibiData, Kiyan Ahmadizadeh KijiExpress is an open source tool for building ad-hoc data processing pipelines and developing & deploying machine learning models. Express is built around Scalding (Scala + Cascading) and includes advanced features for defining ML model configuration. In this talk, Kiyan will introduce the concepts in KijiExpress and describe how it enables faster iteration on ML model development. \"Developing Applications with Hadoop 2.0 and YARN\" Hortonworks Inc, Vinod Kumar Vavilapalli Hadoop 2.0 is approaching. A defining characteristic of Hadoop 2.0 is its next generation resource management framework called YARN (http://hortonworks.com/hadoop/yarn/). YARN enables Hadoop to grow beyond its MapReduce origins to embrace multiple workloads spanning interactive queries, batch processing, streaming & more. In this session we will examine YARN architecture and how to get started developing for the next generation of Hadoop.",
+  "date_time": "2013-09-11T18:00:00-07:00",
+  "end_time": "2013-09-11T20:00:00-07:00"
+}

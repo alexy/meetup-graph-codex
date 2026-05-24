@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-richard-wall-amazon-echo-applications-called-skills-event",
+  "source_id": "bythebay-20260508-scala-bay-richard-wall-amazon-echo-applications-called-skills-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-richard-wall-amazon-echo-applications-called-skills-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-richard-wall-amazon-echo-applications-called-skills-event.json",
+  "kind": "event",
+  "event_id": "225169599",
+  "event_title": "Richard Wall, Amazon Echo applications (called skills)",
+  "title": "Richard Wall, Amazon Echo applications (called skills)",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/225169599/",
+  "description": "Title: Richard Wall, Amazon Echo applications Description: The Amazon Echo is a new kind of human-interface device that communicates primarily by speech and not screens or text. When Dick got his, he set about learning how to program it using Scala, and Amazon's Lambda service, which runs events on demand using Amazon infrastructure. It turns out that Lambda suits Scala nicely for this kind of development, and is useful for many things including Amazon Echo skills (for example, serving websites). SBT plugins and all your favorite libraries make it even easier. Come along and get bitten by the AWS Lambda in Scala bug. As a bonus, all coding will be done in Ensime for Sublime (yes, Ensime lives, and we are hard at work on it). Speaker. Richard Wall is a founder of Scala Bay. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:50 - talks • 8:50-9:00 - networking Important: Please arrive before 7 pm or earlier. After 7 pm, you will need to call to be let in and your entrance may be delayed.",
+  "date_time": "2015-11-11T19:00:00-08:00",
+  "end_time": "2015-11-11T22:00:00-08:00"
+}

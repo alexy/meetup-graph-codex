@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2015-05-26T18:30:00-07:00",
+    "description": "David Yu is the creator of http://protostuff.io , the native Java implementation of Google Protocol Buffers, used in serializing all kinds of data, including the big ones. He's visiting us from the Philippines.\n\nNadav Samet is the CTO of TrueAccord.com and wrote a fantastic Scala-friendly API for protobufs, called ScalaPB.\n\nProtostuff -- serialization with a focus on efficiency and flexibility\n\nThis talk focuses on why protostuff was started and the other features that could be useful for data processing.\n\nDavid Yu is a developer who likes writing productivity/dev tools and prefers a very lean stack. Enjoys playing the bass guitar and classical guitar when not coding.\n\nScalaPB: Working with Protocol Buffers in Scala\n\nIn this talk, I will give a brief overview of Protocol Buffers, and when it makes sense to use them versus other data serialization formats such as JSON. We will then dive into ScalaPB, explore its API and see how the use of lensing enables a very elegant syntax of updating deeply nested immutable data structures. I will show some unique features of ScalaPB such as custom type mappers. Finally, as protocol buffers can represent arbitrarily complex data structures, I will show how ScalaCheck is used to generate increasingly large protocol buffer structures (and fill them in with random data) to validate the correctness of the library by way of property checking. If there's time left, I will also give a sneak peek of the upcoming release that supports the new proto3 syntax.\n\nNadav Samet is the CTO and co-founder of TrueAccord (https://www.trueaccord.com/). Before starting TrueAccord, Nadav was a senior software engineer at Google where he worked on several high-profile projects such as GMail, Google Apps, Google Flights and Google Hotel Finder. At TrueAccord, Nadav is leading the engineering team that brings debt recovery into the 21st century by using a combination of machine learning and behavioral analytics -- and all of that through functional programming in Scala. Nadav Samet is the author of ScalaPB (http://trueaccord.github.io/ScalaPB/) - a protocol buffer compiler code generator and functional API for Scala.",
+    "endTime": "2015-05-26T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/222631904/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "222631904",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Protostuff in Java and Scala"
+  },
+  "event_id": "222631904",
+  "event_title": "Protostuff in Java and Scala",
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "session": {
+    "description": "David Yu is the creator of http://protostuff.io , the native Java implementation of Google Protocol Buffers, used in serializing all kinds of data, including the big ones. He's visiting us from the Philippines. Nadav Samet is the CTO of TrueAccord.com and wrote a fantastic Scala-friendly API for protobufs, called ScalaPB. Protostuff -- serialization with a focus on efficiency and flexibility This talk focuses on why protostuff was started and the other features that could be useful for data processing. David Yu is a developer who likes writing productivity/dev tools and prefers a very lean stack. Enjoys playing the bass guitar and classical guitar when not coding. ScalaPB: Working with Protocol Buffers in Scala In this talk, I will give a brief overview of Protocol Buffers, and when it makes sense to use them versus other data serialization formats such as JSON. We will then dive into ScalaPB, explore its API and see how the use of lensing enables a very elegant syntax of updating deeply nested immutable data structures. I will show some unique features of ScalaPB such as custom type mappers. Finally, as protocol buffers can represent arbitrarily complex data structures, I will show how ScalaCheck is used to generate increasingly large protocol buffer structures (and fill them in with random data) to validate the correctness of the library by way of property checking. If there's time left, I will also give a sneak peek of the upcoming release that supports the new proto3 syntax. Nadav Samet is the CTO and co-founder of TrueAccord (https://www.trueaccord.com/). Before starting TrueAccord, Nadav was a senior software engineer at Google where he worked on several high-profile projects such as GMail, Google Apps, Google Flights and Google Hotel Finder. At TrueAccord, Nadav is leading the engineering team that brings debt recovery into the 21st century by using a combination of machine learning and behavioral analytics -- and all of that through functional programming in Scala. Nadav Samet is the author of ScalaPB (http://trueaccord.github.io/ScalaPB/) - a protocol buffer compiler code generator and functional API for Scala.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-protostuff-in-java-and-scala-david-yu-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-sf-scala-protostuff-in-java-and-scala-david-yu-2.json",
+    "source_id": "bythebay-20260508-sf-scala-protostuff-in-java-and-scala-david-yu-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "David Yu"
+      },
+      {
+        "company": null,
+        "name": "Nadav Samet"
+      }
+    ],
+    "title": "Protostuff in Java and Scala"
+  },
+  "source_id": "bythebay-20260508-sf-scala-protostuff-in-java-and-scala-david-yu-2",
+  "source_url": "https://www.meetup.com/sf-scala/events/222631904/"
+}

@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2023-03-09T15:30:00-05:00",
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.**\nThe recent proliferation of Data Privacy Compliance requirements from the EU, US, and China has made Data Privacy a top concern for organizations as they look to not only comply with regulations but to also manage the reputational and cybersecurity related risks. One trend has stood out through all of this--there is no way to disentangle data security and data privacy.\n\nThe same risks that are being addressed in regulations like GDPR are also related to the core components of Data Security, namely knowing where your sensitive data is, controlling who has access to it, and ensuring that there are tightly monitored controls and reporting around every step. As CISOs and CDOs begin working together more on winning the joint challenge of achieving robust Enterprise Data Privacy and Data Security, organizations more than ever now need to have integrated solutions between their Security, Governance, and Privacy products.\n\nIn this presentation, we will discuss how integrating a data management and a data protection solution provides unified access control across multiple data sources in a hybrid cloud environment. We will demonstrate how this integration is implemented using IBM Data and AI’s Watson Knowledge Catalog and IBM Security’s Guardium Data Protection tools.\n\n**Presenter: Corey Keyser**\n\nCorey is a Product Manager for Watson Knowledge Catalog at IBM where he focuses on Data Protection, Privacy, and Policy. Prior to working at IBM, he was a Data Scientist for an EdTech startup, a research assistant in Computational Neuroscience, and, most recently, a statistics teacher through Teach for America. He graduated from the Ohio State University where he studied Philosophy and Neuroscience.\n\n\\*\\*\\*\n**Please join us at the session that is best suited to your time zone. Note that this topic is:**\n**1\\. Repeated at two different times to accommodate various time zones\\, because it is**\n**2\\. Posted simultaneously in multiple meetup groups world\\-wide**\n\\*\\*\\*\nIt is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r5a044548855207a0671c4f4ad6f67dd5](https://ibm.webex.com/weblink/register/r5a044548855207a0671c4f4ad6f67dd5)**",
+    "endTime": "2023-03-09T16:30:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/290319007/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "290319007",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Solving Data Security, Data Management, and Data Privacy Together"
+  },
+  "event_id": "290319007",
+  "event_title": "Solving Data Security, Data Management, and Data Privacy Together",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "**Topic repeated at 2 different times, please join the session that is best suited for your time zone.** The recent proliferation of Data Privacy Compliance requirements from the EU, US, and China has made Data Privacy a top concern for organizations as they look to not only comply with regulations but to also manage the reputational and cybersecurity related risks. One trend has stood out through all of this--there is no way to disentangle data security and data privacy. The same risks that are being addressed in regulations like GDPR are also related to the core components of Data Security, namely knowing where your sensitive data is, controlling who has access to it, and ensuring that there are tightly monitored controls and reporting around every step. As CISOs and CDOs begin working together more on winning the joint challenge of achieving robust Enterprise Data Privacy and Data Security, organizations more than ever now need to have integrated solutions between their Security, Governance, and Privacy products. In this presentation, we will discuss how integrating a data management and a data protection solution provides unified access control across multiple data sources in a hybrid cloud environment. We will demonstrate how this integration is implemented using IBM Data and AI’s Watson Knowledge Catalog and IBM Security’s Guardium Data Protection tools. **Presenter: Corey Keyser** Corey is a Product Manager for Watson Knowledge Catalog at IBM where he focuses on Data Protection, Privacy, and Policy. Prior to working at IBM, he was a Data Scientist for an EdTech startup, a research assistant in Computational Neuroscience, and, most recently, a statistics teacher through Teach for America. He graduated from the Ohio State University where he studied Philosophy and Neuroscience. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/r5a044548855207a0671c4f4ad6f67dd5](https://ibm.webex.com/weblink/register/r5a044548855207a0671c4f4ad6f67dd5)**",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-solving-data-security-data-management-and-data-privacy-together-corey-keyser-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-solving-data-security-data-management-and-data-privacy-together-corey-keyser-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-solving-data-security-data-management-and-data-privacy-together-corey-keyser-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Corey Keyser"
+      },
+      {
+        "company": null,
+        "name": "Corey Keyser Corey"
+      }
+    ],
+    "title": "Solving Data Security, Data Management, and Data Privacy Together"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-solving-data-security-data-management-and-data-privacy-together-corey-keyser-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/290319007/"
+}

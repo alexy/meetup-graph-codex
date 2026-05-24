@@ -1,0 +1,34 @@
+{
+  "event": {
+    "dateTime": "2015-01-21T18:00:00-08:00",
+    "description": "The January SF Hadoop User Group meetup will be held Wednesday, January 21 from 6:00pm to 8:00pm. This meetup will be hosted by BlueData and held at Pivotal Labs, 875 Howard Street, San Francisco. Food and drinks will be served.\n\nPresentation: Hadoop Use Cases vs. Run Time Environments\n\nTom Phelan, Chief Architect and co-founder, BlueData\n\nThis presentation will investigate the advantages and disadvantages of running a Hadoop cluster in each of the following environments:\n\n• bare metal\n\n• public cloud (i.e. Amazon EMR, Azure, GCE, Rackspace etc)\n\n• private cloud (i.e. on-premises cloud)\n\n• in cloud environments\n\n• cloud using a traditional virtual machine environment\n\n• cloud using a containerized virtual environment\n\nThe presentation will include a discussion of real-world Hadoop uses cases and how each would, or would not, be suitable for running in each environment.\n\nThere will be two breakout sessions following the presentation:\n\n1) Hadoop and compute virtualization\n\nHow do the unique compute requirements of a Hadoop cluster match up against the strengths and weaknesses of such virtualization environments as traditional VMs (KVM, VMW, etc) and containers (docker, etc)?\n\n2) HDFS and storage virtualization\n\nWhat are the benefits and drawbacks of \"virtualizing\" HDFS? How can technologies such as Tachyon, MemHDFS, and distributed file systems such as GlusterFS and CEPH aid this storage virtualization?",
+    "endTime": "2015-01-21T21:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/219049168/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "219049168",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "January SF Hadoop Users Meetup"
+  },
+  "event_id": "219049168",
+  "event_title": "January SF Hadoop Users Meetup",
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "session": {
+    "description": "Tom Phelan, Chief Architect and co-founder, BlueData This presentation will investigate the advantages and disadvantages of running a Hadoop cluster in each of the following environments: • bare metal • public cloud (i.e. Amazon EMR, Azure, GCE, Rackspace etc) • private cloud (i.e. on-premises cloud) • in cloud environments • cloud using a traditional virtual machine environment • cloud using a containerized virtual environment",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-hadoop-use-cases-vs-run-time-environments-event.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-hadoop-use-cases-vs-run-time-environments-event.json",
+    "source_id": "bythebay-20260508-san-francisco-hadoop-users-hadoop-use-cases-vs-run-time-environments-event",
+    "speakers": [],
+    "title": "Hadoop Use Cases vs. Run Time Environments"
+  },
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-hadoop-use-cases-vs-run-time-environments-event",
+  "source_url": "https://www.meetup.com/hadoopsf/events/219049168/"
+}

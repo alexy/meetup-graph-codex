@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-08-27T17:00:00-07:00",
+    "description": "Join and rsvp on our new Luma group and reconnect live!\n\nhttps://lu.ma/wrrc12tx\n\nFull details see above luma link and rsvp.",
+    "endTime": "2024-08-27T20:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/302988223/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "302988223",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scala and Sips"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-scala-and-sips-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/302988223/"
+}

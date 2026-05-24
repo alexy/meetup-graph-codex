@@ -1,0 +1,15 @@
+{
+  "title": "Federated Agent Architecture: Leveraging Client Context & Cloud Inference",
+  "speaker_text": "Arjun Chintapalli, Bhavani Kalisetty, Founder, CTO @ rtrvr.ai",
+  "tags": [
+    "Agentic AI",
+    "AI Infrastructure",
+    "Context engineering",
+    "LLMOps",
+    "MCP"
+  ],
+  "url": "https://ai.bythebay.io/talks/federated-agent-architecture-leveraging-client-context-cloud-inference",
+  "source_id": "bythebay-20260508-federated-agent-architecture-leveraging-client-context-cloud-inference-arjun-chintapalli-rtrvr-ai",
+  "source_file": "data/raw/sources/bythebay-20260508-federated-agent-architecture-leveraging-client-context-cloud-inference-arjun-chintapalli-rtrvr-ai.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-federated-agent-architecture-leveraging-client-context-cloud-inference-arjun-chintapalli-rtrvr-ai.json"
+}

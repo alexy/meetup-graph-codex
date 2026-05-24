@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-12-09T19:00:00-08:00",
+    "description": "ScalaTest 2.0 is a vast enough forest that it is hard to see all the useful trees. In this talk, Bill Venners will guide you through ScalaTest 2.0 by pointing out lesser-known features of the testing toolkit that can help you get stuff done. You'll gain insight into what ScalaTest offers, why ScalaTest is designed the way it is, and how you can get more out of it.\n\nThis talk is a continuation (Part II) of the\n\n\"Hidden Gems in ScalaTest 2.0\" keynote (http://skillsmatter.com/podcast/scala/bill-venners)\n\nBill gave at the ScalaExchange conference in London last week. He will show different \"gems\" in Los Altos than he showed in London.\n\nBill Venners is president of Artima, Inc. (http://www.artima.com/), publisher of Scala books, and co-founder of Escalate Software, LLC, provider of Scala training and consulting. He is the lead developer and designer of ScalaTest, an open source testing tool for Scala and Java developers, and coauthor with Martin Odersky and Lex Spoon of the book, Programming in Scala (http://www.amazon.com/Programming-Scala-Comprehensive-Step-Step/dp/0981531644).\n\nLocation: Box (see above)\n\nBox offers street parking on Del Medio and visitors should remain in the Lunch Room/lobby.\n\nSchedule:\n\n• 6:30-7:00 - networking\n\n• 7:00-7:10 - announcements etc\n\n• 7:10-~8:40 - talk\n\n• 8:40-9:00 - networking",
+    "endTime": "2013-12-09T22:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/147976552/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "147976552",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Bill Venners, \"Hidden Gems in ScalaTest 2.0, part II\""
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-bill-venners-hidden-gems-in-scalatest-2-0-part-ii-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/147976552/"
+}

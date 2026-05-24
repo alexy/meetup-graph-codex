@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2012-04-04T18:30:00-07:00",
+    "description": "This is an open invitation to anyone who would like to get together informally with Martin Odersky. We will follow our usual format:\n\n6:30 - networking, food, refreshments\n7:00 - announcements\n7:15 - presentation\n8:30 - Q&A, more networking afterward\n\n2 free copies of JRebel will be given away.\n\nThe event will be held at the Intel Robert Noyce Building (RNB) Rooms 121-123. Please sign in at front desk and collect your name tag.\n\nThe nearest Caltrain is Lawrence station which is 10-minute drive away.\n\nWiFi Guest name: Martin Ordesky Password: YTPAEUSQ",
+    "endTime": "2012-04-04T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/58565322/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "58565322",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Informal get-together with Martin Odersky"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-informal-get-together-with-martin-odersky-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/58565322/"
+}

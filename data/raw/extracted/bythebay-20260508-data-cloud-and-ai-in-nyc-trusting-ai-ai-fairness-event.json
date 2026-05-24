@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-trusting-ai-ai-fairness-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-trusting-ai-ai-fairness-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-trusting-ai-ai-fairness-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-trusting-ai-ai-fairness-event.json",
+  "kind": "event",
+  "event_id": "255613362",
+  "event_title": "Trusting AI : AI Fairness",
+  "title": "Trusting AI : AI Fairness",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/255613362/",
+  "description": "Join us & Samuel Hoffman ( https://www.linkedin.com/in/shoffman5/ ) at this meetup to learn about Trusting AI & AI Fairness ( https://www.ibm.com/blogs/research/2018/09/ai-fairness-360/ ) You will also find out how you can contribute to the project The agenda is emerging - 6:15 Networking - 6:30pm Intro to Trusting AI & Fairness in AI - 20 mins - 6:50pm Intro to the AI fairness 360 Project & Tutorials - 20 minutes - 7:10pm Intro to the code https://github.com/IBM/AIF360 - and an outline of areas you can contribute to - 10 minutes",
+  "date_time": "2018-11-07T18:15:00-05:00",
+  "end_time": "2018-11-07T20:15:00-05:00"
+}

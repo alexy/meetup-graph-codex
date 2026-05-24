@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-2",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-2",
+  "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-2.json",
+  "kind": "talk",
+  "event_id": "300812829",
+  "event_title": "Unstructured Data in LLMs - South Bay Edition",
+  "title": "Unstructured Data in LLMs - South Bay Edition",
+  "conference_id": "meetup:36468260",
+  "meetup_id": "meetup:36468260",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/unstructured-data-sf/events/300812829/",
+  "description": "This is an in-person event! [Registration](https://lu.ma/etzdu39a) is required in order to get in. **Topic:** Connecting your unstructured data with Generative AI **What we’ll do:** Have some food and refreshments. Hear three exciting talks about unstructured data and generative AI. 5:30 - 6:30 - Welcome/Networking/Registration 6:35 - 7:00 - [Jiang Chen](https://www.linkedin.com/in/jiang-0616/), Head of Ecosystem & AI Platform, [Zilliz](http://zilliz.com/) 7:05 - 7:30 - [Chris Rec](https://www.linkedin.com/in/chrisrec/), Co-Founder, [Whyhow.ai](http://Whyhow.ai) 7:35 - 8:00 - [Lucy Park](https://www.linkedin.com/in/echojuliett/), Co-founder & CSO, [Upstage](https://www.upstage.ai/) 8:00 - 8:30 - Networking **Who Should attend:** Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. **When:** May 22, 2024 5:30PM **Tech Talk 1:** Advanced RAG Techniques **Speaker**: Jiang Chen, Zilliz **Abstract**: While achieving a basic Retrieval Augmented Generation (RAG) is relatively straightforward, attaining superior results requires tuning and optimizing various factors, such as a careful selection of embedding models. Additionally, applying advanced techniques, such as multi-stage retrieval with rerankers, is essential. A methodology for quality evaluation is also critical to success in crafting the best strategy for your specific use case. This talk will introduce the landscape of available optimization techniques and provide advice on best practices. **Tech Talk 2:** Knowledge Graphs in RAG with WhyHow AI **Speaker**: Chris Rec, Co-Founder **Abstract**: WhyHow helps developers build more accurate, deterministic RAG applications using the power of knowledge graphs. Our platform simplifies and streamlines graph creation, management, and integration. In this talk we'll discuss our approach to knowledge graph creation, explore common patterns in graph RAG, and share demos of the WhyHow platform, currently in beta. **Tech Talk 3**: Full-stack LLM for Enterprise Use Cases **Speaker**: Lucy Park, Upstage **Abstract:** In this talk, we will walk through how to leverage Upstage's full-stack LLM components to create RAG-based applications for enterprise customers **Where:** This is an in-person event at SAP Palo Alto. Registration is required to get into the event. Registration in advance will close 2 days before the event. This event is co-sponsored by [Zilliz](http://zilliz.com/) (maintainers of [Milvus](https://github.com/milvus-io/milvus)) and SAP.",
+  "date_time": "2024-05-22T17:30:00-07:00",
+  "end_time": "2024-05-22T20:30:00-07:00"
+}

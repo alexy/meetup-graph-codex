@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-how-can-agents-be-trusted-andor-kesselman",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-how-can-agents-be-trusted-andor-kesselman",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-can-agents-be-trusted-andor-kesselman.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-how-can-agents-be-trusted-andor-kesselman.json",
+  "kind": "talk",
+  "event_id": "310379070",
+  "event_title": "[AI Alliance] How can Agents be Trusted?",
+  "title": "How can Agents be Trusted?",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Andor Kesselman",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/310379070/",
+  "description": "**The Landscape of AI Agents and Identity** As AI agents grow more autonomous and pervasive—powering workflows, interfacing with users, and making decisions—the question of trust becomes unavoidable. Who are these agents acting on behalf of? What gives them the authority to act? How can we verify their provenance, their integrity, or even revoke that authority when needed? This presentation explores the evolving landscape of AI Agents and Identity, highlighting the foundational challenges in building trusted agents. We’ll examine: * Why traditional identity systems fall short in agent-based architectures * The importance of verifiable identity, delegation, and auditability * How to ensure agents are acting within their intended boundaries * Emerging standards and design patterns that aim to make AI agent ecosystems secure, interoperable, and trustworthy * Whether you're building agentic infrastructure or considering how identity fits into your AI strategy, this is a critical moment to shape the rules of trust. **About the speaker** Andor Kesselman is an engineer, builder, CTO, and open source advocate. He is currently the founder of a stealth startup building trust infrastructure for enterprise AI. **About the AI Alliance** The [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players. **Join the community** Sign up for the [AI Alliance newsletter](https://thealliance.ai/community) (check the website footer) and join our new [AI Alliance Discord](https://discord.gg/YtsWdke6E9).",
+  "date_time": "2025-08-08T04:00:00-04:00",
+  "end_time": "2025-08-08T05:00:00-04:00"
+}

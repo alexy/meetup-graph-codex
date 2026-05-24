@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-text-extensions-for-pandas-event",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-text-extensions-for-pandas-event",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-text-extensions-for-pandas-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-text-extensions-for-pandas-event.json",
+  "kind": "event",
+  "event_id": "283876551",
+  "event_title": "IBM Data Science Community: Text Extensions for Pandas",
+  "title": "IBM Data Science Community: Text Extensions for Pandas",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/283876551/",
+  "description": "💬 Text Extensions for Pandas Most areas of Python data science have standardized Pandas DataFrames for representing and manipulating structured data in memory. Natural Language Processing, though, not so much. In this presentation, we’ll explain why you should be using Pandas for NLP. Pandas DataFrames make every phase of NLP easier, from creating new models to evaluating their effectiveness to building applications that integrate those models. We’ll talk about our open source library, Text Extensions for Pandas, which adds special data types and library integrations specifically geared to NLP use cases. We’ll also explain how these extensions connect to some basic NLP concepts, and then we’ll finish with an example of using Pandas to build an NLP application. Learn more: https://ibm.biz/text-extensions-for-pandas 👨🏻‍💻 Speaker bio Fred Reiss is a Principal Research Staff Member at IBM Research and Chief Architect at IBM’s Center for Open-Source Data and AI Technologies (CODAIT). He is also one of the authors of the Text Extensions for Pandas library. Fred received his Ph.D. from U.C. Berkeley in 2006 and immediately IBM Research, joining the CODAIT center in 2015. Fred has written multiple peer-reviewed papers in the areas of natural language processing, database systems, and machine learning. 🦄 Join your local IBM Community meetup team Want to get involved in your local IBM Community meetup? Join our Slack: https://join.slack.com/t/icmeetupsorg/shared_invite/zt-1322kiwv5-JmnpSK3flrqomQvnmMCSog 💻 Dial-in instructions Join link: https://ibm.webex.com/ibm/j.php?MTID=m87182a99ae3c023677aaec4cabf60912 Webinar number: 145 534 7300 Webinar password: GWyKsfBN239 (49957326 from phones) Join by video system Dial 1455347300@ibm.webex.com You can also dial 173.243.2.68 and enter your webinar number. Join by phone 1-844-531-0958 United States Toll Free 1-669-234-1178 United States Toll Access code: 145 534 7300",
+  "date_time": "2022-02-24T14:00:00-05:00",
+  "end_time": "2022-02-24T15:00:00-05:00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-henrik-vosegaard-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-henrik-vosegaard-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-henrik-vosegaard-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-henrik-vosegaard-2.json",
+  "kind": "talk",
+  "event_id": "297911086",
+  "event_title": "Quantum Series Part 1: Introduction to Quantum Computing",
+  "title": "Quantum Series Part 1: Introduction to Quantum Computing",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Henrik Vosegaard, Henrik Vosegaard Henrik Vosegaard",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/297911086/",
+  "description": "**Please join the session that is best suited to your time zone...this topic is repeated at 2 different times.** We will provide an introduction and overview of quantum computing and IBM Quantum. This will include a discussion on the motivation for quantum computing and how quantum computers work. Next, we will examine the types of problems to which quantum computing might be applied. The development roadmap will be presented. The IBM Quantum platform, which provides the tooling and interfaces for programming IBM quantum computers, will be introduced. Finally, we will highlight the IBM Quantum ecosystem which includes the IBM Quantum Network and the Qiskit community. After this session you should be empowered with the knowledge and resources you need to begin your quantum computing journey. Note that this is part 1 of an 11-session Quantum Series running from January to June. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions. **Presenter:** **Henrik Vosegaard** **Henrik Vosegaard** is an IT Solution Architect in IBM Consulting and an IBM Quantum Ambassador. He works mainly on public IT infrastructure engagements, often with a focus on security aspects. Henrik holds a Ph.D. in Mathematics and a B.Sc. in Computer Science from Aarhus University and is an experienced teacher and presenter. \\*\\*\\* **Please join us at the session that is best suited to your time zone. Note that this topic is:** **1\\. Repeated at two different times to accommodate various time zones\\, because it is** **2\\. Posted simultaneously in multiple meetup groups world\\-wide** \\*\\*\\* It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. **[https://ibm.webex.com/weblink/register/ra9c1d3e2a64293fd14612ed3b36ce69b](https://ibm.webex.com/weblink/register/ra9c1d3e2a64293fd14612ed3b36ce69b)**",
+  "date_time": "2024-01-31T08:00:00-05:00",
+  "end_time": "2024-01-31T09:00:00-05:00"
+}

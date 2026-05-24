@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-01-31T18:30:00-08:00",
+    "description": "Note: AI By the Bay (http://ai.bythebay.io) added talks on Deep Learning with GPUs, Memory and Attention in Deep Learning Networks, and more. Use the code BAYAREAAI to register soon!\n\nWe need a host for this meetup. 50+ people, pizza+beer, and no NDAs is best!\n\n***\n\nNote: if your RSVP is Yes at midnight on the day of the event, we expect you to honor it. If you keep RSVPing Yes and not showing up, we'll reserve the right to disqualify you from the subsequent events.\n\n(1) What would your first approach when trying to tackle a real world NLP problem? Deep Learning?\n\nWould you consider other approaches proven by more than 10 years of applications in multiple domains, before the deep leaning got into fashion? At Lymba, we are developing a knowledge extraction tool that automatically creates concise profiles for various entities. Such template-based summarization can satisfy different knowledge needs in multiple domains. For example, professional profiles for people include education and employment history, key projects, awards, publications, key colleagues, research interests, etc. The same approach can extract profiles for organizations, patients, business transactions, publications and grant proposals.\n\nThis talk will give the audience an overview of Lymba’s knowledge extraction and representation approach. Semantic parsing and triple-based representation provide a bridge between semantic technologies and NLP, leveraging inference techniques and existing ontologies. We will show how Lymba’s Semantic Calculus framework allows easy customization of the solution to different domains.\n\nIn addition, the talk will cover must-know open source tools and resources that should be considered before or along with deep learning tools.\n\nTatiana Erekhinskaya is a Research Scientist and Product Manager at Lymba Corporation. She received a PhD degree in Computer Science from the University of Texas at Dallas with a dissertation on probabilistic models for text understanding. Tatiana has been working in Natural Language Processing for more than 10 years. In her career, she acted as a technical leader on a broad range of projects that included misspelling-robust syntactic parsing for Russian, the first syntax-based opinion mining for Russian, and more recently semantics-driven projects for English in medical domain, national security and enterprise applications. One of her latest projects is knowledge extraction from Chinese texts. Her primary research areas are deep semantic processing and big data with a special emphasis on the medical domain.\n\n(2) How the Brain Learns\n\nMilton Huang will talk about his practice of psychiatry:\n\nI will give an overview of what we know about brain function and how it gathers, reacts to and learns new information. I will attempt to connect this to aspects of human learning and behavior, and explore some of the techniques we have for affecting the learning process.",
+    "endTime": "2017-01-31T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/237140331/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "237140331",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Old-fashioned NLP: to be or not to be?"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-old-fashioned-nlp-to-be-or-not-to-be-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/237140331/"
+}

@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-06-16T19:00:00-07:00",
+    "description": "We need sponsors for pizza/beer and video recording. Food/drink sponsors get to pitch the meetup and video sponsors will have their logo in the opening credits. If you can help, please contact the organizers.\n\nIn our inaugural meetup, we'll show how every company can start running Apache Spark in production, and will introduce one of the projects of interest in the streaming space -- Apache Flink.\n\n(1) Operationalizing Spark with Spark Job Server\n\nSo you want to run Spark in production. You played with the EC2, looks cool. But the scripts are quite simple, what if a node goes away? Now what?\n\nEvan Chan, the creator of Spark Job Server (https://github.com/spark-jobserver/spark-jobserver), will rely on his years of experience implementing Spark flows to show how Spark data pipelines are built.\n\nTopics will include:\n\n-- Running standalone vs Mesos (and Mesos fine grained vs regular)\n-- Use of Job Server to expose Spark as a service\n-- Running Spark on metal vs EC2 (tho at Ooyala we only ran it on metal)\n-- Use a Spark distro? (We didn't)\n-- Collocation of Spark and other things like Cassandra (now there's also Datastax DSE)\n-- Thoughts about Docker and where it fits in\n\nEvan loves to design, build, and improve bleeding edge distributed data and backend systems using the latest in open source technologies. He has led the design and implementation of multiple big data platforms based on Storm, Spark, Kafka, Cassandra, and Scala/Akka, including a columnar real-time distributed query engine. He is an active contributor to the Apache Spark project, a Datastax Cassandra MVP, and co-creator and maintainer of the open-source Spark Job Server. He is a big believer in GitHub, open source, and meetups, and have given talks at various conferences including Spark Summit, Cassandra Summit, and Scala Days. He has Bachelor's and Master's degrees in Electrical Engineering from Stanford University.\n\n(2) Introducing Apache Flink\n\nApache Flink (flink.apache.org (http://flink.apache.org/)) is an open-source framework for batch- and streaming data analysis on top of a streaming dataflows, with high-level APIs and libraries for diverse use cases. Flink joined the Apache Incubator in 2014, and graduated as a top level project in December 2014. Since entering the Apache family, Flink has grown a lot both in terms of features and community.\n\nAt the heart of Apache Flink is a flexible dataflow engine that supports diverse features and workloads without compromising on performance or usability: The engine executes data streaming programs directly as streams (with low latency and flexible user-defined state), and models batch programs as streaming programs on finite data streams. Iterative programs are supported though feedback in the dataflow, graph analysis via \"delta-iterations\". Through elaborate memory management inside the JVM, Flink scales beyond main memory resident data sets.\n\nOn top of the dataflow engine, the Flink community has added fluent programming APIs for batch-, and stream processing, as well as a set of libraries, such as the Table API (relational queries), FlinkML (Machine Learning library), and Gelly (API and library for graph analysis).\n\nThis talk will present the architecture of Flink and discusses the design choices and tradeoffs that come with building a versatile analysis engine on top of a data streaming abstraction. We show examples and use cases, and give an outlook of the current developments in the Flink project.\n\nStephan Ewen is Flink committer and co-founder and CTO of data Artisans. Before founding data Artisans, Stephan was leading the development of Flink since the early days of the project (then called Stratosphere). Stephan has a PhD in Computer Science from TU Berlin and has worked with IBM and Microsoft.",
+    "endTime": "2015-06-16T22:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-data-and-ai-engineering/events/222631734/",
+    "group": {
+      "id": "18601481",
+      "name": "SF Data and AI Engineering",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "222631734",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Spark and Flink Data Pipelines in Practice"
+  },
+  "meetup_id": "meetup:18601481",
+  "meetup_name": "SF Data and AI Engineering",
+  "meetup_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/?type=past",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-spark-and-flink-data-pipelines-in-practice-event",
+  "source_url": "https://www.meetup.com/sf-data-and-ai-engineering/events/222631734/"
+}

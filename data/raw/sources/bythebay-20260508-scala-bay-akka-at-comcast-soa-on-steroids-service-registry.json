@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2015-09-17T18:30:00-07:00",
+    "description": "Brendan O'Bra, \"Continuous Delivery @ Comcast\"\n\nAbstract\n\nA brief history of how software development and delivery has evolved here @Comcast, and how tooling (written in Scala, of course) has helped to realize some of the success.\n\nBio\n\n20 something years as a dev, but only lucky enough to spend the last 2 doing it in Scala. So far, I'm one of the \"winners\" in Comcast's \"Continuous Delivery War of Attrition\" ;). Immutable servers FTW!\n\nDavid Bolene, \"SOA on Steroids\"\n\nAbstract\n\nDavid presents and demonstrates application of the Akka actor platform to produce self-healing, reactive, microservice modular systems that are low latency and deliver high throughput. He shows how with Akka, the SOA system patterns of old can be realized in a way that delivers on the hype from that bygone era. David highlights the Actor Service Registry for Akka - a soon to be open-sourced Akka component developed at Comcast. The Actor Service Registry for Akka is a cluster singleton that is used to discover and resolve references to microservice actors across an Akka cluster. It serves as a dependency injection mechanism that asynchronously and dynamically wires together dependencies between service consumer and service implementer actors.\n\nBio\n\nMr. Bolene is a career consultant, mentor, software services designer, and systems architect. He is an expert in business process driven systems, cloud and enterprise service architectures, event and actor driven systems, and semantic business modeling. David is CTO and founder of LetsDoX Technologies LLC - a startup that offers a cloud-based orchestration platform and mobile apps for services and healthcare industries to efficiently communicate with their customers and partners through mobile devices. David has deep domain experience in manufacturing, financial services, telecom, and healthcare. David was Chief Architect of the Services Delivery Platform at British Telecom in London, England. Earlier he was CTO and founder of BusinessThreads Inc., a BPMS company and before which he served Chief Product Architect at MBA Technologies where he pioneered the use of object-oriented, model-driven applications in large scale enterprises including: MCI, GTE, Owen-Corning, US Steel, and American Express. Mr. Bolene earned a B.A. in Business Administration from the University of Texas at Austin and has advanced studies in Electrical Engineering, Computer Science, Math, Logic and Physics. He lives in Austin Texas.\n\nVikas Rangarajan, \"The future of continuous delivery at Comcast - Microservices and Containers\"\n\nAbstract\n\nBrief talk how it is a natural fit for micro services and thus necessary for continuous delivery for Comcast's software development teams.\n\nBio\n\nVikas holds a Masters in Aerospace Engineering from the University of Texas and an MBA from San Francisco State University, but his heart surely lies in the craftmanship and delivery of software. He has been practicing the art of software engineering for 2 decades - most often speaking C, C++ and Java and using OO paradigms, but more recently transitioning to Scala and functional paradigms and loving it. He is passionate about continuous deployment and delivery and is part of the team developing tools and infrastructure to facilitate just that for software development teams at Comcast.\n\nSchedule\n\n• 6:30-7:00 - networking\n• 7:00-7:05 - announcements etc\n\n• 7:05-7:10 - Intro - Val Apgar\n\n• 7:15-7:25 - Brendan\n\n• 7:25-8:05 - David\n\n• 8:10-8:20 - Vikas\n\n• 8:20-9:00 - networking\n\nParking\n\nMost parking is on the East side of the building; feel free to use the parking structure.Use main building entrance is on the West side, side facing away from the parking structure.",
+    "endTime": "2015-09-17T21:00:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/225107412/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "225107412",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Akka at Comcast: SOA on Steroids"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-akka-at-comcast-soa-on-steroids-service-registry",
+  "source_url": "https://www.meetup.com/scala-bay/events/225107412/"
+}

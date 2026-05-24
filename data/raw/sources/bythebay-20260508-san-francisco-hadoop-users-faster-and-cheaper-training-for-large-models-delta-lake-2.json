@@ -1,0 +1,43 @@
+{
+  "event": {
+    "dateTime": "2021-10-19T17:00:00-07:00",
+    "description": "ML engineering is a key focus of Scale By the Bay 2021, October 28-29: Register at https://scale.bythebay.io to attend online.\n\n-----\n\nState-of-the-art DNN model sizes in many domains are growing faster than hardware throughput, making cutting-edge ML less accessible. In this talk, I’ll present two broad lines of research from my group at Stanford to make large-scale ML accessible. First, we can try to train existing DNN models more cheaply through new algorithmic schemes such as pipeline and hybrid parallelism, as we demonstrated in the PipeDream and FlexFlow projects. These approaches are now used in some of the most optimized large-scale training codebases, such as NVIDIA’s Megatron-LM, which is able to train 1 trillion parameter models on 3000 GPUs at 52% of peak hardware efficiency. The second approach is to change large ML models themselves to be more hardware friendly. In this space, I’ll present our work on retrieval-based NLP models, such as ColBERT, ColBERT-QA and Baleen, that use a small DNN to *search* through a corpus of documents for relevant knowledge when they do inference (e.g., the right wikipedia pages to answer a science question) as opposed to memorizing all their knowledge in trillions of parameters. Our retrieval-based models have set new SotA results in multiple hard NLP problems while running as much as 1000x faster than large language models such as GPT3, and providing other advantages as well, such as easier interpretation and support for instantaneous updates of the model’s knowledge without retraining (just by replacing some of its indexed documents). Our work on both lines of research is open source.\n\nSpeaker: Matei Zaharia is an Assistant Professor of Computer Science at Stanford University and Chief Technologist at Databricks. He started the Apache Spark project during his PhD at UC Berkeley, and has worked on other widely used open source data analytics and AI software including MLflow and Delta Lake. At Stanford, he is a co-PI of the DAWN lab focusing on infrastructure for machine learning. Matei’s research work was recognized through the 2014 ACM Doctoral Dissertation Award, an NSF CAREER Award, and the US Presidential Early Career Award for Scientists and Engineers (PECASE), the highest honor bestowed by the US government to early-career scientists and engineers.",
+    "endTime": "2021-10-19T18:30:00-07:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/281511777/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "281511777",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Faster and Cheaper Training for Large Models"
+  },
+  "event_id": "281511777",
+  "event_title": "Faster and Cheaper Training for Large Models",
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "session": {
+    "description": "ML engineering is a key focus of Scale By the Bay 2021, October 28-29: Register at https://scale.bythebay.io to attend online. ----- State-of-the-art DNN model sizes in many domains are growing faster than hardware throughput, making cutting-edge ML less accessible. In this talk, I’ll present two broad lines of research from my group at Stanford to make large-scale ML accessible. First, we can try to train existing DNN models more cheaply through new algorithmic schemes such as pipeline and hybrid parallelism, as we demonstrated in the PipeDream and FlexFlow projects. These approaches are now used in some of the most optimized large-scale training codebases, such as NVIDIA’s Megatron-LM, which is able to train 1 trillion parameter models on 3000 GPUs at 52% of peak hardware efficiency. The second approach is to change large ML models themselves to be more hardware friendly. In this space, I’ll present our work on retrieval-based NLP models, such as ColBERT, ColBERT-QA and Baleen, that use a small DNN to *search* through a corpus of documents for relevant knowledge when they do inference (e.g., the right wikipedia pages to answer a science question) as opposed to memorizing all their knowledge in trillions of parameters. Our retrieval-based models have set new SotA results in multiple hard NLP problems while running as much as 1000x faster than large language models such as GPT3, and providing other advantages as well, such as easier interpretation and support for instantaneous updates of the model’s knowledge without retraining (just by replacing some of its indexed documents). Our work on both lines of research is open source. Speaker: Matei Zaharia is an Assistant Professor of Computer Science at Stanford University and Chief Technologist at Databricks. He started the Apache Spark project during his PhD at UC Berkeley, and has worked on other widely used open source data analytics and AI software including MLflow and Delta Lake. At Stanford, he is a co-PI of the DAWN lab focusing on infrastructure for machine learning. Matei’s research work was recognized through the 2014 ACM Doctoral Dissertation Award, an NSF CAREER Award, and the US Presidential Early Career Award for Scientists and Engineers (PECASE), the highest honor bestowed by the US government to early-career scientists and engineers.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-faster-and-cheaper-training-for-large-models-delta-lake-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-faster-and-cheaper-training-for-large-models-delta-lake-2.json",
+    "source_id": "bythebay-20260508-san-francisco-hadoop-users-faster-and-cheaper-training-for-large-models-delta-lake-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Delta Lake"
+      },
+      {
+        "company": null,
+        "name": "Matei Zaharia"
+      }
+    ],
+    "title": "Faster and Cheaper Training for Large Models"
+  },
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-faster-and-cheaper-training-for-large-models-delta-lake-2",
+  "source_url": "https://www.meetup.com/hadoopsf/events/281511777/"
+}

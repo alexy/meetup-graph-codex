@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-cisco-spark-ai-more-bots-and-the-change-ai-needs-not-the-one-it-wants-castro-jose-2",
+  "source_id": "bythebay-20260508-bay-area-ai-cisco-spark-ai-more-bots-and-the-change-ai-needs-not-the-one-it-wants-castro-jose-2",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-cisco-spark-ai-more-bots-and-the-change-ai-needs-not-the-one-it-wants-castro-jose-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-cisco-spark-ai-more-bots-and-the-change-ai-needs-not-the-one-it-wants-castro-jose-2.json",
+  "kind": "talk",
+  "event_id": "240491390",
+  "event_title": "Cisco Spark AI: More Bots! And the Change AI Needs, not the one it Wants",
+  "title": "Cisco Spark AI: More Bots! And the Change AI Needs, not the one it Wants",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": "Castro Jose, Pedro Alves",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/240491390/",
+  "description": "We have two great talks in this meetup. Cisco presents its vision and Spark+AI strategy. Ople digs into AI for business as a change process. This is a closing meetup in the http://festival.framework.foundation saga, preceded by another one with two great AI talks (https://www.meetup.com/bay-area-ai/events/240597202/), and followed by a party. Be there!",
+  "date_time": "2017-06-09T16:00:00-07:00",
+  "end_time": "2017-06-09T19:00:00-07:00"
+}

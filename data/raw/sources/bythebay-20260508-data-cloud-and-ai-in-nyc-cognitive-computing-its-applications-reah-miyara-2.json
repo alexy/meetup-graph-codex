@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2017-10-24T18:00:00-04:00",
+    "description": "As part of Cognifest, the meetup for the 24th will be hosted at 590 Madison Avenue, Room 1219 - 12th floor.\n\nReah Miyara, Senior Offering Associate - Watson Horizontal Applications, IBM Watson and Cloud Platform, will offer an overview of the developing era of Cognitive Computing. He will illustrate potential use cases for cognitive technologies and demonstrate advancements in processing the ever increasing volume and complexity of data today, a collaboration between mankind and machine.\n\nBIO:\n\nReah Miyara is a current product manager on the Watson Industry Applications team (https://www.ibm.com/blogs/watson/2016/08/im-going-watson-developer-conference/) and a former software engineer on the Watson Life team (https://urldefense.proofpoint.com/v2/url?u=http-3A__ibm.co_21KOuFJ&d=DwMFaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=Br1-eBTu_unbqO17vV6tDT84JUdgauAsPWz3C4ypXns&m=Z3HQAeTiGkbhIWFw75mPKQbDPqNXksgD6gJ-qYCf46Q&s=ivkVy9ht1FWh-HMBMBPQbzve8xwvEANvSWaWHa7hfL8&e=). A graduate of UC Berkeley with a degree in electrical engineering and computer science, Reah’s experience includes developing enterprise technologies for the Mars Curiosity Rover at NASA’s Jet Propulsion Laboratory, fraud detection systems using machine learning at Intuit, and cognitive cooking assistant Chef Watson (https://urldefense.proofpoint.com/v2/url?u=https-3A__www.ibmchefwatson.com_&d=DwMFaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=Br1-eBTu_unbqO17vV6tDT84JUdgauAsPWz3C4ypXns&m=Z3HQAeTiGkbhIWFw75mPKQbDPqNXksgD6gJ-qYCf46Q&s=UufLKr_Q0js7e-xDZIkpuF4tX4B-eJqGOh3CgwRQl2I&e=) at IBM’s Watson group. When he is not driving technical strategy and development at IBM, empowering companies to make smarter business decisions, he can be seen DJ-ing for some of Hollywood’s hottest celebrities.",
+    "endTime": "2017-10-24T21:00:00-04:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/244261633/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "244261633",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Cognitive Computing & Its Applications"
+  },
+  "event_id": "244261633",
+  "event_title": "Cognitive Computing & Its Applications",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "As part of Cognifest, the meetup for the 24th will be hosted at 590 Madison Avenue, Room 1219 - 12th floor. Reah Miyara, Senior Offering Associate - Watson Horizontal Applications, IBM Watson and Cloud Platform, will offer an overview of the developing era of Cognitive Computing. He will illustrate potential use cases for cognitive technologies and demonstrate advancements in processing the ever increasing volume and complexity of data today, a collaboration between mankind and machine. BIO: Reah Miyara is a current product manager on the Watson Industry Applications team (https://www.ibm.com/blogs/watson/2016/08/im-going-watson-developer-conference/) and a former software engineer on the Watson Life team (https://urldefense.proofpoint.com/v2/url?u=http-3A__ibm.co_21KOuFJ&d=DwMFaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=Br1-eBTu_unbqO17vV6tDT84JUdgauAsPWz3C4ypXns&m=Z3HQAeTiGkbhIWFw75mPKQbDPqNXksgD6gJ-qYCf46Q&s=ivkVy9ht1FWh-HMBMBPQbzve8xwvEANvSWaWHa7hfL8&e=). A graduate of UC Berkeley with a degree in electrical engineering and computer science, Reah’s experience includes developing enterprise technologies for the Mars Curiosity Rover at NASA’s Jet Propulsion Laboratory, fraud detection systems using machine learning at Intuit, and cognitive cooking assistant Chef Watson (https://urldefense.proofpoint.com/v2/url?u=https-3A__www.ibmchefwatson.com_&d=DwMFaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=Br1-eBTu_unbqO17vV6tDT84JUdgauAsPWz3C4ypXns&m=Z3HQAeTiGkbhIWFw75mPKQbDPqNXksgD6gJ-qYCf46Q&s=UufLKr_Q0js7e-xDZIkpuF4tX4B-eJqGOh3CgwRQl2I&e=) at IBM’s Watson group. When he is not driving technical strategy and development at IBM, empowering companies to make smarter business decisions, he can be seen DJ-ing for some of Hollywood’s hottest celebrities.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-cognitive-computing-its-applications-reah-miyara-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-cognitive-computing-its-applications-reah-miyara-2.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-cognitive-computing-its-applications-reah-miyara-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Reah Miyara"
+      }
+    ],
+    "title": "Cognitive Computing & Its Applications"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-cognitive-computing-its-applications-reah-miyara-2",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/244261633/"
+}

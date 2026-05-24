@@ -1,0 +1,9 @@
+{
+  "name": "Evan Chan",
+  "role": "Conviva, Inc., Principal Software Engineer",
+  "talk_title": "Lessons Learned: Porting a Streaming Data Pipeline from Scala to Rust",
+  "talk_url": "https://www.scale.bythebay.io/post/evan-chan-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust",
+  "source_id": "bythebay-20260508-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust-evan-chan-conviva",
+  "source_file": "data/raw/sources/bythebay-20260508-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust-evan-chan-conviva.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust-evan-chan-conviva.json"
+}

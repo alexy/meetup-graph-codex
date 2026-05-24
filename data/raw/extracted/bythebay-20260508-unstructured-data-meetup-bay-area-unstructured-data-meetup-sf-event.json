@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-sf-event",
+  "source_id": "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-sf-event",
+  "source_file": "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-sf-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-sf-event.json",
+  "kind": "workshop",
+  "event_id": "311245267",
+  "event_title": "Unstructured Data Meetup SF",
+  "title": "Unstructured Data Meetup SF",
+  "conference_id": "meetup:36468260",
+  "meetup_id": "meetup:36468260",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "url": "https://www.meetup.com/unstructured-data-sf/events/311245267/",
+  "description": "**[This page is for promotional purposes. Please register on luma to attend the event https://luma.com/zoym6vcy]** This is an in-person workshop with Zilliz, creators of Milvus! [Registration on luma](https://luma.com/zoym6vcy) is required to get in and receive invite details. Walk-ins are subject to venue capacity. 🗓️ **When**: October 21, 2025 @5:30 - 8:30 PM 📍 **Where**: [Luma registration](https://luma.com/zoym6vcy) is required to get into the event. We will be sending invites with the location of the event once you're approved. Registration will close on **Monday, October 20th** before the event. 🤖 **Who**: This workshop will be catered to **Milvus users**. We will share the latest updates in Milvus 2.6 and our future roadmap. 💻 **What to bring**: * Laptop to follow along in the workshop * A photo ID for entry **Topic**: Milvus Community Workshop **Agenda**: Learn the latest updates from Milvus open-source vector database and follow along in our hands-on workshop! Enjoy food, beverages, swag, and more! 5:30 - 6:00 - Welcome/Networking/Registration 6:00 - 6:30 - RaBitQ, JSON Index, Schema Evolution, What's New in Milvus 2.6, [Jiang Chen](https://www.linkedin.com/in/jiangc1010/), Zilliz 6:30 - 7:00 - Building Search in Production with Vector Database 7:00 - 7:15 - Lightning Talk, SAP 7:15 - 7:30 - Raffle Giveaways (Labubus, Milvus swag, and more!) 7:30 - 8:30 - Closing Remarks, Milvus Office Hour, and Networking 🚀 We look forward to seeing you at the meetup! \\*Note: This event is sponsored by [Zilliz](http://zilliz.com/) (maintainers of [Milvus](https://github.com/milvus-io/milvus)). Special thanks to SAP for the venue and support! By registering, you are agreeing that you will be respectful of event staff and act appropriately. For any questions or inquiries regarding future event partnership or sponsorship, please reach out to katie.diep@zilliz.com.",
+  "date_time": "2025-10-21T17:30:00-07:00",
+  "end_time": "2025-10-21T20:30:00-07:00"
+}

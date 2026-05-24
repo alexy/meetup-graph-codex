@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-12-12T18:30:00-08:00",
+    "description": "This is a spontaneous holiday event! Ho-ho-ho.\n\nCome join the scalding community to learn and discuss cool things Twitter, Linkedin and Rackspace are doing with data and scalding (scala on hadoop). We have a great group of speakers lined up for this event so should be a really interesting set of presentations and discussions.\n\nFood and drinks will be provided. Come meet new people and learn what others are doing in the scalding community!\n\nAgenda:\n\n6 - 6:30 Gathering, Food, Drinks\n\n6:30 - 8:30 Talks\n\n8:30 - ? Hangout\n\nLightning Talks:\n\nLinkedin -- Matrix API in Scalding\n\nTwitter -- Clustering Users with Locality-Sensitive Hashing in Scalding and Algebird\n\nRackspace -- Hidden Markov Models with Time Series Data\n\nBreakout Sessions\n\nYou decide what you want to talk about:\n\nPossible Topics: SummingBird, Scalding Roadmap …\n\nSpeakers:\n\nVitaly Gordon, Senior Data Scientist, Linkedin\n\nTwitter Scalding Team (Oscar, Argyris, Ian)\n\nNick Kolegraff, Data Scientist, Rackspace",
+    "endTime": "2013-12-12T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/sf-scala/events/154954962/",
+    "group": {
+      "id": "1755011",
+      "name": "SF Scala",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "154954962",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scalding at Twitter, LinkedIn, and (+event@) Rackspace"
+  },
+  "meetup_id": "meetup:1755011",
+  "meetup_name": "SF Scala",
+  "meetup_url": "https://www.meetup.com/sf-scala/events/?type=past",
+  "source_id": "bythebay-20260508-sf-scala-scalding-at-twitter-linkedin-and-event-rackspace-nick-kolegraff",
+  "source_url": "https://www.meetup.com/sf-scala/events/154954962/"
+}

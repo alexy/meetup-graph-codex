@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-06-05T12:00:00-04:00",
+    "description": "Please join us to learn about the [Trust and Safety Evaluations Initiative (TSEI)](https://the-ai-alliance.github.io/trust-safety-evals/), which is focused on evaluating AI models and applications. Evaluations cover not only safety concerns, like avoiding hate speech, but the emerging challenge of evaluating that the system as a whole is “aligned” with the requirements for the domain and use cases supported. We call this the “last mile” of evaluation, a challenge that most development teams don’t know how to address. You will learn about our efforts to meet all these needs and how you can get involved!\n\n**About the presenter**\nDean Wampler, IBM",
+    "endTime": "2025-06-05T13:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/308110824/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "308110824",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] Trust and Safety Evaluations Initiative (TSEI)"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-trust-and-safety-evaluations-initiative-tsei-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/308110824/"
+}

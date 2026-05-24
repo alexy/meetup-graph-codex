@@ -1,0 +1,51 @@
+{
+  "event": {
+    "dateTime": "2023-11-13T08:00:00-08:00",
+    "description": "📣 Attention! Clear your schedules for **November 13th!** 🗓️\n\n🌟 We're thrilled to host a Workshop \"Building production-ready LLM-powered applications\" with Josh Tobin, CEO of Gantry & co-creator of Full Stack Deep Learning.\nA must-attend for anyone interested in #AI & #LLM! 🌟\nFood and drinks are included 🍕🥤\n\n[👉 Secure your spot today for this transformative session! ](https://www.scale.bythebay.io/register)\n\n**About the course**\nThe way AI-powered apps are built has changed:\n\n* Before LLMs, an idea would bottleneck on training models from scratch, and then it'd bottleneck again on scalable deployment.\n* Now, a compelling MVP based on pretrained LLM models and APIs can be configured and serving users in an hour.\n\nAn entirely new ecosystem of techniques, tools, and tool vendors is forming around LLMs. Even ML veterans are scrambling to orient themselves to what is now possible and figure out the most productive techniques and tools.\n\nIn this course, we'll teach you **how to build AI-powered applications** from scratch, while following the best practices that will allow you to balance shipping quickly with building high-quality, production-ready applications your users trust. We'll walk you through a **structured approach to AI app development** loosely based on the test-driven development methodology used in traditional software engineering.\n\n**About your Instructor**\n[Josh Tobin](https://twitter.com/josh_tobin_) is the cofounder and CEO of [Gantry](https://gantry.io/), co-creator of [Full Stack Deep Learning](https://fullstackdeeplearning.com/), and a former OpenAI / UC Berkeley AI researcher.\n\n[Gantry](https://www.gantry.io/) is building product testing and analytics for AI-powered applications.\n\nTesting and analytics are essential tools when building any product, but they’re even more essential for AI-based applications. That’s because these applications fail in harder-to-detect ways, and those failures erode user trust over time, eventually leading to churn. Gantry helps you build AI your users trust through powerful observability, analytics, and evaluation for your AI-powered products.\n\n**About The Full Stack**\nBuilding an AI-powered product is much more than just training a model or writing a prompt.\n\nThe Full Stack brings people together to learn and share best practices across the entire lifecycle of an AI-powered product: from defining the problem and picking a GPU or foundation model to production deployment and continual learning to user experience design.\n\nWe've taught courses in building deep learning-powered applications at [UC Berkeley](https://docs.google.com/document/d/e/2PACX-1vSM5sHxDqM1XmE0PkvZjch6-lPCLBozy-UV4YsdbqXzjUgd7UhuNtg9T3Jr9MqP4CD79FpevxYh3p0p/pub), [in-person](https://fullstackdeeplearning.com/march2019.html), and [online](https://fullstackdeeplearning.com/spring2021/). More recently, we hosted the first [LLM bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) focused on teaching practitioners how to build LLM-powered applications, from prompt engineering to retrieval augmentation and AI-first design. Our courses have featured contributed lectures from Pieter Abbeel (Professor at UC Berkeley and co-founder of Covariant), Richard Socher (co-founder of [You.com](http://you.com/) and former Chief Scientist / EVP at Salesforce), and Andrej Karpathy (OpenAI researcher and former Director of AI at Tesla).\n\nOur courses have been described as \"high quality tokens\" by Andrej Karpathy, \"the most comprehensive and interesting class I ever attended\" by Boris Dayma (creator of Craiyon and Dall-E mini), and \"I can't believe they made this available for free\" by Jo Kristian Bergum (Distinguished Engineer at Yahoo and Co-Creator of Vespa).",
+    "endTime": "2023-11-13T16:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/296212691/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "296212691",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Workshop: \"Building production-ready LLM-powered applications\" by Josh Tobin "
+  },
+  "event_id": "296212691",
+  "event_title": "Workshop: \"Building production-ready LLM-powered applications\" by Josh Tobin",
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "session": {
+    "description": "📣 Attention! Clear your schedules for **November 13th!** 🗓️ 🌟 We're thrilled to host a Workshop \"Building production-ready LLM-powered applications\" with Josh Tobin, CEO of Gantry & co-creator of Full Stack Deep Learning. A must-attend for anyone interested in #AI & #LLM! 🌟 Food and drinks are included 🍕🥤 [👉 Secure your spot today for this transformative session! ](https://www.scale.bythebay.io/register) **About the course** The way AI-powered apps are built has changed: * Before LLMs, an idea would bottleneck on training models from scratch, and then it'd bottleneck again on scalable deployment. * Now, a compelling MVP based on pretrained LLM models and APIs can be configured and serving users in an hour. An entirely new ecosystem of techniques, tools, and tool vendors is forming around LLMs. Even ML veterans are scrambling to orient themselves to what is now possible and figure out the most productive techniques and tools. In this course, we'll teach you **how to build AI-powered applications** from scratch, while following the best practices that will allow you to balance shipping quickly with building high-quality, production-ready applications your users trust. We'll walk you through a **structured approach to AI app development** loosely based on the test-driven development methodology used in traditional software engineering. **About your Instructor** [Josh Tobin](https://twitter.com/josh_tobin_) is the cofounder and CEO of [Gantry](https://gantry.io/), co-creator of [Full Stack Deep Learning](https://fullstackdeeplearning.com/), and a former OpenAI / UC Berkeley AI researcher. [Gantry](https://www.gantry.io/) is building product testing and analytics for AI-powered applications. Testing and analytics are essential tools when building any product, but they’re even more essential for AI-based applications. That’s because these applications fail in harder-to-detect ways, and those failures erode user trust over time, eventually leading to churn. Gantry helps you build AI your users trust through powerful observability, analytics, and evaluation for your AI-powered products. **About The Full Stack** Building an AI-powered product is much more than just training a model or writing a prompt. The Full Stack brings people together to learn and share best practices across the entire lifecycle of an AI-powered product: from defining the problem and picking a GPU or foundation model to production deployment and continual learning to user experience design. We've taught courses in building deep learning-powered applications at [UC Berkeley](https://docs.google.com/document/d/e/2PACX-1vSM5sHxDqM1XmE0PkvZjch6-lPCLBozy-UV4YsdbqXzjUgd7UhuNtg9T3Jr9MqP4CD79FpevxYh3p0p/pub), [in-person](https://fullstackdeeplearning.com/march2019.html), and [online](https://fullstackdeeplearning.com/spring2021/). More recently, we hosted the first [LLM bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/) focused on teaching practitioners how to build LLM-powered applications, from prompt engineering to retrieval augmentation and AI-first design. Our courses have featured contributed lectures from Pieter Abbeel (Professor at UC Berkeley and co-founder of Covariant), Richard Socher (co-founder of [You.com](http://you.com/) and former Chief Scientist / EVP at Salesforce), and Andrej Karpathy (OpenAI researcher and former Director of AI at Tesla). Our courses have been described as \"high quality tokens\" by Andrej Karpathy, \"the most comprehensive and interesting class I ever attended\" by Boris Dayma (creator of Craiyon and Dall-E mini), and \"I can't believe they made this available for free\" by Jo Kristian Bergum (Distinguished Engineer at Yahoo and Co-Creator of Vespa).",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-scala-bay-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-2.json",
+    "source_id": "bythebay-20260508-scala-bay-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-2",
+    "speakers": [
+      {
+        "company": null,
+        "name": "Andrej Karpathy"
+      },
+      {
+        "company": null,
+        "name": "Boris Dayma"
+      },
+      {
+        "company": null,
+        "name": "Jo Kristian Bergum"
+      },
+      {
+        "company": null,
+        "name": "Josh Tobin"
+      }
+    ],
+    "title": "Workshop: \"Building production-ready LLM-powered applications\" by Josh Tobin"
+  },
+  "source_id": "bythebay-20260508-scala-bay-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-2",
+  "source_url": "https://www.meetup.com/scala-bay/events/296212691/"
+}

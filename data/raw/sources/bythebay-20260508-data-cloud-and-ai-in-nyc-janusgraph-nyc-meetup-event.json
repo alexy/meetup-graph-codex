@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-03-01T18:30:00-05:00",
+    "description": "RSVP TO THIS LINK:\n\nhttps://www.meetup.com/graphs/events/237100744/\n\nNetworking : 6:30-7:00pm\n\nWe'll discuss the new Linux Foundation project JanusGraph, (http://janusgraph.org/)and where contributors can focus their attention\n\nThere will be a collection of speakers talking about their specialist graph topics including:\n\n• Jason Plurad (https://www.linkedin.com/in/pluradj/), software engineer, will discuss IBM's journey in open source graphs and how its Open by Design approach has benefited open communities and IBM offerings.\n\n• Haikal Pribaldi (https://www.linkedin.com/in/haikalpribadi/) Founder and CEO of GRAKN.A will share how graph tech is used in GRAKN\n\n• Santosh Borse (https://www.linkedin.com/in/santoshborse/), software engineer at IBM, will discuss the creation of an enterprise social graph, how the graph was modeled in IBM, the overall setup, and use of gremlin\n\n• Misha Brukman (https://github.com/mbrukman), at Google, will share ideas around the use of graph with BigTable\n\n• Raymond Canzanese Jr (https://www.linkedin.com/in/raymond-canzanese-jr-178a846/), CTO at Sift Security, will describe their use of graph technologies\n\n• Denise Gosnell (https://www.linkedin.com/in/denisekgosnell/)\n\n, Senior Technical Evangelist, will describe her experience of graph and Titan in PokitDok",
+    "endTime": "2017-03-01T21:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/237908714/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "237908714",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "JanusGraph NYC Meetup"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-janusgraph-nyc-meetup-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/237908714/"
+}

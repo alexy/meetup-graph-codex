@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2013-05-15T18:30:00-07:00",
+    "description": "Machine learning (ML) turns data into predictions about the real world in an almost magical fashion. In this talk we'll show why Scala is a great language for machine learning practitioners and show the audience of Scala programmers how easy it is to start performing machine learning magic themselves.\n\nMachine learning enthusiasts have historically preferred high-level programming languages due to their ability to concisely describe models and algorithms, but this has often come at the price of performance and production readiness. For example, the ease of rapid prototyping and syntactic sugar of Python have made it a popular choice for ML developers. Scala combines this flexibility with the strengths of the JVM such as performance and seamless interoperability with the mature ecosystem of existing Java software. In this talk we will show how Scala DSLs can improve the effectiveness of machine learning practitioners and even make machine learning capabilities accessible to people without a Scala background.\n\nScalding has a Hadoop-based DSL that allows code using regular Scala collections to be run as Hadoop jobs with almost no modification. We will show how machine learning code written in terms of operations over Scala collections can therefore be made to work immediately on giant compute clusters over terabytes of data. We will also briefly discuss how Scalding works in order to show how DSLs can be designed in Scala.\n\nAbout the Speakers\nChris and Vitaly are jointly presenting this talk.\n\nChris Severs works in the Search Science applied research group at eBay. Chris fell in love with Scala at first sight and has been one of the main drivers of Scala adoption at eBay. He has contributed to the Scalding and Scoobi open source projects and authored an addition to Scalding to provide support for Apache Avro. Prior to joining eBay he was a postdoctoral researcher at The Mathematical Sciences Research Institute in Berkeley and then at Reykjavík University in Iceland.\n\nVitaly Gordon is a senior data scientist on the LinkedIn Product Data Science team where he develops data products that most of you use every day. Prior to LinkedIn, Vitaly founded the data science team at LivePerson and worked in the elite 8200 unit (the Israeli equivalent of the NSA), leading a team of researchers in developing algorithms to fight terrorism. His contributions have been recognized through a number of awards including the “Life Source” award, an award given each year deemed most high-impact in saving lives. Vitaly holds a B.Sc in Computer Science and an MBA from the Israeli Institute of Technology.\n\nAs usual, the schedule for the event is:\n\n6:30 - networking, food\n\n7:00 - announcements\n\n7:15 - Chris and Vitaly\n\n9:00 - More networking",
+    "endTime": "2013-05-15T21:30:00-07:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/118319692/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "118319692",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Scalable and Flexible Machine Learning With Scala @ Stubhub"
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-scalable-and-flexible-machine-learning-with-scala-stubhub-event",
+  "source_url": "https://www.meetup.com/scala-bay/events/118319692/"
+}

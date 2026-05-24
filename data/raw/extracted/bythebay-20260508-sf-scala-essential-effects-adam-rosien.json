@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-essential-effects-adam-rosien",
+  "source_id": "bythebay-20260508-sf-scala-essential-effects-adam-rosien",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-essential-effects-adam-rosien.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-essential-effects-adam-rosien.json",
+  "kind": "talk",
+  "event_id": "275583573",
+  "event_title": "Essential Effects By Adam Rosien",
+  "title": "Essential Effects",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Adam Rosien, Cats Effect, Salar Rahmanian",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/275583573/",
+  "description": "Cats Effect is a library that makes it easy to write code that effectively uses multiple cores and doesn’t leak resources. This makes building complex applications, such as highly concurrent services, much more productive. This talk will introduce the meaning and role of side-effects and effects, how to encapsulate side-effects in a safer form, and show off the features of the Cats Effect library that provide parallelism, concurrency, resource-safety, and more! About our speaker Adam Rosien (https://twitter.com/arosien) As a Principal at Inner Product LLC, Adam focuses on building systems, teaching, and mentoring using functional programming. He previously helped various startups in many domains develop back-end systems and implement continuous deployment practices, and also spent five years as a developer at Xerox PARC. Agenda 5.30pm Welcome to SFScala by Salar Rahmanian 5.45pm Essential Effects By Adam Rosien 7.00pm Wrap up and continue conversations on Discord",
+  "date_time": "2021-01-13T17:30:00-08:00",
+  "end_time": "2021-01-13T19:30:00-08:00"
+}

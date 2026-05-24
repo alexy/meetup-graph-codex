@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2017-01-17T18:30:00-08:00",
+    "description": "Note: ai.bythebay.io is ramping up for March 6-8. Use the code BAYAREAAI (https://www.universe.com/embed2/events/582a8788155c6b004e96b236?state=%7B%22currentDiscountCode%22%3A%7B%22code%22%3A%22BAYAREAAI%22%7D%7D) to register.\n\nWe have a few lightning talks lined up. Thanks PubNub for hosting!\n\nThe planned talks are on H2O and Image Segmentation. Propose yours!",
+    "endTime": "2017-01-17T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/236807763/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "236807763",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "2017 Bay Area AI Kickoff on the 17th"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-2017-bay-area-ai-kickoff-on-the-17th-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/236807763/"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-scalaz-for-the-rest-of-us-at-yelp-in-san-francisco-event",
+  "source_id": "bythebay-20260508-scala-bay-scalaz-for-the-rest-of-us-at-yelp-in-san-francisco-event",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-scalaz-for-the-rest-of-us-at-yelp-in-san-francisco-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-scalaz-for-the-rest-of-us-at-yelp-in-san-francisco-event.json",
+  "kind": "talk",
+  "event_id": "78777532",
+  "event_title": "Scalaz \"For the Rest of Us\" at Yelp in San Francisco",
+  "title": "Scalaz \"For the Rest of Us\" at Yelp in San Francisco",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/78777532/",
+  "description": "Scalaz is our #1 most requested topic (http://www.google.com/moderator/#15/e=1ffe4f&t=1ffe4f.40). This talk provides an introduction to the amazing scalaz library - not through a brain-exploding introduction to category theory or monad laws, but via its simplest practical parts for a functional programming novice. You'll learn: How to use scalaz to make your code simpler, more readable and more testable; How scalaz compensates for some Scala issues; How scalaz helps make your code more typesafe; An introduction to how scalaz encapsulates common patterns like dependency injection and data validation. A scalaz \"cheat sheet\" will be provided to attendees. As usual, the schedule for the event is: 6:30 - networking, food 7:00 - announcements 7:15 - presentation 8:30 - Q&A, more networking afterward The following evening's event will be recorded but not streamed. Please tag your tweets with #scalasv. We will give away two copies of IntelliJ IDEA 11 for personal use, and two copies of JRebel. Two e-copies of \"Monadic Design Patterns\", published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile. About the Presenter Adam Rosien is a software engineer at Box where he leads projects to adopt Scala for back-end services and implement continuous deployment (CD) practices across the company. He previously worked at Wealthfront, a financial startup recognized as a pioneer in CD. Prior to that he worked at various startups and spent five years as a developer at Xerox PARC. Important You must register under your full name. Your ID will be checked at the door, and it must match the name that you registered under or you will not be admitted. No minors are admitted. This Event Will Also Run at Box the Next Day If you live on the Peninsula or the San Jose area you might find the event at Box (http://www.meetup.com/Bay-Area-Scala-Enthusiasts/events/78612892/) to be more convenient. Please only register at one event.",
+  "date_time": "2012-08-29T18:30:00-07:00",
+  "end_time": "2012-08-29T21:00:00-07:00"
+}

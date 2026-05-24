@@ -1,0 +1,22 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-cross-post-from-scala-bay-fueling-software-automation-with-scala-graphql-join-zoom-meeting",
+  "source_id": "bythebay-20260508-sf-scala-cross-post-from-scala-bay-fueling-software-automation-with-scala-graphql-join-zoom-meeting",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-cross-post-from-scala-bay-fueling-software-automation-with-scala-graphql-join-zoom-meeting.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-cross-post-from-scala-bay-fueling-software-automation-with-scala-graphql-join-zoom-meeting.json",
+  "kind": "talk",
+  "event_id": "271782551",
+  "event_title": "[cross-post from Scala Bay] Fueling Software Automation with Scala & GraphQL",
+  "title": "Fueling Software Automation with Scala & GraphQL",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Join Zoom Meeting, Matthew Tovbin, Matthew Tovbin Co-Founder",
+  "tags": [
+    "meetup",
+    "crosspost",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/271782551/",
+  "description": "This is a Scala Bay original: https://www.meetup.com/Scala-Bay/events/271744135/ Any modern engineering team spends at least 20% of their time productionizing their software stack. Engineers of small startups and large enterprises constantly struggle with all the same problems of building CI/CD pipelines, cost and performance optimization, security governance. Moreover, with the proliferation of cloud offerings it became incredibly easy for engineers to add new components to software infrastructure, further increasing future management complexity and operational costs. It becomes obvious that cloud software operations is the area ripe for disruptive automation, as we now have both the necessity and the tools to solve it. In this presentation I will demonstrate how Faros AI - https://www.faros.ai?ref=scala-bay - helps engineering teams to automate their day-to-day tasks and focus on providing real customer value. Speaker: Matthew Tovbin Co-Founder, Faros AI Join Zoom Meeting https://scu.zoom.us/j/95229947801?pwd=MzdqODBwK1Y1UHkwQVdYSjV2NjFrUT09 Meeting ID: 952 2994 7801 Password: 583404 Join by phone: +1 (669) 900-6833 Meeting ID: 952 2994 7801 One tap mobile +16699006833,,95229947801#",
+  "date_time": "2020-07-11T10:00:00-07:00",
+  "end_time": "2020-07-11T12:00:00-07:00"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "talk:meetup:18601481:bythebay-20260508-sf-data-and-ai-engineering-register-at-bay-area-ai-the-future-of-cognitive-frameworks-for-business-event",
+  "source_id": "bythebay-20260508-sf-data-and-ai-engineering-register-at-bay-area-ai-the-future-of-cognitive-frameworks-for-business-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-register-at-bay-area-ai-the-future-of-cognitive-frameworks-for-business-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-data-and-ai-engineering-register-at-bay-area-ai-the-future-of-cognitive-frameworks-for-business-event.json",
+  "kind": "announcement",
+  "event_id": "240460692",
+  "event_title": "[register at bay.area.ai] The Future of Cognitive Frameworks for Business",
+  "title": "The Future of Cognitive Frameworks for Business",
+  "conference_id": "meetup:18601481",
+  "meetup_id": "meetup:18601481",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "crosspost",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/240460692/",
+  "description": "This high-level event is hosted at IBM Watson West, the leader of industrial cognitive applications. It is the official launch of the Cognitive Frameworks Festiva (http://festival.framework.foundation/)l, focusing on the business of AI, as powered by real-time, intelligent big data pipelines. Please RSVP at the Bay Area AI (https://www.meetup.com/bay-area-ai/events/240457597/) event only. You need to be registered there to get in! We start at 4pm with networking on the roof of IBM Watson. At 5pm, there will be lightning talks from the industry leaders at • IBM • Salesforce • Cisco ... more partners being added Topics: -- Cognitive Infrastructure -- Cognitive Products -- Ecosystem around Cognitive Business A rooftop party will follow.",
+  "date_time": "2017-06-07T16:00:00-07:00",
+  "end_time": "2017-06-07T19:00:00-07:00"
+}

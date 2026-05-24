@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2014-11-10T18:30:00-08:00",
+    "description": "First Talk:\n\nDean Chen, Diving into Spark Internals\n\nDescription:\n\nApache Spark is a next generation engine for large scale data processing built with Scala. This talk will first show how Spark takes advantage of Scala's function idioms to produce an expressive and intuitive API. You will learn about the design of Spark RDDs and the abstraction enables the Spark execution engine to be extended to support a wide variety of use cases(Spark SQL, Spark Streaming, MLib and GraphX). The Spark source will be be referenced to illustrate how these concepts are implemented with Scala.\n\nBio:\n\nDean Chen is the backend engineering lead for eBay Now, a local retail delivery service in the Bay Area, New York, Dallas and Chicago. His team works on Scala full-time at eBay after transition all eBay Now services from Java/Python to Scala a year ago. He has been intimately involved with driving the adoption of Scala and Apache Spark at eBay.\n\nSecond talk:\n\nAlex Cozzi, Kafka and akka for high-performance real-time behavioral data.\n\nDescription:\n\nThis talk will describe how to use akka to implement high-performance applications to process events coming from a Kafka queue. It will briefly review the actor model and describe a few open source packages that ease integrating Akka and Kafka. It will focus on how a queue-based architecture simplifies achieving high-performance and resilient applications. It will cover a few simple distributed processing patterns and describe lessons learned about performance, performance measurement and tuning high-throughput applications.\n\nBio:\n\nAlex Cozzi is an applied researcher in the Search Science team at eBay. He was the technical lead of the machine-learned ranking team at eBay. His main interests are machine learning, statistics, big-data, software architectures and advanced programming languages.\n\nIMPORTANT NOTE\n\nebay will need the real names of attendees; so, if you have a name that looks like a pseudonym, please send me an email, so I will provide ebay with the names while not disclosing the mapping between the two (will have to write some scala code for this, I guess).",
+    "endTime": "2014-11-10T21:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/scala-bay/events/209740892/",
+    "group": {
+      "id": "2891482",
+      "name": "Scala Bay",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "209740892",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Dean Chen, \" Diving into Spark Internals\"; Alex Cozzi, \"Kafka and akka...\""
+  },
+  "meetup_id": "meetup:2891482",
+  "meetup_name": "Scala Bay",
+  "meetup_url": "https://www.meetup.com/scala-bay/events/?type=past",
+  "source_id": "bythebay-20260508-scala-bay-dean-chen-diving-into-spark-internals-alex-cozzi-kafka-and-akka-alex-cozzi-ebay",
+  "source_url": "https://www.meetup.com/scala-bay/events/209740892/"
+}

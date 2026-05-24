@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-eric-michiels-ibm-2",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-eric-michiels-ibm-2",
+  "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-eric-michiels-ibm-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-eric-michiels-ibm-2.json",
+  "kind": "talk",
+  "event_id": "289461486",
+  "event_title": "Quantum Computing and Machine Learning",
+  "title": "Quantum Computing and Machine Learning",
+  "conference_id": "meetup:5347552",
+  "meetup_id": "meetup:5347552",
+  "speaker_text": "Eric Michiels @ IBM",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/289461486/",
+  "description": "**NOTE: THIS IS AN EARLY TIME SLOT SESSION - repeated on Thu Nov 3 at 3:30-5:00 pm ET.** Quantum computing is poised to potentially have an impact on machine learning methods. In this seminar, we will cover the current state and future prospects of machine learning with quantum computers. This includes algorithms and models such as quantum kernel estimation, variational quantum classifiers, quantum neural networks, and quantum generative-adversarial networks (QGANs). We will also demonstrate the capabilities of the Qiskit Machine Learning open source software project. **Presenter: Dr. Eric Michiels** Eric Michiels is an Executive Architect at IBM, meaning he transforms business requirements of his customers into IT based solutions, including new innovative technologies. Eric is Master of Science in Mathematics and Informatics. Eric is also IBM Quantum Technical Ambassador and Qiskit Advocate and in this role he assists customers and academics to get started with their Quantum Journey. It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. [https://ibm.webex.com/ibm/j.php?RGID=r80057ec3db18b25fea50d5d16e897800](https://ibm.webex.com/ibm/j.php?RGID=r80057ec3db18b25fea50d5d16e897800).",
+  "date_time": "2022-11-02T08:00:00-04:00",
+  "end_time": "2022-11-02T09:30:00-04:00"
+}

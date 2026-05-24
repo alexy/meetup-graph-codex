@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-2-talks-abusing-tagless-final-improving-microservice-performance-roland-lee-with-2",
+  "source_id": "bythebay-20260508-sf-scala-2-talks-abusing-tagless-final-improving-microservice-performance-roland-lee-with-2",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-2-talks-abusing-tagless-final-improving-microservice-performance-roland-lee-with-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-2-talks-abusing-tagless-final-improving-microservice-performance-roland-lee-with-2.json",
+  "kind": "talk",
+  "event_id": "263554064",
+  "event_title": "2 Talks: Abusing Tagless Final & Improving Microservice Performance",
+  "title": "2 Talks: Abusing Tagless Final & Improving Microservice Performance",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": "Roland Lee With, Sandeep Virdi There",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/263554064/",
+  "description": "First Talk: ArKi-KV : Abusing Tagless Final Approach to build a key-value store by Sandeep Virdi There has been a lot of interest in the Tagless Final Approach/Pattern in the Scala-FP community. ArKi-KV is a simple LSM (Log Structured Merge Tree) based key value store that explores multiple functional programming concepts, including the Tagless Final Approach/Pattern. ArKi-KV uses cats/cats-effects for its functional and concurrent parts and jnr/jffi for off heap memory management. About Sandeep Virdi: Sandeep Virdi (https://www.linkedin.com/in/sandeep-virdi) is a Senior Software Engineer at Rally Health, building micro-services at scale using Scala. I've been using Scala professionally for 5+ years. Second Talk: Improve Microservice & Container Performance Interaction; no code Changes By Roland Lee With the deployment of microservices and containers in the cloud, network latency can be a primary cause of slow application response times. Additionally, most scale problems are due to inefficient database access. In this talk, we will introduce the concept of a database proxy, which provides SQL visibility and performance improvement for developers, without any code changes. We will review existing solutions and introduce a new approach that is distributed and avoids network latency. We will demo 1) Automated query caching and 2) Read/Write splitting. About Roland Lee Heimdall Data is an AWS Advanced Technology partner specializing in improving backend performance for SQL databases. Roland Lee (https://www.linkedin.com/in/leeroland) is head of products at Heimdall Data. His career has primarily focused on improving the scale and reliability, of high-end distributed systems.",
+  "date_time": "2019-09-25T18:00:00-07:00",
+  "end_time": "2019-09-25T21:00:00-07:00"
+}

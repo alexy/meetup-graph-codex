@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-03-27T12:00:00-04:00",
+    "description": "**Overview**\nWhen building machine learning and data applications, a significant portion of your time will be dedicated to data wrangling - from content extraction and filtering out problematic and low quality data. In this hands-on session we will explore Data Prep Kit - an open source toolkit, designed to streamline these essential tasks. Attendees will learn first hand how to use the Data Prep Kit to improve overall data quality such as removing spam and low quality documents, removing HAP (Hate Abuse Profanity) speech, removing PII (Personally Identifiable Information) data, thus leading to higher quality dataset.\n\n**Description**\nJoin us for an interactive, hands-on session where you will learn to clean up data and prepare high quality datasets.\n\nIn this workshop we will do the following:\n\n* Extract content from various documents (PDFs, HTML)\n* cleanup and remove markups\n* Detect and remove SPAM content\n* Score and remove low-quality documents\n* Identify and remove PII data\n* Detect and remove HAP (Hate Abuse Profanity) speech from documents\n\nMore about Data Prep Kit : https://github.com/IBM/data-prep-kit\n\n**What do you need to participate in this workshop?**\n\n* Comfortable in python programming language\n* We will run the workshop code using Google Collab (free) - no other setup is needed!\n\n**Session Type**\nWorkshop (hands-on)\n\n**Audience**\nLLM app developers, data scientists, data engineers\n\n**Technical Level**\nBeginner - Intermediate\n\n**Prerequisites**\n\n* Comfortable in python programming language\n* We will run the workshop using Google Collab (free to use) - no other setup is needed!\n\n**Duration**\n60 mins\n\n**Industry**\nCross industry\n\n**Speaker Bio**\nhttps://sujee.dev/bio\n\n**About the AI Alliance**\nThe [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+    "endTime": "2025-03-27T13:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/306536862/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "306536862",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] Workshop: Preparing High Quality Datasets with Data Prep Kit"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-preparing-high-quality-datasets-with-data-prep-kit-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/306536862/"
+}

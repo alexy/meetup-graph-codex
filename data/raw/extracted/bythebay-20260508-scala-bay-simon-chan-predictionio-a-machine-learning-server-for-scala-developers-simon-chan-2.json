@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:2891482:bythebay-20260508-scala-bay-simon-chan-predictionio-a-machine-learning-server-for-scala-developers-simon-chan-2",
+  "source_id": "bythebay-20260508-scala-bay-simon-chan-predictionio-a-machine-learning-server-for-scala-developers-simon-chan-2",
+  "source_file": "data/raw/sources/bythebay-20260508-scala-bay-simon-chan-predictionio-a-machine-learning-server-for-scala-developers-simon-chan-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-scala-bay-simon-chan-predictionio-a-machine-learning-server-for-scala-developers-simon-chan-2.json",
+  "kind": "talk",
+  "event_id": "219624829",
+  "event_title": "Simon Chan, \"PredictionIO - A Machine Learning Server for Scala Developers\"",
+  "title": "Simon Chan, \"PredictionIO - A Machine Learning Server for Scala Developers\"",
+  "conference_id": "meetup:2891482",
+  "meetup_id": "meetup:2891482",
+  "speaker_text": "Simon Chan",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/scala-bay/events/219624829/",
+  "description": "Title: PredictionIO - A Machine Learning Server for Scala Developers Abstract: PredictionIO is an open source machine learning server written in Scala. The project ranks top on Github with over 5000 engaging developers. PredictionIO is designed for data scientists and developers to build predictive engines for real-world applications in a fraction of the time normally required. In this talk, Simon will introduce the latest developments of PredictionIO, and show how to use it to build and deploy predictive engines in real production environments. Using PredictionIO’s DASE design pattern, Simon will illustrate how Scala developers can build machine learning applications with the separation of concerns (SoC) in mind. “D\" stands for Data Source and the Data Preparator, which take care of the preparation of data for model training. “A\" stands for Algorithm, which is where the code of one or more algorithms are implemented. “S” stands for Serving, which handles the application logic during the retrieval of predicted results. Finally, “E” stands for Evaluation. Simon will also cover upcoming development work, including new Engine Templates for various business scenarios. Bio: Simon Chan is a co-founder of PredictionIO, with years of experience in the tech industry in London, Hong Kong, Mainland China and Silicon Valley. His doctoral research work at University College London was on machine learning techniques for large-scale user preference prediction in noisy non-experimental environments. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "date_time": "2015-02-09T19:00:00-08:00",
+  "end_time": "2015-02-09T22:00:00-08:00"
+}

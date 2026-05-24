@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-11-14T17:30:00-08:00",
+    "description": "We have three amazing talks adding up to the modern agentic GenAI stack!\n\nYou MUST [register on Luma](https://lu.ma/ty3iyds0) to get in and bring a photo ID matching the name on the registration.\n\nThank you AWS GenAI Loft for hosting us!\n\n**Loading the world's biggest knowledge graph into neo4j (in progress)**\n**Leann Chen, *Diffbot***\n\nDiffbot’s knowledge graph turns the web into billions of nodes and facts. By loading this structured data into Neo4j, businesses can query their own custom knowledge. We’ll cover how Diffbot’s graph can enhance applications like Graph RAG with reliable, context-rich grounding information.\n\nLeann is a Generative AI Developer Advocate at Diffbot, who currently focuses on enhancing the performance of LLM-based applications by integrating the strengths of knowledge graphs. She creates content about Generative AI and Knowledge Graph Content on YouTube and LinkedIn.\n\n**AI Agents and Knowledge Graphs for Intelligent Querying and Insights, Tomaz Bratanic, *Neoj4***\n\nIn this talk, we will explore how AI agents can effectively interact with knowledge graphs to enable more intelligent decision-making and information retrieval. We'll cover key principles for building AI systems that can navigate, query, and extract meaningful insights from structured knowledge. Through best practices and real-world examples, you'll learn how to design AI agents that integrate seamlessly with knowledge graphs, enhancing their ability to understand and respond to complex queries.\n\nTomaž Bratanic is a network scientist at heart, working at the intersection of graphs and machine learning. He has applied these graph techniques to projects in various domains including fraud detection, biomedicine, business-oriented analytics, and recommendations.\n\nI**ntroduction to LlamaIndex Workflows**\n**Zeyu Alex Yang, *LlamaIndex***\n\n​Discover how LlamaIndex Workflows empower developers to design adaptable, event-driven processes for a wide range of tasks. This session will explore how Workflows enable you to seamlessly connect tasks, build custom flows, and gain actionable insights at every step. Whether you’re developing agents or designing complex data pipelines, LlamaIndex Workflows provide the flexibility and observability needed to bring your applications to life with confidence and clarity.\n​An active open-source contributor. Alex is actively involved in different open source projects including Node.js, Waku, and Jotai... Currently he maintain LlamaIndex.TS. Additionally, he explored various programming technologies like CRDT, Web Bundler, AI Agent in different languages python, javaScript, Rust, and more.",
+    "endTime": "2024-11-14T20:30:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/bay-area-ai/events/304270396/",
+    "group": {
+      "id": "18315941",
+      "name": "Bay Area AI",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "304270396",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "[lu.ma registration required! AI Agents+Knowledge Graphs => Intelligent Systems"
+  },
+  "meetup_id": "meetup:18315941",
+  "meetup_name": "Bay Area AI",
+  "meetup_url": "https://www.meetup.com/bay-area-ai/events/?type=past",
+  "source_id": "bythebay-20260508-bay-area-ai-lu-ma-registration-required-ai-agents-knowledge-graphs-intelligent-systems-event",
+  "source_url": "https://www.meetup.com/bay-area-ai/events/304270396/"
+}

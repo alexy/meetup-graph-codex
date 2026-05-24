@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:20929747:bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-cfp-extended-to-june-16-event",
+  "source_id": "bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-cfp-extended-to-june-16-event",
+  "source_file": "data/raw/sources/bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-cfp-extended-to-june-16-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-cfp-extended-to-june-16-event.json",
+  "kind": "announcement",
+  "event_id": "294108302",
+  "event_title": "Scale By the Bay CFP extended to June 16!",
+  "title": "Scale By the Bay CFP extended to June 16!",
+  "conference_id": "meetup:20929747",
+  "meetup_id": "meetup:20929747",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "url": "https://www.meetup.com/graphql-by-the-bay/events/294108302/",
+  "description": "Scale By the Bay is coming back in November! We pioneered GraphQL in the backend at SBTB 2016, and since then it took off as major middleware technology at Medium, Twitter, Intuit, and elsewhere. Submit your GraphQL talks at bay.news/cfp by June 16! See the program and reserve your seat at our wonderful venue. Sponsor SBTB to sustain the community in the Bay Area! Email Alexy at alexy@chiefscientist.org if you want to help with the meetup now that we're back live and in person.",
+  "date_time": "2023-06-16T23:00:00-07:00",
+  "end_time": "2023-06-17T00:00:00-07:00"
+}

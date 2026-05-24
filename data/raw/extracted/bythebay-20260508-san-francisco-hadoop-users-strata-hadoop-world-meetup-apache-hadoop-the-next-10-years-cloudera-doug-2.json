@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-strata-hadoop-world-meetup-apache-hadoop-the-next-10-years-cloudera-doug-2",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-strata-hadoop-world-meetup-apache-hadoop-the-next-10-years-cloudera-doug-2",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-strata-hadoop-world-meetup-apache-hadoop-the-next-10-years-cloudera-doug-2.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-strata-hadoop-world-meetup-apache-hadoop-the-next-10-years-cloudera-doug-2.json",
+  "kind": "talk",
+  "event_id": "229420973",
+  "event_title": "Strata + Hadoop World Meetup - Apache Hadoop: The Next 10 Years",
+  "title": "Strata + Hadoop World Meetup - Apache Hadoop: The Next 10 Years",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": "Cloudera Doug, Doug Cutting",
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/229420973/",
+  "description": "YOU DO NOT HAVE TO BE A REGISTERED ATTENDEE TO GO TO MEETUP. PLEASE RSVP HERE: http://goo.gl/forms/GMK4QsKopb -------------------------------------------------------------- Hadoop--the project and the ecosystem--became 10 years young in 2016. Although the accomplishments of its community during that time were impressive beyond all expectations, its best years are yet to come. In this presentation, Doug Cutting, Hadoop co-founder and Cloudera chief architect, reflects on the reasons for Hadoop's success, the lessons for other open source projects (and data management technology overall), and Hadoop's likely significant impact on modern data management (and the people who benefit from it) over the next decade. Meet the Speaker: Doug Cutting (https://www.linkedin.com/in/cutting), Chief Architect, Cloudera Doug is the founder of several successful open source projects, including Lucene, Nutch, Avro, and Hadoop. Doug joined Cloudera in 2009, after previously working at Yahoo!, Excite, Apple, and Xerox PARC. Doug holds a Bachelor’s degree from Stanford University and is the former Chairman of the Board of the Apache Software Foundation. ----------------------------------------------------------- Discount Code for Strata + Hadoop World in San Jose March 28-31, 2016: Save 20% on most passes with discount code UGHIVE. LINK: http://www.oreilly.com/pub/cpc/9166",
+  "date_time": "2016-03-29T18:00:00-07:00",
+  "end_time": "2016-03-29T21:00:00-07:00"
+}

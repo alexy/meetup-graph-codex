@@ -1,0 +1,39 @@
+{
+  "event": {
+    "dateTime": "2025-02-13T12:00:00-05:00",
+    "description": "RAG (Retrieval-Augmented Generation) or fine-tuning a model, a significant portion of your time will be dedicated to data wrangling (cleaning, de-duping, removing markups, etc.). **Data Prep Kit** (https://github.com/IBM/data-prep-kit) can help you with data wrangling.\n\nNoteworthy features of DPK include:\n\n* de-duping documents (exact dedupe and fuzzy dedupe),\n* handling documents and code,\n* language detection (spoken languages and programming languages),\n* malware detection, and\n* creating embeddings.\n\nIn this workshop, we will demonstrate implementing an end-to-end RAG pipeline using open source technologies:\n\n* Data Prep Kit for processing documents\n* Milvus as vector database\n* Granite 3 as the LLM\n\n**Session Type**\nHands-on workshop\n\n**Audience**\nLLM app developers, data scientists, data engineers\n\n**Technical Level**\nIntermediate\n\n**Prerequisites**\n\n* A computer with a Python development environment is strongly recommended. [setup instructions are here](https://github.com/IBM/data-prep-kit/blob/dev/examples/notebooks/rag-pdf-1/setup-python-dev-env.md).\n* A FREE Replicate account - get one at [replicate.com](replicate.com). Use this [code](https://replicate.com/invites/a8717bfe-2f3d-4a52-88ed-1356231cdf03) to add some credit to your Replicate account! 💰\n\n**Industry**\nCross industry\n\n**Agenda**\n\n* Welcome & introductions (5')\n* About the AI Alliance & how you can get involved (5')\n* Introduction to Milvus vector datastore by Stefan Webb from Zilliz (15’)\n* Workshop: “RAG pipeline with Data Prep Kit + Milvus + Granite” (60')\n* Q&A\n* Closing\n\n**About the instructor**\n[Sujee Maniyam](https://sujee.dev/bio-sujee.html) (AI Engineer, Developer Advocate @ Node51) is an expert in Generative AI, Machine Learning, Deep Learning, Big Data, Distributed Systems, and Cloud technologies. He is passionate about developer education, fostering community engagement. Sujee has led numerous training sessions, hackathons, and workshops. He is also an author, open source contributor and frequent speaker at conferences and meetups.\n\n**About the AI Alliance**\nThe [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+    "endTime": "2025-02-13T13:30:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/305888534/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "305888534",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] RAG pipeline With Data Prep Kit + Milvus + Granite (Workshop)"
+  },
+  "event_id": "305888534",
+  "event_title": "[AI Alliance] RAG pipeline With Data Prep Kit + Milvus + Granite (Workshop)",
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "session": {
+    "description": "RAG (Retrieval-Augmented Generation) or fine-tuning a model, a significant portion of your time will be dedicated to data wrangling (cleaning, de-duping, removing markups, etc.). **Data Prep Kit** (https://github.com/IBM/data-prep-kit) can help you with data wrangling. Noteworthy features of DPK include: * de-duping documents (exact dedupe and fuzzy dedupe), * handling documents and code, * language detection (spoken languages and programming languages), * malware detection, and * creating embeddings. In this workshop, we will demonstrate implementing an end-to-end RAG pipeline using open source technologies: * Data Prep Kit for processing documents * Milvus as vector database * Granite 3 as the LLM **Session Type** Hands-on workshop **Audience** LLM app developers, data scientists, data engineers **Technical Level** Intermediate **Prerequisites** * A computer with a Python development environment is strongly recommended. [setup instructions are here](https://github.com/IBM/data-prep-kit/blob/dev/examples/notebooks/rag-pdf-1/setup-python-dev-env.md). * A FREE Replicate account - get one at [replicate.com](replicate.com). Use this [code](https://replicate.com/invites/a8717bfe-2f3d-4a52-88ed-1356231cdf03) to add some credit to your Replicate account! 💰 **Industry** Cross industry **Agenda** * Welcome & introductions (5') * About the AI Alliance & how you can get involved (5') * Introduction to Milvus vector datastore by Stefan Webb from Zilliz (15’) * Workshop: “RAG pipeline with Data Prep Kit + Milvus + Granite” (60') * Q&A * Closing **About the instructor** [Sujee Maniyam](https://sujee.dev/bio-sujee.html) (AI Engineer, Developer Advocate @ Node51) is an expert in Generative AI, Machine Learning, Deep Learning, Big Data, Distributed Systems, and Cloud technologies. He is passionate about developer education, fostering community engagement. Sujee has led numerous training sessions, hackathons, and workshops. He is also an author, open source contributor and frequent speaker at conferences and meetups. **About the AI Alliance** The [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-data-cloud-and-ai-in-nyc-rag-pipeline-with-data-prep-kit-milvus-granite-workshop-stefan-webb-zilliz.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-rag-pipeline-with-data-prep-kit-milvus-granite-workshop-stefan-webb-zilliz.json",
+    "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-rag-pipeline-with-data-prep-kit-milvus-granite-workshop-stefan-webb-zilliz",
+    "speakers": [
+      {
+        "company": "Zilliz",
+        "name": "Stefan Webb"
+      }
+    ],
+    "title": "RAG pipeline With Data Prep Kit + Milvus + Granite (Workshop)"
+  },
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-rag-pipeline-with-data-prep-kit-milvus-granite-workshop-stefan-webb-zilliz",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/305888534/"
+}

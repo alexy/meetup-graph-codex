@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1731963:bythebay-20260508-san-francisco-hadoop-users-october-2012-san-francisco-hadoop-user-meetup-event",
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-october-2012-san-francisco-hadoop-user-meetup-event",
+  "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-october-2012-san-francisco-hadoop-user-meetup-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-october-2012-san-francisco-hadoop-user-meetup-event.json",
+  "kind": "unconference",
+  "event_id": "83012612",
+  "event_title": "October 2012 San Francisco Hadoop User Meetup",
+  "title": "October 2012 San Francisco Hadoop User Meetup",
+  "conference_id": "meetup:1731963",
+  "meetup_id": "meetup:1731963",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "unconference"
+  ],
+  "url": "https://www.meetup.com/hadoopsf/events/83012612/",
+  "description": "The October Hadoop meetup will be held Wednesday, October 10, from 6:00pm to 8:00pm. This meetup will be hosted by SET at 58 Maiden Lane, San Francisco, CA (5th floor). As usual, we will use the discussion-based \"unconference\" format. At the beginning of the meetup we will collaboratively construct an agenda consisting of several discussion breakout groups. All participants may propose a topic and volunteer to facilitate a discussion. All Hadoop-related topics are encouraged, and all members of the Hadoop community are welcome. Event schedule: 6:00pm - Welcome 6:30pm - Introductions; start creating agenda Breakout sessions begin as soon as we're ready 8:00pm - Conclusion Food and refreshments will be provided courtesy of SET. Please use door code 2718# to gain entry to the building. We'll be on the 5th floor.",
+  "date_time": "2012-10-10T18:00:00-07:00",
+  "end_time": "2012-10-10T21:00:00-07:00"
+}

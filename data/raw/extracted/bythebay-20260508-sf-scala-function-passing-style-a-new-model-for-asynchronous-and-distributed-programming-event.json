@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-function-passing-style-a-new-model-for-asynchronous-and-distributed-programming-event",
+  "source_id": "bythebay-20260508-sf-scala-function-passing-style-a-new-model-for-asynchronous-and-distributed-programming-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-function-passing-style-a-new-model-for-asynchronous-and-distributed-programming-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-function-passing-style-a-new-model-for-asynchronous-and-distributed-programming-event.json",
+  "kind": "talk",
+  "event_id": "215252782",
+  "event_title": "Function-Passing Style, A New Model for Asynchronous and Distributed Programming",
+  "title": "Function-Passing Style, A New Model for Asynchronous and Distributed Programming",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/215252782/",
+  "description": "Heather: In this talk, I'll present my ongoing research on a new programming model for asynchronous and distributed programming. For now, we call it \"function-passing\" or \"function-passing style\", and it can be thought of as an inversion of the actor model – keep your data stationary, send and apply your functionality (functions/spores) to that stationary data, and get typed communication all for free, all in a friendly collections/futures-like package! I'll also cover how I spent some of my time at Databricks – porting Scala Pickling to Spark, and will give a status update on new features we've added and battle-hardening we've done to Pickling to make this happen.",
+  "date_time": "2014-11-06T19:00:00-08:00",
+  "end_time": "2014-11-06T22:00:00-08:00"
+}

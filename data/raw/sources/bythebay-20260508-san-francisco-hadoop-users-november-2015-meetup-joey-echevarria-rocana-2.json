@@ -1,0 +1,47 @@
+{
+  "event": {
+    "dateTime": "2015-11-04T18:00:00-08:00",
+    "description": "Thanks to Microsoft for letting us use their new community space!\n\nAgenda: For November's agenda, we'll start with a tech talk and then go into Unconference (community-proposed) discussions. Please bring your current Hadoop challenges to discuss.\n\n• 6-630pm -- Networking/Food & Drinks\n\n• 630-710pm -- Presentation by Joey Echeverria from Rocana with Q&A\n\n• 710-800pm -- Unconference breakouts\n\nTech Talk: Building a System for Machine and Event-oriented Data, and Analytics with Rocana\n\nIn this session, we’ll follow the flow of data through an end-to-end system built to handle tens of terabytes an hour of event-oriented data, providing real-time streaming, in-memory, SQL, and batch access to this data. We’ll go into detail on how open source systems such as Hadoop, Kafka, Solr, and Impala/Hive can be stitched together to form the base platform; describe how and where to perform data transformation and aggregation; provide a simple and pragmatic way of managing event metadata; and talk about how applications built on top of this platform get access to data and extend its functionality.\n\nSpeaker: Joey Echevarria is the Director of Engineering at Rocana where he builds applications for scaling IT operations built on the Apached Hadoop platform. Joey is a committer on the Kite SDK, an Apache-licensed data API for the Hadoop Ecosystem. Joey was previously a Software Engineer at Cloudera where he contributed to several ASF projects including Apache Flume, Apache Sqoop, Apache Hadoop, and Apache HBase. Joey is also a co-author of Hadoop Security, published by O'Reilly Media.",
+    "endTime": "2015-11-04T20:00:00-08:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/hadoopsf/events/224902669/",
+    "group": {
+      "id": "1731963",
+      "name": "San Francisco Hadoop Users",
+      "timezone": "America/Los_Angeles"
+    },
+    "id": "224902669",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "November 2015 Meetup"
+  },
+  "event_id": "224902669",
+  "event_title": "November 2015 Meetup",
+  "meetup_id": "meetup:1731963",
+  "meetup_name": "San Francisco Hadoop Users",
+  "meetup_url": "https://www.meetup.com/hadoopsf/events/?type=past",
+  "session": {
+    "description": "Thanks to Microsoft for letting us use their new community space!",
+    "extracted_file": "data/raw/extracted/bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana-2.json",
+    "kind": "talk",
+    "source_file": "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana-2.json",
+    "source_id": "bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana-2",
+    "speakers": [
+      {
+        "company": "Rocana",
+        "name": "Joey Echevarria"
+      },
+      {
+        "company": "Rocana with Q&A",
+        "name": "Joey Echeverria"
+      },
+      {
+        "company": null,
+        "name": "O'Reilly Media"
+      }
+    ],
+    "title": "November 2015 Meetup"
+  },
+  "source_id": "bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana-2",
+  "source_url": "https://www.meetup.com/hadoopsf/events/224902669/"
+}

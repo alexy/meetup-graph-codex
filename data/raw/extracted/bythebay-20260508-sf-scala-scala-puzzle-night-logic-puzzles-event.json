@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:1755011:bythebay-20260508-sf-scala-scala-puzzle-night-logic-puzzles-event",
+  "source_id": "bythebay-20260508-sf-scala-scala-puzzle-night-logic-puzzles-event",
+  "source_file": "data/raw/sources/bythebay-20260508-sf-scala-scala-puzzle-night-logic-puzzles-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-sf-scala-scala-puzzle-night-logic-puzzles-event.json",
+  "kind": "event",
+  "event_id": "225954752",
+  "event_title": "Scala Puzzle Night: Logic Puzzles",
+  "title": "Scala Puzzle Night: Logic Puzzles",
+  "conference_id": "meetup:1755011",
+  "meetup_id": "meetup:1755011",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/sf-scala/events/225954752/",
+  "description": "Join us for another Scala Puzzle Night! Come hone your skills, learn from the community by solving a puzzle with others! This theme is logic puzzles. We will present a small problem along with detailed instructions and test data. We'll also provide a git repo containing a suite of tests and enough solution boilerplate to keep the core problem under two hours. Everyone will then pair off to work on this problem. When time is up, groups will take turns presenting their final solutions and the process they took to arrive at that solution. Our goal with this puzzle is not to stump anyone, but to stimulate a focus on the process of crafting Good Solution, and create a context for a discussion about the variety of language constructs available in scala to assist in the creation of such a solution. We hope to see a diversity of intriguing solutions. One group might design a nifty and readable DSL for solving the problem, another might leverage type-level programming to derive an extremely safe solution, and yet another might focus on bringing in scalaz constructs to craft as terse a solution as possible. Our puzzle will be difficult enough to enable this sort of diversity, yet simple enough that teams will be able to explore one of these various avenues within the alloted time to allow one of these avenues to be explored within the alloted time. Requirements We advise having a GitHub account to facilitate sharing of solutions. We also recommend having a scala development environment prepared on your laptop. Beginners are absolutely welcome, but we recommend running through a basic online crash course (http://www.artima.com/pins1ed/first-steps-in-scala.html). Agenda 6:00 - Refreshments and networking 6:30 - Beginner breakout session (optional) 7:00 - Welcome and Problem Unveiling 7:15 - Coding begins! 8:45 - Times up! Solution presentations and discussion 9:30 - Wrap-up Logistics Security Please bring ID and check in with Security on the first floor. Let them know you are here for the meetup with Driver Genomics on the 4th floor. Street Parking There is free street parking available on 16th street, and 7th street. See the highlighted rout on this map for areas with some street parking: http://bit.ly/17z5nOr Parking Garage There is also a parking garage (not free) right behind the office. If you use this parking garage make sure to hold onto your ticket as it will open the gate after hours (9 or 10pm is when it typically closes): http://bit.ly/1EsGyRq",
+  "date_time": "2015-11-11T18:00:00-08:00",
+  "end_time": "2015-11-11T22:00:00-08:00"
+}

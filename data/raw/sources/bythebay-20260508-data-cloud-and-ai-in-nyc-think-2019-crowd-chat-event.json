@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2019-01-17T12:00:00-05:00",
+    "description": "Live on January 17th at Noon EST! Learn how to chart your path on the journey to AI. Join a Crowdchat with Wikibon and IBM experts On January 17 at noon EST to learn about AI-related technologies and get a preview of topics, demos and sessions at Think 2019.\n\nhttps://ibm.co/ThinkCrowdChat\n\nThis event is Eastern Standard Time.",
+    "endTime": "2019-01-17T13:00:00-05:00",
+    "eventType": "PHYSICAL",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/258097076/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "258097076",
+    "isOnline": false,
+    "status": "PAST",
+    "title": "Think 2019 - Crowd Chat"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-think-2019-crowd-chat-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/258097076/"
+}

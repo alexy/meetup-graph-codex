@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2024-02-14T13:00:00-05:00",
+    "description": "Despite the benefits of generative AI, institutions are now facing related risks in regulatory backlash, fines, revenue loss, and brand damage. The need for a transparent, compliant, and trustworthy governance plan has only been punctuated by the recent White House announcement of the strongest global action yet on AI safety and governance.\n\nEstablishing an AI governance plan that covers both machine learning and Generative AI is paramount for organizations to stay ahead. There has never been a more critical time to navigate a meaningful, company-wide AI plan within your organization.\n\n**[Register now](https://ibm.webcasts.com/starthere.jsp?ei=1649938&tp_key=64c3ef04c3&sti=meetup)**\n\nJoin this IDC webcast and you will learn:\n\n* The top 5-7 burning questions about Generative AI\n* Organizational barriers to AI adoption and how to overcome them\n* Improvements in AI governance tool kits for both machine learning and Generative AI\n* How to create a solid AI governance plan with company-wide buy in\n\n**[Register now](https://ibm.webcasts.com/starthere.jsp?ei=1649938&tp_key=64c3ef04c3&sti=meetup)**",
+    "endTime": "2024-02-14T14:00:00-05:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/298776696/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "298776696",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "Stay in Control: The AI governance imperative with a guest speaker from IDC"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-stay-in-control-the-ai-governance-imperative-with-a-guest-speaker-from-idc-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/298776696/"
+}

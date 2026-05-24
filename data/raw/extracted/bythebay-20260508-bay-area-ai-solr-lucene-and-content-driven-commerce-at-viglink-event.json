@@ -1,0 +1,21 @@
+{
+  "id": "talk:meetup:18315941:bythebay-20260508-bay-area-ai-solr-lucene-and-content-driven-commerce-at-viglink-event",
+  "source_id": "bythebay-20260508-bay-area-ai-solr-lucene-and-content-driven-commerce-at-viglink-event",
+  "source_file": "data/raw/sources/bythebay-20260508-bay-area-ai-solr-lucene-and-content-driven-commerce-at-viglink-event.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-bay-area-ai-solr-lucene-and-content-driven-commerce-at-viglink-event.json",
+  "kind": "event",
+  "event_id": "219857140",
+  "event_title": "Solr/Lucene and Content-Driven Commerce at VigLink",
+  "title": "Solr/Lucene and Content-Driven Commerce at VigLink",
+  "conference_id": "meetup:18315941",
+  "meetup_id": "meetup:18315941",
+  "speaker_text": null,
+  "tags": [
+    "meetup",
+    "event"
+  ],
+  "url": "https://www.meetup.com/bay-area-ai/events/219857140/",
+  "description": "We start SF Text with two talks representative of our startup engineering focus: Grant Ingersoll, CTO of Lucidworks, the company behind Solr/Lucene, will overview the current status of the most trusted open-source search stack in the world. Grant is a co-author (with Tom Morton) of Manning's Taming Text ( http://www.manning.com/ingersoll/). Adam Pingel, Katrin Tomanek, and Gabor Melli of VigLink will present a text mining pipeline that connects readers with focused ads based on phrases relevant to merchants. VigLink is a rapidly growing company centered around text understanding. The schedule for the evening: 6:15 doors open. pizza & beer 6:45 Alexy introduces SF Text 7:00 Welcome from Oliver Roup, CEO of VigLink 7:05 Adam, Katrin, Gabor 8:00 Grant Ingersoll",
+  "date_time": "2015-02-10T18:45:00-08:00",
+  "end_time": "2015-02-10T21:45:00-08:00"
+}

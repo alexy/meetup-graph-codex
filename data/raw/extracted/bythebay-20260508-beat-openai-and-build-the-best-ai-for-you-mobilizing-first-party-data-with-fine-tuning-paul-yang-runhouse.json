@@ -1,0 +1,22 @@
+{
+  "id": "talk:ai-by-the-bay:bythebay-20260508-beat-openai-and-build-the-best-ai-for-you-mobilizing-first-party-data-with-fine-tuning-paul-yang-runhouse",
+  "source_id": "bythebay-20260508-beat-openai-and-build-the-best-ai-for-you-mobilizing-first-party-data-with-fine-tuning-paul-yang-runhouse",
+  "source_file": "data/raw/sources/bythebay-20260508-beat-openai-and-build-the-best-ai-for-you-mobilizing-first-party-data-with-fine-tuning-paul-yang-runhouse.json",
+  "extracted_file": "data/raw/extracted/bythebay-20260508-beat-openai-and-build-the-best-ai-for-you-mobilizing-first-party-data-with-fine-tuning-paul-yang-runhouse.json",
+  "kind": "talk",
+  "event_id": null,
+  "event_title": null,
+  "title": "Beat OpenAI and Build the Best AI For You: Mobilizing First-Party Data with Fine-Tuning",
+  "conference_id": "ai-by-the-bay",
+  "meetup_id": null,
+  "speaker_text": "Paul Yang, MTS @ Runhouse",
+  "tags": [
+    "LLMOps",
+    "Fine tuning",
+    "Models"
+  ],
+  "url": "https://ai.bythebay.io/talks/beat-openai-and-build-the-best-ai-for-you-mobilizing-first-party-data-with-fine-tuning",
+  "description": null,
+  "date_time": null,
+  "end_time": null
+}

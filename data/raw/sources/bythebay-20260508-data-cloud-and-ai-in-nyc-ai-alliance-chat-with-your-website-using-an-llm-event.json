@@ -1,0 +1,23 @@
+{
+  "event": {
+    "dateTime": "2025-05-01T12:00:00-04:00",
+    "description": "**Abstract**\nImagine being able to ask questions about a website in natural language—and receiving meaningful answers instead of simple keyword matches. In this talk, I’ll introduce Allycat, an open-source, end-to-end stack that enables conversational interaction with website content using Large Language Models (LLMs).\n\nWe’ll walk through the complete pipeline:\n\n* Crawling and indexing website content\n* Cleaning and extracting meaningful information from HTML\n* Creating embeddings and storing them in a vector database\n* Querying the data using an LLM for contextual, accurate responses\n\nWe’ll also demonstrate Allycat’s lightweight UI that allows users to interactively test their queries. The entire stack is built with Python and open-source components, making it easy to adopt, adapt, and extend.\n\nYou can checkout Allycat here : [https://github.com/The-AI-Alliance/allycat](https://github.com/The-AI-Alliance/allycat)\n\n**Audience**\nAI/ML Engineers, Data Engineers, Data Scientists interested in building intelligent, LLM-powered search and chatbot interfaces.\n\n**Level**\nBeginner to Intermediate\n\n**Format**\n45-minute presentation with demonstration\n\n**About the speaker**\n[Sujee Maniyam](https://sujee.dev/bio-sujee.html) (AI Engineer, Developer Advocate @ Node51) is an expert in Generative AI, Machine Learning, Deep Learning, Big Data, Distributed Systems, and Cloud technologies. He is passionate about developer education, fostering community engagement. Sujee has led numerous training sessions, hackathons, and workshops. He is also an author, open source contributor and frequent speaker at conferences and meetups.\n\n**About the AI Alliance**\nThe [AI Alliance](https://thealliance.ai) is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players.",
+    "endTime": "2025-05-01T13:00:00-04:00",
+    "eventType": "ONLINE",
+    "eventUrl": "https://www.meetup.com/big-data-developers-in-nyc/events/307464912/",
+    "group": {
+      "id": "5347552",
+      "name": "Data, Cloud and AI in NYC",
+      "timezone": "America/New_York"
+    },
+    "id": "307464912",
+    "isOnline": true,
+    "status": "PAST",
+    "title": "[AI Alliance] Chat with your website using an LLM"
+  },
+  "meetup_id": "meetup:5347552",
+  "meetup_name": "Data, Cloud and AI in NYC",
+  "meetup_url": "https://www.meetup.com/big-data-developers-in-nyc/events/?type=past",
+  "source_id": "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-chat-with-your-website-using-an-llm-event",
+  "source_url": "https://www.meetup.com/big-data-developers-in-nyc/events/307464912/"
+}
