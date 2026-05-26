@@ -1,0 +1,33 @@
+{
+  "id": "company:netflix",
+  "name": "Netflix",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang-2.json",
+    "data/raw/sources/bythebay-20260508-aging-evolving-software-tools-and-ourselves-jeremy-smith-netflix.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix-2",
+    "bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang-2",
+    "bythebay-20260508-aging-evolving-software-tools-and-ourselves-jeremy-smith-netflix",
+    "bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix",
+    "bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/142643212/",
+    "https://www.meetup.com/scala-bay/events/244389272/",
+    "https://scale.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:matt-jacobs",
+    "speaker:jeremy-smith"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-aging-evolving-software-tools-and-ourselves-jeremy-smith-netflix:aging-evolving-software-tools-and-ourselves",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix:rxjava-reactive-extensions-in-scala",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang:scala-based-ml-framework-at-netflix"
+  ],
+  "type": "company"
+}

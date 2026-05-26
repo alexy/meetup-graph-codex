@@ -1,0 +1,28 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:watson-natural-language-understanding-he",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Watson Natural Language Understanding. He",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/296052494/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris-talk-1:efficiently-serving-llms-at-scale-nick-hill-ibm"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

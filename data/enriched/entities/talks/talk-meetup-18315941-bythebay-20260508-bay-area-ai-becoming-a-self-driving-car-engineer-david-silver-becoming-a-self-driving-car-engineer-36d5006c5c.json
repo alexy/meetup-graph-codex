@@ -1,0 +1,40 @@
+{
+  "abstract": "Note: Data Pipelines for Machine Learning are thoroughly explored at Scala+Scale By the Bay at Twitter HQ, November 11-13: scala.bythebay.io. Meetup members receive their discount codes via member communications. Becoming a Self-Driving Car Engineer Companies ranging from Google to Tesla to NVIDIA are on the hunt for great engineers to build self-driving cars. Learn how to acquire the skills to work in one of the most exciting fields of software engineering! Speaker: David Silver leads the Self-Driving Car Team at Udacity, which is launching a nine-month program to train engineers to work in the autonomous vehicle industry. Prior to Udacity, David was a Research Engineer at Ford Motor Company. Before Ford, David worked in engineering and product roles at Candidate Metrics, mSpot, and AOL. He has an MBA from Stanford University, and a BSE in computer science from Princeton University. ---------- We're planning a whole cycle on self-driving cars, including through exploration of Deep Learning, mathematically and via open-source, that will lead to the first open-source conference on http://self.driving.cars in 2017. Join the list there to learn more. About the Sponsor: Galvanize is the premiere dynamic learning community for technology. With campuses located in booming technology sectors throughout the country, Galvanize provides a community for each the following: Education - part-time and full-time training in web development, data science, and data engineering Workspace - whether you’re a freelancer, startup, or established business, we provide beautiful spaces with a community dedicated to support your company’s growth Networking - events in the tech industry happen constantly in our campuses, ranging from popular Meetups to multi-day international conferences To learn more about Galvanize, visit galvanize.com (http://galvanize.com/)",
+  "conference_id": null,
+  "date_time": "2016-11-16T18:00:00-08:00",
+  "end_time": "2016-11-16T20:00:00-08:00",
+  "event_id": "234786637",
+  "event_title": "Becoming a Self-Driving Car Engineer",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-becoming-a-self-driving-car-engineer-david-silver:becoming-a-self-driving-car-engineer",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-becoming-a-self-driving-car-engineer-david-silver.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-becoming-a-self-driving-car-engineer-david-silver"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/234786637/"
+  ],
+  "speaker_ids": [
+    "speaker:david-silver"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:david-silver",
+      "name": "David Silver",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Becoming a Self-Driving Car Engineer",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/234786637/"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "company:chartboost",
+  "name": "Chartboost",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/239736345/"
+  ],
+  "speaker_ids": [
+    "speaker:senior-director"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-context-is-all-you-need-the-art-and-science-of-information-design-lena-hall-akamai:context-is-all-you-need-the-art-and-science-of-information-design",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2-talk-1:securing-hadoop-data-use-cases-for-data-centric-security-in-hadoop",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov:spark-in-adtech",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-the-4th-ai-alliance-meetup-the-unstructured-data-meetup-christopher-nguyen:the-4th-ai-alliance-meetup-the-unstructured-data-meetup"
+  ],
+  "type": "company"
+}

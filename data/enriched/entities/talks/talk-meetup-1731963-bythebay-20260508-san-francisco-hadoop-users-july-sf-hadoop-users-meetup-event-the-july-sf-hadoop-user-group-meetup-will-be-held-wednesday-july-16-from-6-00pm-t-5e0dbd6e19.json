@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2014-07-16T18:00:00-07:00",
+  "end_time": "2014-07-16T21:00:00-07:00",
+  "event_id": "189897052",
+  "event_title": "July SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-july-sf-hadoop-users-meetup-event:the-july-sf-hadoop-user-group-meetup-will-be-held-wednesday-july-16-from-6-00pm-to-8-00pm",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-july-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-july-sf-hadoop-users-meetup-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/189897052/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The July SF Hadoop User Group meetup will be held Wednesday, July 16 from 6:00pm to 8:00pm. This meetup will be hosted",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/189897052/"
+}

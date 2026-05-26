@@ -1,0 +1,47 @@
+{
+  "abstract": "Note that this event is posted in multiple meetup groups world-wide. If this time is not suitable for your time zone, please join the session offered at the alternate time slot. When the data you have is not enough to use with your ML models, extracting data from other sources such as the internet become critical to the success of your model's results. Increasingly, sentiment analysis of textual data can provide valuable insights for making effecting decisions and policies. Please join us for this tutorial where you will have the opportunity to learn to scrape data from the web, and how to perform sentiment analysis on the extracted text. To get the most out of this tutorial, you are encouraged to follow along with the instructor, however not a requirement to benefit from the session. The tutorial will be done in a Watson Studio Jupyter Notebook , but please feel free to use the python compiler of your choice. In preparation, please have libraries beautifulsoup4 and nltk installed beforehand. Presenter: Jonathan Messiha Jonathan is a Data Scientist on IBM's Data Science and AI Elite team. Jonathan has earned a Bachelor of IT with a major in Networking and IT Security from Ontech University, and has completed his Master of Management in Artificial Intelligence from Smith School of Business at Queen's University. Jonathan is an enthusiast in AI and process automation with experience writing automated, end-to-end data and AI pipelines. \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/ibm/j.php?RGID=r5f17e13076818d2722cfdc147b41641a",
+  "conference_id": null,
+  "date_time": "2022-11-10T15:30:00-05:00",
+  "end_time": "2022-11-10T16:30:00-05:00",
+  "event_id": "289529717",
+  "event_title": "Web-scraping and sentiment analysis for enhanced data analytics & ML modelling",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-web-scraping-and-sentiment-analysis-for-enhanced-data-analytics-ml-modelling-jonathan-messiha-3:web-scraping-and-sentiment-analysis-for-enhanced-data-analytics-ml-modelling",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-web-scraping-and-sentiment-analysis-for-enhanced-data-analytics-ml-modelling-jonathan-messiha-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-web-scraping-and-sentiment-analysis-for-enhanced-data-analytics-ml-modelling-jonathan-messiha-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289529717/"
+  ],
+  "speaker_ids": [
+    "speaker:jonathan-messiha",
+    "speaker:jonathan-messiha-jonathan"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:jonathan-messiha",
+      "name": "Jonathan Messiha",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:jonathan-messiha-jonathan",
+      "name": "Jonathan Messiha Jonathan",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Web-scraping and sentiment analysis for enhanced data analytics & ML modelling",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/289529717/"
+}

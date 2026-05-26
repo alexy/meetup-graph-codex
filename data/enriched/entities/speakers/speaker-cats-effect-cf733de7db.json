@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:cats-effect",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Cats Effect",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-essential-effects-adam-rosien.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-essential-effects-adam-rosien",
+    "bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/275583573/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-1:essential-effects"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

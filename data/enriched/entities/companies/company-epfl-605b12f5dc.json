@@ -1,0 +1,30 @@
+{
+  "id": "company:epfl",
+  "name": "EPFL",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-applied-materialization-when-macros-meet-implicits-with-eugene-burmako-eugene-burmako-epfl-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-applied-materialization-when-macros-meet-implicits-with-eugene-burmako-eugene-burmako-epfl-2",
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/121848382/",
+    "https://www.meetup.com/sf-scala/events/232570582/"
+  ],
+  "speaker_ids": [
+    "speaker:eugene-burmako",
+    "speaker:guillaume-martres"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl:sf-scala-unmeetup-bloomberg-tech-hub",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-eventbrite-registration-next-generation-macros-for-scala-eugene-burmako:next-generation-macros-for-scala",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako:scala-days-2018-recap",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid-eugene-burmako:scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-ducktape-holding-scala-s-productivity-together-scala-center-aleksander-rainko-scalac:ducktape-holding-scala-s-productivity-together-scala-center",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko:ducktape-holding-scala-s-productivity-together",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko:ducktape-scala-productivity-holden-karau-scala-center"
+  ],
+  "type": "company"
+}

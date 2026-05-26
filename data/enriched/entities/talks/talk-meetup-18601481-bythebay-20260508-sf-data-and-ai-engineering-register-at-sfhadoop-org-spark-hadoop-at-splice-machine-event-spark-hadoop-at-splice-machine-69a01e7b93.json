@@ -1,0 +1,31 @@
+{
+  "abstract": "Note: Scalæ By the Bay (http://scala.bythebay.io) is less than a month away at Twitter HQ. It is the deepest and broadest non-vendor conference placing Spark in the context of Hadoop, the SMACK Stack (http://chief.sc/smackstack), mircoservices, and streaming architectures. Use the member discount you received via email to register soon! Please note: this is a cross-post from SF Hadoop (http://sfhadoop.org). You need to register there! The meetup will be full and we'll have to use RVSP list for check-in. Clicking Yes here will do nothing. As of now, SF Hadoop and SF Spark meetups are merged. Due to meetup.com limitations we cannot physically move members of one to another, so we'll cross-announce topics on each. If you ever need to check what's going on, it's easy: http://sfhadoop.org , sfspark.org. And join both of course! Our inaugural joint event at Splice Machine (https://www.meetup.com/hadoopsf/events/234247659/) couldn't have been a better symbol of Hadoop and Spark co-evolution: taking advantage of HBase for OLAP/OLTP and Spark for in-memory flexibility. Join us at SF Hadoop!",
+  "conference_id": null,
+  "date_time": "2016-11-08T18:00:00-08:00",
+  "end_time": "2016-11-08T21:00:00-08:00",
+  "event_id": "234830196",
+  "event_title": "[register at sfhadoop.org] Spark+Hadoop at Splice Machine",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-register-at-sfhadoop-org-spark-hadoop-at-splice-machine-event:spark-hadoop-at-splice-machine",
+  "kind": "announcement",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-register-at-sfhadoop-org-spark-hadoop-at-splice-machine-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-register-at-sfhadoop-org-spark-hadoop-at-splice-machine-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/234830196/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "Spark+Hadoop at Splice Machine",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/234830196/"
+}

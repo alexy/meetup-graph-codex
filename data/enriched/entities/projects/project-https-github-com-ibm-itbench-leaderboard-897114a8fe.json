@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/IBM/ITBench-Leaderboard"
+  ],
+  "github_repository": "https://github.com/IBM/ITBench-Leaderboard",
+  "id": "project:https-github-com-ibm-itbench-leaderboard",
+  "name": "ITBench-Leaderboard",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-itbench-new-open-source-benchmark-suite-for-ai-agents-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-itbench-new-open-source-benchmark-suite-for-ai-agents-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/308436218/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-itbench-new-open-source-benchmark-suite-for-ai-agents-event:itbench-new-open-source-benchmark-suite-for-ai-agents"
+  ],
+  "type": "project"
+}

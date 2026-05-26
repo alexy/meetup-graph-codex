@@ -1,0 +1,47 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval-vino-duraisamy-snowflake-josh-reini:donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [
+    "project:apache-iceberg"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval-vino-duraisamy-snowflake-josh-reini-developer-advocate-for-open-source-ai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval-vino-duraisamy-snowflake-josh-reini-developer-advocate-for-open-source-ai"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:vino-duraisamy",
+    "speaker:josh-reini"
+  ],
+  "speakers": [
+    {
+      "company_name": "Snowflake ❄️",
+      "id": "speaker:vino-duraisamy",
+      "name": "Vino Duraisamy",
+      "title": "Developer Advocate"
+    },
+    {
+      "company_name": "Open Source AI @ Snowflake ❄️",
+      "id": "speaker:josh-reini",
+      "name": "Josh Reini",
+      "title": "Developer Advocate"
+    }
+  ],
+  "tags": [
+    "Open Data Lake",
+    "RAG"
+  ],
+  "title": "Donut Kill My Vibe: Enriching RAG with Apache Iceberg™ for Sweet, Structured Retrieval",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/donut-kill-my-vibe%3A-enriching-rag-with-apache-iceberg%E2%84%A2-for-sweet%2C-structured-retrieval"
+}

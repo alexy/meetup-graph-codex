@@ -1,0 +1,31 @@
+{
+  "abstract": "Applying AI to science problems is an active research area, aiming to speedup model development and enable better and faster Scientific discovery and engineering design. In many domains, this requires learning mapping between function spaces defined on continuous domains, e.g. to learn spatiotemporal processes or the solution operator to partial differential equations. Neural operators generalize traditional deep learning to do this and can replace simulators while being several orders of magnitude faster. In this talk I will give an introduction these neural operators and how they work and I will give an overview of their application to concrete problems such as weather forecasting Jean Kossaifi is a senior research scientist at NVIDIA, working on fundamental ML and algorithms for AI. He has worked extensively on a variety of problems in machine learning and computer vision and is currently focused on applying them to AI for Science. Prior to this he was a research scientist and founding member at the Samsung AI Center in Cambridge, following his PhD in AI at Imperial College. He created and contributes to several Python open source libraries, including TensorLy, neuraloperator, tensorly-quantum and more, all with the goal to make the latest works simple and accessible to all",
+  "conference_id": null,
+  "date_time": "2023-10-18T16:00:00-07:00",
+  "end_time": "2023-10-18T19:00:00-07:00",
+  "event_id": "296052494",
+  "event_title": "PyTorch Conference + Bay Area AI Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris-talk-4:ai-for-science-with-neural-operators-jean-kossaifi-nvidia",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris-talk-4"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/296052494/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "AI for Science with Neural Operators, Jean Kossaifi, NVIDIA",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/296052494/"
+}

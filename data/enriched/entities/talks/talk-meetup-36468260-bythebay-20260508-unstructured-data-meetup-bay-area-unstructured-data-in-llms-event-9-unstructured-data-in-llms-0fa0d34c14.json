@@ -1,0 +1,36 @@
+{
+  "abstract": "This is an in-person event! Registration is required to get in. Github will email you a form the day before the event, which you will need to complete for your access pass. Registration will close 2 days before the event. Topic: Connecting your unstructured data with Generative LLMs What we’ll do: Have some food and refreshments. Hear three exciting talks about unstructured data and generative AI. 5:30 - 6:00 - Welcome/Networking/Registration 6:05 - 6:30 - Jiang Chen, Head of Ecosystem & AI Platform, Zilliz 6:35 - 7:00 - Mike Del Balso, CEO and Co-Founder, Tecton 7:05 - 7:30 - Chaoyu Yang, CEO & Founder, BentoML 7:35 - 7:45 - Yi Zhang, CEO & Co-founder, Relari.ai 7:45 - 8:30 - Networking Who Should attend: Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. Tech Talk 1: Building RAG with self-deployed Milvus vector database and Snowpark Container Services Speaker : Jiang Chen Abstract : This talk will give hands-on advice on building RAG applications with an open-source Milvus database deployed as a docker container. We will also introduce the integration of Milvus with Snowpark Container Services. Tech Talk 2: Full RAG: A Modern Architecture for Hyperpersonalization Speaker : Mike Del Balso Abstract : Mike Del Balso, CEO & Co-Founder at Tecton, presents \"Full RAG,\" a novel approach to AI recommendation systems, aiming to push beyond the limitations of traditional models through a deep integration of contextual insights and real-time data, leveraging the Retrieval-Augmented Generation architecture. This talk will outline Full RAG's potential to significantly enhance personalization, address engineering challenges such as data management and model training, and introduce data enrichment with reranking as a key solution. Attendees will gain crucial insights into the importance of hyperpersonalization in AI, the capabilities of Full RAG for advanced personalization, and strategies for managing complex data integrations for deploying cutting-edge AI solutions. Tech Talk 3 : RAG as a service with BentoML Speaker : Chaoyu Yang, BentoML Abstract : Building Retrieval-Augmented Generation (RAG) systems with open-source and custom AI models is a complex task. This talk explores the challenges in productionizing RAG systems, including retrieval performance, response synthesis, and evaluation. We’ll discuss how to leverage open-source models like text embeddings, language models, and custom fine-tuned models to enhance RAG performance. Additionally, we’ll cover how BentoML can help orchestrate and scale these AI components efficiently, ensuring seamless deployment and management of RAG systems in the cloud. Lightning demo: Using Synthetic Data to Test and Fine-Tune LLM applications Speaker : Yi Zhang, Relari ai Abstract : In this talk, Yi will walk through a data-driven approach to test and improve LLM / RAG applications. In particular, he will cover how to use Relari's synthetic data platform and open-source evaluation framework \"continuous-eval\" to systematically harden and fine-tune LLM systems. Relari is backed by top investors including Y Combinator, Soma Capital and General Catalyst. When: June 3, 2024 5:30PM Where: This is an in-person event! Registration is required to get in. Registration will close 2 days before the event. Co-sponsored by Zilliz (maintainers of Milvus) and Tecton. Can't make it in person? We will also be streaming live: https://www.twitch.tv/vectordatabase",
+  "conference_id": null,
+  "date_time": "2024-06-03T17:30:00-07:00",
+  "end_time": "2024-06-03T20:30:00-07:00",
+  "event_id": "300622146",
+  "event_title": "Unstructured Data in LLMs",
+  "github_repositories": [
+    "https://github.com/milvus-io/milvus"
+  ],
+  "id": "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-9:unstructured-data-in-llms",
+  "kind": "workshop",
+  "meetup_id": "meetup:36468260",
+  "project_ids": [
+    "project:https-github-com-milvus-io-milvus",
+    "project:milvus"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-9.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-9"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/300622146/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Unstructured Data in LLMs",
+  "type": "talk",
+  "url": "https://www.meetup.com/unstructured-data-sf/events/300622146/"
+}

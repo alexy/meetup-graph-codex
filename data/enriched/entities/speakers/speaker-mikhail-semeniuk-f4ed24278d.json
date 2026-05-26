@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:mikhail-semeniuk",
+  "meetup_ids": [
+    "meetup:18601481"
+  ],
+  "name": "Mikhail Semeniuk",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-mleap-scaling-machine-learning-from-research-to-production-hollin-wilkins-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-mleap-scaling-machine-learning-from-research-to-production-hollin-wilkins.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-mleap-scaling-machine-learning-from-research-to-production-hollin-wilkins-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-mleap-scaling-machine-learning-from-research-to-production-hollin-wilkins"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/239378825/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-mleap-scaling-machine-learning-from-research-to-production-hollin-wilkins:mleap-scaling-machine-learning-from-research-to-production"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

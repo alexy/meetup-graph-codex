@@ -1,0 +1,31 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:clint-sharp",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Clint Sharp",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-november-sf-hadoop-users-meetup-clint-sharp-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-march-2013-san-francisco-hadoop-user-meetup-clint-sharp.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-november-sf-hadoop-users-meetup-clint-sharp-2",
+    "bythebay-20260508-san-francisco-hadoop-users-march-2013-san-francisco-hadoop-user-meetup-clint-sharp-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/148676842/",
+    "https://www.meetup.com/hadoopsf/events/105950932/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-march-2013-san-francisco-hadoop-user-meetup-clint-sharp-talk-2:using-splunk-and-hadoop-to-deliver-best-in-class-operational-intelligence-and-customer-ana"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

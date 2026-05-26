@@ -1,0 +1,21 @@
+{
+  "id": "company:sourcegraph",
+  "name": "Sourcegraph",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-open-source-ai-coding-assistants-the-future-of-software-development-beyang-liu-sourcegraph.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-open-source-ai-coding-assistants-the-future-of-software-development-beyang-liu-sourcegraph"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:beyang-liu"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-open-source-ai-coding-assistants-the-future-of-software-development-beyang-liu-sourcegraph:open-source-ai-coding-assistants-the-future-of-software-development",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-luma-registration-required-ai-agent-sf-7-coding-agents-event:agenda"
+  ],
+  "type": "company"
+}

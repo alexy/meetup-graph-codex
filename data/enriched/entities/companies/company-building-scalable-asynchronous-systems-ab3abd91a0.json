@@ -1,0 +1,26 @@
+{
+  "id": "company:building-scalable-asynchronous-systems",
+  "name": "building scalable asynchronous systems",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-rsvp-at-reactive-systems-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-rsvp-at-reactive-systems-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce",
+    "bythebay-20260508-scale-by-the-bay-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce-2",
+    "bythebay-20260508-scale-by-the-bay-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/270368246/",
+    "https://www.meetup.com/bythebay/events/270368083/"
+  ],
+  "speaker_ids": [
+    "speaker:spring-reactor"
+  ],
+  "talk_ids": [
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce:reactive-microservices-end-to-end-with-grpc",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-rsvp-at-reactive-systems-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce:reactive-microservices-end-to-end-with-grpc"
+  ],
+  "type": "company"
+}

@@ -1,0 +1,33 @@
+{
+  "abstract": "The Berlin-based platform Zalando is one of Europe's largest ecommerce companies. Our +800-member technology team began implementing Scala in 2014 as we started to transform our monolithic architecture into microservices. Microservices have empowered our engineering team to tackle Scala development through a variety of initiatives, while owning decision-making and quality end-to-end. In this brief talk, I'll describe some of the products we're building with Scala, including analytics tools and Play-Swagger, an open source collaboration between my team (Brand Solutions) and Typesafe's James Roper. As Delivery Lead, Brand Solutions at Zalando, Alexander Kops oversees development related to core functions important to Zalando's brand partners--from analytics to user services. This is his second stint with Zalando: In his previous turn with the company, he completely rewrote its PHP-based system to a modular Java-based architecture. As a Scala and Play Framework enthusiast, he is driving adoption of these technologies within Zalando. He has experience leading both front- and back-end engineering teams and has also helped lead Zalando’s intensive mentoring initiatives",
+  "conference_id": null,
+  "date_time": "2015-10-27T18:30:00-07:00",
+  "end_time": "2015-10-27T21:30:00-07:00",
+  "event_id": "225783151",
+  "event_title": "Scala Microservices at the Biggest Tech Company You've (probably) Never Heard Of",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-microservices-at-the-biggest-tech-company-you-ve-probably-never-heard-of-event:scala-microservices-at-the-biggest-tech-company-you-ve-probably-never-heard-of",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:the-berlin"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-microservices-at-the-biggest-tech-company-you-ve-probably-never-heard-of-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-microservices-at-the-biggest-tech-company-you-ve-probably-never-heard-of-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/225783151/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scala Microservices at the Biggest Tech Company You've (probably) Never Heard Of",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/225783151/"
+}

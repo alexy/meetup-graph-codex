@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:the-simple-build",
+  "name": "The Simple Build",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-josh-suereth-sbt-introduction-and-cookbook-event.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-josh-suereth-sbt-introduction-and-cookbook-frank-sommers.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-josh-suereth-sbt-introduction-and-cookbook-event",
+    "bythebay-20260508-scala-bay-josh-suereth-sbt-introduction-and-cookbook-frank-sommers"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/44582202/",
+    "https://www.meetup.com/scala-bay/events/44582312/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-josh-suereth-sbt-introduction-and-cookbook-event:josh-suereth-sbt-introduction-and-cookbook",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-josh-suereth-sbt-introduction-and-cookbook-frank-sommers:josh-suereth-sbt-introduction-and-cookbook"
+  ],
+  "type": "project"
+}

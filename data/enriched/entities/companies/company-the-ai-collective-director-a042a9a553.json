@@ -1,0 +1,16 @@
+{
+  "id": "company:the-ai-collective-director",
+  "name": "The AI Collective, Director",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-harnessing-event-driven-and-multi-agent-architectures-for-complex-workflows-in-generative-ai-system-mary-grygleski-the-ai-collective-director.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-harnessing-event-driven-and-multi-agent-architectures-for-complex-workflows-in-generative-ai-system-mary-grygleski-the-ai-collective-director"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:mary-grygleski"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "company:gantry",
+  "name": "Gantry",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-test-driven-development-for-large-language-model-applications-josh-tobin-gantry.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-test-driven-development-for-large-language-model-applications-josh-tobin-gantry"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:josh-tobin"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-test-driven-development-for-large-language-model-applications-josh-tobin-gantry:test-driven-development-for-large-language-model-applications"
+  ],
+  "type": "company"
+}

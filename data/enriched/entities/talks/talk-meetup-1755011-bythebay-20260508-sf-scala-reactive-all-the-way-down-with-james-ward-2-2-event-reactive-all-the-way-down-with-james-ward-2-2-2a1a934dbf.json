@@ -1,0 +1,31 @@
+{
+  "abstract": "In which James builds upon the previous day's SBT-Web-fu and live codes a Play 2.3 app! Reactive All The Way Down The world is going Reactive but not just for the back-end; UIs are also becoming Reactive. In this session we will walk through how to build an end-to-end Reactive application with Scala, Play Framework, Akka, and AngularJS. Fun fact: this is Alexy's birthday. Thanks James for coming all the way from Colorado to help us celebrate with Scala folks in SF at SF Scala!:) Agenda 6:00 doors open 6:30 announcements, including 1-minute hiring pitches -- prepare yours! 6:40 talks begin RSVP strictly enforced, pls manage yours responsibly",
+  "conference_id": null,
+  "date_time": "2014-04-11T18:00:00-07:00",
+  "end_time": "2014-04-11T21:00:00-07:00",
+  "event_id": "175274442",
+  "event_title": "Reactive All the Way Down with James Ward, 2/2",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-reactive-all-the-way-down-with-james-ward-2-2-event:reactive-all-the-way-down-with-james-ward-2-2",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-reactive-all-the-way-down-with-james-ward-2-2-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-reactive-all-the-way-down-with-james-ward-2-2-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/175274442/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Reactive All the Way Down with James Ward, 2/2",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/175274442/"
+}

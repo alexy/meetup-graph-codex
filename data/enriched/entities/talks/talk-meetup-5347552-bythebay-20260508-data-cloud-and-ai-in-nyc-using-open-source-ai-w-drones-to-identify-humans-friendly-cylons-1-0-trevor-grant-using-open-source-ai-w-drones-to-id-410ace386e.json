@@ -1,0 +1,47 @@
+{
+  "abstract": "AI drones have invaded Strata Data Conference. Attend this meetup and learn how to create your own Friendly Cylons. Trevor will show you how he hacked the drones and connected the camera feed to Machine Learning model to identify humans! This project uses all open source components and will be available on GitHub so we can create an army of Cylons. This project uses IBM Data Science Experience to build the Spark model and HDP open projects like Flink, Solr and Kafka to bring Cylons to life! Watch out New York! Presenter: Trevor Grant, IBM https://secure.meetupstatic.com/photos/event/b/4/f/1/600 464326321.jpeg Bio: Trevor Grant is committer on the Apache Mahout project and Open Source Technical Evangelist at IBM. He holds an MS in Applied Math and an MBA from Illinois State University. Trevor is an organizer of the newly formed Chicago Apache Flink Meet Up, and has presented at Flink Forward, ApacheCon, Apache Big Data, and other meetups nationwide. YOU DO NOT HAVE TO BE REGISTERED FOR STRATA DATA CONFERENCE TO ATTEND THIS MEETUP. This meetup is hosted by IBM and Hortonworks. Light refreshments will be served",
+  "conference_id": null,
+  "date_time": "2017-09-25T18:00:00-04:00",
+  "end_time": "2017-09-25T20:00:00-04:00",
+  "event_id": "243156555",
+  "event_title": "Using Open Source AI w/ Drones to identify humans.... Friendly Cylons 1.0",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0-trevor-grant:using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:apache-mahout",
+    "project:apache-flink",
+    "project:machine-learning",
+    "project:this",
+    "project:cylons-this",
+    "project:spark"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0-trevor-grant.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0-trevor-grant"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/243156555/"
+  ],
+  "speaker_ids": [
+    "speaker:trevor-grant"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:trevor-grant",
+      "name": "Trevor Grant",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Using Open Source AI w/ Drones to identify humans.... Friendly Cylons 1.0",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/243156555/"
+}

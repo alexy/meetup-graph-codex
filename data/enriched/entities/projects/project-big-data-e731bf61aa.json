@@ -1,0 +1,31 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:big-data",
+  "name": "Big Data",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-at-typesafe-adriaan-moors.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-data-management-for-hadoop-and-spark-on-premise-or-in-the-cloud-michael-harkins.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-mohammed-guller-demystifying-big-data-and-apache-spark-event.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-101-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-at-typesafe-adriaan-moors",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-data-management-for-hadoop-and-spark-on-premise-or-in-the-cloud-michael-harkins",
+    "bythebay-20260508-scala-bay-mohammed-guller-demystifying-big-data-and-apache-spark-event",
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-101-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/153854762/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/226995075/",
+    "https://www.meetup.com/scala-bay/events/229524842/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/229851313/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-at-typesafe-adriaan-moors:scala-at-typesafe",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-data-management-for-hadoop-and-spark-on-premise-or-in-the-cloud-michael-harkins:continuous-data-management-for-hadoop-and-spark-on-premise-or-in-the-cloud",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-mohammed-guller-demystifying-big-data-and-apache-spark-event:mohammed-guller-demystifying-big-data-and-apache-spark",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-spark-101-event-talk-2:spark-101mohammed-guller-principal-architect-glassbeam"
+  ],
+  "type": "project"
+}

@@ -1,0 +1,28 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:javaone-sf-other",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "JavaOne SF. Other",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-konrad-malawski-reactive-streams-akka-streams-and-the-jdk-ecosystem-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-konrad-malawski-reactive-streams-akka-streams-and-the-jdk-ecosystem-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/225079080/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-konrad-malawski-reactive-streams-akka-streams-and-the-jdk-ecosystem-event:konrad-malawski-reactive-streams-akka-streams-and-the-jdk-ecosystem"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

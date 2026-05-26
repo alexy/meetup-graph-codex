@@ -1,0 +1,44 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2024-07-16T17:30:00-07:00",
+  "end_time": "2024-07-16T20:30:00-07:00",
+  "event_id": "301140497",
+  "event_title": "Unstructured Data in LLMs",
+  "github_repositories": [
+    "https://github.com/milvus-io/milvus"
+  ],
+  "id": "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-11:multimodal-embeddings",
+  "kind": "talk",
+  "meetup_id": "meetup:36468260",
+  "project_ids": [
+    "project:https-github-com-milvus-io-milvus"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-11.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-11"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/301140497/"
+  ],
+  "speaker_ids": [
+    "speaker:who-should"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:who-should",
+      "name": "Who Should",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Multimodal Embeddings",
+  "type": "talk",
+  "url": "https://www.meetup.com/unstructured-data-sf/events/301140497/"
+}

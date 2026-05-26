@@ -1,0 +1,31 @@
+{
+  "abstract": "This is the meetup of our partner Oaklandish meetup DriveAI: https://www.meetup.com/DriveAI/events/239468061/ -- please register there. They are building a decentralized car data network. Check it out if you're in the East Bay. DriveAI folks say: We're building a decentralized network of self-driving car data. Learn how you can get involved with your current skill-set and what you could learn. Find and team up with others - it's fun and you'll progress faster. Have a car/project you've been working on? Bring it by! Doors open at 5:45 pm",
+  "conference_id": null,
+  "date_time": "2017-05-17T17:45:00-07:00",
+  "end_time": "2017-05-17T20:45:00-07:00",
+  "event_id": "239766769",
+  "event_title": "[cross-post: partner meetup] DriveAI: open data for self-driving cars!",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-cross-post-partner-meetup-driveai-open-data-for-self-driving-cars-event:driveai-open-data-for-self-driving-cars",
+  "kind": "announcement",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-cross-post-partner-meetup-driveai-open-data-for-self-driving-cars-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-cross-post-partner-meetup-driveai-open-data-for-self-driving-cars-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/239766769/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "DriveAI: open data for self-driving cars!",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/239766769/"
+}

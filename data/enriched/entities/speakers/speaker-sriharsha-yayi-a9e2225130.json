@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:sriharsha-yayi",
+  "meetup_ids": [
+    "meetup:36468260"
+  ],
+  "name": "Sriharsha Yayi",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-south-bay-edition-bill-zhang-2.json",
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-south-bay-edition-bill-zhang.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-south-bay-edition-bill-zhang-2",
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-south-bay-edition-bill-zhang"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/302334174/"
+  ],
+  "talk_ids": [
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-south-bay-edition-bill-zhang:unstructured-data-meetup-south-bay-edition"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

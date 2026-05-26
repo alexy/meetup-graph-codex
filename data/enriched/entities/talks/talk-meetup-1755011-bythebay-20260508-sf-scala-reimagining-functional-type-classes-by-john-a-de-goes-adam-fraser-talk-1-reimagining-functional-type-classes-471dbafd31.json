@@ -1,0 +1,63 @@
+{
+  "abstract": "Talk Summary For decades, the Functor, Monoid, and Foldable type class hierarchies have dominated functional programming. Implemented in libraries like Scalaz and Cats, these type classes have an ancient origin in Haskell, and they have repeatedly proven useful for advanced functional programmers, who use them to maximize code reuse and increase code correctness Yet, as these type classes have been copied into Scala and aged, there is a growing awareness of their drawbacks, ranging from being difficult to teach to weird operators that don’t make sense in Scala (ap from Applicative), to overlapping and lawless type classes (Semigroupal), to a complete inability to abstract over data types that possess related structure (such as isomorphic applicatives) In this presentation, John A. De Goes introduces a new Scala library with a completely different factoring of functional type classes-one which throws literally everything away and starts from a clean slate. In this new factoring, type classes leverage Scala’s strengths, including variance and modularity. Pieces fit together cleanly and uniformly, and in a way that satisfies existing use cases, but enables new ones never before possible. Finally, type classes are named, organized, and described in a way that makes teaching them easier, without compromising on algebraic principles If you’ve ever thought functional type classes were too impractical or too confusing or too restrictive, now’s your chance to get a fresh perspective on a library that just might make understanding functional programming easier than ever before!",
+  "conference_id": null,
+  "date_time": "2020-07-30T17:30:00-07:00",
+  "end_time": "2020-07-30T19:30:00-07:00",
+  "event_id": "270897048",
+  "event_title": "Reimagining Functional Type Classes by John A. De Goes",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1:reimagining-functional-type-classes",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:scala"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/270897048/"
+  ],
+  "speaker_ids": [
+    "speaker:john-a",
+    "speaker:alexy-khrabrov",
+    "speaker:salar-rahmanian",
+    "speaker:adam-fraser"
+  ],
+  "speakers": [
+    {
+      "company_name": "De Goes",
+      "id": "speaker:john-a",
+      "name": "John A",
+      "title": "De Goes introduces a new Scala library"
+    },
+    {
+      "company_name": null,
+      "id": "speaker:alexy-khrabrov",
+      "name": "Alexy Khrabrov",
+      "title": null
+    },
+    {
+      "company_name": "5.45pm Reimagining Functional Type Classes by",
+      "id": "speaker:salar-rahmanian",
+      "name": "Salar Rahmanian",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:adam-fraser",
+      "name": "Adam Fraser",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Reimagining Functional Type Classes",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/270897048/"
+}

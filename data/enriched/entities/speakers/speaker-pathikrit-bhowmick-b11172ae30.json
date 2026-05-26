@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:coatue-management",
+      "company_name": "Coatue Management",
+      "title": "Director of Engineering"
+    }
+  ],
+  "company_id": "company:coatue-management",
+  "company_ids": [
+    "company:coatue-management"
+  ],
+  "company_name": "Coatue Management",
+  "company_names": [
+    "Coatue Management"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:pathikrit-bhowmick",
+  "meetup_ids": [],
+  "name": "Pathikrit Bhowmick",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-full-stack-scala-web-application-pathikrit-bhowmick-coatue-management.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-full-stack-scala-web-application-pathikrit-bhowmick-coatue-management"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-full-stack-scala-web-application-pathikrit-bhowmick-coatue-management:full-stack-scala-web-application"
+  ],
+  "title": "Director of Engineering",
+  "titles": [
+    "Director of Engineering"
+  ],
+  "type": "speaker"
+}

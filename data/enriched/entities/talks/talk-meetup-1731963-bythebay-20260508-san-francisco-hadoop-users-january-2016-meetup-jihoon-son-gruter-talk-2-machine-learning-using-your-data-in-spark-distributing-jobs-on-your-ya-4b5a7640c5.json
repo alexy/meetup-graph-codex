@@ -1,0 +1,40 @@
+{
+  "abstract": "There's a wealth of data on your cluster. Learn how to use the open source release of Sframes by Dato, Graphlab Create and Dato Distributed to develop your machine learning models without taking the data out of your cluster, and taking advantage of job distribution In this session we will show you how to extract data from your spark cluster and convert it to an Sframe and use Graphlab to build a model without it ever leaving your cluster. Next we will use Dato distributed to train the model and finally we will convert the Sframe back to RDD Dato's machine learning platform makes sophisticated machine learning easy to build, instant to deploy and versatile to manage. In 2014 Dato (formerly known as Graphlab) certified the initial product Graphlab Create to incorporate large-scale machine learning and graph analytics algorithms at scale. Dato Distributed is the latest Cloudera certified product and is built to scale machine learning tasks by distributing machine learning jobs on a cluster of machines",
+  "conference_id": null,
+  "date_time": "2016-01-12T18:00:00-08:00",
+  "end_time": "2016-01-12T20:00:00-08:00",
+  "event_id": "225350988",
+  "event_title": "January 2016 Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter-talk-2:machine-learning-using-your-data-in-spark-distributing-jobs-on-your-yarn-cluster",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/225350988/"
+  ],
+  "speaker_ids": [
+    "speaker:susan-romero"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:susan-romero",
+      "name": "Susan Romero",
+      "title": "Bio: Susan is a software engineer"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Machine Learning using your data in Spark & distributing jobs on your YARN cluster",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/225350988/"
+}

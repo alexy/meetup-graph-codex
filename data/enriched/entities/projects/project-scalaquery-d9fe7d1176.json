@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:scalaquery",
+  "name": "ScalaQuery",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-typesafe-slick-at-ticketfly-in-san-francisco-event.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-typesafe-slick-at-wize-commerce-in-san-mateo-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-typesafe-slick-at-ticketfly-in-san-francisco-event",
+    "bythebay-20260508-scala-bay-typesafe-slick-at-wize-commerce-in-san-mateo-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/80268902/",
+    "https://www.meetup.com/scala-bay/events/80269142/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-typesafe-slick-at-ticketfly-in-san-francisco-event:typesafe-slick-at-ticketfly-in-san-francisco",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-typesafe-slick-at-wize-commerce-in-san-mateo-event:typesafe-slick-at-wize-commerce-in-san-mateo"
+  ],
+  "type": "project"
+}

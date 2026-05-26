@@ -1,0 +1,33 @@
+{
+  "abstract": "You have to register on Luma to attend! We have two great talks from the AI Alliance members Neo4j and the host Anyscale! 1\\. LLM \\+ Graph Database for RAG LLMs can provide answers that sound realistic to almost any question, even if those answers are entirely made up. To anchor an LLM in reality and mitigate the risk of generating false information or unauthorized access to sensitive data, try incorporating a Knowledge Graph. This prevents the model from producing inaccurate responses and ensures a more reliable and secure outcome. This presentation will show you the benefits of Graph Databases over regular databases and how to use GenAI with RAG to eliminate hallucinations, enforce security, and improve accuracy. We will also discuss why a vector index plus Knowledge Graph provides better, smarter, faster results than a pure vector database. Andreas Kollegger is a technological humanist. Starting at NASA, Andreas designed systems from scratch to support science missions. Then in Zambia, he built medical informatics systems to apply technology for social good. Now with Neo4j, he is democratizing graph databases to validate and extend our intuitions about how the world works. Everything is connected. 2\\. Build RAG\\-based large language model applications with Ray and KubeRay on Kubernetes Large Language Models (LLMs) have changed the way we interact with information. A base LLM is only aware of the information it was trained on. Retrieval augmented generation (RAG) can address this issue by providing context of additional data sources. In this session, we’ll build a RAG-based LLM application that incorporates external data sources to augment an OSS LLM. We’ll show how to scale the workload with Ray and Kubernetes, and showcase a chatbot agent that gives factual answers. Kai-Hsun Chen is a software engineer on the Ray Core team at Anyscale and the primary maintainer of KubeRay. He is an open-source enthusiast, as well as a committer and PMC member of Apache Submarine. Additionally, he is an interdisciplinary researcher with publications spanning electrical design automation, distributed computing, and system reliability",
+  "conference_id": null,
+  "date_time": "2024-04-18T17:00:00-07:00",
+  "end_time": "2024-04-18T20:00:00-07:00",
+  "event_id": "300217880",
+  "event_title": "[Luma registration required!] LLM + Graph Database for RAG and RAG with Ray!",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-luma-registration-required-llm-graph-database-for-rag-and-rag-with-ray-event:llm-graph-database-for-rag-and-rag-with-ray",
+  "kind": "announcement",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [
+    "project:apache-submarine"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-luma-registration-required-llm-graph-database-for-rag-and-rag-with-ray-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-luma-registration-required-llm-graph-database-for-rag-and-rag-with-ray-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/300217880/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "LLM + Graph Database for RAG and RAG with Ray!",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/300217880/"
+}

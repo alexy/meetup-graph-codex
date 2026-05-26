@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:smart-pricing",
+  "meetup_ids": [
+    "meetup:18601481"
+  ],
+  "name": "Smart Pricing",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/232021862/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park:building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

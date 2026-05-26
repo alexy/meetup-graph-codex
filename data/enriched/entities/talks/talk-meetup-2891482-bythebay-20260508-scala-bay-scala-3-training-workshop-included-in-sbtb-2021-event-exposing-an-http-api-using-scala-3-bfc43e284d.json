@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2021-10-27T09:00:00-07:00",
+  "end_time": "2021-10-27T12:00:00-07:00",
+  "event_id": "281527141",
+  "event_title": "Scala 3 Training Workshop included in SBTB 2021",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-3-training-workshop-included-in-sbtb-2021-event:exposing-an-http-api-using-scala-3",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-3-training-workshop-included-in-sbtb-2021-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-scala-3-training-workshop-included-in-sbtb-2021-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/281527141/"
+  ],
+  "speaker_ids": [
+    "speaker:adam-warski"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:adam-warski",
+      "name": "Adam Warski",
+      "title": "one"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Exposing an HTTP API using Scala 3",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/281527141/"
+}

@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:arshak-navruzyan",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Arshak Navruzyan",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-studio-ml-open-source-model-management-framework-arshak-navruzyan-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-studio-ml-open-source-model-management-framework-arshak-navruzyan.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-studio-ml-open-source-model-management-framework-arshak-navruzyan-2",
+    "bythebay-20260508-bay-area-ai-studio-ml-open-source-model-management-framework-arshak-navruzyan"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/243783305/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-studio-ml-open-source-model-management-framework-arshak-navruzyan:studio-ml-open-source-model-management-framework"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

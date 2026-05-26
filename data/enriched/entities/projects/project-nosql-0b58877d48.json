@@ -1,0 +1,39 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:nosql",
+  "name": "NoSQL",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event-3.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-mobile-application-development-with-ibm-cloudant-dbaas-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-building-a-deep-research-agent-using-mcp-agent-andrew-hoh.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event-3",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-mobile-application-development-with-ibm-cloudant-dbaas-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-building-a-deep-research-agent-using-mcp-agent-andrew-hoh"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/211789172/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/218536102/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/219936169/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/221032666/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/230067875/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/311169111/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event:a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event-2:a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event-3:a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud-event-4:a-technical-introduction-to-cloudant-a-json-data-layer-in-the-cloud",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-mobile-application-development-with-ibm-cloudant-dbaas-event:mobile-application-development-with-ibm-cloudant-dbaas",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-building-a-deep-research-agent-using-mcp-agent-andrew-hoh:building-a-deep-research-agent-using-mcp-agent"
+  ],
+  "type": "project"
+}

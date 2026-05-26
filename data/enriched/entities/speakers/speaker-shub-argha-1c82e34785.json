@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:arcade-dev",
+      "company_name": "Arcade.dev",
+      "title": "Head of Solutions Engineering"
+    }
+  ],
+  "company_id": "company:arcade-dev",
+  "company_ids": [
+    "company:arcade-dev"
+  ],
+  "company_name": "Arcade.dev",
+  "company_names": [
+    "Arcade.dev"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:shub-argha",
+  "meetup_ids": [],
+  "name": "Shub Argha",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-shub-argha-arcade-dev.json",
+    "data/raw/sources/bythebay-20260508-context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence-gabriela-de-queiroz-arcade-dev.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-shub-argha-arcade-dev",
+    "bythebay-20260508-context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence-gabriela-de-queiroz-arcade-dev"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence-gabriela-de-queiroz-arcade-dev:context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence"
+  ],
+  "title": "Head of Solutions Engineering",
+  "titles": [
+    "Head of Solutions Engineering"
+  ],
+  "type": "speaker"
+}

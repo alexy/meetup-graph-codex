@@ -1,0 +1,49 @@
+{
+  "abstract": "Using Scala 3 TypeClass derivation is a great way to write performant Json Encoders but that is only the beginning of the story. If we look deeper into Dotty Mirrors and inline, we discover an incredibly deep feature-set that elegantly solves a plethora of meta-programming problems. In addition to encoding and decoding arbitrary products and co-products, Dotty Mirrors give us a unified way to drive any kind of expansion that needs to loop over the fields of a case class or the possibilities of a sealed trait (or Dotty enum), and there is a whole lot more of that going on in everyday libraries then we think. Join me as I demonstrate these capabilities, drawing examples from the Quill library to demonstrate how a real macro-drive system would make use of them. About Our Speaker Alexander Loffe, Senior Software Engineer at Nasdaq, a contributor to Quill (a LINQ-like persistence layer for Scala). He prefers Vodka to Whiskey, Schnitzel to Steak, and there are no photographs of Alexander in existence before the age of 5. Join SF Scala Slack and Discord community to discuss the talk and keep in touch: https://www.sfbayareatechies.com/",
+  "conference_id": null,
+  "date_time": "2021-02-24T15:00:00-08:00",
+  "end_time": "2021-02-24T16:30:00-08:00",
+  "event_id": "276483759",
+  "event_title": "Generic Derivation is the New Reflection By Alexander Loffe",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-generic-derivation-is-the-new-reflection-by-alexander-loffe-alexander-loffe-nasdaq:generic-derivation-is-the-new-reflection-by-alexander-loffe",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:quill"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-generic-derivation-is-the-new-reflection-by-alexander-loffe-alexander-loffe-nasdaq.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-generic-derivation-is-the-new-reflection-by-alexander-loffe-alexander-loffe-nasdaq"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/276483759/"
+  ],
+  "speaker_ids": [
+    "speaker:alexander-loffe",
+    "speaker:generic-derivation"
+  ],
+  "speakers": [
+    {
+      "company_name": "Nasdaq",
+      "id": "speaker:alexander-loffe",
+      "name": "Alexander Loffe",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:generic-derivation",
+      "name": "Generic Derivation",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Generic Derivation is the New Reflection By Alexander Loffe",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/276483759/"
+}

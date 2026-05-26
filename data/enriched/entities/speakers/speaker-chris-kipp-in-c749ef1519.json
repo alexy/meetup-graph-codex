@@ -1,0 +1,26 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:chris-kipp-in",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Chris Kipp In",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/276260651/"
+  ],
+  "talk_ids": [],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

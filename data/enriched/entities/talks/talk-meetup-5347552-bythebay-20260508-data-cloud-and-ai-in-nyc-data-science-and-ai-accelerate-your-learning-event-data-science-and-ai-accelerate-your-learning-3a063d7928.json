@@ -1,0 +1,31 @@
+{
+  "abstract": "This event is a series of online webinars. Register for one event or all of the events. Event is each Thursday in February. Event is Pacific Standard Time. Please adjust to your location. Register at the link below to access recordings. We know you move fast and like to learn from the best. That’s why we’re providing weekly webinars to accelerate your learning in data science every Thursday at noon Eastern (9am Pacific ) in February. Join our IBM data science experts live to - brush up on the basics of using data science - get up to speed on new innovations - get live answers to all your questions You can take your data science and AI initiatives up a notch by learning how to use the newest features from IBM Data Science, including Cloud Pak for Data, Watson Studio, Watson Machine Learning and Watson OpenScale. Register now and get ready to fast-track your success in data science and AI. https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&partnerref=meetup&eventid=2171948&sessionid=1&key=92183C76B77CC0F58D0DBDEC0FF6944B®Tag=775767&sourcepage=register",
+  "conference_id": null,
+  "date_time": "2020-02-27T09:00:00-05:00",
+  "end_time": "2020-02-27T10:00:00-05:00",
+  "event_id": "268477739",
+  "event_title": "Data Science and AI - Accelerate your learning",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-data-science-and-ai-accelerate-your-learning-event:data-science-and-ai-accelerate-your-learning",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-data-science-and-ai-accelerate-your-learning-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-data-science-and-ai-accelerate-your-learning-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/268477739/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Data Science and AI - Accelerate your learning",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/268477739/"
+}

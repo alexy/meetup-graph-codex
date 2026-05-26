@@ -1,0 +1,48 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:letta",
+      "company_name": "Letta",
+      "title": "Developer Relations Engineer"
+    }
+  ],
+  "company_id": "company:letta",
+  "company_ids": [
+    "company:letta"
+  ],
+  "company_name": "Letta",
+  "company_names": [
+    "Letta"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:cameron-pfiffer",
+  "meetup_ids": [
+    "meetup:36468260"
+  ],
+  "name": "Cameron Pfiffer",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-cameron-pfiffer-letta.json",
+    "data/raw/sources/bythebay-20260508-the-ai-operating-system-stateful-agents-with-letta-cameron-pfiffer-letta.json",
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-cameron-pfiffer-letta",
+    "bythebay-20260508-the-ai-operating-system-stateful-agents-with-letta-cameron-pfiffer-letta",
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers",
+    "https://www.meetup.com/unstructured-data-sf/events/303687526/"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-the-ai-operating-system-stateful-agents-with-letta-cameron-pfiffer-letta:the-ai-operating-system-stateful-agents-with-letta",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3:infinite-world-generation-with-outlines"
+  ],
+  "title": "Developer Relations Engineer",
+  "titles": [
+    "Developer Relations Engineer"
+  ],
+  "type": "speaker"
+}

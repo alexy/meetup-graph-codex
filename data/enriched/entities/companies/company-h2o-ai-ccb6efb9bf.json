@@ -1,0 +1,20 @@
+{
+  "id": "company:h2o-ai",
+  "name": "H2O.ai",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/242935944/"
+  ],
+  "speaker_ids": [
+    "speaker:saurabh-kumar"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov:6-35-pm-welcome"
+  ],
+  "type": "company"
+}

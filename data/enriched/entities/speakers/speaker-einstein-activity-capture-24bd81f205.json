@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:einstein-activity-capture",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Einstein Activity Capture",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-narek-asadorian-functional-programming-the-enterprise-edition-einstein-activity-capture-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-narek-asadorian-functional-programming-the-enterprise-edition-einstein-activity-capture.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-narek-asadorian-functional-programming-the-enterprise-edition-einstein-activity-capture-2",
+    "bythebay-20260508-scala-bay-narek-asadorian-functional-programming-the-enterprise-edition-einstein-activity-capture"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/248517175/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-narek-asadorian-functional-programming-the-enterprise-edition-einstein-activity-capture:narek-asadorian-functional-programming-the-enterprise-edition"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

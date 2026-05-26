@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:patrick-wendell",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Patrick Wendell",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-committer-night-spark-1-5-and-beyond-databricks-dean-wampler-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-committer-night-spark-1-5-and-beyond-databricks-dean-wampler.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-committer-night-spark-1-5-and-beyond-databricks-dean-wampler-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-committer-night-spark-1-5-and-beyond-databricks-dean-wampler"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/225522063/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-committer-night-spark-1-5-and-beyond-databricks-dean-wampler:committer-night-spark-1-5-and-beyond"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

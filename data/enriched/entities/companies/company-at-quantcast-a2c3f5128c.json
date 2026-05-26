@@ -1,0 +1,18 @@
+{
+  "id": "company:at-quantcast",
+  "name": "at Quantcast",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-kudu-data-store-for-the-new-era-with-kafka-spark-kudu-demo-akshat-aranya-quantcast.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-kudu-data-store-for-the-new-era-with-kafka-spark-kudu-demo-akshat-aranya-quantcast-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/226023299/"
+  ],
+  "speaker_ids": [
+    "speaker:akshat-aranya"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

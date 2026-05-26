@@ -1,0 +1,20 @@
+{
+  "id": "company:datameer-in-financial-services",
+  "name": "Datameer In financial services",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-november-sf-hadoop-users-meetup-matt-schumpert.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-november-sf-hadoop-users-meetup-matt-schumpert-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/217855512/"
+  ],
+  "speaker_ids": [
+    "speaker:wei-wang"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-november-sf-hadoop-users-meetup-matt-schumpert-talk-1:top-big-data-use-cases-in-financial-services"
+  ],
+  "type": "company"
+}

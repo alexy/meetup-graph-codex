@@ -1,0 +1,33 @@
+{
+  "abstract": "Note: AI By the Bay (https://ai.bythebay.io) is the technical conference of all meetups By the Bay, connecting data engineering with machine learning and data science via data pipelines and open-source foundation. Register soon to be there, one track, rooftop party, only 300 people each day. March 6-8, The Pearl (http://thepearlsf.com). Use the code RUNAI20 for 20% off all passes (while supplies last). We have two great talks at this joint reactive.community/sfspark.org/sfhadoop.org meetup: (1) Migrating Monolith to Microservices Anand Patel, Runnable While there are many who claim adopting a microservices architecture will yield several benefits, it usually takes more work for those benefits to be fully experienced. This is especially true with monolith-to-microservices migrations, where developers still think in an synchronous REST mindset. In this talk, we'll discuss what is required to move to async services and how adopting an event-driven architecture can promote self-healing, rapid prototyping, and graceful degradation. We will also go over some guidelines on how to implement this kind of architecture with examples using RabbitMQ. (2) Computationally-intensive machine learning at the tera-scale Michael W. Mahoney, UC Berkeley One of the important aspects about recent work in deep learning is that it is computationally-intensive in ways that most machine learning problems are not. This presents the opportunity to explore the productivity-performance in high performance/productivity computing, two areas that have developed in scientific computing and databases largely independently. Motivated by this, here, we explore the trade-offs of performing linear algebra for data analysis and machine learning using Apache Spark, compared to traditional C and MPI implementations on HPC platforms. Spark is designed for data analytics on cluster computing platforms with access to local disks and is optimized for data-parallel tasks. We examine three widely-used and important matrix factorizations: NMF (for physical plausibility), PCA (for its ubiquity) and CX (for data interpretability). We apply these methods to terabyte-sized problems in particle physics, climate modeling and bioimaging, as use cases where interpretable analytics is of interest. The data matrices are tall-and-skinny which enable the algorithms to map conveniently into Spark’s data-parallel model. We perform scaling experiments on up to 1600 Cray XC40 nodes, describe the sources of slowdowns, and provide tuning guidance to obtain high performance. We'll conclude with a discussion of recent work on how traditional approaches to matrix and graph algorithms are not particularly appropriate for deep learning applications, possible solutions, and the productivity-performance tradeoffs this will entail. Joint work with Alex Gittens and many others. Michael Mahoney is at the University of California at Berkeley in the Department of Statistics and at the International Computer Science Institute (ICSI). He works on algorithmic and statistical aspects of modern large-scale data analysis. Much of his recent research has focused on large-scale machine learning, including randomized matrix algorithms and randomized numerical linear algebra, geometric network analysis tools for structure extraction in large informatics graphs, scalable implicit regularization methods, and applications in genetics, astronomy, medical imaging, social network analysis, and internet data analysis. He received him PhD from Yale University with a dissertation in computational statistical mechanics, and he has worked and taught at Yale University in the mathematics department, at Yahoo Research, and at Stanford University in the mathematics department. Among other things, he is on the national advisory committee of the Statistical and Applied Mathematical Sciences Institute (SAMSI), he was on the National Research Council's Committee on the Analysis of Massive Data, he runs the biennial MMDS Workshops on Algorithms for Modern Massive Data Sets, and he spent fall 2013 at UC Berkeley co-organizing the Simons Foundation's program on the Theoretical Foundations of Big Data Analysis",
+  "conference_id": null,
+  "date_time": "2017-02-02T18:30:00-08:00",
+  "end_time": "2017-02-02T21:30:00-08:00",
+  "event_id": "237248749",
+  "event_title": "Spark Microservices",
+  "github_repositories": [],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-spark-mpi-and-monolith-microservices-event:spark-microservices",
+  "kind": "workshop",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [
+    "project:apache-spark"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-spark-mpi-and-monolith-microservices-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-spark-mpi-and-monolith-microservices-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/237248749/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Spark Microservices",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/237248749/"
+}

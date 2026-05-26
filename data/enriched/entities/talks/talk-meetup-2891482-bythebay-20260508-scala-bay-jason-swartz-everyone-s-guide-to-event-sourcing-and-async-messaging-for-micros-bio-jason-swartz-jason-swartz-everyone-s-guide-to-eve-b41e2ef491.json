@@ -1,0 +1,40 @@
+{
+  "abstract": "Title Jason Swartz, Everyone's guide to event-sourcing and async messaging for microservices Abstract We're hitting all the buzzwords! In this talk we'll look at why & how to use event-sourcing to introduce immutability to your regular db's tables. We'll also discuss asynchronous, non-blocking microservices and examine some of the more straightforward solutions for building them. If you're looking for a complex architecture guide, this ain't it. It's microservice event-sourcing and async message for the 99%. Bio Jason Swartz is the author of \"Learning Scala\" from O'Reilly Media and a Software Engineer in the San Francisco Bay Area. He has developed Scala applications at Netflix and Mesosphere and is currently learning to live sweaty at ClassPass. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "conference_id": null,
+  "date_time": "2016-05-16T18:30:00-07:00",
+  "end_time": "2016-05-16T21:00:00-07:00",
+  "event_id": "229055974",
+  "event_title": "Jason Swartz, Everyone's guide to event-sourcing and async messaging for micros",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-jason-swartz-everyone-s-guide-to-event-sourcing-and-async-messaging-for-micros-bio-jason-swartz:jason-swartz-everyone-s-guide-to-event-sourcing-and-async-messaging-for-micros",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-jason-swartz-everyone-s-guide-to-event-sourcing-and-async-messaging-for-micros-bio-jason-swartz.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-jason-swartz-everyone-s-guide-to-event-sourcing-and-async-messaging-for-micros-bio-jason-swartz"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/229055974/"
+  ],
+  "speaker_ids": [
+    "speaker:bio-jason-swartz"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:bio-jason-swartz",
+      "name": "Bio Jason Swartz",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Jason Swartz, Everyone's guide to event-sourcing and async messaging for micros",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/229055974/"
+}

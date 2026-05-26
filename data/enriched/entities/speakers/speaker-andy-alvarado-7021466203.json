@@ -1,0 +1,36 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Sr. Systems Engineer Log ingestion is something most all of us have to deal"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:andy-alvarado",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Andy Alvarado",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/220286707/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2-talk-2:fast-cheap-and-out-of-control-distributed-log-ingestion-at-if-we"
+  ],
+  "title": "Sr. Systems Engineer Log ingestion is something most all of us have to deal",
+  "titles": [
+    "Sr. Systems Engineer Log ingestion is something most all of us have to deal"
+  ],
+  "type": "speaker"
+}

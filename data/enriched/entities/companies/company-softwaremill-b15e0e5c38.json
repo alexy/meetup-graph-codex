@@ -1,0 +1,25 @@
+{
+  "id": "company:softwaremill",
+  "name": "SoftwareMill",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill-2",
+    "bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/203999322/"
+  ],
+  "speaker_ids": [
+    "speaker:adam-warski"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill:high-performance-services-and-framework-less-dependency-injection",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-3-training-workshop-included-in-sbtb-2021-event:exposing-an-http-api-using-scala-3",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-3-training-workshop-included-in-sbtb-2021-event:exposing-an-http-api-using-scala-3",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-scala-3-training-workshop-included-in-sbtb-2021-event:exposing-an-http-api-using-scala-3"
+  ],
+  "type": "company"
+}

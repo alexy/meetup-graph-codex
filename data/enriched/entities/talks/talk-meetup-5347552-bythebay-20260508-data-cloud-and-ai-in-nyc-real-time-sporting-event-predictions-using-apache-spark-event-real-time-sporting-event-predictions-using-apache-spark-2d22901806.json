@@ -1,0 +1,34 @@
+{
+  "abstract": "Want to impress your friends? This meetup will cover a method to use historical sporting event score information and the spread to make updated real time predictions based on the current state of the sporting event. Technologies highlighted will include IBM's Bluemix platform using Node.js and Spark as a Service. We will also make use of notebooks to dig into some machine learning concepts that were used along the way. After attending the session , you should have a good idea of how you can use Apache Spark, Bluemix and machine learning technologies to make real time predictions and impress your friends! Refreshments will be served",
+  "conference_id": null,
+  "date_time": "2016-07-18T17:30:00-04:00",
+  "end_time": "2016-07-18T20:00:00-04:00",
+  "event_id": "232086830",
+  "event_title": "Real Time Sporting Event Predictions using Apache Spark",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-real-time-sporting-event-predictions-using-apache-spark-event:real-time-sporting-event-predictions-using-apache-spark",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:apache-spark",
+    "project:bluemix"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-real-time-sporting-event-predictions-using-apache-spark-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-real-time-sporting-event-predictions-using-apache-spark-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/232086830/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Real Time Sporting Event Predictions using Apache Spark",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/232086830/"
+}

@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:mimicking-human-experts",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Mimicking Human Experts",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-matexpert-a-generative-ai-agent-for-inorganic-materials-mimicking-human-experts.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-smi-ted-open-source-foundation-model-for-chemical-modeling-eduardo-soares-ibm-research-brazil.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-materials-matexpert-a-generative-ai-agent-for-inorganic-materials-mimicking-human-experts.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-matexpert-a-generative-ai-agent-for-inorganic-materials-mimicking-human-experts",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-smi-ted-open-source-foundation-model-for-chemical-modeling-eduardo-soares-ibm-research-brazil",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-materials-matexpert-a-generative-ai-agent-for-inorganic-materials-mimicking-human-experts"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/307656574/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/307201381/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-smi-ted-open-source-foundation-model-for-chemical-modeling-eduardo-soares-ibm-researc:smi-ted-open-source-foundation-model-for-chemical-modeling",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-materials-matexpert-a-generative-ai-agent-for-inorganic-materials-mimicking-human-exp:matexpert-a-generative-ai-agent-for-inorganic-materials"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,50 @@
+{
+  "abstract": "Please register at the free Eventbrite link: https://www.eventbrite.com/e/sf-spark-meetup-talks-from-spark-watson-and-einstein-tickets-34982003113 This meetup is a key part of the Cognitive Frameworks Festival, uniting open-source community around the city in the week of June 5: http://festival.framework.foundation We have 5 talks for this amazing meetup, showcasing the vibrant ecosystem around Apache Spark. 3 main talks, 20 minute each: PySpark Beyond Shuffling -- Why it isn't Magic -- but also where there is some really cool magic Holden Karau -- Apache Spark Committer, Spark Technology Center, IBM Apache SystemML: State of the Project and Future Plans Frederick Reiss -- Chief Architect, Spark Technology Center, IBM PredictionIO Kenneth Chen -- Cofounder of PredictionIO and Senior PM on Einstein, Salesforce 2 Lightning talks, about 10min each: Hyperparameter Optimization -- when scikit-learn meets PySpark Sven Hafeneger -- Software Engineer, IBM Sparklyr Javier Luraschi -- RStudio",
+  "conference_id": null,
+  "date_time": "2017-06-08T18:00:00-07:00",
+  "end_time": "2017-06-08T21:00:00-07:00",
+  "event_id": "240397065",
+  "event_title": "[Eventbrite] Spark, Watson and Einstein: Spark.TC, Salesforce and RStudio!",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-eventbrite-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimizatio:spark-watson-and-einstein-spark-tc-salesforce-and-rstudio",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [
+    "project:apache-spark",
+    "project:apache-systemml"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-eventbrite-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-eventbrite-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/240397065/"
+  ],
+  "speaker_ids": [
+    "speaker:hyperparameter-optimization",
+    "speaker:kenneth-chen"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:hyperparameter-optimization",
+      "name": "Hyperparameter Optimization",
+      "title": null
+    },
+    {
+      "company_name": "Salesforce",
+      "id": "speaker:kenneth-chen",
+      "name": "Kenneth Chen",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Spark, Watson and Einstein: Spark.TC, Salesforce and RStudio!",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/240397065/"
+}

@@ -1,0 +1,47 @@
+{
+  "abstract": "Topic repeated at 2 different times, please join the session that is best suited for your time zone. Machine learning models are increasingly being used to inform high-stakes decisions. Therefore, building trustworthy systems is the need of the hour, and every one of us has a role to play. In this talk, we will discuss how we all can contribute towards delivering trustworthy systems and better understand how the field is moving overall. We will explore: Understand risk and opportunity in AI What trust means in the AI space and why it is important Trustworthy AI, Responsible AI, Sustainable AI - what do they all mean? Overview of different regulations and what is out there Overview of AI Governance Consolidated view of Trustworthy AI pillars What Trust means from different persona’s view What’s next? Presenter: Saishruthi Swaminathan Saishruthi Swaminathan is an advocate for Trustworthy AI and a Data Scientist. She has a Master's in Electrical Engineering specializing in Data Science and a Bachelor's degree in Electronics and Instrumentation Engineering. Her passion is to dive deep into the ocean of data, extract insights, and use AI for social good. She has spoken at over 70 events worldwide over the past three years. In 2021, the Women in AI (WAIE) team recognized her as one of the 100 brilliant women in AI Ethics 2022. She is on a mission to spread the knowledge and experience she acquired in her learning process. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder: https://ibm.webex.com/weblink/register/rbe5e8dadb378279e9a9c02034ae5c100",
+  "conference_id": null,
+  "date_time": "2023-03-15T08:00:00-04:00",
+  "end_time": "2023-03-15T09:00:00-04:00",
+  "event_id": "290204716",
+  "event_title": "Empowering ourselves to contribute towards AI Ethics and Trustworthy AI",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai-saishruthi-swaminathan:empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai-saishruthi-swaminathan.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai-saishruthi-swaminathan"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290204716/"
+  ],
+  "speaker_ids": [
+    "speaker:saishruthi-swaminathan",
+    "speaker:saishruthi-swaminathan-saishruthi-swaminathan"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:saishruthi-swaminathan",
+      "name": "Saishruthi Swaminathan",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:saishruthi-swaminathan-saishruthi-swaminathan",
+      "name": "Saishruthi Swaminathan Saishruthi Swaminathan",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Empowering ourselves to contribute towards AI Ethics and Trustworthy AI",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/290204716/"
+}

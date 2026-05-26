@@ -1,0 +1,31 @@
+{
+  "abstract": "Friends -- Scale By the Bay the conference is back! We return livem, in person, to the one of a kind venue where we left things off in 2019, on the Lake Merritt Riviera: scale.bythebay.io The CFP is extended by June 16, please give it your best shot: bay.news/cfp Also, we're sunsetting several small meetups that were running before the pandemic but went dormant. We've invited their members to join this one. Generally we find the boundaries between meetups artificial. Our core audience is software engineers and data scientists and data engineers and AI experts and startup founders who often are all these in one. We encourage everyone to join this group for overall awareness of things happening By the Bay. We need coorganizers for the events to come back live, contact Alexy at alexy@chiefscientist.org to help",
+  "conference_id": null,
+  "date_time": "2023-06-16T23:00:00-07:00",
+  "end_time": "2023-06-17T00:00:00-07:00",
+  "event_id": "294108371",
+  "event_title": "Scale By the Bay CFP extended to June 16!",
+  "github_repositories": [],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-scale-by-the-bay-cfp-extended-to-june-16-event:scale-by-the-bay-cfp-extended-to-june-16",
+  "kind": "announcement",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-scale-by-the-bay-cfp-extended-to-june-16-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-scale-by-the-bay-cfp-extended-to-june-16-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/294108371/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "Scale By the Bay CFP extended to June 16!",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/294108371/"
+}

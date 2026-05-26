@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:roland-lee-with",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Roland Lee With",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-2-talks-abusing-tagless-final-improving-microservice-performance-roland-lee-with-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-2-talks-abusing-tagless-final-improving-microservice-performance-roland-lee-with.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-2-talks-abusing-tagless-final-improving-microservice-performance-roland-lee-with-2",
+    "bythebay-20260508-sf-scala-2-talks-abusing-tagless-final-improving-microservice-performance-roland-lee-with"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/263554064/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-2-talks-abusing-tagless-final-improving-microservice-performance-roland-lee-with:2-talks-abusing-tagless-final-improving-microservice-performance"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

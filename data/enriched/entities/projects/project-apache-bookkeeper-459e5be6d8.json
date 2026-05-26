@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-bookkeeper",
+  "name": "Apache BookKeeper",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/247364219/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer:streamlio-gridgain-cassandra-spark-free-workshop-at-index"
+  ],
+  "type": "project"
+}

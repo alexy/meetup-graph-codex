@@ -1,0 +1,61 @@
+{
+  "abstract": "Dhananjay Ragade -- Overview of Scala at LinkedIn Mark Pascual -- Scala usage in LinkedIn Today Joel Koshy -- Kafka Rui Wang and Joshua Erlich -- Norbert and uses of Scala in the Search & Analytics team As usual, the schedule for the event is: 6:30 - networking, food 7:00 - announcements 7:15 - presentation 8:30 - Q&A, more networking afterward Depending on attendance, we will give away 1 or 2 copies of IntelliJ IDEA for personal use. Two copies of JRebel will be given away. One or two free PDF copies of \"Actors in Scala (http://www.artima.com/shop/actors in scala)\" by Philipp Haller and Frank Sommers, published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile. This event will be recorded. We will post a link to the recording on this page when it is ready",
+  "conference_id": null,
+  "date_time": "2012-05-14T18:30:00-07:00",
+  "end_time": "2012-05-14T21:30:00-07:00",
+  "event_id": "57803812",
+  "event_title": "Scala at LinkedIn",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-at-linkedin-frank-sommers:scala-at-linkedin",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-at-linkedin-frank-sommers.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-scala-at-linkedin-frank-sommers"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/57803812/"
+  ],
+  "speaker_ids": [
+    "speaker:frank-sommers",
+    "speaker:joshua-erlich",
+    "speaker:philipp-haller",
+    "speaker:rui-wang"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:frank-sommers",
+      "name": "Frank Sommers",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:joshua-erlich",
+      "name": "Joshua Erlich",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:philipp-haller",
+      "name": "Philipp Haller",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:rui-wang",
+      "name": "Rui Wang",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scala at LinkedIn",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/57803812/"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2014-07-14T19:00:00-07:00",
+  "end_time": "2014-07-14T22:00:00-07:00",
+  "event_id": "192698302",
+  "event_title": "Frederick Kautz. Grasping Gradle for Scala",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-frederick-kautz-grasping-gradle-for-scala-event:grasping-gradle-for-scala",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-frederick-kautz-grasping-gradle-for-scala-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-frederick-kautz-grasping-gradle-for-scala-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/192698302/"
+  ],
+  "speaker_ids": [
+    "speaker:red-hat"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:red-hat",
+      "name": "Red Hat",
+      "title": "He was the CTO of a big data company and maintained a complex build system in the Java world. He has been writing scala professionally and has been active in the community since 2009. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Grasping Gradle for Scala",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/192698302/"
+}

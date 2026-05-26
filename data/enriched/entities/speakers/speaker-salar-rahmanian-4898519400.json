@@ -1,0 +1,116 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:zio-by",
+      "company_name": "ZIO\" by",
+      "title": "6:10pm: \"Enhancing Spark's Power"
+    },
+    {
+      "company_id": "company:5-45pm-reimagining-functional-type-classes-by",
+      "company_name": "5.45pm Reimagining Functional Type Classes by",
+      "title": null
+    },
+    {
+      "company_id": "company:5-45pm-essential-effects-by",
+      "company_name": "5.45pm Essential Effects By",
+      "title": null
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "5.45pm Kiar - Key/Value store"
+    }
+  ],
+  "company_id": "company:zio-by",
+  "company_ids": [
+    "company:zio-by",
+    "company:5-45pm-reimagining-functional-type-classes-by",
+    "company:5-45pm-essential-effects-by"
+  ],
+  "company_name": "ZIO\" by",
+  "company_names": [
+    "ZIO\" by",
+    "5.45pm Reimagining Functional Type Classes by",
+    "5.45pm Essential Effects By"
+  ],
+  "conference_ids": [],
+  "id": "speaker:salar-rahmanian",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:18601481",
+    "meetup:18748975",
+    "meetup:2891482"
+  ],
+  "name": "Salar Rahmanian",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-modal-ai-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-kiar-key-value-store-with-mvcc-based-transaction-system-by-sandeep-virdi-salar-rahmanian.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-how-scala-is-made-and-how-you-can-help-salar-rahmanian.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-how-scala-is-made-and-how-you-can-help-salar-rahmanian.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-modal-ai-2",
+    "bythebay-20260508-scale-by-the-bay-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase",
+    "bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2",
+    "bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako",
+    "bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-3",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-3",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-10",
+    "bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1",
+    "bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1",
+    "bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-2",
+    "bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-1",
+    "bythebay-20260508-sf-scala-kiar-key-value-store-with-mvcc-based-transaction-system-by-sandeep-virdi-salar-rahmanian-talk-1",
+    "bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-talk-2",
+    "bythebay-20260508-scala-bay-how-scala-is-made-and-how-you-can-help-salar-rahmanian",
+    "bythebay-20260508-sf-scala-how-scala-is-made-and-how-you-can-help-salar-rahmanian"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/308661435/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/306945414/",
+    "https://www.meetup.com/bythebay/events/268998983/",
+    "https://www.meetup.com/scala-bay/events/308661456/",
+    "https://www.meetup.com/sf-scala/events/251902203/",
+    "https://www.meetup.com/sf-scala/events/268998404/",
+    "https://www.meetup.com/sf-scala/events/270897048/",
+    "https://www.meetup.com/bythebay/events/270897090/",
+    "https://www.meetup.com/sf-scala/events/272898761/",
+    "https://www.meetup.com/sf-scala/events/275583573/",
+    "https://www.meetup.com/sf-scala/events/275839287/",
+    "https://www.meetup.com/sf-scala/events/276260651/",
+    "https://www.meetup.com/scala-bay/events/303718227/",
+    "https://www.meetup.com/sf-scala/events/303718305/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako:scala-days-2018-recap",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-3:using-nix-for-haskell-development-by-john-wiegley",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:using-nix-for-haskell-development-by-john-wiegley",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1:reimagining-functional-type-classes",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1:reimagining-functional-type-classes",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-2:leveraging-tools-from-the-scala-community-to-learn-and-teach-scala-by-leo-benkel",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-1:essential-effects",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-kiar-key-value-store-with-mvcc-based-transaction-system-by-sandeep-virdi-salar-rahmanian-talk-1:kiar-key-value-store-with-mvcc-based-transaction-system",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-talk-2:a-metals-retrospective-by-chris-kipp",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-how-scala-is-made-and-how-you-can-help-salar-rahmanian:how-scala-is-made-and-how-you-can-help",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-how-scala-is-made-and-how-you-can-help-salar-rahmanian:how-scala-is-made-and-how-you-can-help"
+  ],
+  "title": "6:10pm: \"Enhancing Spark's Power",
+  "titles": [
+    "6:10pm: \"Enhancing Spark's Power",
+    "5.45pm Kiar - Key/Value store"
+  ],
+  "type": "speaker"
+}

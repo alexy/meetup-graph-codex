@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:ana-biazetti",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Ana Biazetti",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-the-cyber-cloud-next-steps-for-augmenting-cyber-security-with-the-cloud-ana-biazetti-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-the-cyber-cloud-next-steps-for-augmenting-cyber-security-with-the-cloud-ana-biazetti.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-the-cyber-cloud-next-steps-for-augmenting-cyber-security-with-the-cloud-ana-biazetti-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-the-cyber-cloud-next-steps-for-augmenting-cyber-security-with-the-cloud-ana-biazetti-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-the-cyber-cloud-next-steps-for-augmenting-cyber-security-with-the-cloud-ana-biazetti",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-the-cyber-cloud-next-steps-for-augmenting-cyber-security-with-the-cloud-ana-biazetti-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/296236877/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/296236744/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-the-cyber-cloud-next-steps-for-augmenting-cyber-security-with-the-cloud-ana-biazetti:the-cyber-cloud-next-steps-for-augmenting-cyber-security-with-the-cloud",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-the-cyber-cloud-next-steps-for-augmenting-cyber-security-with-the-cloud-ana-biazetti-3:the-cyber-cloud-next-steps-for-augmenting-cyber-security-with-the-cloud"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

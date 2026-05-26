@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/generative-computing/mellea"
+  ],
+  "github_repository": "https://github.com/generative-computing/mellea",
+  "id": "project:https-github-com-generative-computing-mellea",
+  "name": "Mellea",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/311735759/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc-event:open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc"
+  ],
+  "type": "project"
+}

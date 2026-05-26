@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2017-10-23T18:00:00-04:00",
+  "end_time": "2017-10-23T21:00:00-04:00",
+  "event_id": "244262292",
+  "event_title": "Cognifest: Working Enterprise AI",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-cognifest-working-enterprise-ai-city-s-silicon-alley:the-digitization-of-society-through-cognitive-technology-such-as-ibm-watson-and-big-data-a",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-cognifest-working-enterprise-ai-city-s-silicon-alley.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-cognifest-working-enterprise-ai-city-s-silicon-alley"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/244262292/"
+  ],
+  "speaker_ids": [
+    "speaker:dr-teerlink-s-ted"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:dr-teerlink-s-ted",
+      "name": "Dr. Teerlink's Ted",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "the Digitization of Society through Cognitive technology (such as IBM Watson) and Big Data Analytics",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/244262292/"
+}

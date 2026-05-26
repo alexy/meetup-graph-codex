@@ -1,0 +1,31 @@
+{
+  "abstract": "As Scala developers, we love the power and confidence that type-safety gives us. However, this happy typesafe world often only arises after transitioning from a typeless context such as user input or a JSON file. Rapture provides a modular family of libraries for making this leap across the dynamic/static seam, for JSON and XML, working with I/O, command line processing, encryption and HTTP, designed primarily to be intuitive and boilerplate-free, with useful diagnostics at runtime and compile time, but without compromising on type safety. Jon will explore Rapture's features and philosophy, and demo the ease of use and safety it offers for everyday programming tasks Mini-bio: Jon has been involved in the Scala community for the last ten years, having launched the first commercial and open-source Scala software back in 2005. Since then, he has successfully deployed Scala projects into small, medium and large businesses, and UK government, but is best known these days for his work on Rapture, and more recently Typelevel Scala",
+  "conference_id": null,
+  "date_time": "2015-03-19T18:30:00-07:00",
+  "end_time": "2015-03-19T21:30:00-07:00",
+  "event_id": "220522086",
+  "event_title": "Spark Notebook and Rapture Workshops",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-spark-notebook-and-rapture-workshops-med-at-scale-talk-2:rapture-better-type-safety-across-the-seam-jon-pretty",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-spark-notebook-and-rapture-workshops-med-at-scale.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-spark-notebook-and-rapture-workshops-med-at-scale-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/220522086/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Rapture: Better Type Safety across the Seam, Jon Pretty",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/220522086/"
+}

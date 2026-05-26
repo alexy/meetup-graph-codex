@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2013-01-09T18:00:00-08:00",
+  "end_time": "2013-01-09T21:00:00-08:00",
+  "event_id": "95687012",
+  "event_title": "January 2013 San Francisco Hadoop User Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-january-2013-san-francisco-hadoop-user-meetup-sudarshan-gaikaiwari:the-january-2013-hadoop-meetup-will-be-held-wednesday-jan-9-from-6-00pm-to-8-00pm-this-mee",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-january-2013-san-francisco-hadoop-user-meetup-sudarshan-gaikaiwari.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-january-2013-san-francisco-hadoop-user-meetup-sudarshan-gaikaiwari"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/95687012/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The January, 2013 Hadoop meetup will be held Wednesday, Jan 9, from 6:00pm to 8:00pm. This meetup will be hosted",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/95687012/"
+}

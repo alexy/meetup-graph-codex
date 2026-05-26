@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:databricks",
+      "company_name": "Databricks",
+      "title": "Head of Streaming"
+    }
+  ],
+  "company_id": "company:databricks",
+  "company_ids": [
+    "company:databricks"
+  ],
+  "company_name": "Databricks",
+  "company_names": [
+    "Databricks"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:karthik-ramasamy",
+  "meetup_ids": [],
+  "name": "Karthik Ramasamy",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-latency-goes-sub-second-in-apache-spark-structured-streaming-karthik-ramasamy-databricks.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-latency-goes-sub-second-in-apache-spark-structured-streaming-karthik-ramasamy-databricks"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-latency-goes-sub-second-in-apache-spark-structured-streaming-karthik-ramasamy-databricks:latency-goes-sub-second-in-apache-spark-structured-streaming"
+  ],
+  "title": "Head of Streaming",
+  "titles": [
+    "Head of Streaming"
+  ],
+  "type": "speaker"
+}

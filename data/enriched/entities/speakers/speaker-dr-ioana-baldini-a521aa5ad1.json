@@ -1,0 +1,50 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ibm-and",
+      "company_name": "IBM and",
+      "title": "Research Staff Member"
+    }
+  ],
+  "company_id": "company:ibm-and",
+  "company_ids": [
+    "company:ibm-and"
+  ],
+  "company_name": "IBM and",
+  "company_names": [
+    "IBM and"
+  ],
+  "conference_ids": [],
+  "id": "speaker:dr-ioana-baldini",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Dr Ioana Baldini",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-3.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-talk-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-3-talk-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi-talk-9"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293934058/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293933975/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/300338070/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-talk-2:career-fireside-chat",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-3-talk-2:career-fireside-chat",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi-talk-9:red-teaming-generative-language-models"
+  ],
+  "title": "Research Staff Member",
+  "titles": [
+    "Research Staff Member"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "company:conviva",
+  "name": "Conviva",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust-evan-chan-conviva.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust-evan-chan-conviva"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:evan-chan"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust-evan-chan-conviva:lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust"
+  ],
+  "type": "company"
+}

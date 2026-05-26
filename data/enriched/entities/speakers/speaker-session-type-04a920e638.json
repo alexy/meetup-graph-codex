@@ -1,0 +1,28 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:session-type",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Session Type",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306421923/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-2:reviewing-data-preparation-tools"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

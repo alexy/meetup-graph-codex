@@ -1,0 +1,33 @@
+{
+  "abstract": "We are running SF Spark and SF Hadoop meetups jointly. Registration for this event is only via SF Hadoop, please RSVP only at the link below: https://www.meetup.com/hadoopsf/events/239675820/ This meetup is an integral part of the Cognitive Frameworks Festival, June 5-9, SF, uniting data meetups across the stack: http://festival.framework.foundation Join us for a meetup with StreamSets to discuss the latest Spark elements Agenda: 6:00-6:30pm Food, drinks and networking 6:30-7:30pm Tech talk 7:30-8:00pm Networking Big data tools such as Hadoop and Spark allow you to process data at unprecedented scale, but keeping your processing engine fed can be a challenge. Metadata in upstream sources such as relational databases and log files can ‘drift’ due to infrastructure, OS and application changes, causing ETL tools and hand-coded solutions to fail. StreamSets Data Collector (SDC), is Apache 2.0 licensed open source software that allows data scientists and data engineers to build robust big data ingest pipelines using pre-built and custom processing stages via a browser-based UI. In this session, Hari will explain how SDC integrates with Apache Spark, and how developers can create their own custom reusable processing elements using Spark’s programming model and existing libraries such as GraphX or MLLib. You'll learn how Spark can run SDC pipelines in a wide variety of environments, from standalone systems such as a developer's laptop, to on-premises and in-cloud clusters, allowing developers, data scientists and data engineers to process data at unprecedented scale",
+  "conference_id": null,
+  "date_time": "2017-06-07T18:00:00-07:00",
+  "end_time": "2017-06-07T21:00:00-07:00",
+  "event_id": "240397574",
+  "event_title": "[register: sfhadoop.org] Integrated Dataflow Processing with Spark & StreamSets",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-register-sfhadoop-org-integrated-dataflow-processing-with-spark-streamsets-event:integrated-dataflow-processing-with-spark-streamsets",
+  "kind": "talk",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [
+    "project:apache-spark"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-register-sfhadoop-org-integrated-dataflow-processing-with-spark-streamsets-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-register-sfhadoop-org-integrated-dataflow-processing-with-spark-streamsets-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/240397574/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Integrated Dataflow Processing with Spark & StreamSets",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/240397574/"
+}

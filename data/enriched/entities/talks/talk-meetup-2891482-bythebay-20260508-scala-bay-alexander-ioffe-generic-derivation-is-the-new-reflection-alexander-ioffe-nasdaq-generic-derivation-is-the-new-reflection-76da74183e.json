@@ -1,0 +1,42 @@
+{
+  "abstract": "Fka: Unlock the Secrets of Scala 3 Macros Using Scala 3 TypeClass derivation is a great way to write performant Json Encoders but that is only the beginning of the story. If we look deeper into Dotty Mirrors and inline, we discover an incredibly deep feature-set that elegantly solves a plethora of meta-programming problems. In addition to encoding and decoding arbitrary products and co-products, Dotty Mirrors give us a unified way to drive any kind of expansion that needs to loop over the fields of a case class or the possibilities of a sealed trait (or Dotty enum), and there is a whole lot more of that going on in everyday libraries then we think. Join me as I demonstrate these capabilities, drawing examples from the Quill library to demonstrate how a real macro-drive system would make use of them",
+  "conference_id": null,
+  "date_time": "2021-02-24T15:00:00-08:00",
+  "end_time": "2021-02-24T17:00:00-08:00",
+  "event_id": "276447525",
+  "event_title": "Alexander Ioffe, Generic Derivation is the New Reflection",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq:generic-derivation-is-the-new-reflection",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [
+    "project:quill"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/276447525/"
+  ],
+  "speaker_ids": [
+    "speaker:alexander-ioffe"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:alexander-ioffe",
+      "name": "Alexander Ioffe",
+      "title": "Senior Software Engineer"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Generic Derivation is the New Reflection",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/276447525/"
+}

@@ -27,6 +27,9 @@ conversion. It reads either:
 
 - a consolidated export, `--input-format export`
 - Claude-style per-talk records, `--input-format talk-records`
+- the enriched graph-record export at
+  `data/enriched/bythebay-enriched-graph.json`, also through
+  `--input-format talk-records`
 
 Both input paths produce the same neutral value:
 
@@ -460,6 +463,12 @@ struct TalkRecord {
     edges: Vec<TalkRecordEdge>,
 }
 ```
+
+It also accepts the enriched graph-record export produced by
+`scripts/enrich_meetup_entities.py`. That file uses the same top-level
+`nodes` and `edges` shape, but its node labels include `Speaker`,
+`Company`, and `Project` in addition to talks, meetups, and
+conferences.
 
 It supports flexible field names:
 

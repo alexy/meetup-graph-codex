@@ -1,0 +1,37 @@
+{
+  "abstract": null,
+  "conference_id": "scale-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:scale-by-the-bay:bythebay-20260508-apache-iceberg-enabling-an-open-lakehouse-architecture-for-large-scale-analytics-dipankar-mazumdar-onehouse-ai:apache-iceberg-enabling-an-open-lakehouse-architecture-for-large-scale-analytics",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [
+    "project:apache-iceberg"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-apache-iceberg-enabling-an-open-lakehouse-architecture-for-large-scale-analytics-dipankar-mazumdar-onehouse-ai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-apache-iceberg-enabling-an-open-lakehouse-architecture-for-large-scale-analytics-dipankar-mazumdar-onehouse-ai"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:dipankar-mazumdar"
+  ],
+  "speakers": [
+    {
+      "company_name": "Onehouse.ai",
+      "id": "speaker:dipankar-mazumdar",
+      "name": "Dipankar Mazumdar",
+      "title": "Staff Data Advocate"
+    }
+  ],
+  "tags": [],
+  "title": "Apache Iceberg: enabling an open lakehouse architecture for large-scale analytics",
+  "type": "talk",
+  "url": "https://www.scale.bythebay.io/post/dipankar-mazumdar-apache-iceberg-enabling-an-open-lakehouse-architecture-for-large-scale-analytics"
+}

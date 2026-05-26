@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:eclipse",
+  "name": "Eclipse",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-leveraging-large-language-models-for-learning-health-systems-randy-giffen.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-leveraging-large-language-models-for-learning-health-systems-randy-giffen-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-leveraging-large-language-models-for-learning-health-systems-randy-giffen",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-leveraging-large-language-models-for-learning-health-systems-randy-giffen-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/296193368/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/296193571/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-leveraging-large-language-models-for-learning-health-systems-randy-giffen:leveraging-large-language-models-for-learning-health-systems",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-leveraging-large-language-models-for-learning-health-systems-randy-giffen-3:leveraging-large-language-models-for-learning-health-systems"
+  ],
+  "type": "project"
+}

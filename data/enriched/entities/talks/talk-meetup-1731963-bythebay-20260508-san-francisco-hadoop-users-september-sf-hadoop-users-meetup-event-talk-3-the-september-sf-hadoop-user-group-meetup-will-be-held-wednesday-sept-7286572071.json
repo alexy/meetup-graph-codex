@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2014-09-10T18:00:00-07:00",
+  "end_time": "2014-09-10T20:00:00-07:00",
+  "event_id": "203730542",
+  "event_title": "September SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event-talk-3:the-september-sf-hadoop-user-group-meetup-will-be-held-wednesday-september-10-from-6-00pm",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/203730542/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The September SF Hadoop User Group meetup will be held Wednesday, September 10 from 6:00pm to 8:00pm. This meetup will be hosted",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/203730542/"
+}

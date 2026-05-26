@@ -1,0 +1,82 @@
+{
+  "abstract": "Target Audience: IBM Cognos Analytics Users or Clients. Note that this is an open Q&A session to address queries about the IBM Cognos Analytics product. Summary: Join our Cognos Analytics Product Management team live to ask and get answers to your most pressing Cognos Analytics questions. If you like product roadmap sneak previews, don't worry - we'll be sharing those, too. Register now and join us for a lively session where you can ask anything about Cognos! Register for this webinar at: https://ibm.webcasts.com/starthere.jsp?ei=1602659&tp key=805104fcb9 Key Speakers: Rachel Su \\- Product Management\\, Cognos Analytics Tim Aston \\- Product Management\\, Cognos Analytics Zach Taylor \\- Product Management\\, Cognos Analytics Rodrigo Andrade \\- Product Management\\, Cognos Analytics Sami El Cheikh \\- Product Management\\, Cognos Analytics Armin Kamal \\- Proven Practices Advisor\\, Cognos Support",
+  "conference_id": null,
+  "date_time": "2023-04-11T12:00:00-04:00",
+  "end_time": "2023-04-11T13:00:00-04:00",
+  "event_id": "292217439",
+  "event_title": "Ask Me Anything: Cognos Analytics - April Edition",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ask-me-anything-cognos-analytics-april-edition-cognos-analytics-armin-kamal:ask-me-anything-cognos-analytics-april-edition",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ask-me-anything-cognos-analytics-april-edition-cognos-analytics-armin-kamal.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ask-me-anything-cognos-analytics-april-edition-cognos-analytics-armin-kamal"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292217439/"
+  ],
+  "speaker_ids": [
+    "speaker:cognos-analytics-armin-kamal",
+    "speaker:cognos-analytics-rodrigo-andrade",
+    "speaker:cognos-analytics-sami-el",
+    "speaker:cognos-analytics-tim-aston",
+    "speaker:cognos-analytics-zach-taylor",
+    "speaker:cognos-support",
+    "speaker:rachel-su"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:cognos-analytics-armin-kamal",
+      "name": "Cognos Analytics Armin Kamal",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:cognos-analytics-rodrigo-andrade",
+      "name": "Cognos Analytics Rodrigo Andrade",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:cognos-analytics-sami-el",
+      "name": "Cognos Analytics Sami El",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:cognos-analytics-tim-aston",
+      "name": "Cognos Analytics Tim Aston",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:cognos-analytics-zach-taylor",
+      "name": "Cognos Analytics Zach Taylor",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:cognos-support",
+      "name": "Cognos Support",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:rachel-su",
+      "name": "Rachel Su",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Ask Me Anything: Cognos Analytics - April Edition",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/292217439/"
+}

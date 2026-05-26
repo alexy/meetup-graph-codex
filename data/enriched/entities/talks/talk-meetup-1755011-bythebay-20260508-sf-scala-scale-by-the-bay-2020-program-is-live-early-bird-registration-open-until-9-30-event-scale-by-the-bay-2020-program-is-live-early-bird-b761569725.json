@@ -1,0 +1,31 @@
+{
+  "abstract": "Scale By the Bay, the iconic developer conference, returns this, 8th year, by the global bay at https://scale.bythebay.io -- register for Early Bird passes until September 30th! As always, we have three tracks: -- thoughtful software engineering -- cloud-native applications (reactive systems and microservices) -- end-to-end data pipelines (with ML and AI) This year, due to our global nature, we expect thousands of attendees. The three tracks are structured in two days with two tracks each. We start at 6:30AM San Francisco time and have two morning keynotes, at 6:45AM and at 9:30AM, to cover both the EU and US East Coast as well as other timezones, and run until 7:30PM. We run a dedicated Q&A track and an innovative community track that will aim to recreate our legendary hallway track experience, with 20-40% of the attendees mingling and old and new friends (re)connecting. The theme of this year is Cloud-Native Applications. We focus on the best way to build them with functional programming, and best way to feed them data and use ML/AI to make them deliver for their companies. Our keynote speakers include Martin Odersky, the creator of Scala (with a Scala 3 update), Jaana Dogan of Google, and Matei Zaharia (Stanford and Databricks). The companies presenting at SBTB 2020 include Adobe, AWS, Databricks, Facebook, Google, IBM, Twitch, Twitter, Salesforce, SAP, Spotify, Wix, and more. We cover topics such as Reactive Systems, to GraphQL, JAMstack, Cloud Streaming, Stateful Serverless, TypeScript, Rust, Scala, Swift and Haskell in production, and others. Some highlights: -- the new Twitter API from the creator of Finatra -- Machine learning with Scala 3 at Twitter -- Blockchain in IoT from the inventor of the B-tree Prof. Bayer (TU Munich and catena) -- Programming hardware in Rust -- Using memory to optimize Facebook Presto latency -- MLOps on Azure -- and more. The registration is open and much lower than a physical conference. It is not free as we work to produce it and pay for the staff work and the tools we use to stream and connect, but we are able to do it at a lower cost than a physical conference. Your support allows us to do the best job and also to sustain Scale By the Bay until it will return to the actual Bay for all of us to attend. Thus we created a Patron of the Arts and Sciences By the Bay guild that will be invited to exclusive events and will form the core of those who support the community By the Bay over the years. We also invite instant sponsors to register and share their logo with us. If your company would like to sponsor at higher levels, the prospectus is available. We hope to see you by the bay soon, online and for real!",
+  "conference_id": null,
+  "date_time": "2020-09-30T23:59:00-07:00",
+  "end_time": "2020-10-01T01:59:00-07:00",
+  "event_id": "273147779",
+  "event_title": "Scale By the Bay 2020 Program is Live, Early Bird Registration Open until 9/30",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scale-by-the-bay-2020-program-is-live-early-bird-registration-open-until-9-30-event:scale-by-the-bay-2020-program-is-live-early-bird-registration-open-until-9-30",
+  "kind": "announcement",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scale-by-the-bay-2020-program-is-live-early-bird-registration-open-until-9-30-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scale-by-the-bay-2020-program-is-live-early-bird-registration-open-until-9-30-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/273147779/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "Scale By the Bay 2020 Program is Live, Early Bird Registration Open until 9/30",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/273147779/"
+}

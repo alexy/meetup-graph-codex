@@ -1,0 +1,25 @@
+{
+  "id": "company:hashicorp",
+  "name": "HashiCorp",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-kerim-satirli-hashicorp.json",
+    "data/raw/sources/bythebay-20260508-tu-nguyen-hashicorp.json",
+    "data/raw/sources/bythebay-20260508-enterprise-ready-document-processing-for-ai-kerim-satirli-hashicorp-tu-nguyen-staff-education-engineer.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-kerim-satirli-hashicorp",
+    "bythebay-20260508-tu-nguyen-hashicorp",
+    "bythebay-20260508-enterprise-ready-document-processing-for-ai-kerim-satirli-hashicorp-tu-nguyen-staff-education-engineer"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:kerim-satirli",
+    "speaker:tu-nguyen"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-enterprise-ready-document-processing-for-ai-kerim-satirli-hashicorp-tu-nguyen-staff-education-engineer:enterprise-ready-document-processing-for-ai"
+  ],
+  "type": "company"
+}

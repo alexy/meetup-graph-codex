@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2021-04-14T17:30:00-07:00",
+  "end_time": "2021-04-14T19:00:00-07:00",
+  "event_id": "276753362",
+  "event_title": "Introduction to Cats Parse By Jeff Lewis",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-introduction-to-cats-parse-by-jeff-lewis-jeff-lewis:45pm-introduction-to-cats-parse",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-introduction-to-cats-parse-by-jeff-lewis-jeff-lewis.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-introduction-to-cats-parse-by-jeff-lewis-jeff-lewis"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/276753362/"
+  ],
+  "speaker_ids": [
+    "speaker:jeff-lewis"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:jeff-lewis",
+      "name": "Jeff Lewis",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "45pm Introduction to Cats Parse",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/276753362/"
+}

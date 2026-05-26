@@ -1,0 +1,33 @@
+{
+  "abstract": "THIS IS A WEB CONFERENCE ONLY. TIME OF WEB CONFERENCE LOCALLY IS BASED ON LIVE-STREAM START - PACIFIC DAYLIGHT TIME. DETAILS TO CONNECT TO LIVE-STREAM ARE INDICATED BELOW. Apache Spark is an open source processing engine built around speed, ease of use, and analytics. If you have large amounts of data that requires low latency processing that a typical Map Reduce program cannot provide, Spark is the alternative. Spark performs at speeds up to 100 times faster than Map Reduce for iterative algorithms or interactive data mining. Spark provides in-memory cluster computing for lightning fast speed and supports Java, Scala, and Python APIs for ease of development. Spark allows data scientists to build models quickly and supports iterative jobs on distributed datasets. This means more people can apply deep intelligence into applications to make everything smarter, including the Internet of Things (IoT), machine learning, web, mobile, social, business process and more. Do you believe in the value of Spark, in the speed, efficiency and flexibility of this in-memory compute engine? IBM does. Emphatically.That's why we're committed to do everything we can to accelerate the adoption of Spark for enterprise analytics, where Spark promises seemingly unlimited value. On June 15, 2015, IBM will host a Spark Community event in San Francisco, California: IBM | Spark - The Start of Something Big in Data and Design. There will be a live demo showcase, refreshments, and a Town Hall discussion featuring some of the most trail-blazing data scientists in today's Spark Community, including: • Edd Dumbill, VP Strategy, Silicon Valley Data Science • Mike Tamir, Chief Science Officer & VP of Data Science & Education at Galvanize • Fernando Perez, Staff Scientist at Lawrence Berkeley National Laboratory & Founding Investigator of the Berkeley Institute for Data Science • Haoyuan Li, CEO and Founder of Tachyon Nexus • Shankar Venkataraman, Distinguished Engineer & CTO, IBM Analytics Platform at IBM • Paco Nathan, Director, Community Evangelism, Databricks Spark Community members will also deliver 5-minute lightning talks to describe exciting projects they're working on. We will provide a livestream presentation of what these Spark leaders have to say. Live Streaming Link: To get additional details about Spark you can sign up now for a reminder at: http://www.ibm.com/analytics/us/en/technology/spark/ Scroll down to \"Can't attend in Person\"? Sign up for a reminder and add it to your calendar. Additional information on Spark: Link to Spark Fundamentals Course in Big Data University http://bigdatauniversity.com/bdu-wp/bdu-course/spark-fundamentals/ Link to Spark Technology Information http://www.ibm.com/analytics/us/en/technology/spark/ Happy Sparking",
+  "conference_id": null,
+  "date_time": "2015-06-15T22:00:00-04:00",
+  "end_time": "2015-06-16T23:45:00-04:00",
+  "event_id": "223230089",
+  "event_title": "IBM | Spark - The start of something big in data & design (Web Conference Only))",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-spark-the-start-of-something-big-in-data-design-web-conference-only-event:ibm-spark-the-start-of-something-big-in-data-design-web-conference-only",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:apache-spark"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-spark-the-start-of-something-big-in-data-design-web-conference-only-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-spark-the-start-of-something-big-in-data-design-web-conference-only-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/223230089/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "IBM | Spark - The start of something big in data & design (Web Conference Only))",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/223230089/"
+}

@@ -1,0 +1,31 @@
+{
+  "abstract": "Topic repeated at 2 different times, please join the session that is best suited for your time zone. With the vast increase in computing power, quantum computers promise to revolutionize many fields including artificial intelligence, medicine and space exploration. But they may also be abused to break key cryptographic algorithms we depend upon for the safety of our digital world. This poses a risk for a wide range of areas such as securing data communications, signing certificates for establishing trust, signing financial transactions in blockchain, signing software for secure distribution, signing legal documents, verifying authenticity of messages and protecting sensitive data. Fortunately, alternate cryptographic algorithms which are safe against attacks by both quantum and classical computers do exist. In fact, the US National Institute of Standards and Technology (NIST) has just recently announced such alternatives, following the completion of the third round of the Post-Quantum Cryptography (PQC) standardization process. In total, four PQC algorithms have been selected by NIST, one for key establishment (CRYSTALS-KYBER) and three for digital signature (CRYSTALS-Dilithium, FALCON and SPHINCS). While this is encouraging, the major challenge ahead is transitioning today’s encryption implementations into Quantum Safe Encryption (QSE). This session describes how exactly quantum computers impact encryption and outlines an approach for guiding organizations to transition to QSE. Presenter: Dr. Walid Rjaibi Dr. Walid Rjaibi is a Distinguished Engineer and CTO for Data Security at IBM. He drives the research for data security as well as the technical architecture and vision for products and services. Prior to his current role, Walid held several technical and management roles within IBM including Research Staff Member at the IBM Zurich Research Lab, Security Architect for DB2 at the IBM Toronto Lab, and Chief Security Architect for Data & AI at the IBM Toronto Lab. His Data Security work resulted in 27 granted patents, publications in leading scientific and academic journals/conferences, and industry-proven commercial capabilities that are relied upon by thousands of organizations from around the world to protect critical data and meet security and compliance mandates. Walid also serves on the professional advisory board for the department of Electrical Engineering & Computer Science at York University, the department of Computer & Information Systems at the University of Michigan and the Cybersecurity Center at the University of Missouri. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/r8deb9a89b32cfa0444166321377aec05",
+  "conference_id": null,
+  "date_time": "2023-08-02T08:00:00-04:00",
+  "end_time": "2023-08-02T09:00:00-04:00",
+  "event_id": "293934458",
+  "event_title": "Transitioning to Quantum Safe Encryption",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-transitioning-to-quantum-safe-encryption-event-3:transitioning-to-quantum-safe-encryption",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-transitioning-to-quantum-safe-encryption-event-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-transitioning-to-quantum-safe-encryption-event-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293934458/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Transitioning to Quantum Safe Encryption",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/293934458/"
+}

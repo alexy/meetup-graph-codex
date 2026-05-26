@@ -1,0 +1,18 @@
+{
+  "id": "company:northeastern-university",
+  "name": "Northeastern University",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-dr-bethany-edmunds-northeastern-university.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-dr-bethany-edmunds-northeastern-university"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:dr-bethany-edmunds"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

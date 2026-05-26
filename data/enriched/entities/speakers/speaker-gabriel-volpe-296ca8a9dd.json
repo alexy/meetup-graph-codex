@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:gabriel-volpe",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Gabriel Volpe",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-what-is-nix-and-how-it-can-improve-your-scala-projects-gabriel-volpe-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-what-is-nix-and-how-it-can-improve-your-scala-projects-gabriel-volpe.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-what-is-nix-and-how-it-can-improve-your-scala-projects-gabriel-volpe-2",
+    "bythebay-20260508-sf-scala-what-is-nix-and-how-it-can-improve-your-scala-projects-gabriel-volpe"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/273606985/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-what-is-nix-and-how-it-can-improve-your-scala-projects-gabriel-volpe:35am-what-is-nix-and-how-it-can-improve-your-scala-projects"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

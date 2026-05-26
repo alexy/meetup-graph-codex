@@ -1,0 +1,31 @@
+{
+  "abstract": "IBM values our community of clients and business partners. Each year, we support and build our community by working closely with IBM advocates and helping them to become IBM Champions (http://www.ibm.com/developerworks/champion/) IBM Champions are a select group of external advocates made up of clients, business partners and independent consultants who make exceptional contributions to the technical community by speaking at conferences, running or actively participating in user groups, evangelizing relevant technical topics via social media, and helping our clients make the most of IBM technology. We are looking for clients and business partners to join the program and are looking for applications in the areas of data science, data engineering, application development, and business analytics. Nominations are due by Monday, November 28, 2016 The Champion program is open to candidates worldwide, and candidates may self-nominate or be nominated by someone else. IBM employees are not eligible for the program. Some benefits of the IBM Champion program: - IBM Champions advocate IBM offerings in the community with competence and credibility (content, blogs, presentations, customer references, analyst/press, videos/podcasts, etc.) - IBM Champions share knowledge with and provide support to the IBM user community (books, articles, blogs, forums, presentations, education, beta programs and customer advisory councils etc.) - IBM Champions support IBM as brand ambassadors who build awareness, share product knowledge, and provide product feedback as users and beta testers Read this blog post (https://www.ibm.com/developerworks/community/blogs/ibmchampion/entry/Nominate an IBM Champion Nominations OPEN?lang=en) for full IBM Champion program criteria, guidelines and the nomination form. To learn more about the IBM Champion program from current Champions and Worldwide IBM Champion coordinator Libby Ingrassia, listen to this webcast (https://ibm2.webex.com/ec3100/eventcenter/recording/recordAction.do?theAction=poprecord&siteurl=ibm2&entappname=url3100&internalRecordTicket=4832534b00000002ed04dabb7c4dfbe255318214758c39900441e206be2ecb71765e9832f1af34b8&renewticket=0&isurlact=true&format=short&rnd=3315557804&RCID=3855f080a3a7e1133bcd207eefd89727&rID=52765987&needFilter=false&recordID=52765987&apiname=lsr.php&AT=pb&actappname=ec3100&&SP=EC&entactname=%2FnbrRecordingURL.do&actname=%2Feventcenter%2Fframe%2Fg.do). Be sure to share the blog and webcast with clients and colleagues who would make great IBM Champions",
+  "conference_id": null,
+  "date_time": "2016-11-29T19:00:00-05:00",
+  "end_time": "2016-11-29T22:00:00-05:00",
+  "event_id": "235621722",
+  "event_title": "IBM Champions - Call for Nominations",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-champions-call-for-nominations-event:ibm-champions-call-for-nominations",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-champions-call-for-nominations-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-champions-call-for-nominations-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/235621722/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "IBM Champions - Call for Nominations",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/235621722/"
+}

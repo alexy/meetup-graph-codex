@@ -1,0 +1,50 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:2024-5-30pm",
+      "company_name": "2024 5:30PM",
+      "title": "attend: Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. When: October 15"
+    }
+  ],
+  "company_id": "company:2024-5-30pm",
+  "company_ids": [
+    "company:2024-5-30pm"
+  ],
+  "company_name": "2024 5:30PM",
+  "company_names": [
+    "2024 5:30PM"
+  ],
+  "conference_ids": [],
+  "id": "speaker:who-should",
+  "meetup_ids": [
+    "meetup:36468260"
+  ],
+  "name": "Who Should",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-hakan-tekgul-2.json",
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-11.json",
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-hakan-tekgul.json",
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-hakan-tekgul-2",
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-11",
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-hakan-tekgul",
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/302334199/",
+    "https://www.meetup.com/unstructured-data-sf/events/301140497/",
+    "https://www.meetup.com/unstructured-data-sf/events/303687526/"
+  ],
+  "talk_ids": [
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-11:multimodal-embeddings",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-hakan-tekgul:unstructured-data-in-llms-south-bay-edition",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3:infinite-world-generation-with-outlines"
+  ],
+  "title": "attend: Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. When: October 15",
+  "titles": [
+    "attend: Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. When: October 15"
+  ],
+  "type": "speaker"
+}

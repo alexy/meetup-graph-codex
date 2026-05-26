@@ -1,0 +1,36 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "for IBM Language, where she builds reusable language processing algorithms that serve as the NLP foundation"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:chief-architect",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Chief Architect",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/285938364/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-2:speaker-bios"
+  ],
+  "title": "for IBM Language, where she builds reusable language processing algorithms that serve as the NLP foundation",
+  "titles": [
+    "for IBM Language, where she builds reusable language processing algorithms that serve as the NLP foundation"
+  ],
+  "type": "speaker"
+}

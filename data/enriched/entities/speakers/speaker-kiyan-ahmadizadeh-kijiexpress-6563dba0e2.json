@@ -1,0 +1,26 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:kiyan-ahmadizadeh-kijiexpress",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Kiyan Ahmadizadeh KijiExpress",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-kiyan-ahmadizadeh-kijiexpress-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-kiyan-ahmadizadeh-kijiexpress-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/136499862/"
+  ],
+  "talk_ids": [],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

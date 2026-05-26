@@ -1,0 +1,25 @@
+{
+  "id": "company:redpanda",
+  "name": "Redpanda",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-chandler-mayo-redpanda.json",
+    "data/raw/sources/bythebay-20260508-peter-corless-redpanda.json",
+    "data/raw/sources/bythebay-20260508-ai-and-data-streaming-integrating-agents-with-data-in-motion-for-real-time-enterprise-intelligence-peter-corless-redpanda.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-chandler-mayo-redpanda",
+    "bythebay-20260508-peter-corless-redpanda",
+    "bythebay-20260508-ai-and-data-streaming-integrating-agents-with-data-in-motion-for-real-time-enterprise-intelligence-peter-corless-redpanda"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:chandler-mayo",
+    "speaker:peter-corless"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-ai-and-data-streaming-integrating-agents-with-data-in-motion-for-real-time-enterprise-intelligence-peter-corless-redpanda:ai-and-data-streaming-integrating-agents-with-data-in-motion-for-real-time-enterprise-inte"
+  ],
+  "type": "company"
+}

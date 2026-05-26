@@ -1,0 +1,28 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:clojure-david",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Clojure. David",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-david-pollak-scala-and-clojure-playing-well-together-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-david-pollak-scala-and-clojure-playing-well-together-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/222841619/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-david-pollak-scala-and-clojure-playing-well-together-event:david-pollak-scala-and-clojure-playing-well-together"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

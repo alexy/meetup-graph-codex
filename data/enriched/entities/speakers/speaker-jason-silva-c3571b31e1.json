@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:jason-silva",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Jason Silva",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-you-are-invited-to-meetup-night-at-at-t-park-jason-silva-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-you-are-invited-to-meetup-night-at-at-t-park-jason-silva.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-you-are-invited-to-meetup-night-at-at-t-park-jason-silva-2",
+    "bythebay-20260508-scala-bay-you-are-invited-to-meetup-night-at-at-t-park-jason-silva"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/231829167/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-you-are-invited-to-meetup-night-at-at-t-park-jason-silva:you-are-invited-to-meetup-night-at-at-t-park"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

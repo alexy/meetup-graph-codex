@@ -1,0 +1,40 @@
+{
+  "abstract": "Abstract We all know testing is important, but often end up cutting corners because its too much effort. Come learn how to make testing Spark programs less effort and save your self from future production disasters when your recommendation system starts to return no results. We will explore how to quickly make tests for regular Spark programs, working with DataFrames, and special considerations for making effective unit tests for Spark Streaming. If you are super excited about the subject of testing Spark programs, make sure to also checkout the corresponding Strata NY talk for even more Spark testing fun. http://strataconf.com/big-data-conference-ny-2015/public/schedule/detail/42993 Bio Holden Karau is a software development engineer at Alpine Data Labs who is active in open source. She is one of the co-authors of the Learning Spark book as well as the author of the first Spark book and has taught Spark workshops. When she isn't wrangling software or data, she enjoys playing with fire and dancing. Parking at Box HQ There is street parking available on Del Medio Avenue, Loucks Ave and Los Altos Ave. Please do not attempt to park in the parking garage at Box HQ, as access into and out of the garage is restricted, and we do not want to leave you and your car stranded in the garage!",
+  "conference_id": null,
+  "date_time": "2015-09-09T19:00:00-07:00",
+  "end_time": "2015-09-09T21:30:00-07:00",
+  "event_id": "225125389",
+  "event_title": "Effective Testing of Spark Programs",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-effective-testing-of-spark-programs-bio-holden-karau:effective-testing-of-spark-programs",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-effective-testing-of-spark-programs-bio-holden-karau.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-effective-testing-of-spark-programs-bio-holden-karau"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/225125389/"
+  ],
+  "speaker_ids": [
+    "speaker:bio-holden-karau"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:bio-holden-karau",
+      "name": "Bio Holden Karau",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Effective Testing of Spark Programs",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/225125389/"
+}

@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:active-records",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Active Records",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-activerecord-type-safe-active-record-model-for-scala-active-records-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-activerecord-type-safe-active-record-model-for-scala-active-records.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-scala-activerecord-type-safe-active-record-model-for-scala-active-records-2",
+    "bythebay-20260508-scala-bay-scala-activerecord-type-safe-active-record-model-for-scala-active-records"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/123134782/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-activerecord-type-safe-active-record-model-for-scala-active-records:scala-activerecord-type-safe-active-record-model-for-scala"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

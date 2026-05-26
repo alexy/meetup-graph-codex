@@ -1,0 +1,43 @@
+{
+  "id": "meetup:36468260",
+  "name": "Unstructured Data Meetup Bay Area",
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/?type=past"
+  ],
+  "talk_ids": [
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-milvus-community-talks-event:milvus-community-talks",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-event:unstructured-data-meetup",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event:unstructured-data-in-llms",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-document-hierarchies:small-to-big",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-2:unstructured-data-in-llms",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-3:unstructured-data-in-llms",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-4:unstructured-data-in-llms",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-5:unstructured-data-in-llms",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-6:unstructured-data-in-llms",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-7:unstructured-data-in-llms",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-8:unstructured-data-in-llms",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-10:unstructured-data-in-llms",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event:unstructured-data-in-llms-south-bay-edition",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-event-2:unstructured-data-meetup",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-the-4th-ai-alliance-meetup-the-unstructured-data-meetup-christopher-nguyen:the-4th-ai-alliance-meetup-the-unstructured-data-meetup",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-9:unstructured-data-in-llms",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-2:unstructured-data-in-llms-south-bay-edition",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-11:multimodal-embeddings",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-kate-grossman:unstructured-data-in-llms-south-bay-edition",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-south-bay-edition-event:unstructured-data-meetup-south-bay-edition",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-south-bay-edition-bill-zhang:unstructured-data-meetup-south-bay-edition",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-hakan-tekgul:unstructured-data-in-llms-south-bay-edition",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-hakan-tekgul:unstructured-data-meetup",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3:infinite-world-generation-with-outlines",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-rob-quiros:unstructured-data-in-llms-south-bay-edition",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-efficient-inference:unstructured-data-meetup",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-event-3:unstructured-data-meetup",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-workshop-with-milvus-and-openai-harry-zhao-openai-talk-1:from-o1-to-o3-how-reasoning-transformed-ai-and-launched-a-new-generation-of-agents",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-workshop-with-milvus-and-openai-harry-zhao-openai-talk-2:hands-on-tutorial-building-an-agent-to-reason-about-private-data-with-milvus-stefan-webb-z",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-sf-event:unstructured-data-meetup-sf",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-lu-ma-ai-registration-graph-exchange-reliable-ai-open-mic-event:graph-exchange-reliable-ai-open-mic"
+  ],
+  "timezone": "America/Los_Angeles",
+  "type": "meetup",
+  "url": "https://www.meetup.com/unstructured-data-sf/events/?type=past"
+}

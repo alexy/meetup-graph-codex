@@ -1,0 +1,51 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:rocana",
+      "company_name": "Rocana",
+      "title": null
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Rocana"
+    }
+  ],
+  "company_id": "company:rocana",
+  "company_ids": [
+    "company:rocana"
+  ],
+  "company_name": "Rocana",
+  "company_names": [
+    "Rocana"
+  ],
+  "conference_ids": [],
+  "id": "speaker:joey-echeverria",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Joey Echeverria",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana-2",
+    "bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana",
+    "bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/230691040/",
+    "https://www.meetup.com/hadoopsf/events/224902669/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana:november-2015-meetup",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana:june-2016-meetup"
+  ],
+  "title": "Rocana",
+  "titles": [
+    "Rocana"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,56 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2016-02-17T18:30:00-08:00",
+  "end_time": "2016-02-17T21:30:00-08:00",
+  "event_id": "228814274",
+  "event_title": "A Data Pipeline for the Internet of Data Centers; Agile Data Science with Scala",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event-talk-2:andy-petrella-xavier-tordoir-agile-data-science-with-scala",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [
+    "project:spark"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/228814274/"
+  ],
+  "speaker_ids": [
+    "speaker:xj-liu",
+    "speaker:andy-petrella",
+    "speaker:xavier-tordoir"
+  ],
+  "speakers": [
+    {
+      "company_name": "CloudPhysics",
+      "id": "speaker:xj-liu",
+      "name": "XJ Liu",
+      "title": "Chief Scientist"
+    },
+    {
+      "company_name": null,
+      "id": "speaker:andy-petrella",
+      "name": "Andy Petrella",
+      "title": null
+    },
+    {
+      "company_name": "Founders, DataFellas",
+      "id": "speaker:xavier-tordoir",
+      "name": "Xavier Tordoir",
+      "title": "will walk through a unified environment starting"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Andy Petrella & Xavier Tordoir, Agile Data Science with Scala",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/228814274/"
+}

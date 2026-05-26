@@ -1,0 +1,22 @@
+{
+  "id": "company:openaisrisatish-ambati",
+  "name": "OpenAISriSatish Ambati",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-lukas-biewald-openaisrisatish-ambati.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-lukas-biewald-openaisrisatish-ambati"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/237166274/"
+  ],
+  "speaker_ids": [
+    "speaker:lukas-biewald"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-lukas-biewald-openaisrisatish-ambati:ai-by-the-bay-self-driving-cars-march-6-8-san-francisco",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-reproducible-machine-learning-at-scale-lukas-biewald-deep-learning:reproducible-machine-learning-at-scale",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-the-ai-meetup-is-back-in-person-large-language-models-and-personalized-ai-john-andersen:the-ai-meetup-is-back-in-person-large-language-models-and-personalized-ai"
+  ],
+  "type": "company"
+}

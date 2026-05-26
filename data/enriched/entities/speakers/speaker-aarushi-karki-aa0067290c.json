@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:aarushi-karki",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Aarushi Karki",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-2-learning-about-quantum-computing-in-healthcare-aarushi-karki-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-2-learning-about-quantum-computing-in-healthcare-aarushi-karki.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-2-learning-about-quantum-computing-in-healthcare-aarushi-karki-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-2-learning-about-quantum-computing-in-healthcare-aarushi-karki-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-2-learning-about-quantum-computing-in-healthcare-aarushi-karki",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-2-learning-about-quantum-computing-in-healthcare-aarushi-karki-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/296566704/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/296566558/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-2-learning-about-quantum-computing-in-healthcare-aarushi-karki:quantum-careers-part-2-learning-about-quantum-computing-in-healthcare",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-2-learning-about-quantum-computing-in-healthcare-aarushi-karki-3:quantum-careers-part-2-learning-about-quantum-computing-in-healthcare"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

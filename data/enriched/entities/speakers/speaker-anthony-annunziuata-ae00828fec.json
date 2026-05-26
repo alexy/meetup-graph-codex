@@ -1,0 +1,46 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ibm",
+      "company_name": "IBM",
+      "title": "Director and General Manager (Product, Engineering and GTM), AI and Quantum Accelerated Science"
+    },
+    {
+      "company_id": "company:ibm",
+      "company_name": "IBM",
+      "title": "Director and General Manager (Product, Engineering and GTM"
+    }
+  ],
+  "company_id": "company:ibm",
+  "company_ids": [
+    "company:ibm"
+  ],
+  "company_name": "IBM",
+  "company_names": [
+    "IBM"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:anthony-annunziuata",
+  "meetup_ids": [],
+  "name": "Anthony Annunziuata",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-keynote-ai-quantum-and-ai-quantum-what-s-real-what-s-coming-and-what-s-the-point-anthony-annunziuata-ibm.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-keynote-ai-quantum-and-ai-quantum-what-s-real-what-s-coming-and-what-s-the-point-anthony-annunziuata-ibm"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-keynote-ai-quantum-and-ai-quantum-what-s-real-what-s-coming-and-what-s-the-point-anthony-annunziuata-ibm:keynote-ai-quantum-and-ai-quantum-whats-real-whats-coming-and-whats-the-point"
+  ],
+  "title": "Director and General Manager (Product, Engineering and GTM), AI and Quantum Accelerated Science",
+  "titles": [
+    "Director and General Manager (Product, Engineering and GTM), AI and Quantum Accelerated Science",
+    "Director and General Manager (Product, Engineering and GTM"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,54 @@
+{
+  "abstract": "Topic repeated at 2 different times, please join the session that is best suited for your time zone. You have probably heard about Data Mesh architecture and might be wondering how it compares to Data Fabric architecture. Join this session to learn: How Data Fabric can simplify access to data in today’s siloed data landscapes How to use Data Mesh architecture to break down Data Lake monoliths and empower domain teams towards owning and serving data How to set up Federated Governance operational model according to Data Mesh principles using Open Source Presenters: Lena Woolf, Neeru Gupta Lena Woolf is an experienced Senior Technical Staff Member of IBM Watson Knowledge Catalog, Data and AI. Over the course of her IBM career, Lena has made sustained technical contributions to IBM software products and has been recognized as a deep technical expert and a recognized thought leader in the fields of Information Management and Governance. Lena has been at the forefront of many key transformational initiatives, including Cloud Native Transformation strategy and Platform Based Software strategy. Lena regularly speaks at professional conferences. As an inventor, she has contributed to many patents and constantly pushes the boundaries of what’s possible with IBM technology. Lena is passionate about providing a gender inclusive workspace where everyone can collaborate to drive innovation and business growth. Neeru Gupta is a Senior Software Engineer with Watson Knowledge Catalog in IBM Data and AI. She has worked in Big data and data discovery for more than two decades. Having worked in small startups and big enterprises, Neeru loves to apply design thinking to solve technical problems while keeping customer’s experience as a top priority. Neeru has published papers and has patented IBM technology, and believes in providing equal opportunities for everyone. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/rffda6e9807d284f0fd2efe3b65337461",
+  "conference_id": null,
+  "date_time": "2023-06-07T08:00:00-04:00",
+  "end_time": "2023-06-07T09:00:00-04:00",
+  "event_id": "292588278",
+  "event_title": "How to Architect your Data Mesh based on Data Fabric and Open Source",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-architect-your-data-mesh-based-on-data-fabric-and-open-source-lena-woolf:how-to-architect-your-data-mesh-based-on-data-fabric-and-open-source",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-architect-your-data-mesh-based-on-data-fabric-and-open-source-lena-woolf.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-architect-your-data-mesh-based-on-data-fabric-and-open-source-lena-woolf"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292588278/"
+  ],
+  "speaker_ids": [
+    "speaker:lena-woolf",
+    "speaker:neeru-gupta",
+    "speaker:neeru-gupta-lena-woolf"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:lena-woolf",
+      "name": "Lena Woolf",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:neeru-gupta",
+      "name": "Neeru Gupta",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:neeru-gupta-lena-woolf",
+      "name": "Neeru Gupta Lena Woolf",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "How to Architect your Data Mesh based on Data Fabric and Open Source",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/292588278/"
+}

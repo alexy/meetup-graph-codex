@@ -1,0 +1,31 @@
+{
+  "abstract": "Open-Source Program Office (OSPO) at UC Santa Cruz, Open-Source Science Initiative at NumFOCUS (https://oprnsource.science) and IBM Research invite you to a meetup at the UCSC legendary Cowell Ranch Hay Barn (https://cowellhaybarn.ucsc.edu), diving onto OSS for Science! Please register on Eventbrite for in-person access. OSSci t-shirts and great food/drinks will be on offer! https://www.eventbrite.com/e/ossci-meetup-increasing-research-impact-through-open-source-and-open-data-tickets-515172082567 Core panel themes will include the way AI will accelerate and disrupt science. Panelists include OSS veterans, faculty and startup founders as well as scientific OSS community managers experienced in all aspects of OSS applications",
+  "conference_id": null,
+  "date_time": "2023-02-16T17:00:00-08:00",
+  "end_time": "2023-02-16T19:00:00-08:00",
+  "event_id": "291236454",
+  "event_title": "Open-Source Science",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-open-source-science-event:open-source-science",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-open-source-science-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-open-source-science-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/291236454/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Open-Source Science",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/291236454/"
+}

@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:akamai",
+      "company_name": "Akamai",
+      "title": "Senior Director of Developer Relations"
+    }
+  ],
+  "company_id": "company:akamai",
+  "company_ids": [
+    "company:akamai"
+  ],
+  "company_name": "Akamai",
+  "company_names": [
+    "Akamai"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:lena-hall",
+  "meetup_ids": [],
+  "name": "Lena Hall",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-lena-hall-akamai.json",
+    "data/raw/sources/bythebay-20260508-context-is-all-you-need-the-art-and-science-of-information-design-lena-hall-akamai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-lena-hall-akamai",
+    "bythebay-20260508-context-is-all-you-need-the-art-and-science-of-information-design-lena-hall-akamai"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-context-is-all-you-need-the-art-and-science-of-information-design-lena-hall-akamai:context-is-all-you-need-the-art-and-science-of-information-design"
+  ],
+  "title": "Senior Director of Developer Relations",
+  "titles": [
+    "Senior Director of Developer Relations"
+  ],
+  "type": "speaker"
+}

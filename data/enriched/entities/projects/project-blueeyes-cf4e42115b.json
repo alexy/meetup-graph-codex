@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:blueeyes",
+  "name": "BlueEyes",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-james-ward-and-mike-slinn-akka-heroku-sbt-and-blueeyes-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-james-ward-and-mike-slinn-akka-heroku-sbt-and-blueeyes-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/39108572/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-james-ward-and-mike-slinn-akka-heroku-sbt-and-blueeyes-event:james-ward-and-mike-slinn-akka-heroku-sbt-and-blueeyes"
+  ],
+  "type": "project"
+}

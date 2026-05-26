@@ -1,0 +1,26 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:dennis-traub",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Dennis Traub",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-luma-registration-required-nova-networking-night-alexy-khrabrov.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-luma-registration-required-nova-networking-night-alexy-khrabrov"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/306446191/"
+  ],
+  "talk_ids": [],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

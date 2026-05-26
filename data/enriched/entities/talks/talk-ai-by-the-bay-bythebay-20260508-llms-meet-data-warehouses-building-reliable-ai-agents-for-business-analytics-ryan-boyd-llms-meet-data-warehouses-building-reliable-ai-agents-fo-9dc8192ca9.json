@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-llms-meet-data-warehouses-building-reliable-ai-agents-for-business-analytics-ryan-boyd:llms-meet-data-warehouses-building-reliable-ai-agents-for-business-analytics",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-llms-meet-data-warehouses-building-reliable-ai-agents-for-business-analytics-ryan-boyd.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-llms-meet-data-warehouses-building-reliable-ai-agents-for-business-analytics-ryan-boyd"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:ryan-boyd"
+  ],
+  "speakers": [
+    {
+      "company_name": "Сo-founder of MotherDuck",
+      "id": "speaker:ryan-boyd",
+      "name": "Ryan Boyd",
+      "title": null
+    }
+  ],
+  "tags": [
+    "AI Infrastructure",
+    "Agentic AI",
+    "LLMOps",
+    "Context engineering"
+  ],
+  "title": "LLMs Meet Data Warehouses: Building Reliable AI Agents for Business Analytics",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/ryan-boyd"
+}

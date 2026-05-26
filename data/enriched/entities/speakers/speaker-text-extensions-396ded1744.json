@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:text-extensions",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Text Extensions",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-text-extensions-for-pandas-for-nlp-use-cases-ray-fred-reiss-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-text-extensions-for-pandas-for-nlp-use-cases-ray-fred-reiss.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-text-extensions-for-pandas-for-nlp-use-cases-ray-fred-reiss-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-text-extensions-for-pandas-for-nlp-use-cases-ray-fred-reiss",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/285357014/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/285938364/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-text-extensions-for-pandas-for-nlp-use-cases-ray-fred-reiss:introduction-to-text-extensions-for-pandas-for-nlp-use-cases-ray",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-1:ibm-further-democratizes-ai-by-open-sourcing-elyra-visual-nlp-editor"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

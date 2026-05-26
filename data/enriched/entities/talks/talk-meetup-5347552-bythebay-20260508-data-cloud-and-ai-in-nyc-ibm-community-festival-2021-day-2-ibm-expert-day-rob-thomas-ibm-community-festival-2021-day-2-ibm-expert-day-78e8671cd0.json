@@ -1,0 +1,47 @@
+{
+  "abstract": "Experts together everywhere For this festival, we will be taking over IBM Expert TV. Subscribe to IBM Expert TV and gather with our IBM Community of over 250,000 IBM users that brings together a global network of the world’s foremost technologists. This five-day festival will have days dedicated to user groups, the IBM Loyalty program, IBM experts, and our Cloud Without Compromise program with an opening keynote presentation by Rob Thomas, Senior Vice President of IBM Global Markets. We couldn’t be more excited to bring you the very best that the IBM Community has to offer. IBM Expert Day Tap into the IBM innovation pipeline of technology experts, distinguished engineers, and others to gain digital innovation skills and tools needed to automate at scale, predict outcomes, secure your business, modernize for agility, and create the architecture needed for a digital advantage. Program See the full agenda here: https://ibm.ent.box.com/s/ks6pbjxwaovpyz42j3xx7ctxpj0hdkdr Check out this Medium post for a recap of Day 1 and an outlook at the remainder of the festival: https://medium.com/ibm-data-ai/join-us-at-the-ibm-community-festival-ca28d28072dc",
+  "conference_id": null,
+  "date_time": "2021-11-09T06:00:00-05:00",
+  "end_time": "2021-11-09T22:00:00-05:00",
+  "event_id": "281961195",
+  "event_title": "IBM Community Festival 2021: Day 2 - IBM Expert Day",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-2-ibm-expert-day-rob-thomas:ibm-community-festival-2021-day-2-ibm-expert-day",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-2-ibm-expert-day-rob-thomas.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-2-ibm-expert-day-rob-thomas"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/281961195/"
+  ],
+  "speaker_ids": [
+    "speaker:rob-thomas",
+    "speaker:senior-vice-president"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:rob-thomas",
+      "name": "Rob Thomas",
+      "title": null
+    },
+    {
+      "company_name": "IBM Global Markets",
+      "id": "speaker:senior-vice-president",
+      "name": "Senior Vice President",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "IBM Community Festival 2021: Day 2 - IBM Expert Day",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/281961195/"
+}

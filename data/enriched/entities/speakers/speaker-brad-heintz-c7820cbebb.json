@@ -1,0 +1,54 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:pytorch",
+      "company_name": "PyTorch",
+      "title": "Facebook working"
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "partner engineer"
+    }
+  ],
+  "company_id": "company:pytorch",
+  "company_ids": [
+    "company:pytorch"
+  ],
+  "company_name": "PyTorch",
+  "company_names": [
+    "PyTorch"
+  ],
+  "conference_ids": [],
+  "id": "speaker:brad-heintz",
+  "meetup_ids": [
+    "meetup:18315941",
+    "meetup:18748975"
+  ],
+  "name": "Brad Heintz",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-2",
+    "bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor",
+    "bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-talk-1",
+    "bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/268317060/",
+    "https://www.meetup.com/bythebay/events/268584447/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-talk-1:pytorch-1-4-release-update-by-facebook",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor-talk-1:pytorch-1-4-release-update-by-facebook"
+  ],
+  "title": "Facebook working",
+  "titles": [
+    "Facebook working",
+    "partner engineer"
+  ],
+  "type": "speaker"
+}

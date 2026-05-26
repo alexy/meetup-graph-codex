@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2025-02-27T12:00:00-05:00",
+  "end_time": "2025-02-27T13:00:00-05:00",
+  "event_id": "306421923",
+  "event_title": "[AI Alliance] Review of Data Preparation Tools (incl. open Q&A)",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-1:review-of-data-preparation-tools-40-mins",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306421923/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Review of data preparation tools (40 mins)",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/306421923/"
+}

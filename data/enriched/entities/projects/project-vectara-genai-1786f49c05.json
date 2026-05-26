@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:vectara-genai",
+  "name": "Vectara GenAI",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-bay-area-ai-ray-summit-meetup-anish-shah.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-bay-area-ai-ray-summit-meetup-anish-shah"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/295741747/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-bay-area-ai-ray-summit-meetup-anish-shah:bay-area-ai-ray-summit-meetup"
+  ],
+  "type": "project"
+}

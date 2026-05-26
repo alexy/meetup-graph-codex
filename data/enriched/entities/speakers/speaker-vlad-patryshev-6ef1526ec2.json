@@ -1,0 +1,47 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:salesforce",
+      "company_name": "Salesforce",
+      "title": null
+    }
+  ],
+  "company_id": "company:salesforce",
+  "company_ids": [
+    "company:salesforce"
+  ],
+  "company_name": "Salesforce",
+  "company_names": [
+    "Salesforce"
+  ],
+  "conference_ids": [],
+  "id": "speaker:vlad-patryshev",
+  "meetup_ids": [
+    "meetup:18315941",
+    "meetup:2891482"
+  ],
+  "name": "Vlad Patryshev",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-functional-linear-algebra-and-holiday-party-by-the-bay-vlad-patryshev-salesforce-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-functional-linear-algebra-and-holiday-party-by-the-bay-vlad-patryshev-salesforce.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-functional-linear-algebra-and-holiday-party-by-the-bay-vlad-patryshev-salesforce-2",
+    "bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas-2",
+    "bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas-talk-1",
+    "bythebay-20260508-bay-area-ai-functional-linear-algebra-and-holiday-party-by-the-bay-vlad-patryshev-salesforce"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/245572610/",
+    "https://www.meetup.com/scala-bay/events/208276632/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas-talk-1:putting-functional-programming-to-work",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-functional-linear-algebra-and-holiday-party-by-the-bay-vlad-patryshev-salesforce:functional-linear-algebra-and-holiday-party-by-the-bay"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

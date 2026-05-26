@@ -1,0 +1,39 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-the-challenges-of-ambient-agents-toward-governable-ai-systems-at-scale-fred-patton-auth0-for-okta:the-challenges-of-ambient-agents-toward-governable-ai-systems-at-scale",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-the-challenges-of-ambient-agents-toward-governable-ai-systems-at-scale-fred-patton-auth0-for-okta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-the-challenges-of-ambient-agents-toward-governable-ai-systems-at-scale-fred-patton-auth0-for-okta"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:fred-patton"
+  ],
+  "speakers": [
+    {
+      "company_name": "Auth0 for Okta",
+      "id": "speaker:fred-patton",
+      "name": "Fred Patton",
+      "title": "Senior Developer Advocate"
+    }
+  ],
+  "tags": [
+    "Agentic AI",
+    "Context engineering",
+    "AI Infrastructure"
+  ],
+  "title": "The Challenges of Ambient Agents: Toward Governable AI Systems at Scale",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/the-challenges-of-ambient-agents%3A-toward-governable-ai-systems-at-scale"
+}

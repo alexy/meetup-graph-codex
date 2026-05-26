@@ -1,0 +1,31 @@
+{
+  "abstract": "Many thanks to Ticketfly, who will be hosting this month's Unmeetup. Please join us for a community-driven evening of side projects, workshops, lightning talks, and open-source hacking. What is an \"Unmeetup\"? An unmeetup is a casual community-driven, hands-on meetup modeled after unconferences (https://en.wikipedia.org/wiki/Unconference). Members propose topics to discuss and projects to work on, then each individual chooses how to spend their time for the evening. This is complementary to the standard meetup and emphasizes community-building and collaboration. You should join if you: • would like to offer a workshop or lightning talk. • want to find contributors for your open source project. • are new to Scala and want to work with other Scala developers. • are experienced with Scala and want to mentor others. • have cool work-in-progress and want feedback. • just want to hack on a project! A project could be a side projects, open source, or code from work you'd like to bounce ideas about. Agenda TBD After all the sessions are introduced, rooms are allocated based on interest, and participants are left to find each other and hack away!",
+  "conference_id": null,
+  "date_time": "2016-08-23T18:00:00-07:00",
+  "end_time": "2016-08-23T21:00:00-07:00",
+  "event_id": "233316967",
+  "event_title": "SF Scala Unmeetup @ Ticketfly",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-event:sf-scala-unmeetup-ticketfly",
+  "kind": "workshop",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/233316967/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "SF Scala Unmeetup @ Ticketfly",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/233316967/"
+}

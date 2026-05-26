@@ -1,0 +1,31 @@
+{
+  "abstract": "· Speaker: Dr. Rosario Uceda-Sosa, Senior Technical Staff Member, IBM · Duration: 30 minutes including Q&A",
+  "conference_id": null,
+  "date_time": "2023-07-12T08:00:00-04:00",
+  "end_time": "2023-07-12T09:00:00-04:00",
+  "event_id": "293933526",
+  "event_title": "Best of WiDS at IBM 2023: Talks on Language Models and Foundation Models",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo-tal:open-source-knowledge-for-language-models",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293933526/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Open-Source Knowledge for Language Models",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/293933526/"
+}

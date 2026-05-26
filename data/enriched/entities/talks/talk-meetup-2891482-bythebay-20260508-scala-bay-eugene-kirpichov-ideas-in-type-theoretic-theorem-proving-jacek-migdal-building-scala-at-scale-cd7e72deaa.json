@@ -1,0 +1,40 @@
+{
+  "abstract": "Description: How Sumo Logic achieves fast Scala compilation time through modularization and a few handy tricks (from organizers) This is a rather unusual topic for Scala meetups; but I think we need to refresh our brains and get some new ideas from outside the box (no pun) Short description. This talk explains how writing programs and proving theorems are really the same thing, introducing one by one several of the most important ideas behind type-theoretic proof assistants such as Coq. No prior experience with type theory required",
+  "conference_id": null,
+  "date_time": "2014-05-12T19:00:00-07:00",
+  "end_time": "2014-05-12T22:00:00-07:00",
+  "event_id": "178469482",
+  "event_title": "Eugene Kirpichov. Ideas in type-theoretic theorem proving",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-eugene-kirpichov-ideas-in-type-theoretic-theorem-proving-jacek-migdal:building-scala-at-scale",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-eugene-kirpichov-ideas-in-type-theoretic-theorem-proving-jacek-migdal.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-eugene-kirpichov-ideas-in-type-theoretic-theorem-proving-jacek-migdal"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/178469482/"
+  ],
+  "speaker_ids": [
+    "speaker:eugene-kirpichov"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:eugene-kirpichov",
+      "name": "Eugene Kirpichov",
+      "title": "n engineer"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Building Scala at scale",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/178469482/"
+}

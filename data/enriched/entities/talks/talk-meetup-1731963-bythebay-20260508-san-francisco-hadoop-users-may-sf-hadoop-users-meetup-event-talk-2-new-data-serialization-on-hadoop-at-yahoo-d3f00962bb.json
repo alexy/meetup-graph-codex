@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2014-05-14T18:00:00-07:00",
+  "end_time": "2014-05-14T21:00:00-07:00",
+  "event_id": "179881622",
+  "event_title": "May SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-may-sf-hadoop-users-meetup-event-talk-2:new-data-serialization-on-hadoop-at-yahoo",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-may-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-may-sf-hadoop-users-meetup-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/179881622/"
+  ],
+  "speaker_ids": [
+    "speaker:nandu-jayakumar"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:nandu-jayakumar",
+      "name": "Nandu Jayakumar",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "New Data Serialization on Hadoop at Yahoo",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/179881622/"
+}

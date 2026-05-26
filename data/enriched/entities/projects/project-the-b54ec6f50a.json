@@ -1,0 +1,43 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:the",
+  "name": "The",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-machine-learning-in-scala-at-medium-event.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-applied-machine-learning-a-netflix-production-deep-recommendations-at-twitch-julie-pitt.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-dspy-and-graphrag-making-genai-real-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill",
+    "bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits",
+    "bythebay-20260508-sf-scala-machine-learning-in-scala-at-medium-event",
+    "bythebay-20260508-bay-area-ai-applied-machine-learning-a-netflix-production-deep-recommendations-at-twitch-julie-pitt",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-1",
+    "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-dspy-and-graphrag-making-genai-real-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/203999322/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/232021862/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/246046747/",
+    "https://www.meetup.com/sf-scala/events/248306984/",
+    "https://www.meetup.com/bay-area-ai/events/260707660/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/285938364/",
+    "https://www.meetup.com/bay-area-ai/events/302540816/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill:high-performance-services-and-framework-less-dependency-injection",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park:building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits:enterprise-data-science-at-scale",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-machine-learning-in-scala-at-medium-event:machine-learning-in-scala-at-medium",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-applied-machine-learning-a-netflix-production-deep-recommendations-at-twitch-julie-pitt:applied-machine-learning-a-netflix-production-deep-recommendations-at-twitch",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-1:ibm-further-democratizes-ai-by-open-sourcing-elyra-visual-nlp-editor",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-dspy-and-graphrag-making-genai-real-event:dspy-and-graphrag-making-genai-real"
+  ],
+  "type": "project"
+}

@@ -1,0 +1,45 @@
+{
+  "abstract": "Elyra-Canvas (https://github.com/elyra-ai/canvas) is a sophisticated library powered by two NodeJS modules for creation of visual no code / low code development environments. It powers the open source Elyra ML Pipeline Editor as well as many tools in IBM’s product portfolio in Cloud Pak for Data such as DataStage, Modeler, Watson Studio Pipelines and a Neural Network Designer With Elyra visual NLP, IBM donates another open source visual no code / low code development environment which enables users to visually design, develop and test NLP pipelines. The tool is runtime agnostic and the first runtimes to be supported are “Text Extensions for Pandas” and “IBM SystemT”. In this talk we walk you through Elyra-Canvas, the Elyra visual NLP Editor and SystemT - the fast engine powering rule-based NLP in IBM Watson products",
+  "conference_id": null,
+  "date_time": "2022-06-02T12:00:00-04:00",
+  "end_time": "2022-06-02T13:00:00-04:00",
+  "event_id": "285938364",
+  "event_title": "IBM Data Science Community: Learn about Elyra Visual NLP Editor",
+  "github_repositories": [
+    "https://github.com/elyra-ai/canvas"
+  ],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-1:ibm-further-democratizes-ai-by-open-sourcing-elyra-visual-nlp-editor",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:https-github-com-elyra-ai-canvas",
+    "project:the"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/285938364/"
+  ],
+  "speaker_ids": [
+    "speaker:text-extensions"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:text-extensions",
+      "name": "Text Extensions",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "IBM further democratizes AI by open sourcing Elyra visual NLP Editor",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/285938364/"
+}

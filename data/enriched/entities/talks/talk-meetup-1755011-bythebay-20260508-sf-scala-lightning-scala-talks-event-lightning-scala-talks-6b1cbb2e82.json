@@ -1,0 +1,31 @@
+{
+  "abstract": "If you want to give a short Scala talk, please comment under here and/or email the organizers!",
+  "conference_id": null,
+  "date_time": "2013-11-14T18:30:00-08:00",
+  "end_time": "2013-11-14T21:30:00-08:00",
+  "event_id": "147524912",
+  "event_title": "Lightning Scala Talks",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-lightning-scala-talks-event:lightning-scala-talks",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-lightning-scala-talks-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-lightning-scala-talks-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/147524912/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Lightning Scala Talks",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/147524912/"
+}

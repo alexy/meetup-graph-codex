@@ -1,0 +1,44 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2015-07-01T18:00:00-07:00",
+  "end_time": "2015-07-01T20:00:00-07:00",
+  "event_id": "222870784",
+  "event_title": "July 2015 Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar:hadoop-from-complexity-to-simplicity",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [
+    "project:apache-hadoop",
+    "project:apache-spark",
+    "project:apache-zeppelin"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/222870784/"
+  ],
+  "speaker_ids": [
+    "speaker:amir-sanjar"
+  ],
+  "speakers": [
+    {
+      "company_name": "Canonical",
+      "id": "speaker:amir-sanjar",
+      "name": "Amir Sanjar",
+      "title": "Senior Big Data Development Lead"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Hadoop: From complexity to simplicity",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/222870784/"
+}

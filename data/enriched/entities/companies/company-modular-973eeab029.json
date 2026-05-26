@@ -1,0 +1,18 @@
+{
+  "id": "company:modular",
+  "name": "Modular",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-keynote-chris-lattner-modular.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-keynote-chris-lattner-modular"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:chris-lattner"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

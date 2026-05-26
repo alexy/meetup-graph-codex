@@ -1,0 +1,43 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "He was the CTO of a big data company and maintained a complex build system in the Java world. He has been writing scala professionally and has been active in the community since 2009. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:red-hat",
+  "meetup_ids": [
+    "meetup:5347552",
+    "meetup:2891482"
+  ],
+  "name": "Red Hat",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-hybrid-cloud-red-hat-red-hat-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-frederick-kautz-grasping-gradle-for-scala-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-hybrid-cloud-red-hat-red-hat.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-hybrid-cloud-red-hat-red-hat-2",
+    "bythebay-20260508-scala-bay-frederick-kautz-grasping-gradle-for-scala-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-hybrid-cloud-red-hat-red-hat"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/295946324/",
+    "https://www.meetup.com/scala-bay/events/192698302/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-frederick-kautz-grasping-gradle-for-scala-event:grasping-gradle-for-scala",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-hybrid-cloud-red-hat-red-hat:ibm-techxchange-conference-2023-live-stream-keynote-hybrid-cloud-red-hat"
+  ],
+  "title": "He was the CTO of a big data company and maintained a complex build system in the Java world. He has been writing scala professionally and has been active in the community since 2009. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "titles": [
+    "He was the CTO of a big data company and maintained a complex build system in the Java world. He has been writing scala professionally and has been active in the community since 2009. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking"
+  ],
+  "type": "speaker"
+}

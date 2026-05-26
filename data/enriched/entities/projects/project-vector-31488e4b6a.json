@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:vector",
+  "name": "Vector",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-ragme-ai-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-ragme-ai-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/308111083/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-ragme-ai-event:introducing-ragme-ai"
+  ],
+  "type": "project"
+}

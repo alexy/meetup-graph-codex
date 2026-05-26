@@ -1,0 +1,35 @@
+{
+  "abstract": "This is an in-person event! Registration using this form is required in order to get in. Github will email you a form the day before the event, which you will need to complete for your access pass. Topic: Connecting your unstructured data with Generative AI What we’ll do: Have some food and refreshments. Hear three exciting talks about unstructured data and generative AI. 5:30 - 6:30 - Welcome/Networking/Registration 6:35 - 7:00 - James Luan, VP Engineering, Zilliz 7:05 - 7:30 - Tengyu Ma, Co-founder, VoyageAI 7:35 - 8:00 - Laurie Voss, VP Developer Relations, LlamaIndex 8:00 - 8:10 - Community demos - Upstage.ai 8:10 - 8:30 - Networking Who Should attend: Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. When: April 16, 2023 5:30PM Tech Talk 1 : Leverage Zilliz Serverless - Up to 50X Saving for Your Vector Storage Cost Speaker : James Luan Abstract : If you are building a RAG application that serves millions of users, you should consider how to scale your system seamlessly and cost-efficiently. The Zilliz Serverless tier represents a significant innovation in the field of vector search, enabling you to rapidly scale to millions of tenants and billions of vectors, while fully leveraging the hot/cold characteristics across tenants to reduce data storage costs. It enables vector storage at costs comparable to S3 and facilitates vector search times in the hundreds of milliseconds for tens of millions of data points! In this talk, we will delve into the implementation details, usage patterns, and performance metrics of Zilliz Serverless. We will discuss how it empowers AI-native applications to achieve rapid business growth by providing a cost-effective and scalable vector storage and search solution. Tech Talk 2: Voyage AI: cutting-edge embeddings and rerankers for search and RAG Speaker : Tengyu Ma Tech Talk 3: Advanced Retrieval-Augmented Generation apps with LlamaIndex Speaker : Laurie Voss Abstract : Retrieval-Augmented Generation (RAG) is critical to LLM-powered applications and LlamaIndex is critical to getting up and running with RAG. This talk will start with the basics of how RAG works under the hood and show you how to build a basic RAG app, ending with advanced RAG techniques to get you into production. Where: This is an in-person event. Registration using this form is required to get into the event. Registration in advance will close 2 days before the event. Sponsored by Zilliz maintainers of Milvus. During the event we will also stream live on twitch",
+  "conference_id": null,
+  "date_time": "2024-04-16T17:30:00-07:00",
+  "end_time": "2024-04-16T20:30:00-07:00",
+  "event_id": "298724282",
+  "event_title": "Unstructured Data in LLMs",
+  "github_repositories": [
+    "https://github.com/milvus-io/milvus"
+  ],
+  "id": "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-7:unstructured-data-in-llms",
+  "kind": "talk",
+  "meetup_id": "meetup:36468260",
+  "project_ids": [
+    "project:https-github-com-milvus-io-milvus"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-7.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-7"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/298724282/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Unstructured Data in LLMs",
+  "type": "talk",
+  "url": "https://www.meetup.com/unstructured-data-sf/events/298724282/"
+}

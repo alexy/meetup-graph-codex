@@ -1,0 +1,31 @@
+{
+  "abstract": "In this meetup, we will learn how AI, in particular, Reinforcement Learning learns to play games. We will provide an overview of Monte Carlo methods, including prediction and control. Then see how we can use this to play the game of Black Jack with no user input. Have your Laptops ready as this meetup is hands-on",
+  "conference_id": null,
+  "date_time": "2020-10-12T18:00:00-04:00",
+  "end_time": "2020-10-12T20:00:00-04:00",
+  "event_id": "273302013",
+  "event_title": "Playing Games with AI",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-playing-games-with-ai-event:playing-games-with-ai",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-playing-games-with-ai-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-playing-games-with-ai-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/273302013/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Playing Games with AI",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/273302013/"
+}

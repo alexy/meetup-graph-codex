@@ -1,0 +1,47 @@
+{
+  "abstract": "Please join the session that is best suited to your time zone...this topic is repeated at 2 different times. Organizations of all types and sizes are exposed to compliance risk, whether they are public or private entities, for-profit or non-profit, state or federal. An organization’s failure to comply with applicable laws and regulations can affect its revenue, which can lead to loss of reputation, business opportunities and valuation. This session will provide you with insight into how Data and AI can play a key role in managing risk, compliance, and internal controls as part of the overall regulatory filings. Overview: What is Compliance What is Internal Control Framework Overview of Regulatory Environment for an Enterprise Top Regulatory Challenges for Enterprises Top Challenges for CFO (Operations) Key focus areas for CFO (Workforce Planning, Operational Efficiency, Data and AI Strategy) How to work with Artificial Intelligence (AI) How to streamline the close, consolidate, and reporting cycle Presenters: Paul Young Paul Young is a Senior Technical Expert in Data & AI. He has certifications in CPA and CGA, and is a financial solutions expert who drives public and private sector financial results through customer success management best practices in the AI, Data, Security, and Platform areas. Paul’s background is with data and AI solutions that drive better business outcomes for enterprises across geography and industry. He focuses on a variety of areas including reporting, risk management, strategy, internal controls, regulatory filings, taxations, and business process changes. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/r469562955acd0d6f826dc627fcf7cc10",
+  "conference_id": null,
+  "date_time": "2023-04-12T08:00:00-04:00",
+  "end_time": "2023-04-12T09:00:00-04:00",
+  "event_id": "291848260",
+  "event_title": "Employing Efficient and Effective Data & AI to Improve Risk and Compliance",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-employing-efficient-and-effective-data-ai-to-improve-risk-and-compliance-paul-young:employing-efficient-and-effective-data-ai-to-improve-risk-and-compliance",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-employing-efficient-and-effective-data-ai-to-improve-risk-and-compliance-paul-young.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-employing-efficient-and-effective-data-ai-to-improve-risk-and-compliance-paul-young"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291848260/"
+  ],
+  "speaker_ids": [
+    "speaker:paul-young",
+    "speaker:paul-young-paul-young"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:paul-young",
+      "name": "Paul Young",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:paul-young-paul-young",
+      "name": "Paul Young Paul Young",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Employing Efficient and Effective Data & AI to Improve Risk and Compliance",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/291848260/"
+}

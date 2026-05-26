@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2013-10-09T18:00:00-07:00",
+  "end_time": "2013-10-09T21:00:00-07:00",
+  "event_id": "141368262",
+  "event_title": "October SF Hadoop Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-meetup-event:the-october-2013-hadoop-meetup-will-be-held-wednesday-october-9th-from-6-00pm-to-8-00pm-th",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-meetup-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/141368262/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The October 2013 Hadoop meetup will be held Wednesday, October 9th from 6:00pm to 8:00pm. This meetup will be hosted",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/141368262/"
+}

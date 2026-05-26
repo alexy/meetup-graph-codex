@@ -1,0 +1,31 @@
+{
+  "abstract": "Title Mike Slinn, Useful Things You Probably Don't Know About SBT, Scala and Play Abstract Mike Slinn will cover selected topics from the following ScalaCourses.com courses: Introduction to Scala (https://www.scalacourses.com/showCourse/40) Intermediate Scala (https://www.scalacourses.com/showCourse/45) Introduction to Play Framework for Scala (https://www.scalacourses.com/showCourse/39) Wildcard SSL Certificates for Federated Services (https://www.scalacourses.com/showCourse/56) This fast-paced tour through the highlights of four courses will cover topics ranging from simple to advanced facts and techniques. Architecture, devops, tools and programming will be addressed. The topics will be useful and powerful but not well-known, or at least not widely practiced or written about. At least one fundamental Spark-related example will be discussed. Dots you may not know about or fully understand will be connected. Bio Mike Slinn is Managing Editor of http://ScalaCourses.com , which offers self-study and instructor-led online training for Scala-related technology. He used to run Bay Area Scala Enthusiasts (now known as Scala Bay), founded SF Scala, and was Chairman of the Silicon Valley Ruby Conference. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "conference_id": null,
+  "date_time": "2016-03-14T18:30:00-07:00",
+  "end_time": "2016-03-14T21:00:00-07:00",
+  "event_id": "224243967",
+  "event_title": "Mike Slinn, Useful Things You Probably Don't Know About SBT, Scala and Play",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-mike-slinn-useful-things-you-probably-don-t-know-about-sbt-scala-and-play-event:mike-slinn-useful-things-you-probably-don-t-know-about-sbt-scala-and-play",
+  "kind": "workshop",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-mike-slinn-useful-things-you-probably-don-t-know-about-sbt-scala-and-play-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-mike-slinn-useful-things-you-probably-don-t-know-about-sbt-scala-and-play-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/224243967/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Mike Slinn, Useful Things You Probably Don't Know About SBT, Scala and Play",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/224243967/"
+}

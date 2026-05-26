@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "n engineer"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:eugene-kirpichov",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Eugene Kirpichov",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-eugene-kirpichov-towards-an-ml-augmented-programming-stack-eugene-kirpichov-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-eugene-kirpichov-ideas-in-type-theoretic-theorem-proving-jacek-migdal.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-eugene-kirpichov-towards-an-ml-augmented-programming-stack-eugene-kirpichov.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-eugene-kirpichov-towards-an-ml-augmented-programming-stack-eugene-kirpichov-2",
+    "bythebay-20260508-scala-bay-eugene-kirpichov-ideas-in-type-theoretic-theorem-proving-jacek-migdal",
+    "bythebay-20260508-scala-bay-eugene-kirpichov-towards-an-ml-augmented-programming-stack-eugene-kirpichov"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/271129752/",
+    "https://www.meetup.com/scala-bay/events/178469482/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-eugene-kirpichov-ideas-in-type-theoretic-theorem-proving-jacek-migdal:building-scala-at-scale",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-eugene-kirpichov-towards-an-ml-augmented-programming-stack-eugene-kirpichov:eugene-kirpichov-towards-an-ml-augmented-programming-stack"
+  ],
+  "title": "n engineer",
+  "titles": [
+    "n engineer"
+  ],
+  "type": "speaker"
+}

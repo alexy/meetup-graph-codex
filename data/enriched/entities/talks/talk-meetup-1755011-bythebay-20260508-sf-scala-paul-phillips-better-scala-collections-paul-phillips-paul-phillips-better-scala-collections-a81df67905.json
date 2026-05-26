@@ -1,0 +1,40 @@
+{
+  "abstract": "Paul Phillips is a co-founder of Typesafe and the most prolific committer to Scala. His talk is about creating a better collections library for Scala. \"Based on my extensive experience with scala collections, I'm writing my own. The focus is much tighter: immutable, performant, predictable, correct. The talk will alternate between why the scala collections manage none of those things, and how I hope to do better.\"",
+  "conference_id": null,
+  "date_time": "2014-01-14T18:00:00-08:00",
+  "end_time": "2014-01-14T21:00:00-08:00",
+  "event_id": "155024812",
+  "event_title": "Paul Phillips: Better Scala Collections",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-paul-phillips-better-scala-collections-paul-phillips:paul-phillips-better-scala-collections",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-paul-phillips-better-scala-collections-paul-phillips.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-paul-phillips-better-scala-collections-paul-phillips"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/155024812/"
+  ],
+  "speaker_ids": [
+    "speaker:paul-phillips"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:paul-phillips",
+      "name": "Paul Phillips",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Paul Phillips: Better Scala Collections",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/155024812/"
+}

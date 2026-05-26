@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2013-05-08T18:00:00-07:00",
+  "end_time": "2013-05-08T21:00:00-07:00",
+  "event_id": "114514922",
+  "event_title": "May 2013 San Francisco Hadoop Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-may-2013-san-francisco-hadoop-meetup-silvius-rus-talk-2:petabyte-scale-data-processing-at-quantcast",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-may-2013-san-francisco-hadoop-meetup-silvius-rus.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-may-2013-san-francisco-hadoop-meetup-silvius-rus-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/114514922/"
+  ],
+  "speaker_ids": [
+    "speaker:silvius-rus"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:silvius-rus",
+      "name": "Silvius Rus",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Petabyte Scale Data Processing at Quantcast",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/114514922/"
+}

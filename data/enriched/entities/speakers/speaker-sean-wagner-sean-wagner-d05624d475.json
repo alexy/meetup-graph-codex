@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:sean-wagner-sean-wagner",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Sean Wagner Sean Wagner",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-4-advanced-quantum-computing-with-qiskit-sean-wagner-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-3-utility-scale-quantum-computing-sean-wagner.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-4-advanced-quantum-computing-with-qiskit-sean-wagner.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-4-advanced-quantum-computing-with-qiskit-sean-wagner-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-3-utility-scale-quantum-computing-sean-wagner",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-4-advanced-quantum-computing-with-qiskit-sean-wagner"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297916939/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297915961/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-3-utility-scale-quantum-computing-sean-wagner:quantum-series-part-3-utility-scale-quantum-computing",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-4-advanced-quantum-computing-with-qiskit-sean-wagner:quantum-series-part-4-advanced-quantum-computing-with-qiskit"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

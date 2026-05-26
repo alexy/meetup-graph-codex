@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2024-05-17T11:15:00-04:00",
+  "end_time": "2024-05-17T17:00:00-04:00",
+  "event_id": "300338070",
+  "event_title": "Women in Data Science - New York City May 2024",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi-talk-1:1-35-pm-keynote-speech-future-of-work-a-vision-for-ai-powered-digital-labor",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/300338070/"
+  ],
+  "speaker_ids": [
+    "speaker:digital-labor"
+  ],
+  "speakers": [
+    {
+      "company_name": "IBM",
+      "id": "speaker:digital-labor",
+      "name": "Digital Labor",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "1:35 PM - Keynote speech: \"Future of Work: A Vision for AI Powered Digital Labor\"",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/300338070/"
+}

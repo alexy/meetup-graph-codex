@@ -1,0 +1,35 @@
+{
+  "abstract": "Abstract Imagine being able to ask questions about a website in natural language-and receiving meaningful answers instead of simple keyword matches. In this talk, I’ll introduce Allycat, an open-source, end-to-end stack that enables conversational interaction with website content using Large Language Models (LLMs). We’ll walk through the complete pipeline: Crawling and indexing website content Cleaning and extracting meaningful information from HTML Creating embeddings and storing them in a vector database Querying the data using an LLM for contextual, accurate responses We’ll also demonstrate Allycat’s lightweight UI that allows users to interactively test their queries. The entire stack is built with Python and open-source components, making it easy to adopt, adapt, and extend. You can checkout Allycat here : https://github.com/The-AI-Alliance/allycat Audience AI/ML Engineers, Data Engineers, Data Scientists interested in building intelligent, LLM-powered search and chatbot interfaces. Level Beginner to Intermediate Format 45-minute presentation with demonstration About the speaker Sujee Maniyam (AI Engineer, Developer Advocate @ Node51) is an expert in Generative AI, Machine Learning, Deep Learning, Big Data, Distributed Systems, and Cloud technologies. He is passionate about developer education, fostering community engagement. Sujee has led numerous training sessions, hackathons, and workshops. He is also an author, open source contributor and frequent speaker at conferences and meetups. About the AI Alliance The AI Alliance is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players",
+  "conference_id": null,
+  "date_time": "2025-05-01T12:00:00-04:00",
+  "end_time": "2025-05-01T13:00:00-04:00",
+  "event_id": "307464912",
+  "event_title": "[AI Alliance] Chat with your website using an LLM",
+  "github_repositories": [
+    "https://github.com/The-AI-Alliance/allycat"
+  ],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-chat-with-your-website-using-an-llm-event:chat-with-your-website-using-an-llm",
+  "kind": "workshop",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:https-github-com-the-ai-alliance-allycat"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-chat-with-your-website-using-an-llm-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-chat-with-your-website-using-an-llm-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/307464912/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Chat with your website using an LLM",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/307464912/"
+}

@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:htap",
+  "name": "HTAP",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-spark-hadoop-at-splice-machine-dear-huggers.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-spark-hadoop-at-splice-machine-dear-huggers"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/234247659/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-spark-hadoop-at-splice-machine-dear-huggers:spark-hadoop-at-splice-machine"
+  ],
+  "type": "project"
+}

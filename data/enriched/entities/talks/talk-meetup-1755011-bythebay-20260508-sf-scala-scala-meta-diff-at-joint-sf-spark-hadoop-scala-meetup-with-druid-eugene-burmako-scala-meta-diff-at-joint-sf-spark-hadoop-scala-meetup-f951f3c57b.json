@@ -1,0 +1,45 @@
+{
+  "abstract": "This is a joint meetup with SF Spark/SF Hadoop. We have the main talk about Druid -- see http://sfspark.org. In addition, Max Ovsankin, who interned with Eugene Burmako, will present his work on Scala Meta. Validating Changes in Typechecking on Codebases with SemanticDB At Twitter, we are using automated code rewrites via Scalafix to enforce code style and to perform library and language version migrations. Such rewrites are practically useful, but they can lead to subtle changes in typechecker behavior around type inference and implicit search. In our experience, such changes may be hard to spot when diffing source files during code review and may not always be covered by tests. Therefore, we believe that there is a need in tools that would detect these changes in an automated fashion. SemanticDB is a data model for semantic information such as symbols and types about programs in Scala and other languages. This enables an ecosystem of tools that produce and consume semantic information: SemanticDB is currently produced by Scala and Java compiler plugins provided by Scalameta, and consumed by tools like automatic code rewrites, IDEs , and semantic analyzers. To achieve our goal, we improved SemanticDB to capture synthetic trees that represent inferred type arguments and implicit arguments, and then developed a tool that compares these synthetics before and after automated code rewrites. We used this toolchain to verify the behavior of type inference and implicit search on the core of Twitter Util - a foundational library behind the Twitter stack. Our work has been open-sourced at https://github.com/twitter/rsc. Speaker Bio: Max is a 3rd year undergrad at UC Berkeley interested in programming languages and theoretical computer science, and enthusiastic about Scala. He worked on SemanticDB tooling as an intern at Twitter’s Advanced Scala Tools team. ----- Note: Scale By the Bay has added a talk by Eugene Burmako on Reasonable Scala, a one-year progress of the Twitter project! Regular admission ends 10/31 -- reserve your seat at http://scale.bythebay.io",
+  "conference_id": null,
+  "date_time": "2018-10-30T18:00:00-07:00",
+  "end_time": "2018-10-30T20:00:00-07:00",
+  "event_id": "255823454",
+  "event_title": "Scala Meta Diff at joint Sf Spark/Hadoop/Scala meetup with Druid",
+  "github_repositories": [
+    "https://github.com/twitter/rsc"
+  ],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid-eugene-burmako:scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:https-github-com-twitter-rsc",
+    "project:twitter"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid-eugene-burmako.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid-eugene-burmako"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/255823454/"
+  ],
+  "speaker_ids": [
+    "speaker:eugene-burmako"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:eugene-burmako",
+      "name": "Eugene Burmako",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scala Meta Diff at joint Sf Spark/Hadoop/Scala meetup with Druid",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/255823454/"
+}

@@ -1,0 +1,41 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-eclipse-lmos-agc-agentic-computing-born-from-the-messy-reality-of-enterprise-systems-arun-joseph:eclipse-lmos-agc-agentic-computing-born-from-the-messy-reality-of-enterprise-systems",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [
+    "project:eclipse-lmos"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-eclipse-lmos-agc-agentic-computing-born-from-the-messy-reality-of-enterprise-systems-arun-joseph.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-eclipse-lmos-agc-agentic-computing-born-from-the-messy-reality-of-enterprise-systems-arun-joseph"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:arun-joseph"
+  ],
+  "speakers": [
+    {
+      "company_name": "Rhizome",
+      "id": "speaker:arun-joseph",
+      "name": "Arun Joseph",
+      "title": "Cofounder & CEO"
+    }
+  ],
+  "tags": [
+    "AI Infrastructure",
+    "Agentic AI",
+    "OSS AI"
+  ],
+  "title": "Eclipse LMOS & AGC : Agentic Computing Born from the Messy Reality of Enterprise Systems",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/eclipse-lmos-agc-agentic-computing-born-from-the-messy-reality-of-enterprise-systems"
+}

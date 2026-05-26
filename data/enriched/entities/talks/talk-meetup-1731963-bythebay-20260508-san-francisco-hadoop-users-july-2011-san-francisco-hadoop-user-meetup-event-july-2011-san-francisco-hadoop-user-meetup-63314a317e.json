@@ -1,0 +1,31 @@
+{
+  "abstract": "The July Hadoop meetup will be held Wednesday, July 13, from 6pm to 8pm. This meetup will be hosted once again by our friends at CBSi. Their office is at 235 Second Street. As usual, we will use the discussion-based \"unconference\" format. At the beginning of the meetup we will collaboratively construct an agenda consisting of several discussion breakout groups. All participants may propose a topic and volunteer to facilitate a discussion. All Hadoop-related topics are encouraged, and all members of the Hadoop community are welcome. Event schedule: 6pm - Welcome 6:30pm - Introductions; start creating agenda Breakout sessions begin as soon as we're ready 8pm - Conclusion Food and refreshments will be provided, courtesy of CBSi",
+  "conference_id": null,
+  "date_time": "2011-07-13T18:00:00-07:00",
+  "end_time": "2011-07-13T21:00:00-07:00",
+  "event_id": "22328741",
+  "event_title": "July 2011 San Francisco Hadoop User Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-july-2011-san-francisco-hadoop-user-meetup-event:july-2011-san-francisco-hadoop-user-meetup",
+  "kind": "unconference",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-july-2011-san-francisco-hadoop-user-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-july-2011-san-francisco-hadoop-user-meetup-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/22328741/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "unconference"
+  ],
+  "title": "July 2011 San Francisco Hadoop User Meetup",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/22328741/"
+}

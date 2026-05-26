@@ -1,0 +1,34 @@
+{
+  "abstract": "Join us for a talk on Big Data and Apache Spark by Glassbeam's Principal Architect, Mohammad Guller. Spark, a fast general-purpose cluster computing framework, has set the Big Data world on fire. It has become the most active open-source big data project. This is an introductory talk for those who want to get into Big Data and learn about Spark, but don't know where to start The presentation will start with a discussion of Big Data and the challenges associated with it as well the benefits that it provides. Mohammed will discuss how organizations are getting value out of Big Data He will next discuss some of the important technologies created in the last few years to handle Big Data. The Big Data space is exploding with new technologies. It seems like a new Big Data project is getting open-sourced every week Next, Mohammed will introduce Spark and talk about its role in the Big Data ecosystem. He will discuss why Spark is hot, why people are replacing Hadoop MapReduce with Spark, and what kind of applications really benefit from Spark. He will also discuss Spark's high-level architecture Finally, he will introduce the key libraries that come prepackaged with Spark. These libraries simplify a variety of analytical tasks, including interactive analytics, stream data processing, graph analytics, and machine learning Mohammed Guller is the principal architect at Glassbeam, where he leads the development of advanced and predictive analytics products. He is also the author of the recently published book, \"Big Data Analytics with Spark.\" He is a Big Data and Spark expert. He is frequently invited to speak at Big Data-related conferences. He is passionate about building new products, Big Data analytics, and machine learning Over the last 20 years, Mohammed has successfully led the development of several innovative technology products from concept to release. Prior to joining Glassbeam, he was the founder of TrustRecs.com, which he started after working at IBM for five years. Before IBM, he worked in a number of hi-tech start-ups, leading new product development Mohammed has a master’s of business administration from the University of California, Berkeley, and a master’s of computer applications from RCC, Gujarat University, India",
+  "conference_id": null,
+  "date_time": "2016-04-26T19:00:00-07:00",
+  "end_time": "2016-04-26T22:00:00-07:00",
+  "event_id": "229851313",
+  "event_title": "Spark 101",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-spark-101-event-talk-2:spark-101mohammed-guller-principal-architect-glassbeam",
+  "kind": "talk",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [
+    "project:apache-spark",
+    "project:big-data"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-101-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-101-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/229851313/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Spark 101Mohammed Guller, Principal Architect, Glassbeam",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/229851313/"
+}

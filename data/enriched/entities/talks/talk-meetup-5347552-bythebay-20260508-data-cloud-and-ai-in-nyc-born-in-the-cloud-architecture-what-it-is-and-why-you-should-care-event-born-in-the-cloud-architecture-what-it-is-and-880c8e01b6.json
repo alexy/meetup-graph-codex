@@ -1,0 +1,31 @@
+{
+  "abstract": "Join us on November 4th to hear Yonggang Hu, Distinguished Engineer and Chief Architect talk about Born-in-the-Cloud Architecture. Bigger data, complex compute requirements, and cost/resource constraints are driving organizations to use cloud infrastructure. Yet existing compute- and data-intensive applications are not often designed to take advantage of infrastructure as a service. Firms must re-architect their applications to be cloud-native or \"born-in-the cloud\". Using analytics case studies as examples, Yonggang will explain the born-in-the-cloud architecture, and the opportunities and challenges that it brings. Yonggang will address the following agenda: - Introduction - Industry and Technology Context - Cloud Native Architecture - Run and Manage Cloud Native Apps - Use Cases and Benefits Come network, have some snacks, and enjoy a great presentation. See you there!",
+  "conference_id": null,
+  "date_time": "2015-11-04T17:30:00-05:00",
+  "end_time": "2015-11-04T20:30:00-05:00",
+  "event_id": "226110174",
+  "event_title": "Born-in-the-Cloud Architecture: What it is and Why You Should Care",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-born-in-the-cloud-architecture-what-it-is-and-why-you-should-care-event:born-in-the-cloud-architecture-what-it-is-and-why-you-should-care",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-born-in-the-cloud-architecture-what-it-is-and-why-you-should-care-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-born-in-the-cloud-architecture-what-it-is-and-why-you-should-care-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/226110174/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Born-in-the-Cloud Architecture: What it is and Why You Should Care",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/226110174/"
+}

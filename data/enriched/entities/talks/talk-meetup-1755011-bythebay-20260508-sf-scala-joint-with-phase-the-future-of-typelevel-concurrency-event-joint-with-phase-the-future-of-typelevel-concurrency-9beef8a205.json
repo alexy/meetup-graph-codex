@@ -1,0 +1,31 @@
+{
+  "abstract": "This is a joint meetup with PHASE, Philly Scala Enthusiasts. with our great friends Brian Clapper moderating and Michael Pilquist presenting. Their timing works perfectly for our coast. Please register at PHASE: https://www.meetup.com/scala-phase/events/275889960/ The Cats Effect and FS2 libraries power dozens of high level Scala libraries and provides the foundation for safe, functional concurrency. Cats Effect 3 & FS2 3 are on the verge of release, after 18 months of development, representing the largest change to the fundamentals since the initial 1.0 release. In this talk, we’ll look at what’s new and exciting in Cats Effect 3 and FS2 3. This meeting will, of course, be virtual. It will be recorded, and the recording will be posted to YouTube sometime after the meeting. NOTE: The Zoom meeting uses the \"waiting room\" feature. The host (Brian Clapper) will have to admit you to the meeting, so please be patient when you attempt to join. (This policy helps avoid zoom-bombing.)",
+  "conference_id": null,
+  "date_time": "2021-02-24T16:30:00-08:00",
+  "end_time": "2021-02-24T18:30:00-08:00",
+  "event_id": "276257156",
+  "event_title": "Joint with PHASE: The Future of Typelevel Concurrency",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-joint-with-phase-the-future-of-typelevel-concurrency-event:joint-with-phase-the-future-of-typelevel-concurrency",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-joint-with-phase-the-future-of-typelevel-concurrency-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-joint-with-phase-the-future-of-typelevel-concurrency-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/276257156/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Joint with PHASE: The Future of Typelevel Concurrency",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/276257156/"
+}

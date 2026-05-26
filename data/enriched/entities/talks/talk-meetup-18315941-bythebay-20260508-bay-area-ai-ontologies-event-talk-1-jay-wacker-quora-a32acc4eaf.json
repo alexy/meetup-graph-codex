@@ -1,0 +1,40 @@
+{
+  "abstract": "Quora's Topic Ontology Abstract: I will discuss the philosophy and structure behind Quora's Topic Ontology",
+  "conference_id": null,
+  "date_time": "2015-03-12T18:00:00-07:00",
+  "end_time": "2015-03-12T21:00:00-07:00",
+  "event_id": "220718220",
+  "event_title": "Ontologies",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-ontologies-event-talk-1:jay-wacker-quora",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-ontologies-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-ontologies-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/220718220/"
+  ],
+  "speaker_ids": [
+    "speaker:quora-s-topic-ontology-abstract"
+  ],
+  "speakers": [
+    {
+      "company_name": "I",
+      "id": "speaker:quora-s-topic-ontology-abstract",
+      "name": "Quora's Topic Ontology Abstract",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Jay Wacker, Quora",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/220718220/"
+}

@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:service-registry",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Service Registry",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-akka-at-comcast-soa-on-steroids-service-registry-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-akka-at-comcast-soa-on-steroids-service-registry.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-akka-at-comcast-soa-on-steroids-service-registry-2",
+    "bythebay-20260508-scala-bay-akka-at-comcast-soa-on-steroids-service-registry"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/225107412/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-akka-at-comcast-soa-on-steroids-service-registry:akka-at-comcast-soa-on-steroids"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

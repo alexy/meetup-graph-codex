@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:rafi-kurlansik",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Rafi Kurlansik",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-solve-engineering-problems-on-ibm-s-watson-data-platform-with-dsx-rafi-kurlansik-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-solve-engineering-problems-on-ibm-s-watson-data-platform-with-dsx-rafi-kurlansik.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-solve-engineering-problems-on-ibm-s-watson-data-platform-with-dsx-rafi-kurlansik-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-solve-engineering-problems-on-ibm-s-watson-data-platform-with-dsx-rafi-kurlansik"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/244363518/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-solve-engineering-problems-on-ibm-s-watson-data-platform-with-dsx-rafi-kurlansik:solve-engineering-problems-on-ibms-watson-data-platform-with-dsx"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

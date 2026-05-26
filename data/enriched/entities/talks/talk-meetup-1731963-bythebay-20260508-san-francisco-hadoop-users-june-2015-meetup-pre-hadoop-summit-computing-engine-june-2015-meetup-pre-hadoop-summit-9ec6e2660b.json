@@ -1,0 +1,42 @@
+{
+  "abstract": "(Note venue change!) As a warm-up to Hadoop Summit in San Jose, we'll be meeting-up at the AWS Pop-Up Loft on Market/5th the week prior to the conference. (We figure many of you will be in San Jose during the conf itself.) (NOTE: Registration is required for admittance to the Loft. This information is for their internal reporting purposes only, not for follow-up. We highly recommend you register in advance here (https://www.thinkreg.com/coral/viewWebsite.do?pageId=8a94a8b447fa4f710147ff5b0a17069e); otherwise, do that onsite.) Due to room configuration we will do the meeting \"tech talk\" style this time. We'll also raffle off a couple copies of Tom White's Hadoop: The Definitive Guide, for which a 4th Edition was very recently released, and 40 \"Data is the New Bacon\" Tshirts will be available for those who want them! http://photos2.meetupstatic.com/photos/event/5/e/c/c/600 437424268.jpeg Talk 1: Native Erasure Coding Support Inside HDFS (20 mins) Zhe Zhang, Cloudera The current HDFS replication mechanism is expensive: the default triplication scheme has 200% overhead in storage space and other resources (e.g., NameNode memory usage). Erasure Coding (EC) can greatly reduce the storage overhead without sacrificing data reliability. In this talk, you'll learn how the HDFS-EC project (HDFS-7285) aims to build native EC support inside HDFS. Zhe Zhang is currently a software engineer at Cloudera working on HDFS. He has worked as a researcher at IBM T. J. Watson lab and Oak Ridge National Lab, and an Adjunct Assistant Professor at North Carolina State University, on projects centered around distributed computing and storage systems. His work has led to 8 US patents, over 20 peer-reviewed publications -- in leading conferences including EuroSys and HotCloud -- and was granted IBM Research Accomplishment Award and Outstanding Technology Achievement Award. Talk 2: Taking “Oops” Out of Hadoop (15 mins) Kunal Agarwal & Shivnath Babu, Unravel Hadoop has become the very backbone of enterprises working on Big Data. But as Hadoop becomes a critical component of every enterprise’s Big Data needs, its complexity to implement, maintain and develop has increased substantially. Such intricacies create a lot of productivity killers for developers and DevOps personnel. This talk will dive deep into how enterprises can remove the ‘Oops’ from their Hadoop systems in an easy, reliable and effective manner, focusing on real-world use cases and tools. Kunal Agarwal is the co-founder of Unravel, the intelligent management platform for Big Data systems. Prior to which he has led sales and implementation of Oracle products at several Fortune 100 companies. He also co-founded Yuuze.com, a pioneer in personalized shopping and what-to-wear recommendations. Before which he helped Sun Microsystems evaluate Big Data infrastructure like Sun’s Grid Computing Engine. Shivnath Babu is an Associate Professor of Computer Science at Duke University and the Chief Scientist at Unravel Data Systems. His research focuses on ease-of-use and manageability of data-intensive systems, automated problem diagnosis, and cluster sizing for applications running on cloud platforms. Shivnath co-founded Unravel to solve the application management challenges that companies face when they adopt systems like Hadoop and Spark. Shivnath has received a U.S. National Science Foundation CAREER Award, three IBM Faculty Awards, and an HP Labs Innovation Research Award. Talk 3: Whither the Hadoop Developer Experience? (15 mins) Nitin Motgi, Cask Data Hadoop enables a broad range of use cases with breakthrough economics, but creates significant challenges for developers. These include: • Multiple low level APIs drive need for specialized skills and drive complex code for simple functions • Tight coupling of ingestion, storage, and processing makes applying different processing paradigms and reuse of data and code difficult • Lack of application life cycle support delays debug and deployment and creates strain on devops • Lack of framework correctness drives requirement for idempotent applications Instead, there is a need for an open source framework for quickly building, deploying, and managing Hadoop solutions such as ETL, IoT, analytics applications, and closed loop applications--supporting high-level concepts and abstractions that hide infrastructure complexity and enable reusability. In this talk, attendees will learn more about these issues as well as possible solutions. Nitin Motgi is Founder and CTO of Cask, where he is responsible for developing the company’s long-term technology, driving company engineering initiatives and collaboration. Prior to Cask, Nitin was at Yahoo! working on a large-scale content optimization system externally known as C.O.R.E.Prior to Yahoo!, Nitin led the development of a large-scale fabrication analysis system at Altera, and he previously held senior engineering roles at FedEx. Nitin holds a Master’s degree in computer science from University of Central Florida (UCF). Thanks to AWS for hosting and sponsoring this meetup!",
+  "conference_id": null,
+  "date_time": "2015-06-03T18:00:00-07:00",
+  "end_time": "2015-06-03T20:00:00-07:00",
+  "event_id": "222457953",
+  "event_title": "June 2015 Meetup (Pre-Hadoop Summit)",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-june-2015-meetup-pre-hadoop-summit-computing-engine:june-2015-meetup-pre-hadoop-summit",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [
+    "project:hdfs-ec"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-june-2015-meetup-pre-hadoop-summit-computing-engine.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-june-2015-meetup-pre-hadoop-summit-computing-engine"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/222457953/"
+  ],
+  "speaker_ids": [
+    "speaker:computing-engine"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:computing-engine",
+      "name": "Computing Engine",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "June 2015 Meetup (Pre-Hadoop Summit)",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/222457953/"
+}

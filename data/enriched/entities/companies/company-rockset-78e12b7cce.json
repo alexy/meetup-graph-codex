@@ -1,0 +1,18 @@
+{
+  "id": "company:rockset",
+  "name": "Rockset",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-louis-brandy-louis-brandy-rockset.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-louis-brandy-louis-brandy-rockset"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:louis-brandy"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

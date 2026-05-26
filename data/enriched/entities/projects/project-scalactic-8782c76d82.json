@@ -1,0 +1,31 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:scalactic",
+  "name": "Scalactic",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-by-the-bay-holiday-meetup-and-party-with-bill-venners-the-essence-of-testing-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-by-the-bay-holiday-meetup-and-party-with-bill-venners-the-essence-of-testing-event",
+    "bythebay-20260508-sf-scala-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event",
+    "bythebay-20260508-sf-data-and-ai-engineering-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event",
+    "bythebay-20260508-scala-bay-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/236052360/",
+    "https://www.meetup.com/sf-scala/events/258488711/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/258497318/",
+    "https://www.meetup.com/scala-bay/events/258712091/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-by-the-bay-holiday-meetup-and-party-with-bill-venners-the-essence-of-testing-event:by-the-bay-holiday-meetup-and-party-with-bill-venners-the-essence-of-testing",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event:bill-venners-introduces-property-based-testing-in-scalatest-3-1",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event:bill-venners-introduces-property-based-testing-in-scalatest-3-1",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event:bill-venners-introduces-property-based-testing-in-scalatest-3-1"
+  ],
+  "type": "project"
+}

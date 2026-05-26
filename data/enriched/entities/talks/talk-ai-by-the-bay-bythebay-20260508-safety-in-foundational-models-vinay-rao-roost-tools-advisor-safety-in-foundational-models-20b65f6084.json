@@ -1,0 +1,38 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-safety-in-foundational-models-vinay-rao-roost-tools-advisor:safety-in-foundational-models",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-safety-in-foundational-models-vinay-rao-roost-tools-advisor.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-safety-in-foundational-models-vinay-rao-roost-tools-advisor"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:vinay-rao"
+  ],
+  "speakers": [
+    {
+      "company_name": "ROOST.tools, Advisor @ Anthropic",
+      "id": "speaker:vinay-rao",
+      "name": "Vinay Rao",
+      "title": "CTO"
+    }
+  ],
+  "tags": [
+    "AI Security",
+    "Models"
+  ],
+  "title": "Safety in Foundational Models",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/safety-in-foundational-models"
+}

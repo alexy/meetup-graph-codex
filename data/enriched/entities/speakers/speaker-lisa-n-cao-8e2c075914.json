@@ -1,0 +1,50 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:databricks",
+      "company_name": "Databricks",
+      "title": "Staff Developer Relations"
+    }
+  ],
+  "company_id": "company:databricks",
+  "company_ids": [
+    "company:databricks"
+  ],
+  "company_name": "Databricks",
+  "company_names": [
+    "Databricks"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:lisa-n-cao",
+  "meetup_ids": [
+    "meetup:36468260"
+  ],
+  "name": "Lisa N. Cao",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-lisa-n-cao-databricks.json",
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-kate-grossman-2.json",
+    "data/raw/sources/bythebay-20260508-designing-data-infrastructure-in-the-age-of-generative-ai-lisa-n-cao-databricks.json",
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-kate-grossman.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-lisa-n-cao-databricks",
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-kate-grossman-2",
+    "bythebay-20260508-designing-data-infrastructure-in-the-age-of-generative-ai-lisa-n-cao-databricks",
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-kate-grossman"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers",
+    "https://www.meetup.com/unstructured-data-sf/events/301509881/"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-designing-data-infrastructure-in-the-age-of-generative-ai-lisa-n-cao-databricks:designing-data-infrastructure-in-the-age-of-generative-ai",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-kate-grossman:unstructured-data-in-llms-south-bay-edition"
+  ],
+  "title": "Staff Developer Relations",
+  "titles": [
+    "Staff Developer Relations"
+  ],
+  "type": "speaker"
+}

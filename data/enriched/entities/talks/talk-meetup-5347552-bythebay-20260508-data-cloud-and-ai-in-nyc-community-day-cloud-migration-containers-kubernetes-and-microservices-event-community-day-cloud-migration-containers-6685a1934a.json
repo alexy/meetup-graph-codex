@@ -1,0 +1,31 @@
+{
+  "abstract": "REGISTER HERE FOR THIS FREE EVENT: http://bit.ly/2CmfasU This event is Eastern Standard Time. Please adjust to your location. Event is on-line. IBM is proud to present Virtual Community Day: Cloud Migration. This is a free online conference teaching technologists how to utilize Cloud Paks to help scale and improve their products. During this conference, you’ll gain technical skills and insights into the 5 IBM Cloud Paks by watching live talks/demos from 25 industry-leading experts on three distinct tracks: - Show & Tell: Deep-dive demo session covering the functionalities of IBM Cloud Paks - Developer: Learn from IBM and partnered technologists about cloud-native development & serverless strategy - Getting Started: Get best practices and guidance through case studies from IBM and their Partners See the list of speakers here: https://cloudmigration.bemyapp.com/?utm source=client&utm medium=partner Join us to learn more. This is an online Community event for Cloud Migration. Event is held in Eastern Standard Time. REGISTER HERE: http://bit.ly/2CmfasU Once you register you will be able to go back into the event to review recorded sessions",
+  "conference_id": null,
+  "date_time": "2019-11-14T10:00:00-05:00",
+  "end_time": "2019-11-14T19:00:00-05:00",
+  "event_id": "266268452",
+  "event_title": "Community Day: Cloud Migration, Containers, Kubernetes, and Microservices",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-community-day-cloud-migration-containers-kubernetes-and-microservices-event:community-day-cloud-migration-containers-kubernetes-and-microservices",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-community-day-cloud-migration-containers-kubernetes-and-microservices-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-community-day-cloud-migration-containers-kubernetes-and-microservices-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/266268452/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Community Day: Cloud Migration, Containers, Kubernetes, and Microservices",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/266268452/"
+}

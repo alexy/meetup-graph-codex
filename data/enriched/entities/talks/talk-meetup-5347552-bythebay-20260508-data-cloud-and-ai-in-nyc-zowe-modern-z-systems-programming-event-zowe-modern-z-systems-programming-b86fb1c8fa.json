@@ -1,0 +1,34 @@
+{
+  "abstract": "5:00-5:30pm Networking 5:30-6:00 Dave Reich | The Observationist 6:00-7:00pm Meet Zowe! - Bring your laptop if you want to follow along. See the first joint effort Open Mainframe platform in action. Experience the tooling that provides leading edge development capabilities for the Z Systems open source community. Learn how all mainframers (millennial and experienced) can exploit this technology to easily interact with the mainframe. This new framework will enable an ecosystem of software solutions intended to provide a simple, intuitive environment for a variety of IT professionals performing administrative, development, test and operation tasks on z/OS. Your Zowe instructor will be Dan Jast (zSystems Technical Specialist & author of the Zowe Lab) along with Ronnie Geraghty (zSystems Dev Ops Technical Specialist) Zowe was recently named as a one of the finalists for the “Best DevOps Open Source Project” category by Devops.com. “The Devops Dozen” is an annual award dedicated to honoring the best devops projects and programmers. Learning Objectives: This lab allows users to get \"hands on\" experience with the Zowe UI and CLI. Users will go through a set of tasks, exploiting the abilities Zowe has to offer. For more about Zowe: https://zowe.org/home/",
+  "conference_id": null,
+  "date_time": "2019-06-18T17:00:00-04:00",
+  "end_time": "2019-06-18T19:00:00-04:00",
+  "event_id": "261458319",
+  "event_title": "Zowe: Modern Z Systems Programming",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-zowe-modern-z-systems-programming-event:zowe-modern-z-systems-programming",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:zowe",
+    "project:open-mainframe"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-zowe-modern-z-systems-programming-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-zowe-modern-z-systems-programming-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/261458319/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Zowe: Modern Z Systems Programming",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/261458319/"
+}

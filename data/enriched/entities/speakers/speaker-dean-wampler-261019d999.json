@@ -1,0 +1,81 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:lightbend",
+      "company_name": "Lightbend",
+      "title": null
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Engineering Directory for Watsonx Platform Engineering"
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "IBM Research, Engineering Directory"
+    }
+  ],
+  "company_id": "company:lightbend",
+  "company_ids": [
+    "company:lightbend"
+  ],
+  "company_name": "Lightbend",
+  "company_names": [
+    "Lightbend"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:dean-wampler",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:1755011",
+    "meetup:18601481",
+    "meetup:18748975",
+    "meetup:5347552"
+  ],
+  "name": "Dean Wampler",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-apache-kafka-summit-meetup-dean-wampler-lightbend-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-committer-night-spark-1-5-and-beyond-databricks-dean-wampler-2.json",
+    "data/raw/sources/bythebay-20260508-open-source-science-vs-open-source-software-what-s-different-what-s-the-same-dean-wampler-ibm-research.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-committer-night-spark-1-5-and-beyond-databricks-dean-wampler.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-apache-kafka-summit-meetup-dean-wampler-lightbend.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend",
+    "bythebay-20260508-sf-scala-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend",
+    "bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend",
+    "bythebay-20260508-scale-by-the-bay-apache-kafka-summit-meetup-dean-wampler-lightbend-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-committer-night-spark-1-5-and-beyond-databricks-dean-wampler-2",
+    "bythebay-20260508-open-source-science-vs-open-source-software-what-s-different-what-s-the-same-dean-wampler-ibm-research",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-committer-night-spark-1-5-and-beyond-databricks-dean-wampler",
+    "bythebay-20260508-scale-by-the-bay-apache-kafka-summit-meetup-dean-wampler-lightbend"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/242796490/",
+    "https://www.meetup.com/sf-scala/events/242796345/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/242796420/",
+    "https://www.meetup.com/bythebay/events/242744831/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/225522063/",
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-open-source-science-vs-open-source-software-what-s-different-what-s-the-same-dean-wampler-ibm-research:open-source-science-vs-open-source-software-what-s-different-what-s-the-same",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-committer-night-spark-1-5-and-beyond-databricks-dean-wampler:committer-night-spark-1-5-and-beyond",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-apache-kafka-summit-meetup-dean-wampler-lightbend:apache-kafka-summit-meetup",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend:apache-kafka-summit-meetup-streams-api-istio",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend:apache-kafka-summit-meetup-streams-api-istio",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend:apache-kafka-summit-meetup-streams-api-istio"
+  ],
+  "title": "Engineering Directory for Watsonx Platform Engineering",
+  "titles": [
+    "Engineering Directory for Watsonx Platform Engineering",
+    "IBM Research, Engineering Directory"
+  ],
+  "type": "speaker"
+}

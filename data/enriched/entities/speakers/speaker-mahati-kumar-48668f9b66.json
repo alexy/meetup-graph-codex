@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:meta",
+      "company_name": "Meta",
+      "title": "Senior Staff Engineer"
+    }
+  ],
+  "company_id": "company:meta",
+  "company_ids": [
+    "company:meta"
+  ],
+  "company_name": "Meta",
+  "company_names": [
+    "Meta"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:mahati-kumar",
+  "meetup_ids": [],
+  "name": "Mahati Kumar",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-mahati-kumar-meta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-mahati-kumar-meta"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [],
+  "title": "Senior Staff Engineer",
+  "titles": [
+    "Senior Staff Engineer"
+  ],
+  "type": "speaker"
+}

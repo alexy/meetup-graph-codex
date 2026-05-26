@@ -1,0 +1,48 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:scrapegraphai",
+      "company_name": "ScrapeGraphAI",
+      "title": "Co-founder & CEO"
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Co-founder & CEO of ScrapeGraphAI"
+    }
+  ],
+  "company_id": "company:scrapegraphai",
+  "company_ids": [
+    "company:scrapegraphai"
+  ],
+  "company_name": "ScrapeGraphAI",
+  "company_names": [
+    "ScrapeGraphAI"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:lorenzo-padoan",
+  "meetup_ids": [],
+  "name": "Lorenzo Padoan",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-lorenzo-padoan-scrapegraphai.json",
+    "data/raw/sources/bythebay-20260508-from-bots-to-brains-the-evolution-of-web-scraping-lorenzo-padoan.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-lorenzo-padoan-scrapegraphai",
+    "bythebay-20260508-from-bots-to-brains-the-evolution-of-web-scraping-lorenzo-padoan"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-from-bots-to-brains-the-evolution-of-web-scraping-lorenzo-padoan:from-bots-to-brains-the-evolution-of-web-scraping"
+  ],
+  "title": "Co-founder & CEO",
+  "titles": [
+    "Co-founder & CEO",
+    "Co-founder & CEO of ScrapeGraphAI"
+  ],
+  "type": "speaker"
+}

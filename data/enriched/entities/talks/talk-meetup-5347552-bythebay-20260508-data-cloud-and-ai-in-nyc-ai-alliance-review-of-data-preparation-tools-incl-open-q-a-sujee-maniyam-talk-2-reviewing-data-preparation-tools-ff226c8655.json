@@ -1,0 +1,53 @@
+{
+  "abstract": "In this session we will review the following data preparation tools and techniques we have discussed in the previous sessions Data Prep Kit Docling Open source RAG with Data Prep Kit + Milvus + Llama Watch the replay January 30, 2025: Using Docling to process data (YouTube) February 6, 2025: Using Data Prep Kit to process data (YouTube) February 13, 2025: Open source RAG pipeline using Data Prep Kit + Milvus + Granite (recording available soon) Session Type Talk and open Q&A",
+  "conference_id": null,
+  "date_time": "2025-02-27T12:00:00-05:00",
+  "end_time": "2025-02-27T13:00:00-05:00",
+  "event_id": "306421923",
+  "event_title": "[AI Alliance] Review of Data Preparation Tools (incl. open Q&A)",
+  "github_repositories": [
+    "https://github.com/IBM/data-prep-kit",
+    "https://github.com/DS4SD/docling"
+  ],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-2:reviewing-data-preparation-tools",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:https-github-com-ibm-data-prep-kit",
+    "project:https-github-com-ds4sd-docling"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306421923/"
+  ],
+  "speaker_ids": [
+    "speaker:session-type",
+    "speaker:technical-level"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:session-type",
+      "name": "Session Type",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:technical-level",
+      "name": "Technical Level",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Reviewing Data Preparation Tools",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/306421923/"
+}

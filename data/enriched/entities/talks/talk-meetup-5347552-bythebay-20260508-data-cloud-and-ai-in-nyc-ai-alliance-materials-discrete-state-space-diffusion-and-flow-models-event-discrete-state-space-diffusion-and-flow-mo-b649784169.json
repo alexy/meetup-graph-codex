@@ -1,0 +1,31 @@
+{
+  "abstract": "External registration https://44725920.hs-sites.com/ai-alliance-material-chemistry-webinar-5-15 Unlocking Guidance for Discrete State-Space Diffusion and Flow Models Many scientific tasks, such as protein engineering and small-molecule drug discovery, can be formulated as conditional generation problems over discrete spaces. This talk introduces a new approach that enables tractable classifier and classifier-free guidance on discrete state-space diffusion and flow models. I will demonstrate how this method can be applied for conditional generation tasks in protein sequence, small-molecule graph, and DNA sequence design. Speaker Hunter Nisanoff recently graduated from his PhD in Computational Biology from UC Berkeley where he was advised by Professor Jennifer Listgarten. His research focuses on machine learning methods for protein engineering. Prior to his PhD, Hunter worked at D. E. Shaw Research developing machine learning and simulation-based methods for small-molecule drug discovery. Research publication https://arxiv.org/abs/2406.01572 About the AI Alliance The AI Alliance is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players",
+  "conference_id": null,
+  "date_time": "2025-05-15T10:00:00-04:00",
+  "end_time": "2025-05-15T11:00:00-04:00",
+  "event_id": "307661861",
+  "event_title": "[AI Alliance Materials] Discrete State-Space Diffusion and Flow Models",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-materials-discrete-state-space-diffusion-and-flow-models-event:discrete-state-space-diffusion-and-flow-models",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-materials-discrete-state-space-diffusion-and-flow-models-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-materials-discrete-state-space-diffusion-and-flow-models-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/307661861/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Discrete State-Space Diffusion and Flow Models",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/307661861/"
+}

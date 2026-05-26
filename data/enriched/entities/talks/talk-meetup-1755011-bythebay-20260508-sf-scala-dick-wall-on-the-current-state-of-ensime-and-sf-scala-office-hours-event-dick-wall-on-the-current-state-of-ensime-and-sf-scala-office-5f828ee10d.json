@@ -1,0 +1,31 @@
+{
+  "abstract": "Thank you Bloomberg for hosting us. You will need to be registered on the meetup with you actual first and last name, and will be badged to the 22nd floor. During the early days of Scala, before widespread tool support in IDEs, there was a project called Ensime, the Enhanced Scala Intelligence Mode for Emacs. As Scala got better established and the IDE support started to grow, one of the casualties was Ensime, which languished for a while, but a couple of years ago some volunteers got together to try and resurrect it. It's taken a while, but the project velocity is very good now, and Ensime no longer stands for ...Emacs, it now stands for the Enhanced Scala Intelligence Mode for Editors, and has support for several editors including Emacs (of course), Vim, Atom, Microsoft's Visual Code and my personal favorite: Sublime Come and see what the current state is for Ensime, how you can gain more control over your development environment than you ever believed possible, and how you can join this true community project to improve Scala tooling. Time permitting, we'll use our remaining slot for SF Scala Office Hours. It will be questions on all things Scala (and beyond) answered by experts in attendance! Come and ask or answer a good question. Dick Wall is the nicest person in the Scala community, of which he is also one of the founders, top developer advocates (http://typesafe.io/post/146976813533/a-typesafe-advocate), and one of the best teachers",
+  "conference_id": null,
+  "date_time": "2016-07-12T18:30:00-07:00",
+  "end_time": "2016-07-12T21:30:00-07:00",
+  "event_id": "232407273",
+  "event_title": "Dick Wall on the Current State of Ensime and SF Scala Office Hours",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-dick-wall-on-the-current-state-of-ensime-and-sf-scala-office-hours-event:dick-wall-on-the-current-state-of-ensime-and-sf-scala-office-hours",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-dick-wall-on-the-current-state-of-ensime-and-sf-scala-office-hours-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-dick-wall-on-the-current-state-of-ensime-and-sf-scala-office-hours-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/232407273/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Dick Wall on the Current State of Ensime and SF Scala Office Hours",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/232407273/"
+}

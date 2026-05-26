@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:akka-streams",
+  "name": "Akka Streams",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-konrad-malawski-reactive-streams-akka-streams-and-the-jdk-ecosystem-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-beat-aliens-with-an-akka-cluster-and-drytools-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-konrad-malawski-reactive-streams-akka-streams-and-the-jdk-ecosystem-event",
+    "bythebay-20260508-sf-scala-beat-aliens-with-an-akka-cluster-and-drytools-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/225079080/",
+    "https://www.meetup.com/sf-scala/events/233094029/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-konrad-malawski-reactive-streams-akka-streams-and-the-jdk-ecosystem-event:konrad-malawski-reactive-streams-akka-streams-and-the-jdk-ecosystem",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-beat-aliens-with-an-akka-cluster-and-drytools-event:beat-aliens-with-an-akka-cluster-and-drytools"
+  ],
+  "type": "project"
+}

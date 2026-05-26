@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:digital-enablement-leader",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Digital Enablement Leader",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-digital-enablement-leader.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-digital-enablement-leader",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297915488/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290311918/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-digital-enablement-leader:introduction-to-quantum-computing",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader:quantum-series-part-1-introduction-to-quantum-computing"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

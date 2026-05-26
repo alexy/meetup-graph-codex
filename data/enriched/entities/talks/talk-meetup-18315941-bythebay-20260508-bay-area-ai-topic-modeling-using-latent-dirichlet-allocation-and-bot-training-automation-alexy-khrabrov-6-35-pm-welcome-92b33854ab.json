@@ -1,0 +1,47 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2017-09-19T18:00:00-07:00",
+  "end_time": "2017-09-19T21:00:00-07:00",
+  "event_id": "242935944",
+  "event_title": "Topic Modeling Using Latent Dirichlet Allocation; and Bot Training & Automation",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov:6-35-pm-welcome",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/242935944/"
+  ],
+  "speaker_ids": [
+    "speaker:alexy-khrabrov",
+    "speaker:saurabh-kumar"
+  ],
+  "speakers": [
+    {
+      "company_name": "By the Bay, and",
+      "id": "speaker:alexy-khrabrov",
+      "name": "Alexy Khrabrov",
+      "title": "By the Bay"
+    },
+    {
+      "company_name": "H2O.ai",
+      "id": "speaker:saurabh-kumar",
+      "name": "Saurabh Kumar",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "6:35 PM - Welcome",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/242935944/"
+}

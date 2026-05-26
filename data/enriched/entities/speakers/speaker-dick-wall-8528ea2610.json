@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:dick-wall",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Dick Wall",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-scalaz-streams-and-the-real-world-dick-wall-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-scalaz-streams-and-the-real-world-dick-wall.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-scalaz-streams-and-the-real-world-dick-wall-2",
+    "bythebay-20260508-scala-bay-scalaz-streams-and-the-real-world-dick-wall"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/169514012/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-scalaz-streams-and-the-real-world-dick-wall:scalaz-streams-and-the-real-world"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

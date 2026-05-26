@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:thoughtworks-we",
+      "company_name": "ThoughtWorks) We",
+      "title": "Software Developer"
+    }
+  ],
+  "company_id": "company:thoughtworks-we",
+  "company_ids": [
+    "company:thoughtworks-we"
+  ],
+  "company_name": "ThoughtWorks) We",
+  "company_names": [
+    "ThoughtWorks) We"
+  ],
+  "conference_ids": [],
+  "id": "speaker:srikar-ayilavarapu",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Srikar Ayilavarapu",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/203730542/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event-talk-1:relevance-of-web-development-practices-to-hadoop-or-what-i-missed-from-the-world-of-web-de"
+  ],
+  "title": "Software Developer",
+  "titles": [
+    "Software Developer"
+  ],
+  "type": "speaker"
+}

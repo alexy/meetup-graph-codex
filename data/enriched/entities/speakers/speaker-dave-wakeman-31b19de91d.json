@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:dave-wakeman",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Dave Wakeman",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-breathe-new-life-into-existing-applications-with-microservices-architecture-dave-wakeman-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-breathe-new-life-into-existing-applications-with-microservices-architecture-dave-wakeman.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-breathe-new-life-into-existing-applications-with-microservices-architecture-dave-wakeman-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-breathe-new-life-into-existing-applications-with-microservices-architecture-dave-wakeman"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/256348061/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-breathe-new-life-into-existing-applications-with-microservices-architecture-dave-wakeman:breathe-new-life-into-existing-applications-with-microservices-architecture"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

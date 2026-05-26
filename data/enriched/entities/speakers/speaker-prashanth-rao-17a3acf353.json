@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:lancedb",
+      "company_name": "LanceDB",
+      "title": "AI Engineer"
+    }
+  ],
+  "company_id": "company:lancedb",
+  "company_ids": [
+    "company:lancedb"
+  ],
+  "company_name": "LanceDB",
+  "company_names": [
+    "LanceDB"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:prashanth-rao",
+  "meetup_ids": [],
+  "name": "Prashanth Rao",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-prashanth-rao-lancedb.json",
+    "data/raw/sources/bythebay-20260508-agents-need-more-than-vector-search-prashanth-rao-lancedb.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-prashanth-rao-lancedb",
+    "bythebay-20260508-agents-need-more-than-vector-search-prashanth-rao-lancedb"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-agents-need-more-than-vector-search-prashanth-rao-lancedb:agents-need-more-than-vector-search"
+  ],
+  "title": "AI Engineer",
+  "titles": [
+    "AI Engineer"
+  ],
+  "type": "speaker"
+}

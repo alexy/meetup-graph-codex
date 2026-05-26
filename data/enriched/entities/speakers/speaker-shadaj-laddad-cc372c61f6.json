@@ -1,0 +1,37 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:shadaj-laddad",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:2891482"
+  ],
+  "name": "Shadaj Laddad",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-an-intro-to-scala-native-shadaj-laddad-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-an-intro-to-scala-native-shadaj-laddad.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices-2",
+    "bythebay-20260508-scala-bay-an-intro-to-scala-native-shadaj-laddad-2",
+    "bythebay-20260508-scala-bay-an-intro-to-scala-native-shadaj-laddad",
+    "bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/255950651/",
+    "https://www.meetup.com/scala-bay/events/239831257/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-an-intro-to-scala-native-shadaj-laddad:an-intro-to-scala-native",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices:building-cloud-services-w-akka-and-scala"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

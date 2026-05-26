@@ -1,0 +1,16 @@
+{
+  "id": "company:open-source-ai-snowflake",
+  "name": "Open Source AI @ Snowflake ❄️",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval-vino-duraisamy-snowflake-josh-reini-developer-advocate-for-open-source-ai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval-vino-duraisamy-snowflake-josh-reini-developer-advocate-for-open-source-ai"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:josh-reini"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

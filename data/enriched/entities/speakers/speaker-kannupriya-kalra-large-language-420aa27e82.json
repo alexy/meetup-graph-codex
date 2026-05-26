@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:kannupriya-kalra-large-language",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:2891482"
+  ],
+  "name": "Kannupriya Kalra Large Language",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-2",
+    "bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/306178453/",
+    "https://www.meetup.com/scala-bay/events/306178503/"
+  ],
+  "talk_ids": [],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,38 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-designing-data-infrastructure-in-the-age-of-generative-ai-lisa-n-cao-databricks:designing-data-infrastructure-in-the-age-of-generative-ai",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-designing-data-infrastructure-in-the-age-of-generative-ai-lisa-n-cao-databricks.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-designing-data-infrastructure-in-the-age-of-generative-ai-lisa-n-cao-databricks"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:lisa-n-cao"
+  ],
+  "speakers": [
+    {
+      "company_name": "Databricks",
+      "id": "speaker:lisa-n-cao",
+      "name": "Lisa N. Cao",
+      "title": "Staff Developer Relations"
+    }
+  ],
+  "tags": [
+    "Open Data Lake",
+    "OSS AI"
+  ],
+  "title": "Designing Data Infrastructure in the Age of Generative AI",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/designing-data-infrastructure-in-the-age-of-generative-ai"
+}

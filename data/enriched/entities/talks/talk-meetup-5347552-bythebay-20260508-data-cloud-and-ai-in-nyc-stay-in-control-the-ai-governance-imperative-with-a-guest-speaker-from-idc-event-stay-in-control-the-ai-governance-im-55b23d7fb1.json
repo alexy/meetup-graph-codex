@@ -1,0 +1,31 @@
+{
+  "abstract": "Despite the benefits of generative AI, institutions are now facing related risks in regulatory backlash, fines, revenue loss, and brand damage. The need for a transparent, compliant, and trustworthy governance plan has only been punctuated by the recent White House announcement of the strongest global action yet on AI safety and governance. Establishing an AI governance plan that covers both machine learning and Generative AI is paramount for organizations to stay ahead. There has never been a more critical time to navigate a meaningful, company-wide AI plan within your organization. Register now Join this IDC webcast and you will learn: The top 5-7 burning questions about Generative AI Organizational barriers to AI adoption and how to overcome them Improvements in AI governance tool kits for both machine learning and Generative AI How to create a solid AI governance plan with company-wide buy in Register now",
+  "conference_id": null,
+  "date_time": "2024-02-14T13:00:00-05:00",
+  "end_time": "2024-02-14T14:00:00-05:00",
+  "event_id": "298776696",
+  "event_title": "Stay in Control: The AI governance imperative with a guest speaker from IDC",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-stay-in-control-the-ai-governance-imperative-with-a-guest-speaker-from-idc-event:stay-in-control-the-ai-governance-imperative-with-a-guest-speaker-from-idc",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-stay-in-control-the-ai-governance-imperative-with-a-guest-speaker-from-idc-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-stay-in-control-the-ai-governance-imperative-with-a-guest-speaker-from-idc-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/298776696/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Stay in Control: The AI governance imperative with a guest speaker from IDC",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/298776696/"
+}

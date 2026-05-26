@@ -1,0 +1,37 @@
+{
+  "abstract": "We have two talks: on LSA with Spark and on MINTDATA, a new streaming processing framework that can use Spark as a component. (1) Semantic Indexing of Four Million Documents with Apache Spark Latent Semantic Analysis (LSA) is a technique in natural language processing and information retrieval that seeks to better understand the latent relationships and concepts in large corpuses. In this talk, we’ll walk through what it looks like to apply LSA to the full set of documents in English Wikipedia, using Apache Spark. Harnessing the Stanford CoreNLP library for lemmatization and MLlib’s scalable SVD implementation for uncovering a lower-dimensional representation of the data, we’ll undertake the modest task of enabling queries against the full extent of human knowledge, based on latent semantic relationships. Sandy Ryza is a senior data scientist at Cloudera focusing on Apache Spark and its ecosystem, and an author of the O’Reilly book Advanced Analytics with Spark (http://shop.oreilly.com/product/0636920035091.do). He is a Spark committer and member of the Apache Hadoop project management committee. He graduated Phi Beta Kappa from Brown University. (2) Taming the Chaos of Stream Processing Stream processing is broken -- we spend inordinate amounts of time building, maintaining and deploying the software & infrastructure to manage stream processing pipelines. As an industry, it’s time to stop repeating ourselves and to focus instead on gleaning domain-specific insights from raw data. At MINTDATA, we have one approach to spending less time on infrastructure and more on the data domains at hand. In this talk, we’ll show examples of how we strive to help companies and people become more efficient at managing stream processing at scale. MINTDATA helps people become more efficient at how they derive insights from raw data. With a stream processing engine built from scratch (yet backward compatible with Apache Storm) and a suite of applications to visually define and manage the entire stream processing lifecycle, MINTDATA provides the foundation for taming the jungle of scotch tape that underlies today’s stream processing pipelines. An overview of MINTDATA in action is here: http://mintdata.com/intro A technologist at heart, Denis Kulgavin spent the past two decades in leadership roles of software development, sales and product management. Starting out in the embedded systems world in the late 1990s, Denis pioneered a visual platform to simplify the creation of control automation systems for the smart building, transportation, and oil distribution markets. More recently, Denis applied lessons learned from real-time embedded systems to the world of big data. More specifically, Denis led a team to create the MINTDATA real-time stream processing platform. With a stream processor engine built from scratch (yet backward compatible with Apache Storm) and a mechanism to visually define data pipelines, the MINTDATA platform today runs in production and helps people become more efficient at how they define and manage massive streams of data at scale",
+  "conference_id": null,
+  "date_time": "2015-07-09T18:30:00-07:00",
+  "end_time": "2015-07-09T21:30:00-07:00",
+  "event_id": "222858278",
+  "event_title": "Semantic Indexing of Four Million Documents with Apache Spark, MINTDATA",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-semantic-indexing-of-four-million-documents-with-apache-spark-mintdata-event:semantic-indexing-of-four-million-documents-with-apache-spark-mintdata",
+  "kind": "talk",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [
+    "project:apache-spark",
+    "project:apache-hadoop",
+    "project:apache-storm",
+    "project:stanford-corenlp",
+    "project:mintdata"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-semantic-indexing-of-four-million-documents-with-apache-spark-mintdata-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-semantic-indexing-of-four-million-documents-with-apache-spark-mintdata-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/222858278/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Semantic Indexing of Four Million Documents with Apache Spark, MINTDATA",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/222858278/"
+}

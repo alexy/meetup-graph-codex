@@ -1,0 +1,47 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:machine-learning",
+  "name": "Machine Learning",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-and-flink-data-pipelines-in-practice-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0-trevor-grant.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-model-versioning-why-when-and-how-conrado-miranda-verta.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta.json",
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-and-flink-data-pipelines-in-practice-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0-trevor-grant",
+    "bythebay-20260508-bay-area-ai-model-versioning-why-when-and-how-conrado-miranda-verta",
+    "bythebay-20260508-sf-scala-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta",
+    "bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta",
+    "bythebay-20260508-san-francisco-hadoop-users-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta",
+    "bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta",
+    "bythebay-20260508-graphql-by-the-bay-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/222631734/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/243156555/",
+    "https://www.meetup.com/bay-area-ai/events/265941376/",
+    "https://www.meetup.com/sf-scala/events/266058898/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/266058948/",
+    "https://www.meetup.com/hadoopsf/events/266058975/",
+    "https://www.meetup.com/bythebay/events/266059026/",
+    "https://www.meetup.com/graphql-by-the-bay/events/266059090/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-spark-and-flink-data-pipelines-in-practice-event:spark-and-flink-data-pipelines-in-practice",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0-trevor-grant:using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-model-versioning-why-when-and-how-conrado-miranda-verta:model-versioning-why-when-and-how",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta:model-versioning-and-monitoring-why-when-and-how",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta:model-versioning-and-monitoring-why-when-and-how",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta:model-versioning-and-monitoring-why-when-and-how",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta:model-versioning-and-monitoring-why-when-and-how",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta:model-versioning-and-monitoring-why-when-and-how"
+  ],
+  "type": "project"
+}

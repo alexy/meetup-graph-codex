@@ -1,0 +1,51 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:jo-kristian-bergum",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:18315941",
+    "meetup:18601481",
+    "meetup:2891482"
+  ],
+  "name": "Jo Kristian Bergum",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-2",
+    "bythebay-20260508-bay-area-ai-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-2",
+    "bythebay-20260508-scala-bay-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-2",
+    "bythebay-20260508-bay-area-ai-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-talk-3",
+    "bythebay-20260508-sf-data-and-ai-engineering-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-talk-3",
+    "bythebay-20260508-scala-bay-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-talk-3",
+    "bythebay-20260508-sf-scala-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/296212723/",
+    "https://www.meetup.com/bay-area-ai/events/296212567/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/296212677/",
+    "https://www.meetup.com/scala-bay/events/296212691/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-talk-3:i-can-t-believe-they-made-this-available-for-free",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-talk:i-can-t-believe-they-made-this-available-for-free",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-talk-3:i-can-t-believe-they-made-this-available-for-free",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-talk-3:i-can-t-believe-they-made-this-available-for-free"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,37 @@
+{
+  "abstract": "RAGme-ai is a personalized RAG agent for the web sites you visit and care about. Use cases include: 1. Interractive personal RAG adding web sites and documents and using an LLM agent to query 2. Collecting web sites or documents on a particular topic and RAGing and searching them 3. Collecting posts from a blog and RAGing and searching them 4. Collecting visited sites from a user's daily activities and RAGing and searching them 5. Collecting documents from a user and RAGing and searching them RAGing and searching refers to adding documents into a Vector database using some appropriate embedding (process to RAG) and then using an LLM agent to query and use that database as source of knowledge. About the presenter Max. Hacker. IBM Research. LinkedIn, GitHub",
+  "conference_id": null,
+  "date_time": "2025-05-29T12:00:00-04:00",
+  "end_time": "2025-05-29T13:00:00-04:00",
+  "event_id": "308111083",
+  "event_title": "[AI Alliance] Introducing RAGme-ai",
+  "github_repositories": [
+    "https://github.com/maximilien/ragme-ai"
+  ],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-ragme-ai-event:introducing-ragme-ai",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:https-github-com-maximilien-ragme-ai",
+    "project:ragme-ai",
+    "project:vector"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-ragme-ai-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-ragme-ai-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/308111083/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Introducing RAGme-ai",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/308111083/"
+}

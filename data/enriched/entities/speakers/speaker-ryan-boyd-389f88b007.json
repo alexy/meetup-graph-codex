@@ -1,0 +1,49 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:motherduck",
+      "company_name": "MotherDuck",
+      "title": "Сo-founder"
+    },
+    {
+      "company_id": "company:o-founder-of-motherduck",
+      "company_name": "Сo-founder of MotherDuck",
+      "title": null
+    }
+  ],
+  "company_id": "company:motherduck",
+  "company_ids": [
+    "company:motherduck",
+    "company:o-founder-of-motherduck"
+  ],
+  "company_name": "MotherDuck",
+  "company_names": [
+    "MotherDuck",
+    "Сo-founder of MotherDuck"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:ryan-boyd",
+  "meetup_ids": [],
+  "name": "Ryan Boyd",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-ryan-boyd-motherduck.json",
+    "data/raw/sources/bythebay-20260508-llms-meet-data-warehouses-building-reliable-ai-agents-for-business-analytics-ryan-boyd.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-ryan-boyd-motherduck",
+    "bythebay-20260508-llms-meet-data-warehouses-building-reliable-ai-agents-for-business-analytics-ryan-boyd"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-llms-meet-data-warehouses-building-reliable-ai-agents-for-business-analytics-ryan-boyd:llms-meet-data-warehouses-building-reliable-ai-agents-for-business-analytics"
+  ],
+  "title": "Сo-founder",
+  "titles": [
+    "Сo-founder"
+  ],
+  "type": "speaker"
+}

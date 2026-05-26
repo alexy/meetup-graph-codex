@@ -1,0 +1,31 @@
+{
+  "abstract": "A group of people are developing curriculum for ScalaBridge, and anyone from SF Scala is invited to help! See details and sign up via Eventbrite link: https://www.eventbrite.com/e/scalabridge-curriculum-hack-day-tickets-6131325961",
+  "conference_id": null,
+  "date_time": "2016-07-30T12:00:00-07:00",
+  "end_time": "2016-07-30T18:00:00-07:00",
+  "event_id": "232925065",
+  "event_title": "ScalaBridge Curriculum Hack Day",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scalabridge-curriculum-hack-day-event:scalabridge-curriculum-hack-day",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scalabridge-curriculum-hack-day-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scalabridge-curriculum-hack-day-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/232925065/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "ScalaBridge Curriculum Hack Day",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/232925065/"
+}

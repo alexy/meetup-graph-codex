@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "detection is the art of automating surprise. To do this, we have to be able to define what we mean by \"normal\" and recognize what it means to be different from that. The basic ideas of anomaly detection are simple. You build a model and you look"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:mapr-anomaly",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "MapR Anomaly",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-how-to-find-what-you-didn-t-know-to-look-for-practical-anomaly-detection-mapr-anomaly.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-users-meetup-mapr-anomaly.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-how-to-find-what-you-didn-t-know-to-look-for-practical-anomaly-detection-mapr-anomaly",
+    "bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-users-meetup-mapr-anomaly-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/206923002/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-users-meetup-mapr-anomaly-talk-2:how-to-find-what-you-didn-t-know-to-look-for-practical-anomaly-detection"
+  ],
+  "title": "detection is the art of automating surprise. To do this, we have to be able to define what we mean by \"normal\" and recognize what it means to be different from that. The basic ideas of anomaly detection are simple. You build a model and you look",
+  "titles": [
+    "detection is the art of automating surprise. To do this, we have to be able to define what we mean by \"normal\" and recognize what it means to be different from that. The basic ideas of anomaly detection are simple. You build a model and you look"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "company:scrapegraphai",
+  "name": "ScrapeGraphAI",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-lorenzo-padoan-scrapegraphai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-lorenzo-padoan-scrapegraphai"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:lorenzo-padoan"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-from-bots-to-brains-the-evolution-of-web-scraping-lorenzo-padoan:from-bots-to-brains-the-evolution-of-web-scraping"
+  ],
+  "type": "company"
+}

@@ -1,0 +1,43 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ibm-systems-business-unit",
+      "company_name": "IBM Systems business unit",
+      "title": null
+    }
+  ],
+  "company_id": "company:ibm-systems-business-unit",
+  "company_ids": [
+    "company:ibm-systems-business-unit"
+  ],
+  "company_name": "IBM Systems business unit",
+  "company_names": [
+    "IBM Systems business unit"
+  ],
+  "conference_ids": [],
+  "id": "speaker:dawn-ahukanna",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Dawn Ahukanna",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-business-unit-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-business-unit.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-business-unit-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-business-unit-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-business-unit",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-business-unit-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289676479/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289676333/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-bus:designing-people-centered-ai-modelling-power-and-powerful-modelling"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

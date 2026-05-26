@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:starburst",
+      "company_name": "Starburst",
+      "title": "Staff Software Engineer"
+    }
+  ],
+  "company_id": "company:starburst",
+  "company_ids": [
+    "company:starburst"
+  ],
+  "company_name": "Starburst",
+  "company_names": [
+    "Starburst"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:mainak-ghosh",
+  "meetup_ids": [],
+  "name": "Mainak Ghosh",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-mainak-ghosh-starburst.json",
+    "data/raw/sources/bythebay-20260508-lakeside-ai-bringing-models-to-data-with-open-lakehouses-agents-jitender-aswani-starburst-mainak-ghosh-staff-software-engineer-starburst-martin-traverso-cto.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-mainak-ghosh-starburst",
+    "bythebay-20260508-lakeside-ai-bringing-models-to-data-with-open-lakehouses-agents-jitender-aswani-starburst-mainak-ghosh-staff-software-engineer-starburst-martin-traverso-cto"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-lakeside-ai-bringing-models-to-data-with-open-lakehouses-agents-jitender-aswani-starburst-mainak-ghosh-staff-software-engi:lakeside-ai-bringing-models-to-data-with-open-lakehouses-agents"
+  ],
+  "title": "Staff Software Engineer",
+  "titles": [
+    "Staff Software Engineer"
+  ],
+  "type": "speaker"
+}

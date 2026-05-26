@@ -1,0 +1,35 @@
+{
+  "abstract": null,
+  "conference_id": "scale-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:scale-by-the-bay:bythebay-20260508-gateway-to-the-future-a-brief-history-of-kubernetes-ingress-viktor-gamov-kong:gateway-to-the-future-a-brief-history-of-kubernetes-ingress",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-gateway-to-the-future-a-brief-history-of-kubernetes-ingress-viktor-gamov-kong.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-gateway-to-the-future-a-brief-history-of-kubernetes-ingress-viktor-gamov-kong"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:viktor-gamov"
+  ],
+  "speakers": [
+    {
+      "company_name": "Kong",
+      "id": "speaker:viktor-gamov",
+      "name": "Viktor Gamov",
+      "title": "Principal Developer Advocate"
+    }
+  ],
+  "tags": [],
+  "title": "Gateway to the Future: A Brief History of Kubernetes Ingress",
+  "type": "talk",
+  "url": "https://www.scale.bythebay.io/post/viktor-gamov-gateway-to-the-future-a-brief-history-of-kubernetes-ingress"
+}

@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:reah-miyara",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Reah Miyara",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-cognitive-computing-its-applications-reah-miyara-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-cognitive-computing-its-applications-reah-miyara.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-cognitive-computing-its-applications-reah-miyara-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-cognitive-computing-its-applications-reah-miyara"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/244261633/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-cognitive-computing-its-applications-reah-miyara:cognitive-computing-its-applications"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

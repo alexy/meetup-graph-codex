@@ -1,0 +1,56 @@
+{
+  "abstract": "Cats Effect is a library that makes it easy to write code that effectively uses multiple cores and doesn’t leak resources. This makes building complex applications, such as highly concurrent services, much more productive. This talk will introduce the meaning and role of side-effects and effects, how to encapsulate side-effects in a safer form, and show off the features of the Cats Effect library that provide parallelism, concurrency, resource-safety, and more! About our speaker Adam Rosien (https://twitter.com/arosien) As a Principal at Inner Product LLC, Adam focuses on building systems, teaching, and mentoring using functional programming. He previously helped various startups in many domains develop back-end systems and implement continuous deployment practices, and also spent five years as a developer at Xerox PARC",
+  "conference_id": null,
+  "date_time": "2021-01-13T17:30:00-08:00",
+  "end_time": "2021-01-13T19:30:00-08:00",
+  "event_id": "275583573",
+  "event_title": "Essential Effects By Adam Rosien",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-1:essential-effects",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:cats-effect"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/275583573/"
+  ],
+  "speaker_ids": [
+    "speaker:adam-rosien",
+    "speaker:cats-effect",
+    "speaker:salar-rahmanian"
+  ],
+  "speakers": [
+    {
+      "company_name": "7.00pm Wrap up and continue conversations",
+      "id": "speaker:adam-rosien",
+      "name": "Adam Rosien",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:cats-effect",
+      "name": "Cats Effect",
+      "title": null
+    },
+    {
+      "company_name": "5.45pm Essential Effects By",
+      "id": "speaker:salar-rahmanian",
+      "name": "Salar Rahmanian",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Essential Effects",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/275583573/"
+}

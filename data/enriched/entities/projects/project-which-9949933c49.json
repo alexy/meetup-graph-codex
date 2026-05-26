@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:which",
+  "name": "Which",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-adam-warski-relational-dbs-scala-comparing-libraries-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-grpc-and-databases-with-scala-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-adam-warski-relational-dbs-scala-comparing-libraries-event",
+    "bythebay-20260508-sf-scala-grpc-and-databases-with-scala-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/239830974/",
+    "https://www.meetup.com/sf-scala/events/239942879/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-adam-warski-relational-dbs-scala-comparing-libraries-event:adam-warski-relational-dbs-scala-comparing-libraries",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-grpc-and-databases-with-scala-event:grpc-and-databases-with-scala"
+  ],
+  "type": "project"
+}

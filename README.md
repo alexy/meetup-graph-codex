@@ -20,9 +20,14 @@ README.md
 REPORT.md
 data/
   bythebay-graph.json
+  enriched/
+    bythebay-entities.json
+    bythebay-enriched-graph.json
   raw/
     sources/
     extracted/
+scripts/
+  enrich_meetup_entities.py
 src/
   main.rs
   bin/
@@ -34,6 +39,7 @@ src/
 ## Requirements
 
 - Rust toolchain with the 2024 edition supported.
+- Python 3 when running cached-download enrichment.
 - Network access when scraping live source pages.
 - `OPENAI_API_KEY` if using the default LLM extractor.
 - FalkorDB, HelixDB, or SurrealDB when loading into a graph database.
@@ -92,6 +98,32 @@ cached in `data/raw/extracted/`. Disable raw preservation with:
 cargo run -- --output data/bythebay-graph.json --no-raw
 ```
 
+## Enriched Entity Records
+
+To re-parse the cached source downloads into richer entity records with
+first-class speakers, talks, projects, companies, meetups, and graph edges:
+
+```bash
+python3 scripts/enrich_meetup_entities.py --batch-size 100
+```
+
+The enrichment output is written under `data/enriched/`:
+
+- `summary.json`: counts and output locations for the latest run.
+- `bythebay-entities.json`: aggregate entity arrays.
+- `bythebay-enriched-graph.json`: `nodes`/`edges` graph record export.
+- `{speakers,talks,projects,companies,meetups,conferences}.json`: one array per
+  entity type.
+- `{speakers,talks,projects,companies,meetups,conferences}.jsonl`: newline
+  delimited records for streaming tools.
+- `entities/{speakers,talks,projects,companies,meetups,conferences}/`: one JSON
+  record per entity.
+- `batches/`: batch summaries for each group of parsed Meetup downloads.
+
+The current cached run produced 1,218 talks, 677 speakers, 185 companies,
+219 projects, 9 meetups, 2 conferences, and a graph-record export with 2,310
+nodes and 3,399 edges.
+
 ## Load Graph Data
 
 The loader supports backend values for each database connection path:
@@ -131,6 +163,15 @@ The `talk-records` importer expects records with `nodes` and `edges`, node
 fields named `id`, `type` or `kind`, and edge fields named `from`, `to`, and
 `type`, `kind`, or `relationship`. It deduplicates nodes by stable ID and edges
 by `(from, to, relationship)` before calling the same top-level graph loader.
+
+The enriched graph export uses this same `nodes`/`edges` shape:
+
+```bash
+cargo run --bin load_graph -- \
+  --input data/enriched/bythebay-enriched-graph.json \
+  --input-format talk-records \
+  --backend falkor
+```
 
 ### FalkorDB
 
@@ -200,6 +241,9 @@ The loader creates these node labels:
 - `Conference`
 - `Meetup`
 - `Person`
+- `Speaker`
+- `Company`
+- `Project`
 - `Record`
 - `Talk`
 - `Announcement`
@@ -250,4 +294,10 @@ Compile and inspect CLI options:
 
 ```bash
 cargo run --bin load_graph -- --help
+```
+
+Regenerate enriched entity records:
+
+```bash
+python3 scripts/enrich_meetup_entities.py --batch-size 100
 ```

@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:neo4j",
+      "company_name": "Neo4j",
+      "title": null
+    }
+  ],
+  "company_id": "company:neo4j",
+  "company_ids": [
+    "company:neo4j"
+  ],
+  "company_name": "Neo4j",
+  "company_names": [
+    "Neo4j"
+  ],
+  "conference_ids": [],
+  "id": "speaker:nyah-macklin",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Nyah Macklin",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-improving-chatbot-reliability-through-graph-based-retrieval-nyah-macklin-neo4j.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-improving-chatbot-reliability-through-graph-based-retrieval-nyah-macklin-neo4j.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-improving-chatbot-reliability-through-graph-based-retrieval-nyah-macklin-neo4j",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-improving-chatbot-reliability-through-graph-based-retrieval-nyah-macklin-neo4j"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/310093605/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-improving-chatbot-reliability-through-graph-based-retrieval-nyah-macklin-neo4j:improving-chatbot-reliability-through-graph-based-retrieval"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

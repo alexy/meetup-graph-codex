@@ -1,0 +1,37 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-the-present-and-future-of-programming-with-ai-peter-norvig-stanford-researcher:the-present-and-future-of-programming-with-ai",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-the-present-and-future-of-programming-with-ai-peter-norvig-stanford-researcher.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-the-present-and-future-of-programming-with-ai-peter-norvig-stanford-researcher"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:peter-norvig"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:peter-norvig",
+      "name": "Peter Norvig",
+      "title": "Education Fellow"
+    }
+  ],
+  "tags": [
+    "AI Native Coding"
+  ],
+  "title": "The present and future of programming with AI",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/the-present-and-future-of-programming-with-ai"
+}

@@ -1,0 +1,31 @@
+{
+  "abstract": "Alexander Podkhalyuzin, the original creator of the world-famous, most useful, and amazing Scala support in IntelliJ IDEA, comes to SF Scala to present both new and tried and true features in one of our favorite tools. Come hear it all from the horse's mouth and see how to use it! He will also talk about Scala itself and SBT used natively in the new version of the plugin",
+  "conference_id": null,
+  "date_time": "2013-09-26T18:30:00-07:00",
+  "end_time": "2013-09-26T21:30:00-07:00",
+  "event_id": "133315022",
+  "event_title": "IntelliJ IDEA Scala Support by its Author",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-intellij-idea-scala-support-by-its-author-event:intellij-idea-scala-support-by-its-author",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-intellij-idea-scala-support-by-its-author-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-intellij-idea-scala-support-by-its-author-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/133315022/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "IntelliJ IDEA Scala Support by its Author",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/133315022/"
+}

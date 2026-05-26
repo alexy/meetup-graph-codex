@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:cloudphysics",
+      "company_name": "CloudPhysics",
+      "title": "Chief Scientist"
+    }
+  ],
+  "company_id": "company:cloudphysics",
+  "company_ids": [
+    "company:cloudphysics"
+  ],
+  "company_name": "CloudPhysics",
+  "company_names": [
+    "CloudPhysics"
+  ],
+  "conference_ids": [],
+  "id": "speaker:xj-liu",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "XJ Liu",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/228814274/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event-talk-2:andy-petrella-xavier-tordoir-agile-data-science-with-scala"
+  ],
+  "title": "Chief Scientist",
+  "titles": [
+    "Chief Scientist"
+  ],
+  "type": "speaker"
+}

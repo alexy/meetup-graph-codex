@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:lucidworks-apache-solr",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Lucidworks Apache Solr",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-building-search-airbnb-security-in-solr-airbnb-airbnb-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-building-search-airbnb-security-in-solr-airbnb-airbnb.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-building-search-airbnb-security-in-solr-airbnb-airbnb-2",
+    "bythebay-20260508-bay-area-ai-building-search-airbnb-security-in-solr-airbnb-airbnb"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/223646335/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-building-search-airbnb-security-in-solr-airbnb-airbnb:building-search-airbnb-security-in-solr"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

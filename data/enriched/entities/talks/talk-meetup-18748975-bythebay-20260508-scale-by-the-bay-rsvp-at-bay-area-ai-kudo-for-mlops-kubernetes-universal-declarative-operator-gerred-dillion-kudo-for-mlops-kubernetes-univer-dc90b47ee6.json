@@ -1,0 +1,40 @@
+{
+  "abstract": "This is a joint meetup with Bay Area AI, please register there: https://www.meetup.com/bay-area-ai/events/277024081/ While the rise of Kubernetes has been meteoric, deployment of stateful services onto Kubernetes is still in its infancy. While tooling to build operators to handle the natural complexity that stateful distributed services bring, it requires deep expertise both in Kubernetes API development and the problem domain. The Kubernetes Universal Declarative Operator (KUDO) is a framework for rapidly building production-grade operators for complex, stateful services on Kubernetes. This talk will introduce operators and KUDO, and demonstrate two production ready operators on top of Kubernetes built with KUDO. Speaker: Gerred Dillion, D2IQ, the creator of KUDO",
+  "conference_id": null,
+  "date_time": "2021-03-25T16:00:00-07:00",
+  "end_time": "2021-03-25T18:00:00-07:00",
+  "event_id": "277024121",
+  "event_title": "[RSVP at bay.area.ai] KUDO for MLOps: Kubernetes Universal Declarative Operator",
+  "github_repositories": [],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion:kudo-for-mlops-kubernetes-universal-declarative-operator",
+  "kind": "talk",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/277024121/"
+  ],
+  "speaker_ids": [
+    "speaker:gerred-dillion"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:gerred-dillion",
+      "name": "Gerred Dillion",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "KUDO for MLOps: Kubernetes Universal Declarative Operator",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/277024121/"
+}

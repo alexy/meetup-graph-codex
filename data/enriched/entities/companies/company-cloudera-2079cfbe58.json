@@ -1,0 +1,31 @@
+{
+  "id": "company:cloudera",
+  "name": "Cloudera",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-august-sf-hadoop-users-meetup-gregory-chanan-cloudera-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-kudu-data-store-for-the-new-era-with-kafka-spark-kudu-demo-akshat-aranya-quantcast-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-august-sf-hadoop-users-meetup-gregory-chanan-cloudera-2",
+    "bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-kudu-data-store-for-the-new-era-with-kafka-spark-kudu-demo-akshat-aranya-quantcast-2",
+    "bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/130863422/",
+    "https://www.meetup.com/hadoopsf/events/227844240/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/226023299/"
+  ],
+  "speaker_ids": [
+    "speaker:gregory-chanan",
+    "speaker:lenni-kuff",
+    "speaker:jean-daniel-cryans"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-kudu-data-store-for-the-new-era-with-kafka-spark-kudu-demo-akshat-aranya-quantcast-talk-2:8-15-talk",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera:february-2016-meetup"
+  ],
+  "type": "company"
+}

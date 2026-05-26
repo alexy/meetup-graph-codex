@@ -1,0 +1,54 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:wandisco",
+      "company_name": "WANdisco",
+      "title": null
+    }
+  ],
+  "company_id": "company:wandisco",
+  "company_ids": [
+    "company:wandisco"
+  ],
+  "company_name": "WANdisco",
+  "company_names": [
+    "WANdisco"
+  ],
+  "conference_ids": [],
+  "id": "speaker:jagane-sundar",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:18315941",
+    "meetup:18601481"
+  ],
+  "name": "Jagane Sundar",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco-2",
+    "bythebay-20260508-bay-area-ai-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco-2",
+    "bythebay-20260508-san-francisco-hadoop-users-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco",
+    "bythebay-20260508-sf-data-and-ai-engineering-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco",
+    "bythebay-20260508-bay-area-ai-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/259908075/",
+    "https://www.meetup.com/bay-area-ai/events/259909063/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/259908119/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wan:managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wan:managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn-jagane-sundar-wandisco:managing-globally-distributed-data-for-deep-learning-using-tensorflow-on-yarn"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

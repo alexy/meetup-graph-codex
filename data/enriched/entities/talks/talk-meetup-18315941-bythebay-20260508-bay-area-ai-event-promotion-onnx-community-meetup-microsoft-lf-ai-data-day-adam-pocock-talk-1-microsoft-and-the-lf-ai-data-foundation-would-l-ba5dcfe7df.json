@@ -1,0 +1,31 @@
+{
+  "abstract": "This event will be hosted in-person at the brand-new Microsoft Silicon Valley Campus on Friday, June 24th . There will be a livestream available for those that are unable to attend in person. The event will cover ONNX Community updates, partner and user stories, and plenty of community networking The main conference track will include lightning talks showcasing the innovative ways ONNX is being used across the ecosystem. We will have a breakout room available all day to continue the conversation around individual topics that you would like to dive deeper into. To close out the day of learning we will have special topic round tables to get your questions answered, followed by an ONNX Runtime-hosted happy hour to relax and connect with the community If you are using ONNX in your services and applications, building software or hardware that supports ONNX, or contributing to ONNX, you should attend! This is a great opportunity to meet with and hear from people working with ONNX and connect with this exciting and growing community! The full schedule of this event will be available here https://onnx.ai/meetups/june2022",
+  "conference_id": null,
+  "date_time": "2022-06-24T09:00:00-07:00",
+  "end_time": "2022-06-24T18:00:00-07:00",
+  "event_id": "286632590",
+  "event_title": "[Event Promotion] ONNX Community Meetup @ Microsoft (LF AI & DATA DAY)",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock-talk-1:microsoft-and-the-lf-ai-data-foundation-would-like-to-invite-you-to-the-onnx-community-day",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/286632590/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Microsoft and the LF AI & Data Foundation would like to invite you to the ONNX Community Day!",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/286632590/"
+}

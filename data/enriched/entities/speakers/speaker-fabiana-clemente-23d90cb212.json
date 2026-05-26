@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ydata",
+      "company_name": "YData",
+      "title": "Co-Founder & Chief Data & Product Officer"
+    }
+  ],
+  "company_id": "company:ydata",
+  "company_ids": [
+    "company:ydata"
+  ],
+  "company_name": "YData",
+  "company_names": [
+    "YData"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:fabiana-clemente",
+  "meetup_ids": [],
+  "name": "Fabiana Clemente",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success-fabiana-clemente-ydata.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success-fabiana-clemente-ydata"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success-fabiana-clemente-ydata:unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success"
+  ],
+  "title": "Co-Founder & Chief Data & Product Officer",
+  "titles": [
+    "Co-Founder & Chief Data & Product Officer"
+  ],
+  "type": "speaker"
+}

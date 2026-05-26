@@ -1,0 +1,18 @@
+{
+  "id": "company:and-introduction-to-gemma-4",
+  "name": "and Introduction to Gemma 4",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/314321640/"
+  ],
+  "speaker_ids": [
+    "speaker:welcome-remarks"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

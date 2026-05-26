@@ -1,0 +1,22 @@
+{
+  "id": "company:cognee",
+  "name": "Cognee",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-vasilije-markovic-cognee.json",
+    "data/raw/sources/bythebay-20260508-building-memory-for-ai-agents-vasilije-markovic-cognee.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-vasilije-markovic-cognee",
+    "bythebay-20260508-building-memory-for-ai-agents-vasilije-markovic-cognee"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:vasilije-markovic"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-building-memory-for-ai-agents-vasilije-markovic-cognee:building-memory-for-ai-agents"
+  ],
+  "type": "company"
+}

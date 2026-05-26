@@ -1,0 +1,54 @@
+{
+  "abstract": "Please join the session that is best suited to your time zone...this topic is repeated at 2 different times. For everyone who wants to learn a little about how “Robots with Autonomy” will likely play an important role in creating a sustainable future in areas such as maintaining our built environment, keeping a rapidly ageing population secure in their homes or keeping degraded land due to climate change productive. We’re unlikely to see humanoid or large autonomous robots in our homes for some time but what are we going to see in the short to medium term, e.g. intelligent vacuum cleaners? Why bio-mimetic approaches, mimicking the animals we have learned to share our living spaces with for several thousand years are perhaps the best way of using autonomous AI Explore ethical and use-case decisions made when attempting to create autonomous prototypes for eldercare Understand what to look for in a personal robot and how an autonomous AI can provide privacy protection, intuitive interaction and shared history to its owners Presenter: Jason Garforth Jason Garforth , in his role as one of IBM’s Enterprise Architects specialises in AI and ERP (Oracle/SAP), gets to work with a wide variety of commercial and academic clients across Healthcare, Financial Services and Manufacturing. Interested in “intelligent machines” from a young age, the quest for Artificial Intelligence spans three academic degrees across multiple decades including a PhD in “Artificial Intelligence, Executive Attention and Autonomous Robotics from The UK’s Open University”. A passion for healthcare, sparked in 2015 continues to the present, developing biomimetic, biologically plausible, privacy protecting, embedded AI for eldercare. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/r7669f0d276963b07e62eeffbb8f92b29",
+  "conference_id": null,
+  "date_time": "2024-03-20T08:00:00-04:00",
+  "end_time": "2024-03-20T09:00:00-04:00",
+  "event_id": "297905928",
+  "event_title": "Living with Autonomous AI",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services:living-with-autonomous-ai",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297905928/"
+  ],
+  "speaker_ids": [
+    "speaker:financial-services",
+    "speaker:jason-garforth",
+    "speaker:jason-garforth-jason-garforth"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:financial-services",
+      "name": "Financial Services",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:jason-garforth",
+      "name": "Jason Garforth",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:jason-garforth-jason-garforth",
+      "name": "Jason Garforth Jason Garforth",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Living with Autonomous AI",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/297905928/"
+}

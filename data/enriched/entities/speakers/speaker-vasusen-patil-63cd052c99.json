@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:donobu",
+      "company_name": "Donobu",
+      "title": "Technical CEO"
+    }
+  ],
+  "company_id": "company:donobu",
+  "company_ids": [
+    "company:donobu"
+  ],
+  "company_name": "Donobu",
+  "company_names": [
+    "Donobu"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:vasusen-patil",
+  "meetup_ids": [],
+  "name": "Vasusen Patil",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-vasusen-patil-donobu.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-vasusen-patil-donobu"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [],
+  "title": "Technical CEO",
+  "titles": [
+    "Technical CEO"
+  ],
+  "type": "speaker"
+}

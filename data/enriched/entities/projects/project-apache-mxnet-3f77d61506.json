@@ -1,0 +1,27 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-mxnet",
+  "name": "Apache MXNet",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-register-at-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi",
+    "bythebay-20260508-sf-data-and-ai-engineering-register-at-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi",
+    "bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/240486931/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/240486984/",
+    "https://www.meetup.com/hadoopsf/events/240490374/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi:deep-learning-breakfast-with-mxnet-and-sparklyr",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-register-at-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi:deep-learning-breakfast-with-mxnet-and-sparklyr",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi:deep-learning-breakfast-with-mxnet-and-sparklyr"
+  ],
+  "type": "project"
+}

@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/elyra-ai/canvas"
+  ],
+  "github_repository": "https://github.com/elyra-ai/canvas",
+  "id": "project:https-github-com-elyra-ai-canvas",
+  "name": "canvas",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/285938364/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-1:ibm-further-democratizes-ai-by-open-sourcing-elyra-visual-nlp-editor"
+  ],
+  "type": "project"
+}

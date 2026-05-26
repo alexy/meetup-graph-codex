@@ -1,0 +1,22 @@
+{
+  "id": "company:descope",
+  "name": "Descope",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-kevin-gao-descope.json",
+    "data/raw/sources/bythebay-20260508-identity-best-practices-to-secure-and-scale-agentic-ai-mcp-deployments-kevin-gao-descope.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-kevin-gao-descope",
+    "bythebay-20260508-identity-best-practices-to-secure-and-scale-agentic-ai-mcp-deployments-kevin-gao-descope"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:kevin-gao"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-identity-best-practices-to-secure-and-scale-agentic-ai-mcp-deployments-kevin-gao-descope:identity-best-practices-to-secure-and-scale-agentic-ai-mcp-deployments"
+  ],
+  "type": "company"
+}

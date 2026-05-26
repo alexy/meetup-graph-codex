@@ -1,0 +1,57 @@
+{
+  "abstract": "RSVP at Bay Area AI only! (https://www.meetup.com/bay-area-ai/events/240486931/) These are the two morning sessions of the Cognitive Frameworks Festival festival.framework.foundation (http://festival.framework.foundation/) We start with the Sparklyr talk from RStudio, and continue with Apache MXNet talk from Amazon. Please note this is a free community conference, so space is limited. This session is the morning one, so only RSVP is you can be there in the morning! Coffee will be served.:) Agenda: 10am Sparklyr 11am MXNet (1) INTRODUCTION TO SPARKLYR This session will cover what sparklyr is, and how it can be used to analyze, visualize and perform machine learning in Spark from R. We will walk through installation, configuration, data wrangling with SQL or dplyr, modeling in MLlib or H2O. You’ll then get a detailed update on new sparklyr features and changes in sparklyr 0.5. We will demonstrate how to model data using popular data frameworks in seamless integration between Spark and R. Speaker: Javier Luraschi, RStudio Javier holds a double degree in Math and Software Engineer and decades of industry experience with a focus on data analysis. He currently works in RStudio and previously in Microsoft Research, Microsoft and SAP. (2) Getting started with Apache MXNet and modeling churn prediction The session will provide a short background on Deep Learning focusing on relevant application domains and an introduction to the powerful and scalable Deep Learning framework, Apache MXNet. We’ll then dive into internals of MXNet, its programing model and operators. Finally we’ll take a practical use case of churn prediction and build a simple neural network to solve it. Speaker: Sunil Mallya, AWS Sunil is a solutions architect focused on Deep Learning at AWS working with customers in various industry verticals. Prior to that, he co-founded the neuroscience and machine learning based image analysis and video thumbnail recommendation company Neon labs. He’s also worked on building large scale low latency systems at Zynga and has an acute passion for serverless computing. He hold a master’s degree in computer science from Brown University",
+  "conference_id": null,
+  "date_time": "2017-06-08T10:00:00-07:00",
+  "end_time": "2017-06-08T12:00:00-07:00",
+  "event_id": "240490374",
+  "event_title": "[register at bay.area.ai] Deep Learning Breakfast with MXNet and Sparklyr",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi:deep-learning-breakfast-with-mxnet-and-sparklyr",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [
+    "project:apache-mxnet",
+    "project:deep-learning"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/240490374/"
+  ],
+  "speaker_ids": [
+    "speaker:javier-luraschi",
+    "speaker:rstudio-javier",
+    "speaker:sunil-mallya"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:javier-luraschi",
+      "name": "Javier Luraschi",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:rstudio-javier",
+      "name": "RStudio Javier",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:sunil-mallya",
+      "name": "Sunil Mallya",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Deep Learning Breakfast with MXNet and Sparklyr",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/240490374/"
+}

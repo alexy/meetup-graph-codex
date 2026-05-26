@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2021-03-06T10:00:00-08:00",
+  "end_time": "2021-03-06T12:00:00-08:00",
+  "event_id": "276260651",
+  "event_title": "TWO TALKS: How to survive algorithms in Scala & A Metals Retrospective",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-talk-3:15am-how-to-survive-algorithms-in-scala",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/276260651/"
+  ],
+  "speaker_ids": [
+    "speaker:william-narmontas"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:william-narmontas",
+      "name": "William Narmontas",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "15am How to survive algorithms in Scala",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/276260651/"
+}

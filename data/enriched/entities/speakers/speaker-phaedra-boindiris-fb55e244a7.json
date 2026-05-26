@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:phaedra-boindiris",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Phaedra Boindiris",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-culture-revolution-for-a-new-digital-age-of-trusted-ai-phaedra-boindiris-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-culture-revolution-for-a-new-digital-age-of-trusted-ai-phaedra-boindiris.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-culture-revolution-for-a-new-digital-age-of-trusted-ai-phaedra-boindiris-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-culture-revolution-for-a-new-digital-age-of-trusted-ai-phaedra-boindiris-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-culture-revolution-for-a-new-digital-age-of-trusted-ai-phaedra-boindiris",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-culture-revolution-for-a-new-digital-age-of-trusted-ai-phaedra-boindiris-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290203162/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290201878/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-culture-revolution-for-a-new-digital-age-of-trusted-ai-phaedra-boindiris:culture-revolution-for-a-new-digital-age-of-trusted-ai",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-culture-revolution-for-a-new-digital-age-of-trusted-ai-phaedra-boindiris-3:culture-revolution-for-a-new-digital-age-of-trusted-ai"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

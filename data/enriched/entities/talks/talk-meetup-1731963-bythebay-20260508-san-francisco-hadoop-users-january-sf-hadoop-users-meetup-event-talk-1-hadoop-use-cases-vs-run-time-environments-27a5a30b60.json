@@ -1,0 +1,40 @@
+{
+  "abstract": "Tom Phelan, Chief Architect and co-founder, BlueData This presentation will investigate the advantages and disadvantages of running a Hadoop cluster in each of the following environments • bare metal • public cloud (i.e. Amazon EMR, Azure, GCE, Rackspace etc) • private cloud (i.e. on-premises cloud) • in cloud environments • cloud using a traditional virtual machine environment • cloud using a containerized virtual environment The presentation will include a discussion of real-world Hadoop uses cases and how each would, or would not, be suitable for running in each environment There will be two breakout sessions following the presentation 1) Hadoop and compute virtualization How do the unique compute requirements of a Hadoop cluster match up against the strengths and weaknesses of such virtualization environments as traditional VMs (KVM, VMW, etc) and containers (docker, etc)? 2) HDFS and storage virtualization",
+  "conference_id": null,
+  "date_time": "2015-01-21T18:00:00-08:00",
+  "end_time": "2015-01-21T21:00:00-08:00",
+  "event_id": "219049168",
+  "event_title": "January SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-january-sf-hadoop-users-meetup-event-talk-1:hadoop-use-cases-vs-run-time-environments",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-january-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-january-sf-hadoop-users-meetup-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/219049168/"
+  ],
+  "speaker_ids": [
+    "speaker:tom-phelan"
+  ],
+  "speakers": [
+    {
+      "company_name": "BlueData",
+      "id": "speaker:tom-phelan",
+      "name": "Tom Phelan",
+      "title": "Chief Architect"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Hadoop Use Cases vs. Run Time Environments",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/219049168/"
+}

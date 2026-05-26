@@ -1,0 +1,46 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-context-is-all-you-need-the-art-and-science-of-information-design-lena-hall-akamai:context-is-all-you-need-the-art-and-science-of-information-design",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-context-is-all-you-need-the-art-and-science-of-information-design-lena-hall-akamai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-context-is-all-you-need-the-art-and-science-of-information-design-lena-hall-akamai"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:lena-hall",
+    "speaker:senior-director"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:lena-hall",
+      "name": "Lena Hall",
+      "title": null
+    },
+    {
+      "company_name": "Akamai",
+      "id": "speaker:senior-director",
+      "name": "Senior Director",
+      "title": "of Developer Relations"
+    }
+  ],
+  "tags": [
+    "Context engineering",
+    "LLMOps",
+    "Models"
+  ],
+  "title": "Context is All You Need: The Art and Science of Information Design",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/context-is-all-you-need-the-art-and-science-of-information-design"
+}

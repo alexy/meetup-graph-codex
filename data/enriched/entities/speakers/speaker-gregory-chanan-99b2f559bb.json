@@ -1,0 +1,36 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:cloudera",
+      "company_name": "Cloudera",
+      "title": null
+    }
+  ],
+  "company_id": "company:cloudera",
+  "company_ids": [
+    "company:cloudera"
+  ],
+  "company_name": "Cloudera",
+  "company_names": [
+    "Cloudera"
+  ],
+  "conference_ids": [],
+  "id": "speaker:gregory-chanan",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Gregory Chanan",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-august-sf-hadoop-users-meetup-gregory-chanan-cloudera-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-august-sf-hadoop-users-meetup-gregory-chanan-cloudera-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/130863422/"
+  ],
+  "talk_ids": [],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

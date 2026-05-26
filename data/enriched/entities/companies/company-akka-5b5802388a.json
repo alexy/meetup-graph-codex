@@ -1,0 +1,21 @@
+{
+  "id": "company:akka",
+  "name": "Akka",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-tyler-jewell-akka.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-tyler-jewell-akka"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:tyler-jewell"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-live-demo-develop-and-deploy-a-trustworthy-multi-agent-system-tyler-jewell:live-demo-develop-and-deploy-a-trustworthy-multi-agent-system",
+    "talk:ai-by-the-bay:bythebay-20260508-the-future-of-agentic-ai-architecting-the-global-control-plane-tyler-jewell:the-future-of-agentic-ai-architecting-the-global-control-plane"
+  ],
+  "type": "company"
+}

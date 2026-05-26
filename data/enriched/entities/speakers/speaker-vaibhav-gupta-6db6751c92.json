@@ -1,0 +1,60 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:co-creator-of-baml",
+      "company_name": "Co-creator of BAML",
+      "title": "CEO of Boundary"
+    },
+    {
+      "company_id": "company:co-creator-of-baml",
+      "company_name": "Co-creator of BAML",
+      "title": "Founder and CEO of Boundary"
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "CEO, BoundaryML Abstract : We'll share techniques"
+    }
+  ],
+  "company_id": "company:co-creator-of-baml",
+  "company_ids": [
+    "company:co-creator-of-baml"
+  ],
+  "company_name": "Co-creator of BAML",
+  "company_names": [
+    "Co-creator of BAML"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:vaibhav-gupta",
+  "meetup_ids": [
+    "meetup:36468260"
+  ],
+  "name": "Vaibhav Gupta",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-vaibhav-gupta-ceo-of-boundary.json",
+    "data/raw/sources/bythebay-20260508-baml-a-new-programming-language-for-building-agents-vaibhav-gupta.json",
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-vaibhav-gupta-ceo-of-boundary",
+    "bythebay-20260508-baml-a-new-programming-language-for-building-agents-vaibhav-gupta",
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers",
+    "https://www.meetup.com/unstructured-data-sf/events/303687526/"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-baml-a-new-programming-language-for-building-agents-vaibhav-gupta:baml-a-new-programming-language-for-building-agents",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3:infinite-world-generation-with-outlines"
+  ],
+  "title": "CEO of Boundary",
+  "titles": [
+    "CEO of Boundary",
+    "Founder and CEO of Boundary",
+    "CEO, BoundaryML Abstract : We'll share techniques"
+  ],
+  "type": "speaker"
+}

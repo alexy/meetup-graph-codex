@@ -1,0 +1,42 @@
+{
+  "abstract": "Monte Zweben, Splice Machine Transactions are critical in traditional RDBMSs because they ensure reliable updates across multiple rows and tables. Most operational applications require transactions, but even analytics systems use transactions to reliably update secondary indexes after a record insert or update In the Hadoop ecosystem, HBase is a key-value store with real-time updates, but it does not have multi-row, multi-table transactions, secondary indexes or a robust query language like SQL. Combining SQL with a full transactional model over HBase opens a whole new set of OLTP and OLAP use cases for Hadoop that was traditionally reserved for RDBMSs like MySQL or Oracle. However, a transactional HBase system has the advantage of scaling out with commodity servers, leading to a 10x price/performance improvement over traditional databases In this talk, Monte Zweben, co-founder and CEO of Splice Machine, will discuss how Splice Machine used HBase to build an ANSI-99 SQL database with parallelization of SQL execution plans, ACID transactions with snapshot isolation and consistent secondary indexing - all without modifying the core HBase source. He will discuss how Splice Machine serializes SQL execution plans over to regions so that computation is local to where the data is stored. Additionally, he will show how to simultaneously support both transactions and secondary indexing The talk will also cover how Splice Machine extended the work of Google Percolator, Yahoo Labs’ OMID, and the University of Waterloo on distributed snapshot isolation for transactions. Lastly, performance benchmarks will be provided, including full TPC-C and TPC-H results that show how Hadoop/HBase can be a replacement of traditional RDBMS solutions",
+  "conference_id": null,
+  "date_time": "2015-03-11T18:00:00-07:00",
+  "end_time": "2015-03-11T21:00:00-07:00",
+  "event_id": "219155223",
+  "event_title": "March SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-march-sf-hadoop-users-meetup-event-talk-2:using-hbase-as-a-foundation-of-a-distributed-transactional-rdbms",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [
+    "project:ansi-99-sql"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-march-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-march-sf-hadoop-users-meetup-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/219155223/"
+  ],
+  "speaker_ids": [
+    "speaker:monte-zweben"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:monte-zweben",
+      "name": "Monte Zweben",
+      "title": "Splice Machine Transactions are critical in traditional RDBMSs because they ensure reliable updates across multiple rows and tables. Most operational applications require transactions, but even analytics systems use transactions to reliably update secondary indexes after a record insert or update. In the Hadoop ecosystem, HBase is a key-value store"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Using HBase as a Foundation of a Distributed, Transactional RDBMS",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/219155223/"
+}

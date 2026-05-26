@@ -1,0 +1,63 @@
+{
+  "abstract": "AI By the Bay (http://ai.bythebay.io/) is the new AI conference from the creators of Data By the Bay, Text By the Bay, and Scala By the Bay. It consists of three days carefully structured to review AI arena via learning with live coding (hai.a (http://hai.ai/)i), dig deep into a well-defined AI+IoT problem (self.driving.cars (http://self.driving.cars/)), and chart your AI deployment strategy with full-stack AI experts who both build AI systems and define its future (ai.vision (http://ai.vision/)). The conference is a single track each day with only 300 seats and a rooftop party so you can meet everybody. Register soon to reserve your seat (http://ai.bythebay.io/ tickets), use the code SFHADOOP for 20% off. The structure of the conference is optimized to throughly review the AI field via open-source stacks, focus on early real-world deployment lessons (self-driving cars), and consider organizational adoption and alignment as driven by AI technology and its pioneers, assuming the position of leadership across industries. On Day One, you’ll see a lot of code and cover all the key AI concepts in action from the folks implementing them in production. On Day Two, you’ll see an end-to-end problem, AI for driving, with its ecosystem of IoT, startups, and real-world deployments. On Day Three, you will get a clear technical understanding of AI strategy based on the technology - how you and your company should master it. Themes: - Defining AI as decision-making in context (including IoT), supported by operationalized Machine Learning (including Deep Learning) - Empowering Data Science with Data Engineering - Building AI strategy in startups and enterprises - from technology to strategy, funding, deployment, and improvement - Deeper insights into Deep Learning: GPUs with Adam Gibson, Attention and Memory with Stephen Merity, Frontiers with Richard Socher, and others. How are we different from all the other AI conferences? We are community-centric: we are meetups. We continue to meet at bay.area.ai (http://bay.area.ai/), and our partner meetups - SF Bay Area Machine Learning, SF Data Science, SF Data Mining, SF Big Analytics, and others. We build out community-based research Cicero.AI (https://cicero.ai/) Institute, a board of advisors including the conference and meetup speakers. We do not have any sales talks or any sponsored talks, every talk is selected and invited based on the technical merit and its contribution to the overall AI story arc optimized for comprehensive technical mastery. You can read more about the conference and the new Cicero.AI board of advisors putting it together here: cicero.ai (https://cicero.ai/), and http://chief.sc/3days3ways . Our speakers and panelists include Stuart Russell - a co-author, with Peter Norvig, of the definitive modern AI textbook, professor at Berkeley AI lab and head of its new Human-Compatible AI Lior Ron - cofounder of Otto, the self-driving trucks startup acquired by UberShubha Nabar - Director of Data Science, Salesforce Einstein Jeremy Howard - founder of Fast.AI and its Deep Learning for Coders MOOC, previously founder of Enlitic and President of Kaggle Carlos Guestrin - Director of Machine Learning at Apple and Amazon Professor of Machine Learning at University of Washington Richard Socher - Chief Scientist at Salesforce, previously founder and CEO of MetaMind (acquired by Salesforce), teaching Deep Learning for NLP at Stanford Vitaly Gordon - VP of Data Science and Data Engineering at Salesforce Einstein, teaching ML with Scala and Spark hands-on Adam Gibson - founder of Skymind and DeepLearning4j, teaching Deep Learning on the GPUs Chris Fregly - creator of pipeline.io, full-stack data scientist and engineer, founder of the global Advanced Spark and TensorFlow meet up Lyle Ungar - Professor at University of Pennsylvania, former KDD Chair, pioneer of mining social media to better understand personality and well-being. Lukas Biewald -- founder and Chief Scientist of CrowdFlower, the pioneering Human in the Loop AI company Tom Brown - Universe and AI Gym lead, OpenAI SriSatish Ambati -- founder and CEO, H2O.ai (http://h2o.ai/) David Hall - author of ScalaNLP.org, including Breeze and Epic, scientist at Semantic Machines, building a definitive NLP platform for conversational intelligence Peter Skomoroch - startup founder, formerly Principal Data Scientist at LinkedIn, host of the Bots Day and O’Reilly AI podcast Mike Tamir - Chief Data Science Officer at Takt, formerly Chief Science Officer at Galvanize Bradford Cross - founding partner at DCVC, the world's leading machine learning and big data venture capital fund, and founder of two machine learning startups. David Beyer - investor with Amplify Partner, prior founder and CEO of chartio.com and Patients Know Best. Malika Cantor - partner at Comet Labs, the first venture funds dedicated to intelligent machines. Stephen Merity - Senior Research Scientist, MetaMind/SalesforceJohn Eggert, Velodyne -- the maker of LiDAR Christopher Heiser, co-founder and CEO, Renovo -- Autonomous Mobility on Demand Wolfgang Juchmann, AutonomousStuff -- maker of the Udacity open-source car David Silver, Udacity self-driving course team lead Andrew Burgert, CEO of Azumo, a conversational AI company … and more! See the program for updates. The venue is The Pearl (http://thepearlsf.com) - a new space with a fantastic rooftop for the happy hour. We have only 300 tickets for each day, and each day will be sold out. Use the code SFHADOOP for 20% off the registration (http://ai.bythebay.io/ tickets), and join us in March!",
+  "conference_id": null,
+  "date_time": "2017-03-06T07:00:00-08:00",
+  "end_time": "2017-03-08T20:00:00-08:00",
+  "event_id": "237166862",
+  "event_title": "[conference] AI By the Bay, self.driving.cars: March 6-8, San Francisco",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-metamind-salesforcejohn-egge:ai-by-the-bay-self-driving-cars-march-6-8-san-francisco",
+  "kind": "announcement",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [
+    "project:nlp"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-metamind-salesforcejohn-eggert.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-metamind-salesforcejohn-eggert"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/237166862/"
+  ],
+  "speaker_ids": [
+    "speaker:metamind-salesforcejohn-eggert",
+    "speaker:srisatish-ambati",
+    "speaker:stephen-merity",
+    "speaker:ubershubha-nabar"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:metamind-salesforcejohn-eggert",
+      "name": "MetaMind/SalesforceJohn Eggert",
+      "title": null
+    },
+    {
+      "company_name": "H2O",
+      "id": "speaker:srisatish-ambati",
+      "name": "SriSatish Ambati",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:stephen-merity",
+      "name": "Stephen Merity",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:ubershubha-nabar",
+      "name": "UberShubha Nabar",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "AI By the Bay, self.driving.cars: March 6-8, San Francisco",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/237166862/"
+}

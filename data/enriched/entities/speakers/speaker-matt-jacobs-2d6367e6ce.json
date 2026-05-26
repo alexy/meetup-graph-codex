@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:netflix",
+      "company_name": "Netflix",
+      "title": null
+    }
+  ],
+  "company_id": "company:netflix",
+  "company_ids": [
+    "company:netflix"
+  ],
+  "company_name": "Netflix",
+  "company_names": [
+    "Netflix"
+  ],
+  "conference_ids": [],
+  "id": "speaker:matt-jacobs",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Matt Jacobs",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix-2",
+    "bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/142643212/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix:rxjava-reactive-extensions-in-scala"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

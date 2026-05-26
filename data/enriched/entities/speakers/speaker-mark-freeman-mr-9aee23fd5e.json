@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:mark-freeman-mr",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Mark Freeman Mr",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297491020/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297490882/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman:using-ml-to-optimize-business-outcomes",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman-3:using-ml-to-optimize-business-outcomes"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

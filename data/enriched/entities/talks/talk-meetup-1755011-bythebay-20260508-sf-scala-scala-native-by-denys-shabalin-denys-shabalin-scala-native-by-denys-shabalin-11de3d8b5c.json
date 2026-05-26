@@ -1,0 +1,40 @@
+{
+  "abstract": "Denys Shabalin, the author of Scala Native and PhD student from EPFL, will present the state of the art of Scala Native and talk about his plans for the future. Scala Native is an optimizing ahead-of-time compiler for Scala targeting LLVM (instead of JVM) bytecode. This makes it possible to run Scala programs on bare metal and easily interoperate with other native tools! http://www.scala-native.org (http://www.scala-native.org/) The talk will be recorded, thanks to our friends at Lightbend. Agenda 6:15 - Doors Open 7:00 - Denys' Talk 8:55 - Wrap up and take the party elsewhere About Driver (Venue) Driver is a consumer technology company whose mission is to unleash breakthroughs for cancer patients. We collect and analyze both patients' clinical and molecular data in order to give them access to clinical trials and other cutting-edge treatments. With a unique team of engineers and scientists, we use Scala at the heart of our systems to tackle the wide range of technological problems presented by our mission. https://driver.xyz",
+  "conference_id": null,
+  "date_time": "2017-07-19T18:15:00-07:00",
+  "end_time": "2017-07-19T21:00:00-07:00",
+  "event_id": "241665278",
+  "event_title": "Scala Native, by Denys Shabalin",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-native-by-denys-shabalin-denys-shabalin:scala-native-by-denys-shabalin",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-native-by-denys-shabalin-denys-shabalin.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-native-by-denys-shabalin-denys-shabalin"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/241665278/"
+  ],
+  "speaker_ids": [
+    "speaker:denys-shabalin"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:denys-shabalin",
+      "name": "Denys Shabalin",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scala Native, by Denys Shabalin",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/241665278/"
+}

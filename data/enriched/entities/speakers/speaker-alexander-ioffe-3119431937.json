@@ -1,0 +1,47 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:nasdaq",
+      "company_name": "Nasdaq",
+      "title": null
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Senior Software Engineer"
+    }
+  ],
+  "company_id": "company:nasdaq",
+  "company_ids": [
+    "company:nasdaq"
+  ],
+  "company_name": "Nasdaq",
+  "company_names": [
+    "Nasdaq"
+  ],
+  "conference_ids": [],
+  "id": "speaker:alexander-ioffe",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Alexander Ioffe",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq-2",
+    "bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/276447525/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq:generic-derivation-is-the-new-reflection"
+  ],
+  "title": "Senior Software Engineer",
+  "titles": [
+    "Senior Software Engineer"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-beam",
+  "name": "Apache Beam",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-apache-flink-a-quick-guide-to-the-next-generation-stream-processing-platform-apache-flink.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-apache-flink-a-quick-guide-to-the-next-generation-stream-processing-platform-apache-flink"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/232232072/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-apache-flink-a-quick-guide-to-the-next-generation-stream-processing-platform-apache-flink:apache-flink-a-quick-guide-to-the-next-generation-stream-processing-platform"
+  ],
+  "type": "project"
+}

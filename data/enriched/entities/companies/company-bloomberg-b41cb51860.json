@@ -1,0 +1,26 @@
+{
+  "id": "company:bloomberg",
+  "name": "Bloomberg",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-101-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-101-event-talk-1",
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/232570582/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/229851313/"
+  ],
+  "speaker_ids": [
+    "speaker:nimbus-goehausen"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-spark-101-event-talk-1:automatic-checkpointing-for-sparknimbus-goehausen-senior-software-engineer-bloomberg",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl:sf-scala-unmeetup-bloomberg-tech-hub"
+  ],
+  "type": "company"
+}

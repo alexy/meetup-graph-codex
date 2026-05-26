@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:scala-dependency-injection",
+  "name": "Scala Dependency Injection",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/203999322/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-high-performance-services-and-framework-less-dependency-injection-adam-warski-softwaremill:high-performance-services-and-framework-less-dependency-injection"
+  ],
+  "type": "project"
+}

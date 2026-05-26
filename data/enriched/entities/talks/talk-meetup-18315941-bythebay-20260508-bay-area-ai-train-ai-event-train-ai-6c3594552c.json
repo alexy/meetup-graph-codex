@@ -1,0 +1,31 @@
+{
+  "abstract": "Friends of droids, sci-fi, and bad puns! Figure Eight, the essential Human-in-the-Loop AI platform for data science and machine learning teams, was celebrating “Star Wars Day” (May the 4th) with a special 24-hour FLASH SALE for their annual conference Train AI. Their $695 tickets were reduced to $197.70. Guess what, you still have a chance to take advantage of this offer but it only lasts until 11 pm PST! Train AI is the only machine learning conference focused on AI in the real world, which I know you’ve been waiting a long, long time for. They have a stellar line-up of speakers, including world chess champion Garry Kasparov, Marti Hearst from UC Berkeley, Pete Warden with TensorFlow, and Andrej Karpathy, Tesla’s Director of AI. Register here (https://www.figure-eight.com/train-ai) and use “THEFORCE” as your discount code to pay only $197.70",
+  "conference_id": null,
+  "date_time": "2018-05-09T08:00:00-07:00",
+  "end_time": "2018-05-10T21:00:00-07:00",
+  "event_id": "250526660",
+  "event_title": "Train AI",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-train-ai-event:train-ai",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-train-ai-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-train-ai-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/250526660/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Train AI",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/250526660/"
+}

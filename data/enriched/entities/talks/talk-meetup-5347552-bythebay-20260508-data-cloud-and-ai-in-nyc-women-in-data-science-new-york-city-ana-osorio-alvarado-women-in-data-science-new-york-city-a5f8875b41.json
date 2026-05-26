@@ -1,0 +1,96 @@
+{
+  "abstract": "To attend - you must register here https://community.widsworldwide.org/posts/wids-new-york-city-regional-conference-2026 What to Expect Land your dream Data Science Job: focused on real‑world career growth in data science Hands‑on technical workshops on Docling and Granite Agents Inspiring technical talks spanning AI, GenAI, healthcare, manufacturing, cybersecurity, sports analytics, and the future of work A career panel featuring professionals from industry and research sharing honest insights, lessons learned, and actionable advice Plenty of opportunities for networking and community building More Details Land your dream Data Science Job - Career Workshop by Ana Osorio-Alvarado, Niki Karanikola Learn about: Resume building & interview preparation Navigating early and mid‑career transitions Hands‑On Technical Workshops: Docling Workshop - practical document understanding and AI workflows with Sophia I, and Lillie Ng Granite Agent Workshop - building agentic AI systems with real use cases with Sanda Htyte and Cara Mulrooney Featured Talks & Speakers Include Data Science in Sports - by Kelsey McDonald Lessons from Evaluating GenAI Projects - Samar Deen, PhD Chatbot Personalization in the Wild - Angelina Wang From Warehouses to Wellness: AI applications across Manufacturing & Healthcare - Parisa Babaali AI and the Future of Work - Zanele Munyikwa Strengthening Cyber Defense with AI - Sophia I. Career Panel Hear directly from professionals across industry and research, including AI & data science leaders from IBM, Meta and others -sharing insights on skills, career paths, and what it really takes to succeed in the field. Here are our panelists: Maria Alejandra Sanchez, Shirley Han, Srideepika Jayaraman, Milbert Kiggundu-Bentham, Panel Moderator: Vanishri Murali Who Should Attend Students and early‑career professionals Experienced data scientists and ML engineers Researchers, analysts, and AI practitioners Anyone curious about applying data and AI to real‑world, high‑impact problems",
+  "conference_id": null,
+  "date_time": "2026-04-11T09:45:00-04:00",
+  "end_time": "2026-04-11T17:00:00-04:00",
+  "event_id": "314151810",
+  "event_title": "Women in Data Science - New York City",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-ana-osorio-alvarado:women-in-data-science-new-york-city",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-ana-osorio-alvarado.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-ana-osorio-alvarado"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/314151810/"
+  ],
+  "speaker_ids": [
+    "speaker:ana-osorio-alvarado",
+    "speaker:kelsey-mcdonald",
+    "speaker:maria-alejandra-sanchez",
+    "speaker:milbert-kiggundu-bentham",
+    "speaker:niki-karanikola",
+    "speaker:panel-moderator",
+    "speaker:panel-moderator-vanishri-murali",
+    "speaker:shirley-han",
+    "speaker:srideepika-jayaraman"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:ana-osorio-alvarado",
+      "name": "Ana Osorio-Alvarado",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:kelsey-mcdonald",
+      "name": "Kelsey McDonald",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:maria-alejandra-sanchez",
+      "name": "Maria Alejandra Sanchez",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:milbert-kiggundu-bentham",
+      "name": "Milbert Kiggundu-Bentham",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:niki-karanikola",
+      "name": "Niki Karanikola",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:panel-moderator",
+      "name": "Panel Moderator",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:panel-moderator-vanishri-murali",
+      "name": "Panel Moderator: Vanishri Murali",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:shirley-han",
+      "name": "Shirley Han",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:srideepika-jayaraman",
+      "name": "Srideepika Jayaraman",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Women in Data Science - New York City",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/314151810/"
+}

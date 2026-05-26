@@ -1,0 +1,37 @@
+{
+  "abstract": "Enroll here to participate in hands-on GenAI workshops on November10 in NYC between noon and 5pm to include: Data Engineering for LLMs with Data Prep Kit Unclocking Document Intelligence with Docling Building an Agentic GenAI App with Langflow Granite 4.0 Model Generative Programming with Mellea We hope you will join us",
+  "conference_id": null,
+  "date_time": "2025-11-10T12:00:00-05:00",
+  "end_time": "2025-11-10T17:00:00-05:00",
+  "event_id": "311735759",
+  "event_title": "Open Source GenAI Hands-On Workshops November 10, 1 Madison Avenue, NYC",
+  "github_repositories": [
+    "https://github.com/data-prep-kit/data-prep-kit",
+    "https://github.com/generative-computing/mellea"
+  ],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc-event:open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc",
+  "kind": "workshop",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:https-github-com-data-prep-kit-data-prep-kit",
+    "project:https-github-com-generative-computing-mellea"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/311735759/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Open Source GenAI Hands-On Workshops November 10, 1 Madison Avenue, NYC",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/311735759/"
+}

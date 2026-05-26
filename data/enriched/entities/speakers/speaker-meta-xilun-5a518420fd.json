@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:meta-platforms",
+      "company_name": "Meta Platforms",
+      "title": "software engineer on PyTorch Distributed"
+    }
+  ],
+  "company_id": "company:meta-platforms",
+  "company_ids": [
+    "company:meta-platforms"
+  ],
+  "company_name": "Meta Platforms",
+  "company_names": [
+    "Meta Platforms"
+  ],
+  "conference_ids": [],
+  "id": "speaker:meta-xilun",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Meta Xilun",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris-2",
+    "bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/296052494/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris-talk-3:tensor-and-2d-parallelism-junjie-wang-xilun-wu"
+  ],
+  "title": "software engineer on PyTorch Distributed",
+  "titles": [
+    "software engineer on PyTorch Distributed"
+  ],
+  "type": "speaker"
+}

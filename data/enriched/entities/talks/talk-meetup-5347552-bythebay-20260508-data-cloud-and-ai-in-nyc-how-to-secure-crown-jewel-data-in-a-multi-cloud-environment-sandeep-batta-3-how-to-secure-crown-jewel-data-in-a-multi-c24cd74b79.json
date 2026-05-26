@@ -1,0 +1,47 @@
+{
+  "abstract": "Please join the session that is best suited to your time zone...this topic is repeated at 2 different times. Data is money. Enterprises have a vested interest in securing data which has been locked up in private datacenters for decades. At the same time, the advent of AI and the monetary benefits of learning from the petabytes of data is prompting enterprises to risk exposing their system of record data to the developing field of AI. In this session, you will learn about scenarios in a multi-cloud environment where an enterprise must exert control over and manage its own data, wherever it is. We'll also discuss multi-cloud data management strategies which will allow enterprises to take advantage of evolving technology and maintain regulatory compliance at the same time. Presenter: Sandeep Batta Sandeep started his career as a z/OS Systems Programmer. He consulted for Fortune 100 clients in the NJ/NYC area where he had a chance to work on game changing technologies that helped restore operations after disastrous events like 9/11. Sandeep moved to the Raleigh-Durham area in 2003 where he created a “self-service” guest-vm tool on a farm of z/VM machines to increase efficiency by reducing the time required to provision and tear down dev/test environments. Since then, he has dabbled in areas like Cloud Deployment, Front-end network architecture, Offering management, etc. Sandeep is now a Lead Solutions Architect in the Hyper Protect organization, where he works with clients in financial services, insurance and digital assets sectors, to address their data-protection requirements. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/r218623d57c244273ab8fbec233c0e81f",
+  "conference_id": null,
+  "date_time": "2023-08-31T15:30:00-04:00",
+  "end_time": "2023-08-31T16:30:00-04:00",
+  "event_id": "294142712",
+  "event_title": "How to secure crown jewel data in a multi-cloud environment",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-secure-crown-jewel-data-in-a-multi-cloud-environment-sandeep-batta-3:how-to-secure-crown-jewel-data-in-a-multi-cloud-environment",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-secure-crown-jewel-data-in-a-multi-cloud-environment-sandeep-batta-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-secure-crown-jewel-data-in-a-multi-cloud-environment-sandeep-batta-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/294142712/"
+  ],
+  "speaker_ids": [
+    "speaker:sandeep-batta",
+    "speaker:sandeep-batta-sandeep"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:sandeep-batta",
+      "name": "Sandeep Batta",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:sandeep-batta-sandeep",
+      "name": "Sandeep Batta Sandeep",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "How to secure crown jewel data in a multi-cloud environment",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/294142712/"
+}

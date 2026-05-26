@@ -1,0 +1,31 @@
+{
+  "abstract": "Join Typesafe and Workday for a SF Scala meetup with featured guest, Martin Odersky, creator of the Scala language and Chairman & Co-Founder at Typesafe. Workday's Aneel Bhusri, CEO, and David Clarke, VP of Technology Services, will present how Scala is used at Workday, and then hand things over to Martin for a talk on Scala - The Simple Parts. Martin will present the simple principles underlying the Scala language and discuss the tradeoffs between generality, interoperability, and ease of use in its design. Agenda: 4:30 Doors Open 5:00 Aneel Bhusri & David Clarke 5:20 Martin Odersky The meetup will both be recorded & streamed live. Note: security will need a photo ID matching the registered names for all participants. If you did a +1/2, you'll need to forward the guest names to alexy@scalable.pro in advance and have the guests ready to produce the photo IDs. Watch the livestream here: http://new.livestream.com/accounts/8519806/events/3011572 And Tweet questions and comments with hashtag scala and Workday engineer @philmonroe will respond!",
+  "conference_id": null,
+  "date_time": "2014-05-22T16:30:00-07:00",
+  "end_time": "2014-05-22T19:30:00-07:00",
+  "event_id": "181512992",
+  "event_title": "Scala: The Simple Parts with Martin Odersky",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-the-simple-parts-with-martin-odersky-event:scala-the-simple-parts-with-martin-odersky",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-the-simple-parts-with-martin-odersky-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-the-simple-parts-with-martin-odersky-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/181512992/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scala: The Simple Parts with Martin Odersky",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/181512992/"
+}

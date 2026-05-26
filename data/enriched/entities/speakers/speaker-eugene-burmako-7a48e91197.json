@@ -1,0 +1,52 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:epfl",
+      "company_name": "EPFL",
+      "title": null
+    }
+  ],
+  "company_id": "company:epfl",
+  "company_ids": [
+    "company:epfl"
+  ],
+  "company_name": "EPFL",
+  "company_names": [
+    "EPFL"
+  ],
+  "conference_ids": [],
+  "id": "speaker:eugene-burmako",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:2891482"
+  ],
+  "name": "Eugene Burmako",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid-eugene-burmako-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-applied-materialization-when-macros-meet-implicits-with-eugene-burmako-eugene-burmako-epfl-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-eventbrite-registration-next-generation-macros-for-scala-eugene-burmako.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid-eugene-burmako.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid-eugene-burmako-2",
+    "bythebay-20260508-scala-bay-applied-materialization-when-macros-meet-implicits-with-eugene-burmako-eugene-burmako-epfl-2",
+    "bythebay-20260508-sf-scala-eventbrite-registration-next-generation-macros-for-scala-eugene-burmako",
+    "bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako",
+    "bythebay-20260508-sf-scala-scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid-eugene-burmako"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/255823454/",
+    "https://www.meetup.com/scala-bay/events/121848382/",
+    "https://www.meetup.com/sf-scala/events/240044013/",
+    "https://www.meetup.com/sf-scala/events/251902203/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-eventbrite-registration-next-generation-macros-for-scala-eugene-burmako:next-generation-macros-for-scala",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako:scala-days-2018-recap",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid-eugene-burmako:scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": "Wei Wang - Sr. Director, Product Marketing, Datameer In financial services, the top big data analytics use cases include customer analytics to understand the customer journey using data from all customer interaction channels, predict and avoid customer churn, and fraud and compliance. The financial and corporate benefits of these use cases range from improving customer retention to hundreds of millions of dollars in incremental revenue and protection of shareholder value",
+  "conference_id": null,
+  "date_time": "2014-11-13T18:00:00-08:00",
+  "end_time": "2014-11-13T21:00:00-08:00",
+  "event_id": "217855512",
+  "event_title": "November SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-november-sf-hadoop-users-meetup-matt-schumpert-talk-1:top-big-data-use-cases-in-financial-services",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-november-sf-hadoop-users-meetup-matt-schumpert.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-november-sf-hadoop-users-meetup-matt-schumpert-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/217855512/"
+  ],
+  "speaker_ids": [
+    "speaker:wei-wang"
+  ],
+  "speakers": [
+    {
+      "company_name": "Datameer In financial services",
+      "id": "speaker:wei-wang",
+      "name": "Wei Wang",
+      "title": "Sr. Director, Product Marketing, the top big data analytics use cases include customer analytics to understand the customer journey using data from all customer interaction channels"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Top Big Data Use Cases in Financial Services",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/217855512/"
+}

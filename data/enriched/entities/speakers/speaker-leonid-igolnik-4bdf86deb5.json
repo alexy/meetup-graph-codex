@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:clari",
+      "company_name": "Clari",
+      "title": "Executive Vice President of Engineering"
+    }
+  ],
+  "company_id": "company:clari",
+  "company_ids": [
+    "company:clari"
+  ],
+  "company_name": "Clari",
+  "company_names": [
+    "Clari"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:leonid-igolnik",
+  "meetup_ids": [],
+  "name": "Leonid Igolnik",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-leonid-igolnik-clari.json",
+    "data/raw/sources/bythebay-20260508-can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question-baruch-sadogursky-tuxcare-leonid-igolnik-executive-vice-president-of-engineering.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-leonid-igolnik-clari",
+    "bythebay-20260508-can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question-baruch-sadogursky-tuxcare-leonid-igolnik-executive-vice-president-of-engineering"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question-baruch-sadogursky-tuxcare-leonid-igolnik-executi:can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question"
+  ],
+  "title": "Executive Vice President of Engineering",
+  "titles": [
+    "Executive Vice President of Engineering"
+  ],
+  "type": "speaker"
+}

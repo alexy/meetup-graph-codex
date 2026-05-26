@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/ScorexFoundation/Scorex"
+  ],
+  "github_repository": "https://github.com/ScorexFoundation/Scorex",
+  "id": "project:https-github-com-scorexfoundation-scorex",
+  "name": "Scorex",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scorex-the-smallest-codebase-for-blockchain-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scorex-the-smallest-codebase-for-blockchain-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/243376543/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scorex-the-smallest-codebase-for-blockchain-event:scorex-the-smallest-codebase-for-blockchain"
+  ],
+  "type": "project"
+}

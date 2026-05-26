@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:james-roper",
+  "meetup_ids": [
+    "meetup:18748975"
+  ],
+  "name": "James Roper",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rethinking-rest-in-a-microservices-world-with-lagom-james-roper-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rethinking-rest-in-a-microservices-world-with-lagom-james-roper.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-rethinking-rest-in-a-microservices-world-with-lagom-james-roper-2",
+    "bythebay-20260508-scale-by-the-bay-rethinking-rest-in-a-microservices-world-with-lagom-james-roper"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/229841984/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rethinking-rest-in-a-microservices-world-with-lagom-james-roper:rethinking-rest-in-a-microservices-world-with-lagom"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,54 @@
+{
+  "abstract": "Please join the session that is best suited to your time zone...this topic is repeated at 2 different times. Join us as we recap our Technical Meetup Group hosted by IBM ’s accomplishments in 2023, where we acknowledge the contributions from all our presenters and members who participated in our various sessions over the year. We will also share our plan for 2024 and describe the exciting sessions we are planning for you in the first quarter of next year. For reference, we bring you weekly sessions on a wide variety of technical topics via the host meetup group at https://www.meetup.com/technical-group-hosted-by-ibm/ , where all topics are repeated at two different times to accommodate different time zones. Presenters: Sonia Singh, Mikhaela-Page Early Sonia Singh is an IBM TechXchange Data Community Manager and held the role of Data and AI Engagement Program Manager for the IBM Ottawa Lab. Her responsibilities have included being the Canadian focal for the IBM Data Science and AI Elite team and managing the IBM Ottawa Machine Learning Hub. She created and manages the Technical Meetup Group hosted by IBM which hosts various technical topics on a weekly basis, and also manages the IBM Canada Data Science & Data Engineering Community and Guild which is internal within IBM. With a degree in Computer Science and certifications in Project Management and Data Science, her experience includes software development, user interface design, customer research, people management, project management, operations management, data science. Her IBM tenure of 17+ years includes a Corporate Service Corps assignment in Malaysia, which provides high-performing IBMers with quality leadership development. Mikhaela-Page Early \\- bio pending \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/raabc8fd7d663d7e4c3d08620e56dba81",
+  "conference_id": null,
+  "date_time": "2023-12-13T08:00:00-05:00",
+  "end_time": "2023-12-13T09:00:00-05:00",
+  "event_id": "296568725",
+  "event_title": "Technical Meetup Group hosted by IBM - 2023 Accomplishments and 2024 Plan",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2023-accomplishments-and-2024-plan-mikhaela-page-early:technical-meetup-group-hosted-by-ibm-2023-accomplishments-and-2024-plan",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2023-accomplishments-and-2024-plan-mikhaela-page-early.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2023-accomplishments-and-2024-plan-mikhaela-page-early"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/296568725/"
+  ],
+  "speaker_ids": [
+    "speaker:mikhaela-page-early",
+    "speaker:mikhaela-page-early-sonia-singh",
+    "speaker:sonia-singh"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:mikhaela-page-early",
+      "name": "Mikhaela-Page Early",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:mikhaela-page-early-sonia-singh",
+      "name": "Mikhaela-Page Early Sonia Singh",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:sonia-singh",
+      "name": "Sonia Singh",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Technical Meetup Group hosted by IBM - 2023 Accomplishments and 2024 Plan",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/296568725/"
+}

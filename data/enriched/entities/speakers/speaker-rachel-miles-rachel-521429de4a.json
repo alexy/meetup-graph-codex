@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:rachel-miles-rachel",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Rachel Miles Rachel",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-navigating-generative-ai-what-content-creators-need-to-know-rachel-miles-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-navigating-generative-ai-what-content-creators-need-to-know-rachel-miles.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-navigating-generative-ai-what-content-creators-need-to-know-rachel-miles-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-navigating-generative-ai-what-content-creators-need-to-know-rachel-miles-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-navigating-generative-ai-what-content-creators-need-to-know-rachel-miles",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-navigating-generative-ai-what-content-creators-need-to-know-rachel-miles-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297490638/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297489580/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-navigating-generative-ai-what-content-creators-need-to-know-rachel-miles:navigating-generative-ai-what-content-creators-need-to-know",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-navigating-generative-ai-what-content-creators-need-to-know-rachel-miles-3:navigating-generative-ai-what-content-creators-need-to-know"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

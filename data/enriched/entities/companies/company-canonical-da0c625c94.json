@@ -1,0 +1,20 @@
+{
+  "id": "company:canonical",
+  "name": "Canonical",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/222870784/"
+  ],
+  "speaker_ids": [
+    "speaker:amir-sanjar"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar:hadoop-from-complexity-to-simplicity"
+  ],
+  "type": "company"
+}

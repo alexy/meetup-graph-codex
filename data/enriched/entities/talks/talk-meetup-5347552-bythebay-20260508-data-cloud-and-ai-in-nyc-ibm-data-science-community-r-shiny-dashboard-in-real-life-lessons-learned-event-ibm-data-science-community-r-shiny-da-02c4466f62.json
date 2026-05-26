@@ -1,0 +1,31 @@
+{
+  "abstract": "Please join the IBM Data Science Community for our April 2022 virtual meetup. ⏰ Agenda 10.45am - Doors open 11.00am - Welcome 11.02am - IBM Community announcements 11.08am - R Shiny Dashboard in Real Life - Lessons Learned (Wendy Wang) 11:50am - Mingle 12:00pm - Official event ends (IBM community team and speakers may stick around a little bit longer if there are still more questions) 👨🏻‍💻 Speaker bio Wendy (Wanting) Wang (LinkedIn) is a senior data scientist with IBM Expert Labs, Data & AI. After graduating from Columbia University with a master’s degree in Quantitative Methods in the Social Sciences, she joined IBM and worked as a client-facing data scientist to tackle challenging business problems from various industries, covering use cases in data analytics, machine learning, deep learning, MLOps, and trustworthy AI. 🦄 Join your local IBM Community meetup team Want to get involved in your local IBM Community meetup and join the organizing team? Join our Slack!",
+  "conference_id": null,
+  "date_time": "2022-04-20T14:00:00-04:00",
+  "end_time": "2022-04-20T15:00:00-04:00",
+  "event_id": "284853039",
+  "event_title": "IBM Data Science Community: R Shiny Dashboard in Real Life - Lessons Learned",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-r-shiny-dashboard-in-real-life-lessons-learned-event:ibm-data-science-community-r-shiny-dashboard-in-real-life-lessons-learned",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-r-shiny-dashboard-in-real-life-lessons-learned-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-r-shiny-dashboard-in-real-life-lessons-learned-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/284853039/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "IBM Data Science Community: R Shiny Dashboard in Real Life - Lessons Learned",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/284853039/"
+}

@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:milvus",
+  "name": "Milvus",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-9.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-9"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/300622146/"
+  ],
+  "talk_ids": [
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-9:unstructured-data-in-llms"
+  ],
+  "type": "project"
+}

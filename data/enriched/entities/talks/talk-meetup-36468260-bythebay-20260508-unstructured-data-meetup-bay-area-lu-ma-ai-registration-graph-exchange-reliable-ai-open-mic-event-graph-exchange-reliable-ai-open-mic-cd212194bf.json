@@ -1,0 +1,31 @@
+{
+  "abstract": "On November 3rd, we meet at GitHub HQ before it closes down for good. But the Bay Area AI community continues online at NODES and live at AI By the Bay. Graph Exchange, the innovative Bare Area AI and Neo4j meetup, is opening the floor to startup founders working on Reliable Agentic AI (https://oss.ci/reliable) o present their startups, to celebrate the community that met there over the years! https://luma.com/w42bbgn5 We follow the venerable tradition of open mic at Bay Area AI where we give founders and attendees a minute to pitch their startup, find a cofounder, or even find a job! This time we'll have a CFP for 10 min, 5 min, and 1 min talks, and we can still accommodate ad hoc 1 min talks if time permits. And we'll have a party! Apply at the link in the event, and come see the iconic GitHub space before it's gone! Reliable Agentic AI Manifesto: https://oss.ci/manifesto Reliable Agentic AI Survey 1: https://oss.ci/reliable-ai Reliable AI Repo: https://oss.ci/reliable NODES: https://lnkd.in/gjR4v-eU, November 6, online globally AI By the Bay: https://ai.bythebay.io, November 17-19, Oakland, California",
+  "conference_id": null,
+  "date_time": "2025-11-13T16:00:00-08:00",
+  "end_time": "2025-11-13T19:00:00-08:00",
+  "event_id": "311697886",
+  "event_title": "[lu.ma/ ai registration] Graph Exchange -- Reliable AI -- Open Mic!",
+  "github_repositories": [],
+  "id": "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-lu-ma-ai-registration-graph-exchange-reliable-ai-open-mic-event:graph-exchange-reliable-ai-open-mic",
+  "kind": "announcement",
+  "meetup_id": "meetup:36468260",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-lu-ma-ai-registration-graph-exchange-reliable-ai-open-mic-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-lu-ma-ai-registration-graph-exchange-reliable-ai-open-mic-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/311697886/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "Graph Exchange -- Reliable AI -- Open Mic!",
+  "type": "talk",
+  "url": "https://www.meetup.com/unstructured-data-sf/events/311697886/"
+}

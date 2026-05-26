@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:jay-kreps",
+  "meetup_ids": [
+    "meetup:18748975"
+  ],
+  "name": "Jay Kreps",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-jay-kreps-stream-processing-with-apache-kafka-jay-kreps-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-jay-kreps-stream-processing-with-apache-kafka-jay-kreps.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-jay-kreps-stream-processing-with-apache-kafka-jay-kreps-2",
+    "bythebay-20260508-scale-by-the-bay-jay-kreps-stream-processing-with-apache-kafka-jay-kreps"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/225292151/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-jay-kreps-stream-processing-with-apache-kafka-jay-kreps:jay-kreps-stream-processing-with-apache-kafka"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

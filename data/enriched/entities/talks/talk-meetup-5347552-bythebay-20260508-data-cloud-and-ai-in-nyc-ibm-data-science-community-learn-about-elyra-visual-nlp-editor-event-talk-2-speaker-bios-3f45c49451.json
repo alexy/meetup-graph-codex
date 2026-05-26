@@ -1,0 +1,47 @@
+{
+  "abstract": "Laura Chiticariu is an IBM Distinguished Engineer and Chief Architect for IBM Language, where she builds reusable language processing algorithms that serve as the NLP foundation for IBM products. Laura has 14 years of R&D experience building algorithms & tools, working with customers to solve NLP problems, and collaborating with IBM Research to bring the latest language innovations to IBM products Jesus Rocha Guerrero is a Senior Full Stack Engineer and Senior Engineering Manager within IBM's Cloud Pak for Data platform. Jesus and his team contributes Modeler product for CPD, and in addition own the growth of Elyra/Canvas with its rich set of features that power not only Modeler, but other services that leverage visual canvas interfaces. Jesus has been working on Full Stack web development for 15 years, and is passionate about the intricacies of modern micro-service architectures both on the Front-End as well as Back-End",
+  "conference_id": null,
+  "date_time": "2022-06-02T12:00:00-04:00",
+  "end_time": "2022-06-02T13:00:00-04:00",
+  "event_id": "285938364",
+  "event_title": "IBM Data Science Community: Learn about Elyra Visual NLP Editor",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-2:speaker-bios",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/285938364/"
+  ],
+  "speaker_ids": [
+    "speaker:laura-chiticariu",
+    "speaker:chief-architect"
+  ],
+  "speakers": [
+    {
+      "company_name": "IBM Language",
+      "id": "speaker:laura-chiticariu",
+      "name": "Laura Chiticariu",
+      "title": "n IBM Distinguished Engineer and Chief Architect"
+    },
+    {
+      "company_name": null,
+      "id": "speaker:chief-architect",
+      "name": "Chief Architect",
+      "title": "for IBM Language, where she builds reusable language processing algorithms that serve as the NLP foundation"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Speaker bios",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/285938364/"
+}

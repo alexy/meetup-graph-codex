@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:redpanda",
+      "company_name": "Redpanda",
+      "title": "Developer Advocate Lead"
+    }
+  ],
+  "company_id": "company:redpanda",
+  "company_ids": [
+    "company:redpanda"
+  ],
+  "company_name": "Redpanda",
+  "company_names": [
+    "Redpanda"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:chandler-mayo",
+  "meetup_ids": [],
+  "name": "Chandler Mayo",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-chandler-mayo-redpanda.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-chandler-mayo-redpanda"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [],
+  "title": "Developer Advocate Lead",
+  "titles": [
+    "Developer Advocate Lead"
+  ],
+  "type": "speaker"
+}

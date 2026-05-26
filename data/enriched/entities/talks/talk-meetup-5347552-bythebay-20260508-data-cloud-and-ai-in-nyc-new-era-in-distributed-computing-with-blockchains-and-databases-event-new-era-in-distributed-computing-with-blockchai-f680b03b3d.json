@@ -1,0 +1,31 @@
+{
+  "abstract": "A new era is emerging in the world of distributed computing with the growing popularity of blockchains (shared, replicated and distributed ledgers) and the associated databases as a way of integrating inter-organizational work. Originally, the concept of a distributed ledger was invented as the underlying technology of the cryptocurrency Bitcoin. But the adoption and further adaptation of it for use in the commercial or permissioned environments is what is of utmost interest to me and hence will be the focus of this keynote. Computer companies like IBM and Microsoft, and many key players in different vertical industry segments have recognized the applicability of blockchains in environments other than cryptocurrencies. IBM did some pioneering work by architecting and implementing Fabric, and then open sourcing it. Now Fabric is being enhanced via the Hyperledger Consortium as part of The Linux Foundation. A few of the other efforts include Enterprise Ethereum, R3 Corda and BigchainDB. While there is no standard in the blockchain space currently, all the ongoing efforts involve some combination of database, transaction, encryption, consensus and other distributed systems technologies. Some of the application areas in which blockchain pilots are being carried out are: smart contracts, supply chain management, know your customer, derivatives processing and provenance management. In this talk, I will survey some of the ongoing blockchain projects with respect to their architectures in general and their approaches to some specific technical areas. I will focus on how the functionality of traditional and modern data stores are being utilized or not utilized in the different blockchain projects. I will also distinguish how traditional distributed database management systems have handled replication and how blockchain systems do it. Since most of the blockchain efforts are still in a nascent state, the time is right for database and other distributed systems researchers and practitioners to get more deeply involved to focus on the numerous open problems. Presenter: Dr. C. Mohan, IBM Fellow, IBM Almaden Research Center Dr. C. Mohan has been an IBM researcher for 35 years in the database area, impacting numerous IBM and non-IBM products, the research and academic communities, and standards, especially with his invention of the ARIES family of database locking and recovery algorithms, and the Presumed Abort commit protocol. This IBM (1997), and ACM/IEEE (2002) Fellow has also served as the IBM India Chief Scientist for 3 years (2006-2009). In addition to receiving the ACM SIGMOD Innovations Award (1996), the VLDB 10 Year Best Paper Award (1999) and numerous IBM awards, Mohan was elected to the US and Indian National Academies of Engineering (2009), and was named an IBM Master Inventor (1997). This Distinguished Alumnus of IIT Madras (1977) received his PhD at the University of Texas at Austin (1981). He is an inventor of 50 patents. He is currently focused on Blockchain, Big Data and HTAP technologies ( http://bit.ly/CMbcDB , http://bit.ly/CMgMDS ). Since 2016, he has been a Distinguished Visiting Professor of China’s prestigious Tsinghua University. He has served on the advisory board of IEEE Spectrum, and on numerous conference and journal boards. Mohan is a frequent speaker in North America, Europe and India, and has given talks in 40 countries. He is very active on social media and has a huge network of followers. More information could be found in the Wikipedia page at http://bit.ly/CMwIkP Refreshments will be served",
+  "conference_id": null,
+  "date_time": "2017-06-29T18:00:00-04:00",
+  "end_time": "2017-06-29T20:00:00-04:00",
+  "event_id": "241010150",
+  "event_title": "New Era in Distributed Computing with Blockchains and Databases",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-new-era-in-distributed-computing-with-blockchains-and-databases-event:new-era-in-distributed-computing-with-blockchains-and-databases",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-new-era-in-distributed-computing-with-blockchains-and-databases-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-new-era-in-distributed-computing-with-blockchains-and-databases-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/241010150/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "New Era in Distributed Computing with Blockchains and Databases",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/241010150/"
+}

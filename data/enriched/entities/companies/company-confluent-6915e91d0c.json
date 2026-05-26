@@ -1,0 +1,23 @@
+{
+  "id": "company:confluent",
+  "name": "Confluent",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-viktor-gamov-confluent.json",
+    "data/raw/sources/bythebay-20260508-the-missing-protocol-how-mcp-bridges-llms-and-data-streams-viktor-gamov-confluent.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-viktor-gamov-confluent",
+    "bythebay-20260508-the-missing-protocol-how-mcp-bridges-llms-and-data-streams-viktor-gamov-confluent"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:viktor-gamov"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-gateway-to-the-future-a-brief-history-of-kubernetes-ingress-viktor-gamov-kong:gateway-to-the-future-a-brief-history-of-kubernetes-ingress",
+    "talk:ai-by-the-bay:bythebay-20260508-the-missing-protocol-how-mcp-bridges-llms-and-data-streams-viktor-gamov-confluent:the-missing-protocol-how-mcp-bridges-llms-and-data-streams"
+  ],
+  "type": "company"
+}

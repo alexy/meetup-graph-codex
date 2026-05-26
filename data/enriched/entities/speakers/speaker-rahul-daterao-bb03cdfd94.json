@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:rahul-daterao",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Rahul Daterao",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/246046747/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits:enterprise-data-science-at-scale"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

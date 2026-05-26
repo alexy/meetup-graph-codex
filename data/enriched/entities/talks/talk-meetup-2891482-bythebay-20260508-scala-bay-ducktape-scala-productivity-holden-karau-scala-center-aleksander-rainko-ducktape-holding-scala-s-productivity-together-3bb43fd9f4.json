@@ -1,0 +1,77 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2023-06-08T17:00:00-07:00",
+  "end_time": "2023-06-08T19:00:00-07:00",
+  "event_id": "293127928",
+  "event_title": "ducktape -- Scala productivity + Holden Karau + Scala Center!",
+  "github_repositories": [
+    "https://github.com/guardrail-dev/guardrail",
+    "https://github.com/disneystreaming/smithy4s",
+    "https://github.com/arainko/ducktape"
+  ],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko:ducktape-holding-scala-s-productivity-together",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [
+    "project:https-github-com-guardrail-dev-guardrail",
+    "project:https-github-com-disneystreaming-smithy4s",
+    "project:https-github-com-arainko-ducktape",
+    "project:apache-spark"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/293127928/"
+  ],
+  "speaker_ids": [
+    "speaker:aleksander-rainko",
+    "speaker:anatolii-kmetiuk",
+    "speaker:james-thompson",
+    "speaker:guillaume-martres",
+    "speaker:holden-karau"
+  ],
+  "speakers": [
+    {
+      "company_name": "Scalac",
+      "id": "speaker:aleksander-rainko",
+      "name": "Aleksander Rainko",
+      "title": "Software Engineer"
+    },
+    {
+      "company_name": "Scala Center",
+      "id": "speaker:anatolii-kmetiuk",
+      "name": "Anatolii Kmetiuk",
+      "title": "James Thompson and Guillaume Martres"
+    },
+    {
+      "company_name": null,
+      "id": "speaker:james-thompson",
+      "name": "James Thompson",
+      "title": null
+    },
+    {
+      "company_name": "Scala Center",
+      "id": "speaker:guillaume-martres",
+      "name": "Guillaume Martres",
+      "title": "Scala Center Scala started as a research project and quickly evolved into a mature technology and a thriving ecosystem, thanks to the combined power of the open-source community and the software industry. One of our missions"
+    },
+    {
+      "company_name": null,
+      "id": "speaker:holden-karau",
+      "name": "Holden Karau",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "ducktape - holding Scala's productivity together",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/293127928/"
+}

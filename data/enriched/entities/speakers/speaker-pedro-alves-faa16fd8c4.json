@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:pedro-alves",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Pedro Alves",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-cisco-spark-ai-more-bots-and-the-change-ai-needs-not-the-one-it-wants-castro-jose-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-cisco-spark-ai-more-bots-and-the-change-ai-needs-not-the-one-it-wants-castro-jose.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-cisco-spark-ai-more-bots-and-the-change-ai-needs-not-the-one-it-wants-castro-jose-2",
+    "bythebay-20260508-bay-area-ai-cisco-spark-ai-more-bots-and-the-change-ai-needs-not-the-one-it-wants-castro-jose"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/240491390/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-cisco-spark-ai-more-bots-and-the-change-ai-needs-not-the-one-it-wants-castro-jose:cisco-spark-ai-more-bots-and-the-change-ai-needs-not-the-one-it-wants"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

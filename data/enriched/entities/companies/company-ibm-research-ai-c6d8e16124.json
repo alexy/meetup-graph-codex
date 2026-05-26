@@ -1,0 +1,25 @@
+{
+  "id": "company:ibm-research-ai",
+  "name": "IBM Research AI",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291850152/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291850004/"
+  ],
+  "speaker_ids": [
+    "speaker:matan-orbach"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-res:targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews"
+  ],
+  "type": "company"
+}

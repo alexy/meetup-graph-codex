@@ -1,0 +1,39 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-durable-agents-long-running-ai-workflows-in-a-flakey-world-samuel-colvin:durable-agents-long-running-ai-workflows-in-a-flakey-world",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-durable-agents-long-running-ai-workflows-in-a-flakey-world-samuel-colvin.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-durable-agents-long-running-ai-workflows-in-a-flakey-world-samuel-colvin"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:samuel-colvin"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:samuel-colvin",
+      "name": "Samuel Colvin",
+      "title": "Founder of Pydantic"
+    }
+  ],
+  "tags": [
+    "MCP",
+    "OSS AI",
+    "Agentic AI"
+  ],
+  "title": "Durable Agents: long running AI workflows in a flakey world",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/durable-agents-long-running-ai-workflows-in-a-flakey-world"
+}

@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "unsloth Learn how to create your own local AI agents using Gemma 3. This talk covers everything from lightweight fine-tuning to advanced reinforcement learning using GRPO. You'll also see how to train models efficiently using Unsloth - even on limited hardware or"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:daniel-han-chen",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Daniel Han-Chen",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-gemma-developer-meetup-june-2025-daniel-han-chen.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-gemma-developer-meetup-june-2025-daniel-han-chen",
+    "bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen-talk-1",
+    "bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/308553764/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen-talk-1:talks-speakers",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen-talk-2:gemma-developer-meetup-june-2025"
+  ],
+  "title": "unsloth Learn how to create your own local AI agents using Gemma 3. This talk covers everything from lightweight fine-tuning to advanced reinforcement learning using GRPO. You'll also see how to train models efficiently using Unsloth - even on limited hardware or",
+  "titles": [
+    "unsloth Learn how to create your own local AI agents using Gemma 3. This talk covers everything from lightweight fine-tuning to advanced reinforcement learning using GRPO. You'll also see how to train models efficiently using Unsloth - even on limited hardware or"
+  ],
+  "type": "speaker"
+}

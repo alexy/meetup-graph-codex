@@ -1,0 +1,25 @@
+{
+  "github_repositories": [
+    "https://github.com/data-prep-kit/data-prep-kit"
+  ],
+  "github_repository": "https://github.com/data-prep-kit/data-prep-kit",
+  "id": "project:https-github-com-data-prep-kit-data-prep-kit",
+  "name": "data-prep-kit",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-simplifying-dpk-pipeline-creation-with-agentic-workflows-revital-sur-ibm-haifa-research-lab.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-simplifying-dpk-pipeline-creation-with-agentic-workflows-revital-sur-ibm-haifa-research-lab",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306941379/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/311735759/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-simplifying-dpk-pipeline-creation-with-agentic-workflows-revital-sur-ibm-haifa-resear:simplifying-dpk-pipeline-creation-with-agentic-workflows",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc-event:open-source-genai-hands-on-workshops-november-10-1-madison-avenue-nyc"
+  ],
+  "type": "project"
+}

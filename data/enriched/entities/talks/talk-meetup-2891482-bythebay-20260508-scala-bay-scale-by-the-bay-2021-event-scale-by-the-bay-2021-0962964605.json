@@ -1,0 +1,33 @@
+{
+  "abstract": "Register for Scale By the Bay with the code SFSCALA20 for 20% off https://scale.bythebay.io Just some of the topics are: Types are always at the heart of things James Douglas talks about Single-Serving Values with Linear Types in Scala. Vlad Patryshev treats Algebraic Data Types, Categorically. Ryan Orendorff shows how Functional Programming + Dependent Types ≡ Verified Linear Algebra. Alex Merritt leads the way for Array programming in the Scala 3 age with NDScala. Peng Cheng talks about Shape Safety in Tensor Programming. We’re always on a lookout for a better typed way to do AI/ML FP+ML is a venerable tradition started at SBTB years ago, and this year we’re excited to present Hasktorch, the Haskell bindings to PyTorch, and its advances into NLP with Gradual Typing. Full stack is now possible with Scala Ramnivas Laddad, from the family where everyone had presented at SBTB, teaches us Developing Declarative Backends. Taro Saito demonstrates Pure Scala approaches to frontend to backend development. Jowanza Joseph does the best DevOps transformation we can hope for, treating Infrastructure as Code - and the code is in Scala. Don’t forget to register for Scale By the Bay with the code SFSCALA20 at https://scale.bythebay.io",
+  "conference_id": null,
+  "date_time": "2021-10-28T06:00:00-07:00",
+  "end_time": "2021-10-29T20:00:00-07:00",
+  "event_id": "281229266",
+  "event_title": "Scale By the Bay 2021",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-scale-by-the-bay-2021-event:scale-by-the-bay-2021",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [
+    "project:gradual-typing-full"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-scale-by-the-bay-2021-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-scale-by-the-bay-2021-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/281229266/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scale By the Bay 2021",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/281229266/"
+}

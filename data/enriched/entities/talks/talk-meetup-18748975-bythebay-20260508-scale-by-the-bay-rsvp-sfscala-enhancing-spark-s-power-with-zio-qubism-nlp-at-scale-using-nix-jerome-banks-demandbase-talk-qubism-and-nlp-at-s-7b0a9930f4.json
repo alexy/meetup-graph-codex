@@ -1,0 +1,40 @@
+{
+  "abstract": "Summary Qubism is a library of design patterns that focus on data aggregations and OLAP-like “cube” data. Cubism is implemented in Scala and Spark, and leverages XUnit and YPath strings to slice-and-dice segments for aggregations. This allows rows to be exploded in a map phase, annotated in a shuffle/sort phase, and then aggregated in a reduce phase. Jerome will discuss how Qubism is used to handle large-scale NLP tasks behind Demandbase’s intent solution",
+  "conference_id": null,
+  "date_time": "2020-03-26T18:00:00-07:00",
+  "end_time": "2020-03-26T21:00:00-07:00",
+  "event_id": "268998983",
+  "event_title": "[RSVP @ SFScala]Enhancing Spark's Power with ZIO,Qubism & NLP at Scale,Using Nix",
+  "github_repositories": [],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:qubism-and-nlp-at-scale-with-scala-by-jerome-banks",
+  "kind": "talk",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/268998983/"
+  ],
+  "speaker_ids": [
+    "speaker:jerome-banks"
+  ],
+  "speakers": [
+    {
+      "company_name": "Demandbase",
+      "id": "speaker:jerome-banks",
+      "name": "Jerome Banks",
+      "title": "Principal Big Data Engineer"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "\"Qubism and NLP at Scale with Scala\" by Jerome Banks",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/268998983/"
+}

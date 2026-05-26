@@ -1,0 +1,28 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:additional-information",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Additional Information",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-october-2015-meetup-todd-lipcon.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-october-2015-meetup-todd-lipcon"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/224616149/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-october-2015-meetup-todd-lipcon:resolving-transactional-access-analytic-performance-trade-offs-in-hadoop-with-kudu"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

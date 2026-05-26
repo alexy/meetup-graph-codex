@@ -1,0 +1,22 @@
+{
+  "id": "company:a-stealth-ai-agents-startup",
+  "name": "a stealth AI/Agents startup",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-michael-maximilien-a-stealth-ai-agents-startup.json",
+    "data/raw/sources/bythebay-20260508-introducing-weave-cli-the-easiest-way-to-manage-your-vector-database-michael-maximilien-a-stealth-ai-agents-startup.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-michael-maximilien-a-stealth-ai-agents-startup",
+    "bythebay-20260508-introducing-weave-cli-the-easiest-way-to-manage-your-vector-database-michael-maximilien-a-stealth-ai-agents-startup"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:michael-maximilien"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-introducing-weave-cli-the-easiest-way-to-manage-your-vector-database-michael-maximilien-a-stealth-ai-agents-startup:introducing-weave-cli-the-easiest-way-to-manage-your-vector-database"
+  ],
+  "type": "company"
+}

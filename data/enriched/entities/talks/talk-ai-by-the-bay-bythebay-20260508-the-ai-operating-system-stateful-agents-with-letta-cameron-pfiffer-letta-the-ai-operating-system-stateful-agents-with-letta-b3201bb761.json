@@ -1,0 +1,38 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-the-ai-operating-system-stateful-agents-with-letta-cameron-pfiffer-letta:the-ai-operating-system-stateful-agents-with-letta",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-the-ai-operating-system-stateful-agents-with-letta-cameron-pfiffer-letta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-the-ai-operating-system-stateful-agents-with-letta-cameron-pfiffer-letta"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:cameron-pfiffer"
+  ],
+  "speakers": [
+    {
+      "company_name": "Letta",
+      "id": "speaker:cameron-pfiffer",
+      "name": "Cameron Pfiffer",
+      "title": "Developer Relations Engineer"
+    }
+  ],
+  "tags": [
+    "Agentic AI",
+    "Context engineering"
+  ],
+  "title": "The AI Operating System: Stateful Agents with Letta",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/beyond-json%3A-grammar-constrained-function-calling-with-cfgs"
+}

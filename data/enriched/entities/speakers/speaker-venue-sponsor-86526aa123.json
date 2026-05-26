@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:venue-sponsor",
+  "meetup_ids": [
+    "meetup:18601481"
+  ],
+  "name": "Venue Sponsor",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-getting-healthy-with-spark-chul-lee-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-getting-healthy-with-spark-chul-lee.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-getting-healthy-with-spark-chul-lee-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-getting-healthy-with-spark-chul-lee-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/225522991/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-getting-healthy-with-spark-chul-lee-talk-2:7-05pm-welcome"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

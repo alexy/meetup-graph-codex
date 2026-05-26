@@ -1,0 +1,40 @@
+{
+  "abstract": "An Intro to Scala Native, by Shadaj Laddad Abstract This talk will introduce the basic concepts of Scala Native, a Scala to LLVM compiler, such as how it works, where it can be used, and how to use it in your own projects! In this talk, we will work through implementing a simple project in Scala Native and will discuss future improvements to Scala Native and its ecosystem of ported Scala libraries. Bio Shadaj loves to program. He is fluent in many programming languages, with Scala being his favorite for its combination of functional and object-oriented concepts. Shadaj hosts his projects on GitHub, and has a channel on YouTube. He has presented at OSCON 2014, Scala Days (2012, 2013, 2014, 2015, 2016, 2017), Scala By the Bay, and the Bay Area Scala Enthusiast group showing his Scala projects. Shadaj is currently the Co-President of Lynbrook Robotics, his high-school robotics team. He has interned at Meteor Development Group, Khan Academy, Coursera, and Paya Labs working with technologies such as React.js, Play! Framework, and Scala.js to develop educational platforms. When not doing his school work or programming he plays the sitar, an Indian classical instrument and volunteers at a local non-profit music organization. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc. • 7:10-8:00 - talk • 8:00-8:30 - networking",
+  "conference_id": null,
+  "date_time": "2017-08-14T18:30:00-07:00",
+  "end_time": "2017-08-14T21:30:00-07:00",
+  "event_id": "239831257",
+  "event_title": "An Intro to Scala Native",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-an-intro-to-scala-native-shadaj-laddad:an-intro-to-scala-native",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-an-intro-to-scala-native-shadaj-laddad.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-an-intro-to-scala-native-shadaj-laddad"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/239831257/"
+  ],
+  "speaker_ids": [
+    "speaker:shadaj-laddad"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:shadaj-laddad",
+      "name": "Shadaj Laddad",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "An Intro to Scala Native",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/239831257/"
+}

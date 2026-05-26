@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2020-07-30T17:30:00-07:00",
+  "end_time": "2020-07-30T19:30:00-07:00",
+  "event_id": "270897090",
+  "event_title": "Reimagining Functional Type Classes by John A. De Goes",
+  "github_repositories": [],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-2:45pm-reimagining-functional-type-classes",
+  "kind": "talk",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/270897090/"
+  ],
+  "speaker_ids": [
+    "speaker:john-a"
+  ],
+  "speakers": [
+    {
+      "company_name": "De Goes",
+      "id": "speaker:john-a",
+      "name": "John A",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "45pm Reimagining Functional Type Classes",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/270897090/"
+}

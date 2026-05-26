@@ -1,0 +1,34 @@
+{
+  "abstract": "This workshop is one of many free, data-centric events that will make up Cognifest NYC, taking place from October 23 - 27, 2017. Cognifest is a new way to bring together developer communities around common topics such as Data Engineering, Machine Learning, and AI. Instead of a traditional sit-down conference, we connect a series of meetups all around the city, and add workshops and tech talk tracks on dedicated days, as well as a happy hour or two, to canvass the ideas through time and space. Learn more at Cognifest.org (https://www.cognifest.org/) Join our free hands-on workshop with Jerome Nilmeier, Data Scientist and Apache Spark expert, to learn how to get started with Scala and Apache Spark. After this training you will be able to write and run a sample Scala application using Apache Spark. In order to reserve your seat you must register here: https://www.eventbrite.com/e/getting-started-with-data-science-on-spark-with-scala-tickets-39100912883 Attendees will learn:- Fundamentals of Scala - Why Scala is best for leveraging Apache Spark (we will also review other languages: Python, R) - Fundamentals of Apache Spark - Coding examples from all of the main libraries of Apache Spark (SparkSQL, MLlib, GraphX, Spark Streaming, and SparkR) - Overview of open source projects that run on the Spark framework (SystemML, R4ML) Pre-requisites: No experience is necessary, but please bring a laptop and power cable, as this is a hands-on workshop. Instructor: Jerome Nilmeier - Data Scientist and Apache Spark Expert Brought to you by IBM, Metis & the Framework Foundation",
+  "conference_id": null,
+  "date_time": "2017-10-27T13:30:00-04:00",
+  "end_time": "2017-10-27T16:30:00-04:00",
+  "event_id": "244363675",
+  "event_title": "Getting Started With Data Science on Spark with Scala",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-getting-started-with-data-science-on-spark-with-scala-event:getting-started-with-data-science-on-spark-with-scala",
+  "kind": "workshop",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:apache-spark",
+    "project:spark"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-getting-started-with-data-science-on-spark-with-scala-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-getting-started-with-data-science-on-spark-with-scala-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/244363675/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Getting Started With Data Science on Spark with Scala",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/244363675/"
+}

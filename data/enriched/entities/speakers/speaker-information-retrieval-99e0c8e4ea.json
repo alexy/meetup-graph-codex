@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:information-retrieval",
+  "meetup_ids": [
+    "meetup:36468260"
+  ],
+  "name": "Information Retrieval",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-efficient-inference-2.json",
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-efficient-inference.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-efficient-inference-2",
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-efficient-inference"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/304656743/"
+  ],
+  "talk_ids": [
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-efficient-inference:unstructured-data-meetup"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

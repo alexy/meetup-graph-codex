@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:nltk-visualization",
+  "name": "NLTK Visualization",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-rapalytics-the-home-of-rap-data-science-abhay-kashyap.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-rapalytics-the-home-of-rap-data-science-abhay-kashyap"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/223171399/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-rapalytics-the-home-of-rap-data-science-abhay-kashyap:rapalytics-the-home-of-rap-data-science"
+  ],
+  "type": "project"
+}

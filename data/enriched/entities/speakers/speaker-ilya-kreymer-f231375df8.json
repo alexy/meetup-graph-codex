@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:ilya-kreymer",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Ilya Kreymer",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-archiving-web-data-big-and-small-wayback-webrecorder-commoncrawl-ilya-kreymer-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-archiving-web-data-big-and-small-wayback-webrecorder-commoncrawl-ilya-kreymer.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-archiving-web-data-big-and-small-wayback-webrecorder-commoncrawl-ilya-kreymer-2",
+    "bythebay-20260508-bay-area-ai-archiving-web-data-big-and-small-wayback-webrecorder-commoncrawl-ilya-kreymer"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/227042419/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-archiving-web-data-big-and-small-wayback-webrecorder-commoncrawl-ilya-kreymer:archiving-web-data-big-and-small-wayback-webrecorder-commoncrawl"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

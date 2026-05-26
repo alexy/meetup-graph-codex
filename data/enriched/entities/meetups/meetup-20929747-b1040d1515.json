@@ -1,0 +1,31 @@
+{
+  "id": "meetup:20929747",
+  "name": "GraphQL By the Bay",
+  "source_urls": [
+    "https://www.meetup.com/graphql-by-the-bay/events/?type=past"
+  ],
+  "talk_ids": [
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-graphql-at-coursera-event:graphql-at-coursera",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-live-coding-serverless-ios-android-web-apps-with-scalajs-react-native-graphql-event:live-coding-serverless-ios-android-web-apps-with-scalajs-react-native-graphql",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-streamlio-gridgain-cassandra-spark-free-workshop-at-ibm-index-russell-spitzer:we-re-happy-to-announce-two-new-index-http-chief-sc-index-2018-sessions-2-20-is-the-free-s",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo:smack-2-0-panel-http-chief-sc-index-2018-smack20-panel-is-held-on-2-22-at-2pm-preceded",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-2018-cfp-is-open-until-may-31-event:scale-by-the-bay-2018-cfp-is-open-until-may-31",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-2018-cfp-is-accepting-late-submissions-by-6-30-event:scale-by-the-bay-2018-cfp-is-accepting-late-submissions-by-6-30",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-2018-ryan-knight:scale-by-the-bay-2018",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma:distributed-graphql-for-enterprise-systems",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform-event:1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-2019-cfp-open-until-may-31-event:scale-by-the-bay-2019-cfp-open-until-may-31",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson:integrating-react-with-scala-at-domino-data-lab",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-external-registration-conference-scale-by-the-bay-2019-november-13-15-event:conference-scale-by-the-bay-2019-november-13-15",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta:model-versioning-and-monitoring-why-when-and-how",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-a-tour-of-caliban-fp-graphql-in-scala-understanding-scala-s-type-system-alexy-khrabrov:15pm-a-tour-of-caliban-functional-graphql-in-scala",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-reactive-summit-sbtb-2020-cfp-open-through-july-31-event:reactive-summit-sbtb-2020-cfp-open-through-july-31",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-2020-begins-this-thursday-event:scale-by-the-bay-2020-begins-this-thursday",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-2021-event:scale-by-the-bay-2021",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-cfp-extended-to-june-16-event:scale-by-the-bay-cfp-extended-to-june-16",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-graphqlconf-meetups-event:graphqlconf-meetups"
+  ],
+  "timezone": "America/Los_Angeles",
+  "type": "meetup",
+  "url": "https://www.meetup.com/graphql-by-the-bay/events/?type=past"
+}

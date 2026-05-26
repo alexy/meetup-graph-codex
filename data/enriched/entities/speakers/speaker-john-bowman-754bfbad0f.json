@@ -1,0 +1,46 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:john-bowman",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "John Bowman",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-what-you-need-to-know-about-the-eu-ai-act-john-bowman-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly-john-bowman.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-implementing-ethical-ai-and-privacy-with-an-integrated-governance-program-anaysha-parker.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-implementing-ethical-ai-and-privacy-with-an-integrated-governance-program-anaysha-parker-3.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-what-you-need-to-know-about-the-eu-ai-act-john-bowman.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-what-you-need-to-know-about-the-eu-ai-act-john-bowman-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-what-you-need-to-know-about-the-eu-ai-act-john-bowman-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly-john-bowman",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-implementing-ethical-ai-and-privacy-with-an-integrated-governance-program-anaysha-parker",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-implementing-ethical-ai-and-privacy-with-an-integrated-governance-program-anaysha-parker-3",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-what-you-need-to-know-about-the-eu-ai-act-john-bowman",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-what-you-need-to-know-about-the-eu-ai-act-john-bowman-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297840231/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292859986/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297488283/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297488934/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297839904/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly-john-bowman:how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-implementing-ethical-ai-and-privacy-with-an-integrated-governance-program-anaysha-parker:implementing-ethical-ai-and-privacy-with-an-integrated-governance-program",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-implementing-ethical-ai-and-privacy-with-an-integrated-governance-program-anaysha-parker-3:implementing-ethical-ai-and-privacy-with-an-integrated-governance-program",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-what-you-need-to-know-about-the-eu-ai-act-john-bowman:what-you-need-to-know-about-the-eu-ai-act",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-what-you-need-to-know-about-the-eu-ai-act-john-bowman-3:what-you-need-to-know-about-the-eu-ai-act"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

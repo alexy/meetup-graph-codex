@@ -1,0 +1,32 @@
+{
+  "id": "company:neo4j",
+  "name": "Neo4j",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-jeremy-adams-neo4j.json",
+    "data/raw/sources/bythebay-20260508-stephen-chin-neo4j.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-improving-chatbot-reliability-through-graph-based-retrieval-nyah-macklin-neo4j.json",
+    "data/raw/sources/bythebay-20260508-context-engineering-connecting-the-dots-with-graphs-stephen-chin-neo4j.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-improving-chatbot-reliability-through-graph-based-retrieval-nyah-macklin-neo4j.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-jeremy-adams-neo4j",
+    "bythebay-20260508-stephen-chin-neo4j",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-improving-chatbot-reliability-through-graph-based-retrieval-nyah-macklin-neo4j",
+    "bythebay-20260508-context-engineering-connecting-the-dots-with-graphs-stephen-chin-neo4j",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-improving-chatbot-reliability-through-graph-based-retrieval-nyah-macklin-neo4j"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/310093605/"
+  ],
+  "speaker_ids": [
+    "speaker:jeremy-adams",
+    "speaker:stephen-chin",
+    "speaker:nyah-macklin"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-context-engineering-connecting-the-dots-with-graphs-stephen-chin-neo4j:context-engineering-connecting-the-dots-with-graphs",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-improving-chatbot-reliability-through-graph-based-retrieval-nyah-macklin-neo4j:improving-chatbot-reliability-through-graph-based-retrieval"
+  ],
+  "type": "company"
+}

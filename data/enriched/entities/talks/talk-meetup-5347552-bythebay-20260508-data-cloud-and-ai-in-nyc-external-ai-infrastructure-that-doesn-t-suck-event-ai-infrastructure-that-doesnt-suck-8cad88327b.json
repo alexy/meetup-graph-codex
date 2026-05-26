@@ -1,0 +1,31 @@
+{
+  "abstract": "Big AI models need big I/O. If your storage can’t keep up, your GPUs are bad investments. Legacy systems choke on modern training and inferencing workloads-and that’s burning time, money, and opportunity. AI is a journey; whether you are on the AI lite side with cloud or the AI heavy side with in-house compute - we've got you covered! In this session, we’ll call out why your current infrastructure is failing AI and discuss how next-gen tech-like blazing-fast NVMe arrays, IBM Ceph’s scale-out muscle, and IBM's Openshift based Fusion Hyper-converged container-native brains-are built to feed the beast. Stop starving your GPUs. Join us and discover how to Kill the bottlenecks & crush the pipeline. Let’s go! Details and RSVP: https://www.eventbrite.com/e/ai-infrastructure-that-doesnt-suck-tickets-1571172321709",
+  "conference_id": null,
+  "date_time": "2025-08-28T12:00:00-04:00",
+  "end_time": "2025-08-28T13:00:00-04:00",
+  "event_id": "310713674",
+  "event_title": "[EXTERNAL] AI Infrastructure That Doesn’t Suck",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-external-ai-infrastructure-that-doesn-t-suck-event:ai-infrastructure-that-doesnt-suck",
+  "kind": "workshop",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-external-ai-infrastructure-that-doesn-t-suck-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-external-ai-infrastructure-that-doesn-t-suck-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/310713674/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "AI Infrastructure That Doesn’t Suck",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/310713674/"
+}

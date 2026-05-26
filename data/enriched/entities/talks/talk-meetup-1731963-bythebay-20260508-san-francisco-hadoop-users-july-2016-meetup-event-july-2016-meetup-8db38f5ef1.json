@@ -1,0 +1,31 @@
+{
+  "abstract": "Thanks to Pinterest for hosting us! This location is walking distance from the Caltrain SF Station. Agenda: • 6pm Food, Drinks, Networking • 630pm Pinterest Welcome • 640pm Open Sourcing Dr. Elephant: Pills for your problematic Hadoop jobs At LinkedIn, we have employees with different levels of experience with Hadoop using different frameworks to run their Hadoop jobs. User may run Hadoop job that abuses Hadoop cluster resources, but they even didn’t realize that. Many who realized their jobs are problematic didn’t know how to tune them. Dr. Elephant was born to solve these pain points. As a simple web app, it provides job diagnostics right after each job finishes and tell user what pills to take. We also built our automated job performance monitoring pipeline on top of it. In this talk, I will share the experience at Linkedin in optimizing the user jobs, the challenges we faced and how a simple self serve tool like Dr. Elephant helped overcome these challenges. Dr. Elephant is a tool for the users of Hadoop to help them understand, analyse and tune their Hadoop/Spark applications easily, thus improving their productivity and the cluster’s efficiency. I’ll also share how we integrated such a tool into our developer lifecycle and encouraged them to optimize the jobs with minimal support from the hadoop experts. I will also discuss about the tool, how it gathers all the information and how to write custom heuristics and plug them into Dr. Elephant. Dr. Elephant is now open sourced. Please check out our blog and github page for more information",
+  "conference_id": null,
+  "date_time": "2016-07-12T18:00:00-07:00",
+  "end_time": "2016-07-12T20:00:00-07:00",
+  "event_id": "231281073",
+  "event_title": "July 2016 Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-july-2016-meetup-event:july-2016-meetup",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-july-2016-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-july-2016-meetup-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/231281073/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "July 2016 Meetup",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/231281073/"
+}

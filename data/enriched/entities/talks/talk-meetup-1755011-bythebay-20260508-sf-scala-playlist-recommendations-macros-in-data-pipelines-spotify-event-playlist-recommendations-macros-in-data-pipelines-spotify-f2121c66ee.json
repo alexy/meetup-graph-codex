@@ -1,0 +1,33 @@
+{
+  "abstract": "At Spotify we'll be hosting 2 talks. Schedule: 6:30: Refreshments and mingling 7:00: \"Playlist recommendations @Spotify\" 7:30: \"Macros in data pipelines\" 8:00: Mingling⋅ \"Playlist recommendations @Spotify\" Music recommendations on Spotify is a big part of the user experience and we recently launched personalized playlist recommendations based on user's taste and listening history. Come to hear Nikhil talking about how we use Twitter's Scalding framework to crunch terabytes of data in the form of daily and weekly pipelines. Nikhil Tibrewal is a Data Engineer at Spotify. He graduated from Carnegie Mellon University in 2013 with a B.Sc. in Computer Science and an additional major in Economics. He has been with Spotify for a year and a half and has worked on a wide range of projects spanning recommendations, backend, infrastructure and data engineering. \"Macros in data pipelines\" In this talk Neville presents how Scala Macros can be used to improve data pipeline code levering Parquet, Avro, Scalding and Spark. Neville has been working at Spotify for 4 years now and is a member of the music recommendation team. He also leads the effort of adopting various Scala frameworks and functional programming techniques for data processing",
+  "conference_id": null,
+  "date_time": "2015-08-20T18:30:00-07:00",
+  "end_time": "2015-08-20T21:30:00-07:00",
+  "event_id": "224430674",
+  "event_title": "Playlist recommendations + Macros in data pipelines @Spotify",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-playlist-recommendations-macros-in-data-pipelines-spotify-event:playlist-recommendations-macros-in-data-pipelines-spotify",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:scalding"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-playlist-recommendations-macros-in-data-pipelines-spotify-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-playlist-recommendations-macros-in-data-pipelines-spotify-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/224430674/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Playlist recommendations + Macros in data pipelines @Spotify",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/224430674/"
+}

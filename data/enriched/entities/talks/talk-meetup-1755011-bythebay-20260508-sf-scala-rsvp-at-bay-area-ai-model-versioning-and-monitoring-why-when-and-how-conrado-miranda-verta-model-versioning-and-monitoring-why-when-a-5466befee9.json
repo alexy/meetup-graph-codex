@@ -1,0 +1,51 @@
+{
+  "abstract": "Note: ML Model Versioning, Deployment, and Monitoring are core themes of the https://scale.bythebay.io 2019, 11/14-15, Oakland. Reserve your seat today using the code MEETSFSCALA15 for 15% off all passes, including the complete Serverless workshop! Joint meetup -- please RSVP at http://bay.area.ai! (1) MODEL VERSIONING: WHY, WHEN, AND HOW Models are the new code. While machine learning models are increasingly being used to make critical product and business decisions, the process of developing and deploying ML models remain ad-hoc. In the “wild-west” of data science and ML tools, versioning, management, and deployment of models are massive hurdles in making ML efforts successful. As creators of ModelDB, an open-source model management solution developed at MIT CSAIL, we have helped manage and deploy a host of models ranging from cutting-edge deep learning models to traditional ML models in finance. In each of these applications, we have found that the key to enabling production ML is an often-overlooked but critical step: model versioning. Without a means to uniquely identify, reproduce, or rollback a model, production ML pipelines remain brittle and unreliable. In this talk, we draw upon our experience with ModelDB and Verta to present best practices and tools for model versioning and how having a robust versioning solution (akin to Git for code) can streamlining DS/ML, enable rapid deployment, and ensure high quality of deployed ML models. Speakers: Manasi Vartak, CEO, Verta.ai, Conrado Miranda, CTO, Verta.ai Manasi Vartak is the founder and CEO of Verta.ai (www.verta.ai), an MIT-spinoff building software to enable high-velocity machine learning. Manasi previously worked on deep learning for content recommendation as part of the feed-ranking team at Twitter and dynamic ad-targeting at Google. Conrado Miranda is the CTO at Verta.AI. Conrado has a PhD in Machine Learning and a focus on building platforms for AI. He was the tech lead for the Deep Learning platform at Twitter’s Cortex, where he designed and led the implementation of TensorFlow for model development and PySpark for data analysis and engineering. He also led efforts on NVIDIA’s self-driving car initiative, including the Machine Learning platform, large scale inference for the Drive stack, and build and CI for Deep Learning models. (2) Model Monitoring in Production Machine Learning models continuously discover new data patterns in production they have never seen during training and testing iterations. The best offline experiment can lose in production. The most accurate model is not always tolerant to a minor data drift or adversarial input. Neither prodops, data science or engineering teams are skilled to detect, monitor and debug model degradation behaviour. Real mission critical AI systems require advanced monitoring and model observability ecosystem which enables continuous and reliable delivery of machine learning models into production. Common production incidents include: - Data anomalies - Data drifts, new data, wrong features - Vulnerability issues, adversarial attacks - Concept drifts, new concepts, expected model degradation - Domain drift - Biased Training set In this demo based talk we discuss algorithms for monitoring text and image use cases as well as for classical tabular datasets. Demo part will cover the full cycle of machine learning model in production: Model training and deployment with Kubeflow pipelines Production traffic simulation Model monitoring metrics configuration Data drift detection Drift exploration and monitoring metadata mining New training dataset generation from production feature store Model retraining and redeployment Stepan Pushkarev is a CTO of Hydrosphere.io - Model Management platform and co-founder of Provectus - an AI Solutions provider and consultancy, a parent company of Hydrosphere.io",
+  "conference_id": null,
+  "date_time": "2019-11-05T18:00:00-08:00",
+  "end_time": "2019-11-05T20:00:00-08:00",
+  "event_id": "266058898",
+  "event_title": "[RSVP at bay.area.ai] MODEL VERSIONING AND MONITORING: WHY, WHEN, AND HOW",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta:model-versioning-and-monitoring-why-when-and-how",
+  "kind": "workshop",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:deep-learning",
+    "project:machine-learning",
+    "project:model-management"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/266058898/"
+  ],
+  "speaker_ids": [
+    "speaker:conrado-miranda",
+    "speaker:manasi-vartak"
+  ],
+  "speakers": [
+    {
+      "company_name": "Verta",
+      "id": "speaker:conrado-miranda",
+      "name": "Conrado Miranda",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:manasi-vartak",
+      "name": "Manasi Vartak",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "MODEL VERSIONING AND MONITORING: WHY, WHEN, AND HOW",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/266058898/"
+}

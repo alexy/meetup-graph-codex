@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2025-02-25T17:30:00-08:00",
+  "end_time": "2025-02-25T20:00:00-08:00",
+  "event_id": "306178453",
+  "event_title": "Designing the library powering Netflix's QoE & Teach LLMs to write great Scala",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-5:designing-the-library-powering-netflix-s-qoe-with-scala-3",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-5"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/306178453/"
+  ],
+  "speaker_ids": [
+    "speaker:joan-goyeau"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:joan-goyeau",
+      "name": "Joan Goyeau",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Designing the library powering Netflix's QoE with Scala 3",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/306178453/"
+}

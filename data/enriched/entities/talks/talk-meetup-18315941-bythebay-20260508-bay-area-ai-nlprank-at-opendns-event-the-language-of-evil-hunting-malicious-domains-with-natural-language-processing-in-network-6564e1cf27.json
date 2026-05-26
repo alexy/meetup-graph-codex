@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2015-06-02T18:30:00-07:00",
+  "end_time": "2015-06-02T21:30:00-07:00",
+  "event_id": "222736503",
+  "event_title": "NLPRank at OpenDNS",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-nlprank-at-opendns-event:the-language-of-evil-hunting-malicious-domains-with-natural-language-processing-in-network",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-nlprank-at-opendns-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-nlprank-at-opendns-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/222736503/"
+  ],
+  "speaker_ids": [
+    "speaker:jeremiah-o-connnor"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:jeremiah-o-connnor",
+      "name": "Jeremiah O'Connnor",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The Language of Evil: Hunting Malicious Domains with Natural Language Processing in Network Traffic",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/222736503/"
+}

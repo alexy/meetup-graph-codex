@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:kontagent",
+      "company_name": "Kontagent",
+      "title": null
+    }
+  ],
+  "company_id": "company:kontagent",
+  "company_ids": [
+    "company:kontagent"
+  ],
+  "company_name": "Kontagent",
+  "company_names": [
+    "Kontagent"
+  ],
+  "conference_ids": [],
+  "id": "speaker:martin-colaco",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Martin Colaco",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-feature-extraction-for-predictive-ltv-modeling-using-hadoop-hive-and-cascading-martin-colaco-kontagent.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-april-2013-san-francisco-hadoop-meetup-martin-colaco-kontagent.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-feature-extraction-for-predictive-ltv-modeling-using-hadoop-hive-and-cascading-martin-colaco-kontagent",
+    "bythebay-20260508-san-francisco-hadoop-users-april-2013-san-francisco-hadoop-meetup-martin-colaco-kontagent-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/111716932/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-april-2013-san-francisco-hadoop-meetup-martin-colaco-kontagent-talk-2:feature-extraction-for-predictive-ltv-modeling-using-hadoop-hive-and-cascading"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

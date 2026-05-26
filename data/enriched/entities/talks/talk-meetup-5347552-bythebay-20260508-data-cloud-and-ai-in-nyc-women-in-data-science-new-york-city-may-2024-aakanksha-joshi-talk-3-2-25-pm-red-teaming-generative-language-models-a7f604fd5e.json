@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2024-05-17T11:15:00-04:00",
+  "end_time": "2024-05-17T17:00:00-04:00",
+  "event_id": "300338070",
+  "event_title": "Women in Data Science - New York City May 2024",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi-talk-3:2-25-pm-red-teaming-generative-language-models",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/300338070/"
+  ],
+  "speaker_ids": [
+    "speaker:senior-research-scientist"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:senior-research-scientist",
+      "name": "Senior Research Scientist",
+      "title": "IBM Research AI Organization"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "2:25 PM - \"Red Teaming Generative Language Models\"",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/300338070/"
+}

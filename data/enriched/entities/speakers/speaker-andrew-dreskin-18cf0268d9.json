@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:andrew-dreskin",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Andrew Dreskin",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-andrew-dreskin-4.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-andrew-dreskin.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-andrew-dreskin-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-andrew-dreskin-4",
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-andrew-dreskin",
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-andrew-dreskin-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/236808031/",
+    "https://www.meetup.com/sf-scala/events/235846399/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-andrew-dreskin:sf-scala-unmeetup-ticketfly",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-ticketfly-andrew-dreskin-3:sf-scala-unmeetup-ticketfly"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

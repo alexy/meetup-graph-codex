@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:jonathan-messiha-jonathan",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Jonathan Messiha Jonathan",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-web-scraping-and-sentiment-analysis-for-enhanced-data-analytics-ml-modelling-jonathan-messiha-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-web-scraping-and-sentiment-analysis-for-enhanced-data-analytics-ml-modelling-jonathan-messiha-3.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-web-scraping-and-sentiment-analysis-for-enhanced-data-analytics-ml-modelling-jonathan-messiha.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-web-scraping-and-sentiment-analysis-for-enhanced-data-analytics-ml-modelling-jonathan-messiha-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-web-scraping-and-sentiment-analysis-for-enhanced-data-analytics-ml-modelling-jonathan-messiha-3",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-web-scraping-and-sentiment-analysis-for-enhanced-data-analytics-ml-modelling-jonathan-messiha"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289529717/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289529859/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-web-scraping-and-sentiment-analysis-for-enhanced-data-analytics-ml-modelling-jonathan-messiha-3:web-scraping-and-sentiment-analysis-for-enhanced-data-analytics-ml-modelling",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-web-scraping-and-sentiment-analysis-for-enhanced-data-analytics-ml-modelling-jonathan-messiha:web-scraping-and-sentiment-analysis-for-enhanced-data-analytics-ml-modelling"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

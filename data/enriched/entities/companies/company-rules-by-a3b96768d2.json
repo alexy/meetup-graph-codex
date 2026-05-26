@@ -1,0 +1,21 @@
+{
+  "id": "company:rules-by",
+  "name": "Rules by",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/310960653/"
+  ],
+  "speaker_ids": [
+    "speaker:ran-xu"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch-talk-1:agenda",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch-talk-3:build-computer-use-agent-from-research-to-enterprise-applications"
+  ],
+  "type": "company"
+}

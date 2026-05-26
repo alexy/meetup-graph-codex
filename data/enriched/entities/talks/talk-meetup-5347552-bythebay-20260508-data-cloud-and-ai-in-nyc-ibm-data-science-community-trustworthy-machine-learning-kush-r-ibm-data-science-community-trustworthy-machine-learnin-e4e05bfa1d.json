@@ -1,0 +1,49 @@
+{
+  "abstract": "Please join the IBM Data Science Community for our March 2022 virtual meetup. ⏰ Agenda 10.45am - Doors open 11.00am - Welcome 11.02am - IBM Community announcements 11.08am - Lightning talk: Exploring the Manning liveProject tutorial for IBM Project Debater API (Paco Nathan) 11:15am - Main talk: Trustworthy Machine Learning (Kush R. Varshney) plus Q&A 11:55am - Mingle 12:00pm - Official event ends (IBM community team and speakers may stick around a little bit longer if there are still more questions) 💬 Lighting talk (5') - Exploring the Manning liveProject tutorial for IBM Project Debater API Suppose you're on a data science team that handles lots of text: customer responses, news analysis, medical transcriptions, bill of materials, patent applications, or other similar cases. How do you manage data quality within the stream of input data? How do you determine which elements of the surrounding text support the arguments that get extracted by ML models? How do you expand the phrases your customers use to link into more commonly-used phrases? While there have been incredible advances in the use of language models for predicting sequences of text, other areas of NLP have also been advancing. This “liveProject” tutorial at Manning provides goal-oriented, hands-on coding examples of how to leverage the IBM Project Debater API to analyze a Kaggle dataset about medical transcriptions. Milestones in this tutorial include data preparation techniques in Pandas, use of the Key Point Analysis , Argument Quality , and Term Wikifier API services, data visualization in Seaborn, and building an interactive dashboard of the results in Streamlit. 👨🏻‍💻 Speaker bio Paco Nathan is Managing Partner at Derwen, Inc. Known as a “player/coach”, with core expertise in data science, cloud computing, natural language, graph technologies; \\~40 years tech industry experience, ranging from Bell Labs to early-stage start-ups. Advisor for Amplify Partners, Recognai, KUNGFU.AI. Lead committer PyTextRank, kglab. Formerly: Director, Community Evangelism @ Databricks and Apache Spark. 💬 Main talk (40') - Trustworthy Machine Learning Accuracy is not enough when you’re developing machine learning systems for consequential application domains. You also need to make sure that your models are fair, have not been tampered with, will not fall apart in different conditions, and can be understood by people. Your design and development process has to be transparent and inclusive. You don’t want the systems you create to be harmful, but to help people flourish in ways they consent to. All of these considerations beyond accuracy that make machine learning safe, responsible, and worthy of our trust have been described by many experts as the biggest challenge of the next five years. This talk aims to equip you with the thought process to meet this challenge. 👨🏻‍💻 Speaker bio Kush R. Varshney is a distinguished research staff member and manager with IBM Research at the Thomas J. Watson Research Center, Yorktown Heights, NY, where he leads the machine learning group in the Foundations of Trustworthy AI department. He was a visiting scientist at IBM Research - Africa, Nairobi, Kenya in 2019. He is the founding co-director of the IBM Science for Social Good initiative. He applies data science and predictive analytics to human capital management, healthcare, olfaction, computational creativity, public affairs, international development, and algorithmic fairness and conducts academic research on the theory and methods of trustworthy machine learning. He self-published a book entitled 'Trustworthy Machine Learning' (http://www.trustworthymachinelearning.com) in 2022. 🦄 Join your local IBM Community meetup team Want to get involved in your local IBM Community meetup? Join our Slack: https://join.slack.com/t/icmeetupsorg/shared invite/zt-1322kiwv5-JmnpSK3flrqomQvnmMCSog",
+  "conference_id": null,
+  "date_time": "2022-03-16T14:00:00-04:00",
+  "end_time": "2022-03-16T15:00:00-04:00",
+  "event_id": "284364817",
+  "event_title": "IBM Data Science Community: Trustworthy Machine Learning",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-trustworthy-machine-learning-kush-r:ibm-data-science-community-trustworthy-machine-learning",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:apache-spark"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-trustworthy-machine-learning-kush-r.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-trustworthy-machine-learning-kush-r"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/284364817/"
+  ],
+  "speaker_ids": [
+    "speaker:kush-r",
+    "speaker:yorktown-heights"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:kush-r",
+      "name": "Kush R",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:yorktown-heights",
+      "name": "Yorktown Heights",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "IBM Data Science Community: Trustworthy Machine Learning",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/284364817/"
+}

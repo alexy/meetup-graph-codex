@@ -1,0 +1,40 @@
+{
+  "abstract": "Do you hate JavaScript? Have you ever had a runtime error in your frontend? Is your UI written in Scala but you can't hire any frontend developers to work on it or backend developers that want to? Come hear about how Domino Data Lab faced these exact problems. Through trial and error we developed a way to inject React code into Scala Play, which maintains typesafety and takes advantage of JavaScript libraries to make frontend building faster. About the speaker: Niole Nelson builds Domino Data Lab's frontend. She likes to focus on making it harder to introduce runtime bugs and speed up development. While she isn't doing that, she is usually weight lifting or rock climbing. Her newest hobby is watching league of legends streamers, though she doesn't actually play the game",
+  "conference_id": null,
+  "date_time": "2019-06-05T18:00:00-07:00",
+  "end_time": "2019-06-05T20:00:00-07:00",
+  "event_id": "261857265",
+  "event_title": "Integrating React with Scala at Domino Data Lab",
+  "github_repositories": [],
+  "id": "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson:integrating-react-with-scala-at-domino-data-lab",
+  "kind": "talk",
+  "meetup_id": "meetup:20929747",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-graphql-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/graphql-by-the-bay/events/261857265/"
+  ],
+  "speaker_ids": [
+    "speaker:niole-nelson"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:niole-nelson",
+      "name": "Niole Nelson",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Integrating React with Scala at Domino Data Lab",
+  "type": "talk",
+  "url": "https://www.meetup.com/graphql-by-the-bay/events/261857265/"
+}

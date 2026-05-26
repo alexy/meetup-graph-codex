@@ -1,0 +1,18 @@
+{
+  "id": "company:kbr",
+  "name": "KBR",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-dr-ivan-perez-dr-ivan-perez-nasa-ames-research-center-senior-research-scientist.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-dr-ivan-perez-dr-ivan-perez-nasa-ames-research-center-senior-research-scientist"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:dr-ivan-perez"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

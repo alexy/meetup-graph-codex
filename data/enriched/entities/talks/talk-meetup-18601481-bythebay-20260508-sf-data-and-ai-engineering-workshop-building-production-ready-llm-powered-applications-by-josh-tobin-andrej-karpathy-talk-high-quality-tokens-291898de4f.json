@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2023-11-13T08:00:00-08:00",
+  "end_time": "2023-11-13T16:00:00-08:00",
+  "event_id": "296212677",
+  "event_title": "Workshop: \"Building production-ready LLM-powered applications\" by Josh Tobin",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-talk:high-quality-tokens",
+  "kind": "talk",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/296212677/"
+  ],
+  "speaker_ids": [
+    "speaker:andrej-karpathy"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:andrej-karpathy",
+      "name": "Andrej Karpathy",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "high quality tokens",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/296212677/"
+}

@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:versal",
+  "name": "Versal",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz",
+    "bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/187365722/",
+    "https://www.meetup.com/scala-bay/events/208276632/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz:functional-apis-in-scala",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas-talk-1:putting-functional-programming-to-work"
+  ],
+  "type": "project"
+}

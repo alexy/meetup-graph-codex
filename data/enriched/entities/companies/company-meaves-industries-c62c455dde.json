@@ -1,0 +1,20 @@
+{
+  "id": "company:meaves-industries",
+  "name": "Meaves Industries",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-malcolm-greaves-meaves-industries.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-malcolm-greaves-meaves-industries"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:malcolm-greaves"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-by-the-bay-meetup-at-nitro-fp-meets-ml-avro-schemas-apache-avro:scala-by-the-bay-meetup-at-nitro-fp-meets-ml"
+  ],
+  "type": "company"
+}

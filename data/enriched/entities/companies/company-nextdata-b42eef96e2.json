@@ -1,0 +1,20 @@
+{
+  "id": "company:nextdata",
+  "name": "Nextdata",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-zhamak-dehghani-nextdata.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-zhamak-dehghani-nextdata"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:zhamak-dehghani"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-from-data-2-0-to-data-3-0-making-data-autonomous-for-ai-zhamak-dehghani:from-data-2-0-to-data-3-0-making-data-autonomous-for-ai"
+  ],
+  "type": "company"
+}

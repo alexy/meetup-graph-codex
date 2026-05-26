@@ -1,0 +1,40 @@
+{
+  "abstract": "Kannupriya Kalra is a functional programming enthusiast and Scala developer with 10 years of experience in building scalable software solutions. Currently a Software Engineer at Sky in London, she develops and maintains critical backend applications using functional Scala. She has previously contributed to Scala projects in various organizations in India, focusing on data engineering. Her expertise includes Scala, Akka, and big data technologies As a Google Summer of Code 2024 mentor with Scala Center, she contributed to Scaladex and Scala CLI projects. Additionally, Kannupriya is the org admin for the Google Summer of Code 2025 program with Scala Center, where she plays a pivotal role in guiding and shaping future open-source contributions. In 2024, she represented Scala Center at the Google Open Source Conference in Sunnyvale, California. With a passion for sharing knowledge, Kannupriya has delivered talks in four countries, inspiring and engaging developers worldwide Learn more about Kannupriya Kalra on LinkedIn: https://www.linkedin.com/in/kannupriyakalra/",
+  "conference_id": null,
+  "date_time": "2025-02-25T17:30:00-08:00",
+  "end_time": "2025-02-25T20:00:00-08:00",
+  "event_id": "306178453",
+  "event_title": "Designing the library powering Netflix's QoE & Teach LLMs to write great Scala",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-4:about-kannupriya-kalra",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-4"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/306178453/"
+  ],
+  "speaker_ids": [
+    "speaker:kannupriya-kalra"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:kannupriya-kalra",
+      "name": "Kannupriya Kalra",
+      "title": "functional programming enthusiast and Scala developer"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "About Kannupriya Kalra",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/306178453/"
+}

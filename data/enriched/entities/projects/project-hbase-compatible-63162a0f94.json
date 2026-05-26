@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:hbase-compatible",
+  "name": "HBase-compatible",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-big-data-scala-kafka-and-ohmdata-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-big-data-scala-kafka-and-ohmdata-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/178464502/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-big-data-scala-kafka-and-ohmdata-event:big-data-scala-kafka-and-ohmdata"
+  ],
+  "type": "project"
+}

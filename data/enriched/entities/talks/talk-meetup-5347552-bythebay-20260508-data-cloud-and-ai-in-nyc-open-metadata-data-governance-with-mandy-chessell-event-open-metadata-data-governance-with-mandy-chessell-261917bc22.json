@@ -1,0 +1,35 @@
+{
+  "abstract": "Hear from Mandy Chessell, IBM Distinguished Engineer & data governance expert, on managing metadata, compliance, GDPR, data catalogs & governance - and how to become a data driven organization. There will be plenty of time for discussion and a call to action: how you can participate in developing methods to automate data governance across the industry through the ODPi data governance initiative at the Linux Foundation https://www.odpi.org/projects/data-governance-pmc & https://github.com/odpi/data-governance Agenda: - 6:15-6:30pm - Networking - 6:30-7:15pm - Mandy Chessell on Open Metadata & Data Governance - 7:15-7:45pm - Discussion & Q&A & exploration of Secure Engineering Practices Secure Operations Practices Privacy by design - 7:45-8:00pm - Participating in call-for-code - 8:00-8:30pm - Networking",
+  "conference_id": null,
+  "date_time": "2018-06-13T18:15:00-04:00",
+  "end_time": "2018-06-13T20:30:00-04:00",
+  "event_id": "251479579",
+  "event_title": "Open Metadata & Data Governance with Mandy Chessell",
+  "github_repositories": [
+    "https://github.com/odpi/data-governance"
+  ],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-open-metadata-data-governance-with-mandy-chessell-event:open-metadata-data-governance-with-mandy-chessell",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:https-github-com-odpi-data-governance"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-open-metadata-data-governance-with-mandy-chessell-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-open-metadata-data-governance-with-mandy-chessell-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/251479579/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Open Metadata & Data Governance with Mandy Chessell",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/251479579/"
+}

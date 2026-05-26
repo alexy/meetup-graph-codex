@@ -1,0 +1,40 @@
+{
+  "abstract": "In this talk, the maintainers of the vLLM project will give an overview of the vLLM project, the progress made over the last few months, and preview roadmaps. The talk will be technical and dive into interesting details of vLLM's codebase Zhuohan Li is a CS PhD student at UC Berkeley, where he is advised by Professor Ion Stoica. He is interested in designing and building efficient machine learning systems. Recently, he has been focusing on the training and serving of large models, specifically LLMs. His works include Alpa, AlpaServe, Vicuna, and vLLM (PagedAttention). He completed his BS at Peking University and has interned at Microsoft Research, Anyscale, and Google Brain Woosuk Kwon is a CS PhD student at UC Berkeley, where he is advised by Prof. Ion Stoica. His research interest lies in building practical, flexible, and high-performance software systems for emerging applications such as large language models. He completed his BS at Seoul National University Update : AI Alliance is sponsoring the afterparty at the AI User Conference. All registered attendees of this meetup are invited to the afterparty at Hibernia, 1 Jones St., starting at 8pm, after our meetup ends! You have to be on the Luma list as attending to go to the afterparty, and also be at the meetup in person",
+  "conference_id": null,
+  "date_time": "2024-01-31T16:00:00-08:00",
+  "end_time": "2024-01-31T19:00:00-08:00",
+  "event_id": "298461968",
+  "event_title": "[External Registration Required] AI Alliance and vLLM",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-external-registration-required-ai-alliance-and-vllm-event-talk-2:vllm-project-update-zhuohan-li-woosuk-kwon-uc-berkeley",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-external-registration-required-ai-alliance-and-vllm-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-external-registration-required-ai-alliance-and-vllm-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/298461968/"
+  ],
+  "speaker_ids": [
+    "speaker:google-brain-woosuk-kwon"
+  ],
+  "speakers": [
+    {
+      "company_name": "UC Berkeley",
+      "id": "speaker:google-brain-woosuk-kwon",
+      "name": "Google Brain. Woosuk Kwon",
+      "title": "CS PhD student"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "vLLM Project Update, Zhuohan Li, Woosuk Kwon, UC Berkeley",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/298461968/"
+}

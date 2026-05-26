@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "IBM Research - Brazil"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:eduardo-soares",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Eduardo Soares",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-smi-ted-open-source-foundation-model-for-chemical-modeling-eduardo-soares-ibm-research-brazil.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-smi-ted-open-source-foundation-model-for-chemical-modeling-eduardo-soares-ibm-research-brazil.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-smi-ted-open-source-foundation-model-for-chemical-modeling-eduardo-soares-ibm-research-brazil",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-smi-ted-open-source-foundation-model-for-chemical-modeling-eduardo-soares-ibm-research-brazil"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/307201381/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-smi-ted-open-source-foundation-model-for-chemical-modeling-eduardo-soares-ibm-researc:smi-ted-open-source-foundation-model-for-chemical-modeling"
+  ],
+  "title": "IBM Research - Brazil",
+  "titles": [
+    "IBM Research - Brazil"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,48 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:nextdata",
+      "company_name": "Nextdata",
+      "title": "Founder and CEO"
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Founder and CEO Nextdata"
+    }
+  ],
+  "company_id": "company:nextdata",
+  "company_ids": [
+    "company:nextdata"
+  ],
+  "company_name": "Nextdata",
+  "company_names": [
+    "Nextdata"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:zhamak-dehghani",
+  "meetup_ids": [],
+  "name": "Zhamak Dehghani",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-zhamak-dehghani-nextdata.json",
+    "data/raw/sources/bythebay-20260508-from-data-2-0-to-data-3-0-making-data-autonomous-for-ai-zhamak-dehghani.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-zhamak-dehghani-nextdata",
+    "bythebay-20260508-from-data-2-0-to-data-3-0-making-data-autonomous-for-ai-zhamak-dehghani"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-from-data-2-0-to-data-3-0-making-data-autonomous-for-ai-zhamak-dehghani:from-data-2-0-to-data-3-0-making-data-autonomous-for-ai"
+  ],
+  "title": "Founder and CEO",
+  "titles": [
+    "Founder and CEO",
+    "Founder and CEO Nextdata"
+  ],
+  "type": "speaker"
+}

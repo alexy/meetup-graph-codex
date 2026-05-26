@@ -1,0 +1,32 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:saurabh-mishra",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Saurabh Mishra",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock",
+    "bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock-talk-2",
+    "bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/286632590/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock-talk-2:confirmed-sessions",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock-talk-3:onnx-community-meetup-microsoft-lf-ai-data-day"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:ansi-99-sql",
+  "name": "ANSI-99 SQL",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-march-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-march-sf-hadoop-users-meetup-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/219155223/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-march-sf-hadoop-users-meetup-event-talk-2:using-hbase-as-a-foundation-of-a-distributed-transactional-rdbms"
+  ],
+  "type": "project"
+}

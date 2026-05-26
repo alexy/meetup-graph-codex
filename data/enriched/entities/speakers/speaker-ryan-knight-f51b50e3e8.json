@@ -1,0 +1,58 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:ryan-knight",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:1755011",
+    "meetup:18601481",
+    "meetup:18748975",
+    "meetup:20929747"
+  ],
+  "name": "Ryan Knight",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2018-ryan-knight-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scale-by-the-bay-2018-ryan-knight-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-scale-by-the-bay-2018-ryan-knight-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-scale-by-the-bay-2018-ryan-knight-2.json",
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-2018-ryan-knight-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scale-by-the-bay-2018-ryan-knight.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-scale-by-the-bay-2018-ryan-knight.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2018-ryan-knight.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-scale-by-the-bay-2018-ryan-knight.json",
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-2018-ryan-knight.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2018-ryan-knight-2",
+    "bythebay-20260508-sf-scala-scale-by-the-bay-2018-ryan-knight-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-scale-by-the-bay-2018-ryan-knight-2",
+    "bythebay-20260508-scale-by-the-bay-scale-by-the-bay-2018-ryan-knight-2",
+    "bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-2018-ryan-knight-2",
+    "bythebay-20260508-sf-scala-scale-by-the-bay-2018-ryan-knight",
+    "bythebay-20260508-sf-data-and-ai-engineering-scale-by-the-bay-2018-ryan-knight",
+    "bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2018-ryan-knight",
+    "bythebay-20260508-scale-by-the-bay-scale-by-the-bay-2018-ryan-knight",
+    "bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-2018-ryan-knight"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/253351238/",
+    "https://www.meetup.com/sf-scala/events/253351034/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/253351201/",
+    "https://www.meetup.com/bythebay/events/253592257/",
+    "https://www.meetup.com/graphql-by-the-bay/events/253592291/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scale-by-the-bay-2018-ryan-knight:scale-by-the-bay-2018",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-scale-by-the-bay-2018-ryan-knight:scale-by-the-bay-2018",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2018-ryan-knight:scale-by-the-bay-2018",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-scale-by-the-bay-2018-ryan-knight:scale-by-the-bay-2018",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-scale-by-the-bay-2018-ryan-knight:scale-by-the-bay-2018"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

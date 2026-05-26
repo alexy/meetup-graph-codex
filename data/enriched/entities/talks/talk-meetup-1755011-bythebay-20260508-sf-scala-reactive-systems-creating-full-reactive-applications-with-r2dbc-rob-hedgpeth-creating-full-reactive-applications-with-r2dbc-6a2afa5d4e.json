@@ -1,0 +1,40 @@
+{
+  "abstract": "This is a joint meetup with Reactive Systems: https://www.meetup.com/reactive-systems/events/272491784/ Not too long ago, a reactive variant of the JDBC API was released, known as Reactive Relational Database Connectivity (R2DBC for short). While R2DBC started as an experiment to enable integration of SQL databases into systems that use reactive programming models, it now specifies a robust service-provider interface that can be used to manage data in a fully-reactive and completely non-blocking fashion. Join us as we take a look at the R2DBC specification as well as client implementations that make working with relational databases truly reactive. Then, using the recently released MariaDB R2DBC connector, we'll get a first-hand look at the advantages, via a live coding demonstration, to see just what it’s like to use R2DBC in an application! Speaker Bio Rob Hedgpeth has been slinging code since the early 2000's. Like many others, he started his journey by building pretty horrendous looking websites. Fortunately, for the world, he has since evolved and has branched out to a variety of projects across web, desktop, mobile, and IoT. Throughout the years he has contributed to the architecture and development of many apps using a large array of languages and technologies. Now as a developer evangelist for MariaDB, Rob gets to combine his love for technology with his mission to fuel developers' curiosity and passion",
+  "conference_id": null,
+  "date_time": "2020-08-20T17:30:00-07:00",
+  "end_time": "2020-08-20T19:00:00-07:00",
+  "event_id": "272678677",
+  "event_title": "[Reactive Systems] Creating full reactive applications with R2DBC",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-reactive-systems-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth:creating-full-reactive-applications-with-r2dbc",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-reactive-systems-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-reactive-systems-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/272678677/"
+  ],
+  "speaker_ids": [
+    "speaker:rob-hedgpeth"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:rob-hedgpeth",
+      "name": "Rob Hedgpeth",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Creating full reactive applications with R2DBC",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/272678677/"
+}

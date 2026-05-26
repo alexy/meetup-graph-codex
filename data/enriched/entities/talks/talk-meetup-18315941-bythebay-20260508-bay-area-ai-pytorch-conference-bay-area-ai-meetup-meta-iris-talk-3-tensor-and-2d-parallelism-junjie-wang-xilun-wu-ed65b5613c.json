@@ -1,0 +1,61 @@
+{
+  "abstract": "Iris Zhang, Meta Junjie Wang , Software Engineer, Meta Junjie is a software engineer working on PyTorch distributed, especially Tensor Parallel and Sequence Parallel. Working on multiple projects within Meta but eventually found passion in PyTorch Xilun Wu , Software Engineer, Meta Xilun is a software engineer on PyTorch Distributed at Meta Platforms. He has been actively contributing to PyTorch Distributed components including DTensor and TCPStore, as well as third-party dependencies like Gloo. His most recent focus is on scaling TCPStore and ProcessGroup for large training clusters Iris Zhang , Software Engineer, Meta Iris is a software engineer from PyTorch Distributed team at Meta. Iris works on PyTorch DeviceMesh based Distributed APIs as well as Distributed Checkpointing",
+  "conference_id": null,
+  "date_time": "2023-10-18T16:00:00-07:00",
+  "end_time": "2023-10-18T19:00:00-07:00",
+  "event_id": "296052494",
+  "event_title": "PyTorch Conference + Bay Area AI Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris-talk-3:tensor-and-2d-parallelism-junjie-wang-xilun-wu",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/296052494/"
+  ],
+  "speaker_ids": [
+    "speaker:iris-zhang-meta",
+    "speaker:meta-junjie",
+    "speaker:meta-xilun",
+    "speaker:meta-iris"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:iris-zhang-meta",
+      "name": "Iris Zhang, Meta",
+      "title": null
+    },
+    {
+      "company_name": "Wang",
+      "id": "speaker:meta-junjie",
+      "name": "Meta Junjie",
+      "title": "Software Engineer"
+    },
+    {
+      "company_name": "Meta Platforms",
+      "id": "speaker:meta-xilun",
+      "name": "Meta Xilun",
+      "title": "software engineer on PyTorch Distributed"
+    },
+    {
+      "company_name": "Meta",
+      "id": "speaker:meta-iris",
+      "name": "Meta Iris",
+      "title": "software engineer from PyTorch Distributed team"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Tensor and 2D Parallelism -- Junjie Wang, Xilun Wu,",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/296052494/"
+}

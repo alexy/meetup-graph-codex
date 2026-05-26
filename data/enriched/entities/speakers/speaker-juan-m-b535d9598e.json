@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:juan-m",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Juan M",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-juan-manuel-serrano-tagless-final-abstraction-without-guilt-habla-computing-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-juan-manuel-serrano-tagless-final-abstraction-without-guilt-habla-computing.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-juan-manuel-serrano-tagless-final-abstraction-without-guilt-habla-computing-2",
+    "bythebay-20260508-scala-bay-juan-manuel-serrano-tagless-final-abstraction-without-guilt-habla-computing"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/272939887/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-juan-manuel-serrano-tagless-final-abstraction-without-guilt-habla-computing:juan-manuel-serrano-tagless-final-abstraction-without-guilt"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

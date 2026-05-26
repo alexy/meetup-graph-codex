@@ -1,0 +1,54 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:philipp-haller",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Philipp Haller",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-unraveling-delimited-continuations-frank-sommers-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-play-2-0-with-peter-hausel-of-typesafe-frank-sommers.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-josh-suereth-sbt-introduction-and-cookbook-frank-sommers.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-usage-at-twitter-frank-sommers.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-at-linkedin-frank-sommers.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-usage-at-twitter-hq-repeat-presentation-frank-sommers.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-five-akka-scala-concurrency-options-frank-sommers.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-unraveling-delimited-continuations-frank-sommers.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-unraveling-delimited-continuations-frank-sommers-2",
+    "bythebay-20260508-scala-bay-play-2-0-with-peter-hausel-of-typesafe-frank-sommers",
+    "bythebay-20260508-scala-bay-josh-suereth-sbt-introduction-and-cookbook-frank-sommers",
+    "bythebay-20260508-scala-bay-scala-usage-at-twitter-frank-sommers",
+    "bythebay-20260508-scala-bay-scala-at-linkedin-frank-sommers",
+    "bythebay-20260508-scala-bay-scala-usage-at-twitter-hq-repeat-presentation-frank-sommers",
+    "bythebay-20260508-scala-bay-five-akka-scala-concurrency-options-frank-sommers",
+    "bythebay-20260508-scala-bay-unraveling-delimited-continuations-frank-sommers"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/69366042/",
+    "https://www.meetup.com/scala-bay/events/43944352/",
+    "https://www.meetup.com/scala-bay/events/44582312/",
+    "https://www.meetup.com/scala-bay/events/57195142/",
+    "https://www.meetup.com/scala-bay/events/57803812/",
+    "https://www.meetup.com/scala-bay/events/59580782/",
+    "https://www.meetup.com/scala-bay/events/64044672/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-play-2-0-with-peter-hausel-of-typesafe-frank-sommers:play-2-0-with-peter-hausel-of-typesafe",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-josh-suereth-sbt-introduction-and-cookbook-frank-sommers:josh-suereth-sbt-introduction-and-cookbook",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-usage-at-twitter-frank-sommers:scala-usage-at-twitter",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-at-linkedin-frank-sommers:scala-at-linkedin",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-usage-at-twitter-hq-repeat-presentation-frank-sommers:scala-usage-at-twitter-hq-repeat-presentation",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-five-akka-scala-concurrency-options-frank-sommers:five-akka-scala-concurrency-options",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-unraveling-delimited-continuations-frank-sommers:unraveling-delimited-continuations"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

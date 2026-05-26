@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Bio: Susan is a software engineer"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:susan-romero",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Susan Romero",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter-2",
+    "bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/225350988/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter-talk-2:machine-learning-using-your-data-in-spark-distributing-jobs-on-your-yarn-cluster"
+  ],
+  "title": "Bio: Susan is a software engineer",
+  "titles": [
+    "Bio: Susan is a software engineer"
+  ],
+  "type": "speaker"
+}

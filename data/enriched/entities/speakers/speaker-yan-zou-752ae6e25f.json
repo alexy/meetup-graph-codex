@@ -1,0 +1,36 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Head of Product"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:yan-zou",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Yan Zou",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-december-sf-hadoop-users-meetup-fortune-magazine.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-december-sf-hadoop-users-meetup-fortune-magazine-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/219004016/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-december-sf-hadoop-users-meetup-fortune-magazine-talk-2:h2o-big-data-machine-learning-for-everyone"
+  ],
+  "title": "Head of Product",
+  "titles": [
+    "Head of Product"
+  ],
+  "type": "speaker"
+}

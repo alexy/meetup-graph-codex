@@ -1,0 +1,21 @@
+{
+  "id": "company:5-45pm-reimagining-functional-type-classes-by",
+  "name": "5.45pm Reimagining Functional Type Classes by",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1",
+    "bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/270897048/",
+    "https://www.meetup.com/bythebay/events/270897090/"
+  ],
+  "speaker_ids": [
+    "speaker:salar-rahmanian"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

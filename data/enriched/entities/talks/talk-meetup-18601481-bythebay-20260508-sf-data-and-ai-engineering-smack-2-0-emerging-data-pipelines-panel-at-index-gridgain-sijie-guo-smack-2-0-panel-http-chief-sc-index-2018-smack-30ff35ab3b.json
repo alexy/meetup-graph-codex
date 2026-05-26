@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2018-02-22T14:00:00-08:00",
+  "end_time": "2018-02-22T17:00:00-08:00",
+  "event_id": "247629043",
+  "event_title": "SMACK 2.0: Emerging Data Pipelines Panel at Index",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo:smack-2-0-panel-http-chief-sc-index-2018-smack20-panel-is-held-on-2-22-at-2pm-preceded",
+  "kind": "talk",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/247629043/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "SMACK 2.0 panel (http://chief.sc/index-2018-smack20-panel) is held on 2/22 at 2pm, preceded",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/247629043/"
+}

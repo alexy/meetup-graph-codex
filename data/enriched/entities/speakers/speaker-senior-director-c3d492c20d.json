@@ -1,0 +1,73 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:chartboost",
+      "company_name": "Chartboost",
+      "title": "Engineering"
+    },
+    {
+      "company_id": "company:akamai",
+      "company_name": "Akamai",
+      "title": "of Developer Relations"
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "of Product Management, HP Security Voltage A key driver to getting Hadoop into production is enabling rapid time-to-insight"
+    }
+  ],
+  "company_id": "company:chartboost",
+  "company_ids": [
+    "company:chartboost",
+    "company:akamai"
+  ],
+  "company_name": "Chartboost",
+  "company_names": [
+    "Chartboost",
+    "Akamai"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:senior-director",
+  "meetup_ids": [
+    "meetup:18601481",
+    "meetup:36468260",
+    "meetup:1731963"
+  ],
+  "name": "Senior Director",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov-2.json",
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-the-4th-ai-alliance-meetup-the-unstructured-data-meetup-christopher-nguyen-2.json",
+    "data/raw/sources/bythebay-20260508-context-is-all-you-need-the-art-and-science-of-information-design-lena-hall-akamai.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov.json",
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-the-4th-ai-alliance-meetup-the-unstructured-data-meetup-christopher-nguyen.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov-2",
+    "bythebay-20260508-unstructured-data-meetup-bay-area-the-4th-ai-alliance-meetup-the-unstructured-data-meetup-christopher-nguyen-2",
+    "bythebay-20260508-context-is-all-you-need-the-art-and-science-of-information-design-lena-hall-akamai",
+    "bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2-talk-1",
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov",
+    "bythebay-20260508-unstructured-data-meetup-bay-area-the-4th-ai-alliance-meetup-the-unstructured-data-meetup-christopher-nguyen"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/239736345/",
+    "https://www.meetup.com/unstructured-data-sf/events/300478757/",
+    "https://www.meetup.com/hadoopsf/events/220286707/"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-context-is-all-you-need-the-art-and-science-of-information-design-lena-hall-akamai:context-is-all-you-need-the-art-and-science-of-information-design",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2-talk-1:securing-hadoop-data-use-cases-for-data-centric-security-in-hadoop",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov:spark-in-adtech",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-the-4th-ai-alliance-meetup-the-unstructured-data-meetup-christopher-nguyen:the-4th-ai-alliance-meetup-the-unstructured-data-meetup"
+  ],
+  "title": "Engineering",
+  "titles": [
+    "Engineering",
+    "of Developer Relations",
+    "of Product Management, HP Security Voltage A key driver to getting Hadoop into production is enabling rapid time-to-insight"
+  ],
+  "type": "speaker"
+}

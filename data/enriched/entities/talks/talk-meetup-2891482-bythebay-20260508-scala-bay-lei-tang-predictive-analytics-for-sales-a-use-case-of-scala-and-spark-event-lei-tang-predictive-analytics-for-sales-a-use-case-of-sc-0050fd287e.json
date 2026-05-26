@@ -1,0 +1,31 @@
+{
+  "abstract": "Title: Predictive Analytics for Sales: A Use Case of Scala and Spark Abstract: With the emergence of big data and availability of modern machine learning tools, data science and analytics are able to revolutionize all kinds of areas. Yet, data itself does not bring advantages, unless one can turn big data into smart data with insights, decisions and actions. In this talk, we adopt a particular domain, enterprise sales, to showcase different types of analytics and present challenges associated with each. We discuss how Scala and Spark are adopted for fast data exploration and deployment in Clari. By sifting through sales records and associated sales activities, we are able to figure out the win/loss probability of each opportunity, and projected time to close a deal, which in turn contribute to a reliable financial forecast for sales managers and executives. Lessons learned through the process will be shared as well. Bio: Dr. Lei Tang is Head of Data Science at Clari Inc., a leader in predictive analytics and sales management solutions. Lei holds a Ph.D. in computer science from Arizona State University. Before joining Clari, Lei has plenty of experience on advertising, targeting, recommendation, and social media mining, at both Yahoo! Labs and @WalmartLabs. His book titled Community Detection and Mining in Social Media has been the top download in the data mining lecture series of the Morgan & Claypool publishers. He has published over 30 peer-reviewed articles at top-notch conferences and journals, with more than 2200 citations. More info can be found at his homepage: http://leitang.net/ Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "conference_id": null,
+  "date_time": "2015-04-13T19:00:00-07:00",
+  "end_time": "2015-04-13T22:00:00-07:00",
+  "event_id": "220959686",
+  "event_title": "Lei Tang, Predictive Analytics for Sales: A Use Case of Scala and Spark",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-lei-tang-predictive-analytics-for-sales-a-use-case-of-scala-and-spark-event:lei-tang-predictive-analytics-for-sales-a-use-case-of-scala-and-spark",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-lei-tang-predictive-analytics-for-sales-a-use-case-of-scala-and-spark-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-lei-tang-predictive-analytics-for-sales-a-use-case-of-scala-and-spark-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/220959686/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Lei Tang, Predictive Analytics for Sales: A Use Case of Scala and Spark",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/220959686/"
+}

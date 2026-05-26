@@ -1,0 +1,22 @@
+{
+  "id": "company:expert-labs",
+  "name": "Expert Labs",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-getting-started-with-quantum-computing-hands-on-hemavathi-santhanam-expert-labs.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-getting-started-with-quantum-computing-hands-on-hemavathi-santhanam-expert-labs"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291796287/"
+  ],
+  "speaker_ids": [
+    "speaker:hemavathi-santhanam"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-getting-started-with-quantum-computing-hands-on-hemavathi-santhanam-expert-labs:getting-started-with-quantum-computing-hands-on",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-hemavathi-santhanam:quantum-series-part-2-getting-started-with-quantum-computing-hands-on",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-3-utility-scale-quantum-computing-hemavathi-santhanam:quantum-series-part-3-utility-scale-quantum-computing"
+  ],
+  "type": "company"
+}

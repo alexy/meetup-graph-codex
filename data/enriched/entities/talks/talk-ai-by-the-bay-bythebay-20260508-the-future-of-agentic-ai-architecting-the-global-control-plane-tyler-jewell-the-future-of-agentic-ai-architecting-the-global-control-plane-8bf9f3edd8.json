@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-the-future-of-agentic-ai-architecting-the-global-control-plane-tyler-jewell:the-future-of-agentic-ai-architecting-the-global-control-plane",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-the-future-of-agentic-ai-architecting-the-global-control-plane-tyler-jewell.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-the-future-of-agentic-ai-architecting-the-global-control-plane-tyler-jewell"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:tyler-jewell"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:tyler-jewell",
+      "name": "Tyler Jewell",
+      "title": "CEO & President of Akka"
+    }
+  ],
+  "tags": [
+    "AI Infrastructure",
+    "Agentic AI",
+    "LLMOps",
+    "AI Security"
+  ],
+  "title": "The Future of Agentic AI: Architecting the Global Control Plane",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/the-future-of-agentic-ai-architecting-the-global-control-plane"
+}

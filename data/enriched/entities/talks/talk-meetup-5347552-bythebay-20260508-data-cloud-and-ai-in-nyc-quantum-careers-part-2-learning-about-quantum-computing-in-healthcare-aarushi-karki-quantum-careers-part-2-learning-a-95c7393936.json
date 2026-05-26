@@ -1,0 +1,54 @@
+{
+  "abstract": "Please join the session that is best suited to your time zone...this topic is repeated at 2 different times. Join us for an enlightening exploration of how IBM Quantum is transforming healthcare. In this presentation, we'll delve into compelling use-cases that showcase the groundbreaking potential of quantum computing in the healthcare and life sciences sectors. Whether you're a healthcare professional, a tech enthusiast, or simply curious about the future of healthcare, this presentation promises insights that could shape the future of medicine and healthcare. Note that this is part 2 of a 4-session series \"Quantum Horizon: Exploring the Frontier in Quantum Computing Careers\" on Oct 25/26, Nov 8/9, Nov 29/30, Dec 6/7. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions. Presenters: Aarushi Karki, Wiktor Mazin Aarushi Karki 's background in Physics, specialising in Biophysics and medical research procedures, has paved the way for her deep interest in quantum technologies for healthcare applications. With over 5+ years of experience in laboratory environments, she has cultivated a passion for bridging scientific theory with real-world solutions. As a new member of IBM's Healthcare and Life Sciences (HCLS) Quantum Guild, she is excited to explore the exciting potential of quantum computing in healthcare and beyond. In her day role, she is a data engineer developing efficient and reliable data pipelines. These pipelines automate the seamless movement of data from source to destination while performing necessary and efficient transformations along the way. Wiktor Mazin is a Quantum Industry Application Consultant in Healthcare and Life Sciences in IBM Quantum and a Qiskit Advocate. Prior to joining IBM, Wiktor worked more than 10 years with data science and ML in biotech and healthcare, with biomarker analysis and personalized medicine in oncology and psychiatric diseases. Wiktor holds a M.Sc. in Engineering, a Ph.D. in Biophysics and an eMBA from the Technical University of Denmark (DTU). \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/rae96783bbdb2d73231c9a43a4a1750a0",
+  "conference_id": null,
+  "date_time": "2023-11-08T08:00:00-05:00",
+  "end_time": "2023-11-08T09:00:00-05:00",
+  "event_id": "296566558",
+  "event_title": "Quantum Careers - Part 2: Learning about Quantum Computing in Healthcare",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-2-learning-about-quantum-computing-in-healthcare-aarushi-karki:quantum-careers-part-2-learning-about-quantum-computing-in-healthcare",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-2-learning-about-quantum-computing-in-healthcare-aarushi-karki.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-2-learning-about-quantum-computing-in-healthcare-aarushi-karki"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/296566558/"
+  ],
+  "speaker_ids": [
+    "speaker:aarushi-karki",
+    "speaker:wiktor-mazin",
+    "speaker:wiktor-mazin-aarushi-karki-s"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:aarushi-karki",
+      "name": "Aarushi Karki",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:wiktor-mazin",
+      "name": "Wiktor Mazin",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:wiktor-mazin-aarushi-karki-s",
+      "name": "Wiktor Mazin Aarushi Karki's",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Quantum Careers - Part 2: Learning about Quantum Computing in Healthcare",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/296566558/"
+}

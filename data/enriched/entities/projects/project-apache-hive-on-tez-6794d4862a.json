@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-hive-on-tez",
+  "name": "Apache Hive-on-Tez",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-may-2016-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-may-2016-meetup-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/229848416/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-may-2016-meetup-event:may-2016-meetup"
+  ],
+  "type": "project"
+}

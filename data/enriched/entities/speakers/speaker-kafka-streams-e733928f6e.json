@@ -1,0 +1,45 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:kafka-streams",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:1755011",
+    "meetup:18601481",
+    "meetup:18748975"
+  ],
+  "name": "Kafka Streams",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-apache-kafka-summit-meetup-dean-wampler-lightbend-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-apache-kafka-summit-meetup-dean-wampler-lightbend.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend",
+    "bythebay-20260508-sf-scala-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend",
+    "bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend",
+    "bythebay-20260508-scale-by-the-bay-apache-kafka-summit-meetup-dean-wampler-lightbend-2",
+    "bythebay-20260508-scale-by-the-bay-apache-kafka-summit-meetup-dean-wampler-lightbend"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/242796490/",
+    "https://www.meetup.com/sf-scala/events/242796345/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/242796420/",
+    "https://www.meetup.com/bythebay/events/242744831/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-apache-kafka-summit-meetup-dean-wampler-lightbend:apache-kafka-summit-meetup",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend:apache-kafka-summit-meetup-streams-api-istio",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend:apache-kafka-summit-meetup-streams-api-istio",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend:apache-kafka-summit-meetup-streams-api-istio"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

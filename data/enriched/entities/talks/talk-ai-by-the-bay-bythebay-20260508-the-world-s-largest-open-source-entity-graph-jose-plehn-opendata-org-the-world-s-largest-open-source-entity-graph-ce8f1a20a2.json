@@ -1,0 +1,35 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-the-world-s-largest-open-source-entity-graph-jose-plehn-opendata-org:the-world-s-largest-open-source-entity-graph",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-the-world-s-largest-open-source-entity-graph-jose-plehn-opendata-org.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-the-world-s-largest-open-source-entity-graph-jose-plehn-opendata-org"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:jose-plehn"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:jose-plehn",
+      "name": "Jose Plehn",
+      "title": "CEO"
+    }
+  ],
+  "tags": [],
+  "title": "The World's Largest Open Source Entity Graph",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/the-worlds-largest-open-source-entity-graph"
+}

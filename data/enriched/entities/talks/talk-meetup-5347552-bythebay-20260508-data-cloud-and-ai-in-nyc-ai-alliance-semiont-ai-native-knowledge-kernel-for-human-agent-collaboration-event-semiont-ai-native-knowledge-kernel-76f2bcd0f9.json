@@ -1,0 +1,33 @@
+{
+  "abstract": "Meet Semiont, the wiki-like knowledge base supporting graph retrieval, where humans and agents co-create Knowledge. Includes MCP server. About the presenter Adam Pingel (LinkedIn, GitHub) is IBM's Head of Open Tools and Applications for the AI Alliance. Adam has been fascinated by AI and chatbots since playing with Racter in the 80’s. But the “winters” were long and frequent. The stars aligned in 2015 when he became VPE at Ravel Law. Ravel was building AI-powered tools for the legal industry and was working with Harvard Law School on what is now known as the Caselaw Access Project. After an acquisition by LexisNexis in 2017, he moved his family to Raleigh (in 2019) to take the role of CTO of Global Platforms. In 2022 he joined IBM to work on domain-specific applications of generative AI. Adam holds an MS and BS in CS from UCLA and Stanford, respectively. When not at a keyboard, he enjoys spending time with his family. About the AI Alliance The AI Alliance is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players. Join the community Sign up for the AI Alliance newsletter (check the website footer) and join our new AI Alliance Discord",
+  "conference_id": null,
+  "date_time": "2025-11-20T12:00:00-05:00",
+  "end_time": "2025-11-20T13:00:00-05:00",
+  "event_id": "311870230",
+  "event_title": "[AI Alliance] SEMIONT - AI-Native Knowledge Kernel for Human/Agent Collaboration",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-semiont-ai-native-knowledge-kernel-for-human-agent-collaboration-event:semiont-ai-native-knowledge-kernel-for-human-agent-collaboration",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:semiont"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-semiont-ai-native-knowledge-kernel-for-human-agent-collaboration-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-semiont-ai-native-knowledge-kernel-for-human-agent-collaboration-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/311870230/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "SEMIONT - AI-Native Knowledge Kernel for Human/Agent Collaboration",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/311870230/"
+}

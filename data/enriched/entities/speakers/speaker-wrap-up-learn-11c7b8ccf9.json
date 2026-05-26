@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:code-global-https",
+      "company_name": "Code Global (https",
+      "title": "more about the 2022 Call"
+    }
+  ],
+  "company_id": "company:code-global-https",
+  "company_ids": [
+    "company:code-global-https"
+  ],
+  "company_name": "Code Global (https",
+  "company_names": [
+    "Code Global (https"
+  ],
+  "conference_ids": [],
+  "id": "speaker:wrap-up-learn",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Wrap-up Learn",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/288088486/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event-talk-2:call-for-code-comes-to-you-new-york-city"
+  ],
+  "title": "more about the 2022 Call",
+  "titles": [
+    "more about the 2022 Call"
+  ],
+  "type": "speaker"
+}

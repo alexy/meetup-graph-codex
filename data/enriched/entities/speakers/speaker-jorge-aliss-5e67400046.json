@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:play-framework-applications",
+      "company_name": "Play Framework applications",
+      "title": null
+    }
+  ],
+  "company_id": "company:play-framework-applications",
+  "company_ids": [
+    "company:play-framework-applications"
+  ],
+  "company_name": "Play Framework applications",
+  "company_names": [
+    "Play Framework applications"
+  ],
+  "conference_ids": [],
+  "id": "speaker:jorge-aliss",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Jorge Aliss",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-effective-scala-at-box-in-los-altos-jorge-aliss-play-framework-applications-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-effective-scala-at-box-in-los-altos-jorge-aliss-play-framework-applications.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-effective-scala-at-box-in-los-altos-jorge-aliss-play-framework-applications-2",
+    "bythebay-20260508-scala-bay-effective-scala-at-box-in-los-altos-jorge-aliss-play-framework-applications"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/76919492/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-effective-scala-at-box-in-los-altos-jorge-aliss-play-framework-applications:effective-scala-at-box-in-los-altos"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": "Meta is excited to announce a deeper collaboration between the AI Alliance and Meta’s Llama Stack, marking a significant milestone in advancing open-source AI development. We invite ISVs and businesses of all sizes to explore partnership opportunities with the AI Alliance, Meta, and Llama Stack. Please fill out this form to be considered for partnership opportunities. This presentation outlines a solution for easily building and deploying applications with Llama models, addressing challenges faced by both developers and API/service providers. The goal is to simplify tasks like inference, fine-tuning, and evaluation, and to provide production-ready agentic workflows. Llama Stack uses APIs and a plugin architecture to offer a standardized interface and toolchain components, enabling flexible deployments across various environments including on-premise, cloud, and on-device. About the speaker Kai Wu is a Partner Engineer, GenAI at Meta, where he helps building the Llama ecosystem, including llama model releases, llama-cookbook github and meta-llama hugging-face org. Before joining Meta, Kai worked on large-scale ML infrastructure at Zoom and Wabbi. He now focuses on expanding llama-stack applications and empowering developers to ship production-ready GenAI systems faster. About the AI Alliance The AI Alliance is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players. Join the community Sign up for the AI Alliance newsletter (check the website footer) and join our new AI Alliance Discord",
+  "conference_id": null,
+  "date_time": "2025-08-14T12:00:00-04:00",
+  "end_time": "2025-08-14T13:00:00-04:00",
+  "event_id": "310378555",
+  "event_title": "[AI Alliance] Introduction to Llama Stack",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introduction-to-llama-stack-kai-wu-meta:introduction-to-llama-stack",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introduction-to-llama-stack-kai-wu-meta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introduction-to-llama-stack-kai-wu-meta"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/310378555/"
+  ],
+  "speaker_ids": [
+    "speaker:kai-wu"
+  ],
+  "speakers": [
+    {
+      "company_name": "Meta",
+      "id": "speaker:kai-wu",
+      "name": "Kai Wu",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Introduction to Llama Stack",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/310378555/"
+}

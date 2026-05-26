@@ -1,0 +1,42 @@
+{
+  "abstract": "Note: we need a venue to host us in San Francisco! ----- For more analytics pipelines, join us at http://scale.bythebay.io, 11/14-17, at Twitter HQ. ----- Operational analytic data stores are a new emerging class of databases that merges ideas of logsearch systems (Elastic, Splunk, etc) and traditional analytic databases (Vertica, Teradata, etc). Popular projects in this class include Apache Druid (incubating), Scuba (from Facebook), Clickhouse (from Yandex), Pinot (from LI), Palo (from Baidu), and more. We will discuss the motivation behind these databases, and discuss in the detail the history, architecture, and future of Druid. Speaker: Gian Merlino is an Apache Druid (incubating) PMC member and a co-founder of Imply. Previously, Gian led the data ingestion team at Metamarkets (now a part of Snapchat) and held senior engineering positions at Yahoo. He holds a BS in Computer Science from Caltech",
+  "conference_id": null,
+  "date_time": "2018-10-30T18:00:00-07:00",
+  "end_time": "2018-10-30T20:00:00-07:00",
+  "event_id": "255430648",
+  "event_title": "The Rise of the Operational Analytic Data Stores",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-the-rise-of-the-operational-analytic-data-stores-gian-merlino:the-rise-of-the-operational-analytic-data-stores",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [
+    "project:apache-druid"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-the-rise-of-the-operational-analytic-data-stores-gian-merlino.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-the-rise-of-the-operational-analytic-data-stores-gian-merlino"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/255430648/"
+  ],
+  "speaker_ids": [
+    "speaker:gian-merlino"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:gian-merlino",
+      "name": "Gian Merlino",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The Rise of the Operational Analytic Data Stores",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/255430648/"
+}

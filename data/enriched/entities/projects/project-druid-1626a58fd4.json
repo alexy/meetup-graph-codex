@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:druid",
+  "name": "Druid",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-1-smart-clients-with-scala-finagle-and-curator-2-intro-to-erlang-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-1-smart-clients-with-scala-finagle-and-curator-2-intro-to-erlang-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/213630542/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-1-smart-clients-with-scala-finagle-and-curator-2-intro-to-erlang-event:1-smart-clients-with-scala-finagle-and-curator-2-intro-to-erlang"
+  ],
+  "type": "project"
+}

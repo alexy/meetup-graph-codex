@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2015-01-21T18:00:00-08:00",
+  "end_time": "2015-01-21T21:00:00-08:00",
+  "event_id": "219049168",
+  "event_title": "January SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-january-sf-hadoop-users-meetup-event-talk-2:the-january-sf-hadoop-user-group-meetup-will-be-held-wednesday-january-21-from-6-00pm-to-8",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-january-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-january-sf-hadoop-users-meetup-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/219049168/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The January SF Hadoop User Group meetup will be held Wednesday, January 21 from 6:00pm to 8:00pm. This meetup will be hosted",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/219049168/"
+}

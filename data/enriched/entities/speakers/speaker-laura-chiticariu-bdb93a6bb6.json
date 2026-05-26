@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ibm-language",
+      "company_name": "IBM Language",
+      "title": "n IBM Distinguished Engineer and Chief Architect"
+    }
+  ],
+  "company_id": "company:ibm-language",
+  "company_ids": [
+    "company:ibm-language"
+  ],
+  "company_name": "IBM Language",
+  "company_names": [
+    "IBM Language"
+  ],
+  "conference_ids": [],
+  "id": "speaker:laura-chiticariu",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Laura Chiticariu",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/285938364/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-2:speaker-bios"
+  ],
+  "title": "n IBM Distinguished Engineer and Chief Architect",
+  "titles": [
+    "n IBM Distinguished Engineer and Chief Architect"
+  ],
+  "type": "speaker"
+}

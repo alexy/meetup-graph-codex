@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2014-10-08T18:00:00-07:00",
+  "end_time": "2014-10-08T21:00:00-07:00",
+  "event_id": "206923002",
+  "event_title": "October SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-users-meetup-mapr-anomaly-talk-3:the-september-sf-hadoop-user-group-meetup-will-be-held-wednesday-october-8-from-6-00pm-to",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-users-meetup-mapr-anomaly.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-users-meetup-mapr-anomaly-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/206923002/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The September SF Hadoop User Group meetup will be held Wednesday, October 8 from 6:00pm to 8:00pm. This meetup will be hosted",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/206923002/"
+}

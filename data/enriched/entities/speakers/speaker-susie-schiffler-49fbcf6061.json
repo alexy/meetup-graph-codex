@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:susie-schiffler",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Susie Schiffler",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-data-science-ai-tech-talks-susie-schiffler-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-data-science-ai-tech-talks-susie-schiffler.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-data-science-ai-tech-talks-susie-schiffler-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-data-science-ai-tech-talks-susie-schiffler"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/261460067/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-data-science-ai-tech-talks-susie-schiffler:data-science-ai-tech-talks"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

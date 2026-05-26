@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:anyscale",
+      "company_name": "Anyscale",
+      "title": "Head of Engineering"
+    }
+  ],
+  "company_id": "company:anyscale",
+  "company_ids": [
+    "company:anyscale"
+  ],
+  "company_name": "Anyscale",
+  "company_names": [
+    "Anyscale"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:jaikumar-ganesh",
+  "meetup_ids": [],
+  "name": "Jaikumar Ganesh",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-jaikumar-ganesh-anyscale.json",
+    "data/raw/sources/bythebay-20260508-scaling-multimodal-data-and-reinforcement-learning-with-ray-jaikumar-ganesh-anyscale.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-jaikumar-ganesh-anyscale",
+    "bythebay-20260508-scaling-multimodal-data-and-reinforcement-learning-with-ray-jaikumar-ganesh-anyscale"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-scaling-multimodal-data-and-reinforcement-learning-with-ray-jaikumar-ganesh-anyscale:scaling-multimodal-data-and-reinforcement-learning-with-ray"
+  ],
+  "title": "Head of Engineering",
+  "titles": [
+    "Head of Engineering"
+  ],
+  "type": "speaker"
+}

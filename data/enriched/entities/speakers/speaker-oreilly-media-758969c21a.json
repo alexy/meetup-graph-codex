@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:oreilly-media",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "O’Reilly Media",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana-2",
+    "bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/230691040/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-june-2016-meetup-joey-echeverria-rocana:june-2016-meetup"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

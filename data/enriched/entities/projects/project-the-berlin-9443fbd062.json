@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:the-berlin",
+  "name": "The Berlin",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-microservices-at-the-biggest-tech-company-you-ve-probably-never-heard-of-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-microservices-at-the-biggest-tech-company-you-ve-probably-never-heard-of-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/225783151/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-microservices-at-the-biggest-tech-company-you-ve-probably-never-heard-of-event:scala-microservices-at-the-biggest-tech-company-you-ve-probably-never-heard-of"
+  ],
+  "type": "project"
+}

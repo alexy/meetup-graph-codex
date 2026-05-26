@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "CEO"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:jose-plehn",
+  "meetup_ids": [],
+  "name": "Jose Plehn",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-jose-plehn-brightquery-founder-opendata-org.json",
+    "data/raw/sources/bythebay-20260508-the-world-s-largest-open-source-entity-graph-jose-plehn-opendata-org.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-jose-plehn-brightquery-founder-opendata-org",
+    "bythebay-20260508-the-world-s-largest-open-source-entity-graph-jose-plehn-opendata-org"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-the-world-s-largest-open-source-entity-graph-jose-plehn-opendata-org:the-world-s-largest-open-source-entity-graph"
+  ],
+  "title": "CEO",
+  "titles": [
+    "CEO"
+  ],
+  "type": "speaker"
+}

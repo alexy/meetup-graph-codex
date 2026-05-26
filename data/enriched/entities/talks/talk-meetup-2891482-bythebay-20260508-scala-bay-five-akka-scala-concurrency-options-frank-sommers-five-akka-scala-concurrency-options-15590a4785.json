@@ -1,0 +1,47 @@
+{
+  "abstract": "Writing concurrent programs that can run in multiple threads and on multiple cores is crucial but daunting. Akka and Scala together provide five concurrency options: java.util.concurrent, Scala parallel collections, Akka futures (subsumed into Scala 2.10), Akka dataflow and Akka actors. Mike Slinn will discuss all of them, contrast them, offer guidance as to when to use each, and describe some typical usage patterns. The presentation will be based on selected material from Mike Slinn's new book \"Composable Futures with Akka 2.0 for Java and Scala\", plus additional content. As usual, the schedule for the event is: 6:30 - networking, food 7:00 - announcements 7:15 - presentation 8:30 - Q&A, more networking afterward Box is providing water, soda, beer and food. This event will be an expanded version of my presentation at the May 22 event held at Klout in San Francisco (http://www.meetup.com/Scala-for-Startups/events/63733102/). This event will be recorded. We will give away two copies of IntelliJ IDEA 11 for personal use, and two copies of JRebel. Two free PDF copies of \"Actors in Scala\" by Philipp Haller and Frank Sommers and published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile",
+  "conference_id": null,
+  "date_time": "2012-06-11T18:30:00-07:00",
+  "end_time": "2012-06-11T21:30:00-07:00",
+  "event_id": "64044672",
+  "event_title": "Five Akka / Scala Concurrency Options",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-five-akka-scala-concurrency-options-frank-sommers:five-akka-scala-concurrency-options",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-five-akka-scala-concurrency-options-frank-sommers.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-five-akka-scala-concurrency-options-frank-sommers"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/64044672/"
+  ],
+  "speaker_ids": [
+    "speaker:frank-sommers",
+    "speaker:philipp-haller"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:frank-sommers",
+      "name": "Frank Sommers",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:philipp-haller",
+      "name": "Philipp Haller",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Five Akka / Scala Concurrency Options",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/64044672/"
+}

@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:bio-holden-karau",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Bio Holden Karau",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-effective-testing-of-spark-programs-bio-holden-karau-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-effective-testing-of-spark-programs-bio-holden-karau.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-effective-testing-of-spark-programs-bio-holden-karau-2",
+    "bythebay-20260508-scala-bay-effective-testing-of-spark-programs-bio-holden-karau"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/225125389/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-effective-testing-of-spark-programs-bio-holden-karau:effective-testing-of-spark-programs"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

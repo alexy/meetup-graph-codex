@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:continue-watching",
+  "name": "Continue Watching",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/244389272/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang:scala-based-ml-framework-at-netflix"
+  ],
+  "type": "project"
+}

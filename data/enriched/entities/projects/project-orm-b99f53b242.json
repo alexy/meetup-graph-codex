@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:orm",
+  "name": "ORM",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-activerecord-type-safe-active-record-model-for-scala-active-records.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-scala-activerecord-type-safe-active-record-model-for-scala-active-records"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/123134782/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-activerecord-type-safe-active-record-model-for-scala-active-records:scala-activerecord-type-safe-active-record-model-for-scala"
+  ],
+  "type": "project"
+}

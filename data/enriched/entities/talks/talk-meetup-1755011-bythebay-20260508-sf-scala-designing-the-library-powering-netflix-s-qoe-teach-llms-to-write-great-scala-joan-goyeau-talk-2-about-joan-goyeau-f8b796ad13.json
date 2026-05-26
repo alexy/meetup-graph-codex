@@ -1,0 +1,40 @@
+{
+  "abstract": "Joan is a Playback Data Engineer in the Data Science and Engineering org at Netflix As a functional programming enthusiast, Scala is his weapon of choice due to its grammatical simplicity combined with its powerful features He is often contributing to Scala related open source projects like Mill, Kubernetes Client, Avro4s Learn more about Joan Goyeau on LinkedIn here: https://www.linkedin.com/in/goyeau/",
+  "conference_id": null,
+  "date_time": "2025-02-25T17:30:00-08:00",
+  "end_time": "2025-02-25T20:00:00-08:00",
+  "event_id": "306178453",
+  "event_title": "Designing the library powering Netflix's QoE & Teach LLMs to write great Scala",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-2:about-joan-goyeau",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/306178453/"
+  ],
+  "speaker_ids": [
+    "speaker:joan-goyeau"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:joan-goyeau",
+      "name": "Joan Goyeau",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "About Joan Goyeau",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/306178453/"
+}

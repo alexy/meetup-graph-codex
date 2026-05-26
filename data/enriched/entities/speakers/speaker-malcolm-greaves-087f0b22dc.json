@@ -1,0 +1,54 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:meaves-industries",
+      "company_name": "Meaves Industries",
+      "title": "Chief Engineer"
+    },
+    {
+      "company_id": "company:nitro",
+      "company_name": "Nitro",
+      "title": null
+    }
+  ],
+  "company_id": "company:meaves-industries",
+  "company_ids": [
+    "company:meaves-industries",
+    "company:nitro"
+  ],
+  "company_name": "Meaves Industries",
+  "company_names": [
+    "Meaves Industries",
+    "Nitro"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:malcolm-greaves",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Malcolm Greaves",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-malcolm-greaves-meaves-industries.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-by-the-bay-meetup-at-nitro-fp-meets-ml-avro-schemas-apache-avro-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-by-the-bay-meetup-at-nitro-fp-meets-ml-avro-schemas-apache-avro.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-malcolm-greaves-meaves-industries",
+    "bythebay-20260508-sf-scala-scala-by-the-bay-meetup-at-nitro-fp-meets-ml-avro-schemas-apache-avro-2",
+    "bythebay-20260508-sf-scala-scala-by-the-bay-meetup-at-nitro-fp-meets-ml-avro-schemas-apache-avro"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers",
+    "https://www.meetup.com/sf-scala/events/224365444/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-by-the-bay-meetup-at-nitro-fp-meets-ml-avro-schemas-apache-avro:scala-by-the-bay-meetup-at-nitro-fp-meets-ml"
+  ],
+  "title": "Chief Engineer",
+  "titles": [
+    "Chief Engineer"
+  ],
+  "type": "speaker"
+}

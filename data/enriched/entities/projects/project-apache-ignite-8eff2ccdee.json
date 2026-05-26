@@ -1,0 +1,35 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-ignite",
+  "name": "Apache Ignite",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-sf-text-2016-begins-datalingvo-and-luka-nikita-ivanov-gridgain-datalingvo.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-better-together-fast-data-with-apache-sparktm-and-apache-ignitetm-event.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot-denis-magda.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-hirable-agents-bees-and-structured-ollamas-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-sf-text-2016-begins-datalingvo-and-luka-nikita-ivanov-gridgain-datalingvo",
+    "bythebay-20260508-sf-data-and-ai-engineering-better-together-fast-data-with-apache-sparktm-and-apache-ignitetm-event",
+    "bythebay-20260508-sf-data-and-ai-engineering-apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot-denis-magda",
+    "bythebay-20260508-sf-scala-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer",
+    "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-hirable-agents-bees-and-structured-ollamas-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/227951172/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/232407316/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/242935496/",
+    "https://www.meetup.com/sf-scala/events/247364219/",
+    "https://www.meetup.com/bay-area-ai/events/306246245/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-sf-text-2016-begins-datalingvo-and-luka-nikita-ivanov-gridgain-datalingvo:sf-text-2016-begins-datalingvo-and-luka",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-better-together-fast-data-with-apache-sparktm-and-apache-ignitetm-event:better-together-fast-data-with-apache-sparktm-and-apache-ignitetm",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot-denis-magda:apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer:streamlio-gridgain-cassandra-spark-free-workshop-at-index",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-hirable-agents-bees-and-structured-ollamas-event:hirable-agents-bees-and-structured-ollamas"
+  ],
+  "type": "project"
+}

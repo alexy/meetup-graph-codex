@@ -1,0 +1,47 @@
+{
+  "abstract": "Quantum computing is poised to potentially have an impact on machine learning methods. In this seminar, we will cover the current state and future prospects of machine learning with quantum computers. This includes algorithms and models such as quantum kernel estimation, variational quantum classifiers, quantum neural networks, and quantum generative-adversarial networks (QGANs). We will also demonstrate the capabilities of the Qiskit Machine Learning open source software project. Presenter: Sean Wagner Sean is a Research Scientist and a Quantum Technical Ambassador at IBM. When he's not programming and experimenting with Qiskit, Sean spends his time working with researchers at academic institutions and industry partners in Canada on projects involving high-performance computing, hardware acceleration, quantum computing, and data science and AI. Dr. Wagner holds a B.A.Sc. degree in Computer Engineering from the University of Waterloo, and M.A.Sc. and Ph.D. degrees in Electrical and Computer Engineering from the University of Toronto. It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/ibm/j.php?RGID=rf9d5addf4260e39d5469911a695263d4",
+  "conference_id": null,
+  "date_time": "2022-11-03T15:30:00-04:00",
+  "end_time": "2022-11-03T17:00:00-04:00",
+  "event_id": "289461907",
+  "event_title": "Quantum Computing and Machine Learning",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-sean-wagner:quantum-computing-and-machine-learning",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-sean-wagner.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-sean-wagner"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289461907/"
+  ],
+  "speaker_ids": [
+    "speaker:sean-wagner",
+    "speaker:sean-wagner-sean"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:sean-wagner",
+      "name": "Sean Wagner",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:sean-wagner-sean",
+      "name": "Sean Wagner Sean",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Quantum Computing and Machine Learning",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/289461907/"
+}

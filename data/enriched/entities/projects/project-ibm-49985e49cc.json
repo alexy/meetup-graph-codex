@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:ibm",
+  "name": "IBM",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-introducing-ibm-watsonx-code-assistant-for-red-hat-ansible-lightspeed-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-introducing-ibm-watsonx-code-assistant-for-red-hat-ansible-lightspeed-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297069767/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-introducing-ibm-watsonx-code-assistant-for-red-hat-ansible-lightspeed-event:introducing-ibm-watsonx-code-assistant-for-red-hat-ansible-lightspeed"
+  ],
+  "type": "project"
+}

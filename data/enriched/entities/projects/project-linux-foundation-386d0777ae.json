@@ -1,0 +1,43 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:linux-foundation",
+  "name": "Linux Foundation",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-janusgraph-nyc-meetup-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-reactive-summit-scale-by-the-bay-2020-cfp-is-now-open-through-july-31-event.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-reactive-summit-sbtb-2020-cfp-open-through-july-31-event.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-reactive-summit-sbtb-2020-cfp-open-through-july-31-event.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-reactive-summit-sbtb-2020-cfp-open-through-july-31-event.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-reactive-summit-sbtb-2020-cfp-open-through-july-31-event.json",
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-reactive-summit-sbtb-2020-cfp-open-through-july-31-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-janusgraph-nyc-meetup-event",
+    "bythebay-20260508-sf-scala-reactive-summit-scale-by-the-bay-2020-cfp-is-now-open-through-july-31-event",
+    "bythebay-20260508-sf-data-and-ai-engineering-reactive-summit-sbtb-2020-cfp-open-through-july-31-event",
+    "bythebay-20260508-san-francisco-hadoop-users-reactive-summit-sbtb-2020-cfp-open-through-july-31-event",
+    "bythebay-20260508-bay-area-ai-reactive-summit-sbtb-2020-cfp-open-through-july-31-event",
+    "bythebay-20260508-scale-by-the-bay-reactive-summit-sbtb-2020-cfp-open-through-july-31-event",
+    "bythebay-20260508-graphql-by-the-bay-reactive-summit-sbtb-2020-cfp-open-through-july-31-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/237908714/",
+    "https://www.meetup.com/sf-scala/events/270391283/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/271108558/",
+    "https://www.meetup.com/hadoopsf/events/271108573/",
+    "https://www.meetup.com/bay-area-ai/events/271108592/",
+    "https://www.meetup.com/bythebay/events/271108616/",
+    "https://www.meetup.com/graphql-by-the-bay/events/271641423/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-janusgraph-nyc-meetup-event:janusgraph-nyc-meetup",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-reactive-summit-scale-by-the-bay-2020-cfp-is-now-open-through-july-31-event:reactive-summit-scale-by-the-bay-2020-cfp-is-now-open-through-july-31",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-reactive-summit-sbtb-2020-cfp-open-through-july-31-event:reactive-summit-sbtb-2020-cfp-open-through-july-31",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-reactive-summit-sbtb-2020-cfp-open-through-july-31-event:reactive-summit-sbtb-2020-cfp-open-through-july-31",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-reactive-summit-sbtb-2020-cfp-open-through-july-31-event:reactive-summit-sbtb-2020-cfp-open-through-july-31",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-reactive-summit-sbtb-2020-cfp-open-through-july-31-event:reactive-summit-sbtb-2020-cfp-open-through-july-31",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-reactive-summit-sbtb-2020-cfp-open-through-july-31-event:reactive-summit-sbtb-2020-cfp-open-through-july-31"
+  ],
+  "type": "project"
+}

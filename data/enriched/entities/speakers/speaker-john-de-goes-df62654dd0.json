@@ -1,0 +1,37 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:john-de-goes",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:2891482"
+  ],
+  "name": "John De Goes",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-the-zio-of-the-future-capital-one-s-scala-journey-girish-kolanthra.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-john-a-de-goes-the-zio-of-the-future-girish-kolanthra-our-scala-journey-girish-kolanthra-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-joint-with-zio-meetup-the-zio-of-the-future-capital-one-s-scala-journey-girish-kolanthra.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-john-a-de-goes-the-zio-of-the-future-girish-kolanthra-our-scala-journey-girish-kolanthra.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-the-zio-of-the-future-capital-one-s-scala-journey-girish-kolanthra",
+    "bythebay-20260508-scala-bay-john-a-de-goes-the-zio-of-the-future-girish-kolanthra-our-scala-journey-girish-kolanthra-2",
+    "bythebay-20260508-sf-scala-joint-with-zio-meetup-the-zio-of-the-future-capital-one-s-scala-journey-girish-kolanthra",
+    "bythebay-20260508-scala-bay-john-a-de-goes-the-zio-of-the-future-girish-kolanthra-our-scala-journey-girish-kolanthra"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/277119020/",
+    "https://www.meetup.com/scala-bay/events/277181540/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-joint-with-zio-meetup-the-zio-of-the-future-capital-one-s-scala-journey-girish-kolanthra:the-zio-of-the-future-capital-ones-scala-journey",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-john-a-de-goes-the-zio-of-the-future-girish-kolanthra-our-scala-journey-girish-kolanthra:john-a-de-goes-the-zio-of-the-future-girish-kolanthra-our-scala-journey"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

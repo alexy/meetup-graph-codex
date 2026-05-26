@@ -1,0 +1,57 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:artima-inc",
+      "company_name": "Artima, Inc",
+      "title": "president"
+    }
+  ],
+  "company_id": "company:artima-inc",
+  "company_ids": [
+    "company:artima-inc"
+  ],
+  "company_name": "Artima, Inc",
+  "company_names": [
+    "Artima, Inc"
+  ],
+  "conference_ids": [],
+  "id": "speaker:bill-venners",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:18748975",
+    "meetup:20929747",
+    "meetup:2891482"
+  ],
+  "name": "Bill Venners",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-a-tour-of-caliban-fp-graphql-in-scala-understanding-scala-s-type-system-alexy-khrabrov-2.json",
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-a-tour-of-caliban-fp-graphql-in-scala-understanding-scala-s-type-system-alexy-khrabrov-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2",
+    "bythebay-20260508-scale-by-the-bay-a-tour-of-caliban-fp-graphql-in-scala-understanding-scala-s-type-system-alexy-khrabrov-2",
+    "bythebay-20260508-graphql-by-the-bay-a-tour-of-caliban-fp-graphql-in-scala-understanding-scala-s-type-system-alexy-khrabrov-2",
+    "bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2",
+    "bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-talk-1",
+    "bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/308661435/",
+    "https://www.meetup.com/bythebay/events/269884349/",
+    "https://www.meetup.com/graphql-by-the-bay/events/269884376/",
+    "https://www.meetup.com/scala-bay/events/308661456/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-talk-1:demystifying-scala-3-types",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-talk-1:demystifying-scala-3-types"
+  ],
+  "title": "president",
+  "titles": [
+    "president"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,35 @@
+{
+  "abstract": null,
+  "conference_id": "scale-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:scale-by-the-bay:bythebay-20260508-pytorch-2-1-new-developments-supriya-rao-meta:pytorch-2-1-new-developments",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-pytorch-2-1-new-developments-supriya-rao-meta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-pytorch-2-1-new-developments-supriya-rao-meta"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:supriya-rao"
+  ],
+  "speakers": [
+    {
+      "company_name": "Meta",
+      "id": "speaker:supriya-rao",
+      "name": "Supriya Rao",
+      "title": "Engineering Manager"
+    }
+  ],
+  "tags": [],
+  "title": "PyTorch 2.1 - New Developments",
+  "type": "talk",
+  "url": "https://www.scale.bythebay.io/post/supriya-rao-pytorch-2-1-new-developments"
+}

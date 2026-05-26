@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:henrik-vosegaard-henrik-vosegaard",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Henrik Vosegaard Henrik Vosegaard",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-henrik-vosegaard-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-henrik-vosegaard.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-henrik-vosegaard.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-henrik-vosegaard-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-henrik-vosegaard",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-henrik-vosegaard"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297911086/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290311781/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-henrik-vosegaard:introduction-to-quantum-computing",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-henrik-vosegaard:quantum-series-part-1-introduction-to-quantum-computing"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

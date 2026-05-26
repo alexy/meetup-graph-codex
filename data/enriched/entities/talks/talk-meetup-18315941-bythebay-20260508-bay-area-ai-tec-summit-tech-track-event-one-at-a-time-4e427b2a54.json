@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2015-05-27T15:00:00-07:00",
+  "end_time": "2015-05-27T17:30:00-07:00",
+  "event_id": "222541049",
+  "event_title": "TEC Summit Tech Track",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-tec-summit-tech-track-event:one-at-a-time",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-tec-summit-tech-track-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-tec-summit-tech-track-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/222541049/"
+  ],
+  "speaker_ids": [
+    "speaker:using-content-features-today"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:using-content-features-today",
+      "name": "Using Content Features Today",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "One at a time",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/222541049/"
+}

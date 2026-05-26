@@ -1,0 +1,39 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-from-data-2-0-to-data-3-0-making-data-autonomous-for-ai-zhamak-dehghani:from-data-2-0-to-data-3-0-making-data-autonomous-for-ai",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-from-data-2-0-to-data-3-0-making-data-autonomous-for-ai-zhamak-dehghani.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-from-data-2-0-to-data-3-0-making-data-autonomous-for-ai-zhamak-dehghani"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:zhamak-dehghani"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:zhamak-dehghani",
+      "name": "Zhamak Dehghani",
+      "title": "Founder and CEO Nextdata"
+    }
+  ],
+  "tags": [
+    "AI Infrastructure",
+    "Agentic AI",
+    "MCP"
+  ],
+  "title": "From Data 2.0 to Data 3.0: Making Data Autonomous for AI",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/from-data-2.0-to-data-3.0%3A-making-data-autonomous-for-ai"
+}

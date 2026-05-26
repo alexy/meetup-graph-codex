@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:neo4j",
+      "company_name": "Neo4j",
+      "title": "Senior Developer Advocate"
+    }
+  ],
+  "company_id": "company:neo4j",
+  "company_ids": [
+    "company:neo4j"
+  ],
+  "company_name": "Neo4j",
+  "company_names": [
+    "Neo4j"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:jeremy-adams",
+  "meetup_ids": [],
+  "name": "Jeremy Adams",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-jeremy-adams-neo4j.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-jeremy-adams-neo4j"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [],
+  "title": "Senior Developer Advocate",
+  "titles": [
+    "Senior Developer Advocate"
+  ],
+  "type": "speaker"
+}

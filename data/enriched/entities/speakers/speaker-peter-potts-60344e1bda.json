@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:kixeye",
+      "company_name": "KIXEYE",
+      "title": null
+    }
+  ],
+  "company_id": "company:kixeye",
+  "company_ids": [
+    "company:kixeye"
+  ],
+  "company_name": "KIXEYE",
+  "company_names": [
+    "KIXEYE"
+  ],
+  "conference_ids": [],
+  "id": "speaker:peter-potts",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Peter Potts",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-the-cake-pattern-in-practice-martin-odersky-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-the-cake-pattern-in-practice-martin-odersky.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-the-cake-pattern-in-practice-martin-odersky-2",
+    "bythebay-20260508-sf-scala-the-cake-pattern-in-practice-martin-odersky"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/208859462/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-the-cake-pattern-in-practice-martin-odersky:the-cake-pattern-in-practice"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

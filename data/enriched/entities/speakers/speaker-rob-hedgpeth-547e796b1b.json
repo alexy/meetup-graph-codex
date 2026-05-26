@@ -1,0 +1,44 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:rob-hedgpeth",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:18601481",
+    "meetup:18748975"
+  ],
+  "name": "Rob Hedgpeth",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-reactive-systems-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-reactive-systems-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth",
+    "bythebay-20260508-sf-data-and-ai-engineering-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth",
+    "bythebay-20260508-scale-by-the-bay-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth-2",
+    "bythebay-20260508-scale-by-the-bay-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth",
+    "bythebay-20260508-sf-scala-reactive-systems-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth",
+    "bythebay-20260508-sf-data-and-ai-engineering-reactive-systems-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/272678677/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/272678899/",
+    "https://www.meetup.com/bythebay/events/272491784/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth:creating-full-reactive-applications-with-r2dbc",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-reactive-systems-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth:creating-full-reactive-applications-with-r2dbc",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-reactive-systems-creating-full-reactive-applications-with-r2dbc-rob-hedgpeth:creating-full-reactive-applications-with-r2dbc"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,89 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "with Scala being the programming language of the examples. During this short course, you will learn how to work"
+    },
+    {
+      "company_id": "company:scala",
+      "company_name": "Scala",
+      "title": "Scala on Android"
+    }
+  ],
+  "company_id": "company:scala",
+  "company_ids": [
+    "company:scala"
+  ],
+  "company_name": "Scala",
+  "company_names": [
+    "Scala"
+  ],
+  "conference_ids": [],
+  "id": "speaker:functional-programming",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:2891482"
+  ],
+  "name": "Functional Programming",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-runar-bjarnason-an-introduction-to-functional-programming-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-functional-programming-in-scala-part-1-of-3-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-functional-programming-in-scala-part-2-of-3-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-functional-programming-in-scala-part-3-of-3-event.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-functional-programming-in-scala-part-1-of-3-event.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-functional-programming-in-scala-part-2-of-3-event.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-functional-programming-in-scala-part-3-of-3-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices-2",
+    "bythebay-20260508-scala-bay-runar-bjarnason-an-introduction-to-functional-programming-event",
+    "bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices",
+    "bythebay-20260508-sf-scala-functional-programming-in-scala-part-1-of-3-event-talk-1",
+    "bythebay-20260508-sf-scala-functional-programming-in-scala-part-1-of-3-event-talk-2",
+    "bythebay-20260508-sf-scala-functional-programming-in-scala-part-2-of-3-event-talk-1",
+    "bythebay-20260508-sf-scala-functional-programming-in-scala-part-2-of-3-event-talk-2",
+    "bythebay-20260508-sf-scala-functional-programming-in-scala-part-3-of-3-event-talk-1",
+    "bythebay-20260508-sf-scala-functional-programming-in-scala-part-3-of-3-event-talk-2",
+    "bythebay-20260508-scala-bay-functional-programming-in-scala-part-1-of-3-event-talk-1",
+    "bythebay-20260508-scala-bay-functional-programming-in-scala-part-1-of-3-event-talk-2",
+    "bythebay-20260508-scala-bay-functional-programming-in-scala-part-2-of-3-event-talk-1",
+    "bythebay-20260508-scala-bay-functional-programming-in-scala-part-2-of-3-event-talk-2",
+    "bythebay-20260508-scala-bay-functional-programming-in-scala-part-3-of-3-event-talk-1",
+    "bythebay-20260508-scala-bay-functional-programming-in-scala-part-3-of-3-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/255950651/",
+    "https://www.meetup.com/scala-bay/events/219401994/",
+    "https://www.meetup.com/sf-scala/events/305629251/",
+    "https://www.meetup.com/sf-scala/events/305629309/",
+    "https://www.meetup.com/sf-scala/events/305629359/",
+    "https://www.meetup.com/scala-bay/events/305629540/",
+    "https://www.meetup.com/scala-bay/events/305629560/",
+    "https://www.meetup.com/scala-bay/events/305629578/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-runar-bjarnason-an-introduction-to-functional-programming-event:runar-bjarnason-an-introduction-to-functional-programming",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices:building-cloud-services-w-akka-and-scala",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-programming-in-scala-part-1-of-3-event-talk-1:functional-programming-in-scala-part-1-of-3",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-programming-in-scala-part-1-of-3-event-talk-2:about-our-speaker",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-programming-in-scala-part-2-of-3-event-talk-1:functional-programming-in-scala-part-2-of-3",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-programming-in-scala-part-2-of-3-event-talk-2:about-our-speaker",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-programming-in-scala-part-3-of-3-event-talk-1:functional-programming-in-scala-part-3-of-3",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-programming-in-scala-part-3-of-3-event-talk-2:about-our-speaker",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-functional-programming-in-scala-part-1-of-3-event-talk-1:functional-programming-in-scala-part-1-of-3",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-functional-programming-in-scala-part-1-of-3-event-talk-2:about-our-speaker",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-functional-programming-in-scala-part-2-of-3-event-talk-1:functional-programming-in-scala-part-2-of-3",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-functional-programming-in-scala-part-2-of-3-event-talk-2:about-our-speaker",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-functional-programming-in-scala-part-3-of-3-event-talk-1:functional-programming-in-scala-part-3-of-3",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-functional-programming-in-scala-part-3-of-3-event-talk-2:about-our-speaker"
+  ],
+  "title": "with Scala being the programming language of the examples. During this short course, you will learn how to work",
+  "titles": [
+    "with Scala being the programming language of the examples. During this short course, you will learn how to work",
+    "Scala on Android"
+  ],
+  "type": "speaker"
+}

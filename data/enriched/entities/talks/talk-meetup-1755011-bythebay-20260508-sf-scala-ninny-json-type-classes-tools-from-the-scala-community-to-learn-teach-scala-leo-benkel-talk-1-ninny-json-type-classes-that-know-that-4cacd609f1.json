@@ -1,0 +1,40 @@
+{
+  "abstract": "ninny-json is an experiment to look at what JSON type classes would look like if they made a distinction between absent JSON fields, and fields with null values About our Speaker Nathan Fischer is a San Francisco based developer using Scala to increase productivity and push the errors to compile time",
+  "conference_id": null,
+  "date_time": "2020-09-16T18:00:00-07:00",
+  "end_time": "2020-09-16T20:00:00-07:00",
+  "event_id": "272898761",
+  "event_title": "Ninny json: type classes & Tools from the Scala community to learn & teach Scala",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-1:ninny-json-type-classes-that-know-that-none-is-not-null-by-nathan-fischer",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/272898761/"
+  ],
+  "speaker_ids": [
+    "speaker:nathan-fischer"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:nathan-fischer",
+      "name": "Nathan Fischer",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Ninny json: type classes that know that none is not null by Nathan Fischer",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/272898761/"
+}

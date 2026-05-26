@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:block-inc",
+      "company_name": "Block Inc",
+      "title": "VP Engineering, AI Tools & Enablement"
+    }
+  ],
+  "company_id": "company:block-inc",
+  "company_ids": [
+    "company:block-inc"
+  ],
+  "company_name": "Block Inc",
+  "company_names": [
+    "Block Inc"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:angie-jones",
+  "meetup_ids": [],
+  "name": "Angie Jones",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-angie-jones-block-inc.json",
+    "data/raw/sources/bythebay-20260508-from-experiment-to-enterprise-how-block-operationalized-mcp-at-scale-angie-jones-block-inc.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-angie-jones-block-inc",
+    "bythebay-20260508-from-experiment-to-enterprise-how-block-operationalized-mcp-at-scale-angie-jones-block-inc"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-from-experiment-to-enterprise-how-block-operationalized-mcp-at-scale-angie-jones-block-inc:from-experiment-to-enterprise-how-block-operationalized-mcp-at-scale"
+  ],
+  "title": "VP Engineering, AI Tools & Enablement",
+  "titles": [
+    "VP Engineering, AI Tools & Enablement"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:karina-kervin-karina-kervin",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Karina Kervin Karina Kervin",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-the-why-and-how-of-human-centered-data-science-karina-kervin-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-the-why-and-how-of-human-centered-data-science-karina-kervin.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-the-why-and-how-of-human-centered-data-science-karina-kervin-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-the-why-and-how-of-human-centered-data-science-karina-kervin-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-the-why-and-how-of-human-centered-data-science-karina-kervin",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-the-why-and-how-of-human-centered-data-science-karina-kervin-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293935733/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293935567/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-the-why-and-how-of-human-centered-data-science-karina-kervin:the-why-and-how-of-human-centered-data-science",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-the-why-and-how-of-human-centered-data-science-karina-kervin-3:the-why-and-how-of-human-centered-data-science"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "company:letta",
+  "name": "Letta",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-cameron-pfiffer-letta.json",
+    "data/raw/sources/bythebay-20260508-the-ai-operating-system-stateful-agents-with-letta-cameron-pfiffer-letta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-cameron-pfiffer-letta",
+    "bythebay-20260508-the-ai-operating-system-stateful-agents-with-letta-cameron-pfiffer-letta"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:cameron-pfiffer"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-the-ai-operating-system-stateful-agents-with-letta-cameron-pfiffer-letta:the-ai-operating-system-stateful-agents-with-letta",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3:infinite-world-generation-with-outlines"
+  ],
+  "type": "company"
+}

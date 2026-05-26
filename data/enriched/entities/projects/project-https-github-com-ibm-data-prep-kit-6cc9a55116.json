@@ -1,0 +1,47 @@
+{
+  "github_repositories": [
+    "https://github.com/IBM/data-prep-kit"
+  ],
+  "github_repository": "https://github.com/IBM/data-prep-kit",
+  "id": "project:https-github-com-ibm-data-prep-kit",
+  "name": "data-prep-kit",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-getting-started-with-docling-and-data-prep-kit-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-an-in-depth-look-at-data-prep-kit-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-rag-pipeline-with-data-prep-kit-milvus-granite-workshop-stefan-webb-zilliz.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gneissweb-a-state-of-the-art-llm-pre-training-dataset-research-scientist-ibm-almaden-research-center.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-hands-on-with-data-prep-kit-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-preparing-high-quality-datasets-with-data-prep-kit-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-getting-started-with-docling-and-data-prep-kit-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-an-in-depth-look-at-data-prep-kit-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-rag-pipeline-with-data-prep-kit-milvus-granite-workshop-stefan-webb-zilliz",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-3",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gneissweb-a-state-of-the-art-llm-pre-training-dataset-research-scientist-ibm-almaden-research-center",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-hands-on-with-data-prep-kit-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-preparing-high-quality-datasets-with-data-prep-kit-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/305798978/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/305887977/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/305888534/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306421923/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306423602/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306535885/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306536862/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-getting-started-with-docling-and-data-prep-kit-event:ai-alliance-getting-started-with-docling-and-data-prep-kit",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-an-in-depth-look-at-data-prep-kit-event:ai-alliance-an-in-depth-look-at-data-prep-kit",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-rag-pipeline-with-data-prep-kit-milvus-granite-workshop-stefan-webb-zilliz:rag-pipeline-with-data-prep-kit-milvus-granite-workshop",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-2:reviewing-data-preparation-tools",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-3:review-of-data-preparation-tools-incl-open-q-a",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gneissweb-a-state-of-the-art-llm-pre-training-dataset-research-scientist:introducing-gneissweb-a-state-of-the-art-llm-pre-training-dataset",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-hands-on-with-data-prep-kit-event:workshop-hands-on-with-data-prep-kit",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-preparing-high-quality-datasets-with-data-prep-kit-event:workshop-preparing-high-quality-datasets-with-data-prep-kit"
+  ],
+  "type": "project"
+}

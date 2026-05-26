@@ -1,0 +1,44 @@
+{
+  "abstract": "This is a crosspost from Bay Area AI, please register at https://www.meetup.com/bay-area-ai/events/258164070 Machine Learning (ML) pipelines are the key building block for productionizing ML code. However, pipelines are often developed as \"silos\" - features tend not to be easily re-used across pipelines or even within the same pipeline. Silos lead to duplication, unnecessarily re-implementing features and in the worst case correctness problems, if, for example, the features used for training and serving have inconsistent implementations. The Feature Store solves the problem of siloed and ad-hoc machine learning pipelines, by providing a data layer where feature engineering can be separated from the usage of features to generate training data. That is, the Feature Store should provide a clean API separating Data Engineering from Data Science. In this talk, we will introduce the world's first open-source Feature Store, built on Hopsworks, Apache Spark, and Apache Hive and targeting both TensorFlow/Keras and PyTorch. We will show how ML pipelines can be programmed, end-to-end, in Python, and the role of the Feature Store as a natural interface between Data Engineers and Data Scientists. In an end-to-end pipeline, we will show how the Feature Store works, and how you can write end-to-end ML pipelines in Python only (if you so choose). Speaker Bio: Jim Dowling is the CEO of Logical Clocks AB, as well as an Associate Professor at KTH Royal Institute of Technology in Stockholm. He is the lead architect of Hops, the world's most fastest and most scalable Hadoop distribution and first Hadoop platform with support for GPUs as a resource. He is a regular speaker at AI industry conferences, and blogs at O'Reilly on AI",
+  "conference_id": null,
+  "date_time": "2019-03-05T18:00:00-08:00",
+  "end_time": "2019-03-05T20:00:00-08:00",
+  "event_id": "258164399",
+  "event_title": "The Feature Store: the missing API between Data Engineering and Data Science?",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling:the-feature-store-the-missing-api-between-data-engineering-and-data-science",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [
+    "project:apache-spark",
+    "project:apache-hive",
+    "project:hadoop"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/258164399/"
+  ],
+  "speaker_ids": [
+    "speaker:jim-dowling"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:jim-dowling",
+      "name": "Jim Dowling",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The Feature Store: the missing API between Data Engineering and Data Science?",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/258164399/"
+}

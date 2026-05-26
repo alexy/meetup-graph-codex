@@ -1,0 +1,33 @@
+{
+  "abstract": "The idea of the present is an illusion. Everything we see, hear and feel is just an echo from the past. But this illusion has influenced us and the way we view the world in so many ways; from Newton’s physics with a linearly progressing timeline accruing absolute knowledge along the way to the von Neumann machine with its total ordering of instructions updating mutable state with full control of the “present”. But unfortunately this is not how the world works. There is no present, all we have is facts derived from the merging of multiple pasts. The truth is closer to Einstein’s physics where everything is relative to one’s perspective. As developers we need to wake up and break free from the perceived reality of living in a single globally consistent present. The advent of multicore and cloud computing architectures meant that most applications today are distributed systems-multiple cores separated by the memory bus or multiple nodes separated by the network-which puts a harsh end to this illusion. Facts travel at the speed of light (at best), which makes the distinction between past and perceived present even more apparent in a distributed system where latency is higher and where facts (messages) can get lost. The only way to design truly scalable and performant systems that can construct a sufficiently consistent view of history-and thereby our local “present”-is by treating time as a first class construct in our programming model and to model the present as facts derived from the merging of multiple concurrent pasts. In this talk we will explore what all this means to the design of our systems, how we need to view and model consistency, consensus, communication, history and behavior, and look at some practical tools and techniques to bring it all together. Jonas Bonér is a programmer, speaker, writer, Java Champion and entrepreneur. He is the co-founder and CTO of Typesafe and is an active contributor to the open source community; most notably started the Akka project and the AspectWerkz AOP runtime (now AspectJ). Learn more at: http://jonasboner.com",
+  "conference_id": null,
+  "date_time": "2015-08-18T19:00:00-07:00",
+  "end_time": "2015-08-18T22:00:00-07:00",
+  "event_id": "223996655",
+  "event_title": "Life Beyond the Illusion of Present",
+  "github_repositories": [],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-life-beyond-the-illusion-of-present-event:life-beyond-the-illusion-of-present",
+  "kind": "talk",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [
+    "project:akka"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-life-beyond-the-illusion-of-present-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-life-beyond-the-illusion-of-present-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/223996655/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Life Beyond the Illusion of Present",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/223996655/"
+}

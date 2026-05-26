@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:tablegpt2",
+  "name": "TableGPT2",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-efficient-inference.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-efficient-inference"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/304656743/"
+  ],
+  "talk_ids": [
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-efficient-inference:unstructured-data-meetup"
+  ],
+  "type": "project"
+}

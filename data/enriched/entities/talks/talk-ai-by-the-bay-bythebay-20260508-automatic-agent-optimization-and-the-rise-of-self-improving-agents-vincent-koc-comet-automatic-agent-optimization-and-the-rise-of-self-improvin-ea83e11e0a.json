@@ -1,0 +1,39 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-automatic-agent-optimization-and-the-rise-of-self-improving-agents-vincent-koc-comet:automatic-agent-optimization-and-the-rise-of-self-improving-agents",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-automatic-agent-optimization-and-the-rise-of-self-improving-agents-vincent-koc-comet.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-automatic-agent-optimization-and-the-rise-of-self-improving-agents-vincent-koc-comet"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:vincent-koc"
+  ],
+  "speakers": [
+    {
+      "company_name": "Comet",
+      "id": "speaker:vincent-koc",
+      "name": "Vincent Koc",
+      "title": "Lead AI Researcher & Developer Relations"
+    }
+  ],
+  "tags": [
+    "Agentic AI",
+    "Context engineering",
+    "LLMOps"
+  ],
+  "title": "Automatic Agent Optimization and the Rise of Self-Improving Agents",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/automatic-agent-optimization-and-the-rise-of-self-improving-agents"
+}

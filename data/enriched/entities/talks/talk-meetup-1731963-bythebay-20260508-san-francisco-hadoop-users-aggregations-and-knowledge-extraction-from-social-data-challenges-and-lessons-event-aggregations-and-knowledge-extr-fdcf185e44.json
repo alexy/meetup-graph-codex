@@ -1,0 +1,31 @@
+{
+  "abstract": "This is a crosspost from the Bay Area AI -- register there to attend! https://www.meetup.com/bay-area-ai/events/257791863/ This talk is about the construction of new data assets from social media using techniques drawn from the areas of information retrieval, machine learning, graphs, and social networks. I’ll describe three projects based on Twitter and Foursquare data sets that use social data in different ways to help users in information seeking scenarios. The first one, a recommender system for recreational queries using location-based social networks. The second project, a social knowledge graph derived from Twitter with the goal of discovering relationships between people, links, and topics. And the third one, an application for archiving and Wikification of stories. Omar Alonso is a Principal Applied Scientist with Microsoft where he works on the intersection of information retrieval, social data, human computation, and knowledge graph generation. He is the co-chair of the Human Computation and Crowdsourcing track at WWW'19 and on the organizing committee for HCOMP'19",
+  "conference_id": null,
+  "date_time": "2019-01-15T18:00:00-08:00",
+  "end_time": "2019-01-15T20:00:00-08:00",
+  "event_id": "258047539",
+  "event_title": "Aggregations and knowledge extraction from social data: challenges and lessons",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-aggregations-and-knowledge-extraction-from-social-data-challenges-and-lessons-event:aggregations-and-knowledge-extraction-from-social-data-challenges-and-lessons",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-aggregations-and-knowledge-extraction-from-social-data-challenges-and-lessons-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-aggregations-and-knowledge-extraction-from-social-data-challenges-and-lessons-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/258047539/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Aggregations and knowledge extraction from social data: challenges and lessons",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/258047539/"
+}

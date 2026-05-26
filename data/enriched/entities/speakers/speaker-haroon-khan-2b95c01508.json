@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:healthexpense",
+      "company_name": "HealthExpense",
+      "title": "software developer"
+    }
+  ],
+  "company_id": "company:healthexpense",
+  "company_ids": [
+    "company:healthexpense"
+  ],
+  "company_name": "HealthExpense",
+  "company_names": [
+    "HealthExpense"
+  ],
+  "conference_ids": [],
+  "id": "speaker:haroon-khan",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Haroon Khan",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-haroon-khan-free-monads-in-practice-haroon-khan-haroon-khan.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-haroon-khan-free-monads-in-practice-haroon-khan-haroon-khan"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/228543862/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-haroon-khan-free-monads-in-practice-haroon-khan-haroon-khan:haroon-khan-free-monads-in-practice"
+  ],
+  "title": "software developer",
+  "titles": [
+    "software developer"
+  ],
+  "type": "speaker"
+}

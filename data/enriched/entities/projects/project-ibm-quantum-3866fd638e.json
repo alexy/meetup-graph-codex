@@ -1,0 +1,39 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:ibm-quantum",
+  "name": "IBM Quantum",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-getting-started-with-quantum-computing-hands-on-chris-burton.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-getting-started-with-quantum-computing-hands-on-hemavathi-santhanam-expert-labs.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-advanced-quantum-computing-with-qiskit-part-2-sean-wagner-ibm.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-advanced-quantum-computing-with-qiskit-part-2-sean-wagner-ibm-3.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-david-alber-ibm.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-hemavathi-santhanam.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-getting-started-with-quantum-computing-hands-on-chris-burton",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-getting-started-with-quantum-computing-hands-on-hemavathi-santhanam-expert-labs",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-advanced-quantum-computing-with-qiskit-part-2-sean-wagner-ibm",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-advanced-quantum-computing-with-qiskit-part-2-sean-wagner-ibm-3",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-david-alber-ibm",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-hemavathi-santhanam"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291795993/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291796287/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292589337/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292590102/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297915685/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297915828/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-getting-started-with-quantum-computing-hands-on-chris-burton:getting-started-with-quantum-computing-hands-on",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-getting-started-with-quantum-computing-hands-on-hemavathi-santhanam-expert-labs:getting-started-with-quantum-computing-hands-on",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-advanced-quantum-computing-with-qiskit-part-2-sean-wagner-ibm:advanced-quantum-computing-with-qiskit-part-2",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-advanced-quantum-computing-with-qiskit-part-2-sean-wagner-ibm-3:advanced-quantum-computing-with-qiskit-part-2",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-david-alber-ibm:quantum-series-part-2-getting-started-with-quantum-computing-hands-on",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-hemavathi-santhanam:quantum-series-part-2-getting-started-with-quantum-computing-hands-on"
+  ],
+  "type": "project"
+}

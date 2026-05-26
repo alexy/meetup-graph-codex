@@ -1,0 +1,31 @@
+{
+  "abstract": "Are you looking for a game changer, the winning play that will unlock the value of your data and harness the power of AI? Watch Change the Game: Winning with AI on September 13 at 6:30 PM EDT. ESPN’s Hannah Storm hosts IBM clients who will share how they are changing the game in their industries: where they see opportunity, challenges they have overcome, and the winning plays they are using to give them the edge. IBM experts will analyze these winning plays and how and why they work. They will also provide a strategic view of today’s data landscape: the transformative potential of AI, the importance of a multi-cloud architecture, and the steps you can take today to ladder up to AI. Watch and learn more at https://ibm.co/2Q4ZBLP",
+  "conference_id": null,
+  "date_time": "2018-09-13T18:30:00-04:00",
+  "end_time": "2018-09-13T20:00:00-04:00",
+  "event_id": "254441560",
+  "event_title": "Change the Game: Winning with AI",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-change-the-game-winning-with-ai-event:change-the-game-winning-with-ai",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-change-the-game-winning-with-ai-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-change-the-game-winning-with-ai-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/254441560/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Change the Game: Winning with AI",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/254441560/"
+}

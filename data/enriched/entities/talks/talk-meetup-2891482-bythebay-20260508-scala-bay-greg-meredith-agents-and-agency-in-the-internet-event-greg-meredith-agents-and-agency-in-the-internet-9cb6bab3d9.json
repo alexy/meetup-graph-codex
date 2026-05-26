@@ -1,0 +1,35 @@
+{
+  "abstract": "Lucius Gregory Meredith will talk about Agents and agency in the Internet. The talk is about SpecialK/KVDB (https://github.com/leithaus/SpecialK), a scala library for writing distributed applications in an embedded DSL based on the applied Pi-calculus, focusing on two applications that are using SpecialK, Protunity (http://www.protunity.com/) and the Individual Agent. Greg will introduce the embedded DSL and it's relationship to theory and practice and then look at the two different applications and the advantages the framework brings to those efforts. Of particular interest is how the framework allows for higher level automated reasoning about information flow in the distributed network. Lucius Gregory Meredith With two albums to his name now available on iTunes (The Disciples of Pop (http://itunes.apple.com/us/album/disciples-of-pop/id362034588?uo=4) and The Adventures of Victoria and Balthazar (http://itunes.apple.com/us/album/the-adventures-victoria-balthazar/id295714801?uo=4)) Greg considers himself a musician as well as a mathematician and computer scientist. The principal architect behind Microsoft’sBizTalk Process Orchestration (http://www.google.com/url?sa=t&source=web&cd=2&sqi=2&ved=0CB4QFjAB&url=http%3A%2F%2Fwww.microsoft.com%2Fbiztalk%2Fen%2Fus%2Forchestration.aspx&ei=LP-PTeK2DoP2tgOL6omECQ&usg=AFQjCNGGPSUWUmCwgD8ztzTNZgYpn7heTw&sig2=0o3l RJA6sIU0ztbmV9Jnw) and one of the principals behind the highly advanced programming language, Rosette (http://www.google.com/url?sa=t&source=web&cd=1&ved=0CBQQFjAA&url=https%3A%2F%2Fgithub.com%2Fleithaus%2FRosette&ei=U -PTZihKY3msQOM0-iICQ&usg=AFQjCNHbhkISxrnH44wWvm3n5eylCVsqGw&sig2=CBmsER2b3G4myANNS3kTQw), and its high-performance execution environment, the Extensible Service Switch, Greg has lots of experience taking the world of ideas and translating them into practice. In 2004 and 2005 Greg was a visiting scientist at Harvard Systems Biology and the nascent formal methods in systems biology group at the University of Trento, Trento Italy. In 2005 Greg presented seminal results on reflective process algebras both at Oxford and the premier European conference, ETAPS (http://www.etaps.org/) and co-founded with Walter Fontana (Fontana Lab, Harvard Systems Biology (http://fontana.med.harvard.edu/)), Plectix Biosystems. Greg is a long time student of music and the guitar. From 1999 - 2002 Greg studied with the Senegalese Griot Mapathe and Thione Diop, working with them both in Senegal and the Pacific Northwest and performing with them frequently. Greg has studied the guitar for nearly 35 years and worked within the Guitar Craft community for 12. When he’s not engaged in the day-to-day duties of running his consultancy,Biosimilarity (http://www.biosimilarity.com/), being a father of 5, running guitar classes with 4th graders or playing with Seattle Circle’s Tuning the Air (http://www.google.com/url?sa=t&source=web&cd=1&ved=0CBQQFjAA&url=http%3A%2F%2Fwww.tuningtheair.com%2F&ei=qv6PTbmtFY74sAPizYyQCQ&usg=AFQjCNGd4DzjokwL9wpTpqv4ACdWtOBEfQ&sig2=Zo69PRghGanCuyD7fiE8gg) production, Greg is producing a series of videos with the highly acclaimed C9 video production team to promote his forthcoming book, Monadic Design Patterns for the Web, or working on the next Disciples of Pop single. Location: Box (see above) Box offers street parking on Del Medio and visitors should remain in the Lunch Room/lobby. We may be short on refreshments/snacks this time. Blame Chris Columbus, it's his day. Schedule: • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "conference_id": null,
+  "date_time": "2013-10-14T19:00:00-07:00",
+  "end_time": "2013-10-14T22:00:00-07:00",
+  "event_id": "140071182",
+  "event_title": "Greg Meredith, \"Agents and agency in the Internet\"",
+  "github_repositories": [
+    "https://github.com/leithaus/SpecialK"
+  ],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-greg-meredith-agents-and-agency-in-the-internet-event:greg-meredith-agents-and-agency-in-the-internet",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [
+    "project:https-github-com-leithaus-specialk"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-greg-meredith-agents-and-agency-in-the-internet-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-greg-meredith-agents-and-agency-in-the-internet-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/140071182/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Greg Meredith, \"Agents and agency in the Internet\"",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/140071182/"
+}

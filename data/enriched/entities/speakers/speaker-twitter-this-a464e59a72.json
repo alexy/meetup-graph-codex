@@ -1,0 +1,28 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:twitter-this",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Twitter This",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-eventbrite-registration-next-generation-macros-for-scala-eugene-burmako.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-eventbrite-registration-next-generation-macros-for-scala-eugene-burmako"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/240044013/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-eventbrite-registration-next-generation-macros-for-scala-eugene-burmako:next-generation-macros-for-scala"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:john-easton-john",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "John Easton John",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-high-performance-computing-in-the-cloud-for-solving-complex-industry-problems-john-easton-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-high-performance-computing-in-the-cloud-for-solving-complex-industry-problems-john-easton.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-high-performance-computing-in-the-cloud-for-solving-complex-industry-problems-john-easton-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-high-performance-computing-in-the-cloud-for-solving-complex-industry-problems-john-easton-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-high-performance-computing-in-the-cloud-for-solving-complex-industry-problems-john-easton",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-high-performance-computing-in-the-cloud-for-solving-complex-industry-problems-john-easton-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293995293/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293995107/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-high-performance-computing-in-the-cloud-for-solving-complex-industry-problems-john-easton:high-performance-computing-in-the-cloud-for-solving-complex-industry-problems",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-high-performance-computing-in-the-cloud-for-solving-complex-industry-problems-john-easton-3:high-performance-computing-in-the-cloud-for-solving-complex-industry-problems"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

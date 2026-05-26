@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/ServiceNow/AgentLab"
+  ],
+  "github_repository": "https://github.com/ServiceNow/AgentLab",
+  "id": "project:https-github-com-servicenow-agentlab",
+  "name": "AgentLab",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-how-to-train-your-llm-web-agent-a-statistical-diagnosis-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-how-to-train-your-llm-web-agent-a-statistical-diagnosis-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/311537773/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-how-to-train-your-llm-web-agent-a-statistical-diagnosis-event:how-to-train-your-llm-web-agent-a-statistical-diagnosis"
+  ],
+  "type": "project"
+}

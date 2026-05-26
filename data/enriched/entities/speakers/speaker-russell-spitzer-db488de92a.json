@@ -1,0 +1,58 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:russell-spitzer",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:1755011",
+    "meetup:18315941",
+    "meetup:18601481",
+    "meetup:18748975",
+    "meetup:20929747"
+  ],
+  "name": "Russell Spitzer",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-streamlio-gridgain-cassandra-spark-free-workshop-at-ibm-index-russell-spitzer-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-streamlio-gridgain-cassandra-spark-free-workshop-at-ibm-index-russell-spitzer-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer-2.json",
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-streamlio-gridgain-cassandra-spark-free-workshop-at-ibm-index-russell-spitzer-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-1-building-your-first-spark-c-app-2-smack-stack-3-the-cassandra-odyssey-russell-spitzer.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-register-at-sfspark-org-spark-cassandra-at-uber-cross-post-russell-spitzer.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer-2",
+    "bythebay-20260508-sf-scala-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer-2",
+    "bythebay-20260508-bay-area-ai-streamlio-gridgain-cassandra-spark-free-workshop-at-ibm-index-russell-spitzer-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-streamlio-gridgain-cassandra-spark-free-workshop-at-ibm-index-russell-spitzer-2",
+    "bythebay-20260508-scale-by-the-bay-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer-2",
+    "bythebay-20260508-graphql-by-the-bay-streamlio-gridgain-cassandra-spark-free-workshop-at-ibm-index-russell-spitzer-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-1-building-your-first-spark-c-app-2-smack-stack-3-the-cassandra-odyssey-russell-spitzer",
+    "bythebay-20260508-san-francisco-hadoop-users-register-at-sfspark-org-spark-cassandra-at-uber-cross-post-russell-spitzer",
+    "bythebay-20260508-sf-scala-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/247364332/",
+    "https://www.meetup.com/sf-scala/events/247364219/",
+    "https://www.meetup.com/bay-area-ai/events/247364462/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/247364297/",
+    "https://www.meetup.com/bythebay/events/247364693/",
+    "https://www.meetup.com/graphql-by-the-bay/events/247629754/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/234932979/",
+    "https://www.meetup.com/hadoopsf/events/234942894/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-1-building-your-first-spark-c-app-2-smack-stack-3-the-cassandra-odyssey-russell-spitzer:building-your-first-spark-c-app-2-smack-stack-3-the-cassandra-odyssey",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-register-at-sfspark-org-spark-cassandra-at-uber-cross-post-russell-spitzer:spark-cassandra-at-uber-cross-post",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-streamlio-gridgain-cassandra-spark-free-workshop-at-index-russell-spitzer:streamlio-gridgain-cassandra-spark-free-workshop-at-index"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

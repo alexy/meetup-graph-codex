@@ -1,0 +1,66 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:de-goes",
+      "company_name": "De Goes",
+      "title": "De Goes introduces a new Scala library"
+    },
+    {
+      "company_id": "company:de-goes",
+      "company_name": "De Goes",
+      "title": null
+    }
+  ],
+  "company_id": "company:de-goes",
+  "company_ids": [
+    "company:de-goes"
+  ],
+  "company_name": "De Goes",
+  "company_names": [
+    "De Goes"
+  ],
+  "conference_ids": [],
+  "id": "speaker:john-a",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:18748975"
+  ],
+  "name": "John A",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-the-zio-of-the-future-capital-one-s-scala-journey-girish-kolanthra.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-upgrade-your-future-by-john-a-de-goes-john-a.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-joint-with-zio-meetup-the-zio-of-the-future-capital-one-s-scala-journey-girish-kolanthra.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-the-zio-of-the-future-capital-one-s-scala-journey-girish-kolanthra",
+    "bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-2",
+    "bythebay-20260508-sf-scala-upgrade-your-future-by-john-a-de-goes-john-a",
+    "bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1",
+    "bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-2",
+    "bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1",
+    "bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-2",
+    "bythebay-20260508-sf-scala-joint-with-zio-meetup-the-zio-of-the-future-capital-one-s-scala-journey-girish-kolanthra"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/277119020/",
+    "https://www.meetup.com/bythebay/events/270897090/",
+    "https://www.meetup.com/sf-scala/events/262945562/",
+    "https://www.meetup.com/sf-scala/events/270897048/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-upgrade-your-future-by-john-a-de-goes-john-a:upgrade-your-future-by-john-a-de-goes",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1:reimagining-functional-type-classes",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-2:45pm-reimagining-functional-type-classes",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1:reimagining-functional-type-classes",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-2:45pm-reimagining-functional-type-classes",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-joint-with-zio-meetup-the-zio-of-the-future-capital-one-s-scala-journey-girish-kolanthra:the-zio-of-the-future-capital-ones-scala-journey"
+  ],
+  "title": "De Goes introduces a new Scala library",
+  "titles": [
+    "De Goes introduces a new Scala library"
+  ],
+  "type": "speaker"
+}

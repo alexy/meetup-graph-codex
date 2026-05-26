@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:manish-goyal",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Manish Goyal",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-what-does-chatgpt-mean-for-business-drive-disruptive-value-with-generative-ai-manish-goyal-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-what-does-chatgpt-mean-for-business-drive-disruptive-value-with-generative-ai-manish-goyal.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-what-does-chatgpt-mean-for-business-drive-disruptive-value-with-generative-ai-manish-goyal-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-what-does-chatgpt-mean-for-business-drive-disruptive-value-with-generative-ai-manish-goyal"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292217300/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-what-does-chatgpt-mean-for-business-drive-disruptive-value-with-generative-ai-manish-goyal:what-does-chatgpt-mean-for-business-drive-disruptive-value-with-generative-ai"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

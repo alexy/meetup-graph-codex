@@ -1,0 +1,33 @@
+{
+  "abstract": "RSVP TO THIS LINK: https://www.meetup.com/graphs/events/237100744/ Networking : 6:30-7:00pm We'll discuss the new Linux Foundation project JanusGraph, (http://janusgraph.org/)and where contributors can focus their attention There will be a collection of speakers talking about their specialist graph topics including: • Jason Plurad (https://www.linkedin.com/in/pluradj/), software engineer, will discuss IBM's journey in open source graphs and how its Open by Design approach has benefited open communities and IBM offerings. • Haikal Pribaldi (https://www.linkedin.com/in/haikalpribadi/) Founder and CEO of GRAKN.A will share how graph tech is used in GRAKN • Santosh Borse (https://www.linkedin.com/in/santoshborse/), software engineer at IBM, will discuss the creation of an enterprise social graph, how the graph was modeled in IBM, the overall setup, and use of gremlin • Misha Brukman (https://github.com/mbrukman), at Google, will share ideas around the use of graph with BigTable • Raymond Canzanese Jr (https://www.linkedin.com/in/raymond-canzanese-jr-178a846/), CTO at Sift Security, will describe their use of graph technologies • Denise Gosnell (https://www.linkedin.com/in/denisekgosnell/) , Senior Technical Evangelist, will describe her experience of graph and Titan in PokitDok",
+  "conference_id": null,
+  "date_time": "2017-03-01T18:30:00-05:00",
+  "end_time": "2017-03-01T21:00:00-05:00",
+  "event_id": "237908714",
+  "event_title": "JanusGraph NYC Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-janusgraph-nyc-meetup-event:janusgraph-nyc-meetup",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:linux-foundation"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-janusgraph-nyc-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-janusgraph-nyc-meetup-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/237908714/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "JanusGraph NYC Meetup",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/237908714/"
+}

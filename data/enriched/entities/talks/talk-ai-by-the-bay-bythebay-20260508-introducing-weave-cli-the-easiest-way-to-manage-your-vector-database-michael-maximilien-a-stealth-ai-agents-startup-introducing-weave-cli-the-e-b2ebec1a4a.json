@@ -1,0 +1,43 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-introducing-weave-cli-the-easiest-way-to-manage-your-vector-database-michael-maximilien-a-stealth-ai-agents-startup:introducing-weave-cli-the-easiest-way-to-manage-your-vector-database",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [
+    "project:weave-cli"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-introducing-weave-cli-the-easiest-way-to-manage-your-vector-database-michael-maximilien-a-stealth-ai-agents-startup.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-introducing-weave-cli-the-easiest-way-to-manage-your-vector-database-michael-maximilien-a-stealth-ai-agents-startup"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:michael-maximilien"
+  ],
+  "speakers": [
+    {
+      "company_name": "a stealth AI/Agents startup",
+      "id": "speaker:michael-maximilien",
+      "name": "Michael Maximilien",
+      "title": "Founder and CEO"
+    }
+  ],
+  "tags": [
+    "AI Infrastructure",
+    "RAG",
+    "LLMOps",
+    "OSS AI",
+    "AI Native Coding"
+  ],
+  "title": "Introducing weave-cli - the easiest way to manage your vector database",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/introducing-weave-cli-the-easiest-way-to-manage-your-vector-database"
+}

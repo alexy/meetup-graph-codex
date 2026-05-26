@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:computing-engine",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Computing Engine",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-june-2015-meetup-pre-hadoop-summit-computing-engine-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-june-2015-meetup-pre-hadoop-summit-computing-engine.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-june-2015-meetup-pre-hadoop-summit-computing-engine-2",
+    "bythebay-20260508-san-francisco-hadoop-users-june-2015-meetup-pre-hadoop-summit-computing-engine"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/222457953/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-june-2015-meetup-pre-hadoop-summit-computing-engine:june-2015-meetup-pre-hadoop-summit"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

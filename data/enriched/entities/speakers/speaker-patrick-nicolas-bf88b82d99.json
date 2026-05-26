@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:dell",
+      "company_name": "Dell",
+      "title": null
+    }
+  ],
+  "company_id": "company:dell",
+  "company_ids": [
+    "company:dell"
+  ],
+  "company_name": "Dell",
+  "company_names": [
+    "Dell"
+  ],
+  "conference_ids": [],
+  "id": "speaker:patrick-nicolas",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Patrick Nicolas",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-patrick-r-nicolas-scala-for-machine-learning-patrick-nicolas-dell-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-patrick-r-nicolas-scala-for-machine-learning-patrick-nicolas-dell.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-patrick-r-nicolas-scala-for-machine-learning-patrick-nicolas-dell-2",
+    "bythebay-20260508-scala-bay-patrick-r-nicolas-scala-for-machine-learning-patrick-nicolas-dell"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/223478413/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-patrick-r-nicolas-scala-for-machine-learning-patrick-nicolas-dell:patrick-r-nicolas-scala-for-machine-learning"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

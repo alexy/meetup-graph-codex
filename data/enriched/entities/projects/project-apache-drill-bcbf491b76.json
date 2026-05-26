@@ -1,0 +1,27 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-drill",
+  "name": "Apache Drill",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-users-meetup-mapr-anomaly.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-sf-spark-sf-hadoop-joint-meetup-at-strata-apache-spot-and-kudu-cyber-threats-apache-spot.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-register-at-sfhadoop-org-sf-spark-sf-hadoop-at-strata-apache-spot-apache-kudu-cyber-threats-apache-spot.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-users-meetup-mapr-anomaly-talk-1",
+    "bythebay-20260508-san-francisco-hadoop-users-sf-spark-sf-hadoop-joint-meetup-at-strata-apache-spot-and-kudu-cyber-threats-apache-spot",
+    "bythebay-20260508-sf-data-and-ai-engineering-register-at-sfhadoop-org-sf-spark-sf-hadoop-at-strata-apache-spot-apache-kudu-cyber-threats-apache-spot"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/206923002/",
+    "https://www.meetup.com/hadoopsf/events/237145958/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/238019344/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-users-meetup-mapr-anomaly-talk-1:self-service-data-exploration-with-apache-drill",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-sf-spark-sf-hadoop-joint-meetup-at-strata-apache-spot-and-kudu-cyber-threats-apache-spot:sf-spark-sf-hadoop-joint-meetup-at-strata-apache-spot-and-kudu",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-register-at-sfhadoop-org-sf-spark-sf-hadoop-at-strata-apache-spot-apache-kudu-cyber-threats-apa:sf-spark-sf-hadoop-at-strata-apache-spot-apache-kudu"
+  ],
+  "type": "project"
+}

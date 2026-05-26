@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:emile-vauge-creator",
+  "meetup_ids": [
+    "meetup:18748975"
+  ],
+  "name": "Emile Vauge Creator",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-traefik-a-modern-reverse-proxy-ben-parli-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-traefik-a-modern-reverse-proxy-ben-parli.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-traefik-a-modern-reverse-proxy-ben-parli-2",
+    "bythebay-20260508-scale-by-the-bay-traefik-a-modern-reverse-proxy-ben-parli"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/240186980/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-traefik-a-modern-reverse-proxy-ben-parli:traefik-a-modern-reverse-proxy"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

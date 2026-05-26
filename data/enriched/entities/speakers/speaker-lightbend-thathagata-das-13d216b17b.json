@@ -1,0 +1,26 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:lightbend-thathagata-das",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Lightbend Thathagata Das",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/247629184/"
+  ],
+  "talk_ids": [],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "company:yugabyte",
+  "name": "Yugabyte",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-too-far-too-furious-multi-region-cloud-applications-denis-magda-yugabyte.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-too-far-too-furious-multi-region-cloud-applications-denis-magda-yugabyte"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:denis-magda"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-too-far-too-furious-multi-region-cloud-applications-denis-magda-yugabyte:too-far-too-furious-multi-region-cloud-applications",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot-denis-magda:apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot"
+  ],
+  "type": "company"
+}

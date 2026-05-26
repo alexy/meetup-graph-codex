@@ -1,0 +1,28 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:ted-dunning",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Ted Dunning",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-users-meetup-mapr-anomaly.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-users-meetup-mapr-anomaly-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/206923002/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-october-sf-hadoop-users-meetup-mapr-anomaly-talk-2:how-to-find-what-you-didn-t-know-to-look-for-practical-anomaly-detection"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

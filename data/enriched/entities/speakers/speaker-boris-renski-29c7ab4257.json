@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:nova-labs",
+      "company_name": "Nova Labs",
+      "title": "Tech Entrep, Core Contributor"
+    }
+  ],
+  "company_id": "company:nova-labs",
+  "company_ids": [
+    "company:nova-labs"
+  ],
+  "company_name": "Nova Labs",
+  "company_names": [
+    "Nova Labs"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:boris-renski",
+  "meetup_ids": [],
+  "name": "Boris Renski",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-boris-renski-nova-labs.json",
+    "data/raw/sources/bythebay-20260508-is-generative-bi-failing-boris-renski-nova-labs.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-boris-renski-nova-labs",
+    "bythebay-20260508-is-generative-bi-failing-boris-renski-nova-labs"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-is-generative-bi-failing-boris-renski-nova-labs:is-generative-bi-failing"
+  ],
+  "title": "Tech Entrep, Core Contributor",
+  "titles": [
+    "Tech Entrep, Core Contributor"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,39 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-the-missing-protocol-how-mcp-bridges-llms-and-data-streams-viktor-gamov-confluent:the-missing-protocol-how-mcp-bridges-llms-and-data-streams",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-the-missing-protocol-how-mcp-bridges-llms-and-data-streams-viktor-gamov-confluent.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-the-missing-protocol-how-mcp-bridges-llms-and-data-streams-viktor-gamov-confluent"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:viktor-gamov"
+  ],
+  "speakers": [
+    {
+      "company_name": "Confluent",
+      "id": "speaker:viktor-gamov",
+      "name": "Viktor Gamov",
+      "title": "Principal Developer Advocate"
+    }
+  ],
+  "tags": [
+    "Agentic AI",
+    "MCP",
+    "AI Infrastructure"
+  ],
+  "title": "The Missing Protocol: How MCP Bridges LLMs and Data Streams",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/the-missing-protocol%3A-how-mcp-bridges-llms-and-data-streams"
+}

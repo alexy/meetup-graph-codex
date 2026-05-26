@@ -1,0 +1,40 @@
+{
+  "abstract": "Academy (http://www.meetup.com/academy-by-the-bay) By the Bay is now a Typesafe-certified Training Partner, offering Fast Track to Scala, a flagship Typesafe course, at Scala By the Bay (http://www.scalabythebay.org) conference. This By the Bay edition is taught by Brendan W. McAdams, the author of MongoDB Scala drivers and Akka contributor. His notes on the course (http://www.scalabythebay.org/files/scala training deck.pdf) are published at the conference training (http://www.scalabythebay.org/training.html training) page. Please register for the course at Scala By the Bay (http://www.scalabythebay.org/ tickets) -- we now offer a training-only option, as well as Scala training+conference and Scala+Spark training+conference. More professional training courses in the areas of Scala, Distributed Systems, Machine Learning, Social Network Analysis, Natural Language Processing and more will be taught by the authors of the relevant world-class open-source projects at the Academy By the Bay (http://www.meetup.com/academy-by-the-bay)",
+  "conference_id": null,
+  "date_time": "2014-08-06T09:00:00-07:00",
+  "end_time": "2014-08-07T17:00:00-07:00",
+  "event_id": "197384852",
+  "event_title": "Fast Track to Scala By the Bay",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-fast-track-to-scala-by-the-bay-brendan-w:fast-track-to-scala-by-the-bay",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-fast-track-to-scala-by-the-bay-brendan-w.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-fast-track-to-scala-by-the-bay-brendan-w"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/197384852/"
+  ],
+  "speaker_ids": [
+    "speaker:brendan-w"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:brendan-w",
+      "name": "Brendan W",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Fast Track to Scala By the Bay",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/197384852/"
+}

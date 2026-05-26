@@ -1,0 +1,47 @@
+{
+  "abstract": "We’re super excited to share some awesome news: we’re expanding to Europe and introducing our newest conference! Blockchain: http://RethinkTrust.org - taking place at Beurs van Berlage, Amsterdam, on June 29th! (Scroll down for 15% off.) Blockchain: Rethink Trust is a gathering of top experts in engineering and ecosystem-minded leaders, focused on reengineering enterprise trust networks through technology. It will expand your understanding of blockchain, trust mechanisms, and how corporate world uses them. Rethink Trust is a By the Bay conference, brought to you by the creators of Scale By the Bay, AI By the Bay, and Data By the Bay engineering events help in San Francisco for over five years in partnership with IBM, ING, Apple, Twitter, Salesforce, and dozens of innovative startups and enterprises in the Bay Area and around the world. Dr. Alexy Khrabrov, Founder, By the Bay, is the Program Chair, and he wrote about the philosophy of Rethink Trust on his Medium blog: http://chief.sc/rethinktrust2018-intro We invite C-level executives, senior engineers, and technical leaders who wants to master the best practices in blockchain to the famous Beurs van Berlage, “the third stock exchange” of Amsterdam. True to the spirit of all of our previous events, Blockchain: Rethink Trust is laser-focused on learning, open-source excellence, and industry-oriented approaches that work. SPEAKERS We have the world’s top technology leaders speaking at the event. The keynote speakers include: -- Christopher Ferris, IBM CTO Open Technology, Chair of the Hyperledger Technical Steering -- Mariana Gómez de la Villa, Global Program Manager, ING DLT You will also hear from: -- Clara Durodie, Founder and CEO, Cognitive Finance Group -- Roman Shaposhnik, VP Product & Strategy, Co-founder. ZEDEDA -- Yonatan Sompolinsky, Co-founder & Scientist, DAGlabs -- Michael Egorov, CTO, NuCypher -- Roberto Mancone, Chief Operating Officer at we.trade Innovation DAC, the company developing, deploying, and distributing we.trade, the Blockchain based Trade Finance , reporting to the Board of Director of the 9 European Shareholders Banks (Deutsche Bank, HSBC, KBC, Natixis, Nordea, Rabobank, Rabobank, Santander, SocGen, Unicredit) -- Christopher Georgen, Founder and CEO, Topl, the company developing blockchain solutions for the developing world … and more! TOPICS We will cover a variety of topics at the intersection of engineering and business management, including: -- Crypto protocols of today and tomorrow and the software engineering process required to deploy them for enterprise customers at scale; -- Technology behind the key blockchain deployments in FinTech and IoT; -- Rigorous software engineering practices required for safe, correct, and performant implementation of blockchain applications and platforms; -- Key aspects of hardware-software codevelopment crucial for IoT+blockchain; -- ... and more Explore the program of the conference at http://rethinktrust.org WORKSHOPS We’ll have three workshops at the workshop track, available to all attendees. You can freely switch between the main track and the workshop track. -- Hyperledger workshop taught by Arnaud Le Hors, core Hyperledger team -- Implementation workshop by IntellectSoft -- Scala Blockchain -- secure and type-safe -- by Topl, the developing world blockchain company YOU WILL LEARN -- Discover ways to implement blockchain technology for reengineering trust in key business verticals -- Understand best practices of enterprise adoption of the ledger consensus approaches -- Conduct strategic partnerships for a consortium of trusted and trustless systems -- Invite key developers to collaborate on your blockchain ecosystem Tickets For a limited time, we’re offering an additional 15% off to By the Bay community. To claim the offer, use the code BYTHEBAYOFFER15 at http://rethinktrust.org",
+  "conference_id": null,
+  "date_time": "2018-06-29T08:00:00-07:00",
+  "end_time": "2018-06-29T21:00:00-07:00",
+  "event_id": "250554922",
+  "event_title": "Rethink Trust -- Amsterdam, June 29",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-rethink-trust-amsterdam-june-29-arnaud-le-hors:rethink-trust-amsterdam-june-29",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-rethink-trust-amsterdam-june-29-arnaud-le-hors.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-rethink-trust-amsterdam-june-29-arnaud-le-hors"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/250554922/"
+  ],
+  "speaker_ids": [
+    "speaker:arnaud-le-hors",
+    "speaker:rethink-trust"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:arnaud-le-hors",
+      "name": "Arnaud Le Hors",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:rethink-trust",
+      "name": "Rethink Trust",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Rethink Trust -- Amsterdam, June 29",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/250554922/"
+}

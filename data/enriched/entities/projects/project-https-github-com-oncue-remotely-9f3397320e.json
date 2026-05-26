@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/oncue/remotely"
+  ],
+  "github_repository": "https://github.com/oncue/remotely",
+  "id": "project:https-github-com-oncue-remotely",
+  "name": "remotely",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-jean-remi-desjardins-computation-expressions-in-scala-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-jean-remi-desjardins-computation-expressions-in-scala-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/222141286/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-jean-remi-desjardins-computation-expressions-in-scala-event:jean-remi-desjardins-computation-expressions-in-scala"
+  ],
+  "type": "project"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": "RSVP: http://bit.ly/2gOcufe This webinar will cover an overview of Watson Data Platform capabilities and how to empower users across the organization to make the most out of their data. What if you can shorten the time it takes to create value out of your existing organizational data ? What if you can provision a common analytic engine with managed services that will enable you to embrace multiple cloud platforms ? IBM Watson Data Platform is the first cloud-based data and analytics platform to support cognitive businesses. It enables access, collaboration and paths to insights by connecting all users through trusted access to a variety of data, discovering new possibilities and opportunities with built-in intelligence, automation and machine learning and accelerating outcomes with rapid deployment of new data models and fast embedding of insights into processes, applications and services. Let us show you how Watson Data Platform can be the milestone of your organization analytics strategy and empower your organization into the new Cognitive analytics era. Speaker Bio: Gerardo Rodríguez Díaz - is an avid traveler, technologist enthusiast and Big data and Analytics cloud solution specialist focused on communications and computer systems integrations industries across North America. GRD areas of specialization are IT, Marketing and Business Intelligence having worked across European, North and South American markets",
+  "conference_id": null,
+  "date_time": "2016-12-20T12:00:00-05:00",
+  "end_time": "2016-12-20T13:00:00-05:00",
+  "event_id": "236263224",
+  "event_title": "Making Data Simple in the Cognitive Era",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-making-data-simple-in-the-cognitive-era-south-american:making-data-simple-in-the-cognitive-era",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-making-data-simple-in-the-cognitive-era-south-american.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-making-data-simple-in-the-cognitive-era-south-american"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/236263224/"
+  ],
+  "speaker_ids": [
+    "speaker:south-american"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:south-american",
+      "name": "South American",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Making Data Simple in the Cognitive Era",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/236263224/"
+}

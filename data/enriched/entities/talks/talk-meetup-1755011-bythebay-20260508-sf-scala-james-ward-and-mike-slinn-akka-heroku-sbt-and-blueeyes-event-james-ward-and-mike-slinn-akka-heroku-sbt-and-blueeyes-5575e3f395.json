@@ -1,0 +1,37 @@
+{
+  "abstract": "Networking with pizza and beer starts at 6:30. http://photos1.meetupstatic.com/photos/event/c/7/6/c/event 67611052.jpeghttp://photos3.meetupstatic.com/photos/event/5/b/7/e/event 71363422.jpeg At 7pm Mike Slinn (http://micronauticsresearch.com/) and James Ward (http://www.jamesward.com/) will talk about sbt, IntelliJ IDEA and Eclipse. They will cover sbt configuration files, a live demonstration of using sbt 0.11 standalone, sbt with IntelliJ IDEA and the Scala plugin for Eclipse. Their second topic will be a Scala project they has been working on that uses the BlueEyes framework (https://github.com/jdegoes/blueeyes) and runs on Heroku (http://www.heroku.com/). James and Mike will discuss Heroku and its support for Scala and frameworks, then they will walk through the project. Mike and James will discuss the BlueEyes service description DSL and how Akka Actors and Software Transactional Memory Refs provide scalability for this computationally intensive task. We'll follow up with Q/A and more networking. Doors close at 9:30pm",
+  "conference_id": null,
+  "date_time": "2011-11-21T18:30:00-08:00",
+  "end_time": "2011-11-21T21:30:00-08:00",
+  "event_id": "39108572",
+  "event_title": "James Ward and Mike Slinn - Akka, Heroku, sbt and BlueEyes",
+  "github_repositories": [
+    "https://github.com/jdegoes/blueeyes"
+  ],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-james-ward-and-mike-slinn-akka-heroku-sbt-and-blueeyes-event:james-ward-and-mike-slinn-akka-heroku-sbt-and-blueeyes",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:https-github-com-jdegoes-blueeyes",
+    "project:scala",
+    "project:blueeyes"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-james-ward-and-mike-slinn-akka-heroku-sbt-and-blueeyes-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-james-ward-and-mike-slinn-akka-heroku-sbt-and-blueeyes-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/39108572/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "James Ward and Mike Slinn - Akka, Heroku, sbt and BlueEyes",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/39108572/"
+}

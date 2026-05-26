@@ -1,0 +1,31 @@
+{
+  "abstract": "Like most organizations, your company is probably pressing ahead to close out projects and prepare new ones for the coming year. Inevitably, these annual evaluations and reviews call into question the preservation of your existing IT investment while exploiting new areas for growth. Some vendors strongly encourage vertically integrated solutions with a promise of seamless operation, but reality dictates a closer look at technology choices. If you’re currently running an SAP environment with DB2 for Linux, UNIX and Windows software, there are quite a few options available to help you leverage existing DB2 infrastructure and be well positioned for new projects. You are cordially invited to attend a half-day seminar to learn key DB2 insights and considerations for SAP environments. You may want to consider attending a free short-day seminar on Tuesday, December 13th. In order to confirm your seat at this seminar, you must enroll at this link: http://bit.ly/2fRPn1B IBM SAP experts will: - Outline issues and factors affecting database use with SAP - Go over key considerations on selecting solutions - Provide a DB2 for Linux, UNIX and Windows Roadmap - Showcase breakthrough in-memory technologies - Illustrate how your continued use of DB2 for Linux, UNIX and Windows in SAP environment is not just safe but the optimal one for growth After all, wouldn’t you want to know how to make existing investment work smarter without the risks of rip and replace? Agenda: 9:30 am - Check-in/Welcome 10:00 am - Market Review of Database Usage in SAP EnvironmentDB2 v11 roadmap with SAPBLU Acceleration and MPP - Analytic Performance 12:15 pm - IBM Hosted Lunch 1:00 pm - Database Migration 2:30 pm - Close You must register to confirm your seat: http://bit.ly/2fRPn1B",
+  "conference_id": null,
+  "date_time": "2016-12-13T09:30:00-05:00",
+  "end_time": "2016-12-13T14:30:00-05:00",
+  "event_id": "236071665",
+  "event_title": "DB2 for SAP - Poised for Growth",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-db2-for-sap-poised-for-growth-event:db2-for-sap-poised-for-growth",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-db2-for-sap-poised-for-growth-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-db2-for-sap-poised-for-growth-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/236071665/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "DB2 for SAP - Poised for Growth",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/236071665/"
+}

@@ -1,0 +1,31 @@
+{
+  "abstract": "Note: AI.bythebay.io (http://ai.bythebay.io/) conference is featuring data pipelines in AI context. Use the code REACTIVE to register. Use sfscala.org to RSVP (https://www.meetup.com/SF-Scala/events/236807300/) to this meetup. Experiences building and operating Twitter at massive scale drove the technical team to start new infrastructure projects and companies. In this panel discussion, current and former members of Twitter’s technical team will talk about the infrastructure challenges that inspired Pelikan Cache, FaunaDB, Buoyant, and Turbine Labs",
+  "conference_id": null,
+  "date_time": "2017-01-24T18:30:00-08:00",
+  "end_time": "2017-01-24T21:30:00-08:00",
+  "event_id": "237167431",
+  "event_title": "[cross-post] Evolving Infrastructure After Twitter: a Panel",
+  "github_repositories": [],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-cross-post-evolving-infrastructure-after-twitter-a-panel-event:evolving-infrastructure-after-twitter-a-panel",
+  "kind": "announcement",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-cross-post-evolving-infrastructure-after-twitter-a-panel-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-cross-post-evolving-infrastructure-after-twitter-a-panel-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/237167431/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "Evolving Infrastructure After Twitter: a Panel",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/237167431/"
+}

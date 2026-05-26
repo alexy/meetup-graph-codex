@@ -1,0 +1,45 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ibm-research-ai",
+      "company_name": "IBM Research AI",
+      "title": "IBM Research AI"
+    }
+  ],
+  "company_id": "company:ibm-research-ai",
+  "company_ids": [
+    "company:ibm-research-ai"
+  ],
+  "company_name": "IBM Research AI",
+  "company_names": [
+    "IBM Research AI"
+  ],
+  "conference_ids": [],
+  "id": "speaker:matan-orbach",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Matan Orbach",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291850152/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291850004/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-res:targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews"
+  ],
+  "title": "IBM Research AI",
+  "titles": [
+    "IBM Research AI"
+  ],
+  "type": "speaker"
+}

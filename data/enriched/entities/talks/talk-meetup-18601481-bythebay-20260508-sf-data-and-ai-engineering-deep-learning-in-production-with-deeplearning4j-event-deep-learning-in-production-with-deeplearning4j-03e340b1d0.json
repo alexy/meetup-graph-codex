@@ -1,0 +1,33 @@
+{
+  "abstract": "This free tutorial is a part of the Cognitive Frameworks Festival: http://festival.framework.foundation DeepLearning4J (Deep Learning for Java - DL4J, inception 2013) was specifically designed with Enterprise and Production in mind, as a first-class citizen to the JVM. The DL4J Stack was designed to integrate well with other components of the Big Data Ecosystem, with the ability to scale. While there do exist Open Source components, Skymind also develops an additional layer, the Skymind Intelligence Layer (SKIL) as part of the bundled vendor distribution. For performance functionality, some of the underlying operations of the stack are written natively in C++. Agenda: • Intro to Skymind/DL4J, Core Components, and Framework Capabilities • How to create/setup the environment & executing our examples • DL4J Deep Learning Workflow + Keras Model Import • DL4J Network Demos: VGG-16 Classifier, etc... • Distributed Parallel Training on Multi-GPUs via Apache Spark • Select Contrasts with Deep Learning Frameworks",
+  "conference_id": null,
+  "date_time": "2017-06-09T10:00:00-07:00",
+  "end_time": "2017-06-09T12:00:00-07:00",
+  "event_id": "240297816",
+  "event_title": "Deep Learning in Production with Deeplearning4j",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-deep-learning-in-production-with-deeplearning4j-event:deep-learning-in-production-with-deeplearning4j",
+  "kind": "workshop",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [
+    "project:apache-spark"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-deep-learning-in-production-with-deeplearning4j-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-deep-learning-in-production-with-deeplearning4j-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/240297816/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Deep Learning in Production with Deeplearning4j",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/240297816/"
+}

@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:yorktown-heights",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Yorktown Heights",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-trustworthy-machine-learning-kush-r-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-trustworthy-machine-learning-kush-r.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-trustworthy-machine-learning-kush-r-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-trustworthy-machine-learning-kush-r"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/284364817/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-trustworthy-machine-learning-kush-r:ibm-data-science-community-trustworthy-machine-learning"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,25 @@
+{
+  "github_repositories": [
+    "https://github.com/The-AI-Alliance/gofannon"
+  ],
+  "github_repository": "https://github.com/The-AI-Alliance/gofannon",
+  "id": "project:https-github-com-the-ai-alliance-gofannon",
+  "name": "gofannon",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gofannon-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gofannon-event-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gofannon-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gofannon-event-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/307321224/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/307406694/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gofannon-event:introducing-gofannon",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gofannon-event-2:introducing-gofannon"
+  ],
+  "type": "project"
+}

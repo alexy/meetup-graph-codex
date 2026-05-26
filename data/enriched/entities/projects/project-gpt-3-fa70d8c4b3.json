@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:gpt-3",
+  "name": "GPT-3",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-seize-the-ai-advantage-discover-watsonx-ibm-s-generative-ai-platform-tal-neeman.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-seize-the-ai-advantage-discover-watsonx-ibm-s-generative-ai-platform-tal-neeman"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/294722997/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-seize-the-ai-advantage-discover-watsonx-ibm-s-generative-ai-platform-tal-neeman:seize-the-ai-advantage-discover-watsonx-ibms-generative-ai-platform"
+  ],
+  "type": "project"
+}

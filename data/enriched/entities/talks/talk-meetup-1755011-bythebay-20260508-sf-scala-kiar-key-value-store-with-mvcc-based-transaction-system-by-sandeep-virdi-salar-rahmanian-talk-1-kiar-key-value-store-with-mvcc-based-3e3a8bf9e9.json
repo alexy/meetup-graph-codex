@@ -1,0 +1,50 @@
+{
+  "abstract": "Multi-version Concurrency Control, MVCC, is currently the most popular protocol among modern database management systems In this talk, we will look at an implementation of a MVCC based transaction system for an in-memory store A few highlights (1) Supports Delta Versioning (2) Data Validation via Precision Locking (3) Columnar Memory Layout using Apache Arrow (4) Built using ZIO functional programming library Reference Paper Fast Serializable Multi-Version Concurrency Control for Main-Memory Database Systems: https://db.in.tum.de/~muehlbau/papers/mvcc.pdf About our Speaker Sandeep Virdi Sandeep Virdi is an engineer who likes to build things. He is interested in functional programming and all paradigms associated with it. In his free time he likes to hike and spend time with his kids",
+  "conference_id": null,
+  "date_time": "2021-02-04T17:30:00-08:00",
+  "end_time": "2021-02-04T19:30:00-08:00",
+  "event_id": "275839287",
+  "event_title": "Kiar - Key/Value store with MVCC based Transaction System By Sandeep Virdi",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-kiar-key-value-store-with-mvcc-based-transaction-system-by-sandeep-virdi-salar-rahmanian-talk-1:kiar-key-value-store-with-mvcc-based-transaction-system",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:apache-arrow",
+    "project:kiar"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-kiar-key-value-store-with-mvcc-based-transaction-system-by-sandeep-virdi-salar-rahmanian.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-kiar-key-value-store-with-mvcc-based-transaction-system-by-sandeep-virdi-salar-rahmanian-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/275839287/"
+  ],
+  "speaker_ids": [
+    "speaker:sandeep-virdi",
+    "speaker:salar-rahmanian"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:sandeep-virdi",
+      "name": "Sandeep Virdi",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:salar-rahmanian",
+      "name": "Salar Rahmanian",
+      "title": "5.45pm Kiar - Key/Value store"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Kiar - Key/Value store with MVCC based Transaction System",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/275839287/"
+}

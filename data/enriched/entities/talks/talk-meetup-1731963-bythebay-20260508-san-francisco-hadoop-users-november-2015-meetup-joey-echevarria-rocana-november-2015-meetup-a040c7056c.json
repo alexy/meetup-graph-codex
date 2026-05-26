@@ -1,0 +1,54 @@
+{
+  "abstract": "Thanks to Microsoft for letting us use their new community space!",
+  "conference_id": null,
+  "date_time": "2015-11-04T18:00:00-08:00",
+  "end_time": "2015-11-04T20:00:00-08:00",
+  "event_id": "224902669",
+  "event_title": "November 2015 Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana:november-2015-meetup",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/224902669/"
+  ],
+  "speaker_ids": [
+    "speaker:joey-echevarria",
+    "speaker:joey-echeverria",
+    "speaker:o-reilly-media"
+  ],
+  "speakers": [
+    {
+      "company_name": "Rocana",
+      "id": "speaker:joey-echevarria",
+      "name": "Joey Echevarria",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:joey-echeverria",
+      "name": "Joey Echeverria",
+      "title": "Rocana"
+    },
+    {
+      "company_name": null,
+      "id": "speaker:o-reilly-media",
+      "name": "O'Reilly Media",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "November 2015 Meetup",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/224902669/"
+}

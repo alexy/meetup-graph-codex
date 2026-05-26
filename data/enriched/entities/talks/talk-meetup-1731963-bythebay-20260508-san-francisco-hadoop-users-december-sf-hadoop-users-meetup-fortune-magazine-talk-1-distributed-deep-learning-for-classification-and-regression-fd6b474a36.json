@@ -1,0 +1,40 @@
+{
+  "abstract": "Arno Candel - Physicist & Hacker, 0xdata",
+  "conference_id": null,
+  "date_time": "2014-12-10T18:00:00-08:00",
+  "end_time": "2014-12-10T21:00:00-08:00",
+  "event_id": "219004016",
+  "event_title": "December SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-december-sf-hadoop-users-meetup-fortune-magazine-talk-1:distributed-deep-learning-for-classification-and-regression-problems-using-h2o",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-december-sf-hadoop-users-meetup-fortune-magazine.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-december-sf-hadoop-users-meetup-fortune-magazine-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/219004016/"
+  ],
+  "speaker_ids": [
+    "speaker:fortune-magazine"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:fortune-magazine",
+      "name": "Fortune Magazine",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Distributed Deep Learning for Classification and Regression problems using H2O",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/219004016/"
+}

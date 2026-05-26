@@ -1,0 +1,47 @@
+{
+  "abstract": "Please join the session that is best suited to your time zone...this topic is repeated at 2 different times. In this presentation, we will explore the European Union's AI Act draft and how businesses can prepare for its implementation. Organizations are creating systems that impact millions of people. Potential risks come alongside its great potential. Thus, we need everyone at the table co-creating a future with AI, that is worth living in. The European Commission published a proposal for laying down harmonized rules on AI to balance innovation power and Europeans' values, fundamental rights and principles. We will discuss the key provisions of the Act, including the requirements for high-risk AI systems. Through case studies, we will provide practical insights on how to innovate and create AI responsibly, supporting AI Act requirements while also driving business growth. A holistic approach to AI governance - organizationally and technically. Attendees will leave with a clear understanding of the EU AI Act, its implications for their business, and actionable steps to prevent harmful implications. Presenter: James Winters James works as a Data & AI Governance Specialist at IBM, supporting organisations to effectively use and govern their Data & develop Trustworthy AI, whilst maintaining regulatory compliance and supporting business priorities. James has a keen focus on the responsible development and use technology and supports and drives various community centered initiatives at IBM and its partners. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/r4e3c59766c461509e65fa925c210730d",
+  "conference_id": null,
+  "date_time": "2023-07-19T08:00:00-04:00",
+  "end_time": "2023-07-19T09:00:00-04:00",
+  "event_id": "292859839",
+  "event_title": "How to Prepare for the EU AI Act by Innovating and Creating AI Responsibly",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly-james-winters:how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly-james-winters.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly-james-winters"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292859839/"
+  ],
+  "speaker_ids": [
+    "speaker:james-winters",
+    "speaker:james-winters-james"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:james-winters",
+      "name": "James Winters",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:james-winters-james",
+      "name": "James Winters James",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "How to Prepare for the EU AI Act by Innovating and Creating AI Responsibly",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/292859839/"
+}

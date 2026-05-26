@@ -1,0 +1,40 @@
+{
+  "abstract": "Maciej Gorywoda is a Product Marketing Manager in the IntelliJ Scala Plugin team at JetBrains. In 2005, he graduated from the Warsaw University of Technology with an MSc in Artificial Intelligence. He started working with Scala in 2014, and since then, it has become his favourite programming language for both professional work and various hobby projects. He speaks at conferences and produces YouTube videos on the basics of Functional Programming, Scala on Android, and Artificial Intelligence in video games. In 2024, he became an official Scala Ambassador In his free time, Maciej writes fantasy, trains martial arts, and goes on long-distance bicycle trips",
+  "conference_id": null,
+  "date_time": "2025-02-08T09:00:00-08:00",
+  "end_time": "2025-02-08T11:00:00-08:00",
+  "event_id": "305629309",
+  "event_title": "Functional Programming in Scala - Part 2 of 3",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-programming-in-scala-part-2-of-3-event-talk-2:about-our-speaker",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-functional-programming-in-scala-part-2-of-3-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-functional-programming-in-scala-part-2-of-3-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/305629309/"
+  ],
+  "speaker_ids": [
+    "speaker:functional-programming"
+  ],
+  "speakers": [
+    {
+      "company_name": "Scala",
+      "id": "speaker:functional-programming",
+      "name": "Functional Programming",
+      "title": "Scala on Android"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "About our speaker",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/305629309/"
+}

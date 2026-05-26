@@ -1,0 +1,31 @@
+{
+  "abstract": "Note: ai.bythebay.io is ramping up for March 6-8. Use the code BAYAREAAI (https://www.universe.com/embed2/events/582a8788155c6b004e96b236?state=%7B%22currentDiscountCode%22%3A%7B%22code%22%3A%22BAYAREAAI%22%7D%7D) to register. We have a few lightning talks lined up. Thanks PubNub for hosting! The planned talks are on H2O and Image Segmentation. Propose yours!",
+  "conference_id": null,
+  "date_time": "2017-01-17T18:30:00-08:00",
+  "end_time": "2017-01-17T21:30:00-08:00",
+  "event_id": "236807763",
+  "event_title": "2017 Bay Area AI Kickoff on the 17th",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-2017-bay-area-ai-kickoff-on-the-17th-event:2017-bay-area-ai-kickoff-on-the-17th",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-2017-bay-area-ai-kickoff-on-the-17th-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-2017-bay-area-ai-kickoff-on-the-17th-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/236807763/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "2017 Bay Area AI Kickoff on the 17th",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/236807763/"
+}

@@ -1,0 +1,31 @@
+{
+  "abstract": "Please note -- this event requires RSVP on this website (Need Your Phone Number) Hugging Face Founder @ClementDelangue & team members will be hosting a big community event in San Francisco this Friday evening. Please join us for this exciting event in-person in San Francisco!",
+  "conference_id": null,
+  "date_time": "2023-03-31T18:00:00-07:00",
+  "end_time": "2023-03-31T21:00:00-07:00",
+  "event_id": "292525962",
+  "event_title": "[Partner Event] HuggingFace Open Source AI Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-partner-event-huggingface-open-source-ai-meetup-event:huggingface-open-source-ai-meetup",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-partner-event-huggingface-open-source-ai-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-partner-event-huggingface-open-source-ai-meetup-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/292525962/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "HuggingFace Open Source AI Meetup",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/292525962/"
+}

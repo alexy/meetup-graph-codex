@@ -1,0 +1,37 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:rethink-trust",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:18601481"
+  ],
+  "name": "Rethink Trust",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-rethink-trust-amsterdam-june-29-arnaud-le-hors-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-rethink-trust-amsterdam-june-29-arnaud-le-hors-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-rethink-trust-amsterdam-june-29-arnaud-le-hors.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-rethink-trust-amsterdam-june-29-arnaud-le-hors.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-rethink-trust-amsterdam-june-29-arnaud-le-hors-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-rethink-trust-amsterdam-june-29-arnaud-le-hors-2",
+    "bythebay-20260508-san-francisco-hadoop-users-rethink-trust-amsterdam-june-29-arnaud-le-hors",
+    "bythebay-20260508-sf-data-and-ai-engineering-rethink-trust-amsterdam-june-29-arnaud-le-hors"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/250554922/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/250555167/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-rethink-trust-amsterdam-june-29-arnaud-le-hors:rethink-trust-amsterdam-june-29",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-rethink-trust-amsterdam-june-29-arnaud-le-hors:rethink-trust-amsterdam-june-29"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:lightpanda",
+      "company_name": "Lightpanda",
+      "title": "CEO"
+    }
+  ],
+  "company_id": "company:lightpanda",
+  "company_ids": [
+    "company:lightpanda"
+  ],
+  "company_name": "Lightpanda",
+  "company_names": [
+    "Lightpanda"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:francis-bouvier",
+  "meetup_ids": [],
+  "name": "Francis Bouvier",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-francis-bouvier-lightpanda.json",
+    "data/raw/sources/bythebay-20260508-securing-ai-agents-on-the-open-web-one-task-one-browser-francis-bouvier-lightpanda.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-francis-bouvier-lightpanda",
+    "bythebay-20260508-securing-ai-agents-on-the-open-web-one-task-one-browser-francis-bouvier-lightpanda"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-securing-ai-agents-on-the-open-web-one-task-one-browser-francis-bouvier-lightpanda:securing-ai-agents-on-the-open-web-one-task-one-browser"
+  ],
+  "title": "CEO",
+  "titles": [
+    "CEO"
+  ],
+  "type": "speaker"
+}

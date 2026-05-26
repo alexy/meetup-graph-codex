@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2012-11-14T18:00:00-08:00",
+  "end_time": "2012-11-14T21:00:00-08:00",
+  "event_id": "88720952",
+  "event_title": "November 2012 San Francisco Hadoop User Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-november-2012-san-francisco-hadoop-user-meetup-event:the-november-hadoop-meetup-will-be-held-wednesday-november-14-from-6-00pm-to-8-00pm-this-m",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-november-2012-san-francisco-hadoop-user-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-november-2012-san-francisco-hadoop-user-meetup-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/88720952/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The November Hadoop meetup will be held Wednesday, November 14, from 6:00pm to 8:00pm. This meetup will be hosted",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/88720952/"
+}

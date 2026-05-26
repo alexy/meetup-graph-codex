@@ -1,0 +1,53 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Joan is a Playback Data Engineer in the Data Science and Engineering org"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:joan-goyeau",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:2891482"
+  ],
+  "name": "Joan Goyeau",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-2",
+    "bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-2",
+    "bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-1",
+    "bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-2",
+    "bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-5",
+    "bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-1",
+    "bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-2",
+    "bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-5"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/306178453/",
+    "https://www.meetup.com/scala-bay/events/306178503/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-1:designing-the-library-powering-netflix-s-qoe-with-scala-3-by-joan-goyeau",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-2:about-joan-goyeau",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-5:designing-the-library-powering-netflix-s-qoe-with-scala-3",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-1:designing-the-library-powering-netflix-s-qoe-with-scala-3-by-joan-goyeau",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-2:about-joan-goyeau",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-5:designing-the-library-powering-netflix-s-qoe-with-scala-3"
+  ],
+  "title": "Joan is a Playback Data Engineer in the Data Science and Engineering org",
+  "titles": [
+    "Joan is a Playback Data Engineer in the Data Science and Engineering org"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "company:datastax",
+  "name": "DataStax",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-mary-grygleski-mary-grygleski-datastax.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-mary-grygleski-mary-grygleski-datastax"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:mary-grygleski"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

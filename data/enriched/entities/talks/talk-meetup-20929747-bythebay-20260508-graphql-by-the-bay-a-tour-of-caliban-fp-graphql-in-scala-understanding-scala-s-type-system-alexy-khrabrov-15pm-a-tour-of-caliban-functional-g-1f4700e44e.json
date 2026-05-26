@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2020-04-24T18:00:00-07:00",
+  "end_time": "2020-04-24T20:00:00-07:00",
+  "event_id": "269884376",
+  "event_title": "A Tour of Caliban: FP GraphQL in Scala & Understanding Scala's Type System",
+  "github_repositories": [],
+  "id": "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-a-tour-of-caliban-fp-graphql-in-scala-understanding-scala-s-type-system-alexy-khrabrov:15pm-a-tour-of-caliban-functional-graphql-in-scala",
+  "kind": "talk",
+  "meetup_id": "meetup:20929747",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-a-tour-of-caliban-fp-graphql-in-scala-understanding-scala-s-type-system-alexy-khrabrov.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-graphql-by-the-bay-a-tour-of-caliban-fp-graphql-in-scala-understanding-scala-s-type-system-alexy-khrabrov"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/graphql-by-the-bay/events/269884376/"
+  ],
+  "speaker_ids": [
+    "speaker:pierre-ricadat"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:pierre-ricadat",
+      "name": "Pierre Ricadat",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "15pm A Tour of Caliban: Functional GraphQL in Scala",
+  "type": "talk",
+  "url": "https://www.meetup.com/graphql-by-the-bay/events/269884376/"
+}

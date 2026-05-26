@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2024-05-17T11:15:00-04:00",
+  "end_time": "2024-05-17T17:00:00-04:00",
+  "event_id": "300338070",
+  "event_title": "Women in Data Science - New York City May 2024",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi-talk-10:generative-ai-use-cases-in-the-public-sector",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi-talk-10"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/300338070/"
+  ],
+  "speaker_ids": [
+    "speaker:aakanksha-joshi"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:aakanksha-joshi",
+      "name": "Aakanksha Joshi",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Generative AI Use Cases in the Public Sector",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/300338070/"
+}

@@ -1,0 +1,55 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:smack",
+  "name": "SMACK",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-filodb-combining-spark-streaming-and-fast-ad-hoc-analytics-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scale-by-the-bay-2017-only-a-few-late-bird-tickets-are-left-event.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-scale-by-the-bay-2017-registration-is-now-open-event.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2017-registration-is-now-open-event.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-apache-kafka-summit-meetup-dean-wampler-lightbend.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-filodb-combining-spark-streaming-and-fast-ad-hoc-analytics-event",
+    "bythebay-20260508-sf-scala-scale-by-the-bay-2017-only-a-few-late-bird-tickets-are-left-event",
+    "bythebay-20260508-sf-data-and-ai-engineering-scale-by-the-bay-2017-registration-is-now-open-event",
+    "bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2017-registration-is-now-open-event",
+    "bythebay-20260508-sf-data-and-ai-engineering-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event",
+    "bythebay-20260508-san-francisco-hadoop-users-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event",
+    "bythebay-20260508-scale-by-the-bay-apache-kafka-summit-meetup-dean-wampler-lightbend",
+    "bythebay-20260508-sf-scala-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend",
+    "bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend",
+    "bythebay-20260508-san-francisco-hadoop-users-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/225854878/",
+    "https://www.meetup.com/sf-scala/events/239736054/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/239937900/",
+    "https://www.meetup.com/hadoopsf/events/239938065/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/240398046/",
+    "https://www.meetup.com/hadoopsf/events/240398145/",
+    "https://www.meetup.com/bythebay/events/242744831/",
+    "https://www.meetup.com/sf-scala/events/242796345/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/242796420/",
+    "https://www.meetup.com/hadoopsf/events/242796490/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-filodb-combining-spark-streaming-and-fast-ad-hoc-analytics-event:filodb-combining-spark-streaming-and-fast-ad-hoc-analytics",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scale-by-the-bay-2017-only-a-few-late-bird-tickets-are-left-event:scale-by-the-bay-2017-only-a-few-late-bird-tickets-are-left",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-scale-by-the-bay-2017-registration-is-now-open-event:scale-by-the-bay-2017-registration-is-now-open",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2017-registration-is-now-open-event:scale-by-the-bay-2017-registration-is-now-open",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event:let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event:let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-apache-kafka-summit-meetup-dean-wampler-lightbend:apache-kafka-summit-meetup",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend:apache-kafka-summit-meetup-streams-api-istio",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend:apache-kafka-summit-meetup-streams-api-istio",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-rsvp-at-reactive-community-apache-kafka-summit-meetup-streams-api-istio-dean-wampler-lightbend:apache-kafka-summit-meetup-streams-api-istio"
+  ],
+  "type": "project"
+}

@@ -1,0 +1,31 @@
+{
+  "abstract": "CALLING ALL DEVELOPERS .... JOIN THE BIG DATA FOR SOCIAL GOOD CHALLENGE Big data exists in just about everything we use and do. It comes from phones, cars, roads, power lines, waterways, food crates, and innumerable other items you’d never think of as computers. This data speaks volumes about our collective behavior and society - so let’s use it to do something incredible! IBM invites developers and data enthusiasts to take a deep dive into real world civic issues using big data and the IBM Bluemix Analytics for Hadoop service (https://ace.ng.bluemix.net/). Analyze one of our curated datasets or bring your own (provided it meets these requirements)! Use Hadoop and your data to create a clickable and interactive data visualization to highlight insights that you’ve found. Ready to get started? $40,000 in prizes will be awarded.... Register here: http://ibmhadoop.challengepost.com/ What to Create: Participants must create a working, clickable, and interactive data visualization utilizing the Analytics for Hadoop service (http://www.ibm.com/developerworks/library/ba-analytics-for-hadoop1/index.html) on IBM Bluemix. Data Requirements: Your data visualization must analyze one or more datasets included in the curated list of datasets on the Data page OR meet the data size, content, and licensing requirements described on the Data page (http://ibmhadoop.challengepost.com/details/data). The total size of the Datasets analyzed must be between 500MB - 7GB in size. Check out the requirements then go get your IBM Bluemix extended promo code and check out the datasets (http://ibmhadoop.challengepost.com/details/data)!",
+  "conference_id": null,
+  "date_time": "2014-11-10T14:00:00-05:00",
+  "end_time": "2014-11-10T17:00:00-05:00",
+  "event_id": "218597999",
+  "event_title": "Big Data for Social Good Challenge",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-big-data-for-social-good-challenge-event:big-data-for-social-good-challenge",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-big-data-for-social-good-challenge-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-big-data-for-social-good-challenge-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/218597999/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Big Data for Social Good Challenge",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/218597999/"
+}

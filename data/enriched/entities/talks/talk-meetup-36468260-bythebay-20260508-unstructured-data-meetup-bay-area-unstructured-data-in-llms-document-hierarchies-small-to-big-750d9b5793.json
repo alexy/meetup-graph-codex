@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2023-09-27T17:30:00-07:00",
+  "end_time": "2023-09-27T20:30:00-07:00",
+  "event_id": "295803056",
+  "event_title": "Unstructured Data in LLMs",
+  "github_repositories": [],
+  "id": "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-document-hierarchies:small-to-big",
+  "kind": "talk",
+  "meetup_id": "meetup:36468260",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-document-hierarchies.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-document-hierarchies"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/295803056/"
+  ],
+  "speaker_ids": [
+    "speaker:document-hierarchies"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:document-hierarchies",
+      "name": "Document Hierarchies",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Small to Big,",
+  "type": "talk",
+  "url": "https://www.meetup.com/unstructured-data-sf/events/295803056/"
+}

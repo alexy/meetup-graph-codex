@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/twitter/rsc"
+  ],
+  "github_repository": "https://github.com/twitter/rsc",
+  "id": "project:https-github-com-twitter-rsc",
+  "name": "rsc",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid-eugene-burmako.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid-eugene-burmako"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/255823454/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid-eugene-burmako:scala-meta-diff-at-joint-sf-spark-hadoop-scala-meetup-with-druid"
+  ],
+  "type": "project"
+}

@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:life-sciences",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Life Sciences",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-life-sciences-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-life-sciences.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-life-sciences-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-life-sciences-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-life-sciences",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-life-sciences-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291845940/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291845830/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-life-sciences:how-to-use-quantum-computing-for-creative-and-artistic-purposes",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-life-sciences-3:how-to-use-quantum-computing-for-creative-and-artistic-purposes"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

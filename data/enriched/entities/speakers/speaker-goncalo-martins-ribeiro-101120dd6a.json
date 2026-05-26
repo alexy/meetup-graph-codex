@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ydata",
+      "company_name": "YData",
+      "title": "Co-founder and CEO"
+    }
+  ],
+  "company_id": "company:ydata",
+  "company_ids": [
+    "company:ydata"
+  ],
+  "company_name": "YData",
+  "company_names": [
+    "YData"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:goncalo-martins-ribeiro",
+  "meetup_ids": [],
+  "name": "Gonçalo Martins Ribeiro",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-goncalo-martins-ribeiro-ydata.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-goncalo-martins-ribeiro-ydata"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-goncalo-martins-ribeiro-ydata:unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml"
+  ],
+  "title": "Co-founder and CEO",
+  "titles": [
+    "Co-founder and CEO"
+  ],
+  "type": "speaker"
+}

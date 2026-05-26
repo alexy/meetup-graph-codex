@@ -1,0 +1,18 @@
+{
+  "id": "company:donobu",
+  "name": "Donobu",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-vasusen-patil-donobu.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-vasusen-patil-donobu"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:vasusen-patil"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

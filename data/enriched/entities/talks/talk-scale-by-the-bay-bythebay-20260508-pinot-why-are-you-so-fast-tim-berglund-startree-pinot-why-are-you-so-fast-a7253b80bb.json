@@ -1,0 +1,35 @@
+{
+  "abstract": null,
+  "conference_id": "scale-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:scale-by-the-bay:bythebay-20260508-pinot-why-are-you-so-fast-tim-berglund-startree:pinot-why-are-you-so-fast",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-pinot-why-are-you-so-fast-tim-berglund-startree.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-pinot-why-are-you-so-fast-tim-berglund-startree"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:tim-berglund"
+  ],
+  "speakers": [
+    {
+      "company_name": "StarTree",
+      "id": "speaker:tim-berglund",
+      "name": "Tim Berglund",
+      "title": "VP of Developer Relations"
+    }
+  ],
+  "tags": [],
+  "title": "Pinot, Why Are You So Fast?",
+  "type": "talk",
+  "url": "https://www.scale.bythebay.io/post/tim-berglund-pinot-why-are-you-so-fast"
+}

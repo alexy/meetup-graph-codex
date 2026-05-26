@@ -1,0 +1,31 @@
+{
+  "abstract": "UPDATE: the conference is sold out. See you in Santa Clara! A+ (Alexy) Short URL to share: http://funconf.org Add your Twitter handle here to mingle with the attendees and speakers: http://lanyrd.com/2013/svss/attendees/ The first annual Silicon Valley Scala Symposium will feature enlightening presentations by some of the best Scala developers in the San Francisco Bay Area. The current program includes the following talks. The speakers are confirmed, the talk titles may change but the topics are as follows. Marius Eriksen, Twitter, Finagle creator Keynote Paul Phillips, Scala Compiler guy Scala War Stories Ivan Porto Carrero, Scalatra creator Scalatra James Ward, Typesafe Developer & Play Evangelist Modern Web Applications with Play Tony Tam, Reverb CEO, Swagger creator APIs with Swagger Vitaly Gordon LinkedIn, & Chris Severs, EBay, Data Scientists Hands-on Data Mining in Scala REPL Jamie Allen, Typesafe Director of Consulting AKKA Matei Zaharia, MIT Professor, Spark creator Spark: Big Data Analytics Made Fast and Easy Bill Venners, Escalate Software, ScalaTest creator Implicit conversions => implicit parameters in ScalaTest 2.0 Adelbert Chang, Box Distributed Graph Processing with Scala and AKKA James Earl Douglas, Versal Hands-on Category Theory Mike Slinn, ScalaCourses.com Creator and Managing Editor, Case Study: A Web Application Built From an All-Typesafe Stack: Play, Scala, Slick, Akka, Plus Bootstrap and Postgres on Heroku, lessons learned with selected production code fragments Florian Leibert, AirBnB =>Unnamed Startup Founder, Chronos creator, Building distributed Scala applications with Mesos Chetan Conikee, CloudPhysics Data Scientist, Wisdom from Crowds of Machines -- powered by Play and Akka Alex Cozzi, EBay Data Scientist, Guerrilla Data Mining with Scala, Scoobi and R Ignacio Cases, SUNY/Albany Anthropologist, NLP with Scala Brendan W. McAdams, Typesafe, Casbah creator Slick ...and more pots in the oven to be added -- watch this space and follow @khrabrov and svss on Twitter for announcements and updates We plan for the talks to be fun for Scala programmers and contain lots of code, REPL play along, and Q&A. The registration fee includes access to the talks, breakfast, lunch, and other benefits as our budget allows. See you in Santa Clara! Directions: Exit 101on Montague Expressway. Turn left onto Mission College Blvd., while on Mission College Blvd., turn left on Juliette. Follow Juliette to almost the end of the street and there will be a sign to SC 12 on the left hand side. Intel employees and guests - pull into the SC 12 driveway.http://photos2.meetupstatic.com/photos/event/4/c/d/8/event 244099672.jpeg Parking: Once you enter SC 12, guests may park in any designated parking area. There are a very limited number of visitor spaces in the front left of the SC 12 building, there is also a large surface parking towards the rear left of SC 12 or you may park in garage “D”, which is directly behind the SC 12 building",
+  "conference_id": null,
+  "date_time": "2013-08-02T07:30:00-07:00",
+  "end_time": "2013-08-02T18:00:00-07:00",
+  "event_id": "114627952",
+  "event_title": "Silicon Valley Scala Symposium",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-silicon-valley-scala-symposium-event:silicon-valley-scala-symposium",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-silicon-valley-scala-symposium-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-silicon-valley-scala-symposium-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/114627952/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Silicon Valley Scala Symposium",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/114627952/"
+}

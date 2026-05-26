@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/cvogt/cbt"
+  ],
+  "github_repository": "https://github.com/cvogt/cbt",
+  "id": "project:https-github-com-cvogt-cbt",
+  "name": "cbt",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-build-tools-and-dev-tooling-an-unmeetup.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-build-tools-and-dev-tooling-an-unmeetup"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/249399853/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-build-tools-and-dev-tooling-an-unmeetup:sf-scala-unmeetup-build-tools-and-dev-tooling"
+  ],
+  "type": "project"
+}

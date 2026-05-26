@@ -1,0 +1,31 @@
+{
+  "abstract": "Are you ready to dive into the world of cutting-edge technology, such as generative AI? Join us at the upcoming IBM TechXchange Conference 2023 Keynote Sessions , a captivating series of no-cost live streams that will unravel the latest advancements in AI, automation, security, and cloud solutions. Keynote Quantum: Secure your enterprise for the quantum era Quantum computers are expected to bring significant business and societal opportunity, but they also present a challenge to the modern digital economy: large-scale quantum computers will be able to break the security protocols we rely upon to safeguard our data and networks. Businesses face an imperative to prepare for this new computational era by upgrading their cybersecurity with quantum-safe cryptographic solutions. Building on IBM’s long-standing expertise in quantum technology and cryptography research, IBM Quantum has developed a comprehensive set of quantum-safe tools, capabilities, and approaches to help organizations navigate this transition. Learn how one of our clients is using IBM Quantum Safe technology to understand their risk posture, build crypto-agility, and secure their enterprise for the era of quantum. Speakers Jason Gambetta, IBM Fellow and VP of IBM Quantum, IBM Ray Harishankar, IBM Fellow, IBM Quantum, IBM How to Attend All you need to do is just go to the IBM TechXchange Conference website at the scheduled times to view the live keynote sessions! The sessions will be live-streamed on the IBM TechXchange Conference website at https://ibm.biz/BdMaFp. You can also watch the recordings after the event",
+  "conference_id": null,
+  "date_time": "2023-09-13T12:15:00-04:00",
+  "end_time": "2023-09-13T13:15:00-04:00",
+  "event_id": "295946044",
+  "event_title": "IBM TechXchange Conference 2023 Live Stream - Keynote Quantum",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-quantum-event:ibm-techxchange-conference-2023-live-stream-keynote-quantum",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-quantum-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-quantum-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/295946044/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "IBM TechXchange Conference 2023 Live Stream - Keynote Quantum",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/295946044/"
+}

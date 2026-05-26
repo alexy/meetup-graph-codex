@@ -1,0 +1,31 @@
+{
+  "abstract": "Summary: In this talk I will go over the architecture for the next generation device metadata APIs, the tech stack, and the development+deployment process. I will also demonstrate real world use cases, which make Scala stand out as a choice programming language for building APIs. For example, producing/consuming JSON, sending HTTP requests, using MySQL/Cassandra, and Caching. I will also discuss testing frameworks, and how they plug into our larger CI/CD infrastructure We will be touching quite a bit of Netflix OSS components during this talk About The Speaker:A programmer at heart, I work with an awesome team of engineers to build awesome products. I work at Netflix as Engineering Manager in the Partner Products Innovation group. Prior to Netflix, I've worked at IGN Entertainment, E Trade, and Accenture in various engineering roles. I've been working with Scala for the last 2 years, coming from a mostly Java background",
+  "conference_id": null,
+  "date_time": "2013-09-09T19:00:00-07:00",
+  "end_time": "2013-09-09T22:00:00-07:00",
+  "event_id": "135644722",
+  "event_title": "Scala at Netflix",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-at-netflix-dianne-marsh-talk-2:powering-partner-apis-with-scalatra-and-netflix-oss",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-at-netflix-dianne-marsh.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-scala-at-netflix-dianne-marsh-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/135644722/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Powering Partner APIs with Scalatra and Netflix OSS",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/135644722/"
+}

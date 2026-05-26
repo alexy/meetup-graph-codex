@@ -1,0 +1,44 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:salesforce-einstein",
+      "company_name": "Salesforce Einstein",
+      "title": null
+    }
+  ],
+  "company_id": "company:salesforce-einstein",
+  "company_ids": [
+    "company:salesforce-einstein"
+  ],
+  "company_name": "Salesforce Einstein",
+  "company_names": [
+    "Salesforce Einstein"
+  ],
+  "conference_ids": [],
+  "id": "speaker:simon-chan",
+  "meetup_ids": [
+    "meetup:2891482",
+    "meetup:5347552"
+  ],
+  "name": "Simon Chan",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-simon-chan-predictionio-a-machine-learning-server-for-scala-developers-simon-chan-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-cognifest-working-enterprise-ai-city-s-silicon-alley-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-simon-chan-predictionio-a-machine-learning-server-for-scala-developers-simon-chan.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-simon-chan-predictionio-a-machine-learning-server-for-scala-developers-simon-chan-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-cognifest-working-enterprise-ai-city-s-silicon-alley-2",
+    "bythebay-20260508-scala-bay-simon-chan-predictionio-a-machine-learning-server-for-scala-developers-simon-chan"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/219624829/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/244262292/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-simon-chan-predictionio-a-machine-learning-server-for-scala-developers-simon-chan:simon-chan-predictionio-a-machine-learning-server-for-scala-developers"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

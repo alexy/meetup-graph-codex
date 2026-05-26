@@ -6,7 +6,7 @@ This repository contains a Rust scraper for By the Bay conference and Meetup
 data plus a backend-neutral graph loader. The project lives at:
 
 ```text
-/Users/alexy/src/bythebay/cdx/bythebay-scraper
+/Users/alexy/src/bythebay/cdx/meetup-graph-codex
 ```
 
 The scraper writes a JSON export. The loader turns that export into a portable
@@ -62,6 +62,57 @@ This handles both cases the data needs:
 
 - A meetup has several talks, so `other_talk` may be different from `talk`.
 - A talk can have several speakers, so `other_talk` may also be the same talk.
+
+## Enriched Entity Records
+
+The cached downloads can also be parsed into a richer entity-oriented record
+set:
+
+```bash
+python3 scripts/enrich_meetup_entities.py --batch-size 100
+```
+
+This reads `data/raw/sources`, uses `data/bythebay-graph.json` as fallback
+context, and writes `data/enriched`. The current run contains:
+
+| Entity | Count |
+| --- | ---: |
+| Conferences | 2 |
+| Meetups | 9 |
+| Talks | 1,218 |
+| Speakers | 677 |
+| Companies | 185 |
+| Projects | 219 |
+| Graph nodes | 2,310 |
+| Graph edges | 3,399 |
+
+Useful output files:
+
+- `data/enriched/bythebay-entities.json`: aggregate arrays for every entity
+  type.
+- `data/enriched/{speakers,talks,projects,companies,meetups,conferences}.json`:
+  one array per entity type.
+- `data/enriched/{speakers,talks,projects,companies,meetups,conferences}.jsonl`:
+  JSON Lines variants.
+- `data/enriched/entities/...`: one JSON file per entity.
+- `data/enriched/batches`: one summary file per batch of Meetup downloads.
+- `data/enriched/bythebay-enriched-graph.json`: graph-record export with
+  `nodes` and `edges`.
+
+The enriched graph introduces first-class `Speaker`, `Company`, and `Project`
+nodes in addition to `Conference`, `Meetup`, and `Talk`. It uses these
+relationships:
+
+- `PRESENTS`: `Speaker -> Talk`
+- `WORKS_FOR`: `Speaker -> Company`
+- `PART_OF_MEETUP`: `Talk -> Meetup`
+- `PART_OF_CONFERENCE`: `Talk -> Conference`
+- `MENTIONS_PROJECT`: `Talk -> Project`
+- `PRESENTED_BY_COMPANY`: `Talk -> Company`
+
+The extraction is deliberately offline and reproducible from cached downloads.
+It does not require `OPENAI_API_KEY`; fresh GPT-backed extraction still happens
+through the scraper when `--extractor llm` is used.
 
 ## Small Test Dataset
 
@@ -192,6 +243,15 @@ file should contain `nodes` and `edges`; node kind can be named `type` or
 The importer deduplicates nodes by stable ID and edges by `(from, to,
 relationship)`, then sends the result through the same top-level `load_graph`
 API as the consolidated export.
+
+The same importer loads the enriched graph-record export:
+
+```bash
+cargo run --bin load_graph -- \
+  --input data/enriched/bythebay-enriched-graph.json \
+  --input-format talk-records \
+  --backend falkor
+```
 
 ## FalkorDB Representation
 
@@ -397,6 +457,7 @@ Current verification commands:
 cargo fmt
 cargo test --bins --lib
 cargo run --bin load_graph -- --help
+python3 scripts/enrich_meetup_entities.py --batch-size 100
 ```
 
 The help output includes:
@@ -408,6 +469,9 @@ The help output includes:
 Live SurrealDB checks were also run against a local server at
 `http://127.0.0.1:8000/sql` for both HTTP and Rust SDK paths.
 
+The enriched graph export was validated for JSON syntax, matching aggregate and
+per-entity file counts, and zero dangling edge endpoints.
+
 ## Remaining Next Steps
 
 1. Add full integration tests that start FalkorDB, HelixDB, and SurrealDB
@@ -417,3 +481,6 @@ Live SurrealDB checks were also run against a local server at
 3. Expand typed properties beyond `tags`, especially dates.
 4. Add backend-specific upsert strategies where supported so repeat loads need
    `--replace` less often.
+5. Add a native `--input-format enriched-records` if the enriched entity
+   contract needs loader-specific behavior beyond the generic `nodes`/`edges`
+   importer.

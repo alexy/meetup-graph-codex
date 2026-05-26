@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:matt-klein",
+  "meetup_ids": [
+    "meetup:18748975"
+  ],
+  "name": "Matt Klein",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-envoy-c-l7-proxy-and-communication-bus-matt-klein-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-envoy-c-l7-proxy-and-communication-bus-matt-klein.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-envoy-c-l7-proxy-and-communication-bus-matt-klein-2",
+    "bythebay-20260508-scale-by-the-bay-envoy-c-l7-proxy-and-communication-bus-matt-klein"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/234701783/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-envoy-c-l7-proxy-and-communication-bus-matt-klein:envoy-c-l7-proxy-and-communication-bus"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

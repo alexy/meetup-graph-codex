@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ibm-haifa-research-lab",
+      "company_name": "IBM Haifa Research Lab",
+      "title": "IBM Haifa Research Lab"
+    }
+  ],
+  "company_id": "company:ibm-haifa-research-lab",
+  "company_ids": [
+    "company:ibm-haifa-research-lab"
+  ],
+  "company_name": "IBM Haifa Research Lab",
+  "company_names": [
+    "IBM Haifa Research Lab"
+  ],
+  "conference_ids": [],
+  "id": "speaker:revital-sur",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Revital Sur",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-simplifying-dpk-pipeline-creation-with-agentic-workflows-revital-sur-ibm-haifa-research-lab.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-simplifying-dpk-pipeline-creation-with-agentic-workflows-revital-sur-ibm-haifa-research-lab.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-simplifying-dpk-pipeline-creation-with-agentic-workflows-revital-sur-ibm-haifa-research-lab",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-simplifying-dpk-pipeline-creation-with-agentic-workflows-revital-sur-ibm-haifa-research-lab"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306941379/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-simplifying-dpk-pipeline-creation-with-agentic-workflows-revital-sur-ibm-haifa-resear:simplifying-dpk-pipeline-creation-with-agentic-workflows"
+  ],
+  "title": "IBM Haifa Research Lab",
+  "titles": [
+    "IBM Haifa Research Lab"
+  ],
+  "type": "speaker"
+}

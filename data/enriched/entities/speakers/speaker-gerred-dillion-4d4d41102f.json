@@ -1,0 +1,40 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:gerred-dillion",
+  "meetup_ids": [
+    "meetup:18315941",
+    "meetup:18601481",
+    "meetup:18748975"
+  ],
+  "name": "Gerred Dillion",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion",
+    "bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion",
+    "bythebay-20260508-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/277024081/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/277024095/",
+    "https://www.meetup.com/bythebay/events/277024121/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion:kudo-for-mlops-kubernetes-universal-declarative-operator",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion:kudo-for-mlops-kubernetes-universal-declarative-operator",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-kudo-for-mlops-kubernetes-universal-declarative-operator-gerred-dillion:kudo-for-mlops-kubernetes-universal-declarative-operator"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

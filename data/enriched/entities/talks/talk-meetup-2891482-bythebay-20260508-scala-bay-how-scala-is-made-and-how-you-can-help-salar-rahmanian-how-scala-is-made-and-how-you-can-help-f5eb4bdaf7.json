@@ -1,0 +1,42 @@
+{
+  "abstract": "It gives me great pleasure to welcome Krzysztof Romanowski of VirtusLab (Head of Scala & Tooling) to not only Bay Area Scala but to San Francisco Bay Area. Yes, he is traveling from Europe to give this talk in person so we all need to come and make him welcome please!!! 📣 Please RSVP on Luma to attend and for full location details here: https://lu.ma/qq7k3iem Talk Title How Scala is made and how you can help? Talk Summary I am using Scala from 2011 and since 2019, part of my job (and the main reason I picked it) is to grow Scala and its community. In this talk I will explain the inner workings of an organisation that goes into releasing, maintaining and developing Scala and core parts of its ecosystem. I will discuss what are those parts, what problems the team of teams face and what you can expect in the future. Later, I will focus about ways to support the ecosystem. The help comes in various shapes and I will try to convince you that there is one that fits your needs. As build tools are my pet peeve, expect some Scala CLI and Bazel as well! Speaker Krzysztof Romanowski has dedicated the majority of his career to working on the Scala project and enhancing the Developer Experience (DX), often combining the two. He focuses on hands-on development of developer tools (like scala-cli) and leading teams working on Scala applications and DX/ developer tooling. Currently, he oversees the DX (tooling) and Scala departments at VirtusLab. Agenda 5.30pm - Arrival, meet people, networking, find seat 6.00pm - Welcome to Bay Area Scala by Salar Rahmanian 6.10pm - Talk: How Scala is made and how you can help? 7.30pm - Make our way to local bar Perry's to continue conversations and for some food and drinks (self funded) Thank You Big Thank you to: Our speaker Iterable for hosting our event, you are awesome! Everyone who attended and support our meetup group Notes Don't forget to complete our meetup Survey, I need to know what makes everyone happy: https://forms.gle/nhZMQDnxQ5dC8mEE7 Subscribe to our Lu.ma to get our newsletter and hear about our events first: https://lu.ma/scala",
+  "conference_id": null,
+  "date_time": "2024-10-17T17:30:00-07:00",
+  "end_time": "2024-10-17T19:30:00-07:00",
+  "event_id": "303718227",
+  "event_title": "How Scala is made and how you can help?",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-how-scala-is-made-and-how-you-can-help-salar-rahmanian:how-scala-is-made-and-how-you-can-help",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [
+    "project:scala"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-how-scala-is-made-and-how-you-can-help-salar-rahmanian.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-how-scala-is-made-and-how-you-can-help-salar-rahmanian"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/303718227/"
+  ],
+  "speaker_ids": [
+    "speaker:salar-rahmanian"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:salar-rahmanian",
+      "name": "Salar Rahmanian",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "How Scala is made and how you can help?",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/303718227/"
+}

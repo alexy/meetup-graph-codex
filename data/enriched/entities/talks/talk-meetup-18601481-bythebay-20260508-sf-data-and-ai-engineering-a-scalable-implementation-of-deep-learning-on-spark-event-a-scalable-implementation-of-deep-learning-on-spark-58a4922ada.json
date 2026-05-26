@@ -1,0 +1,33 @@
+{
+  "abstract": "Please adjust your RSVPs by midnight! RSVP with answers to meetup questions will be prioritized higher. Please answer meaningfully if you can as it helps selecting the topics! 1. Deep Learning on Spark Artificial neural networks (ANN) are one of the popular models of machine learning, in particular for deep learning. The models that are used in practice for image classification and speech recognition contain huge number of weights and are trained with big datasets. Training such models is challenging in terms of computation and data processing. We propose a scalable implementation of deep neural networks for Spark. We address the computational challenge by batch operations, using BLAS for vector and matrix computations and reusing the memory for reducing garbage collector activity. Spark provides data parallelism that enables scaling of training. As a result, our implementation is on par with widely used C++ implementations like Caffe on a single machine and scales nicely on a cluster. The developed API makes it easy to configure your own network and to run experiments with different hyper parameters. Our implementation is easily extensible and we invite other developers to contribute new types of neural network functions and layers. Also, optimizations that we applied and our experience with GPU CUDA BLAS might be useful for other machine learning algorithms being developed for Spark. Alexander Ulanov is a senior researcher in Hewlett-Packard Labs. His research focuses on application of machine learning on a large scale, in particular, for deep learning. Alexander has made several contributions to Apache Spark. Previously, he has been working on text mining, classification and recommender systems and their real world applications. Alexander holds PhD degree from Russian Academy of Sciences. This is a joint work with Xiangrui Meng @ Databricks, Bert Greevenbosch @ Huawei & Jules Energy with the help from Guoqiang Li @ Spark community and Andrey Simanovsky @ Hewlett-Packard Labs. 2. Type Class for Data of all Sizes This talk focuses on the Data type class: an abstraction for expressing a common, useful set of data transformation and manipulation actions. The code, in it’s design and implementations, make heavy use of rich, expressive types and functional principles. We’ll dive into the code, show off some of the quirks when getting the abstraction to work with both Spark RDDs and Flink’s DataSet type. We'll also demonstrate code using this type class, showing how we can write once and run on different platforms! Malcolm Greaves a computer scientist and software engineer that adores functional programming, supports open source development, works on machine learning (ML) and natural langague processing (NLP) algorithms, and never stops innovating and growing. Currently, he is working at Nitro as a Research Engineer with a fantastic team!",
+  "conference_id": null,
+  "date_time": "2015-12-02T18:30:00-08:00",
+  "end_time": "2015-12-02T21:30:00-08:00",
+  "event_id": "225901281",
+  "event_title": "A Scalable Implementation of Deep Learning on Spark",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-a-scalable-implementation-of-deep-learning-on-spark-event:a-scalable-implementation-of-deep-learning-on-spark",
+  "kind": "workshop",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [
+    "project:apache-spark"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-a-scalable-implementation-of-deep-learning-on-spark-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-a-scalable-implementation-of-deep-learning-on-spark-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/225901281/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "A Scalable Implementation of Deep Learning on Spark",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/225901281/"
+}

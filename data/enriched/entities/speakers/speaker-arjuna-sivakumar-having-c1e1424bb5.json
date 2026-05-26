@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:arjuna-sivakumar-having",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Arjuna Sivakumar Having",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-future-prospects-for-applications-of-quantum-computing-in-finance-arjuna-sivakumar-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-future-prospects-for-applications-of-quantum-computing-in-finance-arjuna-sivakumar.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-future-prospects-for-applications-of-quantum-computing-in-finance-arjuna-sivakumar-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-future-prospects-for-applications-of-quantum-computing-in-finance-arjuna-sivakumar"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291842916/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-future-prospects-for-applications-of-quantum-computing-in-finance-arjuna-sivakumar:future-prospects-for-applications-of-quantum-computing-in-finance"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

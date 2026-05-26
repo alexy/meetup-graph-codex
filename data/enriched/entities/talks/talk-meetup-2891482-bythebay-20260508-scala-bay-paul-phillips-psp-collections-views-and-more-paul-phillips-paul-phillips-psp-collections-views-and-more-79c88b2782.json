@@ -1,0 +1,40 @@
+{
+  "abstract": "Paul Phillips will talk about collections for Scala. \"Based on my extensive experience with scala collections, I'm writing my own. The focus is much tighter: immutable, performant, predictable, correct. The talk will alternate between why the scala collections manage none of those things, and how I hope to do better.\" Paul Phillips is a co-founder of Typesafe and the most prolific committer to Scala. Location: LinkedIn Schedule: • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "conference_id": null,
+  "date_time": "2014-01-13T19:00:00-08:00",
+  "end_time": "2014-01-13T22:00:00-08:00",
+  "event_id": "154014822",
+  "event_title": "Paul Phillips, \"psp collections: views and more\"",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips:paul-phillips-psp-collections-views-and-more",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/154014822/"
+  ],
+  "speaker_ids": [
+    "speaker:paul-phillips"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:paul-phillips",
+      "name": "Paul Phillips",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Paul Phillips, \"psp collections: views and more\"",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/154014822/"
+}

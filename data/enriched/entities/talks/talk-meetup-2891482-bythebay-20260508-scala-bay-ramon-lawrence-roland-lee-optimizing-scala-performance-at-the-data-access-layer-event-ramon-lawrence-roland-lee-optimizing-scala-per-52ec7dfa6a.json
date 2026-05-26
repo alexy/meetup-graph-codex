@@ -1,0 +1,31 @@
+{
+  "abstract": "Abstract Most application performance and scale problems are due to inefficient database access. Heimdall Data is a data access layer providing Scala developers 1) SQL auto-caching and auto-invalidation, 3) Automated database failover and 4) Database Firewall. This all-in-one platform requires ZERO application code changes and is database vendor neutral (e.g. MySQL, Postgres, Oracle, SQL Server) AutoBio Dr. Ramon Lawrence is VP of Engineering at Heimdall Data and an associate professor at the University of British Columbia, Canada. He has a Ph.D. in Computer Science with a research focus in database systems. His research and development activities have produced software systems for data virtualization and querying NoSQL databases. Roland Lee's background is in application networking. He has been a developer and product manager in various startups and large companies. All through his career, his industry focus has been to increase the performance of Internet user data. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc. • 7:10-8:00 - talk • 8:00-8:30 - networking",
+  "conference_id": null,
+  "date_time": "2017-09-11T18:30:00-07:00",
+  "end_time": "2017-09-11T21:30:00-07:00",
+  "event_id": "240486142",
+  "event_title": "Ramon Lawrence,Roland Lee, Optimizing Scala Performance at the Data Access Layer",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-ramon-lawrence-roland-lee-optimizing-scala-performance-at-the-data-access-layer-event:ramon-lawrence-roland-lee-optimizing-scala-performance-at-the-data-access-layer",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-ramon-lawrence-roland-lee-optimizing-scala-performance-at-the-data-access-layer-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-ramon-lawrence-roland-lee-optimizing-scala-performance-at-the-data-access-layer-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/240486142/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Ramon Lawrence,Roland Lee, Optimizing Scala Performance at the Data Access Layer",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/240486142/"
+}

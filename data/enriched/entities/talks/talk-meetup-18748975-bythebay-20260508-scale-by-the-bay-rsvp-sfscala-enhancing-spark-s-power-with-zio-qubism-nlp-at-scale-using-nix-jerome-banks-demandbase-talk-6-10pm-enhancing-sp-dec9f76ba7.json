@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2020-03-26T18:00:00-07:00",
+  "end_time": "2020-03-26T21:00:00-07:00",
+  "event_id": "268998983",
+  "event_title": "[RSVP @ SFScala]Enhancing Spark's Power with ZIO,Qubism & NLP at Scale,Using Nix",
+  "github_repositories": [],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:6-10pm-enhancing-spark-s-power-with-zio",
+  "kind": "talk",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-4"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/268998983/"
+  ],
+  "speaker_ids": [
+    "speaker:leo-benkel"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:leo-benkel",
+      "name": "Leo Benkel",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "6:10pm: \"Enhancing Spark's Power with ZIO\"",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/268998983/"
+}

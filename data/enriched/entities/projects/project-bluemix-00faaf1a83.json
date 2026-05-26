@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:bluemix",
+  "name": "Bluemix",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-real-time-sporting-event-predictions-using-apache-spark-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-real-time-sporting-event-predictions-using-apache-spark-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/232086830/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-real-time-sporting-event-predictions-using-apache-spark-event:real-time-sporting-event-predictions-using-apache-spark"
+  ],
+  "type": "project"
+}

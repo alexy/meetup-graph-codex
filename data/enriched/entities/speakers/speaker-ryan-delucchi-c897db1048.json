@@ -1,0 +1,35 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:ryan-delucchi",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:2891482"
+  ],
+  "name": "Ryan Delucchi",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-building-a-reasonable-expression-dsl-with-kleisli-ryan-delucchi-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-building-a-reasonable-expression-dsl-with-kleisli-ryan-delucchi.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-ryan-delucchi-building-a-reasonable-expression-dsl-with-kleisli-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-building-a-reasonable-expression-dsl-with-kleisli-ryan-delucchi-2",
+    "bythebay-20260508-sf-scala-building-a-reasonable-expression-dsl-with-kleisli-ryan-delucchi",
+    "bythebay-20260508-scala-bay-ryan-delucchi-building-a-reasonable-expression-dsl-with-kleisli-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/226370205/",
+    "https://www.meetup.com/scala-bay/events/226794200/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-building-a-reasonable-expression-dsl-with-kleisli-ryan-delucchi:building-a-reasonable-expression-dsl-with-kleisli",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-ryan-delucchi-building-a-reasonable-expression-dsl-with-kleisli-event:ryan-delucchi-building-a-reasonable-expression-dsl-with-kleisli"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

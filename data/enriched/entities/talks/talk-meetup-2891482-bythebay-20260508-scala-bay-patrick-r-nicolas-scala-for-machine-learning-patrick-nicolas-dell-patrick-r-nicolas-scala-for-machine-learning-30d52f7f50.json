@@ -1,0 +1,40 @@
+{
+  "abstract": "Title: Scala for Machine Learning Abstract: What makes Scala particularly suitable to implement machine learning techniques? The presentation introduces some of the features of Scala critical in building scientific and data mining applications: 1. Implementation of mathematical abstractions (monadic kernels..) 2. Dynamic instantiation of data transformations and workflows (dependency injection) 3. Scalable execution (streaming, data flow control) Note: Knowledge machine learning is not a pre-requisite to understand the concepts in the presentation Bio: Patrick Nicolas is a lead R&D engineer at Dell (Santa Clara). He has 25+ years experience in software engineering, building large scale applications using C++, Java and Scala. His interests include real-time data analytics, modeling and information geometry. He is the author of \"Scala for Machine Learning\" Packt Publishing ISBN: 978-1-783355-874-2 2014 Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "conference_id": null,
+  "date_time": "2015-07-27T19:00:00-07:00",
+  "end_time": "2015-07-27T22:00:00-07:00",
+  "event_id": "223478413",
+  "event_title": "Patrick R. Nicolas, \"Scala for Machine Learning\"",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-patrick-r-nicolas-scala-for-machine-learning-patrick-nicolas-dell:patrick-r-nicolas-scala-for-machine-learning",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-patrick-r-nicolas-scala-for-machine-learning-patrick-nicolas-dell.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-patrick-r-nicolas-scala-for-machine-learning-patrick-nicolas-dell"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/223478413/"
+  ],
+  "speaker_ids": [
+    "speaker:patrick-nicolas"
+  ],
+  "speakers": [
+    {
+      "company_name": "Dell",
+      "id": "speaker:patrick-nicolas",
+      "name": "Patrick Nicolas",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Patrick R. Nicolas, \"Scala for Machine Learning\"",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/223478413/"
+}

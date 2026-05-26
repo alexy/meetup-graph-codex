@@ -1,0 +1,65 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:verta",
+      "company_name": "Verta",
+      "title": null
+    }
+  ],
+  "company_id": "company:verta",
+  "company_ids": [
+    "company:verta"
+  ],
+  "company_name": "Verta",
+  "company_names": [
+    "Verta"
+  ],
+  "conference_ids": [],
+  "id": "speaker:conrado-miranda",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:1755011",
+    "meetup:18315941",
+    "meetup:18601481",
+    "meetup:18748975",
+    "meetup:20929747"
+  ],
+  "name": "Conrado Miranda",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-model-versioning-why-when-and-how-conrado-miranda-verta-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta.json",
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-model-versioning-why-when-and-how-conrado-miranda-verta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta",
+    "bythebay-20260508-sf-scala-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta",
+    "bythebay-20260508-bay-area-ai-model-versioning-why-when-and-how-conrado-miranda-verta-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta",
+    "bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta",
+    "bythebay-20260508-graphql-by-the-bay-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta",
+    "bythebay-20260508-bay-area-ai-model-versioning-why-when-and-how-conrado-miranda-verta"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/266058975/",
+    "https://www.meetup.com/sf-scala/events/266058898/",
+    "https://www.meetup.com/bay-area-ai/events/265941376/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/266058948/",
+    "https://www.meetup.com/bythebay/events/266059026/",
+    "https://www.meetup.com/graphql-by-the-bay/events/266059090/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-model-versioning-why-when-and-how-conrado-miranda-verta:model-versioning-why-when-and-how",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta:model-versioning-and-monitoring-why-when-and-how",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta:model-versioning-and-monitoring-why-when-and-how",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta:model-versioning-and-monitoring-why-when-and-how",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta:model-versioning-and-monitoring-why-when-and-how",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-rsvp-at-bay-area-ai-model-versioning-and-monitoring-why-when-and-how-conrado-miranda-verta:model-versioning-and-monitoring-why-when-and-how"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

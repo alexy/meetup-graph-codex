@@ -1,0 +1,45 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:julie-pitt",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:1755011",
+    "meetup:18315941",
+    "meetup:18601481"
+  ],
+  "name": "Julie Pitt",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-applied-machine-learning-a-netflix-production-julie-pitt.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-register-at-bay-area-ai-applied-machine-learning-a-netflix-production-julie-pitt.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-applied-machine-learning-a-netflix-production-deep-recommendations-at-twitch-julie-pitt-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-register-at-bay-area-ai-applied-machine-learning-a-netflix-production-julie-pitt.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-applied-machine-learning-a-netflix-production-deep-recommendations-at-twitch-julie-pitt.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-applied-machine-learning-a-netflix-production-julie-pitt",
+    "bythebay-20260508-sf-scala-register-at-bay-area-ai-applied-machine-learning-a-netflix-production-julie-pitt",
+    "bythebay-20260508-bay-area-ai-applied-machine-learning-a-netflix-production-deep-recommendations-at-twitch-julie-pitt-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-register-at-bay-area-ai-applied-machine-learning-a-netflix-production-julie-pitt",
+    "bythebay-20260508-bay-area-ai-applied-machine-learning-a-netflix-production-deep-recommendations-at-twitch-julie-pitt"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/260707992/",
+    "https://www.meetup.com/sf-scala/events/260707884/",
+    "https://www.meetup.com/bay-area-ai/events/260707660/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/260707906/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-applied-machine-learning-a-netflix-production-deep-recommendations-at-twitch-julie-pitt:applied-machine-learning-a-netflix-production-deep-recommendations-at-twitch",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-register-at-bay-area-ai-applied-machine-learning-a-netflix-production-julie-pitt:applied-machine-learning-a-netflix-production",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-register-at-bay-area-ai-applied-machine-learning-a-netflix-production-julie-pitt:applied-machine-learning-a-netflix-production",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-applied-machine-learning-a-netflix-production-julie-pitt:applied-machine-learning-a-netflix-production"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

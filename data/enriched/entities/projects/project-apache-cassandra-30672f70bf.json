@@ -1,0 +1,35 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-cassandra",
+  "name": "Apache Cassandra",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-sf-spark-sf-hadoop-joint-meetup-at-strata-apache-spot-and-kudu-cyber-threats-apache-spot.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-register-at-sfhadoop-org-sf-spark-sf-hadoop-at-strata-apache-spot-apache-kudu-cyber-threats-apache-spot.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-cassandra-new-york-metro-area-user-group-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-sf-spark-sf-hadoop-joint-meetup-at-strata-apache-spot-and-kudu-cyber-threats-apache-spot",
+    "bythebay-20260508-sf-data-and-ai-engineering-register-at-sfhadoop-org-sf-spark-sf-hadoop-at-strata-apache-spot-apache-kudu-cyber-threats-apache-spot",
+    "bythebay-20260508-sf-data-and-ai-engineering-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event",
+    "bythebay-20260508-san-francisco-hadoop-users-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-cassandra-new-york-metro-area-user-group-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/237145958/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/238019344/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/240398046/",
+    "https://www.meetup.com/hadoopsf/events/240398145/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/311180998/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-sf-spark-sf-hadoop-joint-meetup-at-strata-apache-spot-and-kudu-cyber-threats-apache-spot:sf-spark-sf-hadoop-joint-meetup-at-strata-apache-spot-and-kudu",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-register-at-sfhadoop-org-sf-spark-sf-hadoop-at-strata-apache-spot-apache-kudu-cyber-threats-apa:sf-spark-sf-hadoop-at-strata-apache-spot-apache-kudu",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event:let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-partner-meetup-let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup-event:let-s-talk-smack-meet-the-smack-stack-experts-ama-meetup",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-cassandra-new-york-metro-area-user-group-event:cassandra-new-york-metro-area-user-group"
+  ],
+  "type": "project"
+}

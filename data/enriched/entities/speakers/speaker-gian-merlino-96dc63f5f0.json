@@ -1,0 +1,37 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:gian-merlino",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:18601481"
+  ],
+  "name": "Gian Merlino",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-the-rise-of-the-operational-analytic-data-stores-gian-merlino-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-the-rise-of-the-operational-analytic-data-stores-gian-merlino-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-the-rise-of-the-operational-analytic-data-stores-gian-merlino.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-the-rise-of-the-operational-analytic-data-stores-gian-merlino.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-the-rise-of-the-operational-analytic-data-stores-gian-merlino-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-the-rise-of-the-operational-analytic-data-stores-gian-merlino-2",
+    "bythebay-20260508-san-francisco-hadoop-users-the-rise-of-the-operational-analytic-data-stores-gian-merlino",
+    "bythebay-20260508-sf-data-and-ai-engineering-the-rise-of-the-operational-analytic-data-stores-gian-merlino"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/255430648/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/255430744/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-the-rise-of-the-operational-analytic-data-stores-gian-merlino:the-rise-of-the-operational-analytic-data-stores",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-the-rise-of-the-operational-analytic-data-stores-gian-merlino:the-rise-of-the-operational-analytic-data-stores"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,48 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:the-dpe-dhx-ds-data-science-team-at-autodesk",
+      "company_name": "the DPE-DHX-DS Data Science Team at Autodesk",
+      "title": "Lead Data Scientist"
+    }
+  ],
+  "company_id": "company:the-dpe-dhx-ds-data-science-team-at-autodesk",
+  "company_ids": [
+    "company:the-dpe-dhx-ds-data-science-team-at-autodesk"
+  ],
+  "company_name": "the DPE-DHX-DS Data Science Team at Autodesk",
+  "company_names": [
+    "the DPE-DHX-DS Data Science Team at Autodesk"
+  ],
+  "conference_ids": [],
+  "id": "speaker:alex-o-connor",
+  "meetup_ids": [
+    "meetup:18315941",
+    "meetup:18748975"
+  ],
+  "name": "Alex O'Connor",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-2",
+    "bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor",
+    "bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-talk-2",
+    "bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/268317060/",
+    "https://www.meetup.com/bythebay/events/268584447/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-talk-2:doing-nlp-with-transformers-by-autodesk",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor-talk-2:doing-nlp-with-transformers-by-autodesk"
+  ],
+  "title": "Lead Data Scientist",
+  "titles": [
+    "Lead Data Scientist"
+  ],
+  "type": "speaker"
+}

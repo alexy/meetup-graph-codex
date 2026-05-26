@@ -1,0 +1,40 @@
+{
+  "abstract": "As part of Cognifest, the meetup for the 24th will be hosted at 590 Madison Avenue, Room 1219 - 12th floor. Reah Miyara, Senior Offering Associate - Watson Horizontal Applications, IBM Watson and Cloud Platform, will offer an overview of the developing era of Cognitive Computing. He will illustrate potential use cases for cognitive technologies and demonstrate advancements in processing the ever increasing volume and complexity of data today, a collaboration between mankind and machine. BIO: Reah Miyara is a current product manager on the Watson Industry Applications team (https://www.ibm.com/blogs/watson/2016/08/im-going-watson-developer-conference/) and a former software engineer on the Watson Life team (https://urldefense.proofpoint.com/v2/url?u=http-3A ibm.co 21KOuFJ&d=DwMFaQ&c=jf iaSHvJObTbx-siA1ZOg&r=Br1-eBTu unbqO17vV6tDT84JUdgauAsPWz3C4ypXns&m=Z3HQAeTiGkbhIWFw75mPKQbDPqNXksgD6gJ-qYCf46Q&s=ivkVy9ht1FWh-HMBMBPQbzve8xwvEANvSWaWHa7hfL8&e=). A graduate of UC Berkeley with a degree in electrical engineering and computer science, Reah’s experience includes developing enterprise technologies for the Mars Curiosity Rover at NASA’s Jet Propulsion Laboratory, fraud detection systems using machine learning at Intuit, and cognitive cooking assistant Chef Watson (https://urldefense.proofpoint.com/v2/url?u=https-3A www.ibmchefwatson.com &d=DwMFaQ&c=jf iaSHvJObTbx-siA1ZOg&r=Br1-eBTu unbqO17vV6tDT84JUdgauAsPWz3C4ypXns&m=Z3HQAeTiGkbhIWFw75mPKQbDPqNXksgD6gJ-qYCf46Q&s=UufLKr Q0js7e-xDZIkpuF4tX4B-eJqGOh3CgwRQl2I&e=) at IBM’s Watson group. When he is not driving technical strategy and development at IBM, empowering companies to make smarter business decisions, he can be seen DJ-ing for some of Hollywood’s hottest celebrities",
+  "conference_id": null,
+  "date_time": "2017-10-24T18:00:00-04:00",
+  "end_time": "2017-10-24T21:00:00-04:00",
+  "event_id": "244261633",
+  "event_title": "Cognitive Computing & Its Applications",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-cognitive-computing-its-applications-reah-miyara:cognitive-computing-its-applications",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-cognitive-computing-its-applications-reah-miyara.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-cognitive-computing-its-applications-reah-miyara"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/244261633/"
+  ],
+  "speaker_ids": [
+    "speaker:reah-miyara"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:reah-miyara",
+      "name": "Reah Miyara",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Cognitive Computing & Its Applications",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/244261633/"
+}

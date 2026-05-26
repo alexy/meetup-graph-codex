@@ -1,0 +1,40 @@
+{
+  "abstract": "Abstract: Topic Scout is radically different. Its web site focuses on the large number of topics it has already successfully built - up to 10,000 of them - and shows ample evidence that Topic Scout can indeed create large topic systems. The data is accessible on the web site, and the data speaks loudly To the best of my knowledge, this is the only web site in the world that does this. Every other web site I have ever seen relating to topics and classification just sells tools Topic Scout is not about selling tools. It is about providing topics, either pre-built or allowing customers to build their own, and do this very effectively and quickly. In Topic Scout, any person who can create a good Google query has the skill to define topics, and create topics in minutes, not days or weeks. Highly automated data mining does the rest How does this relate to this proposed talk? The proposed talk is about creating 100,000+ topics and classifying the web at web scale. The Topic Scout web site provides strong evidence of this capability. It shows very large numbers of highly relevant topic lexicons that have been created using Topic Scout's relevance engine. The topic lexicons are very impressive. Highly relevant items related to that topic. Take a good look at them, and see for yourself",
+  "conference_id": null,
+  "date_time": "2015-02-26T19:00:00-08:00",
+  "end_time": "2015-02-26T22:00:00-08:00",
+  "event_id": "220401029",
+  "event_title": "Topics",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-topics-event-talk-2:topic-detection-at-massive-scale-stefan-gower-topic-scout",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-topics-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-topics-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/220401029/"
+  ],
+  "speaker_ids": [
+    "speaker:ge-was"
+  ],
+  "speakers": [
+    {
+      "company_name": "Bridgestream, a security",
+      "id": "speaker:ge-was",
+      "name": "GE. Was",
+      "title": "principal architect"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Topic Detection at Massive Scale, Stefan Gower, Topic Scout",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/220401029/"
+}

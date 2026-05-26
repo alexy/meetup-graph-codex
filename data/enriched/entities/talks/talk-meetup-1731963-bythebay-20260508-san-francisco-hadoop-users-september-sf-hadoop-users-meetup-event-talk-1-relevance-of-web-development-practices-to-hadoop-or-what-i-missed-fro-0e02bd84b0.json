@@ -1,0 +1,40 @@
+{
+  "abstract": "Srikar Ayilavarapu (Software Developer, ThoughtWorks) We will talk about how we brought in some of the practices, tools and techniques we saw in the Web Development world to Hadoop-based Data Applications. While the Web world has had practices like Test Driven Development, Continuous Integration, Hot Deployments, great debugging support, etc. for a while, we see these practices making inroads into the Data world just now We will discuss the tools and techniques we used to support these practices, some of the fundamental differences between Web and Data Engineering and how to compensate for them",
+  "conference_id": null,
+  "date_time": "2014-09-10T18:00:00-07:00",
+  "end_time": "2014-09-10T20:00:00-07:00",
+  "event_id": "203730542",
+  "event_title": "September SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event-talk-1:relevance-of-web-development-practices-to-hadoop-or-what-i-missed-from-the-world-of-web-de",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/203730542/"
+  ],
+  "speaker_ids": [
+    "speaker:srikar-ayilavarapu"
+  ],
+  "speakers": [
+    {
+      "company_name": "ThoughtWorks) We",
+      "id": "speaker:srikar-ayilavarapu",
+      "name": "Srikar Ayilavarapu",
+      "title": "Software Developer"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "“Relevance of Web Development practices to Hadoop (Or, What I Missed From the World of Web Development When Working on Hadoop)”",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/203730542/"
+}

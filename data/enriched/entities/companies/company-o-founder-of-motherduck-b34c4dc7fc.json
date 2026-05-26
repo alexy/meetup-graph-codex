@@ -1,0 +1,16 @@
+{
+  "id": "company:o-founder-of-motherduck",
+  "name": "Сo-founder of MotherDuck",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-llms-meet-data-warehouses-building-reliable-ai-agents-for-business-analytics-ryan-boyd.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-llms-meet-data-warehouses-building-reliable-ai-agents-for-business-analytics-ryan-boyd"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:ryan-boyd"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-felix",
+  "name": "Apache Felix",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-build-reactive-distributed-and-polyglot-application-with-vert-x-clement-escoffier-who.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-build-reactive-distributed-and-polyglot-application-with-vert-x-clement-escoffier-who"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/231897896/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-build-reactive-distributed-and-polyglot-application-with-vert-x-clement-escoffier-who:build-reactive-distributed-and-polyglot-application-with-vert-x"
+  ],
+  "type": "project"
+}

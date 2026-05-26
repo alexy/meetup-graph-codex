@@ -1,0 +1,38 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:master-inventor",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Master Inventor",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-managing-your-metadata-with-project-egeria-master-inventor-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-managing-your-metadata-with-project-egeria-master-inventor.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-managing-your-metadata-with-project-egeria-master-inventor-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-managing-your-metadata-with-project-egeria-master-inventor",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo-talk-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo-3-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/253974350/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293933526/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293933697/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-managing-your-metadata-with-project-egeria-master-inventor:managing-your-metadata-with-project-egeria",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo-tal:security-of-foundation-models",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo-3-t:security-of-foundation-models"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

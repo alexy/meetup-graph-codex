@@ -1,0 +1,35 @@
+{
+  "abstract": "Overview When building machine learning and data applications, a significant portion of your time will be dedicated to data wrangling - from content extraction and filtering out problematic and low quality data. In this hands-on session we will explore Data Prep Kit - an open source toolkit, designed to streamline these essential tasks. Attendees will learn first hand how to use the Data Prep Kit to improve overall data quality such as removing spam and low quality documents, removing HAP (Hate Abuse Profanity) speech, removing PII (Personally Identifiable Information) data, thus leading to higher quality dataset. Description Join us for an interactive, hands-on session where you will learn to clean up data and prepare high quality datasets. In this workshop we will do the following: Extract content from various documents (PDFs, HTML) cleanup and remove markups Detect and remove SPAM content Score and remove low-quality documents Identify and remove PII data Detect and remove HAP (Hate Abuse Profanity) speech from documents More about Data Prep Kit : https://github.com/IBM/data-prep-kit What do you need to participate in this workshop? Comfortable in python programming language We will run the workshop code using Google Collab (free) - no other setup is needed! Session Type Workshop (hands-on) Audience LLM app developers, data scientists, data engineers Technical Level Beginner - Intermediate Prerequisites Comfortable in python programming language We will run the workshop using Google Collab (free to use) - no other setup is needed! Duration 60 mins Industry Cross industry Speaker Bio https://sujee.dev/bio About the AI Alliance The AI Alliance is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players",
+  "conference_id": null,
+  "date_time": "2025-03-27T12:00:00-04:00",
+  "end_time": "2025-03-27T13:00:00-04:00",
+  "event_id": "306536862",
+  "event_title": "[AI Alliance] Workshop: Preparing High Quality Datasets with Data Prep Kit",
+  "github_repositories": [
+    "https://github.com/IBM/data-prep-kit"
+  ],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-preparing-high-quality-datasets-with-data-prep-kit-event:workshop-preparing-high-quality-datasets-with-data-prep-kit",
+  "kind": "workshop",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:https-github-com-ibm-data-prep-kit"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-preparing-high-quality-datasets-with-data-prep-kit-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-preparing-high-quality-datasets-with-data-prep-kit-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306536862/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Workshop: Preparing High Quality Datasets with Data Prep Kit",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/306536862/"
+}

@@ -1,0 +1,47 @@
+{
+  "abstract": "http://photos4.meetupstatic.com/photos/event/8/0/e/0/600 413012992.jpeg Join us at KIXEYE for an informative talk by Peter Potts about The Cake Pattern in Practice. Peter Potts is a Principal Architect in the Services Engineering team at KIXEYE. He develops highly scalable Scala and Akka based backend systems for massively multiplayer online (MMO) games. He studied Mathematics at the University of Cambridge and received a PhD in Theoretical Computing at Imperial College London. The Cake Pattern is a strongly typed solution for Dependency Injection (DI) and Aspect-Oriented Programming (AOP) using only the constructs available in the Scala programming language. The pattern was first explained by Martin Odersky and further illuminated by Jonas Bonér. In this talk, we will demonstrate practical ways to use the Cake Pattern. We will cover ways to handle scope, configuration, initialization, actors, modularization and how to manage the proliferation of boilerplate and obtuse compiler errors",
+  "conference_id": null,
+  "date_time": "2014-10-08T17:30:00-07:00",
+  "end_time": "2014-10-08T20:30:00-07:00",
+  "event_id": "208859462",
+  "event_title": "The Cake Pattern in Practice",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-the-cake-pattern-in-practice-martin-odersky:the-cake-pattern-in-practice",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-the-cake-pattern-in-practice-martin-odersky.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-the-cake-pattern-in-practice-martin-odersky"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/208859462/"
+  ],
+  "speaker_ids": [
+    "speaker:martin-odersky",
+    "speaker:peter-potts"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:martin-odersky",
+      "name": "Martin Odersky",
+      "title": null
+    },
+    {
+      "company_name": "KIXEYE",
+      "id": "speaker:peter-potts",
+      "name": "Peter Potts",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The Cake Pattern in Practice",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/208859462/"
+}

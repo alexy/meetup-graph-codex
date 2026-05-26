@@ -1,0 +1,37 @@
+{
+  "abstract": "Closing his Typeclassopedia talk (http://marakana.com/s/scala typeclassopedia with john kodumal of atlassian video,1198/index.html) at the May meetup, John Kodumal mentioned that monad transformers can be used work with multiple monads at once. The need for monad transformers arises quickly when writing code in monadic style. In web services, for example, it is common to perform I/O, handle exceptions and depend on some state all at once. Monad transformers allow us to build an \"embedded language\" that encapsulates all of the semantics of the monads we choose to use. This talk will introduce monad transformers and look at their usages in real projects like Scalamachine (https://github.com/stackmob/scalamachine), Scaliak (https://github.com/stackmob/scaliak), and StackMob's own codebase. Additionally, we will explore when to use monad transformers, how they improve a codebase, and how you can write your own. Rough agenda for the evening: 6:00-6:25pm: Arrive and Mingle (food and drinks provided) 6:25-6:30pm: Announcements 6:30-7:30pm: Jordan's Presentation 7:30-8:00pm: Q&A and Wrap-up About Jordan West Jordan is an Engineer at StackMob (http://stackmob.com), focused primarily on developing their backend services written in Scala and Erlang. He is a polyglot at heart but spends most of his engineering time writing Scala, Erlang and Ruby, and playing around with Haskell. He is a core committer of StackMob's open-source Scala projects, Scalamachine (https://github.com/stackmob/scalamachine) and Scaliak (https://github.com/stackmob/scaliak)",
+  "conference_id": null,
+  "date_time": "2012-07-26T18:00:00-07:00",
+  "end_time": "2012-07-26T20:00:00-07:00",
+  "event_id": "69910422",
+  "event_title": "Jordan West: Monad Transformers in Scalamachine and Scaliak",
+  "github_repositories": [
+    "https://github.com/stackmob/scalamachine",
+    "https://github.com/stackmob/scaliak"
+  ],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-jordan-west-monad-transformers-in-scalamachine-and-scaliak-event:jordan-west-monad-transformers-in-scalamachine-and-scaliak",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:https-github-com-stackmob-scalamachine",
+    "project:https-github-com-stackmob-scaliak"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-jordan-west-monad-transformers-in-scalamachine-and-scaliak-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-jordan-west-monad-transformers-in-scalamachine-and-scaliak-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/69910422/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Jordan West: Monad Transformers in Scalamachine and Scaliak",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/69910422/"
+}

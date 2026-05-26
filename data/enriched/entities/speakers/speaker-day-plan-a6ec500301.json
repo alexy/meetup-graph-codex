@@ -1,0 +1,26 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:day-plan",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Day Plan",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-js-hackathon-w-haoyi-li-james-ward-and-dick-wall-at-nitro-day-plan-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-js-hackathon-w-haoyi-li-james-ward-and-dick-wall-at-nitro-day-plan-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/219504287/"
+  ],
+  "talk_ids": [],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

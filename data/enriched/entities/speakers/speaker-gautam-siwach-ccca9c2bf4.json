@@ -1,0 +1,52 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ibm",
+      "company_name": "IBM",
+      "title": "open source technologies"
+    }
+  ],
+  "company_id": "company:ibm",
+  "company_ids": [
+    "company:ibm"
+  ],
+  "company_name": "IBM",
+  "company_names": [
+    "IBM"
+  ],
+  "conference_ids": [],
+  "id": "speaker:gautam-siwach",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Gautam Siwach",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-applying-generative-ai-securely-for-collaborative-robots-gautam-siwach-open-source-technologies-at-ibm-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-unique-risks-of-large-language-models-and-how-to-use-them-more-responsibly-gautam-siwach-open-source-technologies-at-ibm.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-unique-risks-of-large-language-models-and-how-to-use-them-more-responsibly-gautam-siwach-open-source-technologies-at-ibm-3.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-applying-generative-ai-securely-for-collaborative-robots-gautam-siwach-open-source-technologies-at-ibm.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-applying-generative-ai-securely-for-collaborative-robots-gautam-siwach-open-source-technologies-at-ibm-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-applying-generative-ai-securely-for-collaborative-robots-gautam-siwach-open-source-technologies-at-ibm-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-unique-risks-of-large-language-models-and-how-to-use-them-more-responsibly-gautam-siwach-open-source-technologies-at-ibm",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-unique-risks-of-large-language-models-and-how-to-use-them-more-responsibly-gautam-siwach-open-source-technologies-at-ibm-3",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-applying-generative-ai-securely-for-collaborative-robots-gautam-siwach-open-source-technologies-at-ibm",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-applying-generative-ai-securely-for-collaborative-robots-gautam-siwach-open-source-technologies-at-ibm-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292588112/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292013365/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292013928/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292587941/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-unique-risks-of-large-language-models-and-how-to-use-them-more-responsibly-gautam-siwach-open-sou:unique-risks-of-large-language-models-and-how-to-use-them-more-responsibly",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-applying-generative-ai-securely-for-collaborative-robots-gautam-siwach-open-source-technologies-a:applying-generative-ai-securely-for-collaborative-robots"
+  ],
+  "title": "open source technologies",
+  "titles": [
+    "open source technologies"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,28 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:hp-security-voltage",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "HP Security Voltage",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2-talk-4"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/220286707/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2-talk-4:the-april-sf-hadoop-user-group-meetup-will-be-held-wednesday-april-8-from-6-00pm-to-8-00pm"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

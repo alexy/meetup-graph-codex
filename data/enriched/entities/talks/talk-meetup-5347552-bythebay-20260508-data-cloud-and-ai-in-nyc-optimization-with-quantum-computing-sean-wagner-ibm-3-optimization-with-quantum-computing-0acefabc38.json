@@ -1,0 +1,40 @@
+{
+  "abstract": "Topic repeated at 2 different times, please join the session that is best suited for your time zone. Many classic optimization problems that arise in all areas of business and science remain intractable on classical computers, but could be solved practically with quantum computers. This seminar will cover some of those problems and discuss how quantum computers can be leveraged to solve them. We will demonstrate how the Qiskit Optimization open source software project can be used to describe optimization problems as quadratic programs, and then convert them into models that can be run on a quantum computer. Note that this is part 3 of an 8-session series on Quantum Computing on Mar 22/23, Apr 5/6, Apr 19/20, May 3/4, May 17/18, May 31/Jun 1, Jun 14/15, Jul 5/6. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions. Presenter: Dr. Sean Wagner Sean Wagner is a Research Scientist and a Quantum Technical Ambassador at IBM. When he's not programming and experimenting with Qiskit, Sean spends his time working with researchers at academic institutions and industry partners in Canada on projects involving high-performance computing, hardware acceleration, quantum computing, and data science and AI. Dr. Wagner holds a B.A.Sc. degree in Computer Engineering from the University of Waterloo, and M.A.Sc. and Ph.D. degrees in Electrical and Computer Engineering from the University of Toronto. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/r024ad394a894053b76c86bdf89fe6233",
+  "conference_id": null,
+  "date_time": "2023-04-20T15:30:00-04:00",
+  "end_time": "2023-04-20T16:30:00-04:00",
+  "event_id": "291841521",
+  "event_title": "Optimization with Quantum Computing",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-optimization-with-quantum-computing-sean-wagner-ibm-3:optimization-with-quantum-computing",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-optimization-with-quantum-computing-sean-wagner-ibm-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-optimization-with-quantum-computing-sean-wagner-ibm-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291841521/"
+  ],
+  "speaker_ids": [
+    "speaker:sean-wagner"
+  ],
+  "speakers": [
+    {
+      "company_name": "IBM",
+      "id": "speaker:sean-wagner",
+      "name": "Sean Wagner",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Optimization with Quantum Computing",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/291841521/"
+}

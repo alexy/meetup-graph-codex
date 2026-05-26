@@ -1,0 +1,31 @@
+{
+  "abstract": "Please join the session that is best suited to your time zone...this topic is repeated at 2 different times. It's less complicated than it seems. In this session, you will build your first data contract. We will first set the decorum: What is a data contract? What's its purpose? Why it simplifies data engineers' lives? Then we will jump into the hands-on part, using some (as of now, experimental) open-source tools to generate a skeleton of a data contract, and we will add information to it. Join us for this fun and fast-paced session, filled with extremely relevant information, whether you are using IBM products or not. Presenter: Jean-Georges “jgp” Perrin Jean-Georges “jgp” Perrin is a technology leader focusing on building innovative and modern data platforms, president of AIDA User Group, and author of multiple books, including Implementing Data Mesh (O’Reilly) and Spark in Action, 2nd edition (Manning). He is passionate about software engineering and all things data. His latest endeavors bring him to more and more data engineering, data governance, industrialization of data science, and his favorite theme, Data Mesh. He is proud to have been recognized as a Lifetime IBM Champion. Jean-Georges shares over 25 years of experience in the IT industry as a presenter and participant at conferences and publishing articles in print and online media. His blog is visible at http://jgp.ai. He enjoys exploring Upstate New York and New England with his wife and kids when not immersed in IT, which he loves. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/r25b22264cb3f1c6f6360115f31bbcfc0",
+  "conference_id": null,
+  "date_time": "2023-09-27T08:00:00-04:00",
+  "end_time": "2023-09-27T09:00:00-04:00",
+  "event_id": "295510884",
+  "event_title": "Building your First Data Contract using Open Source Tools",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-building-your-first-data-contract-using-open-source-tools-event:building-your-first-data-contract-using-open-source-tools",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-building-your-first-data-contract-using-open-source-tools-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-building-your-first-data-contract-using-open-source-tools-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/295510884/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Building your First Data Contract using Open Source Tools",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/295510884/"
+}

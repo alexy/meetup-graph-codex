@@ -1,0 +1,47 @@
+{
+  "abstract": "Logging is vital for system observability and debugging, but writing sensitive data to logs poses several challenges and risks - Security & data breaches, Compliance and legal issues, Loss of customer confidence and damage to reputation As a solution, we are going to discuss about the \"Sanitizer\" library we developed that makes it easy for developers to safely log data",
+  "conference_id": null,
+  "date_time": "2025-07-17T17:30:00-07:00",
+  "end_time": "2025-07-17T20:00:00-07:00",
+  "event_id": "308661456",
+  "event_title": "Demystifying Scala 3 Types & Securing sensitive data in logs like a pro",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-talk-2:securing-sensitive-data-in-logs-like-a-pro",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/308661456/"
+  ],
+  "speaker_ids": [
+    "speaker:vivek-ragunathan",
+    "speaker:bahul-jain"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:vivek-ragunathan",
+      "name": "Vivek Ragunathan",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:bahul-jain",
+      "name": "Bahul Jain",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Securing sensitive data in logs like a pro",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/308661456/"
+}

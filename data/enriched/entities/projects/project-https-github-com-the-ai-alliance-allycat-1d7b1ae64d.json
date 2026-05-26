@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/The-AI-Alliance/allycat"
+  ],
+  "github_repository": "https://github.com/The-AI-Alliance/allycat",
+  "id": "project:https-github-com-the-ai-alliance-allycat",
+  "name": "allycat",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-chat-with-your-website-using-an-llm-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-chat-with-your-website-using-an-llm-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/307464912/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-chat-with-your-website-using-an-llm-event:chat-with-your-website-using-an-llm"
+  ],
+  "type": "project"
+}

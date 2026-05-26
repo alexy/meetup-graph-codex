@@ -1,0 +1,35 @@
+{
+  "abstract": "This is a joint event with Bay Area Haskell User Group (https://www.meetup.com/Bay-Area-Haskell-Users-Group/events/251017141/), held at Formation, the citadel of thoughtful functional programming. Join us! ----- Ambiguity Is Insecurity It’s 2018, and every day it seems as if there are more and more software vulnerabilities. Where do they come from, and how can we plug the holes? We’ll explore the ways in which implementations accidentally betray the intentions their specifications promised, and how to close the vulnerability gap, through the lenses of formal language theory and type theory, in this introduction to language-theoretic security. Bio: By day a mild-mannered software engineer, by night the leader of the Langsec Conspiracy (http://langsec.org), Meredith L. Patterson lives in Brussels, Belgium. She wrote and maintains the Hammer parser generator library (https://github.com/UpstandingHackers/hammer). When not travelling to far too many infosec conferences, she enjoys bicycling, cooking, and target shooting",
+  "conference_id": null,
+  "date_time": "2018-05-23T18:00:00-07:00",
+  "end_time": "2018-05-23T21:00:00-07:00",
+  "event_id": "250786131",
+  "event_title": "LangSec Meetup -- Treat Security as a Programming Language Problem!",
+  "github_repositories": [
+    "https://github.com/UpstandingHackers/hammer"
+  ],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-langsec-meetup-treat-security-as-a-programming-language-problem-event:langsec-meetup-treat-security-as-a-programming-language-problem",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:https-github-com-upstandinghackers-hammer"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-langsec-meetup-treat-security-as-a-programming-language-problem-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-langsec-meetup-treat-security-as-a-programming-language-problem-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/250786131/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "LangSec Meetup -- Treat Security as a Programming Language Problem!",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/250786131/"
+}

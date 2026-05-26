@@ -1,0 +1,35 @@
+{
+  "abstract": null,
+  "conference_id": "scale-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:scale-by-the-bay:bythebay-20260508-building-scalable-distributed-systems-powered-by-dapr-oss-kendall-roden-diagrid:building-scalable-distributed-systems-powered-by-dapr-oss",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-building-scalable-distributed-systems-powered-by-dapr-oss-kendall-roden-diagrid.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-building-scalable-distributed-systems-powered-by-dapr-oss-kendall-roden-diagrid"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:kendall-roden"
+  ],
+  "speakers": [
+    {
+      "company_name": "Diagrid",
+      "id": "speaker:kendall-roden",
+      "name": "Kendall Roden",
+      "title": "Technical Product Manager"
+    }
+  ],
+  "tags": [],
+  "title": "Building scalable distributed systems powered by Dapr OSS",
+  "type": "talk",
+  "url": "https://www.scale.bythebay.io/post/kendall-roden-building-scalable-distributed-systems-powered-by-dapr-oss"
+}

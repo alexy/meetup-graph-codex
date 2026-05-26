@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2023-11-13T08:00:00-08:00",
+  "end_time": "2023-11-13T16:00:00-08:00",
+  "event_id": "296212691",
+  "event_title": "Workshop: \"Building production-ready LLM-powered applications\" by Josh Tobin",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-talk-3:i-can-t-believe-they-made-this-available-for-free",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/296212691/"
+  ],
+  "speaker_ids": [
+    "speaker:jo-kristian-bergum"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:jo-kristian-bergum",
+      "name": "Jo Kristian Bergum",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "I can't believe they made this available for free",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/296212691/"
+}

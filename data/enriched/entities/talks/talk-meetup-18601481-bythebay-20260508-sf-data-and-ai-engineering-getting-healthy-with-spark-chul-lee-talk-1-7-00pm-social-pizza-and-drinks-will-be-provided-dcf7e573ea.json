@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2015-09-29T18:30:00-07:00",
+  "end_time": "2015-09-29T21:30:00-07:00",
+  "event_id": "225522991",
+  "event_title": "Getting Healthy with Spark",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-getting-healthy-with-spark-chul-lee-talk-1:7-00pm-social-pizza-and-drinks-will-be-provided",
+  "kind": "talk",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-getting-healthy-with-spark-chul-lee.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-getting-healthy-with-spark-chul-lee-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/225522991/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "7:00pm :: Social (Pizza and drinks will be provided",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/225522991/"
+}

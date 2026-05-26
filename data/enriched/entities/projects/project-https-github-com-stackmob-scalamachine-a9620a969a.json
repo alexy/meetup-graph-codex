@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/stackmob/scalamachine"
+  ],
+  "github_repository": "https://github.com/stackmob/scalamachine",
+  "id": "project:https-github-com-stackmob-scalamachine",
+  "name": "scalamachine",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-jordan-west-monad-transformers-in-scalamachine-and-scaliak-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-jordan-west-monad-transformers-in-scalamachine-and-scaliak-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/69910422/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-jordan-west-monad-transformers-in-scalamachine-and-scaliak-event:jordan-west-monad-transformers-in-scalamachine-and-scaliak"
+  ],
+  "type": "project"
+}

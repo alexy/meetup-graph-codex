@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:vmware",
+      "company_name": "VMWare",
+      "title": "Software Engineer"
+    }
+  ],
+  "company_id": "company:vmware",
+  "company_ids": [
+    "company:vmware"
+  ],
+  "company_name": "VMWare",
+  "company_names": [
+    "VMWare"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:sinan-pehlivanoglu",
+  "meetup_ids": [],
+  "name": "Sinan Pehlivanoglu",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-oblivious-privacy-in-a-statically-typed-world-sinan-pehlivanoglu-vmware.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-oblivious-privacy-in-a-statically-typed-world-sinan-pehlivanoglu-vmware"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-oblivious-privacy-in-a-statically-typed-world-sinan-pehlivanoglu-vmware:oblivious-privacy-in-a-statically-typed-world"
+  ],
+  "title": "Software Engineer",
+  "titles": [
+    "Software Engineer"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:uc-berkeley",
+      "company_name": "UC Berkeley",
+      "title": "CS PhD student"
+    }
+  ],
+  "company_id": "company:uc-berkeley",
+  "company_ids": [
+    "company:uc-berkeley"
+  ],
+  "company_name": "UC Berkeley",
+  "company_names": [
+    "UC Berkeley"
+  ],
+  "conference_ids": [],
+  "id": "speaker:google-brain-woosuk-kwon",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Google Brain. Woosuk Kwon",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-external-registration-required-ai-alliance-and-vllm-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-external-registration-required-ai-alliance-and-vllm-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/298461968/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-external-registration-required-ai-alliance-and-vllm-event-talk-2:vllm-project-update-zhuohan-li-woosuk-kwon-uc-berkeley"
+  ],
+  "title": "CS PhD student",
+  "titles": [
+    "CS PhD student"
+  ],
+  "type": "speaker"
+}

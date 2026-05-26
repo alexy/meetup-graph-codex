@@ -1,0 +1,31 @@
+{
+  "abstract": "Twitter presents Manhattan! The day we were all waiting for... Register at Eventbrite please: https://www.eventbrite.com/e/twittermanhattan-distributed-storage-at-twitter-tickets-19215758852",
+  "conference_id": null,
+  "date_time": "2015-11-12T18:00:00-08:00",
+  "end_time": "2015-11-12T21:00:00-08:00",
+  "event_id": "226709971",
+  "event_title": "[external registration] Twitter Manhattan [register via Eventbrite!]",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-external-registration-twitter-manhattan-register-via-eventbrite-event:twitter-manhattan-register-via-eventbrite",
+  "kind": "announcement",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-external-registration-twitter-manhattan-register-via-eventbrite-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-external-registration-twitter-manhattan-register-via-eventbrite-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/226709971/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "Twitter Manhattan [register via Eventbrite!]",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/226709971/"
+}

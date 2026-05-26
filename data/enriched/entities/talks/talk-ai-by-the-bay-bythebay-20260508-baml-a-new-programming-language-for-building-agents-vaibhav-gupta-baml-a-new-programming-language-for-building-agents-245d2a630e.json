@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-baml-a-new-programming-language-for-building-agents-vaibhav-gupta:baml-a-new-programming-language-for-building-agents",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [
+    "project:baml"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-baml-a-new-programming-language-for-building-agents-vaibhav-gupta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-baml-a-new-programming-language-for-building-agents-vaibhav-gupta"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:vaibhav-gupta"
+  ],
+  "speakers": [
+    {
+      "company_name": "Co-creator of BAML",
+      "id": "speaker:vaibhav-gupta",
+      "name": "Vaibhav Gupta",
+      "title": "Founder and CEO of Boundary"
+    }
+  ],
+  "tags": [
+    "Agentic AI",
+    "Context engineering"
+  ],
+  "title": "BAML - A new programming language for building Agents",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/baml---a-new-programming-language-for-building-agents"
+}

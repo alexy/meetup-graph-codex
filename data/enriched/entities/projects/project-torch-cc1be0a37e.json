@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:torch",
+  "name": "Torch",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-talk-3",
+    "bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/268317060/",
+    "https://www.meetup.com/bythebay/events/268584447/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-talk-3:less-code-more-intelligence-with-pytorch-on-sagemaker-by-aws",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor-talk-3:less-code-more-intelligence-with-pytorch-on-sagemaker-by-aws"
+  ],
+  "type": "project"
+}

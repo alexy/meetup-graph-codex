@@ -1,0 +1,70 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:hopsworks",
+      "company_name": "Hopsworks",
+      "title": "CEO, Bridging Python and Lakehouse worlds with Arrow Flight and DuckDB"
+    },
+    {
+      "company_id": "company:arrow-flight-and-duckdb",
+      "company_name": "Arrow Flight and DuckDB",
+      "title": "Hopsworks, CEO, Bridging Python and Lakehouse worlds"
+    }
+  ],
+  "company_id": "company:hopsworks",
+  "company_ids": [
+    "company:hopsworks",
+    "company:arrow-flight-and-duckdb"
+  ],
+  "company_name": "Hopsworks",
+  "company_names": [
+    "Hopsworks",
+    "Arrow Flight and DuckDB"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay",
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:jim-dowling",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:18315941",
+    "meetup:18601481"
+  ],
+  "name": "Jim Dowling",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-the-feature-stores-the-missing-api-between-data-engineering-and-data-science-jim-dowling-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling-2.json",
+    "data/raw/sources/bythebay-20260508-jim-dowling-jim-dowling-hopsworks.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-the-feature-stores-the-missing-api-between-data-engineering-and-data-science-jim-dowling.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling-2",
+    "bythebay-20260508-bay-area-ai-the-feature-stores-the-missing-api-between-data-engineering-and-data-science-jim-dowling-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling-2",
+    "bythebay-20260508-jim-dowling-jim-dowling-hopsworks",
+    "bythebay-20260508-bay-area-ai-the-feature-stores-the-missing-api-between-data-engineering-and-data-science-jim-dowling",
+    "bythebay-20260508-sf-data-and-ai-engineering-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling",
+    "bythebay-20260508-san-francisco-hadoop-users-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/258164399/",
+    "https://www.meetup.com/bay-area-ai/events/258164070/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/258164228/",
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-the-feature-stores-the-missing-api-between-data-engineering-and-data-science-jim-dowling:the-feature-stores-the-missing-api-between-data-engineering-and-data-science",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling:the-feature-store-the-missing-api-between-data-engineering-and-data-science",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling:the-feature-store-the-missing-api-between-data-engineering-and-data-science"
+  ],
+  "title": "CEO, Bridging Python and Lakehouse worlds with Arrow Flight and DuckDB",
+  "titles": [
+    "CEO, Bridging Python and Lakehouse worlds with Arrow Flight and DuckDB",
+    "Hopsworks, CEO, Bridging Python and Lakehouse worlds"
+  ],
+  "type": "speaker"
+}

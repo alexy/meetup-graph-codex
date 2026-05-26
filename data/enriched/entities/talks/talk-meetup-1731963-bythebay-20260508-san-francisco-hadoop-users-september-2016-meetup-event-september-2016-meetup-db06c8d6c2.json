@@ -1,0 +1,39 @@
+{
+  "abstract": "HUG Scheduled Talks: • Ingest Framework with Spark Streaming and Kafka • The Pillar of Effective Archiving and Tiering in Hadoop Ingest Framework with Spark Streaming and Kafka Presented by: • Everardo Lopez, Software Development Lead for Cloud Analytics, Intel Corporation • Carlos Villavicencio, Security Researcher for Cloud Analytics, Intel Corporation In order to create an extensible and scalable version of the current ingest module used by the ONI project (http://open-network-insight.org/), the engineering team is leveraging a new capability to collect data from different telemetry sources and with different formats. This Ingest Framework was created to collect, translate, and send data for ONI's ML algorithms in real time to Apache Hadoop HDFS. We are able to achieve this goal by using different open source technologies like Apache Kafka, Apache Spark Streaming, and Python. This method uses Python collectors/producers to send messages (network data) to Kafka, with Spark Streaming reading data in real-time from Kafka and processing it (depending of the network source) with different tools (e.i. nfdump, thsark, etc) to convert network data into Apache Avro-Apache Parquet format. The data is then stored as Apache Hive tables so it can be accessed using tools like Apache Impala or Hive. The Pillars of Effective Data Archiving and Tiering in Hadoop Presented by: Pete Kisich, FactorData Corporation This talk will cover utilizing native Hadoop storage policies and types to effectively archive and tier data in your existing Hadoop infrastructure. Key focus areas are: 1. Current state of tiering in Hadoop 2. Identifying key metrics for successful archiving 3. Automation requirements at scale 4. Current limitations and gotchas The impact of successful archive provides Hadoop users better performance, lower hardware cost, and lower software costs. This session will cover the techniques and tools available to unlock this powerful capability in native Hadoop. Agenda • 6-630pm Food, Drinks and Networking • 630-715pm Hadoop Talk with Q&A • 715-8pm Networking",
+  "conference_id": null,
+  "date_time": "2016-09-13T18:00:00-07:00",
+  "end_time": "2016-09-13T21:00:00-07:00",
+  "event_id": "233741637",
+  "event_title": "September 2016 Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-september-2016-meetup-event:september-2016-meetup",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [
+    "project:apache-hadoop",
+    "project:apache-kafka",
+    "project:apache-spark",
+    "project:apache-avro",
+    "project:apache-hive",
+    "project:apache-impala",
+    "project:oni"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-september-2016-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-september-2016-meetup-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/233741637/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "September 2016 Meetup",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/233741637/"
+}

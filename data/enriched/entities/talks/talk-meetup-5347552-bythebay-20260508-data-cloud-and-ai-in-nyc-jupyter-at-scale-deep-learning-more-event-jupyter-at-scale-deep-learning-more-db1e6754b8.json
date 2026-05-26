@@ -1,0 +1,35 @@
+{
+  "abstract": "Join amazing speakers for Jupyter at Scale, Deep Learning & More - Agenda: 7:00pm - Networking 7:15pm - Jeremy Nilmeier, Data Scientist, on his new O'Reilly book & on Call for Code https://callforcode.org/ 7:20pm - Kevin Bates, Senior Software Engineer, on Jupyter Enterprise Gateway https://jupyter-enterprise-gateway.readthedocs.io/en/latest/ 7:40pm - Luciano Resende, Data Science Platform Architect, on Deep Learning Experience in Jupyter Notebooks and FfDL (Fabric for Deep Learning https://developer.ibm.com/code/open/projects/fabric-for-deep-learning-ffdl/ ) 8:00pm - Va Barbosa, Developer Advocate, on learning how to create charts, graphs & maps 8:15pm - Susan Malaika Jupyter Sprint Day (free) on Sat Aug 25 https://github.com/jupyter/jupyter/wiki/JupyterCon-2018-Sprint-Day - 8:20pm - Networking 8:45pm - The End",
+  "conference_id": null,
+  "date_time": "2018-08-23T19:00:00-04:00",
+  "end_time": "2018-08-23T21:00:00-04:00",
+  "event_id": "253667181",
+  "event_title": "Jupyter at Scale - Deep Learning & More",
+  "github_repositories": [
+    "https://github.com/jupyter/jupyter"
+  ],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-jupyter-at-scale-deep-learning-more-event:jupyter-at-scale-deep-learning-more",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:https-github-com-jupyter-jupyter"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-jupyter-at-scale-deep-learning-more-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-jupyter-at-scale-deep-learning-more-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/253667181/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Jupyter at Scale - Deep Learning & More",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/253667181/"
+}

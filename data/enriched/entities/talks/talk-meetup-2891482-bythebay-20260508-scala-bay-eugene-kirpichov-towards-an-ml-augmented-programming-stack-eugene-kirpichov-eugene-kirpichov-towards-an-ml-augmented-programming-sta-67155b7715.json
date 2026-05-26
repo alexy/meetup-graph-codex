@@ -1,0 +1,47 @@
+{
+  "abstract": "Making machine learning a first-class citizen in application programming is one of the \"holy grails\" of the domain. Packaging ML into abstractions practical for everyday development involves challenges at different layers of the programming and research stack, as well as developing new layers and new kinds of abstractions. We present a vision of how such a stack could look like, and recommend directions of necessary work to make it a reality. slides (https://docs.google.com/presentation/d/1fDTYQ9MnZsJPPbDQkMi6vIh4RDwxl1q842jCUHDaS1M/edit?usp=sharing) Speaker: Eugene Kirpichov Software Engineer, Research and Machine Intelligence Google Join Zoom Meeting https://scu.zoom.us/j/95229947801?pwd=MzdqODBwK1Y1UHkwQVdYSjV2NjFrUT09 Meeting ID: 952 2994 7801 Password: 583404 Join by phone: +1 (669) 900-6833 Meeting ID: 952 2994 7801 One tap mobile +16699006833,,95229947801",
+  "conference_id": null,
+  "date_time": "2020-06-13T10:00:00-07:00",
+  "end_time": "2020-06-13T11:30:00-07:00",
+  "event_id": "271129752",
+  "event_title": "Eugene Kirpichov. Towards an ML-augmented Programming Stack",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-eugene-kirpichov-towards-an-ml-augmented-programming-stack-eugene-kirpichov:eugene-kirpichov-towards-an-ml-augmented-programming-stack",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-eugene-kirpichov-towards-an-ml-augmented-programming-stack-eugene-kirpichov.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-eugene-kirpichov-towards-an-ml-augmented-programming-stack-eugene-kirpichov"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/271129752/"
+  ],
+  "speaker_ids": [
+    "speaker:eugene-kirpichov",
+    "speaker:join-zoom-meeting"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:eugene-kirpichov",
+      "name": "Eugene Kirpichov",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:join-zoom-meeting",
+      "name": "Join Zoom Meeting",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Eugene Kirpichov. Towards an ML-augmented Programming Stack",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/271129752/"
+}

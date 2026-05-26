@@ -1,0 +1,41 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-open-standards-and-lakehouse-ai-development-arrow-flight-apache-iceberg-and-mcp-alex-merced-dremio-co-author-of-o-reilly-s:open-standards-and-lakehouse-ai-development-arrow-flight-apache-iceberg-and-mcp",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [
+    "project:apache-iceberg"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-open-standards-and-lakehouse-ai-development-arrow-flight-apache-iceberg-and-mcp-alex-merced-dremio-co-author-of-o-reilly-s-apache-iceberg-the-definitive-guide.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-open-standards-and-lakehouse-ai-development-arrow-flight-apache-iceberg-and-mcp-alex-merced-dremio-co-author-of-o-reilly-s-apache-iceberg-the-definitive-guide"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:alex-merced"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:alex-merced",
+      "name": "Alex Merced",
+      "title": "Head of DevRel"
+    }
+  ],
+  "tags": [
+    "Open Data Lake",
+    "MCP",
+    "OSS AI"
+  ],
+  "title": "Open Standards and Lakehouse AI Development - Arrow Flight, Apache Iceberg and MCP",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/open-standards-and-lakehouse-ai-development---arrow-flight%2C-apache-iceberg-and-mcp"
+}

@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:uc-berkeley",
+      "company_name": "UC Berkeley",
+      "title": "Ben Recht"
+    }
+  ],
+  "company_id": "company:uc-berkeley",
+  "company_ids": [
+    "company:uc-berkeley"
+  ],
+  "company_name": "UC Berkeley",
+  "company_names": [
+    "UC Berkeley"
+  ],
+  "conference_ids": [],
+  "id": "speaker:vaishaal-shankar",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Vaishaal Shankar",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning-vaishaal-shankar-ben-recht-at-uc-berkeley-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning-vaishaal-shankar-ben-recht-at-uc-berkeley.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning-vaishaal-shankar-ben-recht-at-uc-berkeley-2",
+    "bythebay-20260508-bay-area-ai-to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning-vaishaal-shankar-ben-recht-at-uc-berkeley"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/270871731/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning-vaishaal-shankar-ben-recht-at-uc:to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning"
+  ],
+  "title": "Ben Recht",
+  "titles": [
+    "Ben Recht"
+  ],
+  "type": "speaker"
+}

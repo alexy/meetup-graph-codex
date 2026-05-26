@@ -1,0 +1,52 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:sourcegraph",
+      "company_name": "Sourcegraph",
+      "title": "CTO and co-founder"
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Co-Founder and CTO, Sourcegraph/AmpCode. The bottleneck"
+    }
+  ],
+  "company_id": "company:sourcegraph",
+  "company_ids": [
+    "company:sourcegraph"
+  ],
+  "company_name": "Sourcegraph",
+  "company_names": [
+    "Sourcegraph"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:beyang-liu",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Beyang Liu",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-open-source-ai-coding-assistants-the-future-of-software-development-beyang-liu-sourcegraph.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-luma-registration-required-ai-agent-sf-7-coding-agents-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-open-source-ai-coding-assistants-the-future-of-software-development-beyang-liu-sourcegraph",
+    "bythebay-20260508-bay-area-ai-luma-registration-required-ai-agent-sf-7-coding-agents-event"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers",
+    "https://www.meetup.com/bay-area-ai/events/311526427/"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-open-source-ai-coding-assistants-the-future-of-software-development-beyang-liu-sourcegraph:open-source-ai-coding-assistants-the-future-of-software-development",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-luma-registration-required-ai-agent-sf-7-coding-agents-event:agenda"
+  ],
+  "title": "CTO and co-founder",
+  "titles": [
+    "CTO and co-founder",
+    "Co-Founder and CTO, Sourcegraph/AmpCode. The bottleneck"
+  ],
+  "type": "speaker"
+}

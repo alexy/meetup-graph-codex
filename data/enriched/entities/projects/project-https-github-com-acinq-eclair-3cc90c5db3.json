@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/ACINQ/eclair"
+  ],
+  "github_repository": "https://github.com/ACINQ/eclair",
+  "id": "project:https-github-com-acinq-eclair",
+  "name": "eclair",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-bitcoin-in-scala-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-bitcoin-in-scala-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/244151821/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-bitcoin-in-scala-event:bitcoin-in-scala"
+  ],
+  "type": "project"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "company:diagrid",
+  "name": "Diagrid",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-building-scalable-distributed-systems-powered-by-dapr-oss-kendall-roden-diagrid.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-building-scalable-distributed-systems-powered-by-dapr-oss-kendall-roden-diagrid"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:kendall-roden"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-building-scalable-distributed-systems-powered-by-dapr-oss-kendall-roden-diagrid:building-scalable-distributed-systems-powered-by-dapr-oss"
+  ],
+  "type": "company"
+}

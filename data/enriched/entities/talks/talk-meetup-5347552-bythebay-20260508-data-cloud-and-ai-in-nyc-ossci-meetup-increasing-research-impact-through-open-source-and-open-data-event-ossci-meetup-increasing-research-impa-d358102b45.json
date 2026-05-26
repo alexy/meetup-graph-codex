@@ -1,0 +1,33 @@
+{
+  "abstract": "Please meet Open-Source Science (OSSci) , a top-level NumFOCUS initiative in partnership with IBM Research prioritizing open-source software development to accelerate scientific discovery. OSSci was officially announced at the SciPy conference in July 2022. We are excited to welcome you to our first community event! How OSSci ties into Data, Cloud & AI Open-Source Science accelerates research with AI and Big Data in multiple ways. All the published scientific papers are now sources of powerful knowledge extraction via modern NLP methods. Generative AI speeds up the hypothesis creation. Robotic labs enable quick testing and validation. Simulation at scale and high fidelity accelerates experiments. New platforms combining all of these approaches are emerging. They will bring about the revolution of science, the effect of which has not been seen since Newton. Topic exploration Science must communicate. Digital assets have become a fundamental building block of scientific communication, including the sharing of results that need to be reproduced or replicated before they can be accepted as science. Open source software communities have evolved sophisticated technologies to share and organize digital assets according to principles that have enabled collaborations of unprecedented scales. But there is a gap: university research groups are too often unaware of open source communities and practices that could accelerate insights in their research labs and classrooms. And open source communities, including many stakeholders in industry, too often fail to notice university research that could lead to high-impact innovation. Join us for an exciting evening organized by a collaboration of NumFOCUS, the Open Source Program Office UC Santa Cruz, Open Source Science Initiative (OSSci), and IBM Research. Panelists Juanita Gómez is a passionate programmer, mathematician and open source advocate; former developer of Spyder IDE at Quansight. She has a BS in Pure Mathematics from Pontificia Universidad Javeriana in Colombia and is currently pursuing a Ph.D. position in Computer Science at UC Santa Cruz. She is a community manager for the Scientific Python project, a community effort to better coordinate and support scientific Python libraries. Scott Brandt , Professor, Computer Science & Engineering, Associate Vice Provost for Research and Innovation at the University of California Office of the President and former UC Santa Cruz Vice Chancellor for Research Zander Matheson is the CEO and Founder of Bytewax - an open-source-driven Python stream processing framework. His previous experience prior to Bytewax had been as a data scientist at GitHub and Heroku. He lives in Santa Cruz, California, and when not at his computer, likes to get outdoors. Benedict John Paten , Associate Professor, Biomolecular Engineering, UC Santa Cruz, and Director, Computational Genomics Lab, UC Santa Cruz Genomics Institute Jose Renau , Professor, UC Santa Cruz, and head of the Micro Architecture at Santa Cruz (MASC) group Alexy Khrabrov , OSSci Community Director Carlos Maltzahn , Adjunct Professor, Computer Science & Engineering, UC Santa Cruz, Founder and Director of the Center for Research in Open Source Software (cross.ucsc.edu), Co-Founder of the Ceph open source distributed storage system project, PI of the Open Source Program Office, UC Santa Cruz (ospo.ucsc.edu). B rought to You By • NumFOCUS • OSPO UC Santa Cruz • Open Source Science Initiative (OSSci) • IBM Research In-person attendees Please make sure to register via Eventbrite: https://www.eventbrite.com/e/ossci-meetup-increasing-research-impact-through-open-source-and-open-data-tickets-515172082567 Online attendees We will share the Zoom link as we get closer to the event",
+  "conference_id": null,
+  "date_time": "2023-02-16T20:00:00-05:00",
+  "end_time": "2023-02-16T22:30:00-05:00",
+  "event_id": "291493582",
+  "event_title": "OSSci Meetup: Increasing Research Impact Through Open Source and Open Data",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ossci-meetup-increasing-research-impact-through-open-source-and-open-data-event:ossci-meetup-increasing-research-impact-through-open-source-and-open-data",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:scientific-python"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ossci-meetup-increasing-research-impact-through-open-source-and-open-data-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ossci-meetup-increasing-research-impact-through-open-source-and-open-data-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291493582/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "OSSci Meetup: Increasing Research Impact Through Open Source and Open Data",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/291493582/"
+}

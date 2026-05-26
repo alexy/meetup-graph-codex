@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:scala-bay",
+      "company_name": "Scala Bay",
+      "title": "founder"
+    }
+  ],
+  "company_id": "company:scala-bay",
+  "company_ids": [
+    "company:scala-bay"
+  ],
+  "company_name": "Scala Bay",
+  "company_names": [
+    "Scala Bay"
+  ],
+  "conference_ids": [],
+  "id": "speaker:richard-wall",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Richard Wall",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-richard-wall-amazon-echo-applications-called-skills-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-richard-wall-amazon-echo-applications-called-skills-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/225169599/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-richard-wall-amazon-echo-applications-called-skills-event:richard-wall-amazon-echo-applications"
+  ],
+  "title": "founder",
+  "titles": [
+    "founder"
+  ],
+  "type": "speaker"
+}

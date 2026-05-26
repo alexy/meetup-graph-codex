@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:semiont",
+  "name": "Semiont",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-semiont-ai-native-knowledge-kernel-for-human-agent-collaboration-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-semiont-ai-native-knowledge-kernel-for-human-agent-collaboration-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/311870230/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-semiont-ai-native-knowledge-kernel-for-human-agent-collaboration-event:semiont-ai-native-knowledge-kernel-for-human-agent-collaboration"
+  ],
+  "type": "project"
+}

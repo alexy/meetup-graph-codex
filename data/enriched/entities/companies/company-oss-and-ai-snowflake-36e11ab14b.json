@@ -1,0 +1,16 @@
+{
+  "id": "company:oss-and-ai-snowflake",
+  "name": "OSS and AI @ Snowflake",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-josh-reini-snowflake.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-josh-reini-snowflake"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:josh-reini"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

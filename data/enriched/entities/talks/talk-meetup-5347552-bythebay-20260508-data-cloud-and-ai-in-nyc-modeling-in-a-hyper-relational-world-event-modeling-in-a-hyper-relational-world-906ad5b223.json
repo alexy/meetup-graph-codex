@@ -1,0 +1,31 @@
+{
+  "abstract": "An interesting meetup tonight Dec 7th at 6:30pm at 137 Varick Street, 2nd floor (NYU AI Nexus Labs (http://www.nexuslab.ai/)) Modeling in a Hyper-relational world: GRAKN.AI and Alpha Vertex For more information & registration, see https://www.meetup.com/GRAKN-NY/ (https://urldefense.proofpoint.com/v2/url?u=https-3A www.meetup.com GRAKN-2DNY &d=DwMFaQ&c=jf iaSHvJObTbx-siA1ZOg&r=PPBt9g5r27h23QHszTu1gNAeqCepqpCmqLUK9BT6bNk&m=9orqmhCa0YXDzlzzM Ih7UqFneppdXkP9fYvu8 f cE&s=HVZaSzcGfHHFOoPrNhEa-ag4kWvAzDYMNzWP3WVGK7w&e=)",
+  "conference_id": null,
+  "date_time": "2017-12-07T18:30:00-05:00",
+  "end_time": "2017-12-07T21:30:00-05:00",
+  "event_id": "245731129",
+  "event_title": "Modeling in a Hyper-Relational World",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-modeling-in-a-hyper-relational-world-event:modeling-in-a-hyper-relational-world",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-modeling-in-a-hyper-relational-world-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-modeling-in-a-hyper-relational-world-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/245731129/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Modeling in a Hyper-Relational World",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/245731129/"
+}

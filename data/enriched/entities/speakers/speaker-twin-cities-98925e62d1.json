@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:twin-cities",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Twin Cities",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang-2",
+    "bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/244389272/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang:scala-based-ml-framework-at-netflix"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

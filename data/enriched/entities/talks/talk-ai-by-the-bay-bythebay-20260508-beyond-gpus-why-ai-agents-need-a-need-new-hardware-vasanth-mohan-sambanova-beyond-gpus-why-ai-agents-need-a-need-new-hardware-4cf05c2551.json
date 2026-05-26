@@ -1,0 +1,37 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-beyond-gpus-why-ai-agents-need-a-need-new-hardware-vasanth-mohan-sambanova:beyond-gpus-why-ai-agents-need-a-need-new-hardware",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-beyond-gpus-why-ai-agents-need-a-need-new-hardware-vasanth-mohan-sambanova.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-beyond-gpus-why-ai-agents-need-a-need-new-hardware-vasanth-mohan-sambanova"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:vasanth-mohan"
+  ],
+  "speakers": [
+    {
+      "company_name": "SambaNova",
+      "id": "speaker:vasanth-mohan",
+      "name": "Vasanth Mohan",
+      "title": "Head of Developer Relations and Product Marketing"
+    }
+  ],
+  "tags": [
+    "Agentic AI"
+  ],
+  "title": "Beyond GPUs: Why AI Agents Need a Need New Hardware",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/beyond-gpus%3A-why-ai-agents-need-a-need-new-hardware"
+}

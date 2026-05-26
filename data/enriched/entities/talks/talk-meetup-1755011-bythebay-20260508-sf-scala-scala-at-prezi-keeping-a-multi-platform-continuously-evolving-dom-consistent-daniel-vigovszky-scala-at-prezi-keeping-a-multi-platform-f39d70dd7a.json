@@ -1,0 +1,40 @@
+{
+  "abstract": "Prezi’s underlying document model is continuously evolving as we add new features, and it must work on various platforms (web, mobile, desktop and backend) perfectly even when different clients participate in a collaborative editing session. In this talk I will demonstrate how we keep things working with a combination of code generation, type safety and property based testing with the help of Scala. Speaker: Daniel Vigovszky About Daniel, in his own words: I started my career with developing a CAD software for 7 years at Kotem, then joined Prezi and worked on various backend projects leading to my current position where in the last 2.5 years I was working on Prezi's document and collaboration services, and also on introducing Scala for Prezi's backend teams",
+  "conference_id": null,
+  "date_time": "2017-05-10T18:00:00-07:00",
+  "end_time": "2017-05-10T20:00:00-07:00",
+  "event_id": "239656703",
+  "event_title": "Scala at Prezi: Keeping a multi-platform, continuously evolving DOM consistent",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-at-prezi-keeping-a-multi-platform-continuously-evolving-dom-consistent-daniel-vigovszky:scala-at-prezi-keeping-a-multi-platform-continuously-evolving-dom-consistent",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-at-prezi-keeping-a-multi-platform-continuously-evolving-dom-consistent-daniel-vigovszky.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-at-prezi-keeping-a-multi-platform-continuously-evolving-dom-consistent-daniel-vigovszky"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/239656703/"
+  ],
+  "speaker_ids": [
+    "speaker:daniel-vigovszky"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:daniel-vigovszky",
+      "name": "Daniel Vigovszky",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scala at Prezi: Keeping a multi-platform, continuously evolving DOM consistent",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/239656703/"
+}

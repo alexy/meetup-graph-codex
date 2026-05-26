@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2015-02-17T18:00:00-08:00",
+  "end_time": "2015-02-17T21:00:00-08:00",
+  "event_id": "220062096",
+  "event_title": "Scala at Twitter (using Eventbrite)",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors-talk-2:6-45pm-scala-at-twitter",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/220062096/"
+  ],
+  "speaker_ids": [
+    "speaker:stu-hood"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:stu-hood",
+      "name": "Stu Hood",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "6:45pm: Scala at Twitter",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/220062096/"
+}

@@ -1,0 +1,47 @@
+{
+  "abstract": "Please join the session that is best suited to your time zone...this topic is repeated at 2 different times. Description to be added at a later date. Note that this is part 3 of an 11-session Quantum Series running from January to June. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions. Presenter: Sean Wagner Sean Wagner is a Research Scientist and a Quantum Technical Ambassador at IBM. When he's not programming and experimenting with Qiskit, Sean spends his time working with researchers at academic institutions and industry partners in Canada on projects involving high-performance computing, hardware acceleration, quantum computing, and data science and AI. Sean holds a B.A.Sc. degree in Computer Engineering from the University of Waterloo, and M.A.Sc. and Ph.D. degrees in Electrical and Computer Engineering from the University of Toronto. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/rbf96442acced45def117b20d29f935ca",
+  "conference_id": null,
+  "date_time": "2024-02-28T08:00:00-05:00",
+  "end_time": "2024-02-28T09:00:00-05:00",
+  "event_id": "297915961",
+  "event_title": "Quantum Series Part 3: Utility Scale Quantum Computing",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-3-utility-scale-quantum-computing-sean-wagner:quantum-series-part-3-utility-scale-quantum-computing",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-3-utility-scale-quantum-computing-sean-wagner.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-3-utility-scale-quantum-computing-sean-wagner"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297915961/"
+  ],
+  "speaker_ids": [
+    "speaker:sean-wagner",
+    "speaker:sean-wagner-sean-wagner"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:sean-wagner",
+      "name": "Sean Wagner",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:sean-wagner-sean-wagner",
+      "name": "Sean Wagner Sean Wagner",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Quantum Series Part 3: Utility Scale Quantum Computing",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/297915961/"
+}

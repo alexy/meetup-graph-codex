@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:mikhaela-page-early",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Mikhaela-Page Early",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2023-accomplishments-and-2024-plan-mikhaela-page-early-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2023-accomplishments-and-2024-plan-mikhaela-page-early.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2023-accomplishments-and-2024-plan-mikhaela-page-early-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2023-accomplishments-and-2024-plan-mikhaela-page-early-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2023-accomplishments-and-2024-plan-mikhaela-page-early",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2023-accomplishments-and-2024-plan-mikhaela-page-early-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/296568888/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/296568725/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2023-accomplishments-and-2024-plan-mikhaela-page-early:technical-meetup-group-hosted-by-ibm-2023-accomplishments-and-2024-plan",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2023-accomplishments-and-2024-plan-mikhaela-page-early-3:technical-meetup-group-hosted-by-ibm-2023-accomplishments-and-2024-plan"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,54 @@
+{
+  "abstract": "Please join the session that is best suited to your time zone...this topic is repeated at 2 different times. Now that quantum computing is available to the masses, what can be done with this new technology outside of scientific research? We will be providing an overview and deep dive into how quantum computing can be used for artistic and creative purposes. Over the course of an hour, Wiktor Mazin and Russell Huffman will give a survey of how quantum computing is being adopted by creative practitioners, and then go through a tutorial on how you can get started by created fractal art with quantum information, quantum circuits, and using IBM’s real state of the art quantum systems. All necessary tools and links to get started will be covered during this talk. Presenters: Wiktor Mazin, Russell Huffman Wiktor Mazin is a Principal Data Scientist in the Client Engineering team, a Qiskit Advocate and a Quantum HCLS Ambassador at IBM. Wiktor works with clients co-creating minimal viable products leveraging IBM’s data & AI solutions and platform. He has 15 years+ experience with a variety of data science and machine learning challenges across a range of industries. Wiktor holds a M.Sc. in Engineering (chaos theory & Turing patterns), a Ph.D. and a MMT (eMBA) from the Technical University of Denmark (DTU). Russell Huffman is a Design Lead with IBM Quantum, a Qiskit Advocate, and a Quantum Ambassador. He has an M.Sc. in Digital Media from Georgia Tech and over 10 years of industry design experience. Russell has built his career at the intersection of emerging technology and design, including working in AI and quantum computing with several patents in both fields. He also has one of the world’s first quantum art installations, currently on display in one of IBM’s offices in Manhattan. It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/ibm/j.php?RGID=r53ca2ba4c1707579b171da2a788258f1",
+  "conference_id": null,
+  "date_time": "2023-02-15T08:00:00-05:00",
+  "end_time": "2023-02-15T09:00:00-05:00",
+  "event_id": "289691459",
+  "event_title": "How to use Quantum computing for creative and artistic purposes",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-russell-huffman:how-to-use-quantum-computing-for-creative-and-artistic-purposes",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-russell-huffman.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-use-quantum-computing-for-creative-and-artistic-purposes-russell-huffman"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289691459/"
+  ],
+  "speaker_ids": [
+    "speaker:russell-huffman",
+    "speaker:russell-huffman-wiktor-mazin",
+    "speaker:wiktor-mazin"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:russell-huffman",
+      "name": "Russell Huffman",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:russell-huffman-wiktor-mazin",
+      "name": "Russell Huffman Wiktor Mazin",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:wiktor-mazin",
+      "name": "Wiktor Mazin",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "How to use Quantum computing for creative and artistic purposes",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/289691459/"
+}

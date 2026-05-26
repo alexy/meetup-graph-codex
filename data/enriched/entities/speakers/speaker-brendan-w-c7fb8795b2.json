@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:brendan-w",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Brendan W",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-fast-track-to-scala-by-the-bay-brendan-w-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-fast-track-to-scala-by-the-bay-brendan-w.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-fast-track-to-scala-by-the-bay-brendan-w-2",
+    "bythebay-20260508-sf-scala-fast-track-to-scala-by-the-bay-brendan-w"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/197384852/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-fast-track-to-scala-by-the-bay-brendan-w:fast-track-to-scala-by-the-bay"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

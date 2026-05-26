@@ -1,0 +1,31 @@
+{
+  "abstract": "Join us for another Scala Puzzle Night! Come hone your skills and learn from the community by solving a puzzle or two -- in Scala! We will present a small problem that is solvable in an hour or two. Everyone will then pair off to work on the problem. When time is up, groups will take turns presenting their final solution and the process they took to come up with that solution. Our goal with this puzzle is not to stump anyone, but to stimulate a focus on the process of crafting a Good Solution. We hope to see a diversity of intriguing solutions. Perhaps there will be one that is especially terse, or another that is . Perhaps a pair just wants to focus on using TDD and write the cleanest, most readable code they can. Another team might try to generalize the solution to a more difficult problem. Rather, our goal is to find a puzzle difficult enough to enable this sort of diversity, yet simple enough that teams will be able to explore one of these various avenues within the 90 alloted minutes. We will (optionally) be using a simple online service that will compile a single source-file, run its unit tests, and track/share every pair's coding history. All that is necesary is a laptop and web-browser, but it's still recommended to Bring Your Own Scalac. Scala beginners are absolutely welcome, but please run through a quick crash course beforehand. Agenda: 6:00 - Refreshments and networking 7:00 - Welcome and Problem Unveiling 7:15 - Coding begins! 8:45 - Times up! Solution presentations and discussion 9:30 - Wrap-up Security: Please bring ID and check in with Security on the first floor. Let them know you are here for the meetup with Driver Genomics on the 4th floor. Street Parking: There is free street parking available on 16th street, and 7th street (see the highlighted rout on this map for areas with some street parking http://bit.ly/17z5nOr). Parking Garage: There is also a parking garage (not free) right behind the office. If you use this parking garage make sure to hold onto your ticket as it will open the gate after hours (9 or 10pm is when it typically closes). http://bit.ly/1EsGyRq",
+  "conference_id": null,
+  "date_time": "2015-04-01T18:00:00-07:00",
+  "end_time": "2015-04-01T22:00:00-07:00",
+  "event_id": "221198200",
+  "event_title": "Scala Puzzle Night",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-puzzle-night-event-2:scala-puzzle-night",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-puzzle-night-event-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-puzzle-night-event-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/221198200/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scala Puzzle Night",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/221198200/"
+}

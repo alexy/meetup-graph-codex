@@ -1,0 +1,35 @@
+{
+  "abstract": null,
+  "conference_id": "scale-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:scale-by-the-bay:bythebay-20260508-aging-evolving-software-tools-and-ourselves-jeremy-smith-netflix:aging-evolving-software-tools-and-ourselves",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-aging-evolving-software-tools-and-ourselves-jeremy-smith-netflix.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-aging-evolving-software-tools-and-ourselves-jeremy-smith-netflix"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:jeremy-smith"
+  ],
+  "speakers": [
+    {
+      "company_name": "Netflix",
+      "id": "speaker:jeremy-smith",
+      "name": "Jeremy Smith",
+      "title": "Software Engineer"
+    }
+  ],
+  "tags": [],
+  "title": "Aging: Evolving Software, Tools, and Ourselves",
+  "type": "talk",
+  "url": "https://www.scale.bythebay.io/post/jeremy-smith-aging-evolving-software-tools-and-ourselves"
+}

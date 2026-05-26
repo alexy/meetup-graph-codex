@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2020-10-21T08:15:00-07:00",
+  "end_time": "2020-10-21T09:45:00-07:00",
+  "event_id": "273606985",
+  "event_title": "What is Nix and how it can improve your Scala projects",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-what-is-nix-and-how-it-can-improve-your-scala-projects-gabriel-volpe:35am-what-is-nix-and-how-it-can-improve-your-scala-projects",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-what-is-nix-and-how-it-can-improve-your-scala-projects-gabriel-volpe.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-what-is-nix-and-how-it-can-improve-your-scala-projects-gabriel-volpe"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/273606985/"
+  ],
+  "speaker_ids": [
+    "speaker:gabriel-volpe"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:gabriel-volpe",
+      "name": "Gabriel Volpe",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "35am What is Nix and how it can improve your Scala projects",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/273606985/"
+}

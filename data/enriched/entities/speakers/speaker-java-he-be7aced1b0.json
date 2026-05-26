@@ -1,0 +1,36 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "involved in a number"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:java-he",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Java. He",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-adam-warski-simple-fast-agile-rest-with-spray-io-adam-warski.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-adam-warski-simple-fast-agile-rest-with-spray-io-adam-warski"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/205006942/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-adam-warski-simple-fast-agile-rest-with-spray-io-adam-warski:simple-fast-agile-rest-with-spray-io"
+  ],
+  "title": "involved in a number",
+  "titles": [
+    "involved in a number"
+  ],
+  "type": "speaker"
+}

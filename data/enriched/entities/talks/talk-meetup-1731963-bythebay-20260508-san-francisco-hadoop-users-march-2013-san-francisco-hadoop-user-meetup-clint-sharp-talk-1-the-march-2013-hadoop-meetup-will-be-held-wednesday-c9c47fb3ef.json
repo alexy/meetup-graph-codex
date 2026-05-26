@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2013-03-13T18:00:00-07:00",
+  "end_time": "2013-03-13T21:00:00-07:00",
+  "event_id": "105950932",
+  "event_title": "March 2013 San Francisco Hadoop User Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-march-2013-san-francisco-hadoop-user-meetup-clint-sharp-talk-1:the-march-2013-hadoop-meetup-will-be-held-wednesday-mar-13-from-6-00pm-to-8-00pm-this-meet",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-march-2013-san-francisco-hadoop-user-meetup-clint-sharp.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-march-2013-san-francisco-hadoop-user-meetup-clint-sharp-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/105950932/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The March 2013 Hadoop meetup will be held Wednesday, Mar 13, from 6:00pm to 8:00pm. This meetup will be hosted",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/105950932/"
+}

@@ -1,0 +1,35 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:hollin-wilkins",
+  "meetup_ids": [
+    "meetup:18315941",
+    "meetup:18601481"
+  ],
+  "name": "Hollin Wilkins",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-register-at-sfspark-org-mleap-scaling-ml-from-research-to-production-hollin-wilkins.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-mleap-scaling-machine-learning-from-research-to-production-hollin-wilkins-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-mleap-scaling-machine-learning-from-research-to-production-hollin-wilkins.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-register-at-sfspark-org-mleap-scaling-ml-from-research-to-production-hollin-wilkins",
+    "bythebay-20260508-sf-data-and-ai-engineering-mleap-scaling-machine-learning-from-research-to-production-hollin-wilkins-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-mleap-scaling-machine-learning-from-research-to-production-hollin-wilkins"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/239643320/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/239378825/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-mleap-scaling-machine-learning-from-research-to-production-hollin-wilkins:mleap-scaling-machine-learning-from-research-to-production",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-register-at-sfspark-org-mleap-scaling-ml-from-research-to-production-hollin-wilkins:mleap-scaling-ml-from-research-to-production"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

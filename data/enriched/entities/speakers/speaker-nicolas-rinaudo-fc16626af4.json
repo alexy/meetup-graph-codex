@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:nicolas-rinaudo",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Nicolas Rinaudo",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-recursion-schemes-from-the-ground-up-alexy-khrabrov-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-recursion-schemes-from-the-ground-up-alexy-khrabrov.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-recursion-schemes-from-the-ground-up-alexy-khrabrov-2",
+    "bythebay-20260508-sf-scala-recursion-schemes-from-the-ground-up-alexy-khrabrov"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/274581039/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-recursion-schemes-from-the-ground-up-alexy-khrabrov:45pm-recursion-schemes-from-the-ground-up"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

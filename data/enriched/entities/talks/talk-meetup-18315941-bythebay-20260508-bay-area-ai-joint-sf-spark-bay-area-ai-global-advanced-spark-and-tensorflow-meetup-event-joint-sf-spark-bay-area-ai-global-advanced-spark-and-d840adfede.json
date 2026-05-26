@@ -1,0 +1,31 @@
+{
+  "abstract": "This meetup is a housewarming of the new Mesosphere office, that used to be the Nitro office, where we held so many SF Scala, SF Spark, Bay Area AI, Reactive Systems, and Advanced Spark meetups. And you know what? We are bringing the sexy back with all of them joining forces at once! Welcome the first joint meetup at Mesosphere, and remember to check in regularly for the great things to come that are happening here!",
+  "conference_id": null,
+  "date_time": "2018-06-06T18:30:00-07:00",
+  "end_time": "2018-06-06T21:00:00-07:00",
+  "event_id": "251033289",
+  "event_title": "Joint SF Spark, Bay Area AI, Global Advanced Spark and TensorFlow Meetup!",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-joint-sf-spark-bay-area-ai-global-advanced-spark-and-tensorflow-meetup-event:joint-sf-spark-bay-area-ai-global-advanced-spark-and-tensorflow-meetup",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-joint-sf-spark-bay-area-ai-global-advanced-spark-and-tensorflow-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-joint-sf-spark-bay-area-ai-global-advanced-spark-and-tensorflow-meetup-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/251033289/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Joint SF Spark, Bay Area AI, Global Advanced Spark and TensorFlow Meetup!",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/251033289/"
+}

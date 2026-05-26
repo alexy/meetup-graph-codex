@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:the-play",
+  "name": "The Play",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-play-2-0-with-peter-hausel-of-typesafe-and-felipe-oliveira-of-klout-event.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-play-2-0-with-peter-hausel-of-typesafe-frank-sommers.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-play-2-0-with-peter-hausel-of-typesafe-and-felipe-oliveira-of-klout-event",
+    "bythebay-20260508-scala-bay-play-2-0-with-peter-hausel-of-typesafe-frank-sommers"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/43944172/",
+    "https://www.meetup.com/scala-bay/events/43944352/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-play-2-0-with-peter-hausel-of-typesafe-and-felipe-oliveira-of-klout-event:play-2-0-with-peter-hausel-of-typesafe-and-felipe-oliveira-of-klout",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-play-2-0-with-peter-hausel-of-typesafe-frank-sommers:play-2-0-with-peter-hausel-of-typesafe"
+  ],
+  "type": "project"
+}

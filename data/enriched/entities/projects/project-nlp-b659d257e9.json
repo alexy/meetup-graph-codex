@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:nlp",
+  "name": "NLP",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-lukas-biewald-openaisrisatish-ambati.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-metamind-salesforcejohn-eggert.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-lukas-biewald-openaisrisatish-ambati",
+    "bythebay-20260508-san-francisco-hadoop-users-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-metamind-salesforcejohn-eggert"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/237166274/",
+    "https://www.meetup.com/hadoopsf/events/237166862/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-lukas-biewald-openaisrisatish-ambati:ai-by-the-bay-self-driving-cars-march-6-8-san-francisco",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-metamind-salesforcejohn-egge:ai-by-the-bay-self-driving-cars-march-6-8-san-francisco"
+  ],
+  "type": "project"
+}

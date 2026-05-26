@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:our-speaker-jeff-pollard",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Our Speaker Jeff Pollard",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-building-microservices-with-finagle-and-scala-migrating-medium-s-architecture-our-speaker-jeff-pollard-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-building-microservices-with-finagle-and-scala-migrating-medium-s-architecture-our-speaker-jeff-pollard.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-building-microservices-with-finagle-and-scala-migrating-medium-s-architecture-our-speaker-jeff-pollard-2",
+    "bythebay-20260508-sf-scala-building-microservices-with-finagle-and-scala-migrating-medium-s-architecture-our-speaker-jeff-pollard"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/262801447/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-building-microservices-with-finagle-and-scala-migrating-medium-s-architecture-our-speaker-jeff-pollard:building-microservices-with-finagle-and-scala-migrating-medium-s-architecture"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

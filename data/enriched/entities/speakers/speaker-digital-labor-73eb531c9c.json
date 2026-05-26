@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ibm",
+      "company_name": "IBM",
+      "title": null
+    }
+  ],
+  "company_id": "company:ibm",
+  "company_ids": [
+    "company:ibm"
+  ],
+  "company_name": "IBM",
+  "company_names": [
+    "IBM"
+  ],
+  "conference_ids": [],
+  "id": "speaker:digital-labor",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Digital Labor",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/300338070/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi-talk-1:1-35-pm-keynote-speech-future-of-work-a-vision-for-ai-powered-digital-labor"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

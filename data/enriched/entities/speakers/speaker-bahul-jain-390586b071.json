@@ -1,0 +1,37 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:bahul-jain",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:2891482"
+  ],
+  "name": "Bahul Jain",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2",
+    "bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-2",
+    "bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-talk-2",
+    "bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/308661435/",
+    "https://www.meetup.com/scala-bay/events/308661456/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-talk-2:securing-sensitive-data-in-logs-like-a-pro",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-talk-2:securing-sensitive-data-in-logs-like-a-pro"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

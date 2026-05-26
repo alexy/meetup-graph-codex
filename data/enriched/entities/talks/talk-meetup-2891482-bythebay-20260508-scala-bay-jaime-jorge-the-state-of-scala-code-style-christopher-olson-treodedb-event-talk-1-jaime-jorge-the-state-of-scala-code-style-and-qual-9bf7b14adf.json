@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2014-12-08T19:00:00-08:00",
+  "end_time": "2014-12-08T22:00:00-08:00",
+  "event_id": "215725532",
+  "event_title": "Jaime Jorge, \"The State of Scala Code Style\", Christopher Olson, \"TreodeDB\"",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-jaime-jorge-the-state-of-scala-code-style-christopher-olson-treodedb-event-talk-1:jaime-jorge-the-state-of-scala-code-style-and-quality",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-jaime-jorge-the-state-of-scala-code-style-christopher-olson-treodedb-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-jaime-jorge-the-state-of-scala-code-style-christopher-olson-treodedb-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/215725532/"
+  ],
+  "speaker_ids": [
+    "speaker:martin-odersky"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:martin-odersky",
+      "name": "Martin Odersky",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Jaime Jorge, The state of Scala code style and quality",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/215725532/"
+}

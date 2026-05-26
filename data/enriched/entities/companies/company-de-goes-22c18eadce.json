@@ -1,0 +1,29 @@
+{
+  "id": "company:de-goes",
+  "name": "De Goes",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1",
+    "bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-2",
+    "bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1",
+    "bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/270897048/",
+    "https://www.meetup.com/bythebay/events/270897090/"
+  ],
+  "speaker_ids": [
+    "speaker:john-a"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1:reimagining-functional-type-classes",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-2:45pm-reimagining-functional-type-classes",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1:reimagining-functional-type-classes",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-2:45pm-reimagining-functional-type-classes",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-joint-with-zio-meetup-the-zio-of-the-future-capital-one-s-scala-journey-girish-kolanthra:the-zio-of-the-future-capital-ones-scala-journey"
+  ],
+  "type": "company"
+}

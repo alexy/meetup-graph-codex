@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/odpi/data-governance"
+  ],
+  "github_repository": "https://github.com/odpi/data-governance",
+  "id": "project:https-github-com-odpi-data-governance",
+  "name": "data-governance",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-open-metadata-data-governance-with-mandy-chessell-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-open-metadata-data-governance-with-mandy-chessell-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/251479579/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-open-metadata-data-governance-with-mandy-chessell-event:open-metadata-data-governance-with-mandy-chessell"
+  ],
+  "type": "project"
+}

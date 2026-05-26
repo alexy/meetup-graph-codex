@@ -1,0 +1,37 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:paul-phillips",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:2891482"
+  ],
+  "name": "Paul Phillips",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-paul-phillips-better-scala-collections-paul-phillips-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-paul-phillips-better-scala-collections-paul-phillips.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-paul-phillips-better-scala-collections-paul-phillips-2",
+    "bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips-2",
+    "bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips",
+    "bythebay-20260508-sf-scala-paul-phillips-better-scala-collections-paul-phillips"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/155024812/",
+    "https://www.meetup.com/scala-bay/events/154014822/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-paul-phillips-psp-collections-views-and-more-paul-phillips:paul-phillips-psp-collections-views-and-more",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-paul-phillips-better-scala-collections-paul-phillips:paul-phillips-better-scala-collections"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

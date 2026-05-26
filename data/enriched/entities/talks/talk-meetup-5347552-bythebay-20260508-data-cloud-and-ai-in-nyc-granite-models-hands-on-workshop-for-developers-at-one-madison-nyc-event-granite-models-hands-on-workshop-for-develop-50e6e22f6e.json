@@ -1,0 +1,31 @@
+{
+  "abstract": "Granite is a family of open, performant, and trusted AI models, tailored for business. We will conduct a hands-on in-person Granite workshop for developers at One Madison, in NYC from noon-5pm Tuesday December 10. At the end of the session you will have a practical understanding of where Granite will be helpful to you. Prerequisites are 1) a device with Python 3.11 and Jupyter Notebook installed, or 2) a device with a browser and GitHub and Google accounts See https://ibm.github.io/granite-workshop/ You must register here to attend https://www.ibm.com/events/reg/flow/ibm/XG223QMB/landing/page/landing",
+  "conference_id": null,
+  "date_time": "2024-12-10T12:00:00-05:00",
+  "end_time": "2024-12-10T17:00:00-05:00",
+  "event_id": "304955749",
+  "event_title": "Granite Models Hands-On Workshop for Developers at One Madison, NYC",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-granite-models-hands-on-workshop-for-developers-at-one-madison-nyc-event:granite-models-hands-on-workshop-for-developers-at-one-madison-nyc",
+  "kind": "workshop",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-granite-models-hands-on-workshop-for-developers-at-one-madison-nyc-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-granite-models-hands-on-workshop-for-developers-at-one-madison-nyc-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/304955749/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Granite Models Hands-On Workshop for Developers at One Madison, NYC",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/304955749/"
+}

@@ -1,0 +1,33 @@
+{
+  "abstract": "The By the Bay meetup family plans a final joint gathering of the year! Note: AI.vision (http://ai.vision), http://self.driving.cars and http://oh.hai.ai Early Birds also end with the year on 12/31. Bill Venners will talk about The Essence of Testing. Clara will do a short talk about what they do! The Essence of Testing After almost ten years of working on ScalaTest, there is still lots of potential for improvement of the library. In this talk, Bill Venners will describe what he has come to believe is the essence of testing, and how he wants to evolve ScalaTest as a result. He'll dive into propositional and predicate logic and show how they relate to testing. He'll explain where he thinks property-based testing fits in the big picture, and give demos of some new and exciting features currently being developed for ScalaTest and Scalactic. Bio: Bill Venners is president of Artima, Inc., provider of Scala books, developer tools, training, and consulting. He leads the open source projects for the ScalaTest testing library and the Scalactic library for functional, object-oriented programming. He is coauthor with Martin Odersky and Lex Spoon of the book, Programming in Scala (http://www.artima.com/shop/programming in scala 3ed). Bill will do book signing of the book (http://www.artima.com/shop/programming in scala 3ed) at the meetup -- bring yours! He might also bring a few copies with him. This is the year we got a phenomenal new 3rd edition",
+  "conference_id": null,
+  "date_time": "2016-12-15T19:00:00-08:00",
+  "end_time": "2016-12-15T22:00:00-08:00",
+  "event_id": "236052360",
+  "event_title": "By the Bay Holiday Meetup and Party with Bill Venners: The Essence of Testing",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-by-the-bay-holiday-meetup-and-party-with-bill-venners-the-essence-of-testing-event:by-the-bay-holiday-meetup-and-party-with-bill-venners-the-essence-of-testing",
+  "kind": "workshop",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:scalactic"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-by-the-bay-holiday-meetup-and-party-with-bill-venners-the-essence-of-testing-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-by-the-bay-holiday-meetup-and-party-with-bill-venners-the-essence-of-testing-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/236052360/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "By the Bay Holiday Meetup and Party with Bill Venners: The Essence of Testing",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/236052360/"
+}

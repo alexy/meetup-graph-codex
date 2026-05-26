@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:scalding",
+  "name": "Scalding",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-playlist-recommendations-macros-in-data-pipelines-spotify-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-playlist-recommendations-macros-in-data-pipelines-spotify-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/224430674/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-playlist-recommendations-macros-in-data-pipelines-spotify-event:playlist-recommendations-macros-in-data-pipelines-spotify"
+  ],
+  "type": "project"
+}

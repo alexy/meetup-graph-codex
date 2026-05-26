@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:alex-oleinikov",
+  "meetup_ids": [
+    "meetup:18601481"
+  ],
+  "name": "Alex Oleinikov",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/239736345/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov:spark-in-adtech"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

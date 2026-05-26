@@ -1,0 +1,47 @@
+{
+  "abstract": "Call for Code ( Tech for Good initiative at IBM ) invites teams of developers and problem solvers to leverage open innovation and develop technology solutions that address social and humanitarian issues in unique, clearly demonstrable ways, in support of ESG and CSR goals You are invited to an exclusive, personalized information and training session with the Call for Code team, hosted at IBM Astor Place from 9:30am-11:30am ET on Thursday, September 1st \\ Please arrive by 9:15am for check-in During this session, learn how you and your team can become stand-out participants in our 2022 Call for Code Global Challenge ( Sustainability theme ) or participate in Call for Code in a number of other ways. You’ll hear from Call for Code business and technology leaders at IBM, representatives from our supporter and sponsor organizations, as well as past Call for Code winners!",
+  "conference_id": null,
+  "date_time": "2022-09-01T09:30:00-04:00",
+  "end_time": "2022-09-01T11:30:00-04:00",
+  "event_id": "288088486",
+  "event_title": "Call for Code Comes to You: New York City",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event-talk-2:call-for-code-comes-to-you-new-york-city",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/288088486/"
+  ],
+  "speaker_ids": [
+    "speaker:challenge-overview",
+    "speaker:wrap-up-learn"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:challenge-overview",
+      "name": "Challenge Overview",
+      "title": null
+    },
+    {
+      "company_name": "Code Global (https",
+      "id": "speaker:wrap-up-learn",
+      "name": "Wrap-up Learn",
+      "title": "more about the 2022 Call"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Call for Code comes to You: New York City",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/288088486/"
+}

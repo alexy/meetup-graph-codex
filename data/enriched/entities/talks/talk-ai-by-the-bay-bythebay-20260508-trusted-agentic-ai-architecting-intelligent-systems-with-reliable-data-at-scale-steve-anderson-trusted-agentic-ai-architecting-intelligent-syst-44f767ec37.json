@@ -1,0 +1,38 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-trusted-agentic-ai-architecting-intelligent-systems-with-reliable-data-at-scale-steve-anderson:trusted-agentic-ai-architecting-intelligent-systems-with-reliable-data-at-scale",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-trusted-agentic-ai-architecting-intelligent-systems-with-reliable-data-at-scale-steve-anderson.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-trusted-agentic-ai-architecting-intelligent-systems-with-reliable-data-at-scale-steve-anderson"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:steve-anderson"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:steve-anderson",
+      "name": "Steve Anderson",
+      "title": "Founder of NarraViz AI"
+    }
+  ],
+  "tags": [
+    "Agentic AI",
+    "AI Infrastructure"
+  ],
+  "title": "Trusted Agentic AI: Architecting Intelligent Systems with Reliable Data at Scale",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/trusted-agentic-ai%3A-architecting-intelligent-systems-with-reliable-data-at-scale"
+}

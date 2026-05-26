@@ -1,0 +1,22 @@
+{
+  "id": "company:normal-computing",
+  "name": "Normal Computing",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-erik-meijer-vp-of-engineering.json",
+    "data/raw/sources/bythebay-20260508-verifiably-safe-agentic-compute-erik-meijer.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-erik-meijer-vp-of-engineering",
+    "bythebay-20260508-verifiably-safe-agentic-compute-erik-meijer"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:erik-meijer"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-verifiably-safe-agentic-compute-erik-meijer:verifiably-safe-agentic-compute"
+  ],
+  "type": "company"
+}

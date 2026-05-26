@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2025-04-22T17:30:00-07:00",
+  "end_time": "2025-04-22T20:00:00-07:00",
+  "event_id": "306928330",
+  "event_title": "Solving Scala's Build Problem with the Mill Build Tool By Li Haoyi",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-by-li-haoyi-mill-talk-6:search-retrieval-training-and-analytics-with-modern-ai-data-lake",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-by-li-haoyi-mill.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-by-li-haoyi-mill-talk-6"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/306928330/"
+  ],
+  "speaker_ids": [
+    "speaker:chang-she"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:chang-she",
+      "name": "Chang She",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Search, Retrieval, Training, and Analytics with Modern AI Data Lake",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/306928330/"
+}

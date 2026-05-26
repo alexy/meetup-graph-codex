@@ -1,0 +1,36 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Advantages of Modeling Knowledge in an Ontology Ingenuity Systems (now a part of QIAGEN) provides software solutions to interpret biological datasets. By aligning customer data to the Ingenuity Knowedgebase (KB"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:the-ingenuity-biomedical-knowledge-base",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "The Ingenuity Biomedical Knowledge-Base",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-ontologies-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-ontologies-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/220718220/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-ontologies-event-talk-2:jeff-lerman-qiagen"
+  ],
+  "title": "Advantages of Modeling Knowledge in an Ontology Ingenuity Systems (now a part of QIAGEN) provides software solutions to interpret biological datasets. By aligning customer data to the Ingenuity Knowedgebase (KB",
+  "titles": [
+    "Advantages of Modeling Knowledge in an Ontology Ingenuity Systems (now a part of QIAGEN) provides software solutions to interpret biological datasets. By aligning customer data to the Ingenuity Knowedgebase (KB"
+  ],
+  "type": "speaker"
+}

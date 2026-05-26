@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:starburst",
+      "company_name": "Starburst",
+      "title": "CTO"
+    }
+  ],
+  "company_id": "company:starburst",
+  "company_ids": [
+    "company:starburst"
+  ],
+  "company_name": "Starburst",
+  "company_names": [
+    "Starburst"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:martin-traverso",
+  "meetup_ids": [],
+  "name": "Martin Traverso",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-martin-traverso-starburst.json",
+    "data/raw/sources/bythebay-20260508-lakeside-ai-bringing-models-to-data-with-open-lakehouses-agents-jitender-aswani-starburst-mainak-ghosh-staff-software-engineer-starburst-martin-traverso-cto.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-martin-traverso-starburst",
+    "bythebay-20260508-lakeside-ai-bringing-models-to-data-with-open-lakehouses-agents-jitender-aswani-starburst-mainak-ghosh-staff-software-engineer-starburst-martin-traverso-cto"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-lakeside-ai-bringing-models-to-data-with-open-lakehouses-agents-jitender-aswani-starburst-mainak-ghosh-staff-software-engi:lakeside-ai-bringing-models-to-data-with-open-lakehouses-agents"
+  ],
+  "title": "CTO",
+  "titles": [
+    "CTO"
+  ],
+  "type": "speaker"
+}

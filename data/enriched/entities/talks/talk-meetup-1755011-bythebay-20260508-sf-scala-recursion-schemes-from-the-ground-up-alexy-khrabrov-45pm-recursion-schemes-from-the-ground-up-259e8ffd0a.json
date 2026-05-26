@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2020-12-08T17:30:00-08:00",
+  "end_time": "2020-12-08T19:00:00-08:00",
+  "event_id": "274581039",
+  "event_title": "Recursion schemes from the ground up",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-recursion-schemes-from-the-ground-up-alexy-khrabrov:45pm-recursion-schemes-from-the-ground-up",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-recursion-schemes-from-the-ground-up-alexy-khrabrov.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-recursion-schemes-from-the-ground-up-alexy-khrabrov"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/274581039/"
+  ],
+  "speaker_ids": [
+    "speaker:nicolas-rinaudo"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:nicolas-rinaudo",
+      "name": "Nicolas Rinaudo",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "45pm Recursion schemes from the ground up",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/274581039/"
+}

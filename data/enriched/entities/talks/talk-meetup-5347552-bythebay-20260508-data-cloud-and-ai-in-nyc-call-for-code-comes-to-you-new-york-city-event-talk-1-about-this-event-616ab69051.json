@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2022-09-01T09:30:00-04:00",
+  "end_time": "2022-09-01T11:30:00-04:00",
+  "event_id": "288088486",
+  "event_title": "Call for Code Comes to You: New York City",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event-talk-1:about-this-event",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/288088486/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "About this event",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/288088486/"
+}

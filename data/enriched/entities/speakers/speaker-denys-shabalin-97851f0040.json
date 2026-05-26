@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:denys-shabalin",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Denys Shabalin",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-native-by-denys-shabalin-denys-shabalin-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-native-by-denys-shabalin-denys-shabalin.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-native-by-denys-shabalin-denys-shabalin-2",
+    "bythebay-20260508-sf-scala-scala-native-by-denys-shabalin-denys-shabalin"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/241665278/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-native-by-denys-shabalin-denys-shabalin:scala-native-by-denys-shabalin"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

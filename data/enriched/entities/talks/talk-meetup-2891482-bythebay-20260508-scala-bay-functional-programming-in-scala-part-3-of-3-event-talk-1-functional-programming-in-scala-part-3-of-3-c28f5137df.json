@@ -1,0 +1,40 @@
+{
+  "abstract": "“Functional Programming in Scala\" is a set of three lectures that - as the title suggests - introduce you to the concepts of Functional Programming, with Scala being the programming language of the examples. During this short course, you will learn how to work with functions as first-class citizens of your code, how to use pattern matching and recursion to obtain complex yet readable code, and finally, what a monad is and what to do with it In total, there are about four and a half hours of material: 1.5 hours of lecture on the basics and another 1.5 hours of joint work between the lecturer and students, where we use the knowledge from the previous lesson to write two more complicated programs, while discussing the details of programming in Scala, and another 1.5 hours of lecture on monads and effects systems. The whole series consists of slides and real-time programming. For coding we will use IntelliJ IDEA with the Scala Plugin",
+  "conference_id": null,
+  "date_time": "2025-02-22T09:00:00-08:00",
+  "end_time": "2025-02-22T11:00:00-08:00",
+  "event_id": "305629578",
+  "event_title": "Functional Programming in Scala - Part 3 of 3",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-functional-programming-in-scala-part-3-of-3-event-talk-1:functional-programming-in-scala-part-3-of-3",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-functional-programming-in-scala-part-3-of-3-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-functional-programming-in-scala-part-3-of-3-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/305629578/"
+  ],
+  "speaker_ids": [
+    "speaker:functional-programming"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:functional-programming",
+      "name": "Functional Programming",
+      "title": "with Scala being the programming language of the examples. During this short course, you will learn how to work"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Functional Programming in Scala - Part 3 of 3",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/305629578/"
+}

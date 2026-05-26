@@ -1,0 +1,38 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:industry-expert",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Industry Expert",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-attend-free-live-webinar-on-apache-spark-scala-by-industry-expert-industry-expert-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-attend-free-live-webinar-on-hadoop-introduction-via-hive-by-industry-expert-industry-expert.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-attend-online-live-webinar-on-hadoop-inroduction-via-hive-by-industry-expert-industry-expert.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-attend-free-live-webinar-on-apache-spark-scala-by-industry-expert-industry-expert.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-attend-free-live-webinar-on-apache-spark-scala-by-industry-expert-industry-expert-2",
+    "bythebay-20260508-scala-bay-attend-free-live-webinar-on-hadoop-introduction-via-hive-by-industry-expert-industry-expert",
+    "bythebay-20260508-scala-bay-attend-online-live-webinar-on-hadoop-inroduction-via-hive-by-industry-expert-industry-expert",
+    "bythebay-20260508-scala-bay-attend-free-live-webinar-on-apache-spark-scala-by-industry-expert-industry-expert"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/234618954/",
+    "https://www.meetup.com/scala-bay/events/234416091/",
+    "https://www.meetup.com/scala-bay/events/234473305/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-attend-free-live-webinar-on-hadoop-introduction-via-hive-by-industry-expert-industry-expert:attend-free-live-webinar-on-hadoop-introduction-via-hive-by-industry-expert",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-attend-online-live-webinar-on-hadoop-inroduction-via-hive-by-industry-expert-industry-expert:attend-online-live-webinar-on-hadoop-inroduction-via-hive-by-industry-expert",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-attend-free-live-webinar-on-apache-spark-scala-by-industry-expert-industry-expert:attend-free-live-webinar-on-apache-spark-scala-by-industry-expert"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

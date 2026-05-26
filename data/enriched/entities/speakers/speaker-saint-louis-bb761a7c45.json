@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:saint-louis",
+  "meetup_ids": [
+    "meetup:18601481"
+  ],
+  "name": "Saint Louis",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-leveraging-spark-in-a-hybrid-oltp-olap-rdbms-saint-louis-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-leveraging-spark-in-a-hybrid-oltp-olap-rdbms-saint-louis.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-leveraging-spark-in-a-hybrid-oltp-olap-rdbms-saint-louis-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-leveraging-spark-in-a-hybrid-oltp-olap-rdbms-saint-louis"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/227426081/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-leveraging-spark-in-a-hybrid-oltp-olap-rdbms-saint-louis:leveraging-spark-in-a-hybrid-oltp-olap-rdbms"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

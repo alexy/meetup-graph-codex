@@ -1,0 +1,20 @@
+{
+  "id": "company:coatue-management",
+  "name": "Coatue Management",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-full-stack-scala-web-application-pathikrit-bhowmick-coatue-management.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-full-stack-scala-web-application-pathikrit-bhowmick-coatue-management"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:pathikrit-bhowmick"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-full-stack-scala-web-application-pathikrit-bhowmick-coatue-management:full-stack-scala-web-application"
+  ],
+  "type": "company"
+}

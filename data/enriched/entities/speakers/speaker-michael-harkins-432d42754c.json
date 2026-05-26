@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:michael-harkins",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Michael Harkins",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-data-management-for-hadoop-and-spark-on-premise-or-in-the-cloud-michael-harkins-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-data-management-for-hadoop-and-spark-on-premise-or-in-the-cloud-michael-harkins.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-data-management-for-hadoop-and-spark-on-premise-or-in-the-cloud-michael-harkins-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-data-management-for-hadoop-and-spark-on-premise-or-in-the-cloud-michael-harkins"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/226995075/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-data-management-for-hadoop-and-spark-on-premise-or-in-the-cloud-michael-harkins:continuous-data-management-for-hadoop-and-spark-on-premise-or-in-the-cloud"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

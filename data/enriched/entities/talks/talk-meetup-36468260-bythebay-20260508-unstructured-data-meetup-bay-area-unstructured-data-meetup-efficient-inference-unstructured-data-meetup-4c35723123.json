@@ -1,0 +1,52 @@
+{
+  "abstract": "This is an in-person event! Registration is required to get in. THIS EVENT IS FIRST-COME FIRST-SERVE IN-PERSON. THE OFFICE'S CAPACITY WILL STOP AT 100 AND ANYONE ELSE WILL BE DIRECTED TO THE LIVESTREAM. Topic: Connecting your unstructured data with Generative LLMs What we’ll do: Have some food and refreshments. Hear three exciting talks about unstructured data and generative AI. 5:30 - 6:00 - Welcome/Networking/Registration 6:00 - 6:20 - Akriti Kewani, Bridging Data Pipelines and AI: Powering Insights with Airbyte and Milvus 6:20 - 6:40 - Preetam Joshi and Puneet A, Building an Accuracy Flywheel for your LLM RAG Apps 6.40 - 7:00 - Rachel Bakke, Efficient Inference and Information Retrieval for Agents: SambaNova + Milvus 7:00 - 7:15 - Stefan Webb, A Table is Worth 1000 Words 7:15 - 8:30 - Office hours and networking Who Should attend: Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. Tech Talk 1: Bridging Data Pipelines and AI: Powering Insights with Airbyte and Milvus Speaker : Akriti Keswani, Developer Advocate, Airbyte Abstract : In this session, we’ll explore how Airbyte’s ETL tooling enables seamless data movement from diverse sources, including unstructured data, into Milvus, a cutting-edge vector database by Zilliz. Discover how connecting tools like the Airbyte Asana connector to Milvus empowers businesses to enhance retrieval-augmented generation (RAG) workflows and fuel AI applications. We’ll dive into real-world use cases and demonstrate how to streamline data transformation and orchestration to create scalable, intelligent systems for unlocking actionable insights Tech Talk 2: Building an Accuracy Flywheel for your LLM RAG Apps Speakers : Preetam Joshi and Puneet A, AIMon Labs Abstract : Hallucinations are one of the biggest problems for developers trying to build consistently high accuracy LLM-RAG Apps. This talk dives into the details of why LLMs hallucinate and how to build incrementally improving RAG systems to achieve consistent overall accuracy. Tech Talk 3: Efficient Inference and Information Retrieval for Agents: SambaNova + Milvus Speaker : Rachel Bakke, Product Manager, SambaNova Systems Abstract : Agents are the next step in AI. These powerful reasoning and decision engines require a multitude of high quality tools to realize their potential, including fast inference and efficient databases. SambaNova and Zilliz are well aligned in this ecosystem and have recently made integrations to get started building simple RAG apps together. Tech Talk 4: A Table is Worth 1000 Words Speaker : Stefan Webb, DevRel, Zilliz Abstract : Tables form the backbone of modern data storage, powering everything from relational databases to enterprise systems. Yet despite their ubiquity, we've barely scratched the surface of their potential. While Deep Learning has revolutionized our ability to process text and images, its impact on tabular data has been surprisingly limited. This gap is now being bridged through groundbreaking research in multimodal modeling, particularly with innovations like the TableGPT2 model. In this talk, we'll explore how these new multimodal foundation models are trained to understand tabular data, and demonstrate practical ways to unlock hidden value in your organization's data assets. When: Dec 3, 2024 5:30PM Where: This is an in-person event! Registration is required to get in. Registration will close 2 days before the event. Sponsored by Zilliz (maintainers of Milvus)",
+  "conference_id": null,
+  "date_time": "2024-12-03T17:30:00-08:00",
+  "end_time": "2024-12-03T20:30:00-08:00",
+  "event_id": "304656743",
+  "event_title": "Unstructured Data Meetup",
+  "github_repositories": [
+    "https://github.com/milvus-io/milvus"
+  ],
+  "id": "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-efficient-inference:unstructured-data-meetup",
+  "kind": "talk",
+  "meetup_id": "meetup:36468260",
+  "project_ids": [
+    "project:https-github-com-milvus-io-milvus",
+    "project:tablegpt2"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-efficient-inference.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-meetup-efficient-inference"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/304656743/"
+  ],
+  "speaker_ids": [
+    "speaker:efficient-inference",
+    "speaker:information-retrieval"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:efficient-inference",
+      "name": "Efficient Inference",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:information-retrieval",
+      "name": "Information Retrieval",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Unstructured Data Meetup",
+  "type": "talk",
+  "url": "https://www.meetup.com/unstructured-data-sf/events/304656743/"
+}

@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:airbnb",
+      "company_name": "Airbnb",
+      "title": null
+    }
+  ],
+  "company_id": "company:airbnb",
+  "company_ids": [
+    "company:airbnb"
+  ],
+  "company_name": "Airbnb",
+  "company_names": [
+    "Airbnb"
+  ],
+  "conference_ids": [],
+  "id": "speaker:varant-zanoyan",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Varant Zanoyan",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-the-feature-stores-the-missing-api-between-data-engineering-and-data-science-jim-dowling-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-the-feature-stores-the-missing-api-between-data-engineering-and-data-science-jim-dowling.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-the-feature-stores-the-missing-api-between-data-engineering-and-data-science-jim-dowling-2",
+    "bythebay-20260508-bay-area-ai-the-feature-stores-the-missing-api-between-data-engineering-and-data-science-jim-dowling"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/258164070/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-the-feature-stores-the-missing-api-between-data-engineering-and-data-science-jim-dowling:the-feature-stores-the-missing-api-between-data-engineering-and-data-science"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

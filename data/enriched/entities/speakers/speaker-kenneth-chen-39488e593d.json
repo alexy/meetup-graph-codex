@@ -1,0 +1,47 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:salesforce",
+      "company_name": "Salesforce",
+      "title": null
+    }
+  ],
+  "company_id": "company:salesforce",
+  "company_ids": [
+    "company:salesforce"
+  ],
+  "company_name": "Salesforce",
+  "company_names": [
+    "Salesforce"
+  ],
+  "conference_ids": [],
+  "id": "speaker:kenneth-chen",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:18601481"
+  ],
+  "name": "Kenneth Chen",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization-ibm-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization-ibm.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-eventbrite-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization",
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization-ibm-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization-ibm",
+    "bythebay-20260508-san-francisco-hadoop-users-eventbrite-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/240397065/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/240303624/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization-ibm:spark-watson-and-einstein-spark-tc-salesforce-and-rstudio",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-eventbrite-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimizatio:spark-watson-and-einstein-spark-tc-salesforce-and-rstudio"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

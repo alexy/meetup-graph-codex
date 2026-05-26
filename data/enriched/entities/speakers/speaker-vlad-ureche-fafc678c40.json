@@ -1,0 +1,26 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:vlad-ureche",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Vlad Ureche",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-what-do-autoboxing-value-classes-and-specialization-have-in-common-vlad-ureche-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-what-do-autoboxing-value-classes-and-specialization-have-in-common-vlad-ureche-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/195410302/"
+  ],
+  "talk_ids": [],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

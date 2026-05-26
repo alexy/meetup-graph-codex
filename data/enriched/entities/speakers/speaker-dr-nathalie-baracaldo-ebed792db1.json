@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Research Staff Member, IBM · Duration: 30 minutes including Q&A WiDS"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:dr-nathalie-baracaldo",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Dr Nathalie Baracaldo",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo-talk-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo-3-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293933697/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293933526/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo-tal:security-of-foundation-models",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-language-models-and-foundation-models-dr-nathalie-baracaldo-3-t:security-of-foundation-models"
+  ],
+  "title": "Research Staff Member, IBM · Duration: 30 minutes including Q&A WiDS",
+  "titles": [
+    "Research Staff Member, IBM · Duration: 30 minutes including Q&A WiDS"
+  ],
+  "type": "speaker"
+}

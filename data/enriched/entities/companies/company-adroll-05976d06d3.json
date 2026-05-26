@@ -1,0 +1,18 @@
+{
+  "id": "company:adroll",
+  "name": "AdRoll",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-june-sf-hadoop-users-meetup-wesley-chow-adroll-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-june-sf-hadoop-users-meetup-wesley-chow-adroll-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/187173842/"
+  ],
+  "speaker_ids": [
+    "speaker:wesley-chow"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

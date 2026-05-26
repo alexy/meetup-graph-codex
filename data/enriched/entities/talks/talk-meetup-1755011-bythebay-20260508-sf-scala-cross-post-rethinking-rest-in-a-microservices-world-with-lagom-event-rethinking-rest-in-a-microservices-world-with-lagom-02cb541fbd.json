@@ -1,0 +1,31 @@
+{
+  "abstract": "Reactive Systems meetup will host James Roper's Famous Microservices World Tour, San Francisco Station: Lagom! Please RSVP at Reactive Systems: http://www.meetup.com/Reactive-Systems/events/229841984/",
+  "conference_id": null,
+  "date_time": "2016-04-21T19:00:00-07:00",
+  "end_time": "2016-04-21T22:00:00-07:00",
+  "event_id": "230140155",
+  "event_title": "[cross-post] Rethinking REST in a Microservices World with Lagom",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-cross-post-rethinking-rest-in-a-microservices-world-with-lagom-event:rethinking-rest-in-a-microservices-world-with-lagom",
+  "kind": "announcement",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-cross-post-rethinking-rest-in-a-microservices-world-with-lagom-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-cross-post-rethinking-rest-in-a-microservices-world-with-lagom-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/230140155/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "Rethinking REST in a Microservices World with Lagom",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/230140155/"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "company:motherduck",
+  "name": "MotherDuck",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-ryan-boyd-motherduck.json",
+    "data/raw/sources/bythebay-20260508-till-dohmen-motherduck.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-ryan-boyd-motherduck",
+    "bythebay-20260508-till-dohmen-motherduck"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:ryan-boyd",
+    "speaker:till-dohmen"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-llms-meet-data-warehouses-building-reliable-ai-agents-for-business-analytics-ryan-boyd:llms-meet-data-warehouses-building-reliable-ai-agents-for-business-analytics"
+  ],
+  "type": "company"
+}

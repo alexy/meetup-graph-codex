@@ -1,0 +1,31 @@
+{
+  "abstract": "Elyra is a set of AI-centric extensions to JupyterLab Notebooks. Elyra provides a Pipeline Visual Editor for building AI pipelines from notebooks, Python scripts and R scripts, simplifying the conversion of multiple notebooks or scripts files into batch jobs or workflows. Learn more",
+  "conference_id": null,
+  "date_time": "2022-06-02T12:00:00-04:00",
+  "end_time": "2022-06-02T13:00:00-04:00",
+  "event_id": "285938364",
+  "event_title": "IBM Data Science Community: Learn about Elyra Visual NLP Editor",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-3:about-elyra",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/285938364/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "About Elyra",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/285938364/"
+}

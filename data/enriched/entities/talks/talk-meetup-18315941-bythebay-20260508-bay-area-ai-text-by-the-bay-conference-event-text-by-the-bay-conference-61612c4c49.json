@@ -1,0 +1,31 @@
+{
+  "abstract": "[you need to register for this conference at http://text.bythebay.io . Use the code SFTEXT1 for $250 off] A new NLP conference bringing together researchers and practitioners, using computational linguistics and text mining to build new companies through understanding and meaning. Brought to you by the organizers of the SF Text, SF Scala, Scala By the Bay 2014, the Silicon Valley Scala Symposium 2013, Scala By the Bay 2015, and Big Data Scala 2015. http://text.bythebay.io",
+  "conference_id": null,
+  "date_time": "2015-04-24T07:30:00-07:00",
+  "end_time": "2015-04-25T18:30:00-07:00",
+  "event_id": "222047463",
+  "event_title": "Text By the Bay Conference",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-text-by-the-bay-conference-event:text-by-the-bay-conference",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-text-by-the-bay-conference-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-text-by-the-bay-conference-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/222047463/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Text By the Bay Conference",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/222047463/"
+}

@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/miniboxing/staging-plugin"
+  ],
+  "github_repository": "https://github.com/miniboxing/staging-plugin",
+  "id": "project:https-github-com-miniboxing-staging-plugin",
+  "name": "staging-plugin",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-what-do-autoboxing-value-classes-and-specialization-have-in-common-vlad-ureche.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-what-do-autoboxing-value-classes-and-specialization-have-in-common-vlad-ureche"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/195410302/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-what-do-autoboxing-value-classes-and-specialization-have-in-common-vlad-ureche:what-do-autoboxing-value-classes-and-specialization-have-in-common"
+  ],
+  "type": "project"
+}

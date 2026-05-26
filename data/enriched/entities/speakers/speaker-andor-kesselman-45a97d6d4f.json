@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:andor-kesselman",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Andor Kesselman",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-can-agents-be-trusted-andor-kesselman.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-how-can-agents-be-trusted-andor-kesselman.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-can-agents-be-trusted-andor-kesselman",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-how-can-agents-be-trusted-andor-kesselman"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/310379070/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-how-can-agents-be-trusted-andor-kesselman:how-can-agents-be-trusted"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

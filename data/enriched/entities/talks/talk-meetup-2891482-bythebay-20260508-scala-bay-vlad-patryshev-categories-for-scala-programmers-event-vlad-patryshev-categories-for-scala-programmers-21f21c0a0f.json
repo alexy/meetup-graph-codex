@@ -1,0 +1,31 @@
+{
+  "abstract": "Title Vlad Patryshev, Categories for Scala Programmers Abstract People are afraid of CT as if it were Donald Trump. I'll try to explain the notions of category, functor, product, coproduct, pullback, and, probably, Monad, focusing on Scala and SQL examples. Math is easier to grasp if applied to real life. Bio Vlad Patryshev is an Engineer at H2O, and a professor at Santa Clara University, and an organizer of meetups. Categorist since about 19 yo, a toposopher, but mostly a programmer actually. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking Note The session will be streamed on Facebook: https://www.facebook.com/GlobalLogic/",
+  "conference_id": null,
+  "date_time": "2016-11-14T18:30:00-08:00",
+  "end_time": "2016-11-14T21:30:00-08:00",
+  "event_id": "229524950",
+  "event_title": "Vlad Patryshev, Categories for Scala Programmers",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-vlad-patryshev-categories-for-scala-programmers-event:vlad-patryshev-categories-for-scala-programmers",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-vlad-patryshev-categories-for-scala-programmers-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-vlad-patryshev-categories-for-scala-programmers-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/229524950/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Vlad Patryshev, Categories for Scala Programmers",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/229524950/"
+}

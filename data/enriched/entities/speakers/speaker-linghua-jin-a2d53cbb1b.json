@@ -1,0 +1,48 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:cocoindex",
+      "company_name": "CocoIndex",
+      "title": "Co-founder"
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Co-founder of CocoIndex"
+    }
+  ],
+  "company_id": "company:cocoindex",
+  "company_ids": [
+    "company:cocoindex"
+  ],
+  "company_name": "CocoIndex",
+  "company_names": [
+    "CocoIndex"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:linghua-jin",
+  "meetup_ids": [],
+  "name": "Linghua Jin",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-linghua-jin-cocoindex.json",
+    "data/raw/sources/bythebay-20260508-context-engineering-in-ever-changing-environment-made-simple-linghua-jin.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-linghua-jin-cocoindex",
+    "bythebay-20260508-context-engineering-in-ever-changing-environment-made-simple-linghua-jin"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-context-engineering-in-ever-changing-environment-made-simple-linghua-jin:context-engineering-in-ever-changing-environment-made-simple"
+  ],
+  "title": "Co-founder",
+  "titles": [
+    "Co-founder",
+    "Co-founder of CocoIndex"
+  ],
+  "type": "speaker"
+}

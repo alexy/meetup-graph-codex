@@ -1,0 +1,40 @@
+{
+  "abstract": "Thanks to Splice for hosting the SFHUG again!",
+  "conference_id": null,
+  "date_time": "2016-03-01T18:00:00-08:00",
+  "end_time": "2016-03-01T20:00:00-08:00",
+  "event_id": "228090357",
+  "event_title": "March 2016 Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-march-2016-meetup-john-leach:march-2016-meetup",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-march-2016-meetup-john-leach.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-march-2016-meetup-john-leach"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/228090357/"
+  ],
+  "speaker_ids": [
+    "speaker:john-leach"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:john-leach",
+      "name": "John Leach",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "March 2016 Meetup",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/228090357/"
+}

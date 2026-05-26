@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:piero-molino",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Piero Molino",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-word-embeddings-past-present-and-future-piero-molino-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-word-embeddings-past-present-and-future-piero-molino.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-word-embeddings-past-present-and-future-piero-molino-2",
+    "bythebay-20260508-bay-area-ai-word-embeddings-past-present-and-future-piero-molino"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/240298411/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-word-embeddings-past-present-and-future-piero-molino:word-embeddings-past-present-and-future"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

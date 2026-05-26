@@ -1,0 +1,38 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-scaling-multimodal-data-and-reinforcement-learning-with-ray-jaikumar-ganesh-anyscale:scaling-multimodal-data-and-reinforcement-learning-with-ray",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scaling-multimodal-data-and-reinforcement-learning-with-ray-jaikumar-ganesh-anyscale.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scaling-multimodal-data-and-reinforcement-learning-with-ray-jaikumar-ganesh-anyscale"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:jaikumar-ganesh"
+  ],
+  "speakers": [
+    {
+      "company_name": "Anyscale",
+      "id": "speaker:jaikumar-ganesh",
+      "name": "Jaikumar Ganesh",
+      "title": "Head of Engineering"
+    }
+  ],
+  "tags": [
+    "AI Infrastructure",
+    "OSS AI"
+  ],
+  "title": "Scaling Multimodal Data and Reinforcement Learning with Ray",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/scaling-multimodal-data-and-reinforcement-learning-with-ray"
+}

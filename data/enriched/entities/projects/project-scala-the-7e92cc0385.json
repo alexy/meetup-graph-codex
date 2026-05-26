@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:scala-the",
+  "name": "Scala. The",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-simon-chan-predictionio-a-machine-learning-server-for-scala-developers-simon-chan.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-prediction-io-ml-server-for-scala-serendipity-search-at-stumbleupon-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-simon-chan-predictionio-a-machine-learning-server-for-scala-developers-simon-chan",
+    "bythebay-20260508-sf-scala-prediction-io-ml-server-for-scala-serendipity-search-at-stumbleupon-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/219624829/",
+    "https://www.meetup.com/sf-scala/events/219673406/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-simon-chan-predictionio-a-machine-learning-server-for-scala-developers-simon-chan:simon-chan-predictionio-a-machine-learning-server-for-scala-developers",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-prediction-io-ml-server-for-scala-serendipity-search-at-stumbleupon-event:prediction-io-ml-server-for-scala-serendipity-search-at-stumbleupon"
+  ],
+  "type": "project"
+}

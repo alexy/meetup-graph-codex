@@ -1,0 +1,31 @@
+{
+  "abstract": "UPDATE: we need a video sponsor for this event. Sponsor splash screen precedes the video on http://functional.tv . Suffuse is a scala library facilitating creation and manipulation of virtual filesystems. The applications are endless: a physical filesystem can be treated as a collection of files and presented in any other form, for instance filtering files, transforming filenames, or altering file contents. Or a virtual filesystem can be created from physical files or from pure data, allowing infinitely large filesystems, infinitely varied files which may be synthesized on demand, two-way lenses which transform all reads and writes to a file, and much more. Paul Phillips is co-founder of Typesafe and the all-time most prolific Scala committer. No longer affiliated with either, he now volunteers as Scala's conscience",
+  "conference_id": null,
+  "date_time": "2015-08-12T18:30:00-07:00",
+  "end_time": "2015-08-12T21:30:00-07:00",
+  "event_id": "224292658",
+  "event_title": "Suffuse: Usable Virtual Filesystems with Paul Phillips",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-suffuse-usable-virtual-filesystems-with-paul-phillips-event:suffuse-usable-virtual-filesystems-with-paul-phillips",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-suffuse-usable-virtual-filesystems-with-paul-phillips-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-suffuse-usable-virtual-filesystems-with-paul-phillips-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/224292658/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Suffuse: Usable Virtual Filesystems with Paul Phillips",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/224292658/"
+}

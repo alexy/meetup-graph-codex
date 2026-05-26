@@ -1,0 +1,35 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:open-source",
+  "name": "Open-Source",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-data-for-society-product-managing-ai-and-ai-for-code-event.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-data-for-society-product-managing-ai-and-ai-for-code-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience-saurabh-nachane.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience-saurabh-nachane-3.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-accelerating-science-with-open-source-sponsored-by-ossci-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-data-for-society-product-managing-ai-and-ai-for-code-event",
+    "bythebay-20260508-san-francisco-hadoop-users-data-for-society-product-managing-ai-and-ai-for-code-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience-saurabh-nachane",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience-saurabh-nachane-3",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-accelerating-science-with-open-source-sponsored-by-ossci-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/240597202/",
+    "https://www.meetup.com/hadoopsf/events/240660462/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290204262/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290204402/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/294108397/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-data-for-society-product-managing-ai-and-ai-for-code-event:data-for-society-product-managing-ai-and-ai-for-code",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-data-for-society-product-managing-ai-and-ai-for-code-event:data-for-society-product-managing-ai-and-ai-for-code",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience-saurabh-nachane:embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience-saurabh-nachane-3:embeddable-ai-democratizes-ai-adoption-to-enhance-end-user-experience",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-accelerating-science-with-open-source-sponsored-by-ossci-event:accelerating-science-with-open-source-sponsored-by-ossci"
+  ],
+  "type": "project"
+}

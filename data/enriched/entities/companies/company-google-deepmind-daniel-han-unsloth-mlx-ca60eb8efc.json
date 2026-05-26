@@ -1,0 +1,21 @@
+{
+  "id": "company:google-deepmind-daniel-han-unsloth-mlx",
+  "name": "Google DeepMind Daniel Han, Unsloth MLX",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/314321640/"
+  ],
+  "speaker_ids": [
+    "speaker:olivier-lacombe"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent-talk-2:detailed-agenda",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent-talk-3:gemma-4-sf-edition"
+  ],
+  "type": "company"
+}

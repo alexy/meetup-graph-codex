@@ -1,0 +1,22 @@
+{
+  "id": "company:auth0-for-okta",
+  "name": "Auth0 for Okta",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-fred-patton-auth0-for-okta.json",
+    "data/raw/sources/bythebay-20260508-the-challenges-of-ambient-agents-toward-governable-ai-systems-at-scale-fred-patton-auth0-for-okta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-fred-patton-auth0-for-okta",
+    "bythebay-20260508-the-challenges-of-ambient-agents-toward-governable-ai-systems-at-scale-fred-patton-auth0-for-okta"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:fred-patton"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-the-challenges-of-ambient-agents-toward-governable-ai-systems-at-scale-fred-patton-auth0-for-okta:the-challenges-of-ambient-agents-toward-governable-ai-systems-at-scale"
+  ],
+  "type": "company"
+}

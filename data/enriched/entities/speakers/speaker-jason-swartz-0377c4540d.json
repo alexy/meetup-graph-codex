@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:jason-swartz",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Jason Swartz",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices-2",
+    "bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz",
+    "bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/255950651/",
+    "https://www.meetup.com/sf-scala/events/187365722/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz:functional-apis-in-scala",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices:building-cloud-services-w-akka-and-scala"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:dale-lane-dale",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Dale Lane Dale",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-enhancing-school-curriculums-to-prepare-our-children-for-an-ai-first-future-dale-lane-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-enhancing-school-curriculums-to-prepare-our-children-for-an-ai-first-future-dale-lane.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-enhancing-school-curriculums-to-prepare-our-children-for-an-ai-first-future-dale-lane-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-enhancing-school-curriculums-to-prepare-our-children-for-an-ai-first-future-dale-lane-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-enhancing-school-curriculums-to-prepare-our-children-for-an-ai-first-future-dale-lane",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-enhancing-school-curriculums-to-prepare-our-children-for-an-ai-first-future-dale-lane-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/295496285/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/295496131/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-enhancing-school-curriculums-to-prepare-our-children-for-an-ai-first-future-dale-lane:enhancing-school-curriculums-to-prepare-our-children-for-an-ai-first-future",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-enhancing-school-curriculums-to-prepare-our-children-for-an-ai-first-future-dale-lane-3:enhancing-school-curriculums-to-prepare-our-children-for-an-ai-first-future"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

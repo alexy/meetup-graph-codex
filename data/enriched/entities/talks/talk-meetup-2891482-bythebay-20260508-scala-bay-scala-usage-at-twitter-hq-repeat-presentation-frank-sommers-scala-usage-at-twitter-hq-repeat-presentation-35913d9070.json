@@ -1,0 +1,56 @@
+{
+  "abstract": "Due to popular demand, Marius will give his April 9 presentation again later in April, at Twitter HQ on a date yet to be determined. Please do not register for both events. Registered attendees will be notified of the date for this event by email once it is chosen. Marius Eriksen will talk about the construction of Twitter's modern, highly concurrent Scala services. He will discuss the various libraries that make up the Twitter stack, and how these primitives help use create correct, composable and modular systems. He will discuss various challenges Twitter ran in to, especially regarding efficiency. Mark McBride will speak on Twitter's build system. Marius works on systems infrastructure at Twitter. He has worked on RPC and streaming systems, profiling tools, storage & indexing systems and the front-end serving stack. He loves applying functional programming techniques to these domains. Marius is the author of Effective Scala. Mark McBride is an engineering manager at Twitter. As usual, the schedule for the event is: 6:30 - networking, food 7:00 - announcements 7:15 - presentations 8:30 - Q&A, more networking afterward We will give away 2 copies of IntelliJ IDEA for personal use, and two copies of JRebel. Two free PDF copies of \"Actors in Scala (http://www.artima.com/shop/actors in scala)\" by Philipp Haller and Frank Sommers, published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile. This event may be recorded. If that comes together, we will post a link to the recording on this page when it is ready",
+  "conference_id": null,
+  "date_time": "2012-04-25T18:30:00-07:00",
+  "end_time": "2012-04-25T21:30:00-07:00",
+  "event_id": "59580782",
+  "event_title": "Scala Usage at Twitter HQ (Repeat presentation)",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-usage-at-twitter-hq-repeat-presentation-frank-sommers:scala-usage-at-twitter-hq-repeat-presentation",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [
+    "project:twitter"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-usage-at-twitter-hq-repeat-presentation-frank-sommers.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-scala-usage-at-twitter-hq-repeat-presentation-frank-sommers"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/59580782/"
+  ],
+  "speaker_ids": [
+    "speaker:frank-sommers",
+    "speaker:mark-mcbride",
+    "speaker:philipp-haller"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:frank-sommers",
+      "name": "Frank Sommers",
+      "title": null
+    },
+    {
+      "company_name": "Twitter",
+      "id": "speaker:mark-mcbride",
+      "name": "Mark McBride",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:philipp-haller",
+      "name": "Philipp Haller",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scala Usage at Twitter HQ (Repeat presentation)",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/59580782/"
+}

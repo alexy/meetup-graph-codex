@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2013-04-10T18:00:00-07:00",
+  "end_time": "2013-04-10T21:00:00-07:00",
+  "event_id": "111716932",
+  "event_title": "April 2013 San Francisco Hadoop Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-april-2013-san-francisco-hadoop-meetup-martin-colaco-kontagent-talk-1:the-april-2013-hadoop-meetup-will-be-held-wednesday-april-10-from-6-00pm-to-8-00pm-this-me",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-april-2013-san-francisco-hadoop-meetup-martin-colaco-kontagent.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-april-2013-san-francisco-hadoop-meetup-martin-colaco-kontagent-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/111716932/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The April 2013 Hadoop meetup will be held Wednesday, April 10, from 6:00pm to 8:00pm. This meetup will be hosted",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/111716932/"
+}

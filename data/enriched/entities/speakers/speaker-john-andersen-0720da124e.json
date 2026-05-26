@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:john-andersen",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "John Andersen",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-the-ai-meetup-is-back-in-person-large-language-models-and-personalized-ai-john-andersen-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-the-ai-meetup-is-back-in-person-large-language-models-and-personalized-ai-john-andersen.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-the-ai-meetup-is-back-in-person-large-language-models-and-personalized-ai-john-andersen-2",
+    "bythebay-20260508-bay-area-ai-the-ai-meetup-is-back-in-person-large-language-models-and-personalized-ai-john-andersen"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/288827696/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-the-ai-meetup-is-back-in-person-large-language-models-and-personalized-ai-john-andersen:the-ai-meetup-is-back-in-person-large-language-models-and-personalized-ai"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

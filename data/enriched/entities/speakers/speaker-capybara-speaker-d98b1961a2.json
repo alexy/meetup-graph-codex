@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:everywhere",
+      "company_name": "Everywhere",
+      "title": "Director of Everything"
+    }
+  ],
+  "company_id": "company:everywhere",
+  "company_ids": [
+    "company:everywhere"
+  ],
+  "company_name": "Everywhere",
+  "company_names": [
+    "Everywhere"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:capybara-speaker",
+  "meetup_ids": [],
+  "name": "Capybara Speaker",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-capybara-speaker-everywhere.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-capybara-speaker-everywhere"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [],
+  "title": "Director of Everything",
+  "titles": [
+    "Director of Everything"
+  ],
+  "type": "speaker"
+}

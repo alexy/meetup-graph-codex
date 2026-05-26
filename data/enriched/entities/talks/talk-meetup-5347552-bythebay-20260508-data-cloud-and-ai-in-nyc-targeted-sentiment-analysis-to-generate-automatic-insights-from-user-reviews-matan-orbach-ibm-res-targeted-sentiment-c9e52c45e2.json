@@ -1,0 +1,50 @@
+{
+  "abstract": "Topic repeated at 2 different times, please join the session that is best suited for your time zone. Targeted Sentiment Analysis (TSA) is a contemporary AI method for generating valuable insights from user reviews. Such insights may aid consumers in their decision-making, or help companies when they strive to understand customer satisfaction and guide marketing campaigns. In this session, we will dive into recent advancements in TSA, including the first open-domain TSA benchmark, and a multi-domain TSA system that can process user reviews from diverse product and service domains. We will also cover a demo of a real-world TSA system, developed within IBM, which allows any user to use TSA through IBM's Watson Studio. The demo will show how hundreds of reviews can be quickly analyzed with TSA, and how the pros and cons of a particular business may be easily extracted. Presenter: Matan Orbach Matan Orbach is a Research Staff Member at IBM Research AI. Since joining IBM in 2014, he has worked on a diverse set of NLP tasks, including, among others, multilingual stance detection and targeted sentiment analysis. Before that, Matan led a team within Project Debater, an IBM Grand Challenge, which focused on rebuttal generation through the use of principled arguments. Prior to joining IBM, Matan received his M.Sc. from the faculty of Electrical Engineering at the Technion, where his research focused on graph-based semi-supervised learning. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/raabf77c37ff3e5502efbd3c2f7d1d355",
+  "conference_id": null,
+  "date_time": "2023-05-10T08:00:00-04:00",
+  "end_time": "2023-05-10T09:00:00-04:00",
+  "event_id": "291850004",
+  "event_title": "Targeted Sentiment Analysis to generate Automatic Insights from User Reviews",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-res:targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-targeted-sentiment-analysis-to-generate-automatic-insights-from-user-reviews-matan-orbach-ibm-research-ai-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291850004/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291850152/"
+  ],
+  "speaker_ids": [
+    "speaker:matan-orbach",
+    "speaker:matan-orbach-matan-orbach"
+  ],
+  "speakers": [
+    {
+      "company_name": "IBM Research AI",
+      "id": "speaker:matan-orbach",
+      "name": "Matan Orbach",
+      "title": "IBM Research AI"
+    },
+    {
+      "company_name": null,
+      "id": "speaker:matan-orbach-matan-orbach",
+      "name": "Matan Orbach Matan Orbach",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Targeted Sentiment Analysis to generate Automatic Insights from User Reviews",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/291850004/"
+}

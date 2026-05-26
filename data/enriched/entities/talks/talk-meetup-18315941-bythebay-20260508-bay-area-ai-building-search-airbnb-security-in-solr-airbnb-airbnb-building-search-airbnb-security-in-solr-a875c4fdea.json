@@ -1,0 +1,86 @@
+{
+  "abstract": "This is a partner event by Airbnb Nerds (http://nerds.airbnb.com) and the Downtown SF Lucene/Solr Meetup (http://www.meetup.com/Downtown-SF-Apache-Lucene-Solr-Meetup) group. Please register at Airbnb's event page (https://www.airbnb.com/meetups/852mxnezc-building-search-airbnb-security-in-solr) -- RSVP/per person is required to attend (no walk-ins) ----------------------------------------------------------------------------------------- Building Search At Airbnb using Lucene, Presented by Mousom Dhar, Airbnb Airbnb has experienced exponential growth in recent years. Not only has our data and number of users been growing exponentially but so has the complexity of our search algorithms as we've wanted to do more to better match our Hosts with our Guests. Our team has learned to mix the best features of Lucene while augmenting them with in-house, custom-built technologies to build a scalable, efficient but simple Search infrastructure which will all be shared in this talk. Speaker Bio: Mousom Dhar Gupta has been a engineer at Airbnb Search and Marketplace Infrastructure team since last year. He focuses on building and scaling Search and other services like Calendar, Social Connections etc. Before Airbnb, he was at Facebook , Netflix and Amazon working on various product backends (Java) like Facebook Messenger, Amazon Kindle etc. Introduction to Security in Solr, Presented by Anshum Gupta, Lucidworks Apache Solr has evolved into a highly scalable system, capable of handling a lot of data and high number of queries but only recently was a mechanism to secure access in Solr provided. Apache Solr 5.2 shipped with pluggable authentication and authorization modules. These modules enable users to write their own plugins for managing security in Solr. This talk would cover an overview of both, the authentication and authorization frameworks, and how they work together within Solr. It will also provide an overview of existing plugins and how to enable them to restrict user access to resources within Solr. Speaker Bio: Anshum Gupta ia a committer and PMC member on the Apache Lucene / Solr project with over 10 years of experience with search and related technologies. He currently works at Lucidworks and spends most of his time working on SolrCloud i.e. the distributed feature set of Apache Solr. Prior to joining Lucidworks, he was a member of the team that developed and launched AWS CloudSearch - The AWS search as a service offering. He was also a key contributor in the search teams at various start ups",
+  "conference_id": null,
+  "date_time": "2015-07-08T18:00:00-07:00",
+  "end_time": "2015-07-08T21:00:00-07:00",
+  "event_id": "223646335",
+  "event_title": "Building Search @ Airbnb & Security in Solr",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-building-search-airbnb-security-in-solr-airbnb-airbnb:building-search-airbnb-security-in-solr",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [
+    "project:apache-solr",
+    "project:apache-lucene",
+    "project:solr"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-building-search-airbnb-security-in-solr-airbnb-airbnb.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-building-search-airbnb-security-in-solr-airbnb-airbnb"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/223646335/"
+  ],
+  "speaker_ids": [
+    "speaker:airbnb-airbnb",
+    "speaker:anshum-gupta",
+    "speaker:lucidworks-apache-solr",
+    "speaker:marketplace-infrastructure",
+    "speaker:mousom-dhar",
+    "speaker:mousom-dhar-gupta",
+    "speaker:social-connections"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:airbnb-airbnb",
+      "name": "Airbnb Airbnb",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:anshum-gupta",
+      "name": "Anshum Gupta",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:lucidworks-apache-solr",
+      "name": "Lucidworks Apache Solr",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:marketplace-infrastructure",
+      "name": "Marketplace Infrastructure",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:mousom-dhar",
+      "name": "Mousom Dhar",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:mousom-dhar-gupta",
+      "name": "Mousom Dhar Gupta",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:social-connections",
+      "name": "Social Connections",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Building Search @ Airbnb & Security in Solr",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/223646335/"
+}

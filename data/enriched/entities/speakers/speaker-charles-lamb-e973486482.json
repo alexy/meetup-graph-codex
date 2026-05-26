@@ -1,0 +1,36 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Software Engineer"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:charles-lamb",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Charles Lamb",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-february-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-february-sf-hadoop-users-meetup-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/219049335/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-february-sf-hadoop-users-meetup-event-talk-1:transparent-encryption-in-hdfs"
+  ],
+  "title": "Software Engineer",
+  "titles": [
+    "Software Engineer"
+  ],
+  "type": "speaker"
+}

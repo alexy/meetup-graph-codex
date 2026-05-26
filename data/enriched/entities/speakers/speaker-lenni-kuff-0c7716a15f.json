@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:cloudera",
+      "company_name": "Cloudera",
+      "title": null
+    }
+  ],
+  "company_id": "company:cloudera",
+  "company_ids": [
+    "company:cloudera"
+  ],
+  "company_name": "Cloudera",
+  "company_names": [
+    "Cloudera"
+  ],
+  "conference_ids": [],
+  "id": "speaker:lenni-kuff",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Lenni Kuff",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera-2",
+    "bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/227844240/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-february-2016-meetup-lenni-kuff-cloudera:february-2016-meetup"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

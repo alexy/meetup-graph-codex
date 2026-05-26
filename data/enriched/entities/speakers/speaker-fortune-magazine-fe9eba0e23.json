@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:fortune-magazine",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Fortune Magazine",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-h2o-big-data-machine-learning-for-everyone-fortune-magazine.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-december-sf-hadoop-users-meetup-fortune-magazine.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-h2o-big-data-machine-learning-for-everyone-fortune-magazine",
+    "bythebay-20260508-san-francisco-hadoop-users-december-sf-hadoop-users-meetup-fortune-magazine-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/219004016/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-december-sf-hadoop-users-meetup-fortune-magazine-talk-1:distributed-deep-learning-for-classification-and-regression-problems-using-h2o"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

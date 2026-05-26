@@ -1,0 +1,31 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:play",
+  "name": "Play",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-play-2-0-with-peter-hausel-of-typesafe-and-felipe-oliveira-of-klout-event.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-play-2-0-with-peter-hausel-of-typesafe-frank-sommers.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-sadek-aldrobi-klout-non-blocking-composable-and-reactive-realtime-web-event.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-sadek-aldrobi-linkedin-non-blocking-composable-and-reactive-realtime-web-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-play-2-0-with-peter-hausel-of-typesafe-and-felipe-oliveira-of-klout-event",
+    "bythebay-20260508-scala-bay-play-2-0-with-peter-hausel-of-typesafe-frank-sommers",
+    "bythebay-20260508-scala-bay-sadek-aldrobi-klout-non-blocking-composable-and-reactive-realtime-web-event",
+    "bythebay-20260508-scala-bay-sadek-aldrobi-linkedin-non-blocking-composable-and-reactive-realtime-web-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/43944172/",
+    "https://www.meetup.com/scala-bay/events/43944352/",
+    "https://www.meetup.com/scala-bay/events/88585602/",
+    "https://www.meetup.com/scala-bay/events/88983192/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-play-2-0-with-peter-hausel-of-typesafe-and-felipe-oliveira-of-klout-event:play-2-0-with-peter-hausel-of-typesafe-and-felipe-oliveira-of-klout",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-play-2-0-with-peter-hausel-of-typesafe-frank-sommers:play-2-0-with-peter-hausel-of-typesafe",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-sadek-aldrobi-klout-non-blocking-composable-and-reactive-realtime-web-event:sadek-aldrobi-klout-non-blocking-composable-and-reactive-realtime-web",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-sadek-aldrobi-linkedin-non-blocking-composable-and-reactive-realtime-web-event:sadek-aldrobi-linkedin-non-blocking-composable-and-reactive-realtime-web"
+  ],
+  "type": "project"
+}

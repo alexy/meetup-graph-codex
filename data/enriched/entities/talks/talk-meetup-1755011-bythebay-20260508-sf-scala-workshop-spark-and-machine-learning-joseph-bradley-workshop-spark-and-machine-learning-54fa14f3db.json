@@ -1,0 +1,47 @@
+{
+  "abstract": "We've created a joint event with SF Bay Area Machine Learning (http://www.meetup.com/SF-Bayarea-Machine-Learning/events/208076942/) and Databricks (http://www.databricks.com) -- a focused look at Machine Learning on Spark. Please RSVP to the SFBAML event (http://www.meetup.com/SF-Bayarea-Machine-Learning/events/208076942/). Speaker: Joseph Bradley ( http://www.cs.cmu.edu/~jkbradle/ ) Joseph is currently a Software Engineer at Databricks (http://databricks.com/). Previously, he was a postdoc working with Kannan Ramchandran (http://www.eecs.berkeley.edu/~kannanr/) and Martin Wainwright (http://www.eecs.berkeley.edu/~wainwrig/) at UC Berkeley (http://www.berkeley.edu/index.html). Joseph received his Ph.D. in Machine Learning (http://www.ml.cmu.edu/) from Carnegie Mellon University (http://www.cmu.edu/index.shtml), where he worked with Carlos Guestrin (http://homes.cs.washington.edu/~guestrin/) in the Select Lab (http://www.select.cs.cmu.edu/). He received my B.S.E. in Computer Science from Princeton University (http://www.princeton.edu/), where he did research with Robert E. Schapire (http://www.cs.princeton.edu/~schapire/). Description: Joseph will talk about Machine Learning with Spark, focusing on the decision tree and (upcoming) random forest implementations in MLlib. Spark has been established as a natural platform for iterative ML algorithms, and trees provide a great example. This talk aims both to give insight into the underlying implementation and to highlight best practices for using MLlib. We'll start with how decision trees fit into Spark's computational framework. This deeper understanding will facilitate a discussion of performance, scaling, algorithmic optimizations, and tuning. Finally, we will mention random forests (coming soon to Spark). We'll use plenty of examples of learning trees on Spark clusters. Tentative Schedule: 6:30pm - 7:00pm -- socializing 7:00pm - 7:10pm -- word from our host 7:15pm - 8:15pm -- main talk (Joseph Bradley) 8:15pm - 9:00pm -- socializing An Academy By the Bay follow up, focused on an area of Machine learning taking startups by storm (and soon by spark) is a Distributed Deep Learning professional training course with deeplearning4j, Scala, Akka and Spark (http://bythebay.ticketleap.com/deep-learning-september-2014/)",
+  "conference_id": null,
+  "date_time": "2014-09-22T18:30:00-07:00",
+  "end_time": "2014-09-22T21:30:00-07:00",
+  "event_id": "208085622",
+  "event_title": "Workshop: Spark and Machine Learning",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-workshop-spark-and-machine-learning-joseph-bradley:workshop-spark-and-machine-learning",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-workshop-spark-and-machine-learning-joseph-bradley.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-workshop-spark-and-machine-learning-joseph-bradley"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/208085622/"
+  ],
+  "speaker_ids": [
+    "speaker:joseph-bradley",
+    "speaker:martin-wainwright"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:joseph-bradley",
+      "name": "Joseph Bradley",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:martin-wainwright",
+      "name": "Martin Wainwright",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Workshop: Spark and Machine Learning",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/208085622/"
+}

@@ -1,0 +1,31 @@
+{
+  "abstract": "If you're attending Data Council, you're in luck - our meetup is happening the evening right after the first day of the conference wraps up! It's the perfect way to wind down, connect with fellow data enthusiasts, and keep the conversations going Plus, the folks at Data Council have generously shared a discount code for our community - so if you haven't grabbed your ticket yet, now's a great time Buy your tickets here using promo code SCALA20 for 20% off tickets https://www.datacouncil.ai/bay-2025 It truly is one of the best conferences of the year so hope to see everyone there After, Join us after Day 1 for a fun and relaxed end to an action-packed day!",
+  "conference_id": null,
+  "date_time": "2025-04-22T17:30:00-07:00",
+  "end_time": "2025-04-22T20:00:00-07:00",
+  "event_id": "306945414",
+  "event_title": "Search, Retrieval, Training, and Analytics with Modern AI Data Lake By Chang She",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-m:data-council",
+  "kind": "talk",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-modal-ai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-modal-ai-talk-5"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/306945414/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Data Council",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/306945414/"
+}

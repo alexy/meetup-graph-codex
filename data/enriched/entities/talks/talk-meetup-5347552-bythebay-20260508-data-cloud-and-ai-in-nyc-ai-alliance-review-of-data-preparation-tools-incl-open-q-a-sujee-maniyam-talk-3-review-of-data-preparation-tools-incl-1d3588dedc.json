@@ -1,0 +1,46 @@
+{
+  "abstract": "Agenda Welcome, housekeeping, etc. Quick intro about AI Alliance (1 min) Presentation: Review of data preparation tools (40 mins) Q&A (10 mins) Wrap-up Presentation: Reviewing Data Preparation Tools In this session we will review the following data preparation tools and techniques we have discussed in the previous sessions: Data Prep Kit Docling Open source RAG with Data Prep Kit + Milvus + Llama Watch the replay: January 30, 2025: Using Docling to process data (YouTube) February 6, 2025: Using Data Prep Kit to process data (YouTube) February 13, 2025: Open source RAG pipeline using Data Prep Kit + Milvus + Granite (recording available soon) Session Type Talk and open Q&A Audience LLM app developers, data scientists, data engineers Technical Level Beginner - Intermediate Prerequisites None Resources See links to session recordings above Speaker: Sujee Maniyam, AI Engineer, Developer Advocate (Consulting for IBM / The AI Alliance) Sujee Maniyam is an expert in Generative AI, Machine Learning, Deep Learning, Big Data, Distributed Systems, and Cloud technologies. He is passionate about developer education, fostering community engagement. Sujee has led numerous training sessions, hackathons, and workshops. He is also an author, open source contributor and frequent speaker at conferences and meetups",
+  "conference_id": null,
+  "date_time": "2025-02-27T12:00:00-05:00",
+  "end_time": "2025-02-27T13:00:00-05:00",
+  "event_id": "306421923",
+  "event_title": "[AI Alliance] Review of Data Preparation Tools (incl. open Q&A)",
+  "github_repositories": [
+    "https://github.com/IBM/data-prep-kit",
+    "https://github.com/DS4SD/docling"
+  ],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-3:review-of-data-preparation-tools-incl-open-q-a",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:https-github-com-ibm-data-prep-kit",
+    "project:https-github-com-ds4sd-docling"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306421923/"
+  ],
+  "speaker_ids": [
+    "speaker:sujee-maniyam"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:sujee-maniyam",
+      "name": "Sujee Maniyam",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Review of Data Preparation Tools (incl. open Q&A)",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/306421923/"
+}

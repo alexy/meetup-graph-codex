@@ -1,0 +1,61 @@
+{
+  "abstract": "· Speakers: Dr Ioana Baldini, Research Staff Member, IBM and Sneha Varghese, Senior Technical Staff Member, IBM · Duration: 30 mins including Q&A WiDS @ IBM is an independent event that is organized by the Technical Meetup Group hosted by IBM as part of the annual WiDS Worldwide conference, the WiDS Datathon, and an estimated 200 WiDS Regional Events worldwide. Everyone is invited to attend all WiDS conference and WiDS Datathon Workshop events which feature outstanding women doing outstanding work Presenters: Sneha Varghese, Dr Ioana Baldini Sneha Varghese is a Senior Technical Staff Member and a Data Scientist at IBM. She joined IBM as a software developer with a Master’s degree in Computer Science from New York University. In her past 20 years at IBM, she has led technical teams and provided strategic directions.She holds many patents and is an IBM Academy of Technology member. She is passionate about promoting STEM activities among women and serves as Vice President in Mid-Hudson Society of Women Engineers chapter. She also serves as Sunday school Director and loves music too Dr Ioana Baldini is a Senior Research Scientist in the IBM Research AI organization. As a result of recent collaborations with non-profit organizations on projects under the IBM Science for Social Good Initiative, Ioana has focused her research efforts on natural language processing applied to domains that have potential for social impact. Her current work focuses on different aspects of fairness in natural language processing systems. Her collaboration with Reboot Rx led to the creation and release of public datasets containing information on investigational COVID-19 treatments on cancer outcomes (independent of COVID-19 infection). Previously at IBM Research, Ioana was part of the core research team who developed OpenWhisk, an open source serverless platform, which is now offered as IBM Cloud Functions. In this role, Ioana contributed several components to the OpenWhisk system and helped deploy it as the official IBM serverless platform. Ioana holds a Masters and PhD degrees from the University of Toronto. She received the NSERC (NSF-equivalent in Canada) Canada Graduate Scholarship, the IBM PhD Fellowship, the Canada Google Anita Borg Scholarship, and the IBM Research Division Award (contributions to OpenWhisk) \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/rd67043032ae6223c7f181c002dffacf0",
+  "conference_id": null,
+  "date_time": "2023-07-26T08:00:00-04:00",
+  "end_time": "2023-07-26T09:00:00-04:00",
+  "event_id": "293933975",
+  "event_title": "Best of WiDS at IBM 2023: Talks on Data Science Contests and Careers",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-talk-2:career-fireside-chat",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293933975/"
+  ],
+  "speaker_ids": [
+    "speaker:sneha-varghese",
+    "speaker:dr-ioana-baldini",
+    "speaker:dr-ioana-baldini-sneha",
+    "speaker:senior-research-scientist"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:sneha-varghese",
+      "name": "Sneha Varghese",
+      "title": "Senior Technical Staff Member, IBM · Duration: 30 mins including Q&A WiDS"
+    },
+    {
+      "company_name": "IBM and",
+      "id": "speaker:dr-ioana-baldini",
+      "name": "Dr Ioana Baldini",
+      "title": "Research Staff Member"
+    },
+    {
+      "company_name": null,
+      "id": "speaker:dr-ioana-baldini-sneha",
+      "name": "Dr Ioana Baldini Sneha",
+      "title": "Varghese is a Senior Technical Staff Member and a Data Scientist"
+    },
+    {
+      "company_name": null,
+      "id": "speaker:senior-research-scientist",
+      "name": "Senior Research Scientist",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Career Fireside Chat",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/293933975/"
+}

@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:early-bird",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Early Bird",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-composable-and-streamable-play-apps-in-sf-joint-event-with-play-framework-early-bird-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-composable-and-streamable-play-apps-in-sf-joint-event-with-play-framework-early-bird.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-composable-and-streamable-play-apps-in-sf-joint-event-with-play-framework-early-bird-2",
+    "bythebay-20260508-sf-scala-composable-and-streamable-play-apps-in-sf-joint-event-with-play-framework-early-bird"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/195119832/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-composable-and-streamable-play-apps-in-sf-joint-event-with-play-framework-early-bird:composable-and-streamable-play-apps-in-sf-joint-event-with-play-framework"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

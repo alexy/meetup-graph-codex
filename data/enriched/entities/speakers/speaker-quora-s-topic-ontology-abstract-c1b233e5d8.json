@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:i",
+      "company_name": "I",
+      "title": null
+    }
+  ],
+  "company_id": "company:i",
+  "company_ids": [
+    "company:i"
+  ],
+  "company_name": "I",
+  "company_names": [
+    "I"
+  ],
+  "conference_ids": [],
+  "id": "speaker:quora-s-topic-ontology-abstract",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Quora's Topic Ontology Abstract",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-ontologies-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-ontologies-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/220718220/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-ontologies-event-talk-1:jay-wacker-quora"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

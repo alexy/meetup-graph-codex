@@ -1,0 +1,31 @@
+{
+  "abstract": "The elephant in the AI room is that data doesn't grow on trees, but rather flows down ever-growing pipelines. Since the whole economy it tilting towards AI, the question of the end-to-end data pipelines and architectures for feeding it data will become ever more urgent. In our humble opinion, some tools won't cut it, but Scala will. Hence we're putting together the biggest meetup festival ever next week, called the Cognitive Frameworks Festival: http://festival.framework.foundation It's going on all week next week, and Scala is a huge part of it. Thanks to our partners, IBM and Galvanize, it is free. There will be world-class talks from industry leaders, and hands-on tutorials on Spark, Scala, Deep Learning, etc., all free. Register at individual events linked from the schedule above. Invite your friends. Stop by and have a drink with us, and see how Cognitive Future (https://www.meetup.com/bay-area-ai/events/240457597/) will be built at IBM Watson on Wednesday at 4pm, with the leaders of IBM, Salesforce, Lightbend, Cisco, Nitro, and others",
+  "conference_id": null,
+  "date_time": "2017-06-05T18:00:00-07:00",
+  "end_time": "2017-06-09T20:00:00-07:00",
+  "event_id": "240494890",
+  "event_title": "Cognitive Frameworks Festival",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-cognitive-frameworks-festival-event:cognitive-frameworks-festival",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-cognitive-frameworks-festival-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-cognitive-frameworks-festival-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/240494890/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Cognitive Frameworks Festival",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/240494890/"
+}

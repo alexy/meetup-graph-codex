@@ -1,0 +1,51 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:watson-assistant",
+      "company_name": "Watson Assistant",
+      "title": null
+    }
+  ],
+  "company_id": "company:watson-assistant",
+  "company_ids": [
+    "company:watson-assistant"
+  ],
+  "company_name": "Watson Assistant",
+  "company_names": [
+    "Watson Assistant"
+  ],
+  "conference_ids": [],
+  "id": "speaker:reza-fazeli",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Reza Fazeli",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-tools-frameworks-to-solve-downstream-nlp-nlu-tasks-reza-fazeli-watson-assistant-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-a-new-standard-for-nlu-tasks-reza-fazeli-watson-assistant.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-a-new-standard-for-nlu-tasks-reza-fazeli-watson-assistant-3.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-tools-frameworks-to-solve-downstream-nlp-nlu-tasks-reza-fazeli-watson-assistant.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-tools-frameworks-to-solve-downstream-nlp-nlu-tasks-reza-fazeli-watson-assistant-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-tools-frameworks-to-solve-downstream-nlp-nlu-tasks-reza-fazeli-watson-assistant-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-a-new-standard-for-nlu-tasks-reza-fazeli-watson-assistant",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-a-new-standard-for-nlu-tasks-reza-fazeli-watson-assistant-3",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-tools-frameworks-to-solve-downstream-nlp-nlu-tasks-reza-fazeli-watson-assistant",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-tools-frameworks-to-solve-downstream-nlp-nlu-tasks-reza-fazeli-watson-assistant-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289690690/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289690262/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289690402/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289690549/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-a-new-standard-for-nlu-tasks-reza-fazeli-watson-assistant:pre-trained-language-models-a-new-standard-for-nlu-tasks",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-a-new-standard-for-nlu-tasks-reza-fazeli-watson-assistant-3:pre-trained-language-models-a-new-standard-for-nlu-tasks",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-pre-trained-language-models-tools-frameworks-to-solve-downstream-nlp-nlu-tasks-reza-fazeli-watson:pre-trained-language-models-tools-frameworks-to-solve-downstream-nlp-nlu-tasks"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

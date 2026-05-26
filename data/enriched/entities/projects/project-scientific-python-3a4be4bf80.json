@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:scientific-python",
+  "name": "Scientific Python",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ossci-meetup-increasing-research-impact-through-open-source-and-open-data-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ossci-meetup-increasing-research-impact-through-open-source-and-open-data-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291493582/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ossci-meetup-increasing-research-impact-through-open-source-and-open-data-event:ossci-meetup-increasing-research-impact-through-open-source-and-open-data"
+  ],
+  "type": "project"
+}

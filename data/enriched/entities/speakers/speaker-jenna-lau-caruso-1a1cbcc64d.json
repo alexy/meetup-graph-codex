@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:jenna-lau-caruso",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Jenna Lau-Caruso",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-infusing-your-search-results-with-the-power-of-nlp-and-semantic-knowledge-jenna-lau-caruso-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-infusing-your-search-results-with-the-power-of-nlp-and-semantic-knowledge-jenna-lau-caruso.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-infusing-your-search-results-with-the-power-of-nlp-and-semantic-knowledge-jenna-lau-caruso-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-infusing-your-search-results-with-the-power-of-nlp-and-semantic-knowledge-jenna-lau-caruso-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-infusing-your-search-results-with-the-power-of-nlp-and-semantic-knowledge-jenna-lau-caruso",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-infusing-your-search-results-with-the-power-of-nlp-and-semantic-knowledge-jenna-lau-caruso-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292861615/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292861501/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-infusing-your-search-results-with-the-power-of-nlp-and-semantic-knowledge-jenna-lau-caruso:infusing-your-search-results-with-the-power-of-nlp-and-semantic-knowledge",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-infusing-your-search-results-with-the-power-of-nlp-and-semantic-knowledge-jenna-lau-caruso-3:infusing-your-search-results-with-the-power-of-nlp-and-semantic-knowledge"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

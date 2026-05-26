@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:datologyai",
+      "company_name": "DatologyAI",
+      "title": "Software engineer"
+    }
+  ],
+  "company_id": "company:datologyai",
+  "company_ids": [
+    "company:datologyai"
+  ],
+  "company_name": "DatologyAI",
+  "company_names": [
+    "DatologyAI"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:josh-wills",
+  "meetup_ids": [],
+  "name": "Josh Wills",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-josh-wills-datologyai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-josh-wills-datologyai"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [],
+  "title": "Software engineer",
+  "titles": [
+    "Software engineer"
+  ],
+  "type": "speaker"
+}

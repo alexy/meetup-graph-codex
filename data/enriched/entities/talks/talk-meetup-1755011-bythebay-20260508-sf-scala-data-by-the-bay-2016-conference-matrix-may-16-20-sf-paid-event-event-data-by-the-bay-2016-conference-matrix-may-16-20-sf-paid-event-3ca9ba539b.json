@@ -1,0 +1,31 @@
+{
+  "abstract": "5 Reasons to Attend Data By the Bay 2016 data.bythebay.io (http://data.bythebay.io/) -- May 16-20, Galvanize SF. ===== Registration is now open! Register at http://data.bythebay.io . ===== 1. Data By the Bay (http://data.bythebay.io/) is the first Data Grid conference matrix: 6 verticals and Data Pipeline horizontals over 5 days. Verticals are application areas, and horizontals are data platforms and algorithms. Lots of Scala, Kafka, Spark, Deep Learning, 2vec in horizontals. 2. Global leaders and best Bay Area startups in data: Google, Facebook, Twitter, Amazon, Microsoft, IBM, LinkedIn, Salesforce, Zillow, Workday, Nitro, Kaggle, Dato, H2O.ai, Lucidworks, and more.20 founders, 15+ CEOs, 10+ CTOs are speaking. All talks are 40 or 20 minutes, many with live coding, Open-Source repositories, public data sets, visualizations, etc. 4. New verticals: AI and IoT (http://aiot.io/) meaningfully connected around data pipelines, streaming data, and appropriate Machine Learning approaches. Legal data, business workflows (http://law.bythebay.io/), and data for democracy and government (http://d4d.io/) placed in the ML/NLP text mining frameworks. Life Sciences (http://life.bythebay.io/) data show how sensor data and algorithms such as Deep Learning will change medical imaging, genomics, and lead to personalized medicine. UX/DataViz (http://ux.bythebay.io/) will cap it all with better ways to see data and act on it. 5. A focused way to meet technical leaders and take home technology you can use right away in your own company, knowing it works for others, and knowing how to use and grow your implementations with the open-source community",
+  "conference_id": null,
+  "date_time": "2016-05-16T07:00:00-07:00",
+  "end_time": "2016-05-20T20:00:00-07:00",
+  "event_id": "229078256",
+  "event_title": "Data By the Bay 2016: Conference Matrix, May 16-20, SF [paid event]",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-data-by-the-bay-2016-conference-matrix-may-16-20-sf-paid-event-event:data-by-the-bay-2016-conference-matrix-may-16-20-sf-paid-event",
+  "kind": "announcement",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-data-by-the-bay-2016-conference-matrix-may-16-20-sf-paid-event-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-data-by-the-bay-2016-conference-matrix-may-16-20-sf-paid-event-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/229078256/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "Data By the Bay 2016: Conference Matrix, May 16-20, SF [paid event]",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/229078256/"
+}

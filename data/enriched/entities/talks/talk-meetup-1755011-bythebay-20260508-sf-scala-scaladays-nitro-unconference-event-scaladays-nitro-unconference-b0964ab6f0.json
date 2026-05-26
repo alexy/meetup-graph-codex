@@ -1,0 +1,31 @@
+{
+  "abstract": "Nitro is sponsoring an Unconference after ScalaDays. We meet at 9am for breakfast, at 10am leads pitch sessions they want to talk about, and from 11am to 4pm we break into tracks. It's a conference made by you for you!",
+  "conference_id": null,
+  "date_time": "2015-03-19T09:00:00-07:00",
+  "end_time": "2015-03-19T16:00:00-07:00",
+  "event_id": "221240448",
+  "event_title": "ScalaDays+Nitro Unconference",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scaladays-nitro-unconference-event:scaladays-nitro-unconference",
+  "kind": "unconference",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scaladays-nitro-unconference-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scaladays-nitro-unconference-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/221240448/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "unconference"
+  ],
+  "title": "ScalaDays+Nitro Unconference",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/221240448/"
+}

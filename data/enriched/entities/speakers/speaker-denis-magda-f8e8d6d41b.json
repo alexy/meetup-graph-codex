@@ -1,0 +1,48 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:yugabyte",
+      "company_name": "Yugabyte",
+      "title": "Head of Developer Relations"
+    }
+  ],
+  "company_id": "company:yugabyte",
+  "company_ids": [
+    "company:yugabyte"
+  ],
+  "company_name": "Yugabyte",
+  "company_names": [
+    "Yugabyte"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:denis-magda",
+  "meetup_ids": [
+    "meetup:18601481"
+  ],
+  "name": "Denis Magda",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot-denis-magda-2.json",
+    "data/raw/sources/bythebay-20260508-too-far-too-furious-multi-region-cloud-applications-denis-magda-yugabyte.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot-denis-magda.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot-denis-magda-2",
+    "bythebay-20260508-too-far-too-furious-multi-region-cloud-applications-denis-magda-yugabyte",
+    "bythebay-20260508-sf-data-and-ai-engineering-apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot-denis-magda"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/242935496/",
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-too-far-too-furious-multi-region-cloud-applications-denis-magda-yugabyte:too-far-too-furious-multi-region-cloud-applications",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot-denis-magda:apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot"
+  ],
+  "title": "Head of Developer Relations",
+  "titles": [
+    "Head of Developer Relations"
+  ],
+  "type": "speaker"
+}

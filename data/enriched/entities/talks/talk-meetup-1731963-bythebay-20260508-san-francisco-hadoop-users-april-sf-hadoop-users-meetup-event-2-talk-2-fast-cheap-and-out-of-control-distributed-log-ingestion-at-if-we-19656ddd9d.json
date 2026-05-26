@@ -1,0 +1,47 @@
+{
+  "abstract": "Chris Mills, Big Data Lead & Andy Alvarado, Sr. Systems Engineer Log ingestion is something most all of us have to deal with at some time. With high enough volumes, tools like Logstash and Flume can get overwhelmed -- especially on low-spec web servers. We present a minimalist distributed approach for getting logs on low-spec boxes into HDFS using rsyslog and haproxy",
+  "conference_id": null,
+  "date_time": "2015-04-08T18:00:00-07:00",
+  "end_time": "2015-04-08T20:00:00-07:00",
+  "event_id": "220286707",
+  "event_title": "April SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2-talk-2:fast-cheap-and-out-of-control-distributed-log-ingestion-at-if-we",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/220286707/"
+  ],
+  "speaker_ids": [
+    "speaker:chris-mills",
+    "speaker:andy-alvarado"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:chris-mills",
+      "name": "Chris Mills",
+      "title": "Big Data Lead"
+    },
+    {
+      "company_name": null,
+      "id": "speaker:andy-alvarado",
+      "name": "Andy Alvarado",
+      "title": "Sr. Systems Engineer Log ingestion is something most all of us have to deal"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Fast, Cheap and Out of Control: Distributed Log Ingestion at if(we)",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/220286707/"
+}

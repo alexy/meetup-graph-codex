@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:qubole-with",
+      "company_name": "Qubole with",
+      "title": null
+    }
+  ],
+  "company_id": "company:qubole-with",
+  "company_ids": [
+    "company:qubole-with"
+  ],
+  "company_name": "Qubole with",
+  "company_names": [
+    "Qubole with"
+  ],
+  "conference_ids": [],
+  "id": "speaker:ashish-dubey",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Ashish Dubey",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-september-2015-meetup-ashish-dubey-qubole-with-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-september-2015-meetup-ashish-dubey-qubole-with.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-september-2015-meetup-ashish-dubey-qubole-with-2",
+    "bythebay-20260508-san-francisco-hadoop-users-september-2015-meetup-ashish-dubey-qubole-with"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/223638704/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-september-2015-meetup-ashish-dubey-qubole-with:september-2015-meetup"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

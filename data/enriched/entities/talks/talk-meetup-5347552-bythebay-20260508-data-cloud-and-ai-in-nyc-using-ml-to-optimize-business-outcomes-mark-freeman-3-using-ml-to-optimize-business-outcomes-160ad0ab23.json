@@ -1,0 +1,47 @@
+{
+  "abstract": "Please join the session that is best suited to your time zone...this topic is repeated at 2 different times. This session will provide an introduction to applications of machine learning to optimization. Optimization (often called prescriptive analytics) is a branch of data science that recommends the best actions for maximizing a desirable outcome (or minimizing an undesirable outcome). Modern applications often involve a combination of machine learning and mathematical programming. Attendees will get an introduction to modern applications of prescriptive analytics, illustrated through a variety of real world use cases. These use cases include optimizing treatments to maximize health outcomes, optimizing pricing to maximize profits, and optimizing maintenance operations to minimize cost. A review of these real world applications will enable attendees to explore how prescriptive analytics might contribute value to their own organizations. Presenter: Mark Freeman Mr. Freeman is an executive data scientist with PhD-level education and over 25 years experience in advanced analytics and machine learning. As a Chief Data Scientist at IBM Consulting, he leads data science teams delivering production grade machine learning solutions to clients across multiple industries. He is a published author of advanced analytics research and principal patent author for optimal automated forecasting. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/r1ebfddfb7a40b4fbacd4e30bc006d29a",
+  "conference_id": null,
+  "date_time": "2024-01-25T15:30:00-05:00",
+  "end_time": "2024-01-25T16:30:00-05:00",
+  "event_id": "297491020",
+  "event_title": "Using ML to optimize business outcomes",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman-3:using-ml-to-optimize-business-outcomes",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-using-ml-to-optimize-business-outcomes-mark-freeman-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297491020/"
+  ],
+  "speaker_ids": [
+    "speaker:mark-freeman",
+    "speaker:mark-freeman-mr"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:mark-freeman",
+      "name": "Mark Freeman",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:mark-freeman-mr",
+      "name": "Mark Freeman Mr",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Using ML to optimize business outcomes",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/297491020/"
+}

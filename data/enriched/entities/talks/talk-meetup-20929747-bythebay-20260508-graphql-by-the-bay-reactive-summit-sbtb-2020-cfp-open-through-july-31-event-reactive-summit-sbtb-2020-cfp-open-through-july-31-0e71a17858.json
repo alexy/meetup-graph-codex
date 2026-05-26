@@ -1,0 +1,33 @@
+{
+  "abstract": "Scale By the Bay is now following Reactive Summit, the conference of the Reactive Foundation, a Linux Foundation project focused on cloud-native applications. We're happy to report that Martin Odersky and Matei Zaharia, the creators of Scala and Spark, will keynote SBTB 2020, among other awesome keynote speakers. The general CFP is open through June 30. There's still time to submit a talk: https://scale.bythebay.io! Looking forward to more great speakers to join us in November",
+  "conference_id": null,
+  "date_time": "2020-07-31T23:59:00-07:00",
+  "end_time": "2020-08-01T01:59:00-07:00",
+  "event_id": "271641423",
+  "event_title": "Reactive Summit + SBTB 2020 CFP Open through July 31",
+  "github_repositories": [],
+  "id": "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-reactive-summit-sbtb-2020-cfp-open-through-july-31-event:reactive-summit-sbtb-2020-cfp-open-through-july-31",
+  "kind": "announcement",
+  "meetup_id": "meetup:20929747",
+  "project_ids": [
+    "project:linux-foundation"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-reactive-summit-sbtb-2020-cfp-open-through-july-31-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-graphql-by-the-bay-reactive-summit-sbtb-2020-cfp-open-through-july-31-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/graphql-by-the-bay/events/271641423/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "Reactive Summit + SBTB 2020 CFP Open through July 31",
+  "type": "talk",
+  "url": "https://www.meetup.com/graphql-by-the-bay/events/271641423/"
+}

@@ -1,0 +1,44 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:djl-and-onnx-runtime",
+      "company_name": "DJL and ONNX Runtime",
+      "title": "Build your high-performance model inference solution"
+    }
+  ],
+  "company_id": "company:djl-and-onnx-runtime",
+  "company_ids": [
+    "company:djl-and-onnx-runtime"
+  ],
+  "company_name": "DJL and ONNX Runtime",
+  "company_names": [
+    "DJL and ONNX Runtime"
+  ],
+  "conference_ids": [],
+  "id": "speaker:adam-pocock",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Adam Pocock",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock",
+    "bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock-talk-2",
+    "bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/286632590/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock-talk-2:confirmed-sessions",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock-talk-3:onnx-community-meetup-microsoft-lf-ai-data-day"
+  ],
+  "title": "Build your high-performance model inference solution",
+  "titles": [
+    "Build your high-performance model inference solution"
+  ],
+  "type": "speaker"
+}

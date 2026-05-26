@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-submarine",
+  "name": "Apache Submarine",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-luma-registration-required-llm-graph-database-for-rag-and-rag-with-ray-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-luma-registration-required-llm-graph-database-for-rag-and-rag-with-ray-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/300217880/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-luma-registration-required-llm-graph-database-for-rag-and-rag-with-ray-event:llm-graph-database-for-rag-and-rag-with-ray"
+  ],
+  "type": "project"
+}

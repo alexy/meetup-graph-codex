@@ -1,0 +1,22 @@
+{
+  "id": "company:ebay",
+  "name": "eBay",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-dean-chen-diving-into-spark-internals-alex-cozzi-kafka-and-akka-alex-cozzi-ebay-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-dean-chen-diving-into-spark-internals-alex-cozzi-kafka-and-akka-alex-cozzi-ebay.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-dean-chen-diving-into-spark-internals-alex-cozzi-kafka-and-akka-alex-cozzi-ebay-2",
+    "bythebay-20260508-scala-bay-dean-chen-diving-into-spark-internals-alex-cozzi-kafka-and-akka-alex-cozzi-ebay"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/209740892/"
+  ],
+  "speaker_ids": [
+    "speaker:alex-cozzi"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-dean-chen-diving-into-spark-internals-alex-cozzi-kafka-and-akka-alex-cozzi-ebay:dean-chen-diving-into-spark-internals-alex-cozzi-kafka-and-akka"
+  ],
+  "type": "company"
+}

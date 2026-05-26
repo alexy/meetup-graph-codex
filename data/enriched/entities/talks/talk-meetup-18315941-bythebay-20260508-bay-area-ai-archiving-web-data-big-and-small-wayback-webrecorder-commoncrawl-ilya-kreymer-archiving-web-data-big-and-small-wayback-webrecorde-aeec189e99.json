@@ -1,0 +1,46 @@
+{
+  "abstract": "Topic: This talk will give a broad overview of the field of web archiving and its various forms, from large scale web crawling to high fidelity web recording. We will cover how web data is crawled, stored and accessed by such existing services such as the Wayback Machine, CommonCrawl and the new Webrecorder project ( https://webrecorder.io/ ), and what 'web archiving' even means. The talk will cover the ISO standard WARC format, web archive index APIs for CommonCrawl and Wayback Machine, and high-fidelity web archiving with Webrecorder, and present an overview of various open source tools and technologies available for working with web archives. Current and future challenges facing web archiving technology will also be discussed. Speaker: Ilya Kreymer has been worked in the field of web archiving for several years. He currently leads the development of the https://webrecorder.io (https://webrecorder.io/) in collaboration with Rhizome, a digital arts non-profit based in New York. He has contributed to various open source web archiving and open access projects, including CommonCrawl project, Hypothesis annotation project and is also developing a new web archive replay and access toolset ( https://github.com/ikreymer/pywb ). Previously, he has worked at the Internet Archive focusing on web archive replay and access, and led the development of several new features and APIs for the Internet Archive Wayback Machine. Ilya is also a recipient of the Shuttleworth Foundation Flash Grant ( https://www.shuttleworthfoundation.org/flashgrants/ ) for Nov 2015. Last week, Ilya released http://oldweb.today , a old browser emulator that allows users to browser old websites from various archives",
+  "conference_id": null,
+  "date_time": "2015-12-15T18:30:00-08:00",
+  "end_time": "2015-12-15T21:30:00-08:00",
+  "event_id": "227042419",
+  "event_title": "Archiving Web Data Big and Small: Wayback, Webrecorder, CommonCrawl",
+  "github_repositories": [
+    "https://github.com/ikreymer/pywb"
+  ],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-archiving-web-data-big-and-small-wayback-webrecorder-commoncrawl-ilya-kreymer:archiving-web-data-big-and-small-wayback-webrecorder-commoncrawl",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [
+    "project:https-github-com-ikreymer-pywb",
+    "project:webrecorder",
+    "project:commoncrawl"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-archiving-web-data-big-and-small-wayback-webrecorder-commoncrawl-ilya-kreymer.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-archiving-web-data-big-and-small-wayback-webrecorder-commoncrawl-ilya-kreymer"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/227042419/"
+  ],
+  "speaker_ids": [
+    "speaker:ilya-kreymer"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:ilya-kreymer",
+      "name": "Ilya Kreymer",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Archiving Web Data Big and Small: Wayback, Webrecorder, CommonCrawl",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/227042419/"
+}

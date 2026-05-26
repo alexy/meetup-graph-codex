@@ -1,0 +1,54 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2015-02-17T18:00:00-08:00",
+  "end_time": "2015-02-17T21:00:00-08:00",
+  "event_id": "220062096",
+  "event_title": "Scala at Twitter (using Eventbrite)",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors-talk-1:scala-plays-a-central-role-in-many-parts-of-twitter-s-infrastructure-and-twitter-s-open-so",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/220062096/"
+  ],
+  "speaker_ids": [
+    "speaker:stu-hood",
+    "speaker:brian-degenhardt",
+    "speaker:adriaan-moors"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:stu-hood",
+      "name": "Stu Hood",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:brian-degenhardt",
+      "name": "Brian Degenhardt",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:adriaan-moors",
+      "name": "Adriaan Moors",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scala plays a central role in many parts of Twitter's infrastructure, and Twitter's open source Scala projects and training materials have been widely adopted",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/220062096/"
+}

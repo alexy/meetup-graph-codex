@@ -1,0 +1,50 @@
+{
+  "abstract": "Play 2.0 is due to be released shortly before this meetup. The Play framework revolutionized the Java Web application development, by bringing back simplicity and agility contrasting the so-called standard way of writing enterprise applications. Moving forward, technology and the Web have evolved. The Web has become the central point of all applications. The whole Web architecture is fast moving towards real-time, and the emerging requirements of project profiles have put into question the classic assumptions like SQL as the exclusive datastore technology or the traditional MVC application design. At the programming language level we've witnessed some monumental changes with several JVM languages, including Scala, gaining popularity. In this talk Peter Hausel will introduce Play 2.0 a Java and Scala Web application framework and its core design concepts. Peter Hausel has more than a decade of software engineering experience. He is obsessed with web technologies, great user experience and open source. He was an early contributor to the Play framework and now leads Typesafe's Play initiative. We will give away two copies of IntelliJ IDEA 11 for personal use. Two free PDF copies of \"Actors in Scala (http://www.artima.com/shop/actors in scala)\" by Philipp Haller and Frank Sommers and published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile. This event will be recorded. We will post a link to the recording on this page when it is ready. Agenda 5:30pm Doors open 6:30pm Pizza and networking 7:00pm Presentation 9:00pm Networking? Location Info There will be signage for those who have not been to the Walmart campus. There is plenty of garage parking and limited street parking available. Please enter the Walmart parking garage from Bayhill Dr. and proceed to the elevator and the security desk. ID will be required. NOTE: the large beige building has no sign and the street number can't be seen until you are right upon it. It is directly across the street from Taco Bell. The Walmart San Bruno campus is walking distance (or bike) from the San Bruno Bart Station (~1 mile). If lost, you can call 650.799.4668",
+  "conference_id": null,
+  "date_time": "2012-03-12T18:30:00-07:00",
+  "end_time": "2012-03-12T21:30:00-07:00",
+  "event_id": "43944352",
+  "event_title": "Play 2.0 with Peter Hausel of Typesafe",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-play-2-0-with-peter-hausel-of-typesafe-frank-sommers:play-2-0-with-peter-hausel-of-typesafe",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [
+    "project:the-play",
+    "project:play"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-play-2-0-with-peter-hausel-of-typesafe-frank-sommers.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-play-2-0-with-peter-hausel-of-typesafe-frank-sommers"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/43944352/"
+  ],
+  "speaker_ids": [
+    "speaker:frank-sommers",
+    "speaker:philipp-haller"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:frank-sommers",
+      "name": "Frank Sommers",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:philipp-haller",
+      "name": "Philipp Haller",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Play 2.0 with Peter Hausel of Typesafe",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/43944352/"
+}

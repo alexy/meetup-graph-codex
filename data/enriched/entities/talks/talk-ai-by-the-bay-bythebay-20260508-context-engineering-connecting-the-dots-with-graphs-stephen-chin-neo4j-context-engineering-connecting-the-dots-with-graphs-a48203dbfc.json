@@ -1,0 +1,39 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-context-engineering-connecting-the-dots-with-graphs-stephen-chin-neo4j:context-engineering-connecting-the-dots-with-graphs",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-context-engineering-connecting-the-dots-with-graphs-stephen-chin-neo4j.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-context-engineering-connecting-the-dots-with-graphs-stephen-chin-neo4j"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:stephen-chin"
+  ],
+  "speakers": [
+    {
+      "company_name": "Neo4j",
+      "id": "speaker:stephen-chin",
+      "name": "Stephen Chin",
+      "title": "VP of DevRel"
+    }
+  ],
+  "tags": [
+    "Context engineering",
+    "Graph Knowledge",
+    "Agentic AI"
+  ],
+  "title": "Context Engineering: Connecting the Dots with Graphs",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/context-engineering-connecting-the-dots-with-graphs"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "company:summary",
+  "name": "Summary",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-7",
+    "bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-8",
+    "bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-9",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-7",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-8",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-9"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/268998404/",
+    "https://www.meetup.com/bythebay/events/268998983/"
+  ],
+  "speaker_ids": [
+    "speaker:leo-benkel",
+    "speaker:jerome-banks",
+    "speaker:john-wiegley"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-9:using-nix-for-haskell-development",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:using-nix-for-haskell-development-by-john-wiegley",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:7-30pm-using-nix-for-haskell-development",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:using-nix-for-haskell-development",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix"
+  ],
+  "type": "company"
+}

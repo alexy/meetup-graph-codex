@@ -1,0 +1,46 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:conviva",
+      "company_name": "Conviva",
+      "title": "Inc., Principal Software Engineer"
+    },
+    {
+      "company_id": "company:conviva",
+      "company_name": "Conviva",
+      "title": "Principal Software Engineer"
+    }
+  ],
+  "company_id": "company:conviva",
+  "company_ids": [
+    "company:conviva"
+  ],
+  "company_name": "Conviva",
+  "company_names": [
+    "Conviva"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:evan-chan",
+  "meetup_ids": [],
+  "name": "Evan Chan",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust-evan-chan-conviva.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust-evan-chan-conviva"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust-evan-chan-conviva:lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust"
+  ],
+  "title": "Inc., Principal Software Engineer",
+  "titles": [
+    "Inc., Principal Software Engineer",
+    "Principal Software Engineer"
+  ],
+  "type": "speaker"
+}

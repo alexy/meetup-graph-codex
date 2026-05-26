@@ -1,0 +1,48 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence-gabriela-de-queiroz-arcade-dev:context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence-gabriela-de-queiroz-arcade-dev.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence-gabriela-de-queiroz-arcade-dev"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:gabriela-de-queiroz",
+    "speaker:shub-argha"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:gabriela-de-queiroz",
+      "name": "Gabriela de Queiroz",
+      "title": "Founder of f02 labs"
+    },
+    {
+      "company_name": "Arcade.dev",
+      "id": "speaker:shub-argha",
+      "name": "Shub Argha",
+      "title": "Head of Solutions Engineering"
+    }
+  ],
+  "tags": [
+    "MCP",
+    "AI Infrastructure",
+    "Agentic AI",
+    "LLMOps",
+    "OSS AI"
+  ],
+  "title": "Context Is All That Matters: MCP and the Dawn of Agentic Intelligence",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence"
+}

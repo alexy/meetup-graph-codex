@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/UpstandingHackers/hammer"
+  ],
+  "github_repository": "https://github.com/UpstandingHackers/hammer",
+  "id": "project:https-github-com-upstandinghackers-hammer",
+  "name": "hammer",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-langsec-meetup-treat-security-as-a-programming-language-problem-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-langsec-meetup-treat-security-as-a-programming-language-problem-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/250786131/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-langsec-meetup-treat-security-as-a-programming-language-problem-event:langsec-meetup-treat-security-as-a-programming-language-problem"
+  ],
+  "type": "project"
+}

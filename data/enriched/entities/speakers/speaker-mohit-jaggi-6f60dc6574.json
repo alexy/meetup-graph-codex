@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ayasdi",
+      "company_name": "Ayasdi",
+      "title": null
+    }
+  ],
+  "company_id": "company:ayasdi",
+  "company_ids": [
+    "company:ayasdi"
+  ],
+  "company_name": "Ayasdi",
+  "company_names": [
+    "Ayasdi"
+  ],
+  "conference_ids": [],
+  "id": "speaker:mohit-jaggi",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Mohit Jaggi",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-august-2015-meetup-mohit-jaggi-ayasdi-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-august-2015-meetup-mohit-jaggi-ayasdi.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-august-2015-meetup-mohit-jaggi-ayasdi-2",
+    "bythebay-20260508-san-francisco-hadoop-users-august-2015-meetup-mohit-jaggi-ayasdi"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/223042375/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-august-2015-meetup-mohit-jaggi-ayasdi:august-2015-meetup"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

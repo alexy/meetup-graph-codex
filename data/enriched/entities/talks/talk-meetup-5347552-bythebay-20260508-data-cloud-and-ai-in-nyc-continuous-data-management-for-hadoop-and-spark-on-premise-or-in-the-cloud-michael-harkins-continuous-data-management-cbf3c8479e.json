@@ -1,0 +1,51 @@
+{
+  "abstract": "Hi, everyone. Please join us and our awesome presenters on Dec 9th at 5:30 pm . See you there! AGENDA • Continuous Data Management for Hadoop and Spark - On-Premise or in the Cloud. Brett Rudenstein, Director of Product Management, Big Data, Wandisco • Deploying Big Data in the Insurance Industry. David Skrivanek - Big Data expert from a leading insurance company • Big SQL - Making all of your big data (http://www.ibm.com/software/data/bigdata/) SQL accessible using an optimal execution strategy. Presenters: Michael Harkins, Virender Thakur, IBM Continuous Data Management for Hadoop and Spark - On-Premise or in the Cloud KEYNOTE SPEAKER: http://photos3.meetupstatic.com/photos/event/9/9/a/d/600 444879341.jpeg Brett Rudenstein, Director of Product Management, Big Data, Wandisco Brett Rudenstein has an extensive background in Application Lifecycle Management, High Performance Computing and Open Source Software Analysis. He has held senior sales engineering and management positions at Rational Software, PureAtria, IBM, Appistry and Palamida. Throughout his career, he has enabled organizations to accelerate technology adoption by understanding their needs and providing just-in-time business solutions. As WANdisco Director of Product Management for Big Data, Brett works with partners, prospects, and customers to help them understand and evolve the requirements for enterprise-ready Hadoop. ---------------- Big Data makes it possible to inexpensively store and process petabytes of structured, unstructured and semi-structured data generated at incredible speeds. However, the ultimate benefits of big data are lost if fresh, fast-moving data is not analyzed as it happens. Fast data is about data in motion-immediate response and action. The collection process for data in motion is essentially the same as data at rest, but the key difference is the analysis occurs in real time as data is generated and captured. However, this analysis has to include the historical context provided by data at rest in order to be meaningful. This requires an enterprise-ready architecture that efficiently handles both data at rest and data in motion with the following components: - An enterprise grade Big Data platform to support real-time analytics applications without downtime or data loss - A flexible and agile cloud environment for cost-effective burst-out processing - A data migration/replication engine that exceeds the most demanding application SLAs. This meet up will provide an overview of the “best in class” architecture required to harness the benefits of Big Data with “Continuous Data Management for Hadoop and Spark” Big SQL 4.1. Presenters: Michael Harkins, Virender Thakur, IBM Big SQL provides ANSI SQL access to data across any system from Hadoop, via JDBC or ODBC - seamlessly whether that data exists in Hadoop or a relational data base. This means that developers familiar with the SQL programming language can access data in Hadoop without having to learn new languages or skills. Big SQL sets a new bar: performance. Benchmark tests indicate that Big SQL executes queries 20 times faster, on average, over Apache Hive 12 with performance improvements ranging up to 70 times faster. It can query and combine data from many data sources, including (but not limited to) DB2 for Linux, Teradata, Oracle, UNIX and Windows database software, IBM PureData System for Analytics. With Big SQL, all of your big data is SQL accessible. It presents a structured view of your existing data, using an optimal execution strategy, given your available resources. PARKING Street parking in certain areas (across the street & up to 2 blocks away) at 5pm is free. Check the signs so as not to get booted! Garage parking is on Columbus Drive in the same building as HopsScotch. They validate parking for $2.00 up to 4 hours",
+  "conference_id": null,
+  "date_time": "2015-12-09T17:30:00-05:00",
+  "end_time": "2015-12-09T20:30:00-05:00",
+  "event_id": "226995075",
+  "event_title": "Continuous Data Management for Hadoop and Spark - On-Premise or in the Cloud",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-data-management-for-hadoop-and-spark-on-premise-or-in-the-cloud-michael-harkins:continuous-data-management-for-hadoop-and-spark-on-premise-or-in-the-cloud",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:apache-hive",
+    "project:big-data",
+    "project:windows"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-data-management-for-hadoop-and-spark-on-premise-or-in-the-cloud-michael-harkins.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-continuous-data-management-for-hadoop-and-spark-on-premise-or-in-the-cloud-michael-harkins"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/226995075/"
+  ],
+  "speaker_ids": [
+    "speaker:michael-harkins",
+    "speaker:virender-thakur"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:michael-harkins",
+      "name": "Michael Harkins",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:virender-thakur",
+      "name": "Virender Thakur",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Continuous Data Management for Hadoop and Spark - On-Premise or in the Cloud",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/226995075/"
+}

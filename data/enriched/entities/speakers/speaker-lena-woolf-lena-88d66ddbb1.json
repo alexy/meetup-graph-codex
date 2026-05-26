@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:lena-woolf-lena",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Lena Woolf Lena",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-what-s-the-big-deal-with-data-fabric-vs-data-mesh-vs-data-lakes-lena-woolf-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-what-s-the-big-deal-with-data-fabric-vs-data-mesh-vs-data-lakes-lena-woolf.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-what-s-the-big-deal-with-data-fabric-vs-data-mesh-vs-data-lakes-lena-woolf-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-what-s-the-big-deal-with-data-fabric-vs-data-mesh-vs-data-lakes-lena-woolf-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-what-s-the-big-deal-with-data-fabric-vs-data-mesh-vs-data-lakes-lena-woolf",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-what-s-the-big-deal-with-data-fabric-vs-data-mesh-vs-data-lakes-lena-woolf-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289676149/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289676018/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-what-s-the-big-deal-with-data-fabric-vs-data-mesh-vs-data-lakes-lena-woolf:what-s-the-big-deal-with-data-fabric-vs-data-mesh-vs-data-lakes",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-what-s-the-big-deal-with-data-fabric-vs-data-mesh-vs-data-lakes-lena-woolf-3:what-s-the-big-deal-with-data-fabric-vs-data-mesh-vs-data-lakes"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

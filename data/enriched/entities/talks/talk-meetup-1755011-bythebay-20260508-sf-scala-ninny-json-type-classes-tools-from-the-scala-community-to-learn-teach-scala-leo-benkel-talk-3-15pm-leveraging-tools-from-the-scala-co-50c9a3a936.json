@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2020-09-16T18:00:00-07:00",
+  "end_time": "2020-09-16T20:00:00-07:00",
+  "event_id": "272898761",
+  "event_title": "Ninny json: type classes & Tools from the Scala community to learn & teach Scala",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-3:15pm-leveraging-tools-from-the-scala-community-to-learn-and-teach-scala",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/272898761/"
+  ],
+  "speaker_ids": [
+    "speaker:leo-benkel"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:leo-benkel",
+      "name": "Leo Benkel",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "15pm Leveraging tools from the Scala community to learn and teach Scala",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/272898761/"
+}

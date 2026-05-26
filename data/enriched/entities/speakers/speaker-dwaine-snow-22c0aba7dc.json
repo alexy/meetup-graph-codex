@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:dwaine-snow",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Dwaine Snow",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-building-cyber-resiliency-into-your-architecture-to-reduce-downtime-dwaine-snow-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-building-cyber-resiliency-into-your-architecture-to-reduce-downtime-dwaine-snow.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-building-cyber-resiliency-into-your-architecture-to-reduce-downtime-dwaine-snow-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-building-cyber-resiliency-into-your-architecture-to-reduce-downtime-dwaine-snow-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-building-cyber-resiliency-into-your-architecture-to-reduce-downtime-dwaine-snow",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-building-cyber-resiliency-into-your-architecture-to-reduce-downtime-dwaine-snow-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291470924/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291470135/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-building-cyber-resiliency-into-your-architecture-to-reduce-downtime-dwaine-snow:building-cyber-resiliency-into-your-architecture-to-reduce-downtime",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-building-cyber-resiliency-into-your-architecture-to-reduce-downtime-dwaine-snow-3:building-cyber-resiliency-into-your-architecture-to-reduce-downtime"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

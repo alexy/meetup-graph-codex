@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:diagrid",
+      "company_name": "Diagrid",
+      "title": "Technical Product Manager"
+    }
+  ],
+  "company_id": "company:diagrid",
+  "company_ids": [
+    "company:diagrid"
+  ],
+  "company_name": "Diagrid",
+  "company_names": [
+    "Diagrid"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:kendall-roden",
+  "meetup_ids": [],
+  "name": "Kendall Roden",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-building-scalable-distributed-systems-powered-by-dapr-oss-kendall-roden-diagrid.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-building-scalable-distributed-systems-powered-by-dapr-oss-kendall-roden-diagrid"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-building-scalable-distributed-systems-powered-by-dapr-oss-kendall-roden-diagrid:building-scalable-distributed-systems-powered-by-dapr-oss"
+  ],
+  "title": "Technical Product Manager",
+  "titles": [
+    "Technical Product Manager"
+  ],
+  "type": "speaker"
+}

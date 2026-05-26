@@ -1,0 +1,47 @@
+{
+  "abstract": "Please join the session that is best suited to your time zone...this topic is repeated at 2 different times. The EU AI Act is a major new piece of legislation that will regulate critical AI systems. It will apply to providers of AI systems placing them in the European Union market and users of AI in the EU. As the text of the Act is being finalised, this session will provide an update on key provisions including how to deploy a risk-based approach and how to design a governance structure that provides appropriate accountability. Presenters: John Bowman John Bowman joined IBM’s Chief Privacy Office in October 2022 as AI Ethics Market Strategy Lead. His role includes advising on enhancements to support regulatory compliance, helping to create a deployment framework, and commercialisation of select IBM CPO assets. Previously, John was a Senior Principal in Promontory, IBM Consulting; and before that John worked at the UK Ministry of Justice where he was Head of EU and International Data Protection Policy. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/r0fe032097c7987cd3fb45b6dcc960269",
+  "conference_id": null,
+  "date_time": "2024-02-07T08:00:00-05:00",
+  "end_time": "2024-02-07T09:00:00-05:00",
+  "event_id": "297839904",
+  "event_title": "What you need to know about the EU AI Act",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-what-you-need-to-know-about-the-eu-ai-act-john-bowman:what-you-need-to-know-about-the-eu-ai-act",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-what-you-need-to-know-about-the-eu-ai-act-john-bowman.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-what-you-need-to-know-about-the-eu-ai-act-john-bowman"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297839904/"
+  ],
+  "speaker_ids": [
+    "speaker:john-bowman",
+    "speaker:john-bowman-john-bowman"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:john-bowman",
+      "name": "John Bowman",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:john-bowman-john-bowman",
+      "name": "John Bowman John Bowman",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "What you need to know about the EU AI Act",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/297839904/"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2020-07-09T17:30:00-07:00",
+  "end_time": "2020-07-09T19:30:00-07:00",
+  "event_id": "271284915",
+  "event_title": "Getting Things Done in the Scala REPL by Li Haoyi",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-getting-things-done-in-the-scala-repl-by-li-haoyi-alexy-khrabrov:45pm-getting-things-done-in-the-scala-repl",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-getting-things-done-in-the-scala-repl-by-li-haoyi-alexy-khrabrov.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-getting-things-done-in-the-scala-repl-by-li-haoyi-alexy-khrabrov"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/271284915/"
+  ],
+  "speaker_ids": [
+    "speaker:li-haoyi"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:li-haoyi",
+      "name": "Li Haoyi",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "45pm Getting Things Done in the Scala REPL",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/271284915/"
+}

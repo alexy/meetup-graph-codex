@@ -1,0 +1,36 @@
+{
+  "abstract": "Thank you our sponsors: GitHub for hosting, Neo4j for food and drinks, and the AI Alliance for the video recording! Following the AI Conference, Bay Area AI is hosting its deep dive into the teachnologies that will make GenAI Real: - LLM Programming - GraphRAG We have two talks and will add more. Our GraphRAG section represents the GraphRAG ecosystem with Neo4j, Pinecone, Milvus, and other partners. 1. DSPy: Prompt Optimization for LM Programs Michael Ryan, Stanford It has never been easier to build amazing LLM powered applications. Unfortunately engineering reliable and trustworthy LLMs remains challenging. Instead, practitioners should build LM Programs comprised of several composable calls to LLMs which can be rigorously tested, audited, and optimized like other software systems. In this talk I will introduce the idea of LM Programs in DSPy: The library for Programming - not Prompting LMs. I will demonstrate how the LM Program abstraction allows the creation of automatic optimizers for LM Programs which can optimize both the prompts and weights in an LM Program. I will conclude with an introduction to MIPROv2: our latest and highest performing prompt optimization algorithm for LM Programs. Michael Ryan is a masters student at Stanford University working on optimization for Language Model Programs in DSPy and Personalizing Language Models. His work has been recognized with a Best Social Impact award at ACL 2024, and an honorable mention for outstanding paper at ACL 2023. Michael co-lead the creation of the MIPRO & MIPROv2 optimizers, DSPy’s most performant optimizers for Language Model Programs. His prior work has showcased unintended cultural and global biases expressed in popular LLMs. He is currently a research intern at Snowflake. 2a. Graphs and AI: Making it Real Alexy Khrabrov, AI Community Architect, Neo4j GraphRAG is one of the most promising architectures for enterprise AI. In this talk, we’ll explore technical and community efforts required to make GenAI ready for production, with the focus on the most recent advances in GraphRAGw with LangChain and LlamaIndex integrations. Dr. Alexy Khrabrov is the founder and organizer of bay.area.ai and the AI Community Architect at Neo4. He is also a founder of opensource.science at NumFOCUS and a cofounder of thealliance.ai. Alexy founded and runs scale.bythebay.io, a conference of the Bay Area developer meetups, for ten years. 2b. Vectors and Graphs - Better Together This short talk will explore how graph database and vector databases can be made to work in tandem in agentic (and semi-agentic) ways to deliver unique ways to analyze complex, interconnected data sets. Roie Schwaber-Cohen is a Staff Developer Advocate at Pinecone, specializing in AI and data-intensive applications. With nearly 20 years of experience in software engineering, Roie has expertise in full-stack development, microservices architectures and data intensive applications. 2c. Improving RAG with Knowledge Graph and Milvus Jiang Chen, Zilliz The talk covers the techniques of Knowledge Engineering that improve RAG quality and shows how to offline extract knowledge graph and implement a comprehensive retrieval method by storing and searching knowledge embeddings in Milvus. Jiang Chen is the Head of Ecosystem and Developer Relations at Zilliz, the company behind the open-source vector database Milvus. He had previously served as a tech lead and product manager at Google, where he led the development of web-scale semantic understanding and search indexing that powers innovative search products such as short video search. He has years of industry experience handling massive unstructured data and multi-modal content retrieval. Jiang holds a Master's degree in Computer Science from the University of Michigan. You'll need to have the Luma registration and an ID that matches it to attend: lu.ma/ ai",
+  "conference_id": null,
+  "date_time": "2024-09-12T19:00:00-07:00",
+  "end_time": "2024-09-12T22:00:00-07:00",
+  "event_id": "302540816",
+  "event_title": "[lu.ma/ ai registration required] DSPy and GraphRAG: Making GenAI Real",
+  "github_repositories": [
+    "https://github.com/stanfordnlp/dspy"
+  ],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-dspy-and-graphrag-making-genai-real-event:dspy-and-graphrag-making-genai-real",
+  "kind": "announcement",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [
+    "project:https-github-com-stanfordnlp-dspy",
+    "project:the"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-dspy-and-graphrag-making-genai-real-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-dspy-and-graphrag-making-genai-real-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/302540816/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "DSPy and GraphRAG: Making GenAI Real",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/302540816/"
+}

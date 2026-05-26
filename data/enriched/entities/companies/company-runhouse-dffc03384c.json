@@ -1,0 +1,22 @@
+{
+  "id": "company:runhouse",
+  "name": "Runhouse",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-paul-yang-runhouse.json",
+    "data/raw/sources/bythebay-20260508-beat-openai-and-build-the-best-ai-for-you-mobilizing-first-party-data-with-fine-tuning-paul-yang-runhouse.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-paul-yang-runhouse",
+    "bythebay-20260508-beat-openai-and-build-the-best-ai-for-you-mobilizing-first-party-data-with-fine-tuning-paul-yang-runhouse"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:paul-yang"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-beat-openai-and-build-the-best-ai-for-you-mobilizing-first-party-data-with-fine-tuning-paul-yang-runhouse:beat-openai-and-build-the-best-ai-for-you-mobilizing-first-party-data-with-fine-tuning"
+  ],
+  "type": "company"
+}

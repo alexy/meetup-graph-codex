@@ -1,0 +1,49 @@
+{
+  "abstract": "Main Talk Sorry guys, there is no free lunch. We are in 2016, but distributed applications are not simple. You can embrace any cool trends such as microservices, developing a distributed application is a challenge. Why? Well, because it’s complicated. Distributed systems have many many reason to fail, technically it’s complicated, and the theory behind distributed system is also complicated. Vert.x is a toolkit for build reactive distributed applications on top of the Java Virtual Machine. The application can be developed in Java of course but also in JavaScript, Groovy, Ruby or Ceylon. Vert.x does not hide the complexity of distributed applications; it lets you handle it. Vert.x applications are able to face failures, can use several protocols and interaction styles (messages, RPC, REST,…), handle heavy load, integrate with almost anything, and cope with all the requirements of modern applications. It is also a great library to build efficient reactive microservices. In this talk, an introduction to vert.x is given while highlighting all the complexity to build distributed applications. For each hotspot, vert.x features are demonstrated. This includes clustering, distributed structures, message-based communication, HTTP and REST, load balancing, failure recovery, integration with other technologies such as Node… Speaker: Clement Escoffier Who am I? That’s a good question. I had several professional lives, from academic positions to management. Currently, I’m working for Red Hat as Vert.x core developer. I touched to many domains and technologies such as OSGi, mobile app development, continuous delivery, devops… My main point of interest? Software engineering, so processes, methods, tools that make the development of software more efficient and also more fun. I’m also an active contributor on many open source projects such as Apache Felix, iPOJO, Wisdom Framework, and obviously, Vert.x",
+  "conference_id": null,
+  "date_time": "2016-06-28T18:30:00-07:00",
+  "end_time": "2016-06-28T21:30:00-07:00",
+  "event_id": "231897896",
+  "event_title": "Build reactive distributed and polyglot application with Vert.x",
+  "github_repositories": [],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-build-reactive-distributed-and-polyglot-application-with-vert-x-clement-escoffier-who:build-reactive-distributed-and-polyglot-application-with-vert-x",
+  "kind": "talk",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [
+    "project:apache-felix"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-build-reactive-distributed-and-polyglot-application-with-vert-x-clement-escoffier-who.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-build-reactive-distributed-and-polyglot-application-with-vert-x-clement-escoffier-who"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/231897896/"
+  ],
+  "speaker_ids": [
+    "speaker:clement-escoffier-who",
+    "speaker:wisdom-framework"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:clement-escoffier-who",
+      "name": "Clement Escoffier Who",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:wisdom-framework",
+      "name": "Wisdom Framework",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Build reactive distributed and polyglot application with Vert.x",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/231897896/"
+}

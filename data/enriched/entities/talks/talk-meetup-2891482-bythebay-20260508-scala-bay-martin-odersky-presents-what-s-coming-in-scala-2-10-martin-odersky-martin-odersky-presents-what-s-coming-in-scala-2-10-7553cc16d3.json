@@ -1,0 +1,40 @@
+{
+  "abstract": "Martin Odersky is a professor of programming methods at the EPFL, where he heads the programming research group. He codesigned and implemented the Pizza and Generic Java extensions of Java, and is the inventor of Scala. Martin will be presenting what's coming in Scala 2.10 and will be available for Q&A. Professor Odersky will give the same talk two days later at SF Scala (http://www.meetup.com/SF-Scala/events/42955912/). Free copies of IntelliJ IDEA for personal use will be given away. A live stream of this event will be available via WebEx: Time: 7:00 pm, Pacific Standard Time (San Francisco, GMT-08:00) URL: http://palantirtech.webex.com/ Meeting number: 620 395 029 Meeting password: Sc@la1",
+  "conference_id": null,
+  "date_time": "2011-12-06T18:30:00-08:00",
+  "end_time": "2011-12-06T21:30:00-08:00",
+  "event_id": "43082342",
+  "event_title": "Martin Odersky presents what's coming in Scala 2.10",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-martin-odersky-presents-what-s-coming-in-scala-2-10-martin-odersky:martin-odersky-presents-what-s-coming-in-scala-2-10",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-martin-odersky-presents-what-s-coming-in-scala-2-10-martin-odersky.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-martin-odersky-presents-what-s-coming-in-scala-2-10-martin-odersky"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/43082342/"
+  ],
+  "speaker_ids": [
+    "speaker:martin-odersky"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:martin-odersky",
+      "name": "Martin Odersky",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Martin Odersky presents what's coming in Scala 2.10",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/43082342/"
+}

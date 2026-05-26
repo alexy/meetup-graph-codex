@@ -1,0 +1,33 @@
+{
+  "abstract": "IMPORTANT: for Twitter building requirements we need RSVPs with matching photo IDs at https://sfscala.splashthat.com -- please RSVP there, being on the meetup list alone will not get you in! In machine learning reproducibility is very important. We want to be able to reproduce feature values, trained models, and of course model scores. Functional programming offer powerful tools in our quest for reproducible machine learned systems. In this talk we will see two tools in Stripes toolbox in the theme of reproducibility: 1. our use of the bazel build tool with scala, 2. semblance, our functional-reactive-programming (FRP) based system for feature engineering. We will see how a bazel scala build looks, and hear about how its focus on reproducibility enables build caching which can dramatically lower CI times. We will see how formulating feature engineering as an event-based FRP model rules out an important class of errors which can sabotage your model performance on real data. Oscar is a mathematical hacker at Stripe. Previously he was at Twitter, creating Scalding, Summingbird, and many other things. We also got a second talk on Bazel Build by its Google lead Ulf Adams, overviewing Bazel",
+  "conference_id": null,
+  "date_time": "2018-03-29T18:00:00-07:00",
+  "end_time": "2018-03-29T21:00:00-07:00",
+  "event_id": "248351966",
+  "event_title": "Oscar Boykin on Reproducible Machine Learning with Functional Programming",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-oscar-boykin-on-reproducible-machine-learning-with-functional-programming-event:oscar-boykin-on-reproducible-machine-learning-with-functional-programming",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:frp"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-oscar-boykin-on-reproducible-machine-learning-with-functional-programming-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-oscar-boykin-on-reproducible-machine-learning-with-functional-programming-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/248351966/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Oscar Boykin on Reproducible Machine Learning with Functional Programming",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/248351966/"
+}

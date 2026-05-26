@@ -1,0 +1,33 @@
+{
+  "abstract": "The AI Alliance was launched in December 2023 as the global force to uphold OSS AI, open source and open science. The Alliance meets for the first time in San Francisco and the same evening we hold a public meetup. Local greats like Databricks and Anyscale are expected to present as well as Alliance work stream leaders. Keep your eye on the program as we’ll add a lot of speakers soon! Please register on Luma in order to attend : https://lu.ma/kiidiyeb. Agenda 5:30-6:00pm socializing, pizza and beer 6:00pm Grand Welcome Alexy Khrabrov, NumFOCUS , the Bay.Area.AI founder, AI Alliance community co-lead Eric Peter, Databricks , PM on the Mosaic AI team Anthony Annunziata, IBM, AI Alliance lead 6:20pm DBRX: Introducing DBRX: A New State-of-the-Art Open LLM, Abhi Venigalla and Ajay Saini, Databricks and MosaicML 7:10pm New Model Openness Framework, Matt White, Linux Foundation 7:30pm AI Alliance Panel, Future Directions of Open-Source AI Christopher Nguyen, AItomatic Dean Wampler, IBM Irene Solaiman, HuggingFace Anthony Annunziata, IBM, moderator Note: you have to be registered on Luma above to get in with a valid ID matching your name on the registration!",
+  "conference_id": null,
+  "date_time": "2024-04-02T18:00:00-07:00",
+  "end_time": "2024-04-02T21:00:00-07:00",
+  "event_id": "299961290",
+  "event_title": "[Luma registration] AI Alliance Meetup 2",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-luma-registration-ai-alliance-meetup-2-event:ai-alliance-meetup-2",
+  "kind": "announcement",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [
+    "project:dbrx"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-luma-registration-ai-alliance-meetup-2-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-luma-registration-ai-alliance-meetup-2-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/299961290/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "AI Alliance Meetup 2",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/299961290/"
+}

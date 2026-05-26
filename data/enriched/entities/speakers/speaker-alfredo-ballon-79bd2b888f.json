@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:alfredo-ballon",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Alfredo Ballon",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2022-accomplishments-and-2023-plan-alfredo-ballon-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2022-accomplishments-and-2023-plan-alfredo-ballon.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2022-accomplishments-and-2023-plan-alfredo-ballon-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2022-accomplishments-and-2023-plan-alfredo-ballon-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2022-accomplishments-and-2023-plan-alfredo-ballon",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2022-accomplishments-and-2023-plan-alfredo-ballon-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289676865/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289676735/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2022-accomplishments-and-2023-plan-alfredo-ballon:technical-meetup-group-hosted-by-ibm-2022-accomplishments-and-2023-plan",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-technical-meetup-group-hosted-by-ibm-2022-accomplishments-and-2023-plan-alfredo-ballon-3:technical-meetup-group-hosted-by-ibm-2022-accomplishments-and-2023-plan"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

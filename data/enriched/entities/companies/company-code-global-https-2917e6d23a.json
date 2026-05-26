@@ -1,0 +1,20 @@
+{
+  "id": "company:code-global-https",
+  "name": "Code Global (https",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/288088486/"
+  ],
+  "speaker_ids": [
+    "speaker:wrap-up-learn"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event-talk-2:call-for-code-comes-to-you-new-york-city"
+  ],
+  "type": "company"
+}

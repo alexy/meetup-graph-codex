@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:james-winters-james",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "James Winters James",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly-james-winters-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly-james-winters.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly-james-winters-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly-james-winters"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292859839/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly-james-winters:how-to-prepare-for-the-eu-ai-act-by-innovating-and-creating-ai-responsibly"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

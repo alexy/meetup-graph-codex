@@ -1,0 +1,33 @@
+{
+  "abstract": "This is a joint event with SF Scala -- please register there! https://www.meetup.com/SF-Scala/events/258488711/ ----- ScalaTest 3.1 will include built-in support for property-based testing. In this talk, Bill Venners will explain property-based testing, walk you through the design implementation of ScalaTest's support in 3, and compare it to ScalaCheck's approach. In addition, Bill will show a preview of Expectations and Facts, coming in ScalaTest 3.2, and show how Facts and property-based testing can be combined to describe and check contract specifications. Bill Venners is president of Artima, Inc., provider of Scala consulting, training, books, and tools. He leads the open source projects for the ScalaTest testing library and the Scalactic library for functional, object-oriented programming. He is coauthor with Martin Odersky and Lex Spoon of the book, Programming in Scala. And he is a community representative on the Scala Center's Advisory Board. ----- We're lucky to be in Bill's habitat, and he will teach special Scala retreats in March and April: Join us at a Scala Retreat! Step away from your daily routine and gather with other developers for a Scala learning experience surrounded by nature. In March and April, Bill Venners will be leading three Scala Retreats: March 18-20: Simply Scala Fundamentals, San Damiano, CA March 21-22: Simply Scala Advanced, San Damiano, CA April 8-9: Effective Scala, Palm Desert, CA Get more details and register here: https://www.artima.com/shop/workshop Enrollment is limited. Please register early",
+  "conference_id": null,
+  "date_time": "2019-02-07T18:00:00-08:00",
+  "end_time": "2019-02-07T20:00:00-08:00",
+  "event_id": "258497318",
+  "event_title": "Bill Venners introduces Property-based Testing in ScalaTest 3.1",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event:bill-venners-introduces-property-based-testing-in-scalatest-3-1",
+  "kind": "workshop",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [
+    "project:scalactic"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-bill-venners-introduces-property-based-testing-in-scalatest-3-1-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/258497318/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Bill Venners introduces Property-based Testing in ScalaTest 3.1",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/258497318/"
+}

@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:nick-kolegraff",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Nick Kolegraff",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scalding-at-twitter-linkedin-and-event-rackspace-nick-kolegraff-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scalding-at-twitter-linkedin-and-event-rackspace-nick-kolegraff.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scalding-at-twitter-linkedin-and-event-rackspace-nick-kolegraff-2",
+    "bythebay-20260508-sf-scala-scalding-at-twitter-linkedin-and-event-rackspace-nick-kolegraff"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/154954962/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scalding-at-twitter-linkedin-and-event-rackspace-nick-kolegraff:scalding-at-twitter-linkedin-and-event-rackspace"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

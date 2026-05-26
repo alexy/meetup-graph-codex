@@ -1,0 +1,61 @@
+{
+  "abstract": "Welcome Remarks - Omar Sanseviero, Google DeepMind Introduction to Gemma 4 - Olivier Lacombe, Google DeepMind Daniel Han, Unsloth MLX - Awni Hannun, MLX creator Hermes Agent with Gemma: The Agent That Grows With You - Sam Herring, Nous Research Intro to Google’s open medical models - Fereshteh Mahvar, Google Inside the Gemma 4 Ecosystem- Sara Smoot, Google DeepMind A deeper look at Agent Skills on Mobile using Gemma 4 - Cormac Brick, Google Why Hybrid Inference? - Henry Ndubuaku, Founder, Cactus Compute Roger Wang, vLLM Core Maintainer & Co-Founder of Inferact If you’re building with open models, working on AI tools, or just want to see what Gemma can do up close, we’d love to have you in the room",
+  "conference_id": null,
+  "date_time": "2026-04-17T18:00:00-07:00",
+  "end_time": "2026-04-17T22:00:00-07:00",
+  "event_id": "314321640",
+  "event_title": "[Partner Event] Gemma 4: SF Edition",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent-talk-2:detailed-agenda",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/314321640/"
+  ],
+  "speaker_ids": [
+    "speaker:welcome-remarks",
+    "speaker:olivier-lacombe",
+    "speaker:hermes-agent",
+    "speaker:nous-research"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:welcome-remarks",
+      "name": "Welcome Remarks",
+      "title": null
+    },
+    {
+      "company_name": "Google DeepMind Daniel Han, Unsloth MLX",
+      "id": "speaker:olivier-lacombe",
+      "name": "Olivier Lacombe",
+      "title": "Google DeepMind Daniel Han"
+    },
+    {
+      "company_name": "You",
+      "id": "speaker:hermes-agent",
+      "name": "Hermes Agent",
+      "title": "with Gemma: The Agent That Grows"
+    },
+    {
+      "company_name": "Agent Skills",
+      "id": "speaker:nous-research",
+      "name": "Nous Research",
+      "title": "Intro to Google’s open medical models - Fereshteh Mahvar, Google Inside the Gemma 4 Ecosystem- Sara Smoot, Google DeepMind A deeper look"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Detailed Agenda",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/314321640/"
+}

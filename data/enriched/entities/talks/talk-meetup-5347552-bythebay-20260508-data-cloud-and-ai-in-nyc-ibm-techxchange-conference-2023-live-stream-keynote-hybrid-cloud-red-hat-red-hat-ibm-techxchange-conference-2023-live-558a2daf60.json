@@ -1,0 +1,40 @@
+{
+  "abstract": "Are you ready to dive into the world of cutting-edge technology, such as generative AI? Join us at the upcoming IBM TechXchange Conference 2023 Keynote Sessions , a captivating series of no-cost live streams that will unravel the latest advancements in AI, automation, security, and cloud solutions. Keynote Hybrid Cloud & Red Hat: Driving innovation and transformation through the open hybrid cloud The battle is over and Hybrid Cloud has won. In 2021, only 2% of companies reported using a single public cloud as their primary archetype - the remainder leverage a hybrid cloud architecture. An open source environment enables microservices, containers, Kubernetes and AI to be deployed to optimize agility and speed at scale. The challenge can be staying ahead of the technology curve and positioning your enterprise for continued success. At IBM and Red Hat, hybrid cloud is the foundation of everything we do, leveraging open source in a multi-cloud environment to kickstart innovation. The advent of Generative AI has acted as an accelerant to business transformation increasing efficiency and productivity. Join Chris Wright, CTO of Red Hat, who will share innovations available today, and new technologies and approaches currently in development that will accelerate development cycles and optimize your cloud performance. Speaker Chris Wright, Chief Technology Officer, Red Hat How to Attend All you need to do is just go to the IBM TechXchange Conference website at the scheduled times to view the live keynote sessions! The sessions will be live-streamed on the IBM TechXchange Conference website at https://ibm.biz/BdMaFp. You can also watch the recordings after the event",
+  "conference_id": null,
+  "date_time": "2023-09-13T16:15:00-04:00",
+  "end_time": "2023-09-13T17:15:00-04:00",
+  "event_id": "295946324",
+  "event_title": "IBM TechXchange Conference 2023 Live Stream - Keynote Hybrid Cloud & Red Hat",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-hybrid-cloud-red-hat-red-hat:ibm-techxchange-conference-2023-live-stream-keynote-hybrid-cloud-red-hat",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-hybrid-cloud-red-hat-red-hat.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-hybrid-cloud-red-hat-red-hat"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/295946324/"
+  ],
+  "speaker_ids": [
+    "speaker:red-hat"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:red-hat",
+      "name": "Red Hat",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "IBM TechXchange Conference 2023 Live Stream - Keynote Hybrid Cloud & Red Hat",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/295946324/"
+}

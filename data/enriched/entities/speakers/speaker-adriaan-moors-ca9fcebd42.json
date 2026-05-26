@@ -1,0 +1,36 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:adriaan-moors",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Adriaan Moors",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-at-typesafe-adriaan-moors.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors-2",
+    "bythebay-20260508-sf-scala-scala-at-typesafe-adriaan-moors",
+    "bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors-talk-1",
+    "bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors-talk-4"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/220062096/",
+    "https://www.meetup.com/sf-scala/events/153854762/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-at-typesafe-adriaan-moors:scala-at-typesafe",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors-talk-1:scala-plays-a-central-role-in-many-parts-of-twitter-s-infrastructure-and-twitter-s-open-so",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-at-twitter-using-eventbrite-adriaan-moors-talk-4:7-55pm-the-future-of-scala"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

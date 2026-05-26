@@ -1,0 +1,40 @@
+{
+  "abstract": "Our annual conference starts Friday. http://scala.bythebay.io Keynotes by Miles Sabin, Julie Pitt, and Jay Kreps. Three tracks, corresponding to the three intractable problems in Computer Science: -- Functional Programming (\"Naming\") -- Reactive Microservices (\"Caching\") -- Data Pipelines (\"Off by One\") Leaders in software engineering at scale: Twitter, IBM, Verizon, Salesforce, Uber, Criteo, Twilio, Credit Karma, Bloomberg, Databricks, Alluxio, MemSQL, Netflix. Innovative startups doing more with less. Four panels: -- Scaling Scala Teams -- Finagle/TwitterOSS Q&A -- Modern Architectures and Data Pipelines -- Future of Functional Programming Breakfast, lunch, happy hour, and unlimited coffee. Best networking at the fantastic Twitter venue. A few late bird tickets are left: use the code SFSPARK20 to get yours (while supplies last). See you on Friday!",
+  "conference_id": null,
+  "date_time": "2016-11-11T08:00:00-08:00",
+  "end_time": "2016-11-13T18:00:00-08:00",
+  "event_id": "235444924",
+  "event_title": "Scalæ By the Bay 2016 begins Friday at Twitter HQ",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-scalae-by-the-bay-2016-begins-friday-at-twitter-hq-miles-sabin:scal-by-the-bay-2016-begins-friday-at-twitter-hq",
+  "kind": "talk",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-scalae-by-the-bay-2016-begins-friday-at-twitter-hq-miles-sabin.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-scalae-by-the-bay-2016-begins-friday-at-twitter-hq-miles-sabin"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/235444924/"
+  ],
+  "speaker_ids": [
+    "speaker:miles-sabin"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:miles-sabin",
+      "name": "Miles Sabin",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scalæ By the Bay 2016 begins Friday at Twitter HQ",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/235444924/"
+}

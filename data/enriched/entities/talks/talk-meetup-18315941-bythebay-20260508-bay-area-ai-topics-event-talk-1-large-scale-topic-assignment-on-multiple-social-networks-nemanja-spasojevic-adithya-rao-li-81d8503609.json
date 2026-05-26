@@ -1,0 +1,31 @@
+{
+  "abstract": "Abstract: Understanding data from social networks to infer user's topical interests and expertise is a challenging problem with applications in various data-powered products. In this talk, we present a full production system used at Lithium Technologies (Klout), which mines topical interests and expertise from multiple social networks and assigns over 10,000 topics to hundreds of millions of users on a daily basis The system generates a diverse set of features derived from signals such as user generated posts and profiles, user reactions such as comments and retweets, user attributions such as lists, tags and endorsements, as well as signals based on social graph connections. We show that using cross-network information with a diverse features for a user leads to a more complete and accurate understanding of the user's topics, as compared to using any single network or any single source",
+  "conference_id": null,
+  "date_time": "2015-02-26T19:00:00-08:00",
+  "end_time": "2015-02-26T22:00:00-08:00",
+  "event_id": "220401029",
+  "event_title": "Topics",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-topics-event-talk-1:large-scale-topic-assignment-on-multiple-social-networks-nemanja-spasojevic-adithya-rao-li",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-topics-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-topics-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/220401029/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Large scale topic assignment on multiple social networks. Nemanja Spasojevic, Adithya Rao, Lithium",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/220401029/"
+}

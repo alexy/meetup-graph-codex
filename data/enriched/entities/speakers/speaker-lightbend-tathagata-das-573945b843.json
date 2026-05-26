@@ -1,0 +1,38 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:lightbend-tathagata-das",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:18315941",
+    "meetup:18601481",
+    "meetup:20929747"
+  ],
+  "name": "Lightbend Tathagata Das",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo-2.json",
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo-2",
+    "bythebay-20260508-bay-area-ai-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo-2",
+    "bythebay-20260508-graphql-by-the-bay-smack-2-0-emerging-data-pipelines-panel-at-index-gridgain-sijie-guo-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/247629339/",
+    "https://www.meetup.com/bay-area-ai/events/247629700/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/247629043/",
+    "https://www.meetup.com/graphql-by-the-bay/events/247629775/"
+  ],
+  "talk_ids": [],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

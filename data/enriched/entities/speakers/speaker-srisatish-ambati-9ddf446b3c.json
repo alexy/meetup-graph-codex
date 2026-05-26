@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:h2o",
+      "company_name": "H2O",
+      "title": null
+    }
+  ],
+  "company_id": "company:h2o",
+  "company_ids": [
+    "company:h2o"
+  ],
+  "company_name": "H2O",
+  "company_names": [
+    "H2O"
+  ],
+  "conference_ids": [],
+  "id": "speaker:srisatish-ambati",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "SriSatish Ambati",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-metamind-salesforcejohn-eggert.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-metamind-salesforcejohn-eggert"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/237166862/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-metamind-salesforcejohn-egge:ai-by-the-bay-self-driving-cars-march-6-8-san-francisco"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

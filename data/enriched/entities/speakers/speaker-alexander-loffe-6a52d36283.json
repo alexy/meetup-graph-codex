@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:nasdaq",
+      "company_name": "Nasdaq",
+      "title": null
+    }
+  ],
+  "company_id": "company:nasdaq",
+  "company_ids": [
+    "company:nasdaq"
+  ],
+  "company_name": "Nasdaq",
+  "company_names": [
+    "Nasdaq"
+  ],
+  "conference_ids": [],
+  "id": "speaker:alexander-loffe",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Alexander Loffe",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-generic-derivation-is-the-new-reflection-by-alexander-loffe-alexander-loffe-nasdaq-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-generic-derivation-is-the-new-reflection-by-alexander-loffe-alexander-loffe-nasdaq.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-generic-derivation-is-the-new-reflection-by-alexander-loffe-alexander-loffe-nasdaq-2",
+    "bythebay-20260508-sf-scala-generic-derivation-is-the-new-reflection-by-alexander-loffe-alexander-loffe-nasdaq"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/276483759/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-generic-derivation-is-the-new-reflection-by-alexander-loffe-alexander-loffe-nasdaq:generic-derivation-is-the-new-reflection-by-alexander-loffe"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

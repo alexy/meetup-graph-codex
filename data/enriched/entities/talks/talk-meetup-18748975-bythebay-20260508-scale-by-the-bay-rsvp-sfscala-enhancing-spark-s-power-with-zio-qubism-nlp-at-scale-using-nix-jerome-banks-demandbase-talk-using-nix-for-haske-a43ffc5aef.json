@@ -1,0 +1,66 @@
+{
+  "abstract": "Summary Nix provides a great way to isolate development environments for particular projects, no matter what language or tools they require. In this talk we'll look especially at how Nix can aid in Haskell project development, even in cases where you might need different versions of the compiler for different projects Example nix files for a variety of languages can be found here: https://github.com/jwiegley/hello",
+  "conference_id": null,
+  "date_time": "2020-03-26T18:00:00-07:00",
+  "end_time": "2020-03-26T21:00:00-07:00",
+  "event_id": "268998983",
+  "event_title": "[RSVP @ SFScala]Enhancing Spark's Power with ZIO,Qubism & NLP at Scale,Using Nix",
+  "github_repositories": [
+    "https://github.com/jwiegley/hello"
+  ],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:using-nix-for-haskell-development-by-john-wiegley",
+  "kind": "talk",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [
+    "project:https-github-com-jwiegley-hello",
+    "project:haskell"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/268998983/"
+  ],
+  "speaker_ids": [
+    "speaker:john-wiegley",
+    "speaker:salar-rahmanian",
+    "speaker:leo-benkel",
+    "speaker:jerome-banks"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:john-wiegley",
+      "name": "John Wiegley",
+      "title": "started his career working on compiler front-ends, linkers and debuggers, and have been doing so in the C++ community"
+    },
+    {
+      "company_name": "ZIO\" by",
+      "id": "speaker:salar-rahmanian",
+      "name": "Salar Rahmanian",
+      "title": "6:10pm: \"Enhancing Spark's Power"
+    },
+    {
+      "company_name": "Scale with Scala\" by",
+      "id": "speaker:leo-benkel",
+      "name": "Leo Benkel",
+      "title": "6:50pm: \"Qubism and NLP"
+    },
+    {
+      "company_name": "Haskell development\" by",
+      "id": "speaker:jerome-banks",
+      "name": "Jerome Banks",
+      "title": "7:30pm: \"Using Nix"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "\"Using Nix for Haskell development\" by John Wiegley",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/268998983/"
+}

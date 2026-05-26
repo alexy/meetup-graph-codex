@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:runhouse",
+      "company_name": "Runhouse",
+      "title": "MTS"
+    }
+  ],
+  "company_id": "company:runhouse",
+  "company_ids": [
+    "company:runhouse"
+  ],
+  "company_name": "Runhouse",
+  "company_names": [
+    "Runhouse"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:paul-yang",
+  "meetup_ids": [],
+  "name": "Paul Yang",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-paul-yang-runhouse.json",
+    "data/raw/sources/bythebay-20260508-beat-openai-and-build-the-best-ai-for-you-mobilizing-first-party-data-with-fine-tuning-paul-yang-runhouse.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-paul-yang-runhouse",
+    "bythebay-20260508-beat-openai-and-build-the-best-ai-for-you-mobilizing-first-party-data-with-fine-tuning-paul-yang-runhouse"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-beat-openai-and-build-the-best-ai-for-you-mobilizing-first-party-data-with-fine-tuning-paul-yang-runhouse:beat-openai-and-build-the-best-ai-for-you-mobilizing-first-party-data-with-fine-tuning"
+  ],
+  "title": "MTS",
+  "titles": [
+    "MTS"
+  ],
+  "type": "speaker"
+}

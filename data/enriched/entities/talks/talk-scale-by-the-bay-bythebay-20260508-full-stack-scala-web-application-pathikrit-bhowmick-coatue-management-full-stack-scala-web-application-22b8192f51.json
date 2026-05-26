@@ -1,0 +1,35 @@
+{
+  "abstract": null,
+  "conference_id": "scale-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:scale-by-the-bay:bythebay-20260508-full-stack-scala-web-application-pathikrit-bhowmick-coatue-management:full-stack-scala-web-application",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-full-stack-scala-web-application-pathikrit-bhowmick-coatue-management.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-full-stack-scala-web-application-pathikrit-bhowmick-coatue-management"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:pathikrit-bhowmick"
+  ],
+  "speakers": [
+    {
+      "company_name": "Coatue Management",
+      "id": "speaker:pathikrit-bhowmick",
+      "name": "Pathikrit Bhowmick",
+      "title": "Director of Engineering"
+    }
+  ],
+  "tags": [],
+  "title": "Full Stack Scala Web Application",
+  "type": "talk",
+  "url": "https://www.scale.bythebay.io/post/pathikrit-bhowmick-full-stack-scala-web-application"
+}

@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-tajo",
+  "name": "Apache Tajo",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/225350988/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter-talk-1:introduction-to-apache-tajo-future-of-data-warehouse"
+  ],
+  "type": "project"
+}

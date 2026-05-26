@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:gneissweb",
+  "name": "Gneissweb",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gneissweb-a-state-of-the-art-llm-pre-training-dataset-research-scientist-ibm-almaden-research-center.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-gneissweb-preparing-high-quality-data-for-llms-at-scale-shahrokh-daijavad.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gneissweb-a-state-of-the-art-llm-pre-training-dataset-research-scientist-ibm-almaden-research-center",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-gneissweb-preparing-high-quality-data-for-llms-at-scale-shahrokh-daijavad"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306423602/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/307531169/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gneissweb-a-state-of-the-art-llm-pre-training-dataset-research-scientist:introducing-gneissweb-a-state-of-the-art-llm-pre-training-dataset",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-gneissweb-preparing-high-quality-data-for-llms-at-scale-shahrokh-daijavad:gneissweb-preparing-high-quality-data-for-llms-at-scale"
+  ],
+  "type": "project"
+}

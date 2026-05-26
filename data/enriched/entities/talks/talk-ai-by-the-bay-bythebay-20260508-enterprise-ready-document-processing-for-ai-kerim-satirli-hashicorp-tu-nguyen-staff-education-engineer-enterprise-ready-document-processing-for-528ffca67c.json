@@ -1,0 +1,47 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-enterprise-ready-document-processing-for-ai-kerim-satirli-hashicorp-tu-nguyen-staff-education-engineer:enterprise-ready-document-processing-for-ai",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-enterprise-ready-document-processing-for-ai-kerim-satirli-hashicorp-tu-nguyen-staff-education-engineer.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-enterprise-ready-document-processing-for-ai-kerim-satirli-hashicorp-tu-nguyen-staff-education-engineer"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:kerim-satirli",
+    "speaker:tu-nguyen"
+  ],
+  "speakers": [
+    {
+      "company_name": "HashiCorp",
+      "id": "speaker:kerim-satirli",
+      "name": "Kerim Satirli",
+      "title": "Senior Developer Advocate II"
+    },
+    {
+      "company_name": "HashiCorp",
+      "id": "speaker:tu-nguyen",
+      "name": "Tu Nguyen",
+      "title": "Staff Education Engineer"
+    }
+  ],
+  "tags": [
+    "AI Infrastructure",
+    "RAG",
+    "AI Security",
+    "LLMOps"
+  ],
+  "title": "Enterprise-ready document processing for AI",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/enterprise-ready-document-processing-for-ai"
+}

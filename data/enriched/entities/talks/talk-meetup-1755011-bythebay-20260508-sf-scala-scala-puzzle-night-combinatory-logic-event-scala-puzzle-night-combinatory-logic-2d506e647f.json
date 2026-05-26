@@ -1,0 +1,31 @@
+{
+  "abstract": "Join us for a combined Scala Puzzle Night and pre-conference social! Come hone your skills, learn from the community, and celebrate the upcoming Scala By the Bay conference by solving a puzzle with other community members -- in scala! Bold Radius will be offering a free breakout session to any beginners wishing to join in the fun. Our theme this month is combinatory logic (https://en.wikipedia.org/wiki/Combinatory logic), so come prepared to think functionally! We will present a small problem along with detailed instructions and test data. We'll also provide a git repo containing a suite of tests and enough solution boilerplate to keep the core problem under two hours. Everyone will then pair off to work on this problem. When time is up, groups will take turns presenting their final solutions and the process they took to arrive at that solution. Our goal with this puzzle is not to stump anyone, but to stimulate a focus on the process of crafting Good Solution, and create a context for a discussion about the variety of language constructs available in scala to assist in the creation of such a solution. We hope to see a diversity of intriguing solutions. One group might design a nifty and readable DSL for solving the problem, another might leverage type-level programming to derive an extremely safe solution, and yet another might focus on bringing in scalaz constructs to craft as terse a solution as possible. Our puzzle will be difficult enough to enable this sort of diversity, yet simple enough that teams will be able to explore one of these various avenues within the alloted time to allow one of these avenues to be explored within the alloted time. Requirements We advise having a GitHub account to facilitate sharing of solutions. We also recommend having a scala development environment prepared on your laptop. Beginners are absolutely welcome -- Bold Radius is offering a free training session, but a basic online crash course (http://www.artima.com/pins1ed/first-steps-in-scala.html) is available as well. Agenda 6:00 - Refreshments and networking 6:30 - Beginner breakout session (optional) 7:00 - Welcome and Problem Unveiling 7:15 - Coding begins! 8:45 - Times up! Solution presentations and discussion 9:30 - Wrap-up Logistics Security Please bring ID and check in with Security on the first floor. Let them know you are here for the meetup with Driver Genomics on the 4th floor. Street Parking There is free street parking available on 16th street, and 7th street. See the highlighted rout on this map for areas with some street parking: http://bit.ly/17z5nOr Parking Garage There is also a parking garage (not free) right behind the office. If you use this parking garage make sure to hold onto your ticket as it will open the gate after hours (9 or 10pm is when it typically closes): http://bit.ly/1EsGyRq",
+  "conference_id": null,
+  "date_time": "2015-08-11T18:00:00-07:00",
+  "end_time": "2015-08-11T22:00:00-07:00",
+  "event_id": "224244828",
+  "event_title": "Scala Puzzle Night: Combinatory Logic",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-puzzle-night-combinatory-logic-event:scala-puzzle-night-combinatory-logic",
+  "kind": "workshop",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-puzzle-night-combinatory-logic-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-puzzle-night-combinatory-logic-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/224244828/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Scala Puzzle Night: Combinatory Logic",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/224244828/"
+}

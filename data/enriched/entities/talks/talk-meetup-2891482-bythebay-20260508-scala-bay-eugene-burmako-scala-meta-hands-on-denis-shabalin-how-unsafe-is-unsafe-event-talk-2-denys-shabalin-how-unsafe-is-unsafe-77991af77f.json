@@ -1,0 +1,31 @@
+{
+  "abstract": "Abstract: From time to time, we face serious challenges which seem to be unsolvable as long as we stick to the typical standard tools at our disposal. One of the non-standard tools in JVM developer's toolbox is sun.misc.Unsafe, a tool that if used in correctly, just a like a chainsaw, can cause serious damage This talk is going to overview some of the Unsafe's functionality and show how it can be used as an underlying platform to create new powerful and safe abstractions on top of it using a combination of advanced Scala features like macros, dynamic, value classes etc",
+  "conference_id": null,
+  "date_time": "2015-03-19T19:00:00-07:00",
+  "end_time": "2015-03-19T22:00:00-07:00",
+  "event_id": "220121786",
+  "event_title": "Eugene Burmako, \"scala.meta: hands-on\"; Denis Shabalin, \"How unsafe is unsafe?\"",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-eugene-burmako-scala-meta-hands-on-denis-shabalin-how-unsafe-is-unsafe-event-talk-2:denys-shabalin-how-unsafe-is-unsafe",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-eugene-burmako-scala-meta-hands-on-denis-shabalin-how-unsafe-is-unsafe-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-eugene-burmako-scala-meta-hands-on-denis-shabalin-how-unsafe-is-unsafe-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/220121786/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Denys Shabalin, How unsafe is unsafe?",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/220121786/"
+}

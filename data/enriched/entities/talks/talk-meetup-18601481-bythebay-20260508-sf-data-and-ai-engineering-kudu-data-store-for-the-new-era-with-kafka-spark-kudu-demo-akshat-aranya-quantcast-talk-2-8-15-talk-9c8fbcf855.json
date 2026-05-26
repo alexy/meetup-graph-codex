@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2015-10-22T18:30:00-07:00",
+  "end_time": "2015-10-22T20:30:00-07:00",
+  "event_id": "226023299",
+  "event_title": "Kudu: Data Store for the New Era, with Kafka+Spark+Kudu Demo",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-kudu-data-store-for-the-new-era-with-kafka-spark-kudu-demo-akshat-aranya-quantcast-talk-2:8-15-talk",
+  "kind": "talk",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-kudu-data-store-for-the-new-era-with-kafka-spark-kudu-demo-akshat-aranya-quantcast.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-kudu-data-store-for-the-new-era-with-kafka-spark-kudu-demo-akshat-aranya-quantcast-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/226023299/"
+  ],
+  "speaker_ids": [
+    "speaker:jean-daniel-cryans"
+  ],
+  "speakers": [
+    {
+      "company_name": "at Cloudera, followed by Q&A",
+      "id": "speaker:jean-daniel-cryans",
+      "name": "Jean-Daniel Cryans",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "8:15 Talk",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/226023299/"
+}

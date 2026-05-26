@@ -1,0 +1,24 @@
+{
+  "id": "company:by-the-bay-and",
+  "name": "By the Bay, and",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/242935944/"
+  ],
+  "speaker_ids": [
+    "speaker:alexy-khrabrov"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-topic-modeling-using-latent-dirichlet-allocation-and-bot-training-automation-alexy-khrabrov:6-35-pm-welcome",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-3:using-nix-for-haskell-development-by-john-wiegley",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1:reimagining-functional-type-classes",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1:reimagining-functional-type-classes",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-external-registration-required-ai-alliance-and-vllm-event-talk-1:ai-alliance-community-is-the-way-alexy-khrabrov-ibm-research"
+  ],
+  "type": "company"
+}

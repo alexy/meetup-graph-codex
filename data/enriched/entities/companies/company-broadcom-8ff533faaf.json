@@ -1,0 +1,20 @@
+{
+  "id": "company:broadcom",
+  "name": "Broadcom",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-josh-long-ai-by-the-bay.json",
+    "data/raw/sources/bythebay-20260508-hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock-james-ward-aws-josh-long-spring-developer-advocate.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-josh-long-ai-by-the-bay",
+    "bythebay-20260508-hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock-james-ward-aws-josh-long-spring-developer-advocate"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:josh-long"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock-james-ward-aws-josh-long-spring-developer-adv:hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock"
+  ],
+  "type": "company"
+}

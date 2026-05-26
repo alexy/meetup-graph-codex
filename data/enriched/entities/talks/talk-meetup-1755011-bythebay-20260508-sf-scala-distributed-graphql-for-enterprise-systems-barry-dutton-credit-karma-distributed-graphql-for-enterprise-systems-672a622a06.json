@@ -1,0 +1,47 @@
+{
+  "abstract": "(1) How we distributed our GraphQL across services to simplify workflows and increase developer productivity. Bio: Barry Dutton is a Senior Software developer at Credit Karma who has been instrumental in helping the Credit Karma team incorporate GraphQL into its microservices architecture. Before working at Credit Karma, he spent nearly a decade building core products and services at major tech companies, and ships code that reaches tens of millions of users. (2) Building a high-performance realtime GraphQL engine on Postgres at Hasura In this talk I'll talk about our unique approach to building a GraphQL server, by transpiling/compiling GraphQL to SQL instead of using resolvers. This approach allows low-latency, scalable querying with an extremely low-footprint, which becomes especially valuable for large GraphQL queries that fetch non-trivial amounts of data. These are the topics I'll cover: -- Compiling GraphQL to SQL -- Adding application user authorization primitives -- Implementing scalable, realtime with GraphQL subscriptions -- Benchmarks to show latency, concurrent connections Bio: Tanmai Gopal is the co-founder of hasura.io. He is a StackOverflow powered fullstack, polyglot developer whose areas of interest and work span react, GraphQL, nodejs, python, haskell, docker, postgres, kubernetes. He is passionate about making it easy to build things and is the instructor of India's largest MOOC imad.tech with over 250,000 students",
+  "conference_id": null,
+  "date_time": "2019-03-14T18:00:00-07:00",
+  "end_time": "2019-03-14T20:00:00-07:00",
+  "event_id": "258714284",
+  "event_title": "Distributed GraphQL for Enterprise Systems",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma:distributed-graphql-for-enterprise-systems",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/258714284/"
+  ],
+  "speaker_ids": [
+    "speaker:barry-dutton",
+    "speaker:tanmai-gopal"
+  ],
+  "speakers": [
+    {
+      "company_name": "Credit Karma",
+      "id": "speaker:barry-dutton",
+      "name": "Barry Dutton",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:tanmai-gopal",
+      "name": "Tanmai Gopal",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Distributed GraphQL for Enterprise Systems",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/258714284/"
+}

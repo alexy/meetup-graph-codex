@@ -1,0 +1,31 @@
+{
+  "abstract": "Chatbots can be useful in so many different industries and scenarios. Do you want to learn how to build your own? If so come check out this workshop! Learn the fundamental concepts behind creating a chatbot that can have meaningful and natural conversations. You will learn about the Watson Assistant service and the building blocks of a conversation including : - Intents: to convey purpose or goal - Entities: make logical decisions based on user input - Dialogs: design a conversation - In order to run this workshops, Please sign up for IBM cloud via https://ibm.biz/Bdz9Xi - Please bring a laptop to follow along Please bring your Meetup RSVP Confirmation & ID to check-in Agenda : 6:30pm: Doors open, check-in, and get some food 6:45pm: Round-robin introductions & get to know each other 7:00pm - 8:30pm: Hands-on workshop 8:30pm - 9:00pm - Q&A 9:00pm - Venue closes About the Presenter Pooja Mistry (@poojamakes) is a developer advocate for IBM Cloud. She works on expanding the reach of IBM's technology to New York City's developer community. Her area of interest includes prototyping with NodeRED and working with AI services to build fun and interesting things! Prior to living in NYC, Pooja lived in Boston, MA where she was working as an API automation engineer in the healthcare tech industry. She mainly works in Javascript and Java, however, she tinkers with Python. She is currently passionate about Node-RED and building IoT applications using Node-RED services. She is a strong believer in helping new technologists get up and running with technology and feel confident in their abilities to make!",
+  "conference_id": null,
+  "date_time": "2019-11-13T18:30:00-05:00",
+  "end_time": "2019-11-13T21:00:00-05:00",
+  "event_id": "266395399",
+  "event_title": "How to Build Your Own Chatbot",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-build-your-own-chatbot-event:how-to-build-your-own-chatbot",
+  "kind": "workshop",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-build-your-own-chatbot-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-build-your-own-chatbot-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/266395399/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "How to Build Your Own Chatbot",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/266395399/"
+}

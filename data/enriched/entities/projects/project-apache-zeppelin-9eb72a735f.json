@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-zeppelin",
+  "name": "Apache Zeppelin",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/222870784/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/246046747/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar:hadoop-from-complexity-to-simplicity",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-enterprise-data-science-at-scale-artem-ervits:enterprise-data-science-at-scale"
+  ],
+  "type": "project"
+}

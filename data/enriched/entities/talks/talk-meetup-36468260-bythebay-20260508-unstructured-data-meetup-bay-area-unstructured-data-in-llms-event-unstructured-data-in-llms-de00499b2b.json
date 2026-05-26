@@ -1,0 +1,31 @@
+{
+  "abstract": "Topic: Connecting your unstructured data with LLMs What we’ll do: Have some food/dinner and refreshments. Have three exciting talks about LLMs and unstructured data. 5:30 - 6:00 - Welcome/Networking/Registration 6:00 - 6:20 - Analyzing High Dimensional LLM Data - Francisco Castillo, Data Scientist at Arize AI 6:25 - 6:55 - Retrieval Augmented Generation Pipelines with Haystack - Tuana Celik, Developer Advocate at deepset 7:00 - 7:30 - Building LLM Apps at Scale - Yujian Tang, Developer Advocate at Zilliz 7:30 - 8:30 - Networking Who Should attend: Anyone interested in talking and learning about Unstructured Data and LLM Apps. When: August 10th, 2023 5:30PM - 8:30PM Where: 1974 Union Street, San Francisco, CA 94123 Sponsored by Zilliz",
+  "conference_id": null,
+  "date_time": "2023-08-10T17:30:00-07:00",
+  "end_time": "2023-08-10T20:30:00-07:00",
+  "event_id": "295102315",
+  "event_title": "Unstructured Data in LLMs",
+  "github_repositories": [],
+  "id": "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event:unstructured-data-in-llms",
+  "kind": "talk",
+  "meetup_id": "meetup:36468260",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/295102315/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Unstructured Data in LLMs",
+  "type": "talk",
+  "url": "https://www.meetup.com/unstructured-data-sf/events/295102315/"
+}

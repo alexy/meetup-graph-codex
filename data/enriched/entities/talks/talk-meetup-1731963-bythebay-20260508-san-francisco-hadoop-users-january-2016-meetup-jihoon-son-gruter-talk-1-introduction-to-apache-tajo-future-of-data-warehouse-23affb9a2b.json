@@ -1,0 +1,42 @@
+{
+  "abstract": "Apache Tajo is a data warehouse system for Web-scale data. It provides virtual integration of a multitude of diverse data sources, thereby facilitating easy and rapid data integration which has been regarded as an essential, but heavy step in business intelligence. In addition, it has a fault-tolerable distributed query engine for accelerating query speed. With the “query federation” and “distributed processing” capacities, Tajo is capable of providing users with reliable and efficient analysis of Web-scale data spread on multiple sources. I will introduce Apache Tajo including its overall architecture, current state and challenges, and discuss advantages what Tajo can bring to users. In addition, I will give a demo of integrated data analysis with Tajo",
+  "conference_id": null,
+  "date_time": "2016-01-12T18:00:00-08:00",
+  "end_time": "2016-01-12T20:00:00-08:00",
+  "event_id": "225350988",
+  "event_title": "January 2016 Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter-talk-1:introduction-to-apache-tajo-future-of-data-warehouse",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [
+    "project:apache-tajo"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-january-2016-meetup-jihoon-son-gruter-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/225350988/"
+  ],
+  "speaker_ids": [
+    "speaker:jihoon-son"
+  ],
+  "speakers": [
+    {
+      "company_name": "Gruter",
+      "id": "speaker:jihoon-son",
+      "name": "Jihoon Son",
+      "title": "Software Engineer"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Introduction to Apache Tajo: Future of Data Warehouse",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/225350988/"
+}

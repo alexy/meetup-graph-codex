@@ -1,0 +1,44 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:onnx",
+      "company_name": "ONNX",
+      "title": "Improving the online shopping experience"
+    }
+  ],
+  "company_id": "company:onnx",
+  "company_ids": [
+    "company:onnx"
+  ],
+  "company_name": "ONNX",
+  "company_names": [
+    "ONNX"
+  ],
+  "conference_ids": [],
+  "id": "speaker:daniele-cazzari",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Daniele Cazzari",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock",
+    "bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock-talk-2",
+    "bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/286632590/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock-talk-2:confirmed-sessions",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-event-promotion-onnx-community-meetup-microsoft-lf-ai-data-day-adam-pocock-talk-3:onnx-community-meetup-microsoft-lf-ai-data-day"
+  ],
+  "title": "Improving the online shopping experience",
+  "titles": [
+    "Improving the online shopping experience"
+  ],
+  "type": "speaker"
+}

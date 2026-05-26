@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:sergei-winitzki",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Sergei Winitzki",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-reasoning-about-types-and-code-in-functional-programs-art-of-asking-questions-oli-makhasoeva-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-reasoning-about-types-and-code-in-functional-programs-art-of-asking-questions-oli-makhasoeva.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-reasoning-about-types-and-code-in-functional-programs-art-of-asking-questions-oli-makhasoeva-2",
+    "bythebay-20260508-sf-scala-reasoning-about-types-and-code-in-functional-programs-art-of-asking-questions-oli-makhasoeva"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/265169356/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-reasoning-about-types-and-code-in-functional-programs-art-of-asking-questions-oli-makhasoeva:reasoning-about-types-and-code-in-functional-programs-art-of-asking-questions"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

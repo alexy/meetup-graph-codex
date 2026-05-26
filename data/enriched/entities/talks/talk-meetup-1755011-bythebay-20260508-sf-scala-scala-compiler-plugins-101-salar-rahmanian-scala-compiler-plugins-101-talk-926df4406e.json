@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2018-09-11T18:00:00-07:00",
+  "end_time": "2018-09-11T20:30:00-07:00",
+  "event_id": "254191025",
+  "event_title": "Scala Compiler Plugins 101",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-compiler-plugins-101-salar-rahmanian:scala-compiler-plugins-101-talk",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-compiler-plugins-101-salar-rahmanian.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-compiler-plugins-101-salar-rahmanian"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/254191025/"
+  ],
+  "speaker_ids": [
+    "speaker:seth-tisue"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:seth-tisue",
+      "name": "Seth Tisue",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scala Compiler Plugins 101 Talk",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/254191025/"
+}

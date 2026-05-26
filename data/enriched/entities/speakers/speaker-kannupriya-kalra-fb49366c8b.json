@@ -1,0 +1,53 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "functional programming enthusiast and Scala developer"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:kannupriya-kalra",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:2891482"
+  ],
+  "name": "Kannupriya Kalra",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-2",
+    "bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-2",
+    "bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-3",
+    "bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-4",
+    "bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-6",
+    "bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-3",
+    "bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-4",
+    "bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-6"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/306178453/",
+    "https://www.meetup.com/scala-bay/events/306178503/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-3:let-s-teach-llms-to-write-great-scala-by-kannupriya-kalra",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-4:about-kannupriya-kalra",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-6:let-s-teach-llms-to-write-great-scala",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-3:let-s-teach-llms-to-write-great-scala-by-kannupriya-kalra",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-4:about-kannupriya-kalra",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-designing-the-library-powering-netflix-s-qoe-teach-llms-to-write-great-scala-joan-goyeau-talk-6:let-s-teach-llms-to-write-great-scala"
+  ],
+  "title": "functional programming enthusiast and Scala developer",
+  "titles": [
+    "functional programming enthusiast and Scala developer"
+  ],
+  "type": "speaker"
+}

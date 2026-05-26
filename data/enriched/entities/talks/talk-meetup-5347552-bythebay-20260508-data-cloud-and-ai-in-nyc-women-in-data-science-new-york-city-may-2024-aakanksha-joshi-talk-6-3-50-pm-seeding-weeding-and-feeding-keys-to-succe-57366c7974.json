@@ -1,0 +1,47 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2024-05-17T11:15:00-04:00",
+  "end_time": "2024-05-17T17:00:00-04:00",
+  "event_id": "300338070",
+  "event_title": "Women in Data Science - New York City May 2024",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi-talk-6:3-50-pm-seeding-weeding-and-feeding-keys-to-successful-marketing",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-may-2024-aakanksha-joshi-talk-6"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/300338070/"
+  ],
+  "speaker_ids": [
+    "speaker:madhavi-chakrabarty",
+    "speaker:rutgers-business-school"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:madhavi-chakrabarty",
+      "name": "Madhavi Chakrabarty",
+      "title": "Sr. Director and Asst. Professor of Professional Practice"
+    },
+    {
+      "company_name": null,
+      "id": "speaker:rutgers-business-school",
+      "name": "Rutgers Business School",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "3:50 PM - \"Seeding, Weeding and Feeding - Keys to Successful Marketing”",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/300338070/"
+}

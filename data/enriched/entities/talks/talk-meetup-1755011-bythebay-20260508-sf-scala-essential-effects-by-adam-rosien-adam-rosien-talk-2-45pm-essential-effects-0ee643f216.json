@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2021-01-13T17:30:00-08:00",
+  "end_time": "2021-01-13T19:30:00-08:00",
+  "event_id": "275583573",
+  "event_title": "Essential Effects By Adam Rosien",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-2:45pm-essential-effects",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/275583573/"
+  ],
+  "speaker_ids": [
+    "speaker:adam-rosien"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:adam-rosien",
+      "name": "Adam Rosien",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "45pm Essential Effects",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/275583573/"
+}

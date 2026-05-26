@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:sumit-gupta",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Sumit Gupta",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-the-future-of-cognitive-frameworks-for-business-sumit-gupta-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-the-future-of-cognitive-frameworks-for-business-sumit-gupta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-the-future-of-cognitive-frameworks-for-business-sumit-gupta-2",
+    "bythebay-20260508-bay-area-ai-the-future-of-cognitive-frameworks-for-business-sumit-gupta"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/240457597/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-the-future-of-cognitive-frameworks-for-business-sumit-gupta:the-future-of-cognitive-frameworks-for-business"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

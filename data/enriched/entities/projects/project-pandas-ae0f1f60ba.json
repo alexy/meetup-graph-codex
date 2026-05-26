@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:pandas",
+  "name": "Pandas",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-text-extensions-for-pandas-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-text-extensions-for-pandas-for-nlp-use-cases-ray-fred-reiss.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-text-extensions-for-pandas-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-text-extensions-for-pandas-for-nlp-use-cases-ray-fred-reiss"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/283876551/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/285357014/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-text-extensions-for-pandas-event:ibm-data-science-community-text-extensions-for-pandas",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-text-extensions-for-pandas-for-nlp-use-cases-ray-fred-reiss:introduction-to-text-extensions-for-pandas-for-nlp-use-cases-ray"
+  ],
+  "type": "project"
+}

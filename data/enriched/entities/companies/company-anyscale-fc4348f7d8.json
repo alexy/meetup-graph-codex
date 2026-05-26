@@ -1,0 +1,22 @@
+{
+  "id": "company:anyscale",
+  "name": "Anyscale",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-jaikumar-ganesh-anyscale.json",
+    "data/raw/sources/bythebay-20260508-scaling-multimodal-data-and-reinforcement-learning-with-ray-jaikumar-ganesh-anyscale.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-jaikumar-ganesh-anyscale",
+    "bythebay-20260508-scaling-multimodal-data-and-reinforcement-learning-with-ray-jaikumar-ganesh-anyscale"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:jaikumar-ganesh"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-scaling-multimodal-data-and-reinforcement-learning-with-ray-jaikumar-ganesh-anyscale:scaling-multimodal-data-and-reinforcement-learning-with-ray"
+  ],
+  "type": "company"
+}

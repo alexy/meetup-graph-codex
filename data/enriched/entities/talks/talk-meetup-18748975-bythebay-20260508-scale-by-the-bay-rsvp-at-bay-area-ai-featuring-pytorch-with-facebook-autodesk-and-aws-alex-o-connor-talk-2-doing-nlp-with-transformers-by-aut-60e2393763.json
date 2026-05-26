@@ -1,0 +1,40 @@
+{
+  "abstract": "Summary: Since their introduction three years ago, transformers have had an enormous impact on the state of the art for many natural language-based tasks. One interesting aspect of transformer-based systems is that they include large, pre-trained language models which are freely available. This talk will discuss the transformer, and how to fine-tune transformers for use on Sagemaker instances for different applications, including some of the ways they are used in Autodesk’s Digital Help organization",
+  "conference_id": null,
+  "date_time": "2020-02-11T18:00:00-08:00",
+  "end_time": "2020-02-11T20:00:00-08:00",
+  "event_id": "268584447",
+  "event_title": "[RSVP at bay.area.ai] Featuring PyTorch with Facebook, Autodesk and AWS",
+  "github_repositories": [],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor-talk-2:doing-nlp-with-transformers-by-autodesk",
+  "kind": "talk",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/268584447/"
+  ],
+  "speaker_ids": [
+    "speaker:alex-o-connor"
+  ],
+  "speakers": [
+    {
+      "company_name": "the DPE-DHX-DS Data Science Team at Autodesk",
+      "id": "speaker:alex-o-connor",
+      "name": "Alex O'Connor",
+      "title": "Lead Data Scientist"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "“Doing NLP with Transformers” by Autodesk",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/268584447/"
+}

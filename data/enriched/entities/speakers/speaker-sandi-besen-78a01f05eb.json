@@ -1,0 +1,46 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:beeai",
+      "company_name": "BeeAI",
+      "title": null
+    },
+    {
+      "company_id": "company:of-beeai-by-ibm-7-30-pm",
+      "company_name": "of BeeAI by IBM 7:30 pm",
+      "title": null
+    }
+  ],
+  "company_id": "company:beeai",
+  "company_ids": [
+    "company:beeai",
+    "company:of-beeai-by-ibm-7-30-pm"
+  ],
+  "company_name": "BeeAI",
+  "company_names": [
+    "BeeAI",
+    "of BeeAI by IBM 7:30 pm"
+  ],
+  "conference_ids": [],
+  "id": "speaker:sandi-besen",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Sandi Besen",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch",
+    "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/310960653/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch-talk-1:agenda"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

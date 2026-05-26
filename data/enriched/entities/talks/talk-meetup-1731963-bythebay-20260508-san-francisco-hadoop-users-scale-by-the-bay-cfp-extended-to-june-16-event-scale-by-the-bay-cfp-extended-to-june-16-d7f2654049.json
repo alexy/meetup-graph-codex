@@ -1,0 +1,31 @@
+{
+  "abstract": "Scale By the Bay, the iconic developer conference in the Bay Area, comes back live and in person for its 10th Anniversary: http://scale.bythebay.io The CFP is extended by June 16, submit your best talk on distributed systems, big data, ETLs, and data pipelines for ML/AI at http://bay.news/cfp",
+  "conference_id": null,
+  "date_time": "2023-06-16T23:00:00-07:00",
+  "end_time": "2023-06-17T00:00:00-07:00",
+  "event_id": "294108327",
+  "event_title": "Scale By the Bay CFP extended to June 16!",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-cfp-extended-to-june-16-event:scale-by-the-bay-cfp-extended-to-june-16",
+  "kind": "announcement",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-cfp-extended-to-june-16-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-cfp-extended-to-june-16-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/294108327/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "Scale By the Bay CFP extended to June 16!",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/294108327/"
+}

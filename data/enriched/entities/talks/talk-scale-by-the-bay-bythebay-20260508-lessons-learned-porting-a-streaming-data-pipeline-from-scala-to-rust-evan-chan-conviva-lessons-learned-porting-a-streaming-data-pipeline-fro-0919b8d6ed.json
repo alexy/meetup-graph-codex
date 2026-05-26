@@ -1,0 +1,35 @@
+{
+  "abstract": null,
+  "conference_id": "scale-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:scale-by-the-bay:bythebay-20260508-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust-evan-chan-conviva:lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust-evan-chan-conviva.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust-evan-chan-conviva"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:evan-chan"
+  ],
+  "speakers": [
+    {
+      "company_name": "Conviva",
+      "id": "speaker:evan-chan",
+      "name": "Evan Chan",
+      "title": "Principal Software Engineer"
+    }
+  ],
+  "tags": [],
+  "title": "Lessons Learned: Porting a Streaming Data Pipeline from Scala to Rust",
+  "type": "talk",
+  "url": "https://www.scale.bythebay.io/post/evan-chan-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust"
+}

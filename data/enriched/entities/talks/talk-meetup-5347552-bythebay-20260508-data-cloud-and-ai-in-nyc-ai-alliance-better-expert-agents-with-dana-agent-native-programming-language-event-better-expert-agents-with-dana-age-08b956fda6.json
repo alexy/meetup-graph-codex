@@ -1,0 +1,31 @@
+{
+  "abstract": "Every AI agent you build eventually hits the same walls: async complexity, brittle orchestration frameworks, and data that can't leave your infrastructure. What if you could build expert AI agents entirely on your laptop, without sending a single byte to the cloud?This session introduces Dana, a local-first agent programming language designed for building AI agents. Get a working expert agent in minutes: Long running, multi-step agent workflows on a single line: step1 | step2 | [step3a, step3b, step3c] | step4 Built-in concurrency for parallel LLM calls with zero async keywords Deterministic execution with learning loops that improve reliability over time Whether you're dealing with sensitive data, air-gapped requirements, or cloud API limitations-come see what agent development looks like when everything runs locally. About the speaker Vinh Luong, Head of Open Source - Aitomatic About the AI Alliance The AI Alliance is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players. Join the community Sign up for the AI Alliance newsletter (check the website footer) and join our new AI Alliance Discord",
+  "conference_id": null,
+  "date_time": "2025-08-21T12:00:00-04:00",
+  "end_time": "2025-08-21T13:00:00-04:00",
+  "event_id": "310486883",
+  "event_title": "[AI Alliance] Better Expert Agents with Dana, Agent-Native Programming Language",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-better-expert-agents-with-dana-agent-native-programming-language-event:better-expert-agents-with-dana-agent-native-programming-language",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-better-expert-agents-with-dana-agent-native-programming-language-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-better-expert-agents-with-dana-agent-native-programming-language-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/310486883/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Better Expert Agents with Dana, Agent-Native Programming Language",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/310486883/"
+}

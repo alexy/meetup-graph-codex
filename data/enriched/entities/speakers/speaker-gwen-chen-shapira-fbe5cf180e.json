@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:nile",
+      "company_name": "Nile",
+      "title": "Co-Founder and CPO"
+    }
+  ],
+  "company_id": "company:nile",
+  "company_ids": [
+    "company:nile"
+  ],
+  "company_name": "Nile",
+  "company_names": [
+    "Nile"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:gwen-chen-shapira",
+  "meetup_ids": [],
+  "name": "Gwen (Chen) Shapira",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-keynote-things-databases-don-t-do-but-should-gwen-chen-shapira-nile.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-keynote-things-databases-don-t-do-but-should-gwen-chen-shapira-nile"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-keynote-things-databases-don-t-do-but-should-gwen-chen-shapira-nile:keynote-things-databases-don-t-do-but-should"
+  ],
+  "title": "Co-Founder and CPO",
+  "titles": [
+    "Co-Founder and CPO"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-building-tools-with-tools-modern-ai-driven-development-edir-garcia-lazo-sentinelone:building-tools-with-tools-modern-ai-driven-development",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-building-tools-with-tools-modern-ai-driven-development-edir-garcia-lazo-sentinelone.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-building-tools-with-tools-modern-ai-driven-development-edir-garcia-lazo-sentinelone"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:edir-garcia-lazo"
+  ],
+  "speakers": [
+    {
+      "company_name": "SentinelOne",
+      "id": "speaker:edir-garcia-lazo",
+      "name": "Edir Garcia Lazo",
+      "title": "Staff Machine Learning Engineer"
+    }
+  ],
+  "tags": [
+    "Agentic AI",
+    "MCP",
+    "AI Native Coding",
+    "LLMOps"
+  ],
+  "title": "Building Tools with Tools: Modern AI-Driven Development",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/building-tools-with-tools-modern-ai-driven-development"
+}

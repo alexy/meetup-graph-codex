@@ -1,0 +1,31 @@
+{
+  "abstract": "The demands and expectations for applications have changed dramatically in recent years. Applications today are deployed on a wide range of infrastructure; from mobile devices up to thousands of nodes running in the cloud-all powered by multi-core processors. They need to be rich and collaborative, have a real-time feel with millisecond response time and should never stop running. Additionally, modern applications are a mashup of external services that need to be consumed and composed to provide the features at hand. We are seeing a new type of applications emerging to address these new challenges-these are being called Reactive Applications. In this talk we will introduce you to Akka and discuss how it can help you deliver on the four key traits of Reactive; Event-Driven, Scalable, Resilient and Responsive. We will start with the basics of Akka and work our way towards some of its more advanced modules such as Akka Cluster and Akka Persistence. Bio: Jonas Bonér the co-founder and CTO of Typesafe and the inventor Akka. Learn more at: http://jonasboner.com Agenda: 6:30pm doors open 6:50pm announcements, including hiring (prepare a 1 minute pitch if you are hiring!) 7:00pm talk",
+  "conference_id": null,
+  "date_time": "2014-03-20T18:30:00-07:00",
+  "end_time": "2014-03-20T21:30:00-07:00",
+  "event_id": "166180622",
+  "event_title": "Building Reactive Applications with Akka",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-building-reactive-applications-with-akka-event:building-reactive-applications-with-akka",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-building-reactive-applications-with-akka-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-building-reactive-applications-with-akka-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/166180622/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Building Reactive Applications with Akka",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/166180622/"
+}

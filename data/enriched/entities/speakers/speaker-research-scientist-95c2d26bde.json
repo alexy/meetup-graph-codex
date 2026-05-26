@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "IBM Almaden Research Center"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:research-scientist",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Research Scientist",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-introducing-gneissweb-a-state-of-the-art-llm-pre-training-dataset-research-scientist-ibm-almaden-research-center.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gneissweb-a-state-of-the-art-llm-pre-training-dataset-research-scientist-ibm-almaden-research-center.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-introducing-gneissweb-a-state-of-the-art-llm-pre-training-dataset-research-scientist-ibm-almaden-research-center",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gneissweb-a-state-of-the-art-llm-pre-training-dataset-research-scientist-ibm-almaden-research-center"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306423602/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gneissweb-a-state-of-the-art-llm-pre-training-dataset-research-scientist:introducing-gneissweb-a-state-of-the-art-llm-pre-training-dataset"
+  ],
+  "title": "IBM Almaden Research Center",
+  "titles": [
+    "IBM Almaden Research Center"
+  ],
+  "type": "speaker"
+}

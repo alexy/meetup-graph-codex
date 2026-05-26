@@ -1,0 +1,51 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2025-03-20T17:30:00-07:00",
+  "end_time": "2025-03-20T20:30:00-07:00",
+  "event_id": "306180969",
+  "event_title": "Unstructured Data Workshop with Milvus and OpenAI",
+  "github_repositories": [
+    "https://github.com/milvus-io/milvus"
+  ],
+  "id": "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-workshop-with-milvus-and-openai-harry-zhao-openai-talk-2:hands-on-tutorial-building-an-agent-to-reason-about-private-data-with-milvus-stefan-webb-z",
+  "kind": "talk",
+  "meetup_id": "meetup:36468260",
+  "project_ids": [
+    "project:https-github-com-milvus-io-milvus"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-workshop-with-milvus-and-openai-harry-zhao-openai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-workshop-with-milvus-and-openai-harry-zhao-openai-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/306180969/"
+  ],
+  "speaker_ids": [
+    "speaker:stefan-webb",
+    "speaker:harry-zhao"
+  ],
+  "speakers": [
+    {
+      "company_name": "Zilliz",
+      "id": "speaker:stefan-webb",
+      "name": "Stefan Webb",
+      "title": "Developer Advocate"
+    },
+    {
+      "company_name": "OpenAI",
+      "id": "speaker:harry-zhao",
+      "name": "Harry Zhao",
+      "title": "Member of Technical Staff"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Hands-on Tutorial: Building an Agent to Reason about Private Data with Milvus, Stefan Webb, Zilliz",
+  "type": "talk",
+  "url": "https://www.meetup.com/unstructured-data-sf/events/306180969/"
+}

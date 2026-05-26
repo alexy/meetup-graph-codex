@@ -1,0 +1,31 @@
+{
+  "abstract": "Allen Chang, a speaker at Scala FunConf, a graduate student in UCSB, and an intern at Box, will present an overview of Scalaz",
+  "conference_id": null,
+  "date_time": "2013-09-05T19:15:00-07:00",
+  "end_time": "2013-09-05T22:15:00-07:00",
+  "event_id": "133314422",
+  "event_title": "Scalaz: the Warm Fuzzy Scala Library",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scalaz-the-warm-fuzzy-scala-library-event:scalaz-the-warm-fuzzy-scala-library",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scalaz-the-warm-fuzzy-scala-library-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scalaz-the-warm-fuzzy-scala-library-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/133314422/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scalaz: the Warm Fuzzy Scala Library",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/133314422/"
+}

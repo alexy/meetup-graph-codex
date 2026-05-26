@@ -1,0 +1,52 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Google DeepMind Lightning Talks \\- Open source contributors\\, builders\\, and Gemma researchers will do short presentations\\. You’ll hear from the creators of tools such as MLX\\, Unsloth\\, and Cactus Compute Sunset Social - Connect"
+    },
+    {
+      "company_id": "company:google-deepmind-daniel-han-unsloth-mlx",
+      "company_name": "Google DeepMind Daniel Han, Unsloth MLX",
+      "title": "Google DeepMind Daniel Han"
+    }
+  ],
+  "company_id": "company:google-deepmind-daniel-han-unsloth-mlx",
+  "company_ids": [
+    "company:google-deepmind-daniel-han-unsloth-mlx"
+  ],
+  "company_name": "Google DeepMind Daniel Han, Unsloth MLX",
+  "company_names": [
+    "Google DeepMind Daniel Han, Unsloth MLX"
+  ],
+  "conference_ids": [],
+  "id": "speaker:olivier-lacombe",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Olivier Lacombe",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-gemma-4-sf-edition-hermes-agent.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-gemma-4-sf-edition-hermes-agent",
+    "bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent-talk-1",
+    "bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent-talk-2",
+    "bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/314321640/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent-talk-1:brief-agenda",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent-talk-2:detailed-agenda",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent-talk-3:gemma-4-sf-edition"
+  ],
+  "title": "Google DeepMind Lightning Talks \\- Open source contributors\\, builders\\, and Gemma researchers will do short presentations\\. You’ll hear from the creators of tools such as MLX\\, Unsloth\\, and Cactus Compute Sunset Social - Connect",
+  "titles": [
+    "Google DeepMind Lightning Talks \\- Open source contributors\\, builders\\, and Gemma researchers will do short presentations\\. You’ll hear from the creators of tools such as MLX\\, Unsloth\\, and Cactus Compute Sunset Social - Connect",
+    "Google DeepMind Daniel Han"
+  ],
+  "type": "speaker"
+}

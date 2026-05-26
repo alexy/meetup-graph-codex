@@ -1,0 +1,42 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2015-04-29T18:00:00-07:00",
+  "end_time": "2015-04-29T21:00:00-07:00",
+  "event_id": "221893230",
+  "event_title": "Finatra and Finch at Twitter [Eventbrite Only]",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-finatra-and-finch-at-twitter-eventbrite-only-steve-cosenza-talk-1:6-45pm-introducing-finatra-2-0",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:finatra"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-finatra-and-finch-at-twitter-eventbrite-only-steve-cosenza.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-finatra-and-finch-at-twitter-eventbrite-only-steve-cosenza-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/221893230/"
+  ],
+  "speaker_ids": [
+    "speaker:steve-cosenza"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:steve-cosenza",
+      "name": "Steve Cosenza",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "6:45pm: Introducing Finatra 2.0",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/221893230/"
+}

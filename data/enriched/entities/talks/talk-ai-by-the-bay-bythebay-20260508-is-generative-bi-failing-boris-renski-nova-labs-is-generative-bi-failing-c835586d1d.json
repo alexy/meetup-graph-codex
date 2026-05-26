@@ -1,0 +1,38 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-is-generative-bi-failing-boris-renski-nova-labs:is-generative-bi-failing",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-is-generative-bi-failing-boris-renski-nova-labs.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-is-generative-bi-failing-boris-renski-nova-labs"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:boris-renski"
+  ],
+  "speakers": [
+    {
+      "company_name": "Nova Labs",
+      "id": "speaker:boris-renski",
+      "name": "Boris Renski",
+      "title": "Tech Entrep, Core Contributor"
+    }
+  ],
+  "tags": [
+    "Context engineering",
+    "LLMOps"
+  ],
+  "title": "“Is Generative BI failing?\"",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/is-generative-bi-failing"
+}

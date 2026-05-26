@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/Netflix/Hystrix"
+  ],
+  "github_repository": "https://github.com/Netflix/Hystrix",
+  "id": "project:https-github-com-netflix-hystrix",
+  "name": "Hystrix",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/142643212/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-rxjava-reactive-extensions-in-scala-matt-jacobs-netflix:rxjava-reactive-extensions-in-scala"
+  ],
+  "type": "project"
+}

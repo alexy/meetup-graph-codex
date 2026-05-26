@@ -1,0 +1,42 @@
+{
+  "abstract": "Please join us for a community-driven evening of side projects, workshops, lightning talks, and open-source hacking. Try out new ideas from Scala By the Bay and the Scala.js Workshop! Many thanks to Earnest (http://earnest.com), who will be hosting this month's unmeetup. Thanks also to Driver (http://Driver.xyz) for providing refreshments.Important note: You will need to bring ID matching your first and last name from meetup.com to get past security! What is an \"Unmeetup\"? An unmeetup is a casual community-driven, hands-on meetup modeled after unconferences (https://en.wikipedia.org/wiki/Unconference). Members propose topics to discuss and projects to work on, then each individual chooses how to spend their time for the evening. This is complementary to the standard meetup and emphasizes community-building and collaboration. You should join if you: • would like to offer a workshop or lightning talk. • want to find contributors for your open source project. • are new to Scala and want to work with other Scala developers. • are experienced with Scala and want to mentor others. • have cool work-in-progress and want feedback. • just want to hack on a project! A project could be a side projects, open source, or code from work you'd like to bounce ideas about. Agenda 6:00 - Doors Open 6:45 - Welcome and project introductions 7:00 - Project time 8:55 - Wrap up and take the party elsewhere About Earnest Earnest is a financial technology company building the modern bank for the next generation by democratizing access to high-quality financial services. We believe that if we fundamentally re-engineered banking it would look and feel completely different to how it does today - and that is what we have set out to do. We have 40 engineers runing a full stack JavaScript (Angular/React/Node) application on a Scala platform, and it's hosted on AWS. Link: https://www.earnest.com/careers/ /overview About Driver Driver’s mission is to empower cancer patients. Our team of 50+ engineers, scientists, physicians, and other entrepreneurs is building a first-in-kind global platform to connect patients to life-prolonging therapies. Watch out for more information at http://Driver.xyz",
+  "conference_id": null,
+  "date_time": "2016-11-15T18:00:00-08:00",
+  "end_time": "2016-11-15T21:00:00-08:00",
+  "event_id": "235317732",
+  "event_title": "SF Scala UnMeetup @ Earnest",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-earnest-earnest-earnest:sf-scala-unmeetup-earnest",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:scala"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-earnest-earnest-earnest.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-earnest-earnest-earnest"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/235317732/"
+  ],
+  "speaker_ids": [
+    "speaker:earnest-earnest"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:earnest-earnest",
+      "name": "Earnest Earnest",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "SF Scala UnMeetup @ Earnest",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/235317732/"
+}

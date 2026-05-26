@@ -1,0 +1,47 @@
+{
+  "abstract": "This is a spontaneous holiday event! Ho-ho-ho. Come join the scalding community to learn and discuss cool things Twitter, Linkedin and Rackspace are doing with data and scalding (scala on hadoop). We have a great group of speakers lined up for this event so should be a really interesting set of presentations and discussions. Food and drinks will be provided. Come meet new people and learn what others are doing in the scalding community!",
+  "conference_id": null,
+  "date_time": "2013-12-12T18:30:00-08:00",
+  "end_time": "2013-12-12T21:30:00-08:00",
+  "event_id": "154954962",
+  "event_title": "Scalding at Twitter, LinkedIn, and (+event@) Rackspace",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scalding-at-twitter-linkedin-and-event-rackspace-nick-kolegraff:scalding-at-twitter-linkedin-and-event-rackspace",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scalding-at-twitter-linkedin-and-event-rackspace-nick-kolegraff.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scalding-at-twitter-linkedin-and-event-rackspace-nick-kolegraff"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/154954962/"
+  ],
+  "speaker_ids": [
+    "speaker:nick-kolegraff",
+    "speaker:vitaly-gordon"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:nick-kolegraff",
+      "name": "Nick Kolegraff",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:vitaly-gordon",
+      "name": "Vitaly Gordon",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scalding at Twitter, LinkedIn, and (+event@) Rackspace",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/154954962/"
+}

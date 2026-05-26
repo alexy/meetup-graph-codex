@@ -1,0 +1,35 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:matthew-tovbin-co-founder",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:2891482"
+  ],
+  "name": "Matthew Tovbin Co-Founder",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-cross-post-from-scala-bay-fueling-software-automation-with-scala-graphql-join-zoom-meeting.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-matthew-tovbin-fueling-software-automation-with-scala-graphql-join-zoom-meeting-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-matthew-tovbin-fueling-software-automation-with-scala-graphql-join-zoom-meeting.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-cross-post-from-scala-bay-fueling-software-automation-with-scala-graphql-join-zoom-meeting",
+    "bythebay-20260508-scala-bay-matthew-tovbin-fueling-software-automation-with-scala-graphql-join-zoom-meeting-2",
+    "bythebay-20260508-scala-bay-matthew-tovbin-fueling-software-automation-with-scala-graphql-join-zoom-meeting"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/271782551/",
+    "https://www.meetup.com/scala-bay/events/271744135/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-matthew-tovbin-fueling-software-automation-with-scala-graphql-join-zoom-meeting:matthew-tovbin-fueling-software-automation-with-scala-graphql",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-cross-post-from-scala-bay-fueling-software-automation-with-scala-graphql-join-zoom-meeting:fueling-software-automation-with-scala-graphql"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

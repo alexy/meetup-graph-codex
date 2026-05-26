@@ -1,0 +1,47 @@
+{
+  "abstract": "Scala 3 offers a rich and expressive type system-but to unlock its potential you need to understand it. In this talk we will walk you through the key concepts, including bounds, kinds, variance, type lambdas, type and kind lattices, polymorphic functions, abstract types, and wildcard type arguments. We'll give you mental models that can help you use the type system effectively in your day-to-day Scala coding",
+  "conference_id": null,
+  "date_time": "2025-07-17T17:30:00-07:00",
+  "end_time": "2025-07-17T20:00:00-07:00",
+  "event_id": "308661435",
+  "event_title": "Demystifying Scala 3 Types & Securing sensitive data in logs like a pro",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-talk-1:demystifying-scala-3-types",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-demystifying-scala-3-types-securing-sensitive-data-in-logs-like-a-pro-bahul-jain-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/308661435/"
+  ],
+  "speaker_ids": [
+    "speaker:bill-venners",
+    "speaker:frank-sommers"
+  ],
+  "speakers": [
+    {
+      "company_name": "Artima, Inc",
+      "id": "speaker:bill-venners",
+      "name": "Bill Venners",
+      "title": "president"
+    },
+    {
+      "company_name": null,
+      "id": "speaker:frank-sommers",
+      "name": "Frank Sommers",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Demystifying Scala 3 Types",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/308661435/"
+}

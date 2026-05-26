@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:normal-computing",
+      "company_name": "Normal Computing",
+      "title": "VP of Engineering"
+    }
+  ],
+  "company_id": "company:normal-computing",
+  "company_ids": [
+    "company:normal-computing"
+  ],
+  "company_name": "Normal Computing",
+  "company_names": [
+    "Normal Computing"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:erik-meijer",
+  "meetup_ids": [],
+  "name": "Erik Meijer",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-erik-meijer-vp-of-engineering.json",
+    "data/raw/sources/bythebay-20260508-verifiably-safe-agentic-compute-erik-meijer.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-erik-meijer-vp-of-engineering",
+    "bythebay-20260508-verifiably-safe-agentic-compute-erik-meijer"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-verifiably-safe-agentic-compute-erik-meijer:verifiably-safe-agentic-compute"
+  ],
+  "title": "VP of Engineering",
+  "titles": [
+    "VP of Engineering"
+  ],
+  "type": "speaker"
+}

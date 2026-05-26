@@ -1,0 +1,55 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-hadoop",
+  "name": "Apache Hadoop",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-big-data-and-the-evolving-data-warehouse-event.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-february-sf-hadoop-users-meetup-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-spark-notebook-and-rapture-workshops-med-at-scale.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-semantic-indexing-of-four-million-documents-with-apache-spark-mintdata-event.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-october-2015-meetup-todd-lipcon.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-may-2016-meetup-event.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-september-2016-meetup-event.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-sf-spark-sf-hadoop-joint-meetup-at-strata-apache-spot-and-kudu-cyber-threats-apache-spot.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-register-at-sfhadoop-org-sf-spark-sf-hadoop-at-strata-apache-spot-apache-kudu-cyber-threats-apache-spot.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-big-data-and-the-evolving-data-warehouse-event",
+    "bythebay-20260508-san-francisco-hadoop-users-february-sf-hadoop-users-meetup-event-talk-1",
+    "bythebay-20260508-sf-scala-spark-notebook-and-rapture-workshops-med-at-scale-talk-1",
+    "bythebay-20260508-sf-data-and-ai-engineering-semantic-indexing-of-four-million-documents-with-apache-spark-mintdata-event",
+    "bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar",
+    "bythebay-20260508-san-francisco-hadoop-users-october-2015-meetup-todd-lipcon",
+    "bythebay-20260508-san-francisco-hadoop-users-may-2016-meetup-event",
+    "bythebay-20260508-san-francisco-hadoop-users-september-2016-meetup-event",
+    "bythebay-20260508-san-francisco-hadoop-users-sf-spark-sf-hadoop-joint-meetup-at-strata-apache-spot-and-kudu-cyber-threats-apache-spot",
+    "bythebay-20260508-sf-data-and-ai-engineering-register-at-sfhadoop-org-sf-spark-sf-hadoop-at-strata-apache-spot-apache-kudu-cyber-threats-apache-spot"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/143660022/",
+    "https://www.meetup.com/hadoopsf/events/219049335/",
+    "https://www.meetup.com/sf-scala/events/220522086/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/222858278/",
+    "https://www.meetup.com/hadoopsf/events/222870784/",
+    "https://www.meetup.com/hadoopsf/events/224616149/",
+    "https://www.meetup.com/hadoopsf/events/229848416/",
+    "https://www.meetup.com/hadoopsf/events/233741637/",
+    "https://www.meetup.com/hadoopsf/events/237145958/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/238019344/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-big-data-and-the-evolving-data-warehouse-event:big-data-and-the-evolving-data-warehouse",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-february-sf-hadoop-users-meetup-event-talk-1:transparent-encryption-in-hdfs",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-spark-notebook-and-rapture-workshops-med-at-scale-talk-1:spark-notebook-beefed-up-repl-for-reproducible-distributed-data-analysis-andy-petrella",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-semantic-indexing-of-four-million-documents-with-apache-spark-mintdata-event:semantic-indexing-of-four-million-documents-with-apache-spark-mintdata",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-july-2015-meetup-amir-sanjar:hadoop-from-complexity-to-simplicity",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-october-2015-meetup-todd-lipcon:resolving-transactional-access-analytic-performance-trade-offs-in-hadoop-with-kudu",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-may-2016-meetup-event:may-2016-meetup",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-september-2016-meetup-event:september-2016-meetup",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-sf-spark-sf-hadoop-joint-meetup-at-strata-apache-spot-and-kudu-cyber-threats-apache-spot:sf-spark-sf-hadoop-joint-meetup-at-strata-apache-spot-and-kudu",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-register-at-sfhadoop-org-sf-spark-sf-hadoop-at-strata-apache-spot-apache-kudu-cyber-threats-apa:sf-spark-sf-hadoop-at-strata-apache-spot-apache-kudu"
+  ],
+  "type": "project"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "company:bluedata",
+  "name": "BlueData",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-january-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-january-sf-hadoop-users-meetup-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/219049168/"
+  ],
+  "speaker_ids": [
+    "speaker:tom-phelan"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-january-sf-hadoop-users-meetup-event-talk-1:hadoop-use-cases-vs-run-time-environments"
+  ],
+  "type": "company"
+}

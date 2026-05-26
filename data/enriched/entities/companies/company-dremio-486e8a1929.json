@@ -1,0 +1,20 @@
+{
+  "id": "company:dremio",
+  "name": "Dremio",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-alex-merced-dremio.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-alex-merced-dremio"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:alex-merced"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-open-standards-and-lakehouse-ai-development-arrow-flight-apache-iceberg-and-mcp-alex-merced-dremio-co-author-of-o-reilly-s:open-standards-and-lakehouse-ai-development-arrow-flight-apache-iceberg-and-mcp"
+  ],
+  "type": "company"
+}

@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:java",
+  "name": "Java",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-websphere-user-group-roadshow-liberty-and-eclipse-openj9-jvm-performance-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-evolution-of-casbah-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-websphere-user-group-roadshow-liberty-and-eclipse-openj9-jvm-performance-event",
+    "bythebay-20260508-sf-scala-evolution-of-casbah-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/284636226/",
+    "https://www.meetup.com/sf-scala/events/52512152/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-websphere-user-group-roadshow-liberty-and-eclipse-openj9-jvm-performance-event:websphere-user-group-roadshow-liberty-and-eclipse-openj9-jvm-performance",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-evolution-of-casbah-event:evolution-of-casbah"
+  ],
+  "type": "project"
+}

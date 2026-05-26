@@ -1,0 +1,26 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:yelp-s-mapreduce",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Yelp's MapReduce",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-january-2013-san-francisco-hadoop-user-meetup-sudarshan-gaikaiwari-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-january-2013-san-francisco-hadoop-user-meetup-sudarshan-gaikaiwari-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/95687012/"
+  ],
+  "talk_ids": [],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

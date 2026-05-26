@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/docling-project/docling"
+  ],
+  "github_repository": "https://github.com/docling-project/docling",
+  "id": "project:https-github-com-docling-project-docling",
+  "name": "Docling",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-ai-in-nyc-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-ai-in-nyc-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/308115626/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-open-source-ai-in-nyc-event:open-source-ai-in-nyc"
+  ],
+  "type": "project"
+}

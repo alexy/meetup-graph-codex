@@ -1,0 +1,31 @@
+{
+  "abstract": "To attend - you must register here https://luma.com/0crwqwg4 Registration closes 24 hours before the event. We cannot admit unregistered attendees. llm-d Distributed Inference Meetup Hosted by Red Hat AI, IBM Research, and AMD, this event takes place on March 11, 2026 in New York City. What to Expect Deep technical sessions from llm-d maintainers, committers, and teams using AI at scale Live demos focused on real distributed workflows Great networking with food and drinks Who Should Attend ML and infra engineers working on inference and serving Platform teams running GenAI in production Anyone curious about efficient inference across local, cloud, and Kubernetes",
+  "conference_id": null,
+  "date_time": "2026-03-11T16:30:00-04:00",
+  "end_time": "2026-03-11T20:30:00-04:00",
+  "event_id": "313503372",
+  "event_title": "Distributed Inference Meetup NYC",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-distributed-inference-meetup-nyc-event:distributed-inference-meetup-nyc",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-distributed-inference-meetup-nyc-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-distributed-inference-meetup-nyc-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/313503372/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Distributed Inference Meetup NYC",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/313503372/"
+}

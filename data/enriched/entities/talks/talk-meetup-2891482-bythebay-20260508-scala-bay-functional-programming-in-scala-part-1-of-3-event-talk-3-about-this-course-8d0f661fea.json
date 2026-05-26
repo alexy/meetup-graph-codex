@@ -1,0 +1,31 @@
+{
+  "abstract": "This course will be held online To join our zoom please RSVP on https://lu.ma/scala to get the zoom link We are also streaming the course live on Twitch if you want to join here: https://www.twitch.tv/softinio This is part 1 of 3 of this course. See/Subscribe to our Calendar to RSVP to the other parts here: https://lu.ma/scala",
+  "conference_id": null,
+  "date_time": "2025-01-25T09:00:00-08:00",
+  "end_time": "2025-01-25T11:00:00-08:00",
+  "event_id": "305629540",
+  "event_title": "Functional Programming in Scala - Part 1 of 3",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-functional-programming-in-scala-part-1-of-3-event-talk-3:about-this-course",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-functional-programming-in-scala-part-1-of-3-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-functional-programming-in-scala-part-1-of-3-event-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/305629540/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "About this course",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/305629540/"
+}

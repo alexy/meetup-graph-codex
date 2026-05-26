@@ -1,0 +1,28 @@
+{
+  "id": "scale-by-the-bay",
+  "name": "Scale By the Bay",
+  "site": "scale.bythebay.io",
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-aging-evolving-software-tools-and-ourselves-jeremy-smith-netflix:aging-evolving-software-tools-and-ourselves",
+    "talk:scale-by-the-bay:bythebay-20260508-apache-iceberg-enabling-an-open-lakehouse-architecture-for-large-scale-analytics-dipankar-mazumdar-onehouse-ai:apache-iceberg-enabling-an-open-lakehouse-architecture-for-large-scale-analytics",
+    "talk:scale-by-the-bay:bythebay-20260508-building-scalable-distributed-systems-powered-by-dapr-oss-kendall-roden-diagrid:building-scalable-distributed-systems-powered-by-dapr-oss",
+    "talk:scale-by-the-bay:bythebay-20260508-full-stack-scala-web-application-pathikrit-bhowmick-coatue-management:full-stack-scala-web-application",
+    "talk:scale-by-the-bay:bythebay-20260508-gateway-to-the-future-a-brief-history-of-kubernetes-ingress-viktor-gamov-kong:gateway-to-the-future-a-brief-history-of-kubernetes-ingress",
+    "talk:scale-by-the-bay:bythebay-20260508-keynote-ai-quantum-and-ai-quantum-what-s-real-what-s-coming-and-what-s-the-point-anthony-annunziuata-ibm:keynote-ai-quantum-and-ai-quantum-whats-real-whats-coming-and-whats-the-point",
+    "talk:scale-by-the-bay:bythebay-20260508-keynote-things-databases-don-t-do-but-should-gwen-chen-shapira-nile:keynote-things-databases-don-t-do-but-should",
+    "talk:scale-by-the-bay:bythebay-20260508-latency-goes-sub-second-in-apache-spark-structured-streaming-karthik-ramasamy-databricks:latency-goes-sub-second-in-apache-spark-structured-streaming",
+    "talk:scale-by-the-bay:bythebay-20260508-lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust-evan-chan-conviva:lessons-learned-porting-a-streaming-data-pipeline-from-scala-to-rust",
+    "talk:scale-by-the-bay:bythebay-20260508-oblivious-privacy-in-a-statically-typed-world-sinan-pehlivanoglu-vmware:oblivious-privacy-in-a-statically-typed-world",
+    "talk:scale-by-the-bay:bythebay-20260508-open-source-ai-coding-assistants-the-future-of-software-development-beyang-liu-sourcegraph:open-source-ai-coding-assistants-the-future-of-software-development",
+    "talk:scale-by-the-bay:bythebay-20260508-open-source-science-vs-open-source-software-what-s-different-what-s-the-same-dean-wampler-ibm-research:open-source-science-vs-open-source-software-what-s-different-what-s-the-same",
+    "talk:scale-by-the-bay:bythebay-20260508-pinot-why-are-you-so-fast-tim-berglund-startree:pinot-why-are-you-so-fast",
+    "talk:scale-by-the-bay:bythebay-20260508-pytorch-2-1-new-developments-supriya-rao-meta:pytorch-2-1-new-developments",
+    "talk:scale-by-the-bay:bythebay-20260508-scaling-embeddings-in-real-time-zander-matheson-bytewax:scaling-embeddings-in-real-time",
+    "talk:scale-by-the-bay:bythebay-20260508-test-driven-development-for-large-language-model-applications-josh-tobin-gantry:test-driven-development-for-large-language-model-applications",
+    "talk:scale-by-the-bay:bythebay-20260508-too-far-too-furious-multi-region-cloud-applications-denis-magda-yugabyte:too-far-too-furious-multi-region-cloud-applications",
+    "talk:scale-by-the-bay:bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-goncalo-martins-ribeiro-ydata:unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml",
+    "talk:scale-by-the-bay:bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success-fabiana-clemente-ydata:unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success"
+  ],
+  "type": "conference",
+  "url": "https://scale.bythebay.io/"
+}

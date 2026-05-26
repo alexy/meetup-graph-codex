@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:cs-dojo",
+      "company_name": "CS Dojo",
+      "title": "Founder"
+    }
+  ],
+  "company_id": "company:cs-dojo",
+  "company_ids": [
+    "company:cs-dojo"
+  ],
+  "company_name": "CS Dojo",
+  "company_names": [
+    "CS Dojo"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:yk-sugi",
+  "meetup_ids": [],
+  "name": "YK Sugi",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-yk-sugi-cs-dojo.json",
+    "data/raw/sources/bythebay-20260508-agentic-coding-with-discipline-and-skill-practical-techniques-and-tips-yk-sugi-cs-dojo.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-yk-sugi-cs-dojo",
+    "bythebay-20260508-agentic-coding-with-discipline-and-skill-practical-techniques-and-tips-yk-sugi-cs-dojo"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-agentic-coding-with-discipline-and-skill-practical-techniques-and-tips-yk-sugi-cs-dojo:agentic-coding-with-discipline-and-skill-practical-techniques-and-tips"
+  ],
+  "title": "Founder",
+  "titles": [
+    "Founder"
+  ],
+  "type": "speaker"
+}

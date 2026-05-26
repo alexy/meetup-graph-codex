@@ -1,0 +1,42 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:rob-thomas",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Rob Thomas",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-5-cloud-without-compromise-rob-thomas-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-2-ibm-expert-day-rob-thomas.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-3-ibm-innovation-day-rob-thomas.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-4-user-group-day-2-rob-thomas.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-5-cloud-without-compromise-rob-thomas.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-5-cloud-without-compromise-rob-thomas-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-2-ibm-expert-day-rob-thomas",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-3-ibm-innovation-day-rob-thomas",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-4-user-group-day-2-rob-thomas",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-5-cloud-without-compromise-rob-thomas"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/281967210/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/281961195/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/281966964/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/281967090/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-2-ibm-expert-day-rob-thomas:ibm-community-festival-2021-day-2-ibm-expert-day",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-3-ibm-innovation-day-rob-thomas:ibm-community-festival-2021-day-3-ibm-innovation-day",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-4-user-group-day-2-rob-thomas:ibm-community-festival-2021-day-4-user-group-day-2",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-festival-2021-day-5-cloud-without-compromise-rob-thomas:ibm-community-festival-2021-day-5-cloud-without-compromise"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

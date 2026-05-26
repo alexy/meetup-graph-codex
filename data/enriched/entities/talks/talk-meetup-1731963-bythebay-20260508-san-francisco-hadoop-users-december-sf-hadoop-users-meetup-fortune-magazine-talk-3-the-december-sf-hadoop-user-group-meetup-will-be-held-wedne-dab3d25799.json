@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2014-12-10T18:00:00-08:00",
+  "end_time": "2014-12-10T21:00:00-08:00",
+  "event_id": "219004016",
+  "event_title": "December SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-december-sf-hadoop-users-meetup-fortune-magazine-talk-3:the-december-sf-hadoop-user-group-meetup-will-be-held-wednesday-december-10-from-6-00pm-to",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-december-sf-hadoop-users-meetup-fortune-magazine.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-december-sf-hadoop-users-meetup-fortune-magazine-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/219004016/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The December SF Hadoop User Group meetup will be held Wednesday, December 10 from 6:00pm to 8:00pm. This meetup will be hosted",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/219004016/"
+}

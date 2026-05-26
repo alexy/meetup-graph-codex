@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:sbt-web",
+  "name": "sbt-web",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-introducing-sbt-web-with-james-ward-1-2-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-introducing-sbt-web-with-james-ward-1-2-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/175176582/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-introducing-sbt-web-with-james-ward-1-2-event:introducing-sbt-web-with-james-ward-1-2"
+  ],
+  "type": "project"
+}

@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:meta",
+      "company_name": "Meta",
+      "title": "Eng. Leader (EM) - Ranking & Foundational AI"
+    }
+  ],
+  "company_id": "company:meta",
+  "company_ids": [
+    "company:meta"
+  ],
+  "company_name": "Meta",
+  "company_names": [
+    "Meta"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:tosh-rayadhurgam",
+  "meetup_ids": [],
+  "name": "Tosh Rayadhurgam",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-tosh-rayadhurgam-meta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-tosh-rayadhurgam-meta"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [],
+  "title": "Eng. Leader (EM) - Ranking & Foundational AI",
+  "titles": [
+    "Eng. Leader (EM) - Ranking & Foundational AI"
+  ],
+  "type": "speaker"
+}

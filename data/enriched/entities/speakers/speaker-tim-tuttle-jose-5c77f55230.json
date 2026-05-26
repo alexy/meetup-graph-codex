@@ -1,0 +1,33 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:tim-tuttle-jose",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:18601481"
+  ],
+  "name": "Tim Tuttle Jose",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-cisco-spark-open-platform-for-ai-more-bots-tim-tuttle.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-register-at-bay-area-ai-cisco-spark-open-platform-for-ai-more-bots-tim-tuttle.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-cisco-spark-open-platform-for-ai-more-bots-tim-tuttle",
+    "bythebay-20260508-sf-data-and-ai-engineering-register-at-bay-area-ai-cisco-spark-open-platform-for-ai-more-bots-tim-tuttle"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/240492139/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/240491553/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-register-at-bay-area-ai-cisco-spark-open-platform-for-ai-more-bots-tim-tuttle:cisco-spark-open-platform-for-ai-more-bots",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-cisco-spark-open-platform-for-ai-more-bots-tim-tuttle:cisco-spark-open-platform-for-ai-more-bots"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2020-09-16T18:00:00-07:00",
+  "end_time": "2020-09-16T20:00:00-07:00",
+  "event_id": "272898761",
+  "event_title": "Ninny json: type classes & Tools from the Scala community to learn & teach Scala",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-4:30pm-q-a-followed",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-4"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/272898761/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "30pm Q & A followed",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/272898761/"
+}

@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:joseph-bradley",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Joseph Bradley",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-workshop-spark-and-machine-learning-joseph-bradley-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-workshop-spark-and-machine-learning-joseph-bradley.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-workshop-spark-and-machine-learning-joseph-bradley-2",
+    "bythebay-20260508-sf-scala-workshop-spark-and-machine-learning-joseph-bradley"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/208085622/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-workshop-spark-and-machine-learning-joseph-bradley:workshop-spark-and-machine-learning"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

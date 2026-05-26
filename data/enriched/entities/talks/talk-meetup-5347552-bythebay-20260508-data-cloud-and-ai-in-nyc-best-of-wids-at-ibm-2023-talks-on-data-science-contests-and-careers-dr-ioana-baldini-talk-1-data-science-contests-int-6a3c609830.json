@@ -1,0 +1,40 @@
+{
+  "abstract": "· Speaker: Sneha Varghese, Senior Technical Staff Member, IBM · Duration: 30 minutes including Q&A",
+  "conference_id": null,
+  "date_time": "2023-07-26T08:00:00-04:00",
+  "end_time": "2023-07-26T09:00:00-04:00",
+  "event_id": "293933975",
+  "event_title": "Best of WiDS at IBM 2023: Talks on Data Science Contests and Careers",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-talk-1:data-science-contests-introduction-how-they-can-help-your-career",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293933975/"
+  ],
+  "speaker_ids": [
+    "speaker:sneha-varghese"
+  ],
+  "speakers": [
+    {
+      "company_name": "IBM · Duration: 30 minutes including Q&A",
+      "id": "speaker:sneha-varghese",
+      "name": "Sneha Varghese",
+      "title": "Senior Technical Staff Member"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Data Science Contests Introduction: How they can help your career",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/293933975/"
+}

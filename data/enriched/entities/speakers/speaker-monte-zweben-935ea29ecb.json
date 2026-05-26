@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Splice Machine Transactions are critical in traditional RDBMSs because they ensure reliable updates across multiple rows and tables. Most operational applications require transactions, but even analytics systems use transactions to reliably update secondary indexes after a record insert or update. In the Hadoop ecosystem, HBase is a key-value store"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:monte-zweben",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Monte Zweben",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-spark-hadoop-at-splice-machine-dear-huggers-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-march-sf-hadoop-users-meetup-event.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-spark-hadoop-at-splice-machine-dear-huggers.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-spark-hadoop-at-splice-machine-dear-huggers-2",
+    "bythebay-20260508-san-francisco-hadoop-users-march-sf-hadoop-users-meetup-event-talk-2",
+    "bythebay-20260508-san-francisco-hadoop-users-spark-hadoop-at-splice-machine-dear-huggers"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/234247659/",
+    "https://www.meetup.com/hadoopsf/events/219155223/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-march-sf-hadoop-users-meetup-event-talk-2:using-hbase-as-a-foundation-of-a-distributed-transactional-rdbms",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-spark-hadoop-at-splice-machine-dear-huggers:spark-hadoop-at-splice-machine"
+  ],
+  "title": "Splice Machine Transactions are critical in traditional RDBMSs because they ensure reliable updates across multiple rows and tables. Most operational applications require transactions, but even analytics systems use transactions to reliably update secondary indexes after a record insert or update. In the Hadoop ecosystem, HBase is a key-value store",
+  "titles": [
+    "Splice Machine Transactions are critical in traditional RDBMSs because they ensure reliable updates across multiple rows and tables. Most operational applications require transactions, but even analytics systems use transactions to reliably update secondary indexes after a record insert or update. In the Hadoop ecosystem, HBase is a key-value store"
+  ],
+  "type": "speaker"
+}

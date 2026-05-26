@@ -1,0 +1,33 @@
+{
+  "abstract": "It's the sixth year that we are organizing our flagship Scale By the Bay conference, and it's a truly spectacular tech event many of you know very well. For those who are new to SBTB, I would love to invite you to attend. And if you'd like to present, we'd like to see your talk! The CFP for SBTB 2018 is now open through May 31: http://scale.bythebay.io/cfp.html Give it your best shot, or two, as the rate of high-quality submissions is already very high. At Scale By The Bay, returning to Twitter HQ in San Francisco on November 15-17, 2018, you can connect with fellow senior software engineers, CTOs, VPs/Directors of Engineering, developers and technical founders who never stop learning. Embrace the whole end-to-end software stacks and infrastructure running them, put together your own SMACK Stack, operationalize reactive micro services and data pipelines, build streaming data infrastructure for actionable, real-time insights, and deep-dive into practical aspects of full-stack architectures and developer productivity. We'll have a stellar program: the full-stack Scala and Functional Programming conference with world authorities on practical FP, beginning with Martin Odersky, the creator of Scala, who comes back to keynote SBTB! the fast data pipelines done right, with Neha Narkhede, the co-creator of Apache Kafka and co-founder of Confluent, keynoting FP+ML: Functional Programming for Machine Learning, a topic even more current today when TensorFlow for Swift has been unveiled Throughout the three track, three day event, we'll weave the themes of open-source development, type safety, full-stack acrhitectures, with the emerging areas of ML and AI so that you can learn all about it if you want to. At the same time, we'll make sure we're still, and always, the best in the software engineering realm with solid understanding of distributed systems, from operations up to services to streaming algorithms. We firmly believe that thoughtful software engineering with the right reusable abstractions and best practices around development is key to everything. We want to link this approach to more things and see more use cases. We especially welcome FP+ML talks this year. Please note that we go forward at Scale. We welcome production use cases of all thoughtfully designed software stacks, including Scala, Haskell, Swift, Rust, Clojure, F , and so on. We welcome Java, C++, Go, and other systems, especially in the microservice, polyglot environment. Our SMACK 2.0 plan, unveiled at the Index conference, calls for Streaming, in-Memory architectures, API-centric, Containerized and running on Kubernetes. We welcome submissions on all levels of these new systems, starting with orchestration. No matter where you are along the full-stack spectrum, you need thoughtful software engineering, reactive and streaming architectures, manageable micro services, and scalable data pipelines that can work together with modern ML frameworks for immediate customer insights. Join the SBTB family at Twitter HQ again this year, see how companies like Twitter are built in software, build your own, and share your findings with others! See you in November at Twitter HQ! Dr. Alexy Khrabrov, Program Chair, By the Bay PS. If you are in Europe and can't wait, By the Bay comes to Amsterdam as RethinkTrust.org, out first signature engineering take on enterprise trust systems with blockchain and hyperledger in energy, fintech, IoT, and other real-world use cases. Our tech includes Swift and Scala, scalability and security of trust systems, their performance and enterprise stacks integration - the topics rarely, if ever, covered at general blockchain events. Use the code TRUSTBYTHEBAY for 15% off and join us in Amsterdam!",
+  "conference_id": null,
+  "date_time": "2018-05-31T19:00:00-07:00",
+  "end_time": "2018-05-31T21:00:00-07:00",
+  "event_id": "251033990",
+  "event_title": "Scale By the Bay 2018 CFP is Open until May 31",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2018-cfp-is-open-until-may-31-event:scale-by-the-bay-2018-cfp-is-open-until-may-31",
+  "kind": "announcement",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [
+    "project:apache-kafka"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2018-cfp-is-open-until-may-31-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-scale-by-the-bay-2018-cfp-is-open-until-may-31-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/251033990/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "Scale By the Bay 2018 CFP is Open until May 31",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/251033990/"
+}

@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:avi-bryant",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Avi Bryant",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-scale-by-the-bay-2018-alexis-roos-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-scale-by-the-bay-2018-alexis-roos.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-scale-by-the-bay-2018-alexis-roos-2",
+    "bythebay-20260508-bay-area-ai-scale-by-the-bay-2018-alexis-roos"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/253653627/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-scale-by-the-bay-2018-alexis-roos:scale-by-the-bay-2018"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

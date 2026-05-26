@@ -1,0 +1,40 @@
+{
+  "abstract": "Peter Potts spoke at Scala by the Bay on the Cake Pattern in Practice. We wanted Peter to speak again for those in the company didn't get to attend Scala by the Bay, and wanted to open it up to those in the industry that might be interested in attending. The event will be Wednesday, October 8th at 6 PM (doors open at 5:30 PM) If you'd like to share this talk the eventbrite link is below. We do need people to sign up so we can clear them with security in our building. KIXEYE will provide drinks and snacks. https://kixeyescala.eventbrite.com Peter Potts is a Principal Architect in the Services Engineering team at KIXEYE. He develops highly scalable Scala and Akka based backend systems for massively multiplayer online (MMO) games. He studied Mathematics at the University of Cambridge and received a PhD in Theoretical Computing at Imperial College London. The Cake Pattern is a strongly typed solution for Dependency Injection (DI) and Aspect-Oriented Programming (AOP) using only the constructs available in the Scala programming language. The pattern was first explained by Martin Odersky and further illuminated by Jonas Bonér. In this talk, we will demonstrate practical ways to use the Cake Pattern. We will cover ways to handle scope, configuration, initialization, actors, modularization and how to manage the proliferation of boilerplate and obtuse compiler errors",
+  "conference_id": null,
+  "date_time": "2014-10-08T17:30:00-07:00",
+  "end_time": "2014-10-08T20:00:00-07:00",
+  "event_id": "208797822",
+  "event_title": "Peter Potts - The Cake Pattern in Practice",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-peter-potts-the-cake-pattern-in-practice-martin-odersky:peter-potts-the-cake-pattern-in-practice",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-peter-potts-the-cake-pattern-in-practice-martin-odersky.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-peter-potts-the-cake-pattern-in-practice-martin-odersky"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/208797822/"
+  ],
+  "speaker_ids": [
+    "speaker:martin-odersky"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:martin-odersky",
+      "name": "Martin Odersky",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Peter Potts - The Cake Pattern in Practice",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/208797822/"
+}

@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ibm",
+      "company_name": "IBM",
+      "title": null
+    }
+  ],
+  "company_id": "company:ibm",
+  "company_ids": [
+    "company:ibm"
+  ],
+  "company_name": "IBM",
+  "company_names": [
+    "IBM"
+  ],
+  "conference_ids": [],
+  "id": "speaker:mihai-criveti",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Mihai Criveti",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-contextforge-mcp-gateway-consulting-advantage.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-contextforge-mcp-gateway-consulting-advantage.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-contextforge-mcp-gateway-consulting-advantage",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-contextforge-mcp-gateway-consulting-advantage"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/310585244/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-contextforge-mcp-gateway-consulting-advantage:contextforge-mcp-gateway"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

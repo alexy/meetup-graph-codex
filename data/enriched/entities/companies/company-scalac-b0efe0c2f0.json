@@ -1,0 +1,27 @@
+{
+  "id": "company:scalac",
+  "name": "Scalac",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-ducktape-holding-scala-s-productivity-together-scala-center-aleksander-rainko-scalac-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-ducktape-holding-scala-s-productivity-together-scala-center-aleksander-rainko-scalac.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-ducktape-holding-scala-s-productivity-together-scala-center-aleksander-rainko-scalac-2",
+    "bythebay-20260508-sf-scala-ducktape-holding-scala-s-productivity-together-scala-center-aleksander-rainko-scalac",
+    "bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/293127812/",
+    "https://www.meetup.com/scala-bay/events/293127928/"
+  ],
+  "speaker_ids": [
+    "speaker:aleksander-rainko"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-ducktape-holding-scala-s-productivity-together-scala-center-aleksander-rainko-scalac:ducktape-holding-scala-s-productivity-together-scala-center",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko:ducktape-holding-scala-s-productivity-together",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko:ducktape-scala-productivity-holden-karau-scala-center"
+  ],
+  "type": "company"
+}

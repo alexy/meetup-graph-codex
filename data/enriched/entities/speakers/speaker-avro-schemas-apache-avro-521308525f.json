@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:avro-schemas-apache-avro",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Avro Schemas Apache Avro",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-by-the-bay-meetup-at-nitro-fp-meets-ml-avro-schemas-apache-avro-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-by-the-bay-meetup-at-nitro-fp-meets-ml-avro-schemas-apache-avro.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-by-the-bay-meetup-at-nitro-fp-meets-ml-avro-schemas-apache-avro-2",
+    "bythebay-20260508-sf-scala-scala-by-the-bay-meetup-at-nitro-fp-meets-ml-avro-schemas-apache-avro"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/224365444/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-by-the-bay-meetup-at-nitro-fp-meets-ml-avro-schemas-apache-avro:scala-by-the-bay-meetup-at-nitro-fp-meets-ml"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

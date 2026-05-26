@@ -1,0 +1,31 @@
+{
+  "abstract": "We are relaunching the IBM Meetup Network. Find out how your local group may be impacted and how you can get involved. Registration: Please make sure to pre-register ahead of time (it can take a few minutes for the confirmation email to hit your inbox). Thanks! Agenda: 1\\. Welcome and introductions \\(5'\\) 2\\. IBM Meetup Network: 2024 relaunch \\(10'\\) 3\\. Q&A \\(15'\\) Background: IBM currently maintains two meetup networks, IBM Developer (54 groups) and IBM Community (110 groups). There are many duplicates between the two (i.e., two or more groups in one city). We will create one unified presence and consolidate the total number of groups to around 90. For groups that will be sunsetted, we may invite you to join another group in your area. Details will be shared with each impacted group over the coming weeks. Over the past few years, a large number of groups had become inactive for various reasons. Our goal is to revitalize the network, both bottom-up (through locally organized in-person or hybrid events) and top-down (through centrally organized virtual events to serve the entire network). We will be looking for volunteers to join our local organizing teams. Details will become available soon. Interested in joining your local organizing team? Please join our IBM Meetup Network Slack (link valid through 3/14). Each city has its own channel, just find yours. We look forward to having you!",
+  "conference_id": null,
+  "date_time": "2024-03-13T18:00:00-04:00",
+  "end_time": "2024-03-13T18:30:00-04:00",
+  "event_id": "299563385",
+  "event_title": "IBM Meetup Network: Community Office Hours 5",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-meetup-network-community-office-hours-5-event:ibm-meetup-network-community-office-hours-5",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-meetup-network-community-office-hours-5-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-meetup-network-community-office-hours-5-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/299563385/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "IBM Meetup Network: Community Office Hours 5",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/299563385/"
+}

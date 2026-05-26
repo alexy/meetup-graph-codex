@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:jenny-hwang",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Jenny Hwang",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-be-ready-for-our-preferred-future-what-is-strategic-foresight-jenny-hwang-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-be-ready-for-our-preferred-future-what-is-strategic-foresight-jenny-hwang.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-be-ready-for-our-preferred-future-what-is-strategic-foresight-jenny-hwang-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-be-ready-for-our-preferred-future-what-is-strategic-foresight-jenny-hwang-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-be-ready-for-our-preferred-future-what-is-strategic-foresight-jenny-hwang",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-be-ready-for-our-preferred-future-what-is-strategic-foresight-jenny-hwang-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/295180700/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/295180362/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-be-ready-for-our-preferred-future-what-is-strategic-foresight-jenny-hwang:how-to-be-ready-for-our-preferred-future-what-is-strategic-foresight",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-how-to-be-ready-for-our-preferred-future-what-is-strategic-foresight-jenny-hwang-3:how-to-be-ready-for-our-preferred-future-what-is-strategic-foresight"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

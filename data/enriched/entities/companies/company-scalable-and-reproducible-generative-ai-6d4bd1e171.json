@@ -1,0 +1,16 @@
+{
+  "id": "company:scalable-and-reproducible-generative-ai",
+  "name": "Scalable and Reproducible Generative AI",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-annie-talvasto-annie-talvasto-vshn.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-annie-talvasto-annie-talvasto-vshn"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:annie-talvasto"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

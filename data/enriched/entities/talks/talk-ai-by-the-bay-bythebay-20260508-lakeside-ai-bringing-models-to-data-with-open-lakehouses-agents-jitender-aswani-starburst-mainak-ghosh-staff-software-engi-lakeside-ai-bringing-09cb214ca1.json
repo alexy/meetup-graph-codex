@@ -1,0 +1,54 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-lakeside-ai-bringing-models-to-data-with-open-lakehouses-agents-jitender-aswani-starburst-mainak-ghosh-staff-software-engi:lakeside-ai-bringing-models-to-data-with-open-lakehouses-agents",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-lakeside-ai-bringing-models-to-data-with-open-lakehouses-agents-jitender-aswani-starburst-mainak-ghosh-staff-software-engineer-starburst-martin-traverso-cto.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-lakeside-ai-bringing-models-to-data-with-open-lakehouses-agents-jitender-aswani-starburst-mainak-ghosh-staff-software-engineer-starburst-martin-traverso-cto"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:jitender-aswani",
+    "speaker:mainak-ghosh",
+    "speaker:martin-traverso"
+  ],
+  "speakers": [
+    {
+      "company_name": "Starburst",
+      "id": "speaker:jitender-aswani",
+      "name": "Jitender Aswani",
+      "title": "Senior VP of Engineering"
+    },
+    {
+      "company_name": "Starburst",
+      "id": "speaker:mainak-ghosh",
+      "name": "Mainak Ghosh",
+      "title": "Staff Software Engineer"
+    },
+    {
+      "company_name": "Starburst",
+      "id": "speaker:martin-traverso",
+      "name": "Martin Traverso",
+      "title": "CTO"
+    }
+  ],
+  "tags": [
+    "RAG",
+    "AI Infrastructure",
+    "Streaming",
+    "Open Data Lake"
+  ],
+  "title": "Lakeside AI: Bringing Models to Data with Open Lakehouses & Agents",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/lakeside-ai-bringing-models-to-data-with-open-lakehouses-agents"
+}

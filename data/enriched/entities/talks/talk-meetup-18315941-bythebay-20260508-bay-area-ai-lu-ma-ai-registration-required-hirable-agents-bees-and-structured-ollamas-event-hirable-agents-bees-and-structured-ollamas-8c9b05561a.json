@@ -1,0 +1,35 @@
+{
+  "abstract": "You have to be registered on lu.ma/ ai for this meetup to attend. AI.bythebay.io early bird registration is open! In this massive technical deep dive, Bay Area AI presents talks on Bee, agentic framework from IBM, Hirable Agents from Humatron, and Structured Output from Ollama. Thank you our sponsors: - Cloudflare hosting - AI Alliance food and drinks - Neo4j video recording! Introducing the Bee AI Agent Platform Max Maximilien, IBM Research Bee is an Open Source AI Agent platform that is LLM agnostic and comes with a full OSS stack to create no-code agents. In this talk we will give a hands on demonstration of various agents and use cases using Bee. This includes creating new agents and tools live and using them with audience participation. Additionally, we will discuss plans and roadmap for the next 6 months, including showing Bee Hive which extends Bee with multiagency. Michael Maximilien (aka Max or Dr. Max) is distinguished engineer at IBM Research where he leads the open multiagent research team. In that capacity he leads the research and development of the Bee Hive addition to the Bee Platform. Max has over 25 years experience in software research and development. He is an avid Leica photographer and cyclist. AI worker = AI Agent you can Hire Nikita Ivanov, Founder and CEO, Humatron.ai AI is changing how we work, introducing the concept of \"AI workers\" - autonomous agents that can be hired to perform tasks, solve problems, and support human teams. This presentation explores what AI workers are, how they are different from AI agents, and what powers them under the hood. We’ll discuss real-world uses and will look at Humatron AI platform, the first dedicated API platform that allows to transform any GenAI or agentic implementation into hirable AI workers.\" Nikita is a founder of Humatron AI. He was also the original creator of Apache Ignite and Apache NLPCraft as well as the founder of GridGain Systems . But his most passionate creation is the CosPlay engine - one and only pure ASCII game engine. Structured Output with Ollama Parth Sareen, Ollama Learn how to generate structured JSON with text and vision models using Ollama! Parth is a Software Engineer at Ollama. He's worked on on-device ML systems for Siri at Apple, and large-scale distributed systems at Tesla",
+  "conference_id": null,
+  "date_time": "2025-02-20T17:30:00-08:00",
+  "end_time": "2025-02-20T20:30:00-08:00",
+  "event_id": "306246245",
+  "event_title": "[lu.ma/ ai registration required] Hirable Agents, Bees, and Structured Ollamas!",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-hirable-agents-bees-and-structured-ollamas-event:hirable-agents-bees-and-structured-ollamas",
+  "kind": "announcement",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [
+    "project:apache-ignite",
+    "project:apache-nlpcraft",
+    "project:oss"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-hirable-agents-bees-and-structured-ollamas-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-hirable-agents-bees-and-structured-ollamas-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/306246245/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "Hirable Agents, Bees, and Structured Ollamas!",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/306246245/"
+}

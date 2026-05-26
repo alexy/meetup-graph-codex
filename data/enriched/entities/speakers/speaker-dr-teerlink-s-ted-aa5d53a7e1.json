@@ -1,0 +1,28 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:dr-teerlink-s-ted",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Dr. Teerlink's Ted",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-cognifest-working-enterprise-ai-city-s-silicon-alley.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-cognifest-working-enterprise-ai-city-s-silicon-alley"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/244262292/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-cognifest-working-enterprise-ai-city-s-silicon-alley:the-digitization-of-society-through-cognitive-technology-such-as-ibm-watson-and-big-data-a"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

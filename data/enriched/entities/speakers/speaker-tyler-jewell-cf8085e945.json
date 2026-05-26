@@ -1,0 +1,51 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:akka",
+      "company_name": "Akka",
+      "title": "CEO & President"
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "CEO & President of Akka"
+    }
+  ],
+  "company_id": "company:akka",
+  "company_ids": [
+    "company:akka"
+  ],
+  "company_name": "Akka",
+  "company_names": [
+    "Akka"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:tyler-jewell",
+  "meetup_ids": [],
+  "name": "Tyler Jewell",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-tyler-jewell-akka.json",
+    "data/raw/sources/bythebay-20260508-live-demo-develop-and-deploy-a-trustworthy-multi-agent-system-tyler-jewell.json",
+    "data/raw/sources/bythebay-20260508-the-future-of-agentic-ai-architecting-the-global-control-plane-tyler-jewell.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-tyler-jewell-akka",
+    "bythebay-20260508-live-demo-develop-and-deploy-a-trustworthy-multi-agent-system-tyler-jewell",
+    "bythebay-20260508-the-future-of-agentic-ai-architecting-the-global-control-plane-tyler-jewell"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-live-demo-develop-and-deploy-a-trustworthy-multi-agent-system-tyler-jewell:live-demo-develop-and-deploy-a-trustworthy-multi-agent-system",
+    "talk:ai-by-the-bay:bythebay-20260508-the-future-of-agentic-ai-architecting-the-global-control-plane-tyler-jewell:the-future-of-agentic-ai-architecting-the-global-control-plane"
+  ],
+  "title": "CEO & President",
+  "titles": [
+    "CEO & President",
+    "CEO & President of Akka"
+  ],
+  "type": "speaker"
+}

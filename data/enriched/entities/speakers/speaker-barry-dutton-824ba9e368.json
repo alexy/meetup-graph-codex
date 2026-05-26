@@ -1,0 +1,47 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:credit-karma",
+      "company_name": "Credit Karma",
+      "title": null
+    }
+  ],
+  "company_id": "company:credit-karma",
+  "company_ids": [
+    "company:credit-karma"
+  ],
+  "company_name": "Credit Karma",
+  "company_names": [
+    "Credit Karma"
+  ],
+  "conference_ids": [],
+  "id": "speaker:barry-dutton",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:20929747"
+  ],
+  "name": "Barry Dutton",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma-2.json",
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma.json",
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma-2",
+    "bythebay-20260508-graphql-by-the-bay-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma-2",
+    "bythebay-20260508-sf-scala-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma",
+    "bythebay-20260508-graphql-by-the-bay-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/258714284/",
+    "https://www.meetup.com/graphql-by-the-bay/events/258714481/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma:distributed-graphql-for-enterprise-systems",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-distributed-graphql-for-enterprise-systems-barry-dutton-credit-karma:distributed-graphql-for-enterprise-systems"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

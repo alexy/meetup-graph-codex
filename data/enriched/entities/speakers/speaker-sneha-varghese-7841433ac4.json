@@ -1,0 +1,56 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ibm-duration-30-minutes-including-q-a",
+      "company_name": "IBM · Duration: 30 minutes including Q&A",
+      "title": "Senior Technical Staff Member"
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Senior Technical Staff Member, IBM · Duration: 30 mins including Q&A WiDS"
+    }
+  ],
+  "company_id": "company:ibm-duration-30-minutes-including-q-a",
+  "company_ids": [
+    "company:ibm-duration-30-minutes-including-q-a"
+  ],
+  "company_name": "IBM · Duration: 30 minutes including Q&A",
+  "company_names": [
+    "IBM · Duration: 30 minutes including Q&A"
+  ],
+  "conference_ids": [],
+  "id": "speaker:sneha-varghese",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Sneha Varghese",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-talk-1",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-talk-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-3-talk-1",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-3-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293934058/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/293933975/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-talk-1:data-science-contests-introduction-how-they-can-help-your-career",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-talk-2:career-fireside-chat",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-3-talk-1:data-science-contests-introduction-how-they-can-help-your-career",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-best-of-wids-at-ibm-2023-talks-on-data-science-contests-and-careers-dr-ioana-baldini-3-talk-2:career-fireside-chat"
+  ],
+  "title": "Senior Technical Staff Member",
+  "titles": [
+    "Senior Technical Staff Member",
+    "Senior Technical Staff Member, IBM · Duration: 30 mins including Q&A WiDS"
+  ],
+  "type": "speaker"
+}

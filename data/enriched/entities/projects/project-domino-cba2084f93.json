@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:domino",
+  "name": "Domino",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-what-s-new-in-scala-3-martin-odersky.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-what-s-new-in-scala-3-martin-odersky"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/274111863/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-what-s-new-in-scala-3-martin-odersky:what-s-new-in-scala-3"
+  ],
+  "type": "project"
+}

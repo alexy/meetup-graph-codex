@@ -1,0 +1,31 @@
+{
+  "abstract": "REGISTER HERE: http://bit.ly/2vmYZYN NOTE: This is a global event online - Event is Eastern Standard Time. Join us for IBM Community Day: Business Ready Data for AI to be held on April 25th from 7:00 am to 5:00 pm. This is a free one-day virtual conference targeted for Enterprise Architects, Data Architects, Data Governance Leaders, GRC Leaders, CAO, CDO, Data Stewards, Data Engineers as well as a multitude of other roles, who want to learn about how to govern trusted data for use with AI. AI is not magic; it requires a thoughtful and well-architected approach. Most AI failures are due to poor data preparation and organization, not the AI model themselves. Building a trusted, business-ready analytics foundation is a necessary step in unlocking the value of AI across organizations. This multi-track event is designed for live interactions between speakers and attendees, and will introduce a technical track as well as strategy and innovation sessions and success stories with Business Partners and Clients. Attendees will have the option to schedule a one-on-one meeting with speakers (dependent upon availability) after the conference for additional information. The one-on-ones are conducted through the conference platform. Here is an example of some of the topics that will be covered: • Successful Data Lakes • Master Data Management • Cognitive Data Governance • Application Modernization • Unstructured Data Management • Data Integration • Data Quality • Data Catalog • Information Server & Data Stage It's a packed full day and we're positive that you will learn a lot. REGISTER HERE: http://bit.ly/2vmYZYN (please note that you must register at the above link to be part of the Community Day, and not just RSVP)",
+  "conference_id": null,
+  "date_time": "2019-04-25T07:00:00-04:00",
+  "end_time": "2019-04-25T17:00:00-04:00",
+  "event_id": "260842287",
+  "event_title": "IBM Community Day: Business Ready Data for AI",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-day-business-ready-data-for-ai-event:ibm-community-day-business-ready-data-for-ai",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-day-business-ready-data-for-ai-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-community-day-business-ready-data-for-ai-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/260842287/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "IBM Community Day: Business Ready Data for AI",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/260842287/"
+}

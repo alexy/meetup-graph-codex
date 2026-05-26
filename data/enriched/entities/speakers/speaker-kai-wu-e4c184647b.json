@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:meta",
+      "company_name": "Meta",
+      "title": null
+    }
+  ],
+  "company_id": "company:meta",
+  "company_ids": [
+    "company:meta"
+  ],
+  "company_name": "Meta",
+  "company_names": [
+    "Meta"
+  ],
+  "conference_ids": [],
+  "id": "speaker:kai-wu",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Kai Wu",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-llama-stack-kai-wu-meta.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introduction-to-llama-stack-kai-wu-meta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-llama-stack-kai-wu-meta",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introduction-to-llama-stack-kai-wu-meta"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/310378555/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introduction-to-llama-stack-kai-wu-meta:introduction-to-llama-stack"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

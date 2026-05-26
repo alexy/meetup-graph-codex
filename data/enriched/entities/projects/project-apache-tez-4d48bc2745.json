@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-tez",
+  "name": "Apache Tez",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scalding-on-tez-registration-via-eventbrite-only-event.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-scalding-on-tez-registration-via-eventbrite-only-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scalding-on-tez-registration-via-eventbrite-only-event",
+    "bythebay-20260508-sf-data-and-ai-engineering-scalding-on-tez-registration-via-eventbrite-only-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/223796338/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/223796970/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scalding-on-tez-registration-via-eventbrite-only-event:scalding-on-tez-registration-via-eventbrite-only",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-scalding-on-tez-registration-via-eventbrite-only-event:scalding-on-tez-registration-via-eventbrite-only"
+  ],
+  "type": "project"
+}

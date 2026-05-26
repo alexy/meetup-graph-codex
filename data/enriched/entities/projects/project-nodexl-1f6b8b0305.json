@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:nodexl",
+  "name": "NodeXL",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-data-for-society-product-managing-ai-and-ai-for-code-event.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-data-for-society-product-managing-ai-and-ai-for-code-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-data-for-society-product-managing-ai-and-ai-for-code-event",
+    "bythebay-20260508-san-francisco-hadoop-users-data-for-society-product-managing-ai-and-ai-for-code-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/240597202/",
+    "https://www.meetup.com/hadoopsf/events/240660462/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-data-for-society-product-managing-ai-and-ai-for-code-event:data-for-society-product-managing-ai-and-ai-for-code",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-data-for-society-product-managing-ai-and-ai-for-code-event:data-for-society-product-managing-ai-and-ai-for-code"
+  ],
+  "type": "project"
+}

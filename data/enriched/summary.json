@@ -1,0 +1,18 @@
+{
+  "counts": {
+    "companies": 185,
+    "conferences": 2,
+    "edges": 3399,
+    "meetups": 9,
+    "nodes": 2310,
+    "projects": 219,
+    "speakers": 677,
+    "talks": 1218
+  },
+  "outputs": {
+    "batch_records": "data/enriched/batches",
+    "entities": "data/enriched/bythebay-entities.json",
+    "graph": "data/enriched/bythebay-enriched-graph.json",
+    "per_entity_records": "data/enriched/entities"
+  }
+}

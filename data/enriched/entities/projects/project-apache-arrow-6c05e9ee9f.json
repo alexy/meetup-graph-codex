@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-arrow",
+  "name": "Apache Arrow",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-kiar-key-value-store-with-mvcc-based-transaction-system-by-sandeep-virdi-salar-rahmanian.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-kiar-key-value-store-with-mvcc-based-transaction-system-by-sandeep-virdi-salar-rahmanian-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/275839287/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-kiar-key-value-store-with-mvcc-based-transaction-system-by-sandeep-virdi-salar-rahmanian-talk-1:kiar-key-value-store-with-mvcc-based-transaction-system"
+  ],
+  "type": "project"
+}

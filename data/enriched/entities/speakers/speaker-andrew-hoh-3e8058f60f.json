@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:andrew-hoh",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Andrew Hoh",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-building-a-deep-research-agent-using-mcp-agent-andrew-hoh.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-building-a-deep-research-agent-using-mcp-agent-andrew-hoh.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-building-a-deep-research-agent-using-mcp-agent-andrew-hoh",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-building-a-deep-research-agent-using-mcp-agent-andrew-hoh"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/311169111/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-building-a-deep-research-agent-using-mcp-agent-andrew-hoh:building-a-deep-research-agent-using-mcp-agent"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

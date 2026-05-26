@@ -1,0 +1,54 @@
+{
+  "abstract": "Scala Days (https://na.scaladays.org) was held on June 17-21 in NYC with keynotes from Martin Odersky and many others. It is an event filled with many exciting announcements and learnings from the Scala community. At this event we will be recapping Scala Days, our speakers will share with you everything Scala and related that was uncovered at Scala Days this year. In addition, Our featured speaker for the night will be: Eugene Burmako (https://twitter.com/xeno by) Language tools lead at Twitter, member of the Scala language committee, founder of Rsc, Scalameta and Scala Macros. In early 2017, we set out to develop a suite of tools to enrich code browsing, code review and code evolution at Twitter with semantic knowledge. To turn this vision into reality, we had to find a way to scale semantic tools for Scala to millions of lines of code that Twitter developers are working with every day. Fast forward one year, we have indexed our source code into an easily accessible service and are using this index to power a family of next-generation tools. Join our talk to see how this approach works in practice and learn about our future plans. Following Eugene, Iterable will present on two prominent themes that were observed at Scala Days: faster tooling in Scala and Data streaming & processing. Bio of Speakers from Iterable: Thomas Kim: Thomas Kim is an engineer at Iterable. He has been living and working in San Francisco since 2001. He was formerly a tech lead on Workday Search. Prior to that, he was the CTO of a small BI startup and an early engineer at Salesforce. He loves dogs, snowboarding, and statically typed functional programming. Being a bandwagon Warriors fan makes his wife laugh. Jie Ren: Jie Ren dreamt of being in the WNBA as a child, but is a now a software engineer at Iterable. She joined Iterable from Workday where she worked on Recruiting Search and ETL, heavily leveraging Elasticsearch. Prior to that, she used Java to build a web charting library, because she wanted to get instant visual gratification from writing type-safe code. She is currently dabbling in motorcycles. Greg Methvin: Greg Methvin has been programming in Scala professionally since 2012. He is a maintainer for the Play Framework and a contributor to Scala, Akka, and several other open source Scala projects. He is currently the tech lead for Iterable’s backend team. He enjoys using Scala to solve big infrastructure challenges in a fast-paced startup environment Charles Ruhland: Charles is a software engineer at Iterable, focusing on scaling their backend architecture with Elasticsearch, RabbitMQ, and Postgres. Previously he worked at Mesosphere on Cosmos, the open-source package management API for DC/OS. He became hooked on functional programming while getting his Bachelor's in CS at CMU, and has been an enthusiastic Scala user for the last six years. Agenda 6pm - Event Starts with networking, Food and Beer 6.30pm - Welcome to SF Scala hosted by Salar Rahmanian 6.35pm - Talk by Eugene Burmako 7.30pm - Scala Days 2018 Recap with Speakers from Iterable 8.30pm - Networking, Food and Beer Many thanks to Iterable (https://iterable.com) for sponsoring this event and providing speakers, event space, Food and beer",
+  "conference_id": null,
+  "date_time": "2018-07-10T18:00:00-07:00",
+  "end_time": "2018-07-10T21:00:00-07:00",
+  "event_id": "251902203",
+  "event_title": "Scala Days 2018 Recap",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako:scala-days-2018-recap",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/251902203/"
+  ],
+  "speaker_ids": [
+    "speaker:eugene-burmako",
+    "speaker:salar-rahmanian",
+    "speaker:thomas-kim"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:eugene-burmako",
+      "name": "Eugene Burmako",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:salar-rahmanian",
+      "name": "Salar Rahmanian",
+      "title": null
+    },
+    {
+      "company_name": "Iterable",
+      "id": "speaker:thomas-kim",
+      "name": "Thomas Kim",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scala Days 2018 Recap",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/251902203/"
+}

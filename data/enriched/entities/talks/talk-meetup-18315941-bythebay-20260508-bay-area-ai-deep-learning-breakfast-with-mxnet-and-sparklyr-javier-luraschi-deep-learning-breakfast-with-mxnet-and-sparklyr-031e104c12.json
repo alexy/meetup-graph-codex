@@ -1,0 +1,63 @@
+{
+  "abstract": "These are the two morning sessions of the Cognitive Frameworks Festival http://festival.framework.foundation We start with the Sparklyr talk from RStudio, and continue with Apache MXNet talk from Amazon. Please note this is a free community conference, so space is limited. This session is the morning one, so only RSVP is you can be there in the morning! Coffee will be served.:)",
+  "conference_id": null,
+  "date_time": "2017-06-08T10:00:00-07:00",
+  "end_time": "2017-06-08T12:00:00-07:00",
+  "event_id": "240486931",
+  "event_title": "Deep Learning Breakfast with MXNet and Sparklyr",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi:deep-learning-breakfast-with-mxnet-and-sparklyr",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [
+    "project:apache-mxnet"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-deep-learning-breakfast-with-mxnet-and-sparklyr-javier-luraschi"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/240486931/"
+  ],
+  "speaker_ids": [
+    "speaker:javier-luraschi",
+    "speaker:rstudio-javier",
+    "speaker:sunil-mallya",
+    "speaker:sunil-mallya-sunil"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:javier-luraschi",
+      "name": "Javier Luraschi",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:rstudio-javier",
+      "name": "RStudio Javier",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:sunil-mallya",
+      "name": "Sunil Mallya",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:sunil-mallya-sunil",
+      "name": "Sunil Mallya Sunil",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Deep Learning Breakfast with MXNet and Sparklyr",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/240486931/"
+}

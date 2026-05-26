@@ -1,0 +1,35 @@
+{
+  "abstract": null,
+  "conference_id": "scale-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:scale-by-the-bay:bythebay-20260508-test-driven-development-for-large-language-model-applications-josh-tobin-gantry:test-driven-development-for-large-language-model-applications",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-test-driven-development-for-large-language-model-applications-josh-tobin-gantry.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-test-driven-development-for-large-language-model-applications-josh-tobin-gantry"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:josh-tobin"
+  ],
+  "speakers": [
+    {
+      "company_name": "Gantry",
+      "id": "speaker:josh-tobin",
+      "name": "Josh Tobin",
+      "title": "CEO"
+    }
+  ],
+  "tags": [],
+  "title": "Test-driven development for large language model applications",
+  "type": "talk",
+  "url": "https://www.scale.bythebay.io/post/josh-tobin-test-driven-development-for-large-language-model-applications"
+}

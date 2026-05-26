@@ -1,0 +1,61 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:databricks",
+      "company_name": "Databricks",
+      "title": null
+    }
+  ],
+  "company_id": "company:databricks",
+  "company_ids": [
+    "company:databricks"
+  ],
+  "company_name": "Databricks",
+  "company_names": [
+    "Databricks"
+  ],
+  "conference_ids": [],
+  "id": "speaker:chris-hoshino-fish",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:18315941",
+    "meetup:18601481",
+    "meetup:18748975"
+  ],
+  "name": "Chris Hoshino-Fish",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks-2",
+    "bythebay-20260508-bay-area-ai-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks-2",
+    "bythebay-20260508-scale-by-the-bay-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks-2",
+    "bythebay-20260508-bay-area-ai-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks",
+    "bythebay-20260508-scale-by-the-bay-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks",
+    "bythebay-20260508-sf-data-and-ai-engineering-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks",
+    "bythebay-20260508-san-francisco-hadoop-users-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/268095027/",
+    "https://www.meetup.com/bay-area-ai/events/267812020/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/268094706/",
+    "https://www.meetup.com/bythebay/events/268094176/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databricks:starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fish-databric:starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fis:starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake-chris-hoshino-fis:starting-2020-at-microsoft-reactor-making-apache-spark-better-with-delta-lake"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

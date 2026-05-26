@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:hilton-san-jose-session",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Hilton San Jose Session",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-2h-workshop-how-to-start-online-business-free-san-francisco-hilton-san-jose-session-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-2h-workshop-how-to-start-online-business-free-san-francisco-hilton-san-jose-session.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-2h-workshop-how-to-start-online-business-free-san-francisco-hilton-san-jose-session-2",
+    "bythebay-20260508-scala-bay-2h-workshop-how-to-start-online-business-free-san-francisco-hilton-san-jose-session"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/224509078/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-2h-workshop-how-to-start-online-business-free-san-francisco-hilton-san-jose-session:2h-workshop-how-to-start-online-business-free-san-francisco"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

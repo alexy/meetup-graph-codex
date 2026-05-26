@@ -1,0 +1,31 @@
+{
+  "abstract": "We cover two exciting topics with two excellent speakers in our February meetup. Evan Chan will talk about building data pipelines with Akka. Haoyi Li will show us the state of the art in ScalaJS, and how it can be used to easily write games in Scala that run as Javascript in the browser. Akka is the go-to framework in the Scala world for concurrent / reactive / distributed event-driven applications, and underlies important web frameworks like Play and Spray. In this talk, Evan will share about different systems that we built using Akka at Ooyala, as well as an abstraction called the Stackable Trait pattern that allows one to build monitoring and message tracing semantics around Akka in a completely type-safe and easy to understand way. ScalaJS is something that most people have probably heard of but probably haven't taken seriously. In this talk, Haoyi will show you the current state of development in ScalaJS, by live-coding a working video-game in the middle of the 1-hour talk. From the setup, to the debugging, to the final publishing, you will get front row seats in what it's like to work on a project using ScalaJS. Apart from the game-building, he will go through how ScalaJS works and other new developments that bring ScalaJS ever closer to practicality. Agenda: 6:30pm doors open 6:50pm announcements, including hiring 7:00pm Akka 8:00pm ScalaJS UPDATE: we need video sponsors or volunteer videographers for this meetup. See member email for details, and email alexy@scalable.pro if you can help",
+  "conference_id": null,
+  "date_time": "2014-02-27T18:30:00-08:00",
+  "end_time": "2014-02-27T21:30:00-08:00",
+  "event_id": "165084672",
+  "event_title": "Akka at Ooyala and Scala.js",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-akka-at-ooyala-and-scala-js-event:akka-at-ooyala-and-scala-js",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-akka-at-ooyala-and-scala-js-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-akka-at-ooyala-and-scala-js-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/165084672/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Akka at Ooyala and Scala.js",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/165084672/"
+}

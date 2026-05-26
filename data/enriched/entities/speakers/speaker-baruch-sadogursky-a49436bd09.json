@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:tuxcare",
+      "company_name": "TuxCare",
+      "title": "Head of Developer Relations"
+    }
+  ],
+  "company_id": "company:tuxcare",
+  "company_ids": [
+    "company:tuxcare"
+  ],
+  "company_name": "TuxCare",
+  "company_names": [
+    "TuxCare"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:baruch-sadogursky",
+  "meetup_ids": [],
+  "name": "Baruch Sadogursky",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-baruch-sadogursky-tuxcare.json",
+    "data/raw/sources/bythebay-20260508-can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question-baruch-sadogursky-tuxcare-leonid-igolnik-executive-vice-president-of-engineering.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-baruch-sadogursky-tuxcare",
+    "bythebay-20260508-can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question-baruch-sadogursky-tuxcare-leonid-igolnik-executive-vice-president-of-engineering"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question-baruch-sadogursky-tuxcare-leonid-igolnik-executi:can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question"
+  ],
+  "title": "Head of Developer Relations",
+  "titles": [
+    "Head of Developer Relations"
+  ],
+  "type": "speaker"
+}

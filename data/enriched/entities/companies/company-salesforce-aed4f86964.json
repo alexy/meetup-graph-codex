@@ -1,0 +1,60 @@
+{
+  "id": "company:salesforce",
+  "name": "Salesforce",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-rsvp-at-reactive-systems-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-functional-linear-algebra-and-holiday-party-by-the-bay-vlad-patryshev-salesforce-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization-ibm-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-james-ward-intro-to-akka-streams-james-ward-salesforce-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-narek-asadorian-functional-programming-the-enterprise-edition-einstein-activity-capture-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization-ibm.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-eventbrite-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-functional-linear-algebra-and-holiday-party-by-the-bay-vlad-patryshev-salesforce.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-james-ward-intro-to-akka-streams-james-ward-salesforce.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-narek-asadorian-functional-programming-the-enterprise-edition-einstein-activity-capture.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization",
+    "bythebay-20260508-sf-scala-rsvp-at-reactive-systems-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce",
+    "bythebay-20260508-bay-area-ai-functional-linear-algebra-and-holiday-party-by-the-bay-vlad-patryshev-salesforce-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization-ibm-2",
+    "bythebay-20260508-scale-by-the-bay-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce-2",
+    "bythebay-20260508-scala-bay-james-ward-intro-to-akka-streams-james-ward-salesforce-2",
+    "bythebay-20260508-scala-bay-narek-asadorian-functional-programming-the-enterprise-edition-einstein-activity-capture-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization-ibm",
+    "bythebay-20260508-san-francisco-hadoop-users-eventbrite-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization",
+    "bythebay-20260508-bay-area-ai-functional-linear-algebra-and-holiday-party-by-the-bay-vlad-patryshev-salesforce",
+    "bythebay-20260508-scala-bay-james-ward-intro-to-akka-streams-james-ward-salesforce",
+    "bythebay-20260508-scala-bay-narek-asadorian-functional-programming-the-enterprise-edition-einstein-activity-capture",
+    "bythebay-20260508-scale-by-the-bay-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/240397065/",
+    "https://www.meetup.com/sf-scala/events/270368246/",
+    "https://www.meetup.com/bay-area-ai/events/245572610/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/240303624/",
+    "https://www.meetup.com/bythebay/events/270368083/",
+    "https://www.meetup.com/scala-bay/events/248179725/",
+    "https://www.meetup.com/scala-bay/events/248517175/"
+  ],
+  "speaker_ids": [
+    "speaker:kenneth-chen",
+    "speaker:ryan-michela",
+    "speaker:vlad-patryshev",
+    "speaker:james-ward",
+    "speaker:narek-asadorian"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas-talk-1:putting-functional-programming-to-work",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimization-ibm:spark-watson-and-einstein-spark-tc-salesforce-and-rstudio",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-eventbrite-spark-watson-and-einstein-spark-tc-salesforce-and-rstudio-hyperparameter-optimizatio:spark-watson-and-einstein-spark-tc-salesforce-and-rstudio",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-functional-linear-algebra-and-holiday-party-by-the-bay-vlad-patryshev-salesforce:functional-linear-algebra-and-holiday-party-by-the-bay",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-narek-asadorian-functional-programming-the-enterprise-edition-einstein-activity-capture:narek-asadorian-functional-programming-the-enterprise-edition",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce:reactive-microservices-end-to-end-with-grpc",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-rsvp-at-reactive-systems-reactive-microservices-end-to-end-with-grpc-ryan-michela-salesforce:reactive-microservices-end-to-end-with-grpc"
+  ],
+  "type": "company"
+}

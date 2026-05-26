@@ -1,0 +1,48 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:sambanova",
+      "company_name": "SambaNova",
+      "title": "Head of DevRel and Product Marketing"
+    },
+    {
+      "company_id": "company:sambanova",
+      "company_name": "SambaNova",
+      "title": "Head of Developer Relations and Product Marketing"
+    }
+  ],
+  "company_id": "company:sambanova",
+  "company_ids": [
+    "company:sambanova"
+  ],
+  "company_name": "SambaNova",
+  "company_names": [
+    "SambaNova"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:vasanth-mohan",
+  "meetup_ids": [],
+  "name": "Vasanth Mohan",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-vasanth-mohan-sambanova.json",
+    "data/raw/sources/bythebay-20260508-beyond-gpus-why-ai-agents-need-a-need-new-hardware-vasanth-mohan-sambanova.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-vasanth-mohan-sambanova",
+    "bythebay-20260508-beyond-gpus-why-ai-agents-need-a-need-new-hardware-vasanth-mohan-sambanova"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-beyond-gpus-why-ai-agents-need-a-need-new-hardware-vasanth-mohan-sambanova:beyond-gpus-why-ai-agents-need-a-need-new-hardware"
+  ],
+  "title": "Head of DevRel and Product Marketing",
+  "titles": [
+    "Head of DevRel and Product Marketing",
+    "Head of Developer Relations and Product Marketing"
+  ],
+  "type": "speaker"
+}

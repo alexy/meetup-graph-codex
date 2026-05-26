@@ -1,0 +1,40 @@
+{
+  "abstract": "Join us at CUNY Graduate Center for a day filled with inspiring talks, workshops, and networking opportunities. Whether you're a seasoned data scientist or just starting out, this event is perfect for anyone interested in the world of data science. Learn from industry experts, connect with like-minded individuals, and gain valuable insights into the latest trends in data science. Don't miss this chance to be part of a supportive community of women in the data science field. Mark your calendars and get ready for an unforgettable experience at Women in Data Science - New York City May 2025! WiDS New York City is independently organized by Vanishri Murali, Vasanthi Gopal, Maria Alejandra Sanchez, Paulina Toro Isaza, Calphurnia John, Sneha Varghese, Chuxin Liu, Niki Karanikola, Sheetal Borar, Astha Puri, Angela & Niharika to be part of the mission to increase participation of women in data science and to feature outstanding women doing outstanding work Please register for the event on WiDS so that it is easier to track overall attendance: Click here to register Detailed agenda will be updated soon",
+  "conference_id": null,
+  "date_time": "2025-05-16T11:00:00-04:00",
+  "end_time": "2025-05-16T17:00:00-04:00",
+  "event_id": "306572601",
+  "event_title": "WiDS New York City Regional Conference",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-wids-new-york-city-regional-conference-vanishri-murali:wids-new-york-city-regional-conference",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-wids-new-york-city-regional-conference-vanishri-murali.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-wids-new-york-city-regional-conference-vanishri-murali"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306572601/"
+  ],
+  "speaker_ids": [
+    "speaker:vanishri-murali"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:vanishri-murali",
+      "name": "Vanishri Murali",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "WiDS New York City Regional Conference",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/306572601/"
+}

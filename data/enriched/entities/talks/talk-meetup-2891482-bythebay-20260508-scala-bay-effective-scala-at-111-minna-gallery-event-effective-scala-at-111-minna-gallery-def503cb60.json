@@ -1,0 +1,31 @@
+{
+  "abstract": "This meetup features Scala veterans who will lead discussions of subjects of interest to Scala developers of all skill levels. Every Java developer is familiar with the 'Effective Java' book, which addressed how to program wisely, with efficiency, and informed by experience. This meetup will address the same theme, as it applies to Scala. Marius Eriksen of Twitter will go beyond what he wrote in his Effective Scala (http://twitter.github.com/effectivescala/) document, and how these best practices have improved Twitter's Scala usage. David Pollak, creator of the Lift web framework, will discuss moving beyond object-oriented programming. The promise of OO was that we would be able to use objects to interconnect and compose into larger and more complex systems. It turns out that effective programming is about operations, not the data. By divorcing operations from the data, we get code that can be re-used a lot more effectively than OO classes. David will also discuss partially applied functions inspired by Unix pipes. Finally, no shop can introduce Scala into an existing Java code base without knowing why, where, how --- and how much. Mike Slinn of Micronautics Research Corporation and lead organizer of BASE will present a tutorial on the mechanics of Java / Scala interoperability. Andrew Headrick of Ticketfly will be the M/C. We welcome Andrew's leadership of the expanding BASE community. The Agenda: 7:00 - 7:10 Andrew Headrick, opening remarks 7:10 - 7:45 Marius Eriksen 7:45 - 8:30 David Pollak 8:30 - 9:00 Mike Slinn 9:00 - 9:15 Q/A with all the speakers, plus Andrew Cash bar, no free food :( We will give away two copies of IntelliJ IDEA 12 Ultimate for personal use, and two copies of JRebel. Two e-copies of \"Monadic Design Patterns (http://www.artima.com/shop/monadic design patterns)\", published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile",
+  "conference_id": null,
+  "date_time": "2012-12-10T18:30:00-08:00",
+  "end_time": "2012-12-10T21:00:00-08:00",
+  "event_id": "75066602",
+  "event_title": "Effective Scala at 111 Minna Gallery",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-effective-scala-at-111-minna-gallery-event:effective-scala-at-111-minna-gallery",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-effective-scala-at-111-minna-gallery-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-effective-scala-at-111-minna-gallery-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/75066602/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Effective Scala at 111 Minna Gallery",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/75066602/"
+}

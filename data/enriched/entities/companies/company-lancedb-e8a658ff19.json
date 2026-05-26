@@ -1,0 +1,22 @@
+{
+  "id": "company:lancedb",
+  "name": "LanceDB",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-prashanth-rao-lancedb.json",
+    "data/raw/sources/bythebay-20260508-agents-need-more-than-vector-search-prashanth-rao-lancedb.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-prashanth-rao-lancedb",
+    "bythebay-20260508-agents-need-more-than-vector-search-prashanth-rao-lancedb"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:prashanth-rao"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-agents-need-more-than-vector-search-prashanth-rao-lancedb:agents-need-more-than-vector-search"
+  ],
+  "type": "company"
+}

@@ -136,6 +136,8 @@ const GRAPH_LABELS: &[&str] = &[
     "Record",
     "Person",
     "Speaker",
+    "Company",
+    "Project",
     "Meetup",
     "Group",
     "Conference",

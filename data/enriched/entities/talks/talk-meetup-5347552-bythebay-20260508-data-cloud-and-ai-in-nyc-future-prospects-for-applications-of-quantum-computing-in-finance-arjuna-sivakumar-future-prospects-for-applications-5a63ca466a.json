@@ -1,0 +1,47 @@
+{
+  "abstract": "Topic repeated at 2 different times, please join the session that is best suited for your time zone. The talk will encompass applications across risk management, portfolio optimization, and machine learning. Algorithms will be discussed at a high level of technical detail and there will be time for questions and answers. The algorithms covered will include quantum amplitude estimation for risk analysis, quantum optimization, and quantum kernel estimation methods for machine learning. Note that this is part 5 of an 8-session series on Quantum Computing on Mar 22/23, Apr 5/6, Apr 19/20, May 3/4, May 17/18, May 31/Jun 1, Jun 14/15, Jul 5/6. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions. Presenter: Arjuna Sivakumar Having studied Mathematics and Economics at the London School of Economics, Arjuna has a keen eye for the field of Finance and how Quantum Computation can be a driver of transformation. Arj started his IBM career within Cybersecurity and now transitioned to Customer Success Architect focussing on Cloud and AI offerings in the UK. He has spoken at several engagements, most recently at the QCTIP (Quantum Computing Theory in Practice) Conference on the IBM Quantum Ecosystem. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/r5af4e8cb20ffe401eabfb192c5ff04b1",
+  "conference_id": null,
+  "date_time": "2023-05-17T08:00:00-04:00",
+  "end_time": "2023-05-17T09:00:00-04:00",
+  "event_id": "291842916",
+  "event_title": "Future Prospects for Applications of Quantum Computing in Finance",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-future-prospects-for-applications-of-quantum-computing-in-finance-arjuna-sivakumar:future-prospects-for-applications-of-quantum-computing-in-finance",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-future-prospects-for-applications-of-quantum-computing-in-finance-arjuna-sivakumar.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-future-prospects-for-applications-of-quantum-computing-in-finance-arjuna-sivakumar"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291842916/"
+  ],
+  "speaker_ids": [
+    "speaker:arjuna-sivakumar",
+    "speaker:arjuna-sivakumar-having"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:arjuna-sivakumar",
+      "name": "Arjuna Sivakumar",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:arjuna-sivakumar-having",
+      "name": "Arjuna Sivakumar Having",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Future Prospects for Applications of Quantum Computing in Finance",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/291842916/"
+}

@@ -1,0 +1,44 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Co-Founder Fight Health Insurance"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:holden-karau",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Holden Karau",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-holden-karau-ai-by-the-bay.json",
+    "data/raw/sources/bythebay-20260508-ai-for-good-fighting-health-insurance-with-ai-holden-karau.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-holden-karau-ai-by-the-bay",
+    "bythebay-20260508-ai-for-good-fighting-health-insurance-with-ai-holden-karau",
+    "bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers",
+    "https://www.meetup.com/scala-bay/events/293127928/"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-ai-for-good-fighting-health-insurance-with-ai-holden-karau:ai-for-good-fighting-health-insurance-with-ai",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko:ducktape-holding-scala-s-productivity-together"
+  ],
+  "title": "Co-Founder Fight Health Insurance",
+  "titles": [
+    "Co-Founder Fight Health Insurance"
+  ],
+  "type": "speaker"
+}

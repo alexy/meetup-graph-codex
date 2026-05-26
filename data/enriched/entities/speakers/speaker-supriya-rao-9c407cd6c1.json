@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:meta",
+      "company_name": "Meta",
+      "title": "Engineering Manager"
+    }
+  ],
+  "company_id": "company:meta",
+  "company_ids": [
+    "company:meta"
+  ],
+  "company_name": "Meta",
+  "company_names": [
+    "Meta"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:supriya-rao",
+  "meetup_ids": [],
+  "name": "Supriya Rao",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-pytorch-2-1-new-developments-supriya-rao-meta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-pytorch-2-1-new-developments-supriya-rao-meta"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-pytorch-2-1-new-developments-supriya-rao-meta:pytorch-2-1-new-developments"
+  ],
+  "title": "Engineering Manager",
+  "titles": [
+    "Engineering Manager"
+  ],
+  "type": "speaker"
+}

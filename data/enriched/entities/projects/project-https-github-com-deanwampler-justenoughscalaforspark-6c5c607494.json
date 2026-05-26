@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/deanwampler/JustEnoughScalaForSpark"
+  ],
+  "github_repository": "https://github.com/deanwampler/JustEnoughScalaForSpark",
+  "id": "project:https-github-com-deanwampler-justenoughscalaforspark",
+  "name": "JustEnoughScalaForSpark",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-just-enough-scala-for-spark-chaoran-yu.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-just-enough-scala-for-spark-chaoran-yu"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/240078598/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-just-enough-scala-for-spark-chaoran-yu:just-enough-scala-for-spark"
+  ],
+  "type": "project"
+}

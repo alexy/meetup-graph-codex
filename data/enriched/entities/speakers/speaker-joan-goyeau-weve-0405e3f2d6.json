@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:joan-goyeau-weve",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Joan Goyeau We’ve",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-2-talks-scala-3-what-does-it-means-for-me-scaling-up-ml-experimentation-joan-goyeau-we-ve-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-2-talks-scala-3-what-does-it-means-for-me-scaling-up-ml-experimentation-joan-goyeau-we-ve.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-2-talks-scala-3-what-does-it-means-for-me-scaling-up-ml-experimentation-joan-goyeau-we-ve-2",
+    "bythebay-20260508-sf-scala-2-talks-scala-3-what-does-it-means-for-me-scaling-up-ml-experimentation-joan-goyeau-we-ve"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/263019567/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-2-talks-scala-3-what-does-it-means-for-me-scaling-up-ml-experimentation-joan-goyeau-we-ve:2-talks-scala-3-what-does-it-means-for-me-scaling-up-ml-experimentation"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

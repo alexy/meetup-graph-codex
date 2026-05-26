@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2016-02-17T18:30:00-08:00",
+  "end_time": "2016-02-17T21:30:00-08:00",
+  "event_id": "228814274",
+  "event_title": "A Data Pipeline for the Internet of Data Centers; Agile Data Science with Scala",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event-talk-1:xj-liu-a-data-pipeline-for-the-internet-of-data-centers",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/228814274/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "XJ Liu, A Data Pipeline for the Internet of Data Centers",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/228814274/"
+}

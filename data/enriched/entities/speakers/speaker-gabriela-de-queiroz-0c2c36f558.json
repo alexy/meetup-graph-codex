@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Founder of f02 labs"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:gabriela-de-queiroz",
+  "meetup_ids": [],
+  "name": "Gabriela de Queiroz",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-gabriela-de-queiroz-ai-by-the-bay.json",
+    "data/raw/sources/bythebay-20260508-context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence-gabriela-de-queiroz-arcade-dev.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-gabriela-de-queiroz-ai-by-the-bay",
+    "bythebay-20260508-context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence-gabriela-de-queiroz-arcade-dev"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence-gabriela-de-queiroz-arcade-dev:context-is-all-that-matters-mcp-and-the-dawn-of-agentic-intelligence"
+  ],
+  "title": "Founder of f02 labs",
+  "titles": [
+    "Founder of f02 labs"
+  ],
+  "type": "speaker"
+}

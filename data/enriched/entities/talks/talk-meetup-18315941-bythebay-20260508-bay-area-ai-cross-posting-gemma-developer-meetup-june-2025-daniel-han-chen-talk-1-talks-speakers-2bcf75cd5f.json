@@ -1,0 +1,57 @@
+{
+  "abstract": "🧠 Fine-Tuning Gemma to Replicate an Individual's Personality",
+  "conference_id": null,
+  "date_time": "2025-06-26T17:00:00-07:00",
+  "end_time": "2025-06-26T20:00:00-07:00",
+  "event_id": "308553764",
+  "event_title": "[Cross Posting] Gemma Developer Meetup (June 2025)",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen-talk-1:talks-speakers",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [
+    "project:gemma",
+    "project:trl"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/308553764/"
+  ],
+  "speaker_ids": [
+    "speaker:mayank-chaturvedi",
+    "speaker:daniel-han-chen",
+    "speaker:google-explore"
+  ],
+  "speakers": [
+    {
+      "company_name": "Google",
+      "id": "speaker:mayank-chaturvedi",
+      "name": "Mayank Chaturvedi",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:daniel-han-chen",
+      "name": "Daniel Han-Chen",
+      "title": "unsloth Learn how to create your own local AI agents using Gemma 3. This talk covers everything from lightweight fine-tuning to advanced reinforcement learning using GRPO. You'll also see how to train models efficiently using Unsloth - even on limited hardware or"
+    },
+    {
+      "company_name": "Reinforcement Learning and Gemma 3 Speaker",
+      "id": "speaker:google-explore",
+      "name": "Google Explore",
+      "title": "how the Gemma model can be fine-tuned to emulate the personality and cognitive style of a specific individual. This hobby project uses Hugging Face Transformers and the TRL library to push the boundaries of personalization in AI. 🤖 Building Effective AI Agents"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Talks & Speakers",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/308553764/"
+}

@@ -1,0 +1,39 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "for Data-centric Security in Hadoop How it works: Find out how Hadoop deployments are rolled out"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:use-cases",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Use Cases",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-november-sf-hadoop-users-meetup-clint-sharp-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-november-sf-hadoop-users-meetup-clint-sharp-2",
+    "bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/148676842/",
+    "https://www.meetup.com/hadoopsf/events/220286707/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2-talk-1:securing-hadoop-data-use-cases-for-data-centric-security-in-hadoop"
+  ],
+  "title": "for Data-centric Security in Hadoop How it works: Find out how Hadoop deployments are rolled out",
+  "titles": [
+    "for Data-centric Security in Hadoop How it works: Find out how Hadoop deployments are rolled out"
+  ],
+  "type": "speaker"
+}

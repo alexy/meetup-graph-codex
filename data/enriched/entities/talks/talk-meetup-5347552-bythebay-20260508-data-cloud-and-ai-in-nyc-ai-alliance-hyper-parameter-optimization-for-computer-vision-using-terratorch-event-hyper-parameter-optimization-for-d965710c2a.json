@@ -1,0 +1,31 @@
+{
+  "abstract": "Hyper Parameter Optimization, Neural Architecture Search and Foundation Model Benchmarking using TerraTorch for (geospatial) computer vision TerraTorch is a fine-tuning and benchmarking toolkit for Geospatial Foundation Models built on PyTorch Lightning and tailored for satellite, weather, and climate data. It integrates domain-specific data modules, pre-defined tasks, and a modular model factory that pairs any backbone with diverse decoder heads. These components allow researchers and practitioners to fine-tune supported models in a no-code fashion by simply editing a training or inference configuration. By consolidating best practices for model development and incorporating the automated hyperparameter optimization extension Iterate, TerraTorch reduces the expertise and time required to fine-tune or benchmark models on new Earth Observation use cases. Furthermore, TerraTorch directly integrates with GEO-Bench, allowing for systematic and reproducible benchmarking of Geospatial Foundation Models. TerraTorch Iterate is not only driving GeoBench, but also Hyperparameter Optimizations (HPO) and Neural Architecture Search (NAS). TerraTorch is open sourced under Apache 2.0, and can be installed via pip install terratorch from our Github repostitory. Highlights Growing list of IBM and community Out-of-the-box implementations of foundation models (e.g.Prithvi, Satlas, Clay, timm models) and a large selection of decoders Model fine-tuning fully accessible through config files - no need to write code for segmentation, pixel-wise regression, object detection or classification tasks The functionalities of TerraTorch are a superset of Lightning and TorchGeo. All the goodies from these libraries come for free Agenda 1. Welcome & introductions 2. Short recap on cuda, torch and lightning 3. What are (geospatial) computer vision foundation models 4. Finetuning and Inference 5. Hyperparameter Optimization with terratorch iterate using optuna 6. Benchmarking foundation models 7. Q&A 8. Closing About the speaker Romeo is an AI Research Engineer at IBM Research Europe in Zurich interested in understanding neural representations in artificial and biological neural networks. About the AI Alliance The AI Alliance is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players",
+  "conference_id": null,
+  "date_time": "2025-04-03T12:00:00-04:00",
+  "end_time": "2025-04-03T13:00:00-04:00",
+  "event_id": "307046770",
+  "event_title": "[AI Alliance] Hyper Parameter Optimization for Computer Vision using TerraTorch",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-hyper-parameter-optimization-for-computer-vision-using-terratorch-event:hyper-parameter-optimization-for-computer-vision-using-terratorch",
+  "kind": "workshop",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-hyper-parameter-optimization-for-computer-vision-using-terratorch-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-hyper-parameter-optimization-for-computer-vision-using-terratorch-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/307046770/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Hyper Parameter Optimization for Computer Vision using TerraTorch",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/307046770/"
+}

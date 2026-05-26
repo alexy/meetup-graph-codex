@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:kaitlyn-arnold-kait-arnold",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Kaitlyn Arnold Kait Arnold",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes-kait-arnold-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes-kait-arnold.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes-kait-arnold-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes-kait-arnold-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes-kait-arnold",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes-kait-arnold-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/295222102/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/295221859/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes-kait-arnold:understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes-kait-arnold-3:understanding-ai-concepts-and-how-to-infuse-ai-into-your-business-processes"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2014-06-11T18:00:00-07:00",
+  "end_time": "2014-06-11T20:00:00-07:00",
+  "event_id": "187173842",
+  "event_title": "June SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-june-sf-hadoop-users-meetup-wesley-chow-adroll:the-june-sf-hadoop-users-group-meetup-will-be-held-wednesday-june-11-from-6-00pm-to-8-00pm",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-june-sf-hadoop-users-meetup-wesley-chow-adroll.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-june-sf-hadoop-users-meetup-wesley-chow-adroll"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/187173842/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The June SF Hadoop Users Group Meetup will be held Wednesday, June 11 from 6:00pm to 8:00pm. This meetup will be hosted",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/187173842/"
+}

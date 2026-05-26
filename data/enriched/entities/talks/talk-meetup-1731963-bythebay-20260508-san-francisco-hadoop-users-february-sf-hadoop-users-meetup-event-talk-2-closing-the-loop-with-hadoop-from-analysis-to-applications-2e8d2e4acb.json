@@ -1,0 +1,40 @@
+{
+  "abstract": "Aaron Feldstein, Member of Technical Staff at WibiData Hadoop enables the collection, storage, and analysis of larger volumes of data than ever before, but taking action based on the results of this analysis remains a slow and cumbersome process. In pursuit of closing the loop from collecting user interaction data and analyzing it to affecting future user experiences, we have experimented and learned lessons which may help anyone seeking to make the most of their data. This talk will describe some of those lessons, how we learned them, and what we have built with them in mind We'll be raffling off O'Reilly Media books, courtesy of O'Reilly Media's Strata Conference + Hadoop World Meetup members get 20% off Strata with UGSFHUG20. You can register with this code here (http://oreil.ly/UGSJ15) http://photos4.meetupstatic.com/photos/event/5/8/4/600 432121412.jpeg",
+  "conference_id": null,
+  "date_time": "2015-02-18T18:00:00-08:00",
+  "end_time": "2015-02-18T21:00:00-08:00",
+  "event_id": "219049335",
+  "event_title": "February SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-february-sf-hadoop-users-meetup-event-talk-2:closing-the-loop-with-hadoop-from-analysis-to-applications",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-february-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-february-sf-hadoop-users-meetup-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/219049335/"
+  ],
+  "speaker_ids": [
+    "speaker:o-reilly-media"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:o-reilly-media",
+      "name": "O'Reilly Media",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Closing the Loop with Hadoop: From Analysis to Applications",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/219049335/"
+}

@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:redpanda",
+      "company_name": "Redpanda",
+      "title": "Principal Product Marketing Manager"
+    }
+  ],
+  "company_id": "company:redpanda",
+  "company_ids": [
+    "company:redpanda"
+  ],
+  "company_name": "Redpanda",
+  "company_names": [
+    "Redpanda"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:peter-corless",
+  "meetup_ids": [],
+  "name": "Peter Corless",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-peter-corless-redpanda.json",
+    "data/raw/sources/bythebay-20260508-ai-and-data-streaming-integrating-agents-with-data-in-motion-for-real-time-enterprise-intelligence-peter-corless-redpanda.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-peter-corless-redpanda",
+    "bythebay-20260508-ai-and-data-streaming-integrating-agents-with-data-in-motion-for-real-time-enterprise-intelligence-peter-corless-redpanda"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-ai-and-data-streaming-integrating-agents-with-data-in-motion-for-real-time-enterprise-intelligence-peter-corless-redpanda:ai-and-data-streaming-integrating-agents-with-data-in-motion-for-real-time-enterprise-inte"
+  ],
+  "title": "Principal Product Marketing Manager",
+  "titles": [
+    "Principal Product Marketing Manager"
+  ],
+  "type": "speaker"
+}

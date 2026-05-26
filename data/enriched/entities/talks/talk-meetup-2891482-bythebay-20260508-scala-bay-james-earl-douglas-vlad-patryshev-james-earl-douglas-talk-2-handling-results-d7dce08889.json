@@ -1,0 +1,31 @@
+{
+  "abstract": "Short description Hardly any function is total; what do we do with errors? Throw exceptions into the log? Use Option and ignore error details? Use Either and get confused whether Left is right or Right is wrong? There's a better solution, which is also an applicative functor Slides: http://tinyurl.com/scalabay-vlad-14",
+  "conference_id": null,
+  "date_time": "2014-10-13T19:00:00-07:00",
+  "end_time": "2014-10-13T22:00:00-07:00",
+  "event_id": "208276632",
+  "event_title": "James Earl Douglas; Vlad Patryshev",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas-talk-2:handling-results",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-james-earl-douglas-vlad-patryshev-james-earl-douglas-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/208276632/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Handling Results",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/208276632/"
+}

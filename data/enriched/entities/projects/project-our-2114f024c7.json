@@ -1,0 +1,31 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:our",
+  "name": "Our",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-domino-data-lab-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-andrew-kuhnhausen-on-type-classes-followed-by-unmeetup-domino-data-lab-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-meetup-domino-data-lab-event.json",
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-domino-data-lab-event",
+    "bythebay-20260508-sf-scala-andrew-kuhnhausen-on-type-classes-followed-by-unmeetup-domino-data-lab-event",
+    "bythebay-20260508-sf-scala-meetup-domino-data-lab-event",
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/238153478/",
+    "https://www.meetup.com/sf-scala/events/239465355/",
+    "https://www.meetup.com/sf-scala/events/242654103/",
+    "https://www.meetup.com/unstructured-data-sf/events/300812829/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-domino-data-lab-event:sf-scala-unmeetup-domino-data-lab",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-andrew-kuhnhausen-on-type-classes-followed-by-unmeetup-domino-data-lab-event:andrew-kuhnhausen-on-type-classes-followed-by-unmeetup-domino-data-lab",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-meetup-domino-data-lab-event:meetup-domino-data-lab",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-2:unstructured-data-in-llms-south-bay-edition"
+  ],
+  "type": "project"
+}

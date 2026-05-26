@@ -1,0 +1,40 @@
+{
+  "abstract": "Dinesh Subhraveti, Altiscale Containers are a fundamentally different form of virtualization designed to directly virtualize applications rather than the operating system. The absence of a guest OS layer makes containers extremely lightweight, leading to almost imperceptible runtime overhead and startup latencies, orders of magnitude higher scalability and simplified management. Additionally, the container model enables a number of use cases such as online OS upgrades which are only possible through application virtualization Docker is an ambitious program with a charter to make the container primitives of the kernel trivially accessible to end users. Docker achieves the goal in part through a highly intuitive user interface that hides the complexity of kernel configuration by choosing the most appropriate defaults. It also provides a community-curated repository of self-contained application images that can be portably run on any host, regardless of its underlying state and configuration In this talk, Dinesh Subhraveti presents a quick background on containers followed by Altiscale's recent contribution of user namespace support to make Docker containers secure for use in multitenant environments. User namespaces prevent containerized applications from compromising the security of the host or other containers by isolating the scope of their privilege to the container in which they run (see this (https://www.altiscale.com/making-docker-work-yarn/) blog for details.) This feature will be employed in Altiscale's purpose-built Hadoop as a Service to securely isolate Hadoop tasks of different tenant customers",
+  "conference_id": null,
+  "date_time": "2015-03-11T18:00:00-07:00",
+  "end_time": "2015-03-11T21:00:00-07:00",
+  "event_id": "219155223",
+  "event_title": "March SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-march-sf-hadoop-users-meetup-event-talk-1:privilege-isolation-in-docker-containers",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-march-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-march-sf-hadoop-users-meetup-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/219155223/"
+  ],
+  "speaker_ids": [
+    "speaker:dinesh-subhraveti"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:dinesh-subhraveti",
+      "name": "Dinesh Subhraveti",
+      "title": "Altiscale Containers are a fundamentally different form of virtualiz"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Privilege Isolation in Docker Containers",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/219155223/"
+}

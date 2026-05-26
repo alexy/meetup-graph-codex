@@ -1,0 +1,28 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:challenge-overview",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Challenge Overview",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/288088486/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-call-for-code-comes-to-you-new-york-city-event-talk-2:call-for-code-comes-to-you-new-york-city"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

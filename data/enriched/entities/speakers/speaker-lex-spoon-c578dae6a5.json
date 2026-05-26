@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:lex-spoon",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:18748975",
+    "meetup:20929747"
+  ],
+  "name": "Lex Spoon",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-a-tour-of-caliban-fp-graphql-in-scala-understanding-scala-s-type-system-alexy-khrabrov-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-a-tour-of-caliban-fp-graphql-in-scala-understanding-scala-s-type-system-alexy-khrabrov-2.json",
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-a-tour-of-caliban-fp-graphql-in-scala-understanding-scala-s-type-system-alexy-khrabrov-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-a-tour-of-caliban-fp-graphql-in-scala-understanding-scala-s-type-system-alexy-khrabrov-2",
+    "bythebay-20260508-scale-by-the-bay-a-tour-of-caliban-fp-graphql-in-scala-understanding-scala-s-type-system-alexy-khrabrov-2",
+    "bythebay-20260508-graphql-by-the-bay-a-tour-of-caliban-fp-graphql-in-scala-understanding-scala-s-type-system-alexy-khrabrov-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/269884306/",
+    "https://www.meetup.com/bythebay/events/269884349/",
+    "https://www.meetup.com/graphql-by-the-bay/events/269884376/"
+  ],
+  "talk_ids": [],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

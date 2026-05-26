@@ -1,0 +1,44 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:hybrid-cloud-services",
+      "company_name": "Hybrid Cloud Services",
+      "title": null
+    }
+  ],
+  "company_id": "company:hybrid-cloud-services",
+  "company_ids": [
+    "company:hybrid-cloud-services"
+  ],
+  "company_name": "Hybrid Cloud Services",
+  "company_names": [
+    "Hybrid Cloud Services"
+  ],
+  "conference_ids": [],
+  "id": "speaker:jane-dong",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Jane Dong",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-digital-enablement-leader.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-digital-enablement-leader",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297915488/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290311918/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-digital-enablement-leader:introduction-to-quantum-computing",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader:quantum-series-part-1-introduction-to-quantum-computing"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,37 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:miles-sabin",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:18601481"
+  ],
+  "name": "Miles Sabin",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scalae-by-the-bay-2016-at-twitter-hq-miles-sabin-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-scalae-by-the-bay-2016-begins-friday-at-twitter-hq-miles-sabin-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scalae-by-the-bay-2016-at-twitter-hq-miles-sabin.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-scalae-by-the-bay-2016-begins-friday-at-twitter-hq-miles-sabin.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scalae-by-the-bay-2016-at-twitter-hq-miles-sabin-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-scalae-by-the-bay-2016-begins-friday-at-twitter-hq-miles-sabin-2",
+    "bythebay-20260508-sf-scala-scalae-by-the-bay-2016-at-twitter-hq-miles-sabin",
+    "bythebay-20260508-sf-data-and-ai-engineering-scalae-by-the-bay-2016-begins-friday-at-twitter-hq-miles-sabin"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/235442438/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/235444924/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scalae-by-the-bay-2016-at-twitter-hq-miles-sabin:scal-by-the-bay-2016-at-twitter-hq",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-scalae-by-the-bay-2016-begins-friday-at-twitter-hq-miles-sabin:scal-by-the-bay-2016-begins-friday-at-twitter-hq"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

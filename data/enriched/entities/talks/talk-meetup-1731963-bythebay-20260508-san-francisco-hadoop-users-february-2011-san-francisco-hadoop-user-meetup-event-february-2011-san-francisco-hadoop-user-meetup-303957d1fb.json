@@ -1,0 +1,31 @@
+{
+  "abstract": "After the successful first edition of the SF Hadoop meetup, we plan to keep the momentum rolling with regular meetups. The second SF Hadoop meetup will be held Wednesday, February 9, 2011, from 6pm to 8pm. CBS Interactive has offered to host the meetup at their office at 235 2nd St, San Francisco. This space is larger than the one used in January; we hope this will better accommodate the number of people who'd like to attend. Like the previous meetup, we will continue to use the discussion-based \"unconference\" format. At the beginning of the meetup we will collaboratively construct an agenda consisting of several discussion breakout groups. All participants may propose a topic and volunteer to facilitate a discussion. Formal preparation is not necessary; you do not need slides, a demo, etc -- just an open mind and a willingness to share ideas with your colleagues. (But if you'd like to share some prepared materials, by all means bring them!) All members of the Hadoop community are welcome to attend. 6pm - Welcome 6:30pm - Introductions; start creating agenda Breakout sessions begin as soon as we're ready 8pm - Conclusion",
+  "conference_id": null,
+  "date_time": "2011-02-09T18:00:00-08:00",
+  "end_time": "2011-02-09T21:00:00-08:00",
+  "event_id": "16123193",
+  "event_title": "February 2011 San Francisco Hadoop User Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-february-2011-san-francisco-hadoop-user-meetup-event:february-2011-san-francisco-hadoop-user-meetup",
+  "kind": "unconference",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-february-2011-san-francisco-hadoop-user-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-february-2011-san-francisco-hadoop-user-meetup-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/16123193/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "unconference"
+  ],
+  "title": "February 2011 San Francisco Hadoop User Meetup",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/16123193/"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "company:rtrvr-ai",
+  "name": "rtrvr.ai",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-arjun-chintapalli-rtrvr-ai.json",
+    "data/raw/sources/bythebay-20260508-bhavani-kalisetty-rtrvr-ai.json",
+    "data/raw/sources/bythebay-20260508-federated-agent-architecture-leveraging-client-context-cloud-inference-arjun-chintapalli-rtrvr-ai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-arjun-chintapalli-rtrvr-ai",
+    "bythebay-20260508-bhavani-kalisetty-rtrvr-ai",
+    "bythebay-20260508-federated-agent-architecture-leveraging-client-context-cloud-inference-arjun-chintapalli-rtrvr-ai"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:arjun-chintapalli",
+    "speaker:bhavani-kalisetty"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-federated-agent-architecture-leveraging-client-context-cloud-inference-arjun-chintapalli-rtrvr-ai:federated-agent-architecture-leveraging-client-context-cloud-inference"
+  ],
+  "type": "company"
+}

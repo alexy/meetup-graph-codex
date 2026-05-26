@@ -1,0 +1,33 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:ubershubha-nabar",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:1755011"
+  ],
+  "name": "UberShubha Nabar",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-metamind-salesforcejohn-eggert.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-lukas-biewald-openaisrisatish-ambati.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-metamind-salesforcejohn-eggert",
+    "bythebay-20260508-sf-scala-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-lukas-biewald-openaisrisatish-ambati"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/237166862/",
+    "https://www.meetup.com/sf-scala/events/237166274/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-lukas-biewald-openaisrisatish-ambati:ai-by-the-bay-self-driving-cars-march-6-8-san-francisco",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-conference-ai-by-the-bay-self-driving-cars-march-6-8-san-francisco-metamind-salesforcejohn-egge:ai-by-the-bay-self-driving-cars-march-6-8-san-francisco"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,41 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-uber-s-multi-agent-platform-jamieson-leibovitch-uber:uber-s-multi-agent-platform",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-uber-s-multi-agent-platform-jamieson-leibovitch-uber.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-uber-s-multi-agent-platform-jamieson-leibovitch-uber"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:jamieson-leibovitch"
+  ],
+  "speakers": [
+    {
+      "company_name": "Uber",
+      "id": "speaker:jamieson-leibovitch",
+      "name": "Jamieson Leibovitch",
+      "title": "Sr. Software Engineer"
+    }
+  ],
+  "tags": [
+    "OSS AI",
+    "MCP",
+    "AI Infrastructure",
+    "LLMOps",
+    "Agentic AI"
+  ],
+  "title": "Uber's Multi-Agent Platform",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/ubers-multi-agent-platform"
+}

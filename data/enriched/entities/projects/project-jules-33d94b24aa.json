@@ -1,0 +1,17 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:jules",
+  "name": "Jules",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-meet-jules-your-autonomous-coding-partner-oleg-aravin-google.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-meet-jules-your-autonomous-coding-partner-oleg-aravin-google"
+  ],
+  "source_urls": [],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-meet-jules-your-autonomous-coding-partner-oleg-aravin-google:meet-jules-your-autonomous-coding-partner"
+  ],
+  "type": "project"
+}

@@ -1,0 +1,54 @@
+{
+  "abstract": "Please RSVP at Bay Area AI Only (https://www.meetup.com/bay-area-ai/events/240491390/)! This meetup is a part of the Cognitive Frameworks Festival of meetups By the Bay, going on all around San Francisco June 5-9: festival.framework.foundation (http://festival.framework.foundation/) Learn how Artificial Intelligence (AI) is transforming the collaboration experience and enabling new cognitive capabilities. Cisco Spark’s open platform allows you to build custom apps, intelligent conversational bots, and workflow integrations to drive the workplace of the future. This session will focus on: • Current and future trends of of conversational chat and voice bots • How AI-powered collaboration solutions will change the workplace Speakers: Jose de Castro and Tim Tuttle Jose de Castro is the CTO for APIs and Integrations within Cisco’s Collaboration Technology Group, leading the effort to open Cisco Spark’s cloud collaboration platform to any developer seeking to embed voice, video and text-based collaboration into their applications. A serial entrepreneur, he co-founded Tropo in 2009, a leading communications-as- a-service provider. As CTO of Tropo, Jose set the technical and strategic product direction, leading Tropo to a successful exit in 2015. With a passion for education and healthcare, Jose hopes to drive real change in both industries through richer and more productive communication. Twitter: @loopingrage Tim Tuttle is the Founder and CEO of MindMeld, a San Francisco startup developing AI technology to power the emerging generation of intelligent, voice-driven applications, just acquired by Cisco",
+  "conference_id": null,
+  "date_time": "2017-06-09T16:00:00-07:00",
+  "end_time": "2017-06-09T19:00:00-07:00",
+  "event_id": "240492139",
+  "event_title": "[register at bay.area.ai] Cisco Spark open platform for AI: More Bots!",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-cisco-spark-open-platform-for-ai-more-bots-tim-tuttle:cisco-spark-open-platform-for-ai-more-bots",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-cisco-spark-open-platform-for-ai-more-bots-tim-tuttle.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-register-at-bay-area-ai-cisco-spark-open-platform-for-ai-more-bots-tim-tuttle"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/240492139/"
+  ],
+  "speaker_ids": [
+    "speaker:tim-tuttle",
+    "speaker:tim-tuttle-jose",
+    "speaker:tuttle-jose"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:tim-tuttle",
+      "name": "Tim Tuttle",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:tim-tuttle-jose",
+      "name": "Tim Tuttle Jose",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:tuttle-jose",
+      "name": "Tuttle Jose",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Cisco Spark open platform for AI: More Bots!",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/240492139/"
+}

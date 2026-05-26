@@ -1,0 +1,51 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:scala",
+  "name": "Scala",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-newman-a-functional-rest-client-for-scala-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-nlp-ml-in-scala-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-earnest-earnest-earnest.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-earnest-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-how-scala-is-made-and-how-you-can-help-salar-rahmanian.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-how-scala-is-made-and-how-you-can-help-salar-rahmanian.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-james-ward-and-mike-slinn-akka-heroku-sbt-and-blueeyes-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-newman-a-functional-rest-client-for-scala-event",
+    "bythebay-20260508-sf-scala-nlp-ml-in-scala-event",
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-earnest-earnest-earnest",
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-earnest-event",
+    "bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1",
+    "bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1",
+    "bythebay-20260508-scala-bay-how-scala-is-made-and-how-you-can-help-salar-rahmanian",
+    "bythebay-20260508-sf-scala-how-scala-is-made-and-how-you-can-help-salar-rahmanian",
+    "bythebay-20260508-sf-scala-james-ward-and-mike-slinn-akka-heroku-sbt-and-blueeyes-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/163419512/",
+    "https://www.meetup.com/sf-scala/events/187006842/",
+    "https://www.meetup.com/sf-scala/events/235317732/",
+    "https://www.meetup.com/sf-scala/events/236808083/",
+    "https://www.meetup.com/sf-scala/events/270897048/",
+    "https://www.meetup.com/bythebay/events/270897090/",
+    "https://www.meetup.com/scala-bay/events/303718227/",
+    "https://www.meetup.com/sf-scala/events/303718305/",
+    "https://www.meetup.com/sf-scala/events/39108572/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-newman-a-functional-rest-client-for-scala-event:newman-a-functional-rest-client-for-scala",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-nlp-ml-in-scala-event:nlp-ml-in-scala",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-earnest-earnest-earnest:sf-scala-unmeetup-earnest",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-earnest-event:sf-scala-unmeetup-earnest",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1:reimagining-functional-type-classes",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-reimagining-functional-type-classes-by-john-a-de-goes-adam-fraser-talk-1:reimagining-functional-type-classes",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-how-scala-is-made-and-how-you-can-help-salar-rahmanian:how-scala-is-made-and-how-you-can-help",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-how-scala-is-made-and-how-you-can-help-salar-rahmanian:how-scala-is-made-and-how-you-can-help",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-james-ward-and-mike-slinn-akka-heroku-sbt-and-blueeyes-event:james-ward-and-mike-slinn-akka-heroku-sbt-and-blueeyes"
+  ],
+  "type": "project"
+}

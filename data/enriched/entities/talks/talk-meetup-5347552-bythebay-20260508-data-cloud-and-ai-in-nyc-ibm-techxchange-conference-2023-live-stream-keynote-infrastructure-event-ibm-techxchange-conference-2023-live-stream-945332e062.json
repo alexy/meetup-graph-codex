@@ -1,0 +1,31 @@
+{
+  "abstract": "Are you ready to dive into the world of cutting-edge technology, such as generative AI? Join us at the upcoming IBM TechXchange Conference 2023 Keynote Sessions , a captivating series of no-cost live streams that will unravel the latest advancements in AI, automation, security, and cloud solutions. Keynote Infrastructure: The essential elements of future-ready infrastructure AI and hybrid cloud are increasingly influencing IT infrastructure priorities and strategy. AI is becoming mainstream, yet data access, quality, management and privacy challenges remain. Hybrid cloud has become the norm, and 39% of data breaches studied resulted in the loss of data across multiple environments including public cloud, private cloud, and on-prem. As businesses modernize applications, they are looking to innovate and deploy as-a-service in best-fit environments to improve business outcomes. IBM Infrastructure plays an important role for our clients; it’s where data, security, performance and flexibility meet mission-critical needs, particularly in regulated industries. Join Hillery Hunter, CTO and General Manager, Innovation for IBM Infrastructure to see our latest solutions and learn how we are helping clients deliver new value with future-ready infrastructure. Speaker Hillery Hunter, CTO and General Manager of Innovation for IBM Infrastructure, IBM How to Attend All you need to do is just go to the IBM TechXchange Conference website at the scheduled times to view the live keynote sessions! The sessions will be live-streamed on the IBM TechXchange Conference website at https://ibm.biz/BdMaFp. You can also watch the recordings after the event",
+  "conference_id": null,
+  "date_time": "2023-09-13T13:30:00-04:00",
+  "end_time": "2023-09-13T14:30:00-04:00",
+  "event_id": "295946190",
+  "event_title": "IBM TechXchange Conference 2023 Live Stream - Keynote Infrastructure",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-infrastructure-event:ibm-techxchange-conference-2023-live-stream-keynote-infrastructure",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-infrastructure-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-conference-2023-live-stream-keynote-infrastructure-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/295946190/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "IBM TechXchange Conference 2023 Live Stream - Keynote Infrastructure",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/295946190/"
+}

@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:chaoran-yu",
+  "meetup_ids": [
+    "meetup:18601481"
+  ],
+  "name": "Chaoran Yu",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-just-enough-scala-for-spark-chaoran-yu-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-just-enough-scala-for-spark-chaoran-yu.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-just-enough-scala-for-spark-chaoran-yu-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-just-enough-scala-for-spark-chaoran-yu"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/240078598/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-just-enough-scala-for-spark-chaoran-yu:just-enough-scala-for-spark"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

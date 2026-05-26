@@ -1,0 +1,61 @@
+{
+  "abstract": "Note: Scale By the Bay CFP is open until May 31st, submit a great talk at scale.bythebay.io! ----- We have two talks -- on scalac and on fs2-blobstore! (1) Scala's compilation speed is often listed as the top priority for the future language evolution and implementation. A while ago Grzegorz set out to explore equally puzzling and fascinating question anchored at the compilation speed: is Scala's design fundamentally flawed or have we done so far a poor job at the implementation? To study this question, Grzegorz started Kentucky Mule - a research project focused on exploring the limits of Scala's typechecking speed. The typechecking is the bottleneck in the Scala compiler and it's the hardest part to make go faster. In Kentucky Mule, Grzegorz took a fresh look at the architecture of the Scala compiler with focus on both raw single-threaded performance and unlocking parallel and distributed compilation. The talk will touch on: why the compiler speed is a hard problem the growing evidence it's a solvable problem In Grzegorz words, \"I'd like to send an upbeat ripple through Scala universe\". Speaker: Grzegorz Kossakowski Grzegorz has been involved in the Scala development over the years. First as a student at EPFL, later as an employee of Typesafe where he worked on the Scala compiler and tools surrounding it. The compilation speed has been his focus over the years: early on, he spent a summer working with Martin Odersky optimizing scalac, later he worked on redesigning zinc (the incremental compiler for Scala) that led to 10-50x compilation speed improvements on large code bases. After Typesafe, he took over 1 year-long stint as a hobo. Now he lives in San Francisco and works for Stripe. (2) fs2-blobstore Store implementations and use cases We will dig into different Store implementations and some use cases in LendUp's data pipelines with fs2, functional streams for Scala. Speaker: Rolando Manrique Rolando is a Principal Software Engineer at LendUp where he is rebuilding data ingestion pipelines and advocates for wide spread use of Scala and functional programing. Before LendUp Rolando was building large scale system at Verizon and Yahoo",
+  "conference_id": null,
+  "date_time": "2018-05-17T18:00:00-07:00",
+  "end_time": "2018-05-17T21:00:00-07:00",
+  "event_id": "250410484",
+  "event_title": "Limits of Scala's Typechecking Speed; and Streaming Blobs!",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-limits-of-scala-s-typechecking-speed-and-streaming-blobs-grzegorz-kossakowski:limits-of-scala-s-typechecking-speed-and-streaming-blobs",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-limits-of-scala-s-typechecking-speed-and-streaming-blobs-grzegorz-kossakowski.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-limits-of-scala-s-typechecking-speed-and-streaming-blobs-grzegorz-kossakowski"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/250410484/"
+  ],
+  "speaker_ids": [
+    "speaker:grzegorz-kossakowski",
+    "speaker:grzegorz-kossakowski-grzegorz",
+    "speaker:rolando-manrique",
+    "speaker:rolando-manrique-rolando"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:grzegorz-kossakowski",
+      "name": "Grzegorz Kossakowski",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:grzegorz-kossakowski-grzegorz",
+      "name": "Grzegorz Kossakowski Grzegorz",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:rolando-manrique",
+      "name": "Rolando Manrique",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:rolando-manrique-rolando",
+      "name": "Rolando Manrique Rolando",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Limits of Scala's Typechecking Speed; and Streaming Blobs!",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/250410484/"
+}

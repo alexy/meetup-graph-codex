@@ -1,0 +1,31 @@
+{
+  "abstract": "We’re starting the year on a high note with our partners at Microsoft Reactor! This is a joint meetup with Bay Area AI: https://www.meetup.com/bay-area-ai/events/267812020/ We’re looking for talks - propose one! Also we’re looking for food, drink and recording sponsors - contact Alexy at ByTheBay.io to help",
+  "conference_id": null,
+  "date_time": "2020-01-30T18:00:00-08:00",
+  "end_time": "2020-01-30T20:00:00-08:00",
+  "event_id": "267812099",
+  "event_title": "Kicking off 2020 at Microsoft Reactor",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-kicking-off-2020-at-microsoft-reactor-event:kicking-off-2020-at-microsoft-reactor",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-kicking-off-2020-at-microsoft-reactor-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-kicking-off-2020-at-microsoft-reactor-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/267812099/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Kicking off 2020 at Microsoft Reactor",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/267812099/"
+}

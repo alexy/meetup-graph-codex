@@ -1,0 +1,34 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Independent Akka Advocate"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:hugh-mckee",
+  "meetup_ids": [],
+  "name": "Hugh McKee",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-hugh-mckee-ai-by-the-bay.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-hugh-mckee-ai-by-the-bay"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [],
+  "title": "Independent Akka Advocate",
+  "titles": [
+    "Independent Akka Advocate"
+  ],
+  "type": "speaker"
+}

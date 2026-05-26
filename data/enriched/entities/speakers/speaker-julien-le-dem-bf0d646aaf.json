@@ -1,0 +1,50 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:datadog-co-creator-of-parquet-arrow-openlineage",
+      "company_name": "Datadog, co-creator of Parquet, Arrow, OpenLineage",
+      "title": "PE"
+    },
+    {
+      "company_id": "company:datadog-co-creator-of-parquet-arrow-and-openlineage",
+      "company_name": "Datadog, co-creator of Parquet, Arrow and OpenLineage",
+      "title": "Principal Engineer"
+    }
+  ],
+  "company_id": "company:datadog-co-creator-of-parquet-arrow-openlineage",
+  "company_ids": [
+    "company:datadog-co-creator-of-parquet-arrow-openlineage",
+    "company:datadog-co-creator-of-parquet-arrow-and-openlineage"
+  ],
+  "company_name": "Datadog, co-creator of Parquet, Arrow, OpenLineage",
+  "company_names": [
+    "Datadog, co-creator of Parquet, Arrow, OpenLineage",
+    "Datadog, co-creator of Parquet, Arrow and OpenLineage"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:julien-le-dem",
+  "meetup_ids": [],
+  "name": "Julien Le Dem",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-julien-le-dem-datadog-co-creator-of-parquet-arrow-openlineage.json",
+    "data/raw/sources/bythebay-20260508-the-advent-of-the-open-data-lake-julien-le-dem-datadog-co-creator-of-parquet-arrow-and-openlineage.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-julien-le-dem-datadog-co-creator-of-parquet-arrow-openlineage",
+    "bythebay-20260508-the-advent-of-the-open-data-lake-julien-le-dem-datadog-co-creator-of-parquet-arrow-and-openlineage"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-the-advent-of-the-open-data-lake-julien-le-dem-datadog-co-creator-of-parquet-arrow-and-openlineage:the-advent-of-the-open-data-lake"
+  ],
+  "title": "PE",
+  "titles": [
+    "PE",
+    "Principal Engineer"
+  ],
+  "type": "speaker"
+}

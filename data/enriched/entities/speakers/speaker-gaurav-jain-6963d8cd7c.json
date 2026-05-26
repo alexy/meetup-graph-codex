@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:pure-storage",
+      "company_name": "Pure Storage",
+      "title": "Senior Staff Engineer"
+    }
+  ],
+  "company_id": "company:pure-storage",
+  "company_ids": [
+    "company:pure-storage"
+  ],
+  "company_name": "Pure Storage",
+  "company_names": [
+    "Pure Storage"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:gaurav-jain",
+  "meetup_ids": [],
+  "name": "Gaurav Jain",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-gaurav-jain-pure-storage.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-gaurav-jain-pure-storage"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [],
+  "title": "Senior Staff Engineer",
+  "titles": [
+    "Senior Staff Engineer"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:what",
+  "name": "What",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-making-your-first-commit-to-open-source-a-casual-conversation-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-making-your-first-commit-to-open-source-a-casual-conversation-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306138354/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-making-your-first-commit-to-open-source-a-casual-conversation-event:making-your-first-commit-to-open-source-a-casual-conversation"
+  ],
+  "type": "project"
+}

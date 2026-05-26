@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:david-silver",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "David Silver",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-becoming-a-self-driving-car-engineer-david-silver-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-becoming-a-self-driving-car-engineer-david-silver.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-becoming-a-self-driving-car-engineer-david-silver-2",
+    "bythebay-20260508-bay-area-ai-becoming-a-self-driving-car-engineer-david-silver"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/234786637/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-becoming-a-self-driving-car-engineer-david-silver:becoming-a-self-driving-car-engineer"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

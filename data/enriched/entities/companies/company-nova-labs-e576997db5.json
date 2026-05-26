@@ -1,0 +1,22 @@
+{
+  "id": "company:nova-labs",
+  "name": "Nova Labs",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-boris-renski-nova-labs.json",
+    "data/raw/sources/bythebay-20260508-is-generative-bi-failing-boris-renski-nova-labs.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-boris-renski-nova-labs",
+    "bythebay-20260508-is-generative-bi-failing-boris-renski-nova-labs"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:boris-renski"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-is-generative-bi-failing-boris-renski-nova-labs:is-generative-bi-failing"
+  ],
+  "type": "company"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2020-02-11T18:00:00-08:00",
+  "end_time": "2020-02-11T20:00:00-08:00",
+  "event_id": "268584447",
+  "event_title": "[RSVP at bay.area.ai] Featuring PyTorch with Facebook, Autodesk and AWS",
+  "github_repositories": [],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor-talk-1:pytorch-1-4-release-update-by-facebook",
+  "kind": "talk",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/268584447/"
+  ],
+  "speaker_ids": [
+    "speaker:brad-heintz"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:brad-heintz",
+      "name": "Brad Heintz",
+      "title": "partner engineer"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "\"PyTorch 1.4 Release Update\" by Facebook",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/268584447/"
+}

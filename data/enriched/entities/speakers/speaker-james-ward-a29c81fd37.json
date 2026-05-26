@@ -1,0 +1,57 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:aws",
+      "company_name": "AWS",
+      "title": "Developer Advocate"
+    },
+    {
+      "company_id": "company:salesforce",
+      "company_name": "Salesforce",
+      "title": null
+    }
+  ],
+  "company_id": "company:aws",
+  "company_ids": [
+    "company:aws",
+    "company:salesforce"
+  ],
+  "company_name": "AWS",
+  "company_names": [
+    "AWS",
+    "Salesforce"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:james-ward",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "James Ward",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-james-ward-aws.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-james-ward-intro-to-akka-streams-james-ward-salesforce-2.json",
+    "data/raw/sources/bythebay-20260508-hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock-james-ward-aws-josh-long-spring-developer-advocate.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-james-ward-intro-to-akka-streams-james-ward-salesforce.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-james-ward-aws",
+    "bythebay-20260508-scala-bay-james-ward-intro-to-akka-streams-james-ward-salesforce-2",
+    "bythebay-20260508-hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock-james-ward-aws-josh-long-spring-developer-advocate",
+    "bythebay-20260508-scala-bay-james-ward-intro-to-akka-streams-james-ward-salesforce"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers",
+    "https://www.meetup.com/scala-bay/events/248179725/"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock-james-ward-aws-josh-long-spring-developer-adv:hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-james-ward-intro-to-akka-streams-james-ward-salesforce:james-ward-intro-to-akka-streams"
+  ],
+  "title": "Developer Advocate",
+  "titles": [
+    "Developer Advocate"
+  ],
+  "type": "speaker"
+}

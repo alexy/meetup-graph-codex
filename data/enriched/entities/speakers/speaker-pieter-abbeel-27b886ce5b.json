@@ -1,0 +1,44 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:pieter-abbeel",
+  "meetup_ids": [
+    "meetup:1731963",
+    "meetup:18315941",
+    "meetup:18601481"
+  ],
+  "name": "Pieter Abbeel",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel-2",
+    "bythebay-20260508-bay-area-ai-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel-2",
+    "bythebay-20260508-bay-area-ai-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel",
+    "bythebay-20260508-sf-data-and-ai-engineering-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel",
+    "bythebay-20260508-san-francisco-hadoop-users-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/293915629/",
+    "https://www.meetup.com/bay-area-ai/events/293476064/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/293915597/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel:llmops-test-driven-development-for-large-language-model-applications",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel:llmops-test-driven-development-for-large-language-model-applications",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-llmops-test-driven-development-for-large-language-model-applications-pieter-abbeel:llmops-test-driven-development-for-large-language-model-applications"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

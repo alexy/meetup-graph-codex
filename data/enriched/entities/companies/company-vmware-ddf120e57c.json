@@ -1,0 +1,20 @@
+{
+  "id": "company:vmware",
+  "name": "VMWare",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-oblivious-privacy-in-a-statically-typed-world-sinan-pehlivanoglu-vmware.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-oblivious-privacy-in-a-statically-typed-world-sinan-pehlivanoglu-vmware"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:sinan-pehlivanoglu"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-oblivious-privacy-in-a-statically-typed-world-sinan-pehlivanoglu-vmware:oblivious-privacy-in-a-statically-typed-world"
+  ],
+  "type": "company"
+}

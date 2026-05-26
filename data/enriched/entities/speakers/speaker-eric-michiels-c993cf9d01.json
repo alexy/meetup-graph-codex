@@ -1,0 +1,44 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ibm",
+      "company_name": "IBM",
+      "title": null
+    }
+  ],
+  "company_id": "company:ibm",
+  "company_ids": [
+    "company:ibm"
+  ],
+  "company_name": "IBM",
+  "company_names": [
+    "IBM"
+  ],
+  "conference_ids": [],
+  "id": "speaker:eric-michiels",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Eric Michiels",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-eric-michiels-ibm-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-eric-michiels-ibm.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-eric-michiels-ibm-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-eric-michiels-ibm-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-eric-michiels-ibm",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-eric-michiels-ibm-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291842205/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289461486/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-eric-michiels-ibm:quantum-computing-and-machine-learning",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-computing-and-machine-learning-eric-michiels-ibm-3:quantum-computing-and-machine-learning"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

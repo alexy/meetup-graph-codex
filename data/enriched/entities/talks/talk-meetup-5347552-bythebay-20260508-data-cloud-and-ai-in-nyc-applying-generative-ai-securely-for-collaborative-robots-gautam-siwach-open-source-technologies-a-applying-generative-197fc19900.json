@@ -1,0 +1,50 @@
+{
+  "abstract": "Topic repeated at 2 different times, please join the session that is best suited for your time zone. The use of Collaborative robots, or Cobots, has seen a significant increase in recent years due to their ability to work alongside humans in various industries. However, ensuring safe and reliable interactions between humans and Cobots is critical to avoid any potential harm. Generative Artificial Intelligence (AI) has emerged as a promising solution to address such concerns by enabling Cobots to learn from human interactions, adapt to changing environments, and respond accordingly. This session focuses on the latest advancements in the field of Generative AI for safe and reliable interactions with Collaborative Robots. The aim is to bring together researchers, practitioners, and industry experts to discuss the use of Generative AI techniques such as Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and Deep Reinforcement Learning (DRL) to enhance the performance of Cobots. The session also explores how Generative AI can mitigate risks associated with human-Cobot interactions, such as collisions, errors in communication, and potential malfunctions. Presenter: Gautam Siwach Gautam Siwach is a distinguished thought leader and principal executive for open source technologies at IBM. Gautam has published several papers in top-tier conferences and journals and has also served as a reviewer for various IEEE and ACM conferences. As a passionate advocate of Generative Artificial Intelligence, Gautam has delivered talks and presented his research at various international conferences and meetups. He believes that the use of Generative AI techniques can revolutionize the field of robotics and enable safe and reliable interactions between humans and machines. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/rd26b4a3e0201217d3634c48b6fdec619",
+  "conference_id": null,
+  "date_time": "2023-05-24T08:00:00-04:00",
+  "end_time": "2023-05-24T09:00:00-04:00",
+  "event_id": "292587941",
+  "event_title": "Applying Generative AI Securely for Collaborative Robots",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-applying-generative-ai-securely-for-collaborative-robots-gautam-siwach-open-source-technologies-a:applying-generative-ai-securely-for-collaborative-robots",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-applying-generative-ai-securely-for-collaborative-robots-gautam-siwach-open-source-technologies-at-ibm.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-applying-generative-ai-securely-for-collaborative-robots-gautam-siwach-open-source-technologies-at-ibm-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-applying-generative-ai-securely-for-collaborative-robots-gautam-siwach-open-source-technologies-at-ibm",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-applying-generative-ai-securely-for-collaborative-robots-gautam-siwach-open-source-technologies-at-ibm-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292587941/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/292588112/"
+  ],
+  "speaker_ids": [
+    "speaker:gautam-siwach",
+    "speaker:gautam-siwach-gautam-siwach"
+  ],
+  "speakers": [
+    {
+      "company_name": "IBM",
+      "id": "speaker:gautam-siwach",
+      "name": "Gautam Siwach",
+      "title": "open source technologies"
+    },
+    {
+      "company_name": null,
+      "id": "speaker:gautam-siwach-gautam-siwach",
+      "name": "Gautam Siwach Gautam Siwach",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Applying Generative AI Securely for Collaborative Robots",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/292587941/"
+}

@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:steven-liddle-steven",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Steven Liddle Steven",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-solving-data-security-data-management-and-data-privacy-together-steven-liddle-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-solving-data-security-data-management-and-data-privacy-together-steven-liddle.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-solving-data-security-data-management-and-data-privacy-together-steven-liddle-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-solving-data-security-data-management-and-data-privacy-together-steven-liddle"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290318771/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-solving-data-security-data-management-and-data-privacy-together-steven-liddle:solving-data-security-data-management-and-data-privacy-together"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

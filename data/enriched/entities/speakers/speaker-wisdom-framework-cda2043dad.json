@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:wisdom-framework",
+  "meetup_ids": [
+    "meetup:18748975"
+  ],
+  "name": "Wisdom Framework",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-build-reactive-distributed-and-polyglot-application-with-vert-x-clement-escoffier-who-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-build-reactive-distributed-and-polyglot-application-with-vert-x-clement-escoffier-who.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-build-reactive-distributed-and-polyglot-application-with-vert-x-clement-escoffier-who-2",
+    "bythebay-20260508-scale-by-the-bay-build-reactive-distributed-and-polyglot-application-with-vert-x-clement-escoffier-who"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/231897896/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-build-reactive-distributed-and-polyglot-application-with-vert-x-clement-escoffier-who:build-reactive-distributed-and-polyglot-application-with-vert-x"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

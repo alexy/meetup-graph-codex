@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:automation-day",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Automation Day",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-day-ai-and-automation-automation-day-scale-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-day-ai-and-automation-automation-day-scale.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-day-ai-and-automation-automation-day-scale-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-day-ai-and-automation-automation-day-scale"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/301600887/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-day-ai-and-automation-automation-day-scale:ibm-techxchange-day-ai-and-automation"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

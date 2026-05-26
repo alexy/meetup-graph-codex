@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2016-06-21T18:00:00-07:00",
+  "end_time": "2016-06-21T21:00:00-07:00",
+  "event_id": "231581313",
+  "event_title": "Unmeetup at Chartboost",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-unmeetup-at-chartboost-chartboost-chartboost:schedule-determined",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-unmeetup-at-chartboost-chartboost-chartboost.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-unmeetup-at-chartboost-chartboost-chartboost"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/231581313/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Schedule determined",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/231581313/"
+}

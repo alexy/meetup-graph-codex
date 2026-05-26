@@ -1,0 +1,31 @@
+{
+  "abstract": "IBM Tech TV is a new, always-on platform for the latest technical talks, live demos, and updates straight from IBM experts. Catch shows focused on honing the skills relevant to the success of both your business and yourself, featuring Distinguished Engineers, developers, and executives. At launch, IBM Tech TV will be home to three free, live, and on-demand shows focused on Cloud, and Data & AI, with more shows on the way. Subscribe now and return to discover your new favorite weekly series and to explore a growing library of original, expert-produced content that you can access whenever you want! Disruption! Episode 2: The myriad sources, formats, and locations of enterprise data has long been a source of frustration for organizations. The Big Data revolution of the last decade has only added rocket fuel to this problem. To tackle this issue requires a platform that makes connecting to data, relating disparate data, and providing that data using well understood methods a reality. This ability needs to work exactly the same way regardless of format (structured and unstructured), source type (RDBMS, noSQL, CoS, App, Doc, RealTime, etc), and location (cloud, on premise, data service). Without this capability, the journey to AI is impossible. Disruption! Series Schedule: August 13th: Organize: Enabling self-service data access and transformation and true data governance August 20th: Analyze: Rapid Machine Learning Model Development in a Dynamic Landscape August 27th: Infuse: Understanding how to deliver data-driven insights to critical processes and maximize impact",
+  "conference_id": null,
+  "date_time": "2020-08-06T09:00:00-04:00",
+  "end_time": "2020-08-06T10:00:00-04:00",
+  "event_id": "272280301",
+  "event_title": "IBM Tech TV Disruption! Episode 2: Collect: Simplifying Access to Data",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-tech-tv-disruption-episode-2-collect-simplifying-access-to-data-event:ibm-tech-tv-disruption-episode-2-collect-simplifying-access-to-data",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-tech-tv-disruption-episode-2-collect-simplifying-access-to-data-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-tech-tv-disruption-episode-2-collect-simplifying-access-to-data-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/272280301/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "IBM Tech TV Disruption! Episode 2: Collect: Simplifying Access to Data",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/272280301/"
+}

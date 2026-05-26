@@ -1,0 +1,31 @@
+{
+  "abstract": "5:00-5:30pm Networking 5:30-6:00pm Dave Reich | The Observationist 6:00-7:00pm This hands on lab uses drone aerial images, Watson Studio and Watson Visual Recognition to survey flood damaged neighborhoods, identify homes with survivors on rooftops and detect rescue boats",
+  "conference_id": null,
+  "date_time": "2019-06-18T17:00:00-04:00",
+  "end_time": "2019-06-18T19:00:00-04:00",
+  "event_id": "261458516",
+  "event_title": "Save Lives with Drones / IoT / Visual Recognition - Hands on Lab",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-save-lives-with-drones-iot-visual-recognition-hands-on-lab-event:save-lives-with-drones-iot-visual-recognition-hands-on-lab",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-save-lives-with-drones-iot-visual-recognition-hands-on-lab-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-save-lives-with-drones-iot-visual-recognition-hands-on-lab-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/261458516/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Save Lives with Drones / IoT / Visual Recognition - Hands on Lab",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/261458516/"
+}

@@ -1,0 +1,31 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:the-ibm-quantum",
+  "name": "The IBM Quantum",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-henrik-vosegaard.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-digital-enablement-leader.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-henrik-vosegaard.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-henrik-vosegaard",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-digital-enablement-leader",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-henrik-vosegaard",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290311781/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290311918/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297911086/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297915488/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-henrik-vosegaard:introduction-to-quantum-computing",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-introduction-to-quantum-computing-digital-enablement-leader:introduction-to-quantum-computing",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-henrik-vosegaard:quantum-series-part-1-introduction-to-quantum-computing",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-1-introduction-to-quantum-computing-digital-enablement-leader:quantum-series-part-1-introduction-to-quantum-computing"
+  ],
+  "type": "project"
+}

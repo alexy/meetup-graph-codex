@@ -1,0 +1,31 @@
+{
+  "abstract": "As you know Spark + AI Summit, 2018 will be at the Moscone Convention Center, San Francisco. We are providing members of this meetup organization a special 15% discount code SF2MU. This year, Spark Summit adds the much needed AI focus. As Databricks matures, and as Spark adoption widens in the industry, we see an exciting series of use cases, new solutions in OSS and SaaS areas, and new entrants in the community as well as progress reports from many companies that are our regulars. There are two meetups held in conjunction with the summit: before and after! Before: the original BASM (founded in 2012 by Alexy and Matei) on June 4th, 2018, at the Moscone Convention Center, which is open to everyone; you don’t have to be registered to attend! https://www.meetup.com/spark-users/events/250659328/ And after: Joint SF Spark and Friends, Global Advanced Spark and TensorFlow, and Bay Area AI meetup (founded and presented by Alexy, Chris, and Alexy, resp.), https://www.meetup.com/SF-Spark-and-Friends/events/251030715/ -- hosted by Mesosphere in its new office at 225 Bush St., 7th floor -- that used to be Nitro where SF Spark and SF Scala and Bay Area AI were held before and will continue to be held going forward!",
+  "conference_id": null,
+  "date_time": "2018-06-04T08:00:00-07:00",
+  "end_time": "2018-06-06T18:00:00-07:00",
+  "event_id": "251030457",
+  "event_title": "Spark+AI Summit",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-spark-ai-summit-event:spark-ai-summit",
+  "kind": "talk",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-ai-summit-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-ai-summit-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/251030457/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Spark+AI Summit",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/251030457/"
+}

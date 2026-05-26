@@ -1,0 +1,22 @@
+{
+  "id": "company:roost-tools-advisor-anthropic",
+  "name": "ROOST.tools, Advisor @ Anthropic",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-vinay-rao-roost-tools-advisor-anthropic.json",
+    "data/raw/sources/bythebay-20260508-safety-in-foundational-models-vinay-rao-roost-tools-advisor.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-vinay-rao-roost-tools-advisor-anthropic",
+    "bythebay-20260508-safety-in-foundational-models-vinay-rao-roost-tools-advisor"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:vinay-rao"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-safety-in-foundational-models-vinay-rao-roost-tools-advisor:safety-in-foundational-models"
+  ],
+  "type": "company"
+}

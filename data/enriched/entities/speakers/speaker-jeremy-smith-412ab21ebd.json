@@ -1,0 +1,53 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:netflix",
+      "company_name": "Netflix",
+      "title": null
+    },
+    {
+      "company_id": "company:netflix",
+      "company_name": "Netflix",
+      "title": "Software Engineer"
+    }
+  ],
+  "company_id": "company:netflix",
+  "company_ids": [
+    "company:netflix"
+  ],
+  "company_name": "Netflix",
+  "company_names": [
+    "Netflix"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:jeremy-smith",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Jeremy Smith",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang-2.json",
+    "data/raw/sources/bythebay-20260508-aging-evolving-software-tools-and-ourselves-jeremy-smith-netflix.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang-2",
+    "bythebay-20260508-aging-evolving-software-tools-and-ourselves-jeremy-smith-netflix",
+    "bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/244389272/",
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-aging-evolving-software-tools-and-ourselves-jeremy-smith-netflix:aging-evolving-software-tools-and-ourselves",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-based-ml-framework-at-netflix-hua-jiang:scala-based-ml-framework-at-netflix"
+  ],
+  "title": "Software Engineer",
+  "titles": [
+    "Software Engineer"
+  ],
+  "type": "speaker"
+}

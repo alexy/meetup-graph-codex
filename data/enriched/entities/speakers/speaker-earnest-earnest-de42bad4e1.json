@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:earnest-earnest",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Earnest Earnest",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-earnest-earnest-earnest-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-earnest-earnest-earnest.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-earnest-earnest-earnest-2",
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-earnest-earnest-earnest"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/235317732/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-earnest-earnest-earnest:sf-scala-unmeetup-earnest"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

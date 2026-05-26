@@ -1,0 +1,20 @@
+{
+  "id": "company:scala-bay",
+  "name": "Scala Bay",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-richard-wall-amazon-echo-applications-called-skills-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-richard-wall-amazon-echo-applications-called-skills-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/225169599/"
+  ],
+  "speaker_ids": [
+    "speaker:richard-wall"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-richard-wall-amazon-echo-applications-called-skills-event:richard-wall-amazon-echo-applications"
+  ],
+  "type": "company"
+}

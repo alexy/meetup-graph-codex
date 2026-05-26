@@ -1,0 +1,31 @@
+{
+  "abstract": "We're happy to host Clement Delangue with a talk about Hugging Face, whose Transformers are taking the NLP scene by storm. We'll update the meetup with more details when we get them. The meetup is online, and we cap our Zoom at 100. Please manage your RSVP responsibly. Clement is the co-founder and CEO of Hugging Face, the leading NLP startup, based in NYC and Paris, that raised more than $20M from prominent investors. The company created Transformers, the fastest growing open-source library enabling thousands of companies to leverage natural language processing. Prior to Hugging Face, Clement started his machine learning journey at Moodstocks, a start up that built machine learning for computer vision and got acquired by Google",
+  "conference_id": null,
+  "date_time": "2020-06-25T11:00:00-07:00",
+  "end_time": "2020-06-25T13:00:00-07:00",
+  "event_id": "270962399",
+  "event_title": "Hugging Face By the Bay!",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-hugging-face-by-the-bay-event:hugging-face-by-the-bay",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-hugging-face-by-the-bay-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-hugging-face-by-the-bay-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/270962399/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Hugging Face By the Bay!",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/270962399/"
+}

@@ -1,0 +1,31 @@
+{
+  "abstract": "Update: the workshop attendees are selected by lottery from signups and the workshop is now full. Please come only if you have the invitation from Underscore on hand. Miles Sabin will conduct a full-day, 30-people only, free workshop on Shapeless. To be fair, we'll open unlimited signup and will raffle the 30 tickets using a purely functional random number generator written in Scala. http://underscore.io/events/2015-03-20-shapeless.html",
+  "conference_id": null,
+  "date_time": "2015-03-20T09:00:00-07:00",
+  "end_time": "2015-03-20T17:00:00-07:00",
+  "event_id": "220509074",
+  "event_title": "Shapeless Workshop: Free by Lottery",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-shapeless-workshop-free-by-lottery-event:shapeless-workshop-free-by-lottery",
+  "kind": "workshop",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-shapeless-workshop-free-by-lottery-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-shapeless-workshop-free-by-lottery-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/220509074/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Shapeless Workshop: Free by Lottery",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/220509074/"
+}

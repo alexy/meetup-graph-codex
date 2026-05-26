@@ -1,0 +1,40 @@
+{
+  "abstract": "Chang She is the CEO and cofounder of LanceDB, the developer-friendly, open-source database for multi-modal AI. A serial entrepreneur, Chang has been building DS/ML tooling for nearly two decades and is one of the original contributors to the pandas library. Prior to founding LanceDB, Chang was VP of Engineering at TubiTV, where he focused on personalized recommendations and ML experimentation Learn more about Chang She here https://www.linkedin.com/in/changshe/ Learn more about LanceDB here https://lancedb.com",
+  "conference_id": null,
+  "date_time": "2025-04-22T17:30:00-07:00",
+  "end_time": "2025-04-22T20:00:00-07:00",
+  "event_id": "306945414",
+  "event_title": "Search, Retrieval, Training, and Analytics with Modern AI Data Lake By Chang She",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-m:about-chang-she",
+  "kind": "talk",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-modal-ai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-modal-ai-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/306945414/"
+  ],
+  "speaker_ids": [
+    "speaker:chang-she"
+  ],
+  "speakers": [
+    {
+      "company_name": "multi-modal AI",
+      "id": "speaker:chang-she",
+      "name": "Chang She",
+      "title": "CEO and cofounder of LanceDB, the developer-friendly, open-source database"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "About Chang She",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/306945414/"
+}

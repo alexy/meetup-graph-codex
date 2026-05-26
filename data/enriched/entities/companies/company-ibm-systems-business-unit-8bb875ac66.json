@@ -1,0 +1,25 @@
+{
+  "id": "company:ibm-systems-business-unit",
+  "name": "IBM Systems business unit",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-business-unit-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-business-unit.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-business-unit-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-business-unit-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-business-unit",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-business-unit-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289676479/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289676333/"
+  ],
+  "speaker_ids": [
+    "speaker:dawn-ahukanna"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-designing-people-centered-ai-modelling-power-and-powerful-modelling-dawn-ahukanna-ibm-systems-bus:designing-people-centered-ai-modelling-power-and-powerful-modelling"
+  ],
+  "type": "company"
+}

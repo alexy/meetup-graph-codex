@@ -1,0 +1,33 @@
+{
+  "abstract": "PredictionIO and StumbleUpon talks! (1) PredictionIO is an open source machine learning server written in Scala. The project ranks top on Github with over 5000 engaging developers. PredictionIO is designed for data scientists and developers to build predictive engines for real-world applications in a fraction of the time normally required. In this talk, Simon will introduce the latest developments of PredictionIO, and show how to use it to build and deploy predictive engines in real production environments. Using PredictionIO’s DASE design pattern, Simon will illustrate how Scala developers can build machine learning applications with the separation of concerns (SoC) in mind. “D\" stands for Data Source and the Data Preparator, which take care of the preparation of data for model training. “A\" stands for Algorithm, which is where the code of one or more algorithms are implemented. “S” stands for Serving, which handles the application logic during the retrieval of predicted results. Finally, “E” stands for Evaluation. Simon will also cover upcoming development work, including new Engine Templates for various business scenarios. Simon Chan is a co-founder of PredictionIO, with years of experience in the tech industry in London, Hong Kong, Mainland China and Silicon Valley. His doctoral research work at University College London was on machine learning techniques for large-scale user preference prediction in noisy non-experimental environments. (2) Serendipity Search at StumbleUpon StumbleUpon is the largest personalized content discovery engine on the web. StumbleUpon indexes over 180 million web pages for serendipitous retrieval for over 30 million registered users. The talk introduces the audience to the reach and diversity of StumbleUpon's problem space and walks through recent R&D initiatives, highlighting challenges to be addressed to enable machine learning and data mining at scale. Debora Donato is Sr. Director of Personalization and Principal Data Scientist at StumbleUpon. Before moving to StumbleUpon, Debora was Senior Scientist at Yahoo! Labs. Her research interests include User Behavior Analysis, Recommendation Systems, Web Information Retrieval, Link Analysis, Algorithms for the Characterization of the Web, Complex Networks and Social Networks. Debora obtained a Ph.D. in Computer Engineering in 2005 from the University of Rome \"La Sapienza\". She has published more than 50 scientific papers and she has been serving on the program committee of top tier conferences in the area of Data Mining and Information Retrieval. Agenda 6:00 doors open, food, drink, and mingling 6:30 announcements & 1-minute pitches 6:45 StumbleUpon 7:30 PredictionIO general Q&A time permitting 8:30 more mingling 9:00 doors close",
+  "conference_id": null,
+  "date_time": "2015-01-22T18:00:00-08:00",
+  "end_time": "2015-01-22T21:00:00-08:00",
+  "event_id": "219673406",
+  "event_title": "Prediction.IO -- ML Server for Scala + Serendipity Search at StumbleUpon",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-prediction-io-ml-server-for-scala-serendipity-search-at-stumbleupon-event:prediction-io-ml-server-for-scala-serendipity-search-at-stumbleupon",
+  "kind": "workshop",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:scala-the"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-prediction-io-ml-server-for-scala-serendipity-search-at-stumbleupon-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-prediction-io-ml-server-for-scala-serendipity-search-at-stumbleupon-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/219673406/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Prediction.IO -- ML Server for Scala + Serendipity Search at StumbleUpon",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/219673406/"
+}

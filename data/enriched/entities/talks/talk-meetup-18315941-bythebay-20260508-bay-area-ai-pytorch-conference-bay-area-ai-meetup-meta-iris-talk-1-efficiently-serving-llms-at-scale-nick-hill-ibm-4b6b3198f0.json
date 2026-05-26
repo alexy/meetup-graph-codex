@@ -1,0 +1,40 @@
+{
+  "abstract": "In this talk I will discuss challenges of serving LLMs efficiently in highly concurrent, multi-user contexts, and some of the optimizations unique to these kinds of models that have emerged over the the last year. These include \"continuous batching\" of heterogeneous requests. I'll dig into the implementations which involve careful manipulation of tensors with PyTorch Nick Hill, IBM . Nick is a Senior Research Engineer focused on scalable serving of large language models. He previously led the architecture and development of distributed machine learning infrastructure supporting key IBM AI cloud products and services including Watson Assistant, Watson Discovery and Watson Natural Language Understanding. He designed and implemented the Model-Mesh serving framework that supports hundreds of thousands of models, now a key component of the KServe open source project. He is also an author of and contributor to other open source projects",
+  "conference_id": null,
+  "date_time": "2023-10-18T16:00:00-07:00",
+  "end_time": "2023-10-18T19:00:00-07:00",
+  "event_id": "296052494",
+  "event_title": "PyTorch Conference + Bay Area AI Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris-talk-1:efficiently-serving-llms-at-scale-nick-hill-ibm",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-pytorch-conference-bay-area-ai-meetup-meta-iris-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/296052494/"
+  ],
+  "speaker_ids": [
+    "speaker:watson-natural-language-understanding-he"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:watson-natural-language-understanding-he",
+      "name": "Watson Natural Language Understanding. He",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Efficiently serving LLMs at scale, Nick Hill, IBM",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/296052494/"
+}

@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:graphql",
+  "name": "GraphQL",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-graphql-by-the-bay-1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform-event",
+    "bythebay-20260508-sf-scala-1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/graphql-by-the-bay/events/261050384/",
+    "https://www.meetup.com/sf-scala/events/261320085/"
+  ],
+  "talk_ids": [
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform-event:1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform-event:1-migrating-medium-to-graphql-2-thunder-samsara-graphql-iot-data-platform"
+  ],
+  "type": "project"
+}

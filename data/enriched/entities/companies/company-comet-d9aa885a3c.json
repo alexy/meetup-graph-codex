@@ -1,0 +1,25 @@
+{
+  "id": "company:comet",
+  "name": "Comet",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-claire-longo-comet.json",
+    "data/raw/sources/bythebay-20260508-vincent-koc-comet.json",
+    "data/raw/sources/bythebay-20260508-automatic-agent-optimization-and-the-rise-of-self-improving-agents-vincent-koc-comet.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-claire-longo-comet",
+    "bythebay-20260508-vincent-koc-comet",
+    "bythebay-20260508-automatic-agent-optimization-and-the-rise-of-self-improving-agents-vincent-koc-comet"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:claire-longo",
+    "speaker:vincent-koc"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-automatic-agent-optimization-and-the-rise-of-self-improving-agents-vincent-koc-comet:automatic-agent-optimization-and-the-rise-of-self-improving-agents"
+  ],
+  "type": "company"
+}

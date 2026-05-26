@@ -1,0 +1,28 @@
+{
+  "id": "company:zilliz",
+  "name": "Zilliz",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-workshop-with-milvus-and-openai-harry-zhao-openai-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-rag-pipeline-with-data-prep-kit-milvus-granite-workshop-stefan-webb-zilliz.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-rag-pipeline-with-data-prep-kit-milvus-granite-workshop-stefan-webb-zilliz.json",
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-workshop-with-milvus-and-openai-harry-zhao-openai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-workshop-with-milvus-and-openai-harry-zhao-openai-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-rag-pipeline-with-data-prep-kit-milvus-granite-workshop-stefan-webb-zilliz",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-rag-pipeline-with-data-prep-kit-milvus-granite-workshop-stefan-webb-zilliz",
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-workshop-with-milvus-and-openai-harry-zhao-openai-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/306180969/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/305888534/"
+  ],
+  "speaker_ids": [
+    "speaker:stefan-webb"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-rag-pipeline-with-data-prep-kit-milvus-granite-workshop-stefan-webb-zilliz:rag-pipeline-with-data-prep-kit-milvus-granite-workshop",
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-workshop-with-milvus-and-openai-harry-zhao-openai-talk-2:hands-on-tutorial-building-an-agent-to-reason-about-private-data-with-milvus-stefan-webb-z"
+  ],
+  "type": "company"
+}

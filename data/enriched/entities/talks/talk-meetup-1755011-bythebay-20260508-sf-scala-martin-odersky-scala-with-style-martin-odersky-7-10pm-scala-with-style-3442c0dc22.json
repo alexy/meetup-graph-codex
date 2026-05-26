@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2013-06-20T18:30:00-07:00",
+  "end_time": "2013-06-20T21:30:00-07:00",
+  "event_id": "120367992",
+  "event_title": "Martin Odersky: Scala with Style",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-martin-odersky-scala-with-style-martin-odersky:7-10pm-scala-with-style",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-martin-odersky-scala-with-style-martin-odersky.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-martin-odersky-scala-with-style-martin-odersky"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/120367992/"
+  ],
+  "speaker_ids": [
+    "speaker:martin-odersky"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:martin-odersky",
+      "name": "Martin Odersky",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "7:10pm Scala with Style",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/120367992/"
+}

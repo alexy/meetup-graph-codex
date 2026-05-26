@@ -1,0 +1,54 @@
+{
+  "abstract": "Please join the session that is best suited to your time zone...this topic is repeated at 2 different times. In this session, we will demonstrate how IBM’s Chief Privacy Office has innovated to expand its mature Privacy program into an Integrated Governance Program, adapting existing systems to address both ethical AI and privacy regulations, and move towards a continuous compliance approach. Presenters: John Bowman, Anaysha Parker John Bowman joined IBM’s Chief Privacy Office in October 2022 as AI Ethics Market Strategy Lead. His role includes advising on enhancements to support regulatory compliance, helping to create a deployment framework, and commercialisation of select IBM CPO assets. Previously, John was a Senior Principal in Promontory, IBM Consulting; and before that John worked at the UK Ministry of Justice where he was Head of EU and International Data Protection Policy. Anaysha Parker is a member of the Market Strategy team within IBM’s Chief Privacy Office. Over the last three years, Anaysha has specialized in AI ethics and contributed to the evolution of IBM’s AI Ethics program and use case review process. Today, she focuses on showcasing IBM’s thought leadership around data and AI governance to assist clients in similar journeys. Before working with IBM’s Chief Privacy Office, Anaysha was a transformation consultant in the US Federal Sector. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/red2c73f5a192662539fe6786c1bc27e6",
+  "conference_id": null,
+  "date_time": "2024-01-11T15:30:00-05:00",
+  "end_time": "2024-01-11T16:30:00-05:00",
+  "event_id": "297488934",
+  "event_title": "Implementing Ethical AI and Privacy with an Integrated Governance Program",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-implementing-ethical-ai-and-privacy-with-an-integrated-governance-program-anaysha-parker-3:implementing-ethical-ai-and-privacy-with-an-integrated-governance-program",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-implementing-ethical-ai-and-privacy-with-an-integrated-governance-program-anaysha-parker-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-implementing-ethical-ai-and-privacy-with-an-integrated-governance-program-anaysha-parker-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297488934/"
+  ],
+  "speaker_ids": [
+    "speaker:anaysha-parker",
+    "speaker:anaysha-parker-john-bowman",
+    "speaker:john-bowman"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:anaysha-parker",
+      "name": "Anaysha Parker",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:anaysha-parker-john-bowman",
+      "name": "Anaysha Parker John Bowman",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:john-bowman",
+      "name": "John Bowman",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Implementing Ethical AI and Privacy with an Integrated Governance Program",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/297488934/"
+}

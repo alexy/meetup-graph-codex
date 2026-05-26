@@ -1,0 +1,33 @@
+{
+  "abstract": "With the rise of microservices and IaaS, interest in container orchestration systems - like Kubernetes, Mesos, and Docker Swarm - has increased significantly. While many engineers will use these systems as a target to deploy their service to, they also expose an API that can be integrated in an application, allowing it to interact with containers deployed on it. In this talk, we are going to present some ways that Domino uses to integrate with Kubernetes to allow Data Scientists to deploy models as their own services. Alex Bergeron is a software engineer at Domino Data Lab. Agenda 6:15 - Doors Open 7:00 - Alex's talk About Domino Data Lab (Venue) At Domino Data Lab we are accelerating the evolution of data science through the creation of a scalable, centralized platform that allows for rapid model development and collaborative research. Our platform enables data scientists to develop better medicines, grow more productive crops, build better cars, or simply recommend the best song to play next. Our small team of 15 engineers has built the platform with Scala & Docker: https://www.dominodatalab.com/careers",
+  "conference_id": null,
+  "date_time": "2017-09-06T18:15:00-07:00",
+  "end_time": "2017-09-06T21:00:00-07:00",
+  "event_id": "242654103",
+  "event_title": "Meetup @ Domino Data Lab",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-meetup-domino-data-lab-event:meetup-domino-data-lab",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:our"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-meetup-domino-data-lab-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-meetup-domino-data-lab-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/242654103/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Meetup @ Domino Data Lab",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/242654103/"
+}

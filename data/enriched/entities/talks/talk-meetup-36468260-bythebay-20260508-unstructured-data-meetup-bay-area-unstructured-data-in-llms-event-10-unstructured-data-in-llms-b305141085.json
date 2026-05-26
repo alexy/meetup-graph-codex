@@ -1,0 +1,38 @@
+{
+  "abstract": "This is an in-person event! Registration is required in order to get in. Github will email you a form the day before the event, which you will need to complete for your access pass. Topic: Connecting your unstructured data with Generative AI What we’ll do: Have some food and refreshments. Hear three exciting talks and a demo about unstructured data and generative AI. 5:30 - 6:00 - Welcome/Networking/Registration 6:05 - 6:30 - Sourabh Agrawal, Co-founder and maintainer, UpTrain 6:35 - 7:00 - Jiang Chen, Head of Ecosystem & AI Platform, Zilliz 7:05 - 7:30 - Shangyin Tan, key contributor, DSPy 7:35 - 7:45 - Community demo - Ben Cerchio, Co-founder, Secludy 7:45 - 8:30 - Networking Tech Talk 1 : Challenges associated with using LLM-as-a-judge Speaker : Sourabh Agrawal Abstract : Using LLMs to determine quality of LLM applications has gained a lot of interest recently, rightly so because it is highly scalable and solves the subjective nature of human evaluations. However, building production-grade evaluations is much more complicated than prompting the LLM to act as a judge and grade the given response. In this talk, we will cover the key techniques employed in industry + academia on how to effectively define LLM-based evaluations, understand associated challenges and look at what lies beyond evaluation. We will learn real-world instances of how these evaluations can be leveraged to improve your LLM applications. Tech Talk 2 : Building Production Ready Search Pipelines with Spark and Milvus Speaker : Jiang Chen Abstract : Spark is the widely used ETL tool for processing, indexing and ingesting data to serving stack for search. Milvus is the production-ready open-source vector database. In this talk we will show how to use Spark to process unstructured data to extract vector representations, and push the vectors to Milvus vector database for search serving. Tech Talk 3 : Programming Foundation Models with DSPy Speaker : Shangyin Tan Abstract : Prompting language models is hard, while programming language models is easy. In this talk, I will discuss the state-of-the-art framework DSPy for programming foundation models with its powerful optimizers and runtime constraint system. Community Demo : Generating privacy-protected synthetic data using Secludy and Milvus Speakers : Ben Cerchio Abstract : During this demo, the founders of Secludy will demonstrate how their system utilizes Milvus to store and manipulate embeddings for generating privacy-protected synthetic data. Their approach not only maintains the confidentiality of the original data but also enhances the utility and scalability of LLMs under privacy constraints. Attendees, including machine learning engineers, data scientists, and data managers, will witness first-hand how Secludy's integration with Milvus empowers organizations to harness the power of LLMs securely and efficiently. Who Should attend: Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. When: June 10, 2023 5:30PM Where: This is an in-person event. Registration using this form is required to get into the event. Registration in advance will close 2 days before the event. Sponsored by Zilliz maintainers of Milvus. Can't make it in person? We will also be streaming live: https://www.twitch.tv/vectordatabase",
+  "conference_id": null,
+  "date_time": "2024-06-10T17:30:00-07:00",
+  "end_time": "2024-06-10T20:30:00-07:00",
+  "event_id": "299447366",
+  "event_title": "Unstructured Data in LLMs",
+  "github_repositories": [
+    "https://github.com/stanfordnlp/dspy",
+    "https://github.com/milvus-io/milvus"
+  ],
+  "id": "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-10:unstructured-data-in-llms",
+  "kind": "talk",
+  "meetup_id": "meetup:36468260",
+  "project_ids": [
+    "project:https-github-com-stanfordnlp-dspy",
+    "project:https-github-com-milvus-io-milvus",
+    "project:etl"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-10.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-10"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/299447366/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Unstructured Data in LLMs",
+  "type": "talk",
+  "url": "https://www.meetup.com/unstructured-data-sf/events/299447366/"
+}

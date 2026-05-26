@@ -1,0 +1,32 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:nathan-fischer",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Nathan Fischer",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-2",
+    "bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-1",
+    "bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/272898761/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-1:ninny-json-type-classes-that-know-that-none-is-not-null-by-nathan-fischer",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-2:leveraging-tools-from-the-scala-community-to-learn-and-teach-scala-by-leo-benkel"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

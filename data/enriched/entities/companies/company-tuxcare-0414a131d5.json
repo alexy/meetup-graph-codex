@@ -1,0 +1,22 @@
+{
+  "id": "company:tuxcare",
+  "name": "TuxCare",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-baruch-sadogursky-tuxcare.json",
+    "data/raw/sources/bythebay-20260508-can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question-baruch-sadogursky-tuxcare-leonid-igolnik-executive-vice-president-of-engineering.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-baruch-sadogursky-tuxcare",
+    "bythebay-20260508-can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question-baruch-sadogursky-tuxcare-leonid-igolnik-executive-vice-president-of-engineering"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:baruch-sadogursky"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question-baruch-sadogursky-tuxcare-leonid-igolnik-executi:can-we-trust-al-generated-code-maybe-we-ve-been-asking-the-wrong-question"
+  ],
+  "type": "company"
+}

@@ -1,0 +1,44 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "DevRel and Community Lead"
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Developer Relations and Community Lead"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:laura-gutierrez-funderburk",
+  "meetup_ids": [],
+  "name": "Laura Gutierrez Funderburk",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-laura-gutierrez-funderburk-ai-by-the-bay.json",
+    "data/raw/sources/bythebay-20260508-graphs-as-the-backbone-of-robust-scalable-and-interoperable-agentic-applications-laura-gutierrez-funderburk.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-laura-gutierrez-funderburk-ai-by-the-bay",
+    "bythebay-20260508-graphs-as-the-backbone-of-robust-scalable-and-interoperable-agentic-applications-laura-gutierrez-funderburk"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-graphs-as-the-backbone-of-robust-scalable-and-interoperable-agentic-applications-laura-gutierrez-funderburk:graphs-as-the-backbone-of-robust-scalable-and-interoperable-agentic-applications"
+  ],
+  "title": "DevRel and Community Lead",
+  "titles": [
+    "DevRel and Community Lead",
+    "Developer Relations and Community Lead"
+  ],
+  "type": "speaker"
+}

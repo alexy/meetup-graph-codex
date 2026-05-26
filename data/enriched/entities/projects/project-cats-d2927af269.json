@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:cats",
+  "name": "Cats",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-cats-a-new-library-for-functional-programming-in-scala-abstract-cats.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-cats-a-new-library-for-functional-programming-in-scala-abstract-cats"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/224243855/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-cats-a-new-library-for-functional-programming-in-scala-abstract-cats:cats-a-new-library-for-functional-programming-in-scala"
+  ],
+  "type": "project"
+}

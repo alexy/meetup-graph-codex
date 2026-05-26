@@ -1,0 +1,31 @@
+{
+  "github_repositories": [
+    "https://github.com/DS4SD/docling"
+  ],
+  "github_repository": "https://github.com/DS4SD/docling",
+  "id": "project:https-github-com-ds4sd-docling",
+  "name": "docling",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-getting-started-with-docling-and-data-prep-kit-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-hands-on-with-docling-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-getting-started-with-docling-and-data-prep-kit-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-3",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-hands-on-with-docling-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/305798978/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306421923/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306535097/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-getting-started-with-docling-and-data-prep-kit-event:ai-alliance-getting-started-with-docling-and-data-prep-kit",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-2:reviewing-data-preparation-tools",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-review-of-data-preparation-tools-incl-open-q-a-sujee-maniyam-talk-3:review-of-data-preparation-tools-incl-open-q-a",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-hands-on-with-docling-event:workshop-hands-on-with-docling"
+  ],
+  "type": "project"
+}

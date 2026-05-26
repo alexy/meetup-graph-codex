@@ -1,0 +1,45 @@
+{
+  "id": "company:scala",
+  "name": "Scala",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-functional-programming-in-scala-part-1-of-3-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-functional-programming-in-scala-part-2-of-3-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-functional-programming-in-scala-part-3-of-3-event.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-functional-programming-in-scala-part-1-of-3-event.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-functional-programming-in-scala-part-2-of-3-event.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-functional-programming-in-scala-part-3-of-3-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-functional-programming-in-scala-part-1-of-3-event-talk-2",
+    "bythebay-20260508-sf-scala-functional-programming-in-scala-part-2-of-3-event-talk-2",
+    "bythebay-20260508-sf-scala-functional-programming-in-scala-part-3-of-3-event-talk-2",
+    "bythebay-20260508-scala-bay-functional-programming-in-scala-part-1-of-3-event-talk-2",
+    "bythebay-20260508-scala-bay-functional-programming-in-scala-part-2-of-3-event-talk-2",
+    "bythebay-20260508-scala-bay-functional-programming-in-scala-part-3-of-3-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/305629251/",
+    "https://www.meetup.com/sf-scala/events/305629309/",
+    "https://www.meetup.com/sf-scala/events/305629359/",
+    "https://www.meetup.com/scala-bay/events/305629540/",
+    "https://www.meetup.com/scala-bay/events/305629560/",
+    "https://www.meetup.com/scala-bay/events/305629578/"
+  ],
+  "speaker_ids": [
+    "speaker:functional-programming"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-programming-in-scala-part-1-of-3-event-talk-2:about-our-speaker",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-programming-in-scala-part-2-of-3-event-talk-1:functional-programming-in-scala-part-2-of-3",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-programming-in-scala-part-2-of-3-event-talk-2:about-our-speaker",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-programming-in-scala-part-3-of-3-event-talk-1:functional-programming-in-scala-part-3-of-3",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-programming-in-scala-part-3-of-3-event-talk-2:about-our-speaker",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-functional-programming-in-scala-part-1-of-3-event-talk-1:functional-programming-in-scala-part-1-of-3",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-functional-programming-in-scala-part-1-of-3-event-talk-2:about-our-speaker",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-functional-programming-in-scala-part-2-of-3-event-talk-1:functional-programming-in-scala-part-2-of-3",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-functional-programming-in-scala-part-2-of-3-event-talk-2:about-our-speaker",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-functional-programming-in-scala-part-3-of-3-event-talk-1:functional-programming-in-scala-part-3-of-3",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-functional-programming-in-scala-part-3-of-3-event-talk-2:about-our-speaker"
+  ],
+  "type": "company"
+}

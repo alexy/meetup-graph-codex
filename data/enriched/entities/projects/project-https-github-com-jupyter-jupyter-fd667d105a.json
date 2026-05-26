@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/jupyter/jupyter"
+  ],
+  "github_repository": "https://github.com/jupyter/jupyter",
+  "id": "project:https-github-com-jupyter-jupyter",
+  "name": "jupyter",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-jupyter-at-scale-deep-learning-more-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-jupyter-at-scale-deep-learning-more-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/253667181/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-jupyter-at-scale-deep-learning-more-event:jupyter-at-scale-deep-learning-more"
+  ],
+  "type": "project"
+}

@@ -1,0 +1,35 @@
+{
+  "abstract": null,
+  "conference_id": "scale-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:scale-by-the-bay:bythebay-20260508-keynote-things-databases-don-t-do-but-should-gwen-chen-shapira-nile:keynote-things-databases-don-t-do-but-should",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-keynote-things-databases-don-t-do-but-should-gwen-chen-shapira-nile.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-keynote-things-databases-don-t-do-but-should-gwen-chen-shapira-nile"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:gwen-chen-shapira"
+  ],
+  "speakers": [
+    {
+      "company_name": "Nile",
+      "id": "speaker:gwen-chen-shapira",
+      "name": "Gwen (Chen) Shapira",
+      "title": "Co-Founder and CPO"
+    }
+  ],
+  "tags": [],
+  "title": "Keynote: Things Databases Don't Do (but should)",
+  "type": "talk",
+  "url": "https://www.scale.bythebay.io/post/gwen-shapira-things-databases-don-t-do-but-should"
+}

@@ -1,0 +1,35 @@
+{
+  "abstract": null,
+  "conference_id": "scale-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:scale-by-the-bay:bythebay-20260508-open-source-science-vs-open-source-software-what-s-different-what-s-the-same-dean-wampler-ibm-research:open-source-science-vs-open-source-software-what-s-different-what-s-the-same",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-open-source-science-vs-open-source-software-what-s-different-what-s-the-same-dean-wampler-ibm-research.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-open-source-science-vs-open-source-software-what-s-different-what-s-the-same-dean-wampler-ibm-research"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:dean-wampler"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:dean-wampler",
+      "name": "Dean Wampler",
+      "title": "IBM Research, Engineering Directory"
+    }
+  ],
+  "tags": [],
+  "title": "Open Source Science vs. Open Source Software: What's Different? What's the Same?",
+  "type": "talk",
+  "url": "https://www.scale.bythebay.io/post/dean-wampler-open-source-science-vs-open-source-software-what-s-different-what-s-the-same"
+}

@@ -1,0 +1,31 @@
+{
+  "abstract": "Title: Rapture: Better Type Safety across the Seam Abstract: As Scala developers, we love the power and confidence that type-safety gives us. However, this happy typesafe world often only arises after transitioning from a typeless context such as user input or a JSON file. Rapture provides a modular family of libraries for making this leap across the dynamic/static seam, for JSON and XML, working with I/O, command line processing, encryption and HTTP, designed primarily to be intuitive and boilerplate-free, with useful diagnostics at runtime and compile time, but without compromising on type safety. Jon will explore Rapture's features and philosophy, and demo the ease of use and safety it offers for everyday programming tasks. Bio: Jon has been involved in the Scala community for the last ten years, having launched the first commercial and open-source Scala software back in 2005. Since then, he has successfully deployed Scala projects into small, medium and large businesses, and UK government, but is best known these days for his work on Rapture, and more recently Typelevel Scala. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc • 7:10-~8:40 - talk • 8:40-9:00 - networking",
+  "conference_id": null,
+  "date_time": "2015-03-20T19:00:00-07:00",
+  "end_time": "2015-03-20T22:00:00-07:00",
+  "event_id": "220342405",
+  "event_title": "Jon Pretty, \"Rapture: Better Type Safety across the Seam\"",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-jon-pretty-rapture-better-type-safety-across-the-seam-event:jon-pretty-rapture-better-type-safety-across-the-seam",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-jon-pretty-rapture-better-type-safety-across-the-seam-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-jon-pretty-rapture-better-type-safety-across-the-seam-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/220342405/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Jon Pretty, \"Rapture: Better Type Safety across the Seam\"",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/220342405/"
+}

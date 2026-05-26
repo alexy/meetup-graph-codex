@@ -1,0 +1,61 @@
+{
+  "abstract": "5:00 pm - Checkin & Networking 5:30 pm - Introductions & Welcome 5:45 pm - Talks Software-Defined AI Workforce: AI Workers vs. AI Agents byNikita Ivanov, Humatron AI, Founder & CEO Uber’s Multi-Agent Platform by Jamieson Leibovitch, Sr. Software Engineer, Uber Build Computer-Use Agent - from Research to Enterprise Applications by Ran Xu, Director of Applied AI Research, Salesforce 7:15 pm - Lightning / Community Talks Securing the AI Agent Workforce by Amean Asad of Lunal Control Agent Behavior with Rules by Sandi Besen of BeeAI by IBM 7:30 pm - Open Networking w/ Pizza and Sodas 8:30 pm - Close Talk Details Talk 1: Software-Defined AI Workforce: AI Workers vs. AI Agents Nikita Ivanov , Humatron AI, Founder & CEO The rapid rise of autonomous AI agents is reshaping how work gets done-but not all AI is created equal. This session unpacks the critical distinction between AI agents and AI workers in the emerging software-defined AI workforce. We’ll explore the \"One Build - Many HIres\" architecture, governance, and integration patterns. Attendees will gain a practical understanding of where AI agents fit, why AI workers matter for scaling, and how this paradigm shift mirrors the transition from apps to cloud-native platforms",
+  "conference_id": null,
+  "date_time": "2025-09-09T17:00:00-07:00",
+  "end_time": "2025-09-09T20:00:00-07:00",
+  "event_id": "310960653",
+  "event_title": "[lu.ma/ ai registration] AI Agent SF Meetup 6",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch-talk-1:agenda",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/310960653/"
+  ],
+  "speaker_ids": [
+    "speaker:jamieson-leibovitch",
+    "speaker:ran-xu",
+    "speaker:sandi-besen",
+    "speaker:nikita-ivanov"
+  ],
+  "speakers": [
+    {
+      "company_name": "Uber Build Computer-Use Agent",
+      "id": "speaker:jamieson-leibovitch",
+      "name": "Jamieson Leibovitch",
+      "title": "Sr. Software Engineer"
+    },
+    {
+      "company_name": "Rules by",
+      "id": "speaker:ran-xu",
+      "name": "Ran Xu",
+      "title": "Director of Applied AI Research, Salesforce 7:15 pm - Lightning / Community Talks Securing the AI Agent Workforce by Amean Asad of Lunal Control Agent Behavior"
+    },
+    {
+      "company_name": "of BeeAI by IBM 7:30 pm",
+      "id": "speaker:sandi-besen",
+      "name": "Sandi Besen",
+      "title": null
+    },
+    {
+      "company_name": "ron AI",
+      "id": "speaker:nikita-ivanov",
+      "name": "Nikita Ivanov",
+      "title": "Hum"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "📆 Agenda",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/310960653/"
+}

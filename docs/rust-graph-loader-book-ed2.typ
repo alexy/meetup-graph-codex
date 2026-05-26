@@ -97,7 +97,7 @@
 
   #v(0.62in)
   #text(size: 10pt, fill: rgb("#64748b"))[
-    Generated from the implementation in #raw("src/main.rs"), #raw("src/bin/load_graph.rs"), and #raw("src/graph_loader.rs")
+    Generated from the implementation in #raw("src/main.rs"), #raw("src/bin/load_graph.rs"), #raw("src/graph_loader.rs"), and #raw("scripts/enrich_meetup_entities.py")
   ]
 
   #v(1fr)

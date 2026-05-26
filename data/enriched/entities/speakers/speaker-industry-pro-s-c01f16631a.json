@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:industry-pro-s",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Industry Pro's",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-startups-shark-tank-showcase-demo-pitch-expo-mixer-industry-pro-s-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-startups-shark-tank-showcase-demo-pitch-expo-mixer-industry-pro-s.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-startups-shark-tank-showcase-demo-pitch-expo-mixer-industry-pro-s-2",
+    "bythebay-20260508-scala-bay-startups-shark-tank-showcase-demo-pitch-expo-mixer-industry-pro-s"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/172108802/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-startups-shark-tank-showcase-demo-pitch-expo-mixer-industry-pro-s:startups-shark-tank-showcase-demo-pitch-expo-mixer"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

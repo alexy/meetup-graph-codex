@@ -1,0 +1,64 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:uber",
+      "company_name": "Uber",
+      "title": "Sr. Software Engineer"
+    },
+    {
+      "company_id": "company:uber-build-computer-use-agent",
+      "company_name": "Uber Build Computer-Use Agent",
+      "title": "Sr. Software Engineer"
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Sr. Software Engineer, Uber In this presentation we will go over Uber's Agent Platform and its inhouse Agent SDK LangFx . We'll cover how Uber thinks about how agents and some technologies built to enable agentic use cases"
+    }
+  ],
+  "company_id": "company:uber",
+  "company_ids": [
+    "company:uber",
+    "company:uber-build-computer-use-agent"
+  ],
+  "company_name": "Uber",
+  "company_names": [
+    "Uber",
+    "Uber Build Computer-Use Agent"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:jamieson-leibovitch",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Jamieson Leibovitch",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-jamieson-leibovitch-uber.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch.json",
+    "data/raw/sources/bythebay-20260508-uber-s-multi-agent-platform-jamieson-leibovitch-uber.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-jamieson-leibovitch-uber",
+    "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch",
+    "bythebay-20260508-uber-s-multi-agent-platform-jamieson-leibovitch-uber",
+    "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch-talk-1",
+    "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch-talk-2"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers",
+    "https://www.meetup.com/bay-area-ai/events/310960653/"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-uber-s-multi-agent-platform-jamieson-leibovitch-uber:uber-s-multi-agent-platform",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch-talk-1:agenda",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-lu-ma-ai-registration-ai-agent-sf-meetup-6-jamieson-leibovitch-talk-2:software-defined-ai-workforce-ai-workers-vs-ai-agents"
+  ],
+  "title": "Sr. Software Engineer",
+  "titles": [
+    "Sr. Software Engineer",
+    "Sr. Software Engineer, Uber In this presentation we will go over Uber's Agent Platform and its inhouse Agent SDK LangFx . We'll cover how Uber thinks about how agents and some technologies built to enable agentic use cases"
+  ],
+  "type": "speaker"
+}

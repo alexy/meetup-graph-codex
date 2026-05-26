@@ -1,0 +1,40 @@
+{
+  "abstract": "Drive enterprise AI at scale with experts, users and partners AI and Automation Day is a fully digital experience bringing together thousands of industry experts to discuss how to drive enterprise AI at scale. We will explore new watsonx initiatives that can scale AI programs across your enterprise, as well as AI-powered automation solutions designed to transform technology cost and operations management to boost enterprise-wide productivity. Register to access hands-on learning and technical talks across all three tracks. This one day virtual event is designed to enable you to: Apply AI to your role and unlock the full potential to transform your business processes. Scale practical and urgent business use cases such as code modernization, customer service, finops. Manage and reduce IT complexity and digital labor, among others. Experience technical breakout sessions and best practices from IBM experts, end-users and ecosystem partners. Explore speakers, review session topics, and register today",
+  "conference_id": null,
+  "date_time": "2024-07-16T11:00:00-04:00",
+  "end_time": "2024-07-16T17:00:00-04:00",
+  "event_id": "301600887",
+  "event_title": "IBM TechXchange Day: AI and Automation",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-day-ai-and-automation-automation-day-scale:ibm-techxchange-day-ai-and-automation",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-day-ai-and-automation-automation-day-scale.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-techxchange-day-ai-and-automation-automation-day-scale"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/301600887/"
+  ],
+  "speaker_ids": [
+    "speaker:automation-day"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:automation-day",
+      "name": "Automation Day",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "IBM TechXchange Day: AI and Automation",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/301600887/"
+}

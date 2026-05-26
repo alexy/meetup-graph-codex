@@ -1,0 +1,18 @@
+{
+  "id": "company:pure-storage",
+  "name": "Pure Storage",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-gaurav-jain-pure-storage.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-gaurav-jain-pure-storage"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:gaurav-jain"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

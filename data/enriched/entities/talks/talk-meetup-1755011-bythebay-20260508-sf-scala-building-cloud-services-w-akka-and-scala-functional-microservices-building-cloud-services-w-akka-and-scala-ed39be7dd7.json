@@ -1,0 +1,96 @@
+{
+  "abstract": "We are grateful to Oracle for welcoming us to their Oakland Scala space! Oracle is a presenter at the upcoming Scale By the Bay conference on Reactive Java programming -- https://sched.co/FmEf. Reserve your seat at http://scale.bythebay.io/tickets.html by 10/31 when the regular admissions end, and use the code SFSCALA15 to get 15% off! We have three talks today -- amazing deep dives into key strengths of Scala. Buckle up for a journey through the clouds along the full stack! ----- (1) Building Cloud Services with Akka and Scala Oracle is building a next generation cloud and we will talk about our architectural decisions around Scala. Speaker: Grant Gavares Grant worked as a core staff member on the development of AWS Cloud Services. He now works as an architect with Oracle Cloud Infrastructure. (2) Scala & Functional Microservices Functional Programming and the Declarative style are popular paradigms for writing stable, high-quality code without the use of mutable state. When designing Microservices, however, developers sometimes forget that data persistence can also be immutable. In this talk we'll see how your microservices data layer can benefit from the functional approach. Speaker: Jason Swartz Jason is an engineer building high-performance GraphQL edge services at Twitch in San Francisco. He's previously worked in Scala at Mesosphere and Netflix, and is the author of the O'Reilly Media book \"Learning Scala\". (3) Slinky: a typesafe Scala interface to React Slinky (https://slinky.shadaj.me) is a typesafe Scala interface to React. By combining the advanced language features offered by Scala with the powerful abstractions from React, Slinky makes it easy to develop large web applications as sets of composable components. In this talk, we will see how Slinky can be used in a variety of contexts and also take a look into how it works internally. Speaker: Shadaj Laddad Shadaj is currently a student at UC Berkeley studying Electrical Engineering and Computer Science. He has interned at Apollo, Khan Academy, Coursera, and Paya Labs working with technologies such as GraphQL, React.js, and Scala.js to develop open-source frameworks and education platforms. Shadaj hosts many open-source libraries and projects on GitHub, and has presented at OSCON 2014, Scala Days (2012 - 2018), Scala By the Bay, and the Bay Area Scala Enthusiasts",
+  "conference_id": null,
+  "date_time": "2018-11-08T18:30:00-08:00",
+  "end_time": "2018-11-08T20:30:00-08:00",
+  "event_id": "255950651",
+  "event_title": "Building Cloud Services w/ Akka and Scala",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices:building-cloud-services-w-akka-and-scala",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-building-cloud-services-w-akka-and-scala-functional-microservices"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/255950651/"
+  ],
+  "speaker_ids": [
+    "speaker:functional-microservices",
+    "speaker:functional-programming",
+    "speaker:grant-gavares",
+    "speaker:grant-gavares-grant",
+    "speaker:jason-swartz",
+    "speaker:jason-swartz-jason",
+    "speaker:khan-academy",
+    "speaker:shadaj-laddad",
+    "speaker:shadaj-laddad-shadaj"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:functional-microservices",
+      "name": "Functional Microservices",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:functional-programming",
+      "name": "Functional Programming",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:grant-gavares",
+      "name": "Grant Gavares",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:grant-gavares-grant",
+      "name": "Grant Gavares Grant",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:jason-swartz",
+      "name": "Jason Swartz",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:jason-swartz-jason",
+      "name": "Jason Swartz Jason",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:khan-academy",
+      "name": "Khan Academy",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:shadaj-laddad",
+      "name": "Shadaj Laddad",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:shadaj-laddad-shadaj",
+      "name": "Shadaj Laddad Shadaj",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Building Cloud Services w/ Akka and Scala",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/255950651/"
+}

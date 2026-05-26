@@ -1,0 +1,94 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:demandbase",
+      "company_name": "Demandbase",
+      "title": null
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Sr. Software Engineer Satisfaction is the next-generation Hadoop scheduler, which allows you to conveniently package, deploy and monitor all your data pipelines. Satisfaction defines a Scala DSL in which you can create goals and dependencies"
+    },
+    {
+      "company_id": "company:demandbase",
+      "company_name": "Demandbase",
+      "title": "Principal Big Data Engineer"
+    },
+    {
+      "company_id": "company:haskell-development-by",
+      "company_name": "Haskell development\" by",
+      "title": "7:30pm: \"Using Nix"
+    },
+    {
+      "company_id": "company:summary",
+      "company_name": "Summary",
+      "title": null
+    }
+  ],
+  "company_id": "company:demandbase",
+  "company_ids": [
+    "company:demandbase",
+    "company:haskell-development-by",
+    "company:summary"
+  ],
+  "company_name": "Demandbase",
+  "company_names": [
+    "Demandbase",
+    "Haskell development\" by",
+    "Summary"
+  ],
+  "conference_ids": [],
+  "id": "speaker:jerome-banks",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:18748975",
+    "meetup:1731963"
+  ],
+  "name": "Jerome Banks",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-2",
+    "bythebay-20260508-scale-by-the-bay-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase",
+    "bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2-talk-3",
+    "bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-2",
+    "bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-3",
+    "bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-5",
+    "bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-8",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-2",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-3",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-5",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-8",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-10"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/268998404/",
+    "https://www.meetup.com/bythebay/events/268998983/",
+    "https://www.meetup.com/hadoopsf/events/220286707/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-april-sf-hadoop-users-meetup-event-2-talk-3:a-brief-introduction-to-satisfaction",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-2:qubism-and-nlp-at-scale-with-scala-by-jerome-banks",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-3:using-nix-for-haskell-development-by-john-wiegley",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-5:6-50pm-qubism-and-nlp-at-scale-with-scala",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-8:qubism-and-nlp-at-scale-with-scala",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:qubism-and-nlp-at-scale-with-scala-by-jerome-banks",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:using-nix-for-haskell-development-by-john-wiegley",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:6-50pm-qubism-and-nlp-at-scale-with-scala",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:qubism-and-nlp-at-scale-with-scala",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix"
+  ],
+  "title": "Sr. Software Engineer Satisfaction is the next-generation Hadoop scheduler, which allows you to conveniently package, deploy and monitor all your data pipelines. Satisfaction defines a Scala DSL in which you can create goals and dependencies",
+  "titles": [
+    "Sr. Software Engineer Satisfaction is the next-generation Hadoop scheduler, which allows you to conveniently package, deploy and monitor all your data pipelines. Satisfaction defines a Scala DSL in which you can create goals and dependencies",
+    "Principal Big Data Engineer",
+    "7:30pm: \"Using Nix"
+  ],
+  "type": "speaker"
+}

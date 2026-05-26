@@ -1,0 +1,40 @@
+{
+  "abstract": "Li Haoyi graduated from MIT with a degree in Computer Science and Engineering, since then has built core infrastructure for high-growth companies like Dropbox and Databricks, and has been a major contributor to the open source community. Author of the \"com-lihaoyi\" suite of OSS Scala projects, these projects have over 10,000 stars on Github, and are downloaded over 20,000,000 times a month. Haoyi has deep experience in the JVM and has professionally built distributed backend systems, programming languages, high-performance web applications, and much more Learn more about Li Haoyi by visiting his website/blog here https://www.lihaoyi.com",
+  "conference_id": null,
+  "date_time": "2025-04-22T17:30:00-07:00",
+  "end_time": "2025-04-22T20:00:00-07:00",
+  "event_id": "306945414",
+  "event_title": "Search, Retrieval, Training, and Analytics with Modern AI Data Lake By Chang She",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-m:about-li-haoyi",
+  "kind": "talk",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-modal-ai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-modal-ai-talk-4"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/306945414/"
+  ],
+  "speaker_ids": [
+    "speaker:li-haoyi"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:li-haoyi",
+      "name": "Li Haoyi",
+      "title": "graduated from MIT"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "About Li Haoyi",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/306945414/"
+}

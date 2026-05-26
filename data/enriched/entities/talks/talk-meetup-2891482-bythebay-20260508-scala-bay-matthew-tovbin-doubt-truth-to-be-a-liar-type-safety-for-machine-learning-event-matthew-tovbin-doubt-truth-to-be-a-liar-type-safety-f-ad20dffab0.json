@@ -1,0 +1,31 @@
+{
+  "abstract": "Abstract Feature vectors - sequences of heterogenous types - are the basic unit of any machine learning algorithm. Further, feature engineering involves manipulations of these feature vectors and is a fundamental step in optimizing the accuracy of machine learning models. These manipulations may take the form of regular Scala sequence operations that can also be distributed using frameworks such as Spark or Flink. When building a general purpose machine learning framework, the types of engineered features is not known in advance, which is a problem for statically typed languages. In this talk, I will walk through possible solutions for designing type-safe feature vectors in Scala that provide compile-time type safety for feature engineering and other machine learning use cases. The solutions will demonstrate applications of Shapeless, Scala Macros, and Quasiquotes. Slides can be found here. (http://www.slideshare.net/MatthewTovbin/doubt-truth-to-be-a-liar-non-triviality-of-type-safety-for-machine-learning) Bio Matthew Tovbin (https://www.linkedin.com/in/mttov/) is a Principal Member of Technical Staff at Salesforce, engineering Salesforce Einstein AI platform, which powers the world’s smartest CRM. Before joining Salesforce, he acted as a Director of Engineering at Badgeville, implementing scalable and highly available real-time event processing services with Scala. In addition, Matthew is a co-organizer of Scala Bay meetup and an active member in numerous functional programming groups. Matthew lives in SF Bay area with his wife and kid, enjoys photography, hiking, good whisky and PC gaming. Schedule • 6:30-7:00 - networking • 7:00-7:10 - announcements etc. • 7:10-8:00 - talk • 8:00-8:30 - networking",
+  "conference_id": null,
+  "date_time": "2017-02-16T18:30:00-08:00",
+  "end_time": "2017-02-16T21:30:00-08:00",
+  "event_id": "235598752",
+  "event_title": "Matthew Tovbin, Doubt Truth to be a Liar: Type Safety for Machine Learning",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-matthew-tovbin-doubt-truth-to-be-a-liar-type-safety-for-machine-learning-event:matthew-tovbin-doubt-truth-to-be-a-liar-type-safety-for-machine-learning",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-matthew-tovbin-doubt-truth-to-be-a-liar-type-safety-for-machine-learning-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-matthew-tovbin-doubt-truth-to-be-a-liar-type-safety-for-machine-learning-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/235598752/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Matthew Tovbin, Doubt Truth to be a Liar: Type Safety for Machine Learning",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/235598752/"
+}

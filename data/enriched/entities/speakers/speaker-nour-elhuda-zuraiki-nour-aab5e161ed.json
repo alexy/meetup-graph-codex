@@ -1,0 +1,38 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:nour-elhuda-zuraiki-nour",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Nour Elhuda Zuraiki Nour",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-3-learning-about-quantum-computing-in-financial-services-nour-elhuda-zuraiki-ibm-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-1-learning-about-quantum-computing-basics-nour-elhuda-zuraiki-ibm.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-1-learning-about-quantum-computing-basics-nour-elhuda-zuraiki-ibm-3.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-3-learning-about-quantum-computing-in-financial-services-nour-elhuda-zuraiki-ibm.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-3-learning-about-quantum-computing-in-financial-services-nour-elhuda-zuraiki-ibm-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-1-learning-about-quantum-computing-basics-nour-elhuda-zuraiki-ibm",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-1-learning-about-quantum-computing-basics-nour-elhuda-zuraiki-ibm-3",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-3-learning-about-quantum-computing-in-financial-services-nour-elhuda-zuraiki-ibm"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/296567003/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/296566231/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/296566357/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-1-learning-about-quantum-computing-basics-nour-elhuda-zuraiki-ibm:quantum-careers-part-1-learning-about-quantum-computing-basics",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-1-learning-about-quantum-computing-basics-nour-elhuda-zuraiki-ibm-3:quantum-careers-part-1-learning-about-quantum-computing-basics",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-careers-part-3-learning-about-quantum-computing-in-financial-services-nour-elhuda-zuraiki:quantum-careers-part-3-learning-about-quantum-computing-in-financial-services"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:modular",
+      "company_name": "Modular",
+      "title": "Co-founder and the CEO"
+    }
+  ],
+  "company_id": "company:modular",
+  "company_ids": [
+    "company:modular"
+  ],
+  "company_name": "Modular",
+  "company_names": [
+    "Modular"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:chris-lattner",
+  "meetup_ids": [],
+  "name": "Chris Lattner",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-keynote-chris-lattner-modular.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-keynote-chris-lattner-modular"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [],
+  "title": "Co-founder and the CEO",
+  "titles": [
+    "Co-founder and the CEO"
+  ],
+  "type": "speaker"
+}

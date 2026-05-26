@@ -1,0 +1,31 @@
+{
+  "abstract": "Our IBM Academy of Technology (AoT) was formed in 1989 as a community of the best technical minds in IBM to provide innovation, technical advice and conscience. The community supports cultural change across all business units and across the globe. Today, our AoT continues to be a community of selected IBM top technical leaders organized to advance the understanding of key technical areas & trends, enable attract & retain the technical community, and engage our clients in technical pursuits of mutual value. The Board of Governors is the ruling body for our Academy of Technology and consists of Senior Technical Executives and the Academy President. These executives provide guidance for our Academy value, assist in evangelizing our value and shaping our impact. Learn more",
+  "conference_id": null,
+  "date_time": "2022-06-02T12:00:00-04:00",
+  "end_time": "2022-06-02T13:00:00-04:00",
+  "event_id": "285938364",
+  "event_title": "IBM Data Science Community: Learn about Elyra Visual NLP Editor",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-4:about-ibm-academy-of-technology-aot",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ibm-data-science-community-learn-about-elyra-visual-nlp-editor-event-talk-4"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/285938364/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "About IBM Academy of Technology (AoT)",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/285938364/"
+}

@@ -1,0 +1,47 @@
+{
+  "abstract": "Please join the session that is best suited to your time zone...this topic is repeated at 2 different times. Description to be added at a later date. Note that this is part 3 of an 11-session Quantum Series running from January to June. The sessions are not prerequisites for each other, and are not recorded. We will provide reference links and do quick recaps of previous content as required, so if you miss an earlier session, you can still get value from subsequent sessions. Presenter: Hemavathi Santhanam Hemavathi Santhanam is a Technical Account Manager (Data and AI) at Expert Labs, IBM with over 10 years of experience in the Information Server suite of products and Cloud Pak for Data. Hema has earned a Master of Science in Computing and Data Analytics from Saint Mary’s University, Halifax. She is also a Qiskit Advocate and on her way to becoming an IBM Quantum Ambassador. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/rd2a5b8edf4eea34fcc2e7a8247ab7575",
+  "conference_id": null,
+  "date_time": "2024-02-29T15:30:00-05:00",
+  "end_time": "2024-02-29T16:30:00-05:00",
+  "event_id": "297916107",
+  "event_title": "Quantum Series Part 3: Utility Scale Quantum Computing",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-3-utility-scale-quantum-computing-hemavathi-santhanam:quantum-series-part-3-utility-scale-quantum-computing",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-3-utility-scale-quantum-computing-hemavathi-santhanam.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-3-utility-scale-quantum-computing-hemavathi-santhanam"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297916107/"
+  ],
+  "speaker_ids": [
+    "speaker:hemavathi-santhanam",
+    "speaker:hemavathi-santhanam-hemavathi-santhanam"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:hemavathi-santhanam",
+      "name": "Hemavathi Santhanam",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:hemavathi-santhanam-hemavathi-santhanam",
+      "name": "Hemavathi Santhanam Hemavathi Santhanam",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Quantum Series Part 3: Utility Scale Quantum Computing",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/297916107/"
+}

@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:gradual-typing-full",
+  "name": "Gradual Typing. Full",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-scale-by-the-bay-2021-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-scale-by-the-bay-2021-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/281229266/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-scale-by-the-bay-2021-event:scale-by-the-bay-2021"
+  ],
+  "type": "project"
+}

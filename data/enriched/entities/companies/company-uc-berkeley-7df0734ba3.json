@@ -1,0 +1,27 @@
+{
+  "id": "company:uc-berkeley",
+  "name": "UC Berkeley",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning-vaishaal-shankar-ben-recht-at-uc-berkeley-2.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning-vaishaal-shankar-ben-recht-at-uc-berkeley.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-external-registration-required-ai-alliance-and-vllm-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning-vaishaal-shankar-ben-recht-at-uc-berkeley-2",
+    "bythebay-20260508-bay-area-ai-to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning-vaishaal-shankar-ben-recht-at-uc-berkeley",
+    "bythebay-20260508-bay-area-ai-external-registration-required-ai-alliance-and-vllm-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/270871731/",
+    "https://www.meetup.com/bay-area-ai/events/298461968/"
+  ],
+  "speaker_ids": [
+    "speaker:vaishaal-shankar",
+    "speaker:google-brain-woosuk-kwon"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning-vaishaal-shankar-ben-recht-at-uc:to-kernels-and-back-again-a-study-of-empirical-phenomena-in-machine-learning",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-external-registration-required-ai-alliance-and-vllm-event-talk-2:vllm-project-update-zhuohan-li-woosuk-kwon-uc-berkeley"
+  ],
+  "type": "company"
+}

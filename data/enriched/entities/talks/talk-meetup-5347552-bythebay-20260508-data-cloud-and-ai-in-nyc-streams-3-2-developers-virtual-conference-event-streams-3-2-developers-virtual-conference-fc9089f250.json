@@ -1,0 +1,31 @@
+{
+  "abstract": "THIS IS A WEB CONFERENCE ONLY - TIME INDICATED IS LOCAL START TIME. SEE BELOW FOR DETAILS. IBM InfoSphere Streams V3.2 (http://www-03.ibm.com/software/products/us/en/infosphere-streams/) (referred to as Streams) delivers a highly scalable, agile software infrastructure to perform in-motion analytics (http://www-01.ibm.com/software/data/infosphere/stream-computing/) on a wide variety of relational and non-relational data types that enter the enterprise at unprecedented volumes and speed, and from thousands of real-time sources. Streams V3.2 includes new features and functions designed to instantly analyze and fuse massive volumes of data and integrates with existing infrastructures. It delivers new capabilities to improve usability, support enterprise readiness, and streamline enterprise integration. WHAT: The following new features and functions, which will be covered during the Streams Developer Conference: Usability: • Remote Development with Streams Studio for Windows and Linux • User Defined Parallelism • Java Streams development simplification Enterprise readiness: • Operational Decision Management adapter for business rules • Access to application data using Representational State Transfer (REST) Enterprise integration: • MQTT adapters • Hadoop Big SQL support • HP Vertica Analytic Database support Who should attend: The event assumes you are familiar with Streams. If you are not, please either try the Big Data University Streams course (http://bigdatauniversity.com/bdu-wp/bdu-course/stream-computing-i/) or review some of the Streams videos on YouTube (http://www.youtube.com/user/ibmbigdata/search?query=streams). WHEN: Webcast (https://www.webdialogs.com/join/?schedid=2058889) on Thursday November 14, 2013 from 10:00AM to 6:00PM U.S. Eastern Standard Time. WHERE: The webcast will be recorded and posted to Big Data University (BDU) at the following Big Data University course ID (https://bigdatauniversity.com/courses/auth/openid/login.php). NOTE: There will be no physical location for this meetup and it will all be online. To get more info, download presentations, get detailed agenda and to register for the event check out the BDU Streams Developers Virtual Conference landing page (http://bigdatauniversity.com/bdu-wp/bdu-course/ibm-infosphere-streams-3-2-developers-conference/). The detailed agenda will be posted at the BDU class/event page after Oct 31. Please join us on the live LotusLive meeting webcast (https://www.webdialogs.com/join/?schedid=2058889). The conference ID is 2058889. Audio in listen only mode will be available on the webcast. To ask questions during Q&A periods, please use the following conference information: USA Toll-Free: 1-888-426-6840 USA Caller Paid: 1-215-861-6239 For Other Countries call in numbers use this link (https://www.teleconference.att.com/servlet/glbAccess?process=1&accessCode=7821035&accessNumber=2158616239). Participant Code: 7821035 We look forward to sharing details about these new capabilities",
+  "conference_id": null,
+  "date_time": "2013-11-14T10:00:00-05:00",
+  "end_time": "2013-11-14T18:00:00-05:00",
+  "event_id": "148758542",
+  "event_title": "Streams 3.2 Developers Virtual Conference",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-streams-3-2-developers-virtual-conference-event:streams-3-2-developers-virtual-conference",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-streams-3-2-developers-virtual-conference-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-streams-3-2-developers-virtual-conference-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/148758542/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Streams 3.2 Developers Virtual Conference",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/148758542/"
+}

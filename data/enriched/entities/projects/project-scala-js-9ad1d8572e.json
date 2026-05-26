@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:scala-js",
+  "name": "Scala.js",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-js-workshop-followed-by-the-new-graphql-meetup-credit-karma.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-js-workshop-followed-by-the-new-graphql-meetup-credit-karma"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/233628295/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-js-workshop-followed-by-the-new-graphql-meetup-credit-karma:scala-js-workshop-followed-by-the-new-graphql-meetup"
+  ],
+  "type": "project"
+}

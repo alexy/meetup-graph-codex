@@ -1,0 +1,18 @@
+{
+  "id": "company:5-45pm-essential-effects-by",
+  "name": "5.45pm Essential Effects By",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/275583573/"
+  ],
+  "speaker_ids": [
+    "speaker:salar-rahmanian"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

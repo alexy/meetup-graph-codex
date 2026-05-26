@@ -1,0 +1,54 @@
+{
+  "abstract": "Spark is increasingly used in adtech. Let's review the applications and best practices! We have two sets of talks in this extended meetup, which is a part of the Cognitive Frameworks Festival running 6/6-9 in partnership with IBM, Galvanize, and Framework Foundation. Our gracious hosts from Chartboost present, as well as Criteo, another key user of Scala and Spark in Adtech. 1. AdTech Engineering at Chartboost Speakers:Deepak Thakral, Chartboost VP of Product and Engineering, is an industry veteran leading vision and technical strategy. Prior to Chartboost, he led Engineering and Product for Quixey and YP / AT&T Interactive.Vivek Hariharan, Senior Director of Engineering at Chartboost, oversees the SDK, Apps, AdServing and Data engineering teams and was formerly an engineering leader across several large-scale advertising, targeting and data initiatives for Yahoo! About CB: Chartboost is the world’s largest mobile games-only platform, helping game developers grow their audience, monetize, and make better data-driven decisions. They work with 90% of the top-grossing iOS and Android game developers and are currently being leveraged by over 300,000 games, reaching 1 billion active players around the world every month. 2. Practical insights on monadic error handling in Spark Alex Oleinikov, Criteo Error handling in distributed systems is tough, but once done right it can make data pipeline's beavior predictable and incident investigations will no longer be a puzzle. The talk covers a monadic approach to error handling, tradeoffs of it's implementation in Spark, advantages, related technical difficulties and ways to deal with them. Alex works on data collection and knowledge extraction for the last 6 years. He developed media information knowledge base which powers the Media vertical at Yandex. There he also worked on consumer facing web services, their performance and scalability aspects. Lately he’s busy bringing the miracle of machine learning to search ads camapaign management at Criteo. https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif",
+  "conference_id": null,
+  "date_time": "2017-06-06T18:00:00-07:00",
+  "end_time": "2017-06-06T21:00:00-07:00",
+  "event_id": "239736345",
+  "event_title": "Spark in Adtech",
+  "github_repositories": [],
+  "id": "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov:spark-in-adtech",
+  "kind": "talk",
+  "meetup_id": "meetup:18601481",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-in-adtech-alex-oleinikov"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/239736345/"
+  ],
+  "speaker_ids": [
+    "speaker:alex-oleinikov",
+    "speaker:deepak-thakral",
+    "speaker:senior-director"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:alex-oleinikov",
+      "name": "Alex Oleinikov",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:deepak-thakral",
+      "name": "Deepak Thakral",
+      "title": null
+    },
+    {
+      "company_name": "Chartboost",
+      "id": "speaker:senior-director",
+      "name": "Senior Director",
+      "title": "Engineering"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Spark in Adtech",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-data-and-ai-engineering/events/239736345/"
+}

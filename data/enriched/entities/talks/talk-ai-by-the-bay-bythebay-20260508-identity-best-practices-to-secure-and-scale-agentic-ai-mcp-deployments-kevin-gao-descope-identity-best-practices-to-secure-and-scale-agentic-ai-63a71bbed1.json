@@ -1,0 +1,39 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-identity-best-practices-to-secure-and-scale-agentic-ai-mcp-deployments-kevin-gao-descope:identity-best-practices-to-secure-and-scale-agentic-ai-mcp-deployments",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-identity-best-practices-to-secure-and-scale-agentic-ai-mcp-deployments-kevin-gao-descope.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-identity-best-practices-to-secure-and-scale-agentic-ai-mcp-deployments-kevin-gao-descope"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:kevin-gao"
+  ],
+  "speakers": [
+    {
+      "company_name": "Descope",
+      "id": "speaker:kevin-gao",
+      "name": "Kevin Gao",
+      "title": "Head of DevRel"
+    }
+  ],
+  "tags": [
+    "AI Infrastructure",
+    "LLMOps",
+    "MCP"
+  ],
+  "title": "Identity Best Practices to Secure and Scale Agentic AI / MCP Deployments",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/identity-best-practices-to-secure-and-scale-agentic-ai-mcp-deployments"
+}

@@ -1,0 +1,58 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2024-10-15T17:00:00-07:00",
+  "end_time": "2024-10-15T20:00:00-07:00",
+  "event_id": "303687526",
+  "event_title": "Unstructured Data in LLMs - South Bay Edition",
+  "github_repositories": [
+    "https://github.com/milvus-io/milvus"
+  ],
+  "id": "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3:infinite-world-generation-with-outlines",
+  "kind": "talk",
+  "meetup_id": "meetup:36468260",
+  "project_ids": [
+    "project:https-github-com-milvus-io-milvus"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/303687526/"
+  ],
+  "speaker_ids": [
+    "speaker:cameron-pfiffer",
+    "speaker:vaibhav-gupta",
+    "speaker:who-should"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:cameron-pfiffer",
+      "name": "Cameron Pfiffer",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:vaibhav-gupta",
+      "name": "Vaibhav Gupta",
+      "title": "CEO, BoundaryML Abstract : We'll share techniques"
+    },
+    {
+      "company_name": "2024 5:30PM",
+      "id": "speaker:who-should",
+      "name": "Who Should",
+      "title": "attend: Anyone interested in talking and learning about Unstructured Data and Generative AI Apps. When: October 15"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Infinite world generation with Outlines",
+  "type": "talk",
+  "url": "https://www.meetup.com/unstructured-data-sf/events/303687526/"
+}

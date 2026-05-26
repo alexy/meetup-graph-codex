@@ -1,0 +1,35 @@
+{
+  "abstract": "Overview When building machine learning and data applications, a significant portion of your time will be dedicated to data wrangling - from content extraction and cleaning up data. This session introduces Dockling - a robust, open source tool, designed to handle many types of document formats including PDF, DOCX, HTML and PPTX. Attendees will learn first hand how to use Docling to extract and cleanup data from various documents. Description Docling is a versatile document processor that handles various file types, including PDF, HTML, and DOCX. It can handle complex document structures like tables, multi-column format etc. It can even extract text from scanned documents. Docling is open source and easy to use. More about docking: https://github.com/DS4SD/docling Join us for this hands-on session to explore how to use Docling for your data needs.. In this workshop we will do the following: getting started with Docling extracting content from various documents (PDF / HTML) Handling table and image data Extracting content from scanned PDF documents using OCR (Optical Character Recognition) What do you need to participate in this workshop? Comfortable in python programming language We will run the workshop code using Google Collab (free) - no other setup is needed! Session Type Hands-on workshop Audience LLM app developers, data scientists, data engineers Technical Level Beginner - Intermediate Prerequisites Comfortable in python programming language We will run the workshop using Google Collab (free) - no other setup is needed! Duration 45 mins Industry Cross industry Speaker Bio https://sujee.dev/bio About the AI Alliance The AI Alliance is an international community of researchers, developers and organizational leaders committed to support and enhance open innovation across the AI technology landscape to accelerate progress, improve safety, security and trust in AI, and maximize benefits to people and society everywhere. Members of the AI Alliance believe that open innovation is essential to develop and achieve safe and responsible AI that benefit society rather than benefit a select few big players",
+  "conference_id": null,
+  "date_time": "2025-03-13T12:00:00-04:00",
+  "end_time": "2025-03-13T13:00:00-04:00",
+  "event_id": "306535097",
+  "event_title": "[AI Alliance] Workshop: Hands-on with Docling",
+  "github_repositories": [
+    "https://github.com/DS4SD/docling"
+  ],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-hands-on-with-docling-event:workshop-hands-on-with-docling",
+  "kind": "workshop",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:https-github-com-ds4sd-docling"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-hands-on-with-docling-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-workshop-hands-on-with-docling-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306535097/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Workshop: Hands-on with Docling",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/306535097/"
+}

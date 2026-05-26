@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2023-11-13T08:00:00-08:00",
+  "end_time": "2023-11-13T16:00:00-08:00",
+  "event_id": "296212567",
+  "event_title": "Workshop: \"Building production-ready LLM-powered applications\" by Josh Tobin",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-talk-2:the-most-comprehensive-and-interesting-class-i-ever-attended",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-workshop-building-production-ready-llm-powered-applications-by-josh-tobin-andrej-karpathy-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/296212567/"
+  ],
+  "speaker_ids": [
+    "speaker:boris-dayma"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:boris-dayma",
+      "name": "Boris Dayma",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "the most comprehensive and interesting class I ever attended",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/296212567/"
+}

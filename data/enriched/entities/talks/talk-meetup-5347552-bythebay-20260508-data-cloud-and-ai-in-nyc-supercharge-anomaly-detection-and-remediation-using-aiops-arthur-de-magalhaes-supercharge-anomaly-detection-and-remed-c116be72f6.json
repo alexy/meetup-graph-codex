@@ -1,0 +1,47 @@
+{
+  "abstract": "Topic repeated at 2 different times, please join the session that is best suited for your time zone. Early detection and remediation of IT and business anomalies are critical in today's digital world. Given the increasing rates of transactions, the most common service availability agreement is 99.999% uptime, which only allows for about 5 minutes of outage for an entire year - a task virtually impossible for humans to achieve. Come learn how AIOps can predict, detect and remediate anomalies by leveraging real-time learning algorithms and enterprise-scale automations. Presenter: Arthur De Magalhaes Arthur is a Senior Technical Staff Member at IBM, in charge of various parts of its AIOps portfolio including connectivity and automatic incident remediation. He has over 17 years of experience designing and developing software in a variety of domains that include optimized data parsers, application server framework and AIOps platforms. He is an active Open Source contributor, currently a co-chair of the Kubernetes Service Binding specification and creator of the MicroProfile OpenAPI specification. As an IBM Master Inventor, Arthur leads the patent portfolio of IBM's AIOps offerings. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/re4d117625b1a9741938fac9b980c054f",
+  "conference_id": null,
+  "date_time": "2023-02-22T08:00:00-05:00",
+  "end_time": "2023-02-22T09:00:00-05:00",
+  "event_id": "290321343",
+  "event_title": "Supercharge anomaly detection and remediation using AIOps",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-supercharge-anomaly-detection-and-remediation-using-aiops-arthur-de-magalhaes:supercharge-anomaly-detection-and-remediation-using-aiops",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-supercharge-anomaly-detection-and-remediation-using-aiops-arthur-de-magalhaes.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-supercharge-anomaly-detection-and-remediation-using-aiops-arthur-de-magalhaes"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290321343/"
+  ],
+  "speaker_ids": [
+    "speaker:arthur-de-magalhaes",
+    "speaker:arthur-de-magalhaes-arthur"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:arthur-de-magalhaes",
+      "name": "Arthur De Magalhaes",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:arthur-de-magalhaes-arthur",
+      "name": "Arthur De Magalhaes Arthur",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Supercharge anomaly detection and remediation using AIOps",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/290321343/"
+}

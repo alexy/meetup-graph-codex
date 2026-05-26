@@ -1,0 +1,35 @@
+{
+  "id": "company:aws",
+  "name": "AWS",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-james-ward-aws.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor.json",
+    "data/raw/sources/bythebay-20260508-hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock-james-ward-aws-josh-long-spring-developer-advocate.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-james-ward-aws",
+    "bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-2",
+    "bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor",
+    "bythebay-20260508-hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock-james-ward-aws-josh-long-spring-developer-advocate",
+    "bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-talk-3",
+    "bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor-talk-3"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers",
+    "https://www.meetup.com/bay-area-ai/events/268317060/",
+    "https://www.meetup.com/bythebay/events/268584447/"
+  ],
+  "speaker_ids": [
+    "speaker:james-ward",
+    "speaker:emily-webber"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock-james-ward-aws-josh-long-spring-developer-adv:hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-james-ward-intro-to-akka-streams-james-ward-salesforce:james-ward-intro-to-akka-streams",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-featuring-pytorch-with-fb-autodesk-and-aws-alex-o-connor-talk-3:less-code-more-intelligence-with-pytorch-on-sagemaker-by-aws",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor-talk-3:less-code-more-intelligence-with-pytorch-on-sagemaker-by-aws"
+  ],
+  "type": "company"
+}

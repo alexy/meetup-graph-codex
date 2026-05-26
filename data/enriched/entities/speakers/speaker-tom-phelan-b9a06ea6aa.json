@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:bluedata",
+      "company_name": "BlueData",
+      "title": "Chief Architect"
+    }
+  ],
+  "company_id": "company:bluedata",
+  "company_ids": [
+    "company:bluedata"
+  ],
+  "company_name": "BlueData",
+  "company_names": [
+    "BlueData"
+  ],
+  "conference_ids": [],
+  "id": "speaker:tom-phelan",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Tom Phelan",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-january-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-january-sf-hadoop-users-meetup-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/219049168/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-january-sf-hadoop-users-meetup-event-talk-1:hadoop-use-cases-vs-run-time-environments"
+  ],
+  "title": "Chief Architect",
+  "titles": [
+    "Chief Architect"
+  ],
+  "type": "speaker"
+}

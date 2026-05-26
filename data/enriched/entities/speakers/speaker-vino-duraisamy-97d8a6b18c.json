@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:snowflake",
+      "company_name": "Snowflake",
+      "title": "Developer Advocate"
+    }
+  ],
+  "company_id": "company:snowflake",
+  "company_ids": [
+    "company:snowflake"
+  ],
+  "company_name": "Snowflake",
+  "company_names": [
+    "Snowflake"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:vino-duraisamy",
+  "meetup_ids": [],
+  "name": "Vino Duraisamy",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-vino-duraisamy-snowflake.json",
+    "data/raw/sources/bythebay-20260508-donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval-vino-duraisamy-snowflake-josh-reini-developer-advocate-for-open-source-ai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-vino-duraisamy-snowflake",
+    "bythebay-20260508-donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval-vino-duraisamy-snowflake-josh-reini-developer-advocate-for-open-source-ai"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval-vino-duraisamy-snowflake-josh-reini:donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval"
+  ],
+  "title": "Developer Advocate",
+  "titles": [
+    "Developer Advocate"
+  ],
+  "type": "speaker"
+}

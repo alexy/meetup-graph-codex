@@ -1,0 +1,40 @@
+{
+  "abstract": "Suman Bhattacharya (Data Scientist, ThoughtWorks) The recommendation system is perhaps one of the most important commercial applications in the tech industry today. I will perform a comparative study of different recommendation system algorithms that are currently used. I will show that choosing the 'correct' algorithm depends on the end goal of the recommendation system, and the accuracy of the system is quite sensitive to the choice of the metric. I will discuss which algorithms works best in the case of top-N recommendation systems and discuss the MapReduce approach to its implementation",
+  "conference_id": null,
+  "date_time": "2014-09-10T18:00:00-07:00",
+  "end_time": "2014-09-10T20:00:00-07:00",
+  "event_id": "203730542",
+  "event_title": "September SF Hadoop Users Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event-talk-2:recommendation-systems-which-algorithm-works-best",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/203730542/"
+  ],
+  "speaker_ids": [
+    "speaker:suman-bhattacharya"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:suman-bhattacharya",
+      "name": "Suman Bhattacharya",
+      "title": "Data Scientist"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "\"Recommendation systems: which algorithm works best?\"",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/203730542/"
+}

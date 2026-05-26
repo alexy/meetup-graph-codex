@@ -1,0 +1,42 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:saishruthi-swaminathan",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Saishruthi Swaminathan",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai-saishruthi-swaminathan-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-what-trust-really-means-and-how-we-can-infuse-it-in-our-ai-systems-saishruthi-swaminathan.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-what-trust-really-means-and-how-we-can-infuse-it-in-our-ai-systems-saishruthi-swaminathan-3.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai-saishruthi-swaminathan.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai-saishruthi-swaminathan-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai-saishruthi-swaminathan-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-what-trust-really-means-and-how-we-can-infuse-it-in-our-ai-systems-saishruthi-swaminathan",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-what-trust-really-means-and-how-we-can-infuse-it-in-our-ai-systems-saishruthi-swaminathan-3",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai-saishruthi-swaminathan",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai-saishruthi-swaminathan-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290204878/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289646468/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/289646641/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290204716/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-what-trust-really-means-and-how-we-can-infuse-it-in-our-ai-systems-saishruthi-swaminathan:what-trust-really-means-and-how-we-can-infuse-it-in-our-ai-systems",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-what-trust-really-means-and-how-we-can-infuse-it-in-our-ai-systems-saishruthi-swaminathan-3:what-trust-really-means-and-how-we-can-infuse-it-in-our-ai-systems",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai-saishruthi-swaminathan:empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai-saishruthi-swaminathan-3:empowering-ourselves-to-contribute-towards-ai-ethics-and-trustworthy-ai"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

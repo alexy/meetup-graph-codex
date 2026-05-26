@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:john-campbell",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "John Campbell",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-deploying-redhatopenshift-kubernetes-services-and-ibm-cloud-databases-john-campbell-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-deploying-redhatopenshift-kubernetes-services-and-ibm-cloud-databases-john-campbell.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-deploying-redhatopenshift-kubernetes-services-and-ibm-cloud-databases-john-campbell-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-deploying-redhatopenshift-kubernetes-services-and-ibm-cloud-databases-john-campbell"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/264801420/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-deploying-redhatopenshift-kubernetes-services-and-ibm-cloud-databases-john-campbell:deploying-redhatopenshift-kubernetes-services-and-ibm-cloud-databases"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

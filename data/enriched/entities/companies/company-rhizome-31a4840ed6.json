@@ -1,0 +1,22 @@
+{
+  "id": "company:rhizome",
+  "name": "Rhizome",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-arun-joseph-rhizome.json",
+    "data/raw/sources/bythebay-20260508-eclipse-lmos-agc-agentic-computing-born-from-the-messy-reality-of-enterprise-systems-arun-joseph.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-arun-joseph-rhizome",
+    "bythebay-20260508-eclipse-lmos-agc-agentic-computing-born-from-the-messy-reality-of-enterprise-systems-arun-joseph"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:arun-joseph"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-eclipse-lmos-agc-agentic-computing-born-from-the-messy-reality-of-enterprise-systems-arun-joseph:eclipse-lmos-agc-agentic-computing-born-from-the-messy-reality-of-enterprise-systems"
+  ],
+  "type": "company"
+}

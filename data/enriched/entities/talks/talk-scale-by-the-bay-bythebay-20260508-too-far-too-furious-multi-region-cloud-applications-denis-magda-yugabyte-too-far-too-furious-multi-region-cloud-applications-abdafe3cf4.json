@@ -1,0 +1,35 @@
+{
+  "abstract": null,
+  "conference_id": "scale-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:scale-by-the-bay:bythebay-20260508-too-far-too-furious-multi-region-cloud-applications-denis-magda-yugabyte:too-far-too-furious-multi-region-cloud-applications",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-too-far-too-furious-multi-region-cloud-applications-denis-magda-yugabyte.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-too-far-too-furious-multi-region-cloud-applications-denis-magda-yugabyte"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:denis-magda"
+  ],
+  "speakers": [
+    {
+      "company_name": "Yugabyte",
+      "id": "speaker:denis-magda",
+      "name": "Denis Magda",
+      "title": "Head of Developer Relations"
+    }
+  ],
+  "tags": [],
+  "title": "Too Far Too Furious: Multi-Region Cloud Applications",
+  "type": "talk",
+  "url": "https://www.scale.bythebay.io/post/denis-magda-too-far-too-furious-multi-region-cloud-applications"
+}

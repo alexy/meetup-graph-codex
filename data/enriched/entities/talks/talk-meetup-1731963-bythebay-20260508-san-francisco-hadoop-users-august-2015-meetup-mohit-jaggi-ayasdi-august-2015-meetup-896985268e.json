@@ -1,0 +1,40 @@
+{
+  "abstract": "PLEASE pre-register with security for access to the venue: https://generalassemb.ly/education/sf-hadoop-users-meetup/san-francisco/15046 Here is the lineup for our August 5th SFHUG meeting! We will have one opening presentation and then some community-proposed breakouts. Thank you to the Thomson Reuters team for hosting our food & drinks. http://photos2.meetupstatic.com/photos/event/a/c/c/5/600 439784229.jpeg",
+  "conference_id": null,
+  "date_time": "2015-08-05T18:00:00-07:00",
+  "end_time": "2015-08-05T20:00:00-07:00",
+  "event_id": "223042375",
+  "event_title": "August 2015 Meetup",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-august-2015-meetup-mohit-jaggi-ayasdi:august-2015-meetup",
+  "kind": "talk",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-august-2015-meetup-mohit-jaggi-ayasdi.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-august-2015-meetup-mohit-jaggi-ayasdi"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/223042375/"
+  ],
+  "speaker_ids": [
+    "speaker:mohit-jaggi"
+  ],
+  "speakers": [
+    {
+      "company_name": "Ayasdi",
+      "id": "speaker:mohit-jaggi",
+      "name": "Mohit Jaggi",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "August 2015 Meetup",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/223042375/"
+}

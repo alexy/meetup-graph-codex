@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:data-mesh",
+  "name": "Data Mesh",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-10-lessons-learned-from-building-a-data-mesh-at-paypal-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-10-lessons-learned-from-building-a-data-mesh-at-paypal-event-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-10-lessons-learned-from-building-a-data-mesh-at-paypal-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-10-lessons-learned-from-building-a-data-mesh-at-paypal-event-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290310561/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290310743/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-10-lessons-learned-from-building-a-data-mesh-at-paypal-event:10-lessons-learned-from-building-a-data-mesh-at-paypal",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-10-lessons-learned-from-building-a-data-mesh-at-paypal-event-2:10-lessons-learned-from-building-a-data-mesh-at-paypal"
+  ],
+  "type": "project"
+}

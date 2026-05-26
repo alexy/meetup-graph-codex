@@ -1,0 +1,42 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:jason-garforth",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Jason Garforth",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-our-future-is-ai-how-to-choose-which-one-you-want-to-live-with-financial-services.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-our-future-is-ai-how-to-choose-which-one-you-want-to-live-with-financial-services-3.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-our-future-is-ai-how-to-choose-which-one-you-want-to-live-with-financial-services",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-our-future-is-ai-how-to-choose-which-one-you-want-to-live-with-financial-services-3",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297906483/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297840476/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297840618/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297905928/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-our-future-is-ai-how-to-choose-which-one-you-want-to-live-with-financial-services:our-future-is-ai-how-to-choose-which-one-you-want-to-live-with",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-our-future-is-ai-how-to-choose-which-one-you-want-to-live-with-financial-services-3:our-future-is-ai-how-to-choose-which-one-you-want-to-live-with",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services:living-with-autonomous-ai",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-living-with-autonomous-ai-financial-services-3:living-with-autonomous-ai"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

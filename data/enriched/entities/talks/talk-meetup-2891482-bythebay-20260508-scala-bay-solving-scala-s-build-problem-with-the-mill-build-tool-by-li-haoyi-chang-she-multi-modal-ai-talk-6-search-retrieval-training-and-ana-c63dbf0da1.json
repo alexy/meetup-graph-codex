@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2025-04-22T17:30:00-07:00",
+  "end_time": "2025-04-22T20:00:00-07:00",
+  "event_id": "306928356",
+  "event_title": "Solving Scala's Build Problem with the Mill Build Tool By Li Haoyi",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-chang-she-multi-modal-ai-talk-6:search-retrieval-training-and-analytics-with-modern-ai-data-lake",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-chang-she-multi-modal-ai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-chang-she-multi-modal-ai-talk-6"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/306928356/"
+  ],
+  "speaker_ids": [
+    "speaker:chang-she"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:chang-she",
+      "name": "Chang She",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Search, Retrieval, Training, and Analytics with Modern AI Data Lake",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/306928356/"
+}

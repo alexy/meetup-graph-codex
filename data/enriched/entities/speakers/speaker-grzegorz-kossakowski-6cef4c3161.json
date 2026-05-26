@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:grzegorz-kossakowski",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Grzegorz Kossakowski",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-limits-of-scala-s-typechecking-speed-and-streaming-blobs-grzegorz-kossakowski-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-limits-of-scala-s-typechecking-speed-and-streaming-blobs-grzegorz-kossakowski.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-limits-of-scala-s-typechecking-speed-and-streaming-blobs-grzegorz-kossakowski-2",
+    "bythebay-20260508-sf-scala-limits-of-scala-s-typechecking-speed-and-streaming-blobs-grzegorz-kossakowski"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/250410484/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-limits-of-scala-s-typechecking-speed-and-streaming-blobs-grzegorz-kossakowski:limits-of-scala-s-typechecking-speed-and-streaming-blobs"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,31 @@
+{
+  "abstract": "Scale By the Bay program is up and registration is open: https://scale.bythebay.io Our core themes, as always, are -- Thoughtful Software Engineering -- Cloud Architectures -- Data Engineering with ML/AI New topics this year include Scala 3, Hasktorch, for Haskell bindings to PyTorch, Swift for distributed systems, platforms built with Kubernetes, Kafka and Spark, and many more great talks from engineering leaders around the world. Read an overview of the program: https://chief.sc/sbtb2021program1. Register to reserve your seat. Join the growing list of sponsors and meet the community in the most immersive online environment in the industry",
+  "conference_id": null,
+  "date_time": "2021-10-28T06:00:00-07:00",
+  "end_time": "2021-10-29T19:00:00-07:00",
+  "event_id": "280243223",
+  "event_title": "Scale By the Bay 2021",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scale-by-the-bay-2021-event:scale-by-the-bay-2021",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scale-by-the-bay-2021-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scale-by-the-bay-2021-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/280243223/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Scale By the Bay 2021",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/280243223/"
+}

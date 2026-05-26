@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:daniel-vigovszky",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Daniel Vigovszky",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-at-prezi-keeping-a-multi-platform-continuously-evolving-dom-consistent-daniel-vigovszky-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-at-prezi-keeping-a-multi-platform-continuously-evolving-dom-consistent-daniel-vigovszky.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-at-prezi-keeping-a-multi-platform-continuously-evolving-dom-consistent-daniel-vigovszky-2",
+    "bythebay-20260508-sf-scala-scala-at-prezi-keeping-a-multi-platform-continuously-evolving-dom-consistent-daniel-vigovszky"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/239656703/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-at-prezi-keeping-a-multi-platform-continuously-evolving-dom-consistent-daniel-vigovszky:scala-at-prezi-keeping-a-multi-platform-continuously-evolving-dom-consistent"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

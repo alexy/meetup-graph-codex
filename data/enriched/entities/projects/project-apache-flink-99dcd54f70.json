@@ -1,0 +1,35 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-flink",
+  "name": "Apache Flink",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-spark-and-flink-data-pipelines-in-practice-event.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-spark-and-flink-data-pipelines-in-practice-at-sfspark-org-event.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-apache-flink-a-quick-guide-to-the-next-generation-stream-processing-platform-apache-flink.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot-denis-magda.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0-trevor-grant.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-spark-and-flink-data-pipelines-in-practice-event",
+    "bythebay-20260508-sf-scala-spark-and-flink-data-pipelines-in-practice-at-sfspark-org-event",
+    "bythebay-20260508-scale-by-the-bay-apache-flink-a-quick-guide-to-the-next-generation-stream-processing-platform-apache-flink",
+    "bythebay-20260508-sf-data-and-ai-engineering-apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot-denis-magda",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0-trevor-grant"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/222631734/",
+    "https://www.meetup.com/sf-scala/events/222631981/",
+    "https://www.meetup.com/bythebay/events/232232072/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/242935496/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/243156555/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-spark-and-flink-data-pipelines-in-practice-event:spark-and-flink-data-pipelines-in-practice",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-spark-and-flink-data-pipelines-in-practice-at-sfspark-org-event:spark-and-flink-data-pipelines-in-practice-at-sfspark-org",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-apache-flink-a-quick-guide-to-the-next-generation-stream-processing-platform-apache-flink:apache-flink-a-quick-guide-to-the-next-generation-stream-processing-platform",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot-denis-magda:apache-spark-apache-flink-and-apache-ignite-where-fast-data-meets-the-iot",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0-trevor-grant:using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0"
+  ],
+  "type": "project"
+}

@@ -1,0 +1,31 @@
+{
+  "abstract": "Ad-hoc polymorphism, known most commonly as \"type classes\" (in Haskell originally, and Scala more recently) or \"protocols\" (in Clojure), enables us to write highly generic, modular and reusable code. We can easily invent our own type classes as we see fit, but it turns out that several common type classes -- many of which represent mathematical concepts such as \"monad\" and \"functor\" -- capture some very useful patterns for software architecture, and end up appearing frequently in many popular libraries. The \"Typeclassopedia\" will give us a whirlwind tour of these type classes, their operations and how they're used in real-world, production code. Rough Agenda 6:30 Doors Open - Come grab a bite/drink and mingle 6:50 Announcements 7:00 Presentation Kicks-off ABOUT JOHN KODUMAL John Kodumal received his Ph.D. in theoretical computer science in 2006 following research with Alex Aiken (Stanford) and George Necula (Berkeley) on static program analysis. Since completing his dissertation he has led the development of code analysis products at Coverity, currently leads the Plugin Exchange team at Atlassian, and has most recently avoided major catastrophe on honeymoon in the Sahara. Ask him about the camel incident",
+  "conference_id": null,
+  "date_time": "2012-05-24T18:30:00-07:00",
+  "end_time": "2012-05-24T21:30:00-07:00",
+  "event_id": "63295372",
+  "event_title": "Typeclassopedia with John Kodumal",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-typeclassopedia-with-john-kodumal-event:typeclassopedia-with-john-kodumal",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-typeclassopedia-with-john-kodumal-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-typeclassopedia-with-john-kodumal-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/63295372/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Typeclassopedia with John Kodumal",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/63295372/"
+}

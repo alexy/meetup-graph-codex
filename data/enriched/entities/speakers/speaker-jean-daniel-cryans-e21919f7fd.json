@@ -1,0 +1,47 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:cloudera",
+      "company_name": "Cloudera",
+      "title": null
+    },
+    {
+      "company_id": "company:at-cloudera-followed-by-q-a",
+      "company_name": "at Cloudera, followed by Q&A",
+      "title": null
+    }
+  ],
+  "company_id": "company:cloudera",
+  "company_ids": [
+    "company:cloudera",
+    "company:at-cloudera-followed-by-q-a"
+  ],
+  "company_name": "Cloudera",
+  "company_names": [
+    "Cloudera",
+    "at Cloudera, followed by Q&A"
+  ],
+  "conference_ids": [],
+  "id": "speaker:jean-daniel-cryans",
+  "meetup_ids": [
+    "meetup:18601481"
+  ],
+  "name": "Jean-Daniel Cryans",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-kudu-data-store-for-the-new-era-with-kafka-spark-kudu-demo-akshat-aranya-quantcast-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-kudu-data-store-for-the-new-era-with-kafka-spark-kudu-demo-akshat-aranya-quantcast.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-kudu-data-store-for-the-new-era-with-kafka-spark-kudu-demo-akshat-aranya-quantcast-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-kudu-data-store-for-the-new-era-with-kafka-spark-kudu-demo-akshat-aranya-quantcast-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/226023299/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-kudu-data-store-for-the-new-era-with-kafka-spark-kudu-demo-akshat-aranya-quantcast-talk-2:8-15-talk"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

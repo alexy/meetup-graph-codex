@@ -1,0 +1,28 @@
+{
+  "id": "company:google",
+  "name": "Google",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-oleg-aravin-google.json",
+    "data/raw/sources/bythebay-20260508-meet-jules-your-autonomous-coding-partner-oleg-aravin-google.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-oleg-aravin-google",
+    "bythebay-20260508-meet-jules-your-autonomous-coding-partner-oleg-aravin-google",
+    "bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen-talk-1"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers",
+    "https://www.meetup.com/bay-area-ai/events/308553764/"
+  ],
+  "speaker_ids": [
+    "speaker:oleg-aravin",
+    "speaker:mayank-chaturvedi"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-meet-jules-your-autonomous-coding-partner-oleg-aravin-google:meet-jules-your-autonomous-coding-partner",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen-talk-1:talks-speakers",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen-talk-2:gemma-developer-meetup-june-2025"
+  ],
+  "type": "company"
+}

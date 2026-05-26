@@ -1,0 +1,47 @@
+{
+  "abstract": "Meltwater is a Business Intelligence company of +1000 individuals spread across ~60 offices in ~30 countries with over 26,000 clients. At Meltwater we see ourselves as a Outside Insights company, meaning we seek to deliver similar type of business analytics & insights as traditional CRM dashboards and ERP systems used to, except by leveraging data outside the firewall (social media, news, blogs etc.) we believe the insights can be much more decisive and predictive for our clients business. Part of the challenge with this is of course structuring the unstructured data out there. This is why the Data Science team at Meltwater has the mission to ingest, categorize, label, classify, and a whole range of other enrichments on the content that we crawl in order to index it properly in our big data architecture and make it available for our insights dashboard. We do these enrichments in +15 languages. The second talk will be by Gregor Stewart of Basis Tech. It will be an example of Basis adaptive tech -- Gregor will complement Babak! Babak Rasolzadeh is the Director of Data Science at Meltwater and has a team of 24 engineers on this. Prior to Meltwater, Babak was the co-founder of OculusAI, a computer vision start-up in Sweden, that was sold to Meltwater in 2013. He holds a PhD in Computer Vision, from KTH in Sweden, and has worked on things ranging from self-driving cars to humanoid robots and mobile object recognition. He is an advisor for several startups here in US and Sweden. Gregor Stewart is the VP of Product Management for Basis Technology, a multilingual text analytics company based in Cambridge, MA. Among other things, it delivers adaptable entity extraction and resolution components in Java, for 17 languages. Currently, Gregor has the Basis teams hard at work readying a web API offering. Previously, Mr Stewart was CTO of a storage services company, and a strategy consultant. He has degrees from the University of Oxford and the London School of Economics, as well as a Masters in NLP from Edinburgh University",
+  "conference_id": null,
+  "date_time": "2015-10-15T18:30:00-07:00",
+  "end_time": "2015-10-15T21:30:00-07:00",
+  "event_id": "225763676",
+  "event_title": "NLP and Data Science at Meltwater",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-nlp-and-data-science-at-meltwater-babak-rasolzadeh:nlp-and-data-science-at-meltwater",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-nlp-and-data-science-at-meltwater-babak-rasolzadeh.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-nlp-and-data-science-at-meltwater-babak-rasolzadeh"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/225763676/"
+  ],
+  "speaker_ids": [
+    "speaker:babak-rasolzadeh",
+    "speaker:gregor-stewart"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:babak-rasolzadeh",
+      "name": "Babak Rasolzadeh",
+      "title": null
+    },
+    {
+      "company_name": "Basis Technology",
+      "id": "speaker:gregor-stewart",
+      "name": "Gregor Stewart",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "NLP and Data Science at Meltwater",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/225763676/"
+}

@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2025-10-24T10:30:00-04:00",
+  "end_time": "2025-10-24T12:30:00-04:00",
+  "event_id": "311656638",
+  "event_title": "MCP-Agent Workshop",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-mcp-agent-workshop-event:mcp-agent-workshop-10-00-am-followed",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-mcp-agent-workshop-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-mcp-agent-workshop-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/311656638/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "MCP-Agent Workshop (10:00 am) followed",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/311656638/"
+}

@@ -1,0 +1,58 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:snowflake",
+      "company_name": "Snowflake",
+      "title": "Dev Advocate for OSS and AI"
+    },
+    {
+      "company_id": "company:oss-and-ai-snowflake",
+      "company_name": "OSS and AI @ Snowflake",
+      "title": "Dev Advocate"
+    },
+    {
+      "company_id": "company:open-source-ai-snowflake",
+      "company_name": "Open Source AI @ Snowflake ❄️",
+      "title": "Developer Advocate"
+    }
+  ],
+  "company_id": "company:snowflake",
+  "company_ids": [
+    "company:snowflake",
+    "company:oss-and-ai-snowflake",
+    "company:open-source-ai-snowflake"
+  ],
+  "company_name": "Snowflake",
+  "company_names": [
+    "Snowflake",
+    "OSS and AI @ Snowflake",
+    "Open Source AI @ Snowflake ❄️"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:josh-reini",
+  "meetup_ids": [],
+  "name": "Josh Reini",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-josh-reini-snowflake.json",
+    "data/raw/sources/bythebay-20260508-donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval-vino-duraisamy-snowflake-josh-reini-developer-advocate-for-open-source-ai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-josh-reini-snowflake",
+    "bythebay-20260508-donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval-vino-duraisamy-snowflake-josh-reini-developer-advocate-for-open-source-ai"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval-vino-duraisamy-snowflake-josh-reini:donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval"
+  ],
+  "title": "Dev Advocate for OSS and AI",
+  "titles": [
+    "Dev Advocate for OSS and AI",
+    "Dev Advocate",
+    "Developer Advocate"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "company:hopsworks",
+  "name": "Hopsworks",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-jim-dowling-jim-dowling-hopsworks.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-jim-dowling-jim-dowling-hopsworks"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:jim-dowling"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-the-feature-stores-the-missing-api-between-data-engineering-and-data-science-jim-dowling:the-feature-stores-the-missing-api-between-data-engineering-and-data-science",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling:the-feature-store-the-missing-api-between-data-engineering-and-data-science",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-the-feature-store-the-missing-api-between-data-engineering-and-data-science-jim-dowling:the-feature-store-the-missing-api-between-data-engineering-and-data-science"
+  ],
+  "type": "company"
+}

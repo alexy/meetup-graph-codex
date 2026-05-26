@@ -1,0 +1,31 @@
+{
+  "abstract": "This meetup was not resilient to editing and has to be republished. We'll honor all previous signups (with backpressure at capacity). Netflix has been doing reactive programming with RxJava in production for several years and only recently embarked on “greenfield” development efforts that are fully async. This talk will leverage the experience of introducing reactive programming into existing imperative, blocking codebases to demonstrate how it can be done and when it can make sense to do so. Then we will move to the future direction of RxJava and RxJS and how Netflix is pursuing fully reactive architectures to take greater advantage of the approach. Ben Christensen is a software engineer on the Netflix Edge Engineering team responsible for communication between Netflix devices and its cloud services. Recently involved in open source projects such as Hystrix and RxJava",
+  "conference_id": null,
+  "date_time": "2015-09-10T18:30:00-07:00",
+  "end_time": "2015-09-10T21:30:00-07:00",
+  "event_id": "225239568",
+  "event_title": "Reactive Extensions (Rx) at Netflix",
+  "github_repositories": [],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-reactive-extensions-rx-at-netflix-event-2:reactive-extensions-rx-at-netflix",
+  "kind": "talk",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-reactive-extensions-rx-at-netflix-event-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-reactive-extensions-rx-at-netflix-event-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/225239568/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Reactive Extensions (Rx) at Netflix",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/225239568/"
+}

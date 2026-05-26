@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:datameer-in-financial-services",
+      "company_name": "Datameer In financial services",
+      "title": "Sr. Director, Product Marketing, the top big data analytics use cases include customer analytics to understand the customer journey using data from all customer interaction channels"
+    }
+  ],
+  "company_id": "company:datameer-in-financial-services",
+  "company_ids": [
+    "company:datameer-in-financial-services"
+  ],
+  "company_name": "Datameer In financial services",
+  "company_names": [
+    "Datameer In financial services"
+  ],
+  "conference_ids": [],
+  "id": "speaker:wei-wang",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Wei Wang",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-top-big-data-use-cases-in-financial-services-wei-wang.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-november-sf-hadoop-users-meetup-matt-schumpert.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-top-big-data-use-cases-in-financial-services-wei-wang",
+    "bythebay-20260508-san-francisco-hadoop-users-november-sf-hadoop-users-meetup-matt-schumpert-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/217855512/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-november-sf-hadoop-users-meetup-matt-schumpert-talk-1:top-big-data-use-cases-in-financial-services"
+  ],
+  "title": "Sr. Director, Product Marketing, the top big data analytics use cases include customer analytics to understand the customer journey using data from all customer interaction channels",
+  "titles": [
+    "Sr. Director, Product Marketing, the top big data analytics use cases include customer analytics to understand the customer journey using data from all customer interaction channels"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-lucene",
+  "name": "Apache Lucene",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-building-search-airbnb-security-in-solr-airbnb-airbnb.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-building-search-airbnb-security-in-solr-airbnb-airbnb"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/223646335/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-building-search-airbnb-security-in-solr-airbnb-airbnb:building-search-airbnb-security-in-solr"
+  ],
+  "type": "project"
+}

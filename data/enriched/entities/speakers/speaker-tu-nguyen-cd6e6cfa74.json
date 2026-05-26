@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:hashicorp",
+      "company_name": "HashiCorp",
+      "title": "Staff Education Engineer"
+    }
+  ],
+  "company_id": "company:hashicorp",
+  "company_ids": [
+    "company:hashicorp"
+  ],
+  "company_name": "HashiCorp",
+  "company_names": [
+    "HashiCorp"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:tu-nguyen",
+  "meetup_ids": [],
+  "name": "Tu Nguyen",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-tu-nguyen-hashicorp.json",
+    "data/raw/sources/bythebay-20260508-enterprise-ready-document-processing-for-ai-kerim-satirli-hashicorp-tu-nguyen-staff-education-engineer.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-tu-nguyen-hashicorp",
+    "bythebay-20260508-enterprise-ready-document-processing-for-ai-kerim-satirli-hashicorp-tu-nguyen-staff-education-engineer"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-enterprise-ready-document-processing-for-ai-kerim-satirli-hashicorp-tu-nguyen-staff-education-engineer:enterprise-ready-document-processing-for-ai"
+  ],
+  "title": "Staff Education Engineer",
+  "titles": [
+    "Staff Education Engineer"
+  ],
+  "type": "speaker"
+}

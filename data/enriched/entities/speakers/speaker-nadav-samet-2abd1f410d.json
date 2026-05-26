@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:nadav-samet",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Nadav Samet",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-protostuff-in-java-and-scala-david-yu-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-protostuff-in-java-and-scala-david-yu.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-protostuff-in-java-and-scala-david-yu-2",
+    "bythebay-20260508-sf-scala-protostuff-in-java-and-scala-david-yu"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/222631904/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-protostuff-in-java-and-scala-david-yu:protostuff-in-java-and-scala"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

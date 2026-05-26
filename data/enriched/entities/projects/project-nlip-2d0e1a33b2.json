@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:nlip",
+  "name": "NLIP",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-agent-to-agent-interactions-with-nlip-and-an-application-to-allycat-tom-sheffler.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-agent-to-agent-interactions-with-nlip-and-an-application-to-allycat-tom-sheffler"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/311007171/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-agent-to-agent-interactions-with-nlip-and-an-application-to-allycat-tom-sheffler:agent-to-agent-interactions-with-nlip-and-an-application-to-allycat"
+  ],
+  "type": "project"
+}

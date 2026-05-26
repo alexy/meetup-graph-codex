@@ -1,0 +1,27 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:state-of-the-art-dnn",
+  "name": "State-of-the-art DNN",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-faster-and-cheaper-training-for-large-models-delta-lake.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-faster-and-cheaper-training-for-large-models-delta-lake.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-faster-and-cheaper-training-for-large-models-delta-lake.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-faster-and-cheaper-training-for-large-models-delta-lake",
+    "bythebay-20260508-sf-data-and-ai-engineering-faster-and-cheaper-training-for-large-models-delta-lake",
+    "bythebay-20260508-san-francisco-hadoop-users-faster-and-cheaper-training-for-large-models-delta-lake"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/281298859/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/281298911/",
+    "https://www.meetup.com/hadoopsf/events/281511777/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-faster-and-cheaper-training-for-large-models-delta-lake:faster-and-cheaper-training-for-large-models",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-faster-and-cheaper-training-for-large-models-delta-lake:faster-and-cheaper-training-for-large-models",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-faster-and-cheaper-training-for-large-models-delta-lake:faster-and-cheaper-training-for-large-models"
+  ],
+  "type": "project"
+}

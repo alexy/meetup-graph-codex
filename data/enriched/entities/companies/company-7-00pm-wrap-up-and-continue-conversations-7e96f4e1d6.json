@@ -1,0 +1,21 @@
+{
+  "id": "company:7-00pm-wrap-up-and-continue-conversations",
+  "name": "7.00pm Wrap up and continue conversations",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/275583573/"
+  ],
+  "speaker_ids": [
+    "speaker:adam-rosien"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-1:essential-effects",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-2:45pm-essential-effects"
+  ],
+  "type": "company"
+}

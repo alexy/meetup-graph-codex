@@ -1,0 +1,31 @@
+{
+  "abstract": "Our friends at PyData NYC have another fantastic event lined up. For details and to RSVP, check the PyData NYC event page: LLMOps with Hopsworks and Modal Labs Please check it out while we’re working on lining up new programming for the IBM Meetup Network - in person, virtual, and hybrid. Stay tuned!",
+  "conference_id": null,
+  "date_time": "2024-05-08T18:30:00-04:00",
+  "end_time": "2024-05-08T20:30:00-04:00",
+  "event_id": "300734831",
+  "event_title": "[EXTERNAL REGISTRATION] LLMOps with Hopsworks and Modal Labs",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-external-registration-llmops-with-hopsworks-and-modal-labs-event:llmops-with-hopsworks-and-modal-labs",
+  "kind": "announcement",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-external-registration-llmops-with-hopsworks-and-modal-labs-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-external-registration-llmops-with-hopsworks-and-modal-labs-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/300734831/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "LLMOps with Hopsworks and Modal Labs",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/300734831/"
+}

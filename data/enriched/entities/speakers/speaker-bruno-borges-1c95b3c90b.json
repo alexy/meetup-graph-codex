@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:microsoft",
+      "company_name": "Microsoft",
+      "title": "Principal Product Manager"
+    }
+  ],
+  "company_id": "company:microsoft",
+  "company_ids": [
+    "company:microsoft"
+  ],
+  "company_name": "Microsoft",
+  "company_names": [
+    "Microsoft"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:bruno-borges",
+  "meetup_ids": [],
+  "name": "Bruno Borges",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bruno-borges-microsoft.json",
+    "data/raw/sources/bythebay-20260508-spec-driven-development-ai-assisted-coding-with-documentation-at-the-core-bruno-borges-microsoft.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bruno-borges-microsoft",
+    "bythebay-20260508-spec-driven-development-ai-assisted-coding-with-documentation-at-the-core-bruno-borges-microsoft"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-spec-driven-development-ai-assisted-coding-with-documentation-at-the-core-bruno-borges-microsoft:spec-driven-development-ai-assisted-coding-with-documentation-at-the-core"
+  ],
+  "title": "Principal Product Manager",
+  "titles": [
+    "Principal Product Manager"
+  ],
+  "type": "speaker"
+}

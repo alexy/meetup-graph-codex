@@ -1,0 +1,33 @@
+{
+  "abstract": "We have two talks coming up, both from the Asia-Pacific region, from the great speakers visiting us this week! Haoyi Li will talk about his insights from the open-source libraries we all know and love, and Chris Hunt will talk about ConductR and Reactive Cluster Management, the project he lead at Lightbend (neé Typesafe) for three years. Haoyi's talk will be given at two locations and sister meetups: San Francisco on Thursday 4/27 and Sunnyvale on Friday 4/28 at Scala Bay (https://www.meetup.com/Scala-Bay/events/238966218/). 1. Haoyi Li, Open-Source Library Design Creating a popular open-source library such as Ammonite, FastParse, or Scalatags is a lot more than just writing Scala code. This talk will explore both the code and non-code aspects of building such a library: designing the public API, the role of tests/documentation, and how to think about the three tensions of consistency, transparency, and intuitiveness that often pull your API design in different directions. From this talk you will hopefully learn everything about designing a library apart from writing code. Haoyi is a software engineer, previously at Dropbox, currently working at Bright Technology Services, a data-science and software engineering consultancy. He is the author of many open source libraries, and an early contributor to the Scala.js ecosystem. In addition to the talk, in SF we'll do the first ever AHA: Ask Haoyi Anything! If there's one Scala enthusiast globally advancing functional programming for full stack, and solving all problems along the way so they become fun and not even problems, that's Haoyi. Now that he's based in Singapore, we're lucky to have him in town. 2. Christopher Hunt, Container Cluster Management In this talk Christopher will discuss several years of experience in dealing with cluster container management, culminating in the ConductR project. Of particular interest will be a presentation on the state of the nation regarding the Open Container Initiative, Docker swarm, Kubernetes and others, and how these are positioned to manage reactive applications and services. Christopher has been at Lightbend for the past 4 years, initially as part of the Play team having invented sbt-web. In more recent years, Christopher became the technical lead for Lightbend’s container cluster manager known as ConductR. Prior to Lightbend, Christopher was part of the SpringSource division at VMware. Christopher resides in Sydney, Australia. Please manage your RSVP vigilantly, we'll use our famous Small Data Discipline Enforcement Appliance (SD-DEA) -- if you're on past midnight of the day, and not a pumpkin, we expect you to be there!",
+  "conference_id": null,
+  "date_time": "2017-04-27T18:00:00-07:00",
+  "end_time": "2017-04-27T20:00:00-07:00",
+  "event_id": "239434097",
+  "event_title": "Open Source Library Design and Reactive Cluster Management",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-open-source-library-design-and-reactive-cluster-management-event:open-source-library-design-and-reactive-cluster-management",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:conductr"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-open-source-library-design-and-reactive-cluster-management-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-open-source-library-design-and-reactive-cluster-management-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/239434097/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Open Source Library Design and Reactive Cluster Management",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/239434097/"
+}

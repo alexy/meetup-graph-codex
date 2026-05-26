@@ -1,0 +1,20 @@
+{
+  "id": "company:bridgestream-a-security",
+  "name": "Bridgestream, a security",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-topics-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-topics-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/220401029/"
+  ],
+  "speaker_ids": [
+    "speaker:ge-was"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-topics-event-talk-2:topic-detection-at-massive-scale-stefan-gower-topic-scout"
+  ],
+  "type": "company"
+}

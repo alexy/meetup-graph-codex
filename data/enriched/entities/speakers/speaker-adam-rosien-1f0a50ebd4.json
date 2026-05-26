@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:7-00pm-wrap-up-and-continue-conversations",
+      "company_name": "7.00pm Wrap up and continue conversations",
+      "title": null
+    }
+  ],
+  "company_id": "company:7-00pm-wrap-up-and-continue-conversations",
+  "company_ids": [
+    "company:7-00pm-wrap-up-and-continue-conversations"
+  ],
+  "company_name": "7.00pm Wrap up and continue conversations",
+  "company_names": [
+    "7.00pm Wrap up and continue conversations"
+  ],
+  "conference_ids": [],
+  "id": "speaker:adam-rosien",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Adam Rosien",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-essential-effects-adam-rosien.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-essential-effects-adam-rosien",
+    "bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-1",
+    "bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/275583573/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-1:essential-effects",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-essential-effects-by-adam-rosien-adam-rosien-talk-2:45pm-essential-effects"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

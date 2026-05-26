@@ -1,0 +1,54 @@
+{
+  "abstract": "Leo is going to present a selected collection of tools and online resources to learn Scala at your own pace. No matter if you are learning from scratch or improving the quality of your code or even getting more familiar with functional programming concepts, there is a resource for that ! About our speaker Leo Benkel grew up in France and has been living in San Francisco for the last 10 years. He is passionate about functional programming and teaches Scala at Demandbase. He enjoys designing/architecting libraries and software products. Simply, Leo loves exploring where nobody has ever been before and working with teams that want to create the \"possible\" out of the \"improbable\". His draw to exploration and adventure also carry over to life outside of work. When he’s not working, Leo enjoys video games, movies, TV shows, board games, traveling, and eating/cooking good food",
+  "conference_id": null,
+  "date_time": "2020-09-16T18:00:00-07:00",
+  "end_time": "2020-09-16T20:00:00-07:00",
+  "event_id": "272898761",
+  "event_title": "Ninny json: type classes & Tools from the Scala community to learn & teach Scala",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-2:leveraging-tools-from-the-scala-community-to-learn-and-teach-scala-by-leo-benkel",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/272898761/"
+  ],
+  "speaker_ids": [
+    "speaker:leo-benkel",
+    "speaker:salar-rahmanian",
+    "speaker:nathan-fischer"
+  ],
+  "speakers": [
+    {
+      "company_name": "the last 10 years. He is passionate",
+      "id": "speaker:leo-benkel",
+      "name": "Leo Benkel",
+      "title": "grew up in France and has been living in San Francisco"
+    },
+    {
+      "company_name": null,
+      "id": "speaker:salar-rahmanian",
+      "name": "Salar Rahmanian",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:nathan-fischer",
+      "name": "Nathan Fischer",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Leveraging tools from the Scala community to learn and teach Scala by Leo Benkel",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/272898761/"
+}

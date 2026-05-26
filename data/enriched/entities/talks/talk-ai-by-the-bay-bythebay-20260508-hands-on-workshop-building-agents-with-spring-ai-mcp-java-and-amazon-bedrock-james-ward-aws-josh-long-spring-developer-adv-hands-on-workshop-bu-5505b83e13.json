@@ -1,0 +1,47 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock-james-ward-aws-josh-long-spring-developer-adv:hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock-james-ward-aws-josh-long-spring-developer-advocate.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-hands-on-workshop-building-agents-with-spring-ai-mcp-java-and-amazon-bedrock-james-ward-aws-josh-long-spring-developer-advocate"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:james-ward",
+    "speaker:josh-long"
+  ],
+  "speakers": [
+    {
+      "company_name": "AWS",
+      "id": "speaker:james-ward",
+      "name": "James Ward",
+      "title": "Developer Advocate"
+    },
+    {
+      "company_name": "Broadcom",
+      "id": "speaker:josh-long",
+      "name": "Josh Long",
+      "title": "Spring Developer Advocate"
+    }
+  ],
+  "tags": [
+    "Agentic AI",
+    "MCP",
+    "RAG",
+    "Workshop"
+  ],
+  "title": "Hands-On Workshop: Building Agents with Spring AI, MCP, Java, and Amazon Bedrock",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/hands-on%3A-building-agents-with-spring-ai%2C-mcp%2C-java%2C-and-amazon-bedrock"
+}

@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:google-oss-security-team",
+      "company_name": "Google OSS Security Team",
+      "title": "Supply chain security"
+    }
+  ],
+  "company_id": "company:google-oss-security-team",
+  "company_ids": [
+    "company:google-oss-security-team"
+  ],
+  "company_name": "Google OSS Security Team",
+  "company_names": [
+    "Google OSS Security Team"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:mihai-maruseac",
+  "meetup_ids": [],
+  "name": "Mihai Maruseac",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-mihai-maruseac-google-oss-security-team.json",
+    "data/raw/sources/bythebay-20260508-taming-the-wild-west-of-ml-practical-model-signing-with-sigstore-on-kaggle-mihai-maruseac-google-oss-security-team.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-mihai-maruseac-google-oss-security-team",
+    "bythebay-20260508-taming-the-wild-west-of-ml-practical-model-signing-with-sigstore-on-kaggle-mihai-maruseac-google-oss-security-team"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-taming-the-wild-west-of-ml-practical-model-signing-with-sigstore-on-kaggle-mihai-maruseac-google-oss-security-team:taming-the-wild-west-of-ml-practical-model-signing-with-sigstore-on-kaggle"
+  ],
+  "title": "Supply chain security",
+  "titles": [
+    "Supply chain security"
+  ],
+  "type": "speaker"
+}

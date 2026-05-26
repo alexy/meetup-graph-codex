@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:auth0-for-okta",
+      "company_name": "Auth0 for Okta",
+      "title": "Senior Developer Advocate"
+    }
+  ],
+  "company_id": "company:auth0-for-okta",
+  "company_ids": [
+    "company:auth0-for-okta"
+  ],
+  "company_name": "Auth0 for Okta",
+  "company_names": [
+    "Auth0 for Okta"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:fred-patton",
+  "meetup_ids": [],
+  "name": "Fred Patton",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-fred-patton-auth0-for-okta.json",
+    "data/raw/sources/bythebay-20260508-the-challenges-of-ambient-agents-toward-governable-ai-systems-at-scale-fred-patton-auth0-for-okta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-fred-patton-auth0-for-okta",
+    "bythebay-20260508-the-challenges-of-ambient-agents-toward-governable-ai-systems-at-scale-fred-patton-auth0-for-okta"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-the-challenges-of-ambient-agents-toward-governable-ai-systems-at-scale-fred-patton-auth0-for-okta:the-challenges-of-ambient-agents-toward-governable-ai-systems-at-scale"
+  ],
+  "title": "Senior Developer Advocate",
+  "titles": [
+    "Senior Developer Advocate"
+  ],
+  "type": "speaker"
+}

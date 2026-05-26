@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2016-08-23T17:00:00-04:00",
+  "end_time": "2016-08-23T20:00:00-04:00",
+  "event_id": "231577965",
+  "event_title": "Show Us Your Apps - Apache Spark Maker Build Global Hackathon",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-show-us-your-apps-apache-spark-maker-build-global-hackathon-event:this-is-a-global-on-line-hackathon-that-begins-may-23-2016-and-now-ends-august-23-2016-sub",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-show-us-your-apps-apache-spark-maker-build-global-hackathon-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-show-us-your-apps-apache-spark-maker-build-global-hackathon-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/231577965/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "THIS IS A GLOBAL ON-LINE HACKATHON THAT BEGINS MAY 23, 2016 AND NOW ENDS AUGUST 23, 2016. SUBMISSIONS DUE AUGUST 23rd",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/231577965/"
+}

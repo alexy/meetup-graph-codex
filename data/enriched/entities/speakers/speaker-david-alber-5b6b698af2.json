@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:ibm",
+      "company_name": "IBM",
+      "title": null
+    }
+  ],
+  "company_id": "company:ibm",
+  "company_ids": [
+    "company:ibm"
+  ],
+  "company_name": "IBM",
+  "company_names": [
+    "IBM"
+  ],
+  "conference_ids": [],
+  "id": "speaker:david-alber",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "David Alber",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-david-alber-ibm-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-david-alber-ibm.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-david-alber-ibm-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-david-alber-ibm"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297915685/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-quantum-series-part-2-getting-started-with-quantum-computing-hands-on-david-alber-ibm:quantum-series-part-2-getting-started-with-quantum-computing-hands-on"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

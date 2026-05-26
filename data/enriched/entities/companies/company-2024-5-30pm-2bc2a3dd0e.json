@@ -1,0 +1,20 @@
+{
+  "id": "company:2024-5-30pm",
+  "name": "2024 5:30PM",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/303687526/"
+  ],
+  "speaker_ids": [
+    "speaker:who-should"
+  ],
+  "talk_ids": [
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-south-bay-edition-event-3:infinite-world-generation-with-outlines"
+  ],
+  "type": "company"
+}

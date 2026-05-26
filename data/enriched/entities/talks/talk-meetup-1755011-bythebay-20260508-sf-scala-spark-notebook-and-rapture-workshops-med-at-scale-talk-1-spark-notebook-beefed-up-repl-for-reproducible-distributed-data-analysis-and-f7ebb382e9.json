@@ -1,0 +1,46 @@
+{
+  "abstract": "Abstract: \"Zoom out, zoom out, zoom out.\" We've zoomed until having only two clusters of techies First, the cluster of those finding Apache Spark really cool, and know that the boilerplate or integration can be boring (a sub cluster is now thinking \"True, but waaaayyy less than in Apache Hadoop\") Second, those having barely no knowledge in Apache Spark Luckily, this talk targets both. It will introduce the Spark Notebook (https://github.com/andypetrella/spark-notebook/), an easy to install and launch web application that starts Spark under the hood provides a browser based sheet has en extensible environment enables dynamic results and easy drawings The fun part: the talk will be using the Spark Notebook, end to end!",
+  "conference_id": null,
+  "date_time": "2015-03-19T18:30:00-07:00",
+  "end_time": "2015-03-19T21:30:00-07:00",
+  "event_id": "220522086",
+  "event_title": "Spark Notebook and Rapture Workshops",
+  "github_repositories": [
+    "https://github.com/andypetrella/spark-notebook"
+  ],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-spark-notebook-and-rapture-workshops-med-at-scale-talk-1:spark-notebook-beefed-up-repl-for-reproducible-distributed-data-analysis-andy-petrella",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [
+    "project:https-github-com-andypetrella-spark-notebook",
+    "project:apache-spark",
+    "project:apache-hadoop"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-spark-notebook-and-rapture-workshops-med-at-scale.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-spark-notebook-and-rapture-workshops-med-at-scale-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/220522086/"
+  ],
+  "speaker_ids": [
+    "speaker:med-at-scale"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:med-at-scale",
+      "name": "Med At Scale",
+      "title": "for genomics and others. Andy is hacking on distributed data, applying machine learning and leading data scientist teams, one of the reason to create the Spark Notebook. The Spark Notebook is an open source web application dedicated to reproducible and shareable distributed data analyses. He's also the founder of NextLab, co-founder of Wajug, co-organizer of"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Spark Notebook: beefed-up REPL for reproducible distributed data analysis, Andy Petrella",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/220522086/"
+}

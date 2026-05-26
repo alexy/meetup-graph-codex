@@ -1,0 +1,31 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-mahout",
+  "name": "Apache Mahout",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0-trevor-grant.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-making-your-first-commit-to-open-source-a-casual-conversation-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gofannon-event.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gofannon-event-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0-trevor-grant",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-making-your-first-commit-to-open-source-a-casual-conversation-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gofannon-event",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gofannon-event-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/243156555/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/306138354/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/307321224/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/307406694/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0-trevor-grant:using-open-source-ai-w-drones-to-identify-humans-friendly-cylons-1-0",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-making-your-first-commit-to-open-source-a-casual-conversation-event:making-your-first-commit-to-open-source-a-casual-conversation",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gofannon-event:introducing-gofannon",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-introducing-gofannon-event-2:introducing-gofannon"
+  ],
+  "type": "project"
+}

@@ -1,0 +1,40 @@
+{
+  "abstract": "Ever wonder what goes on below the arrows, double colons, and tildes of Scala's syntax? What changes must be made to the JVM and compiler to allow for higher order functions, Actors, and pattern matching? What low level engineering feats will be required for Scala and Java to truly interoperate? Come hear two speakers very close to the thinking and understanding of what goes in to making powerful functional programming features a reality on the JVM. A Rising VM Lifts All Boats Paul Phillips is the most prolific contributor to the Scala compiler and a co-founder of Typesafe. He will discuss the current state of scalac and how it emits byte code. As usual, the schedule for the event is: 6:30 - networking, food 7:00 - announcements 7:15 - Paul Phillips 9:00 - More networking We will give away two copies of IntelliJ IDEA Ultimate 12 for personal use, and two copies of JRebel. Two e-copies of \"Monadic Design Patterns (http://www.artima.com/shop/monadic design patterns)\", published by Artima will also be given away. If you did not register with your full name you will not be eligible to win anything. You can edit your name by going to Members / My Profile / Edit Profile. Tweet to scalasv to be eligible (http://www.meetup.com/Bay-Area-Scala-Enthusiasts/pages/Rules For Giveaways/)",
+  "conference_id": null,
+  "date_time": "2013-02-14T18:30:00-08:00",
+  "end_time": "2013-02-14T21:00:00-08:00",
+  "event_id": "95528212",
+  "event_title": "JVM Evolution for Scala @ Oracle Santa Clara",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-jvm-evolution-for-scala-oracle-santa-clara-all-boats-paul-phillips:jvm-evolution-for-scala-oracle-santa-clara",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-jvm-evolution-for-scala-oracle-santa-clara-all-boats-paul-phillips.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-jvm-evolution-for-scala-oracle-santa-clara-all-boats-paul-phillips"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/95528212/"
+  ],
+  "speaker_ids": [
+    "speaker:all-boats-paul-phillips"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:all-boats-paul-phillips",
+      "name": "All Boats Paul Phillips",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "JVM Evolution for Scala @ Oracle Santa Clara",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/95528212/"
+}

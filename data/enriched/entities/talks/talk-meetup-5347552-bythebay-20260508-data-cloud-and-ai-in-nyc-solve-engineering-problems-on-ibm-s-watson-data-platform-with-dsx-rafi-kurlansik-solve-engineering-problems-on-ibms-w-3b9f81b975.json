@@ -1,0 +1,42 @@
+{
+  "abstract": "This workshop is one of many free, data-centric events that will make up Cognifest NYC, taking place from October 23 - 27, 2017. Cognifest is a new way to bring together developer communities around common topics such as Data Engineering, Machine Learning, and AI. Instead of a traditional sit-down conference, we connect a series of meetups all around the city, and add workshops and tech talk tracks on dedicated days, as well as a happy hour or two, to canvass the ideas through time and space. Learn more at Cognifest.org (https://www.cognifest.org/) Join our free hands-on workshop using the IBM Data Science Experience to solve engineering problems. Work through an automotive focused data set with us using open source tech like Apache Spark, Python, and R. You must register here to reserve your seat: https://www.eventbrite.com/e/solve-engineering-problems-on-ibms-watson-data-platform-with-dsx-tickets-39100697238 An introductory lecture will be given, followed by exercises for participants to solve using Jupyter Notebooks. These will touch upon data ingestion and preparation, data visualization, and machine learning. Participants will use IBM’s fully managed, free platform to complete their work. Who should attend? Anyone interested in Apache Spark, Data Science, and Open Source. Pre-requisites: Some experience coding in Python is recommended. Instructor: Rafi Kurlansik - IBM Cloud solutions specialist with a focus on Data Science and R programming Brought to you by IBM, Metis & the Framework Foundation",
+  "conference_id": null,
+  "date_time": "2017-10-27T09:30:00-04:00",
+  "end_time": "2017-10-27T12:30:00-04:00",
+  "event_id": "244363518",
+  "event_title": "Solve Engineering Problems on IBM’s Watson Data Platform with DSX",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-solve-engineering-problems-on-ibm-s-watson-data-platform-with-dsx-rafi-kurlansik:solve-engineering-problems-on-ibms-watson-data-platform-with-dsx",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:apache-spark"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-solve-engineering-problems-on-ibm-s-watson-data-platform-with-dsx-rafi-kurlansik.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-solve-engineering-problems-on-ibm-s-watson-data-platform-with-dsx-rafi-kurlansik"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/244363518/"
+  ],
+  "speaker_ids": [
+    "speaker:rafi-kurlansik"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:rafi-kurlansik",
+      "name": "Rafi Kurlansik",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Solve Engineering Problems on IBM’s Watson Data Platform with DSX",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/244363518/"
+}

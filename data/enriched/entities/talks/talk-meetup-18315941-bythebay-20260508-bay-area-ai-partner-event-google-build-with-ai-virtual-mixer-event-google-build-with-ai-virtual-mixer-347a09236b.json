@@ -1,0 +1,33 @@
+{
+  "abstract": "[Cross-posting event] Registration is REQUIRED at HERE Google Build with AI Virtual Mixer Join us for an immersive event featuring a keynote from Googler Gus Martins, a hands-on Codelab with Googler Christina Lin, and AI networking, where you'll learn to build AI-powered multi-agent systems on Google Cloud using Vertex AI and Gemini 2, connect with industry experts, and shape the future of AI development. What You Will Learn: This workshop covers the full stack of agent development, from data integration to final deployment and runtime. Develop with ADK: Learn to build modular, controllable agents using the ADK framework. Enable Agent Collaboration: Implement sophisticated multi-agent workflows using the open Agent-to-Agent (A2A) protocol.. Deploy & Orchestrate: Transition your agents from development to production using flexible deployment strategies. We'll cover deploying and managing agents using Vertex AI Agent Engine, and Google Cloud Run. Learn to scale, manage, and ensure the reliability of your agent systems in the cloud. Production Focus: Understand the complete lifecycle, including packaging agents, deploying them reliably on Google Cloud. Introduce Observability: Briefly cover essential concepts for monitoring your production agents By the end of this workshop, you'll have practical experience building and orchestrating multi-agent systems using Google's cutting-edge AI technologies, preparing you to implement real-world, production-grade AI solutions",
+  "conference_id": null,
+  "date_time": "2025-06-06T09:00:00-07:00",
+  "end_time": "2025-06-06T12:30:00-07:00",
+  "event_id": "308091727",
+  "event_title": "[Partner Event] Google Build with AI Virtual Mixer",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-partner-event-google-build-with-ai-virtual-mixer-event:google-build-with-ai-virtual-mixer",
+  "kind": "workshop",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [
+    "project:adk"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-partner-event-google-build-with-ai-virtual-mixer-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-partner-event-google-build-with-ai-virtual-mixer-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/308091727/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "Google Build with AI Virtual Mixer",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/308091727/"
+}

@@ -1,0 +1,53 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:o-reilly-media",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:2891482",
+    "meetup:5347552",
+    "meetup:1731963"
+  ],
+  "name": "O'Reilly Media",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-developing-api-in-scala-o-reilly-media-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-apache-couchdb-developer-day-bradley-holt-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-developing-api-in-scala-o-reilly-media.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-february-sf-hadoop-users-meetup-event.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-apache-couchdb-developer-day-bradley-holt.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz-2",
+    "bythebay-20260508-scala-bay-developing-api-in-scala-o-reilly-media-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-apache-couchdb-developer-day-bradley-holt-2",
+    "bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz",
+    "bythebay-20260508-scala-bay-developing-api-in-scala-o-reilly-media",
+    "bythebay-20260508-san-francisco-hadoop-users-february-sf-hadoop-users-meetup-event-talk-2",
+    "bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-apache-couchdb-developer-day-bradley-holt"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/187365722/",
+    "https://www.meetup.com/scala-bay/events/195982742/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/236872594/",
+    "https://www.meetup.com/hadoopsf/events/219049335/",
+    "https://www.meetup.com/hadoopsf/events/224902669/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-functional-apis-in-scala-jason-swartz:functional-apis-in-scala",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-developing-api-in-scala-o-reilly-media:developing-api-in-scala",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-february-sf-hadoop-users-meetup-event-talk-2:closing-the-loop-with-hadoop-from-analysis-to-applications",
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-november-2015-meetup-joey-echevarria-rocana:november-2015-meetup",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-apache-couchdb-developer-day-bradley-holt:apache-couchdb-developer-day"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

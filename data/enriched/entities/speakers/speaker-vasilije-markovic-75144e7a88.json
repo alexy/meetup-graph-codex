@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:cognee",
+      "company_name": "Cognee",
+      "title": "Founder"
+    }
+  ],
+  "company_id": "company:cognee",
+  "company_ids": [
+    "company:cognee"
+  ],
+  "company_name": "Cognee",
+  "company_names": [
+    "Cognee"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:vasilije-markovic",
+  "meetup_ids": [],
+  "name": "Vasilije Markovic",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-vasilije-markovic-cognee.json",
+    "data/raw/sources/bythebay-20260508-building-memory-for-ai-agents-vasilije-markovic-cognee.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-vasilije-markovic-cognee",
+    "bythebay-20260508-building-memory-for-ai-agents-vasilije-markovic-cognee"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-building-memory-for-ai-agents-vasilije-markovic-cognee:building-memory-for-ai-agents"
+  ],
+  "title": "Founder",
+  "titles": [
+    "Founder"
+  ],
+  "type": "speaker"
+}

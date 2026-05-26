@@ -1,0 +1,31 @@
+{
+  "abstract": "We are excited to share this opportunity from our friends at IBM TechXchange. Join watsonx Day: Challenge and: Create apps to learn generative AI skills Compete solo or collaborate with like-minded innovators Win prizes and be featured on IBM social Visit the challenge website to find more information and register for the challenge. Once registered, you’ll receive a confirmation email. Prior to the challenge start date, you’ll receive additional information via email regarding access to education, our participant Slack channel and a prep webinar which will get you prepared for the challenge. Challenge tracks: Use prompt engineering to analyze customer experience and take corresponding actions Build a generative AI powered virtual assistant Automate repetitive manual tasks to improve productivity\\ Key event information Top teams can win prizes including Apple AirPods Pro®, watsonx hoodies, and watsonx t-shirts! Benefits to all participants: Experience with innovation and real-world problem solving using generative AI Free watsonx education and digital badging opportunities will be available prior to the challenge During the challenge team up with peers on new ideas to innovate with watsonx For details and to RSVP, please check the watsonx Day: Challenge website. \\ \\ \\ About the IBM Meetup Network The IBM Meetup Network is relaunching! Here’s how you can get involved: To browse content from across our network and suggest topics, speakers, etc., join our community and content hub over on TechXchange To explore volunteering opportunities with your local organizing team, join our community Slack (link valid through 4/16) In case you missed our recent community office hours, please check out the notes we took in our shared doc",
+  "conference_id": null,
+  "date_time": "2024-04-09T20:00:00-04:00",
+  "end_time": "2024-04-10T23:00:00-04:00",
+  "event_id": "300216124",
+  "event_title": "[EXTERNAL REGISTRATION] watsonx Day: Challenge",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-external-registration-watsonx-day-challenge-event:watsonx-day-challenge",
+  "kind": "announcement",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-external-registration-watsonx-day-challenge-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-external-registration-watsonx-day-challenge-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/300216124/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "watsonx Day: Challenge",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/300216124/"
+}

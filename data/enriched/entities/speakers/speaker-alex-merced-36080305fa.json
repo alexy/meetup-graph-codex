@@ -1,0 +1,47 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:dremio",
+      "company_name": "Dremio",
+      "title": "Head of DevRel"
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Head of DevRel"
+    }
+  ],
+  "company_id": "company:dremio",
+  "company_ids": [
+    "company:dremio"
+  ],
+  "company_name": "Dremio",
+  "company_names": [
+    "Dremio"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:alex-merced",
+  "meetup_ids": [],
+  "name": "Alex Merced",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-alex-merced-dremio.json",
+    "data/raw/sources/bythebay-20260508-open-standards-and-lakehouse-ai-development-arrow-flight-apache-iceberg-and-mcp-alex-merced-dremio-co-author-of-o-reilly-s-apache-iceberg-the-definitive-guide.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-alex-merced-dremio",
+    "bythebay-20260508-open-standards-and-lakehouse-ai-development-arrow-flight-apache-iceberg-and-mcp-alex-merced-dremio-co-author-of-o-reilly-s-apache-iceberg-the-definitive-guide"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-open-standards-and-lakehouse-ai-development-arrow-flight-apache-iceberg-and-mcp-alex-merced-dremio-co-author-of-o-reilly-s:open-standards-and-lakehouse-ai-development-arrow-flight-apache-iceberg-and-mcp"
+  ],
+  "title": "Head of DevRel",
+  "titles": [
+    "Head of DevRel"
+  ],
+  "type": "speaker"
+}

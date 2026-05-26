@@ -1,0 +1,34 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:paul-young-paul-young",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Paul Young Paul Young",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-employing-efficient-and-effective-data-ai-to-improve-risk-and-compliance-paul-young-4.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-employing-efficient-and-effective-data-ai-to-improve-risk-and-compliance-paul-young.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-employing-efficient-and-effective-data-ai-to-improve-risk-and-compliance-paul-young-3.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-employing-efficient-and-effective-data-ai-to-improve-risk-and-compliance-paul-young-4",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-employing-efficient-and-effective-data-ai-to-improve-risk-and-compliance-paul-young",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-employing-efficient-and-effective-data-ai-to-improve-risk-and-compliance-paul-young-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291848459/",
+    "https://www.meetup.com/big-data-developers-in-nyc/events/291848260/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-employing-efficient-and-effective-data-ai-to-improve-risk-and-compliance-paul-young:employing-efficient-and-effective-data-ai-to-improve-risk-and-compliance",
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-employing-efficient-and-effective-data-ai-to-improve-risk-and-compliance-paul-young-3:employing-efficient-and-effective-data-ai-to-improve-risk-and-compliance"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

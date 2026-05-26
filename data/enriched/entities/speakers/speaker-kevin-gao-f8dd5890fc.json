@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:descope",
+      "company_name": "Descope",
+      "title": "Head of DevRel"
+    }
+  ],
+  "company_id": "company:descope",
+  "company_ids": [
+    "company:descope"
+  ],
+  "company_name": "Descope",
+  "company_names": [
+    "Descope"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:kevin-gao",
+  "meetup_ids": [],
+  "name": "Kevin Gao",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-kevin-gao-descope.json",
+    "data/raw/sources/bythebay-20260508-identity-best-practices-to-secure-and-scale-agentic-ai-mcp-deployments-kevin-gao-descope.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-kevin-gao-descope",
+    "bythebay-20260508-identity-best-practices-to-secure-and-scale-agentic-ai-mcp-deployments-kevin-gao-descope"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-identity-best-practices-to-secure-and-scale-agentic-ai-mcp-deployments-kevin-gao-descope:identity-best-practices-to-secure-and-scale-agentic-ai-mcp-deployments"
+  ],
+  "title": "Head of DevRel",
+  "titles": [
+    "Head of DevRel"
+  ],
+  "type": "speaker"
+}

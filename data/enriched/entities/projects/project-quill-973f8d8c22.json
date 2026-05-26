@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:quill",
+  "name": "Quill",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-generic-derivation-is-the-new-reflection-by-alexander-loffe-alexander-loffe-nasdaq.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq",
+    "bythebay-20260508-sf-scala-generic-derivation-is-the-new-reflection-by-alexander-loffe-alexander-loffe-nasdaq"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/276447525/",
+    "https://www.meetup.com/sf-scala/events/276483759/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-alexander-ioffe-generic-derivation-is-the-new-reflection-alexander-ioffe-nasdaq:generic-derivation-is-the-new-reflection",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-generic-derivation-is-the-new-reflection-by-alexander-loffe-alexander-loffe-nasdaq:generic-derivation-is-the-new-reflection-by-alexander-loffe"
+  ],
+  "type": "project"
+}

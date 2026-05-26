@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:semantic-calculus",
+  "name": "Semantic Calculus",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-old-fashioned-nlp-to-be-or-not-to-be-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-old-fashioned-nlp-to-be-or-not-to-be-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/237140331/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-old-fashioned-nlp-to-be-or-not-to-be-event:old-fashioned-nlp-to-be-or-not-to-be"
+  ],
+  "type": "project"
+}

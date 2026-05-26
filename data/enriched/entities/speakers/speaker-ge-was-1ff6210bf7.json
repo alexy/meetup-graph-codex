@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:bridgestream-a-security",
+      "company_name": "Bridgestream, a security",
+      "title": "principal architect"
+    }
+  ],
+  "company_id": "company:bridgestream-a-security",
+  "company_ids": [
+    "company:bridgestream-a-security"
+  ],
+  "company_name": "Bridgestream, a security",
+  "company_names": [
+    "Bridgestream, a security"
+  ],
+  "conference_ids": [],
+  "id": "speaker:ge-was",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "GE. Was",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-topics-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-topics-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/220401029/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-topics-event-talk-2:topic-detection-at-massive-scale-stefan-gower-topic-scout"
+  ],
+  "title": "principal architect",
+  "titles": [
+    "principal architect"
+  ],
+  "type": "speaker"
+}

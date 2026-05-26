@@ -1,0 +1,40 @@
+{
+  "abstract": "Lucidworks' Francis Crimmins will give a talk about how Signals, Events, and Recommendations work in Solr and Lucidworks Fusion. More details to follow! Francis Crimmins is a software consultant at Lucidworks and has previously worked as one of the founders of Funnelback, a search technology company with blue chip clients like Skype, Rolls Royce and Cambridge University. Prior to that he was a Research Engineer at Australia's national research agency, the CSIRO",
+  "conference_id": null,
+  "date_time": "2015-03-25T18:30:00-07:00",
+  "end_time": "2015-03-25T21:30:00-07:00",
+  "event_id": "221288961",
+  "event_title": "Signals, Events, and Recommendations in Solr and Lucidworks Fusion",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-signals-events-and-recommendations-in-solr-and-lucidworks-fusion-francis-crimmins:signals-events-and-recommendations-in-solr-and-lucidworks-fusion",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-signals-events-and-recommendations-in-solr-and-lucidworks-fusion-francis-crimmins.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-signals-events-and-recommendations-in-solr-and-lucidworks-fusion-francis-crimmins"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/221288961/"
+  ],
+  "speaker_ids": [
+    "speaker:francis-crimmins"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:francis-crimmins",
+      "name": "Francis Crimmins",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Signals, Events, and Recommendations in Solr and Lucidworks Fusion",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/221288961/"
+}

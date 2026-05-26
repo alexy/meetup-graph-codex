@@ -1,0 +1,42 @@
+{
+  "abstract": "Summary: Tired of managing your own EC2 instances? Wish you could just write your Torch model and walk away? In this session we’ll dive deep into Amazon SageMaker and understand how it helps both senior data scientists and beginning developers increase their impact by leveraging a managed service. We will focus on common design patterns for developing, training, and deploying PyTorch models",
+  "conference_id": null,
+  "date_time": "2020-02-11T18:00:00-08:00",
+  "end_time": "2020-02-11T20:00:00-08:00",
+  "event_id": "268584447",
+  "event_title": "[RSVP at bay.area.ai] Featuring PyTorch with Facebook, Autodesk and AWS",
+  "github_repositories": [],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor-talk-3:less-code-more-intelligence-with-pytorch-on-sagemaker-by-aws",
+  "kind": "talk",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [
+    "project:torch"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-rsvp-at-bay-area-ai-featuring-pytorch-with-facebook-autodesk-and-aws-alex-o-connor-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/268584447/"
+  ],
+  "speaker_ids": [
+    "speaker:emily-webber"
+  ],
+  "speakers": [
+    {
+      "company_name": "AWS",
+      "id": "speaker:emily-webber",
+      "name": "Emily Webber",
+      "title": "Machine Learning Solutions Architect"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "\"Less Code, More Intelligence with PyTorch on SageMaker\" by AWS",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/268584447/"
+}

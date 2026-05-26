@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:lightbend-s-play",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Lightbend's Play",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-on-the-google-cloud-and-play-2-5-greg-methvin-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-on-the-google-cloud-and-play-2-5-greg-methvin.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-on-the-google-cloud-and-play-2-5-greg-methvin-2",
+    "bythebay-20260508-sf-scala-scala-on-the-google-cloud-and-play-2-5-greg-methvin"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/229445932/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-on-the-google-cloud-and-play-2-5-greg-methvin:scala-on-the-google-cloud-and-play-2-5"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

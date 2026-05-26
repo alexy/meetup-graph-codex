@@ -1,0 +1,20 @@
+{
+  "id": "company:cocoindex",
+  "name": "CocoIndex",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-linghua-jin-cocoindex.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-linghua-jin-cocoindex"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:linghua-jin"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-context-engineering-in-ever-changing-environment-made-simple-linghua-jin:context-engineering-in-ever-changing-environment-made-simple"
+  ],
+  "type": "company"
+}

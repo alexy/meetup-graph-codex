@@ -1,0 +1,84 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:the-last-10-years-he-is-passionate",
+      "company_name": "the last 10 years. He is passionate",
+      "title": "grew up in France and has been living in San Francisco"
+    },
+    {
+      "company_id": "company:scale-with-scala-by",
+      "company_name": "Scale with Scala\" by",
+      "title": "6:50pm: \"Qubism and NLP"
+    },
+    {
+      "company_id": "company:summary",
+      "company_name": "Summary",
+      "title": null
+    }
+  ],
+  "company_id": "company:the-last-10-years-he-is-passionate",
+  "company_ids": [
+    "company:the-last-10-years-he-is-passionate",
+    "company:scale-with-scala-by",
+    "company:summary"
+  ],
+  "company_name": "the last 10 years. He is passionate",
+  "company_names": [
+    "the last 10 years. He is passionate",
+    "Scale with Scala\" by",
+    "Summary"
+  ],
+  "conference_ids": [],
+  "id": "speaker:leo-benkel",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:18748975"
+  ],
+  "name": "Leo Benkel",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-2",
+    "bythebay-20260508-scale-by-the-bay-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase",
+    "bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-1",
+    "bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-3",
+    "bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-4",
+    "bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-7",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-1",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-3",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-4",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-7",
+    "bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk-10",
+    "bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-2",
+    "bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/272898761/",
+    "https://www.meetup.com/bythebay/events/268998983/",
+    "https://www.meetup.com/sf-scala/events/268998404/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-1:enhancing-spark-s-power-with-zio-by-leo-benkel",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-3:using-nix-for-haskell-development-by-john-wiegley",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-4:6-10pm-enhancing-spark-s-power-with-zio",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-enhancing-spark-s-power-with-zio-qubism-and-nlp-at-scale-using-nix-for-haskell-alexy-khrabrov-talk-7:enhancing-spark-s-power-with-zio",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:enhancing-spark-s-power-with-zio-by-leo-benkel",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:using-nix-for-haskell-development-by-john-wiegley",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:6-10pm-enhancing-spark-s-power-with-zio",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:enhancing-spark-s-power-with-zio",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-rsvp-sfscala-enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix-jerome-banks-demandbase-talk:enhancing-spark-s-power-with-zio-qubism-nlp-at-scale-using-nix",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-2:leveraging-tools-from-the-scala-community-to-learn-and-teach-scala-by-leo-benkel",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-ninny-json-type-classes-tools-from-the-scala-community-to-learn-teach-scala-leo-benkel-talk-3:15pm-leveraging-tools-from-the-scala-community-to-learn-and-teach-scala"
+  ],
+  "title": "grew up in France and has been living in San Francisco",
+  "titles": [
+    "grew up in France and has been living in San Francisco",
+    "6:50pm: \"Qubism and NLP"
+  ],
+  "type": "speaker"
+}

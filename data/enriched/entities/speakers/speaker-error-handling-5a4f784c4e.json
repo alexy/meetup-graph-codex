@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:error-handling",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Error Handling",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-what-s-new-in-scala-2-10-and-play-in-practice-error-handling-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-what-s-new-in-scala-2-10-and-play-in-practice-error-handling.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-what-s-new-in-scala-2-10-and-play-in-practice-error-handling-2",
+    "bythebay-20260508-sf-scala-what-s-new-in-scala-2-10-and-play-in-practice-error-handling"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/111419142/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-what-s-new-in-scala-2-10-and-play-in-practice-error-handling:what-s-new-in-scala-2-10-and-play-in-practice"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,26 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:li-haoyi-mill",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Li Haoyi Mill",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-by-li-haoyi-mill-2.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-by-li-haoyi-mill-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/306928330/"
+  ],
+  "talk_ids": [],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

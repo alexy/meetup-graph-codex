@@ -1,0 +1,31 @@
+{
+  "abstract": "6:30 - Doors 7:00 - Talk Talk Abstract Netflix has been doing reactive programming with RxJava in production for several years and only recently embarked on “greenfield” development efforts that are fully async. This talk will leverage the experience of introducing reactive programming into existing imperative, blocking codebases to demonstrate how it can be done and when it can make sense to do so. Then we will move to the future direction of RxJava and RxJS and how Netflix is pursuing fully reactive architectures to take greater advantage of the approach. Bio Ben Christensen is a lead committer to RxJava and a software engineer on the Netflix API Platform team responsible for fault tolerance, performance, architecture and scale while enabling millions of customers to access the Netflix experience. Specializing in Java since the 90s and through years of web and server-side development Ben has gained particular interest and skill in building maintainable, performant, high-volume, high-impact systems. Prior to Netflix, Ben was at Apple making iOS apps and media available on the iTunes store",
+  "conference_id": null,
+  "date_time": "2015-09-10T18:30:00-07:00",
+  "end_time": "2015-09-10T21:30:00-07:00",
+  "event_id": "225055328",
+  "event_title": "Reactive Extensions (Rx) at Netflix",
+  "github_repositories": [],
+  "id": "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-reactive-extensions-rx-at-netflix-event:reactive-extensions-rx-at-netflix",
+  "kind": "talk",
+  "meetup_id": "meetup:18748975",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-reactive-extensions-rx-at-netflix-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-reactive-extensions-rx-at-netflix-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/225055328/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Reactive Extensions (Rx) at Netflix",
+  "type": "talk",
+  "url": "https://www.meetup.com/bythebay/events/225055328/"
+}

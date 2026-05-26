@@ -1,0 +1,31 @@
+{
+  "abstract": "REGISTER HERE FOR THIS FREE EVENT: http://bit.ly/2X67Onf This event is Eastern Standard Time. Please adjust to your location. Event is on-line. IBM Z Day is a 1-day virtual conference for anyone and everyone! Our lineup of 25 global thought leaders will highlight industry trends and demonstrate how IBM Z is reliably running the world - always open | on | secure. Conference Tracks: - IBM Z: Imagine this - IBM Z runs 30 billion transactions a day! Always open | on | secure. To provide perspective, there are approximately 5.6 billion Google searches per day. Want to know how? Join us! - Open Z: Open source technologies are a vital part of most technology strategies today and this track provides attendees with a look at how they are being used for both zOS and LinuxONE. - Global Z: Join tech influencers, international organizations like the World Economic Forum and the United Nations, and IBM enterprise and startup clients to hear how they are shaping the digital landscape and evolving the tech industry, while making the world a better place. See the agenda and list of industry thought leaders speaking at this conference here : https://ibm.biz/IBMZDay Join Us! Don't miss this high end computing virtual conference to advance your tech skills, explore technical case studies, and discover how anyone can build their path to Z. Join us to learn more. This is an online Community virtual event for Z Analytics. Event is held in Eastern Standard Time. REGISTER HERE: http://bit.ly/2X67Onf Once you register you will be able to go back into the event to review recorded sessions",
+  "conference_id": null,
+  "date_time": "2019-11-21T07:00:00-05:00",
+  "end_time": "2019-11-21T15:00:00-05:00",
+  "event_id": "266466492",
+  "event_title": "Community Day: Z Day - High-End Computing",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-community-day-z-day-high-end-computing-event:community-day-z-day-high-end-computing",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-community-day-z-day-high-end-computing-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-community-day-z-day-high-end-computing-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/266466492/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Community Day: Z Day - High-End Computing",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/266466492/"
+}

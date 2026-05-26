@@ -1,0 +1,44 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:11-00am-a-metals-retrospective-by",
+      "company_name": "11.00am A Metals Retrospective by",
+      "title": null
+    }
+  ],
+  "company_id": "company:11-00am-a-metals-retrospective-by",
+  "company_ids": [
+    "company:11-00am-a-metals-retrospective-by"
+  ],
+  "company_name": "11.00am A Metals Retrospective by",
+  "company_names": [
+    "11.00am A Metals Retrospective by"
+  ],
+  "conference_ids": [],
+  "id": "speaker:william-narmontas",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "William Narmontas",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-2",
+    "bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-talk-1",
+    "bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-talk-2",
+    "bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-talk-3"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/276260651/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-talk-1:how-to-survive-algorithms-in-scala-by-william-narmontas",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-talk-2:a-metals-retrospective-by-chris-kipp",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-two-talks-how-to-survive-algorithms-in-scala-a-metals-retrospective-chris-kipp-lunatech-talk-3:15am-how-to-survive-algorithms-in-scala"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,45 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:rockset",
+      "company_name": "Rockset",
+      "title": "Vice President of Engineering, Challenges at the intersection of ML & real-time data-lessons learned spam fighting at Facebook"
+    },
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Rockset, Vice President of Engineering, Challenges"
+    }
+  ],
+  "company_id": "company:rockset",
+  "company_ids": [
+    "company:rockset"
+  ],
+  "company_name": "Rockset",
+  "company_names": [
+    "Rockset"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay",
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:louis-brandy",
+  "meetup_ids": [],
+  "name": "Louis Brandy",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-louis-brandy-louis-brandy-rockset.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-louis-brandy-louis-brandy-rockset"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [],
+  "title": "Vice President of Engineering, Challenges at the intersection of ML & real-time data-lessons learned spam fighting at Facebook",
+  "titles": [
+    "Vice President of Engineering, Challenges at the intersection of ML & real-time data-lessons learned spam fighting at Facebook",
+    "Rockset, Vice President of Engineering, Challenges"
+  ],
+  "type": "speaker"
+}

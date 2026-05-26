@@ -1,0 +1,33 @@
+{
+  "abstract": "Topic repeated at 2 different times, please join the session that is best suited for your time zone. How does a large organization build a Data Mesh from the ground up? Let’s explore how PayPal is evolving its data architecture and sharing best practices and guidance for your own implementation. In late 2021, we started building this incredible new Data Mesh platform. Over the years, PayPal has gathered a tremendous amount of data. With over 432 million active accounts and $337 billion total payment volume as of Q3 2022 (source: PayPal investor report), you can imagine that data is growing at a significant pace. The need for a verticalized data platform was obvious. This strategic platform should focus on risk, credit, business opportunities, and helping the future strategies at PayPal. However, what is the solution? A new Data Lake? A Lakehouse? The answer will surprise you. In this talk, I will start with the original vision. I will share how the concept evolved over time, what we built, how we leveraged the cloud, and some of the nuggets found on the way. Presenter: Jean-Georges “jgp” Perrin Jean-Georges “jgp” Perrin is a technology leader focusing on building innovative and modern data platforms at PayPal, president of AIDAUG, and author of Spark in Action, 2nd edition (Manning). He is passionate about software engineering and all things data, small and big data. His latest endeavors bring to more and more data engineering, data governance, industrialization of data science, and his favorite theme, the Data Mesh. He is proud to have been recognized as a Lifetime IBM Champion. Jean-Georges shares his more than 25 years of experience in the IT industry as a presenter and participant at conferences and publishing articles in print and online media. His blog is visible at http://jgp.ai. When not immersed in IT, which he loves, he enjoys exploring Upstate New York and New England with his wife and kids. \\ \\ \\ Please join us at the session that is best suited to your time zone. Note that this topic is: 1\\. Repeated at two different times to accommodate various time zones\\, because it is 2\\. Posted simultaneously in multiple meetup groups world\\-wide \\ \\ \\ It is recommended that you register at this Webex link ahead of time to receive a calendar invite and reminder. https://ibm.webex.com/weblink/register/r92aeb5bdb96dddea8dca5cb40c7f9e7b",
+  "conference_id": null,
+  "date_time": "2023-03-01T08:00:00-05:00",
+  "end_time": "2023-03-01T09:00:00-05:00",
+  "event_id": "290310561",
+  "event_title": "10 Lessons Learned from building a Data Mesh at PayPal",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-10-lessons-learned-from-building-a-data-mesh-at-paypal-event:10-lessons-learned-from-building-a-data-mesh-at-paypal",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:data-mesh"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-10-lessons-learned-from-building-a-data-mesh-at-paypal-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-10-lessons-learned-from-building-a-data-mesh-at-paypal-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/290310561/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "10 Lessons Learned from building a Data Mesh at PayPal",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/290310561/"
+}

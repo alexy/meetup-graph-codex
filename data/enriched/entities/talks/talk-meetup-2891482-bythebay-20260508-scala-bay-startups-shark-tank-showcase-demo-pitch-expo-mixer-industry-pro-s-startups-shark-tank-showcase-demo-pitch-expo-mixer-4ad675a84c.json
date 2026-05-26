@@ -1,0 +1,40 @@
+{
+  "abstract": "http://photos3.meetupstatic.com/photos/event/4/2/3/8/600 340636952.jpeg Startups [Shark-Tank] Showcase Demo+Pitch, we have a celebrity guest Judge from Myth-Busters on Judges panel, quess who? Jamie Hyneman, Adam Savage, Tory Belleci, Kari Byron, Grant Imahara (http://en.wikipedia.org/wiki/Grant Imahara) and we are searching for the next \"great startup!\" Therefore: 1) Please RSVP at Startups Showcase, meetup page at: http://tiny.cc/Startups-Showcase! 2) Get your tickets now before the price goes up! http://tiny.cc/StartupsShowcaseTicket Our Demo + Pitch event is for all Business Verticals! SOFTWARE + Hardware + All Apps (iOS, Driod, Native & Web) + Any Product/Service. ENTREPRENEURS Temple SF, a premier night club / Event Venue is hosting Startups Showcase [Shark Tank] we are super excited to have our event at Temple SF. http://photos4.meetupstatic.com/photos/event/5/1/5/6/600 312980822.jpeg This Startup Demo+Pitch will be Judged by Industry Pro's, VC's and Angels! Therefore bring your \"A\" Game! AGENDA 5:00 PM - Demo setup 6:00 PM - Networking Mixer 7:00 PM - Speaker (Sponsor Opportunty) 7:15 PM - 2 Min - Pitching begins 8:45 PM - Voting for the Winner 8:50 PM - Winner Announced 9:00 - 10:00 PM More Networking 9:10 - After - Party only RSVP's allowed entry. LIST of DEMO CO's List - Coming Soon... LIST of INVESTORS Micro Ventures | SFAngel Group | Voivoda Ventures | Paladin Capital Group | DoubleRock Venture Capital | Keiretsu Forum | Giovanni Tripodi, Angel |Anna Dvornikova, Angel - TEC Venture | Manu Das, Angel | Peter Bloom, Angel | Guillermo Bodnar | Preethi Kasireddy, Partner Andreessen Horowitz | Don Hemingway AngelSearch | We are searching for the next \"Startup\" investment!",
+  "conference_id": null,
+  "date_time": "2014-03-21T18:00:00-07:00",
+  "end_time": "2014-03-21T23:45:00-07:00",
+  "event_id": "172108802",
+  "event_title": "Startups [Shark-Tank] Showcase Demo+Pitch Expo & Mixer",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-startups-shark-tank-showcase-demo-pitch-expo-mixer-industry-pro-s:startups-shark-tank-showcase-demo-pitch-expo-mixer",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-startups-shark-tank-showcase-demo-pitch-expo-mixer-industry-pro-s.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-startups-shark-tank-showcase-demo-pitch-expo-mixer-industry-pro-s"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/172108802/"
+  ],
+  "speaker_ids": [
+    "speaker:industry-pro-s"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:industry-pro-s",
+      "name": "Industry Pro's",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Startups [Shark-Tank] Showcase Demo+Pitch Expo & Mixer",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/172108802/"
+}

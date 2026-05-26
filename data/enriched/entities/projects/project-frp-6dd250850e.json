@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:frp",
+  "name": "FRP",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-oscar-boykin-on-reproducible-machine-learning-with-functional-programming-event.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-reproducible-machine-learning-with-oscar-boykin-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-oscar-boykin-on-reproducible-machine-learning-with-functional-programming-event",
+    "bythebay-20260508-bay-area-ai-reproducible-machine-learning-with-oscar-boykin-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/248351966/",
+    "https://www.meetup.com/bay-area-ai/events/248985548/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-oscar-boykin-on-reproducible-machine-learning-with-functional-programming-event:oscar-boykin-on-reproducible-machine-learning-with-functional-programming",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-reproducible-machine-learning-with-oscar-boykin-event:reproducible-machine-learning-with-oscar-boykin"
+  ],
+  "type": "project"
+}

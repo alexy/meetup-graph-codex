@@ -1,0 +1,47 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:vshn",
+      "company_name": "VSHN",
+      "title": "CMO, Kubernetes and MLOps for Scalable and Reproducible Generative AI"
+    },
+    {
+      "company_id": "company:scalable-and-reproducible-generative-ai",
+      "company_name": "Scalable and Reproducible Generative AI",
+      "title": "VSHN, CMO, Kubernetes and MLOps"
+    }
+  ],
+  "company_id": "company:vshn",
+  "company_ids": [
+    "company:vshn",
+    "company:scalable-and-reproducible-generative-ai"
+  ],
+  "company_name": "VSHN",
+  "company_names": [
+    "VSHN",
+    "Scalable and Reproducible Generative AI"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay",
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:annie-talvasto",
+  "meetup_ids": [],
+  "name": "Annie Talvasto",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-annie-talvasto-annie-talvasto-vshn.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-annie-talvasto-annie-talvasto-vshn"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [],
+  "title": "CMO, Kubernetes and MLOps for Scalable and Reproducible Generative AI",
+  "titles": [
+    "CMO, Kubernetes and MLOps for Scalable and Reproducible Generative AI",
+    "VSHN, CMO, Kubernetes and MLOps"
+  ],
+  "type": "speaker"
+}

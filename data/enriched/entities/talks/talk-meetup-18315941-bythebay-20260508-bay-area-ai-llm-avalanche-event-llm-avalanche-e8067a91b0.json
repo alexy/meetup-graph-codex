@@ -1,0 +1,31 @@
+{
+  "abstract": "NOTE: Scale By the Bay CFP is open through 6/16! Update : the Community Showcase is open! Apply to get a table to present to the attendees or do a lightning talk at the LLM Open Mike : https://chief.sc/llma23showcase I'm really happy to announce the LLMs Avalanche meetup that we will be running in conjunction with DataAISummit on June 26th, at 5 pm at The Contemporary Jewish Museum (right next to Moscone Center). We have some amazing technical LLM panelists and speakers from Anthropic, Google DeepMind, MosaicML, Robust Intelligence, Claypot AI, John Snow Labs, LangChain, Numbers Station AI, LlamaIndex, Lamini, IBM, and Databricks! And there will be more announced shortly! Join the fun and festivities and donate to a great cause, too! The first wave of speakers include: Aakanksha Chowdhery, Ph.D. (Google DeepMind ) Yaron Singer (Robust Intelligence) Chip Huyen (Claypot AI) David Talby (John Snow Labs) Emmanuel Ameisen (Anthropic) Hanlin Tang (MosaicML) Harrison Chase (LangChain) Ines Chami (Numbers Station AI) Jerry Liu (LlamaIndex) Matei Zaharia (Databricks) Sandeep Gopisetty (IBM) Sharon Zhou, PhD ( Lamini) From your organizers: Demetrios Brinkmann ( mlopscommunity), Alexy Khrabrov, Denny Lee! You have to register at avalanche.fm in order to attend. The RSVPs ar elimited",
+  "conference_id": null,
+  "date_time": "2023-06-26T17:00:00-07:00",
+  "end_time": "2023-06-26T21:00:00-07:00",
+  "event_id": "294168508",
+  "event_title": "LLM Avalanche",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-llm-avalanche-event:llm-avalanche",
+  "kind": "announcement",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-llm-avalanche-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-llm-avalanche-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/294168508/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "LLM Avalanche",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/294168508/"
+}

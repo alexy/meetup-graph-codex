@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:consulting-advantage",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Consulting Advantage",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-contextforge-mcp-gateway-consulting-advantage.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-contextforge-mcp-gateway-consulting-advantage.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-contextforge-mcp-gateway-consulting-advantage",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-contextforge-mcp-gateway-consulting-advantage"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/310585244/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-contextforge-mcp-gateway-consulting-advantage:contextforge-mcp-gateway"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "company:the-ai-collective",
+  "name": "The AI Collective",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-mary-grygleski-the-ai-collective.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-mary-grygleski-the-ai-collective"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:mary-grygleski"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-harnessing-event-driven-and-multi-agent-architectures-for-complex-workflows-in-generative-ai-system-mary-grygleski-the-ai:harnessing-event-driven-and-multi-agent-architectures-for-complex-workflows-in-generative"
+  ],
+  "type": "company"
+}

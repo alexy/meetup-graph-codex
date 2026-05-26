@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:john-leach",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "John Leach",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-march-2016-meetup-john-leach-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-march-2016-meetup-john-leach.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-march-2016-meetup-john-leach-2",
+    "bythebay-20260508-san-francisco-hadoop-users-march-2016-meetup-john-leach"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/228090357/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-march-2016-meetup-john-leach:march-2016-meetup"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

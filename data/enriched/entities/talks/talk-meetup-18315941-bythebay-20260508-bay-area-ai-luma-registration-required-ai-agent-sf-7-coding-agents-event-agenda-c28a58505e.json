@@ -1,0 +1,40 @@
+{
+  "abstract": "5:00 pm - Checkin & Networking 5:30 pm - Introductions & Welcome 5:45 pm - Talks Code Review is Dead; Long Live Code Review! Beyang Liu, Co-Founder and CTO, Sourcegraph/AmpCode The bottleneck for agentic coding is now human review. If you don't read the code, you're going to ship slop. But reading code is a lot less fun than writing it. What should we do?\" Parallel is the New Fast: High Velocity Engineering as the New Methodology Mike Biglan, Founder and CEO of DevSwarm High Velocity Engineering, or HiVE coding, is to agile as agile was to waterfall. See how parallel, branch-isolated agents run in parallel while keeping coders in the loop and reviewing code first. I’ll show DevSwarm running with Amp as a CLI worker to plan, refactor, test, and document inside branch-isolated workspaces. Building on Beyang’s point about shifting bottlenecks, HiVE makes review faster and safer without losing ownership. This is AI-first coding, NOT vibe coding. The code matters. PRs, human review, and automated QA matter. The result is moving fast without sacrificing quality and we’ll discuss the principles that define this new methodology Mike is focused on High Velocity Engineering (HiVE): parallel AI assistants in branch-isolated workspaces that help teams ship faster with quality and control. I also lead Twenty Ideas, a 60-person studio in Oregon, and previously served as Head of Technology at Marco Polo. I speak on HiVE adoption, developer productivity, multi-agent orchestration, and practical, secure AI-first workflows \\ \\ The Future of Building: How AI Coding Is Transforming Product Development with Trae\\ \\ Gary Qi, Developer Operation Manager of TRAE As AI-native tools evolve, we’re entering a new era of software development-faster, more creative, and radically more accessible. In this talk, we’ll explore how Trae envisions the future of AI Coding: where building becomes as natural as thinking, and development workflows are transformed by agentic automation. From removing technical barriers to enabling faster, collaborative creation, discover how AI will transform not just how we code, but what we’re capable of building 7:15 pm - Lightning / Community Talks Small Models as Tools for Coding Agents by Tejas Bhakta- Founder & CEO, Morph What happens when frontier models hit 99% on a task - does it still make sense to use them? In a world of compute scarcity, we’ll need intelligence hierarchies: frontier models for reasoning, and small models as specialized tools for execution. Morph builds these tools for coding agents, serving as a fast, safe, and production-grade infrastructure layer for frontier models 7:30 pm - Open Networking w/ Pizza and Sodas 8:30 pm - Close We look forward to building San Francisco's AI Agent community together! 🚀 Food and drink, engaging conversation, and incredible company will all be provided! This AI Alliance event is sponsored by Neo4j",
+  "conference_id": null,
+  "date_time": "2025-10-15T17:30:00-07:00",
+  "end_time": "2025-10-15T20:30:00-07:00",
+  "event_id": "311526427",
+  "event_title": "[luma registration required] AI Agent SF 7: Coding Agents",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-luma-registration-required-ai-agent-sf-7-coding-agents-event:agenda",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-luma-registration-required-ai-agent-sf-7-coding-agents-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-luma-registration-required-ai-agent-sf-7-coding-agents-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/311526427/"
+  ],
+  "speaker_ids": [
+    "speaker:beyang-liu"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:beyang-liu",
+      "name": "Beyang Liu",
+      "title": "Co-Founder and CTO, Sourcegraph/AmpCode. The bottleneck"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "📆 Agenda",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/311526427/"
+}

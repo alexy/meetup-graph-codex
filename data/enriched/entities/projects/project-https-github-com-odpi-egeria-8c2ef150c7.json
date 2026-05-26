@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/odpi/egeria"
+  ],
+  "github_repository": "https://github.com/odpi/egeria",
+  "id": "project:https-github-com-odpi-egeria",
+  "name": "egeria",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-managing-your-metadata-with-project-egeria-master-inventor.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-managing-your-metadata-with-project-egeria-master-inventor"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/253974350/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-managing-your-metadata-with-project-egeria-master-inventor:managing-your-metadata-with-project-egeria"
+  ],
+  "type": "project"
+}

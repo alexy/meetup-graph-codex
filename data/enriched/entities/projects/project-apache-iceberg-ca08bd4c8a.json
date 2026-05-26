@@ -1,0 +1,23 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:apache-iceberg",
+  "name": "Apache Iceberg",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-apache-iceberg-enabling-an-open-lakehouse-architecture-for-large-scale-analytics-dipankar-mazumdar-onehouse-ai.json",
+    "data/raw/sources/bythebay-20260508-donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval-vino-duraisamy-snowflake-josh-reini-developer-advocate-for-open-source-ai.json",
+    "data/raw/sources/bythebay-20260508-open-standards-and-lakehouse-ai-development-arrow-flight-apache-iceberg-and-mcp-alex-merced-dremio-co-author-of-o-reilly-s-apache-iceberg-the-definitive-guide.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-apache-iceberg-enabling-an-open-lakehouse-architecture-for-large-scale-analytics-dipankar-mazumdar-onehouse-ai",
+    "bythebay-20260508-donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval-vino-duraisamy-snowflake-josh-reini-developer-advocate-for-open-source-ai",
+    "bythebay-20260508-open-standards-and-lakehouse-ai-development-arrow-flight-apache-iceberg-and-mcp-alex-merced-dremio-co-author-of-o-reilly-s-apache-iceberg-the-definitive-guide"
+  ],
+  "source_urls": [],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-apache-iceberg-enabling-an-open-lakehouse-architecture-for-large-scale-analytics-dipankar-mazumdar-onehouse-ai:apache-iceberg-enabling-an-open-lakehouse-architecture-for-large-scale-analytics",
+    "talk:ai-by-the-bay:bythebay-20260508-donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval-vino-duraisamy-snowflake-josh-reini:donut-kill-my-vibe-enriching-rag-with-apache-icebergtm-for-sweet-structured-retrieval",
+    "talk:ai-by-the-bay:bythebay-20260508-open-standards-and-lakehouse-ai-development-arrow-flight-apache-iceberg-and-mcp-alex-merced-dremio-co-author-of-o-reilly-s:open-standards-and-lakehouse-ai-development-arrow-flight-apache-iceberg-and-mcp"
+  ],
+  "type": "project"
+}

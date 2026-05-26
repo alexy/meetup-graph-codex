@@ -1,0 +1,20 @@
+{
+  "id": "company:thoughtworks-we",
+  "name": "ThoughtWorks) We",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/203730542/"
+  ],
+  "speaker_ids": [
+    "speaker:srikar-ayilavarapu"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-september-sf-hadoop-users-meetup-event-talk-1:relevance-of-web-development-practices-to-hadoop-or-what-i-missed-from-the-world-of-web-de"
+  ],
+  "type": "company"
+}

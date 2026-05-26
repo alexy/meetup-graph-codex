@@ -1,0 +1,39 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-workshop-building-durable-deep-research-agents-samuel-colvin:workshop-building-durable-deep-research-agents",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-workshop-building-durable-deep-research-agents-samuel-colvin.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-workshop-building-durable-deep-research-agents-samuel-colvin"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:samuel-colvin"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:samuel-colvin",
+      "name": "Samuel Colvin",
+      "title": "Founder of Pydantic"
+    }
+  ],
+  "tags": [
+    "AI Infrastructure",
+    "Agentic AI",
+    "Workshop"
+  ],
+  "title": "Workshop: Building Durable Deep Research Agents",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/workshop-building-durable-deep-research-agents"
+}

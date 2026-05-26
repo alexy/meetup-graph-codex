@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-agentic-coding-with-discipline-and-skill-practical-techniques-and-tips-yk-sugi-cs-dojo:agentic-coding-with-discipline-and-skill-practical-techniques-and-tips",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-agentic-coding-with-discipline-and-skill-practical-techniques-and-tips-yk-sugi-cs-dojo.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-agentic-coding-with-discipline-and-skill-practical-techniques-and-tips-yk-sugi-cs-dojo"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:yk-sugi"
+  ],
+  "speakers": [
+    {
+      "company_name": "CS Dojo",
+      "id": "speaker:yk-sugi",
+      "name": "YK Sugi",
+      "title": "Founder"
+    }
+  ],
+  "tags": [
+    "AI Native Coding",
+    "Agentic AI",
+    "Context engineering",
+    "LLMOps"
+  ],
+  "title": "Agentic Coding with Discipline and Skill: Practical Techniques and Tips",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/agentic-coding-with-discipline-and-skill-practical-techniques-and-tips"
+}

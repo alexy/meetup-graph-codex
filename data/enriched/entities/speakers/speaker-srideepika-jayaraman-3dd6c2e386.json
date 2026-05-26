@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:srideepika-jayaraman",
+  "meetup_ids": [
+    "meetup:5347552"
+  ],
+  "name": "Srideepika Jayaraman",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-ana-osorio-alvarado-2.json",
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-ana-osorio-alvarado.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-ana-osorio-alvarado-2",
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-ana-osorio-alvarado"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/314151810/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-women-in-data-science-new-york-city-ana-osorio-alvarado:women-in-data-science-new-york-city"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

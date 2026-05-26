@@ -1,0 +1,50 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:the-linux-foundation",
+      "company_name": "the Linux Foundation",
+      "title": "GM, AI & Infrastructure"
+    },
+    {
+      "company_id": "company:ai-and-infrastructure-the-linux-foundation",
+      "company_name": "AI and Infrastructure @ the Linux Foundation",
+      "title": "General Manager"
+    }
+  ],
+  "company_id": "company:the-linux-foundation",
+  "company_ids": [
+    "company:the-linux-foundation",
+    "company:ai-and-infrastructure-the-linux-foundation"
+  ],
+  "company_name": "the Linux Foundation",
+  "company_names": [
+    "the Linux Foundation",
+    "AI and Infrastructure @ the Linux Foundation"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:mark-collier",
+  "meetup_ids": [],
+  "name": "Mark Collier",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-mark-collier-the-linux-foundation.json",
+    "data/raw/sources/bythebay-20260508-reliable-agentic-ai-the-open-way-mark-collier-the-linux-foundation.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-mark-collier-the-linux-foundation",
+    "bythebay-20260508-reliable-agentic-ai-the-open-way-mark-collier-the-linux-foundation"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-reliable-agentic-ai-the-open-way-mark-collier-the-linux-foundation:reliable-agentic-ai-the-open-way"
+  ],
+  "title": "GM, AI & Infrastructure",
+  "titles": [
+    "GM, AI & Infrastructure",
+    "General Manager"
+  ],
+  "type": "speaker"
+}

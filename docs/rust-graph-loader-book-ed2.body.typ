@@ -974,18 +974,21 @@ That is the heart of writing clear Rust.
 = 28. Edition 2: The Whole Project Architecture
 <edition-2-the-whole-project-architecture>
 The full project is more than the loader. It is a data pipeline with
-three architectural zones:
+four architectural zones:
 
 + acquisition and extraction in `src/main.rs`
++ cached-download enrichment in `scripts/enrich_meetup_entities.py`
 + import-shape normalization in `src/bin/load_graph.rs`
 + backend-neutral graph loading in `src/graph_loader.rs`
 
 The executable in `src/main.rs` owns the messy edge of the world. It
 knows about URLs, HTML, Meetup GraphQL, LLM extraction, hand-written
 parsers, raw source records, and the final consolidated export. The
-loader binary owns the contract between exported data and the portable
-graph model. The library module owns the contract between the portable
-graph model and databases.
+enrichment script owns the cached, offline pass that turns downloaded
+records into first-class speakers, talks, projects, companies, meetups,
+and graph-record nodes and edges. The loader binary owns the contract
+between exported data and the portable graph model. The library module
+owns the contract between the portable graph model and databases.
 
 That split is the main architectural decision of the codebase.
 Unreliable input formats and backend-specific write protocols are not
@@ -1001,6 +1004,7 @@ remote pages and APIs
     -> raw source records
     -> extracted structured records
     -> GraphExport JSON
+    -> optional enriched entity records and graph-record export
     -> GraphData
     -> backend-specific writes
 ```
@@ -1041,14 +1045,25 @@ pub fn load_graph(config: &GraphLoadConfig, graph: &GraphData) -> Result<()>
 
 Everything behind it can change as long as this contract remains stable.
 
-= 30. The Two Executables
-<the-two-executables>
+= 30. Executables and Scripts
+<executables-and-scripts>
 The default binary in `src/main.rs` is the scraper/exporter. It uses
 Tokio and `reqwest::Client`, so its `main` function is asynchronous. Its
 job is broad: it fetches conference pages, fetches Meetup archives,
 chooses between LLM extraction and local parsing, writes split records
 under `data/raw`, builds `GraphExport`, and writes
 `data/bythebay-graph.json`.
+
+The enrichment script is a separate offline executable:
+
+```bash
+python3 scripts/enrich_meetup_entities.py --batch-size 100
+```
+
+It reads cached source records from `data/raw/sources`, uses
+`data/bythebay-graph.json` as fallback context, processes Meetup
+downloads in batches, and writes aggregate, JSON Lines, per-entity, and
+graph-record outputs under `data/enriched`.
 
 The loader binary in `src/bin/load_graph.rs` is narrower:
 
@@ -1072,6 +1087,8 @@ vague:
 - raw source records preserve what was fetched
 - extracted records preserve what was understood from a source
 - `GraphExport` is a stable interchange file
+- enriched entity records preserve normalized speakers, talks,
+  companies, projects, meetups, and conferences
 - `GraphData` is the database-neutral loader model
 
 In `src/main.rs`, structs such as `RawSpeaker`, `RawTalk`, `RawMeetup`,
@@ -1103,6 +1120,43 @@ pub struct GraphData {
 
 Earlier stages are rich in domain vocabulary. Later stages are rich in
 graph vocabulary.
+
+== Enriched entity records
+<enriched-entity-records>
+The enrichment output has two audiences. Humans and data tools can read
+the entity files:
+
+```text
+data/enriched/bythebay-entities.json
+data/enriched/speakers.json
+data/enriched/talks.json
+data/enriched/projects.json
+data/enriched/companies.json
+data/enriched/meetups.json
+data/enriched/conferences.json
+data/enriched/entities/{entity-type}/*.json
+```
+
+The loader can read the graph-record export with the existing
+`talk-records` importer:
+
+```bash
+cargo run --bin load_graph -- \
+  --input data/enriched/bythebay-enriched-graph.json \
+  --input-format talk-records \
+  --backend falkor
+```
+
+That graph-record file uses `nodes` and `edges`, but its domain model is
+richer than the original `GraphExport`. It includes `Speaker`,
+`Company`, and `Project` nodes, and relationships such as `WORKS_FOR`,
+`MENTIONS_PROJECT`, `PRESENTED_BY_COMPANY`, `PART_OF_MEETUP`, and
+`PART_OF_CONFERENCE`.
+
+The current cached run produced 1,218 talks, 677 speakers, 185
+companies, 219 projects, 9 meetups, 2 conferences, 2,310 graph nodes,
+and 3,399 graph edges. The script also writes batch summaries so a
+large cached corpus can be inspected incrementally.
 
 = 32. `serde`: Deriving the Boundary
 <serde-deriving-the-boundary>

@@ -1,0 +1,31 @@
+{
+  "abstract": "Our friends at Chartboost are inviting us back for another exciting meetup, this time at their new location on Taylor street in SF. We'll have Jonas Bonér, cofounder and CTO of Typesafe, Inc, giving a special talk on the Akka Cluster, and Marek Kolodziej will be speaking about integrating Akka with non-reactive systems such as R. Jonas Bonér - The Road to Akka Cluster, and Beyond… Today, the skills of writing distributed applications is both more important and at the same time more challenging than ever. With the advent of mobile devices, NoSQL databases, cloud services etc. you most likely already have a distributed system at your hands-whether you like it or not. Distributed computing is the new norm. In this talk we will take you on a journey across the distributed computing landscape. We will start with walking through some of the early work in computer architecture-setting the stage for what we are doing today. Then continue through distributed computing-discussing things like important Impossibility Theorems (FLP, CAP), Consensus Protocols (Raft, HAT, Epidemic Gossip etc.), Failure Detection (Accrual, Byzantine etc.), up to today’s very exciting research in the field, like ACID 2.0, Disorderly Programming (CRDTs, CALM etc). Along the way we will discuss the decisions and trade-offs that were made when creating Akka Cluster, its theoretical foundation, why it is designed the way it is and what the future holds. Marek Kolodziej - Integrating Non-Reactive Legacy Code - The Case of R Reactive programming is a phenomenal idea, but it's not always achievable \"all the way down\" in practice. In the real world, one rarely writes entire platforms from scratch and even then, one often needs to integrate with third-party applications that are blocking, stateful, and seem to violate nearly every reactive principle. In my talk, I will explain how Akka is still ideally suited to handle the integration of such systems into both reactive and non-reactive JVM code. To illustrate the above claims, I will talk about Alpine Data Labs' JVM-R integration. Calls to the R language runtime to perform a data science computation are blocking given the constraints of R itself. Sessions have to be maintained since many messages have to be sent per R session (populating the R heap with DTOs, sending the script to be executed, etc.), and each actor can hold a TCP connection to a single R runtime. R is very prone to failure, be it due to poor memory management, dynamically typed, buggy user code, segmentation faults in native R packages, etc. I will show how Akka can handle all of these problems in a graceful manner to help integrate a faulty, non-engineering grade technology like R into a JVM enterprise application",
+  "conference_id": null,
+  "date_time": "2014-09-10T18:00:00-07:00",
+  "end_time": "2014-09-10T21:00:00-07:00",
+  "event_id": "202371622",
+  "event_title": "The Road to Akka Cluster and Beyond with Jonas Bonér",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-the-road-to-akka-cluster-and-beyond-with-jonas-boner-event:the-road-to-akka-cluster-and-beyond-with-jonas-boner",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-the-road-to-akka-cluster-and-beyond-with-jonas-boner-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-the-road-to-akka-cluster-and-beyond-with-jonas-boner-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/202371622/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "The Road to Akka Cluster and Beyond with Jonas Bonér",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/202371622/"
+}

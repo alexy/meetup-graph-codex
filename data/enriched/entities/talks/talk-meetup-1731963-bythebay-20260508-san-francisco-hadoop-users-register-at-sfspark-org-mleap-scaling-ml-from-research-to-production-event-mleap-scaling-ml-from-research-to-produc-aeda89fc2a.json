@@ -1,0 +1,31 @@
+{
+  "abstract": "Reminder: SF Hadoop and SF Spark is now the same meetup. Please see the details and register at sfspark.org",
+  "conference_id": null,
+  "date_time": "2017-05-04T18:00:00-07:00",
+  "end_time": "2017-05-04T21:00:00-07:00",
+  "event_id": "239734942",
+  "event_title": "[register at sfspark.org] MLeap: Scaling ML from Research to Production",
+  "github_repositories": [],
+  "id": "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-register-at-sfspark-org-mleap-scaling-ml-from-research-to-production-event:mleap-scaling-ml-from-research-to-production",
+  "kind": "announcement",
+  "meetup_id": "meetup:1731963",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-register-at-sfspark-org-mleap-scaling-ml-from-research-to-production-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-register-at-sfspark-org-mleap-scaling-ml-from-research-to-production-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/239734942/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "announcement"
+  ],
+  "title": "MLeap: Scaling ML from Research to Production",
+  "type": "talk",
+  "url": "https://www.meetup.com/hadoopsf/events/239734942/"
+}

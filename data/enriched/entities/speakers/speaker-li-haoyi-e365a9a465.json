@@ -1,0 +1,68 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "graduated from MIT"
+    }
+  ],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:li-haoyi",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:18601481",
+    "meetup:2891482"
+  ],
+  "name": "Li Haoyi",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-by-li-haoyi-mill-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-modal-ai-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-chang-she-multi-modal-ai-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-getting-things-done-in-the-scala-repl-by-li-haoyi-alexy-khrabrov.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-by-li-haoyi-mill.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-chang-she-multi-modal-ai.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-modal-ai.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-by-li-haoyi-mill-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-modal-ai-2",
+    "bythebay-20260508-scala-bay-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-chang-she-multi-modal-ai-2",
+    "bythebay-20260508-sf-scala-getting-things-done-in-the-scala-repl-by-li-haoyi-alexy-khrabrov",
+    "bythebay-20260508-sf-scala-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-by-li-haoyi-mill-talk-1",
+    "bythebay-20260508-sf-scala-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-by-li-haoyi-mill-talk-2",
+    "bythebay-20260508-sf-scala-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-by-li-haoyi-mill-talk-5",
+    "bythebay-20260508-scala-bay-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-chang-she-multi-modal-ai-talk-1",
+    "bythebay-20260508-scala-bay-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-chang-she-multi-modal-ai-talk-2",
+    "bythebay-20260508-scala-bay-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-chang-she-multi-modal-ai-talk-5",
+    "bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-modal-ai-talk-3",
+    "bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-modal-ai-talk-4",
+    "bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-modal-ai-talk-6"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/306928330/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/306945414/",
+    "https://www.meetup.com/scala-bay/events/306928356/",
+    "https://www.meetup.com/sf-scala/events/271284915/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-getting-things-done-in-the-scala-repl-by-li-haoyi-alexy-khrabrov:45pm-getting-things-done-in-the-scala-repl",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-by-li-haoyi-mill-talk-1:solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-by-li-haoyi-mill-talk-2:about-li-haoyi",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-by-li-haoyi-mill-talk-5:solving-scala-s-build-problem-with-the-mill-build-tool",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-chang-she-multi-modal-ai-talk-1:solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-chang-she-multi-modal-ai-talk-2:about-li-haoyi",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi-chang-she-multi-modal-ai-talk-5:solving-scala-s-build-problem-with-the-mill-build-tool",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-m:solving-scala-s-build-problem-with-the-mill-build-tool-by-li-haoyi",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-m:about-li-haoyi",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-search-retrieval-training-and-analytics-with-modern-ai-data-lake-by-chang-she-chang-she-multi-m:solving-scala-s-build-problem-with-the-mill-build-tool"
+  ],
+  "title": "graduated from MIT",
+  "titles": [
+    "graduated from MIT"
+  ],
+  "type": "speaker"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "company:ydata",
+  "name": "YData",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success-fabiana-clemente-ydata.json",
+    "data/raw/sources/bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-goncalo-martins-ribeiro-ydata.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success-fabiana-clemente-ydata",
+    "bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-goncalo-martins-ribeiro-ydata"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:fabiana-clemente",
+    "speaker:goncalo-martins-ribeiro"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-goncalo-martins-ribeiro-ydata:unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml",
+    "talk:scale-by-the-bay:bythebay-20260508-unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success-fabiana-clemente-ydata:unlocking-the-power-of-data-centric-ai-mastering-data-preparation-for-ml-success"
+  ],
+  "type": "company"
+}

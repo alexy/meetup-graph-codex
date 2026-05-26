@@ -1,0 +1,40 @@
+{
+  "abstract": "In this talk, Alexy, who leads the AI Alliance Community, will present the newly formed AI Alliance, now comprising more than 60 members worldwide, including IBM and UC Berkeley. Alexy will show how community is a core part and value informing AI decisions today Dr. Alexy Khrabrov is the Open-Source Science Director at IBM Research, the founding Chair of the Generative AI Commons at the Linux Foundation, and the Head of Community for the AI Alliance",
+  "conference_id": null,
+  "date_time": "2024-01-31T16:00:00-08:00",
+  "end_time": "2024-01-31T19:00:00-08:00",
+  "event_id": "298461968",
+  "event_title": "[External Registration Required] AI Alliance and vLLM",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-external-registration-required-ai-alliance-and-vllm-event-talk-1:ai-alliance-community-is-the-way-alexy-khrabrov-ibm-research",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-external-registration-required-ai-alliance-and-vllm-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-external-registration-required-ai-alliance-and-vllm-event-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/298461968/"
+  ],
+  "speaker_ids": [
+    "speaker:alexy-khrabrov"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:alexy-khrabrov",
+      "name": "Alexy Khrabrov",
+      "title": "Open-Source Science Director"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "AI Alliance: Community is the Way, Alexy Khrabrov, IBM Research",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/298461968/"
+}

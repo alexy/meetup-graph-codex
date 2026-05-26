@@ -1,0 +1,21 @@
+{
+  "id": "company:healthexpense",
+  "name": "HealthExpense",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-haroon-khan-free-monads-in-practice-haroon-khan-haroon-khan.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-haroon-khan-free-monads-in-practice-haroon-khan-haroon-khan"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/228543862/"
+  ],
+  "speaker_ids": [
+    "speaker:haroon-khan",
+    "speaker:haroon-khan-haroon-khan"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-haroon-khan-free-monads-in-practice-haroon-khan-haroon-khan:haroon-khan-free-monads-in-practice"
+  ],
+  "type": "company"
+}

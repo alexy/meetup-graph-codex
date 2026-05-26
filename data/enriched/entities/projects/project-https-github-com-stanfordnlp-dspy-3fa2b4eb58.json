@@ -1,0 +1,25 @@
+{
+  "github_repositories": [
+    "https://github.com/stanfordnlp/dspy"
+  ],
+  "github_repository": "https://github.com/stanfordnlp/dspy",
+  "id": "project:https-github-com-stanfordnlp-dspy",
+  "name": "DSPy",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-10.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-dspy-and-graphrag-making-genai-real-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-10",
+    "bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-dspy-and-graphrag-making-genai-real-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/unstructured-data-sf/events/299447366/",
+    "https://www.meetup.com/bay-area-ai/events/302540816/"
+  ],
+  "talk_ids": [
+    "talk:meetup-36468260:bythebay-20260508-unstructured-data-meetup-bay-area-unstructured-data-in-llms-event-10:unstructured-data-in-llms",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-lu-ma-ai-registration-required-dspy-and-graphrag-making-genai-real-event:dspy-and-graphrag-making-genai-real"
+  ],
+  "type": "project"
+}

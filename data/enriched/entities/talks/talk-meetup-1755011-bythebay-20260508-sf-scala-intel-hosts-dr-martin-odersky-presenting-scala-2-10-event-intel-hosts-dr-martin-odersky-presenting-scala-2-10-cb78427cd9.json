@@ -1,0 +1,31 @@
+{
+  "abstract": "Register at: http://www.eventbrite.com/event/4339491536 On October 1st, Martin Odersky, the creator of Scala, will be on-site with Intel in San Francisco. Martin will be presenting the latest features from the forthcoming Scala 2.10 release, and this event will give attendees the opportunity to network with members of Intel's new software engineering team, along with members of the company backing Scala, Typesafe. In his presentation Martin will be covering some of the exciting Scala 2.10 features, including the new reflection API which allows Scala programmers to explore and interact with a programs structure, and effectively treat the entire program as data itself. Unlike Java's stunted reflection capabilities, Scala 2.10 can obtain a plethora of type information via reflection, and amongst other things is the basis for a powerful macro system that allows for sophisticated compile-time metaprogramming, allowing one to dynamically generate types. Intel is building a brand new distributed platform atop Scala, and making heavy use of its powerful features to build elegant APIs which leverage the full power of type system. One way such a technique is being used in practice is to give developers compile-time safety when accessing a backend storage system that by default treated all items as indifferent Objects. Not wanting to deal with these overly nondescript types the engineering team constructed an abstraction that provided a type-safe facade, allowing the compiler to then infer all the type information users of that storage system wanted in their programs. In addition to designing such APIs, Intel makes strong use of community tools such as the Akka concurrency toolkit, which helps in solving some of the inherent problems associated with distributed systems, whilst producing a final product that is fast, reliable and very high-quality",
+  "conference_id": null,
+  "date_time": "2012-10-01T18:30:00-07:00",
+  "end_time": "2012-10-01T21:00:00-07:00",
+  "event_id": "83514372",
+  "event_title": "Intel hosts Dr. Martin Odersky presenting Scala 2.10",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-intel-hosts-dr-martin-odersky-presenting-scala-2-10-event:intel-hosts-dr-martin-odersky-presenting-scala-2-10",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-intel-hosts-dr-martin-odersky-presenting-scala-2-10-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-intel-hosts-dr-martin-odersky-presenting-scala-2-10-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/83514372/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Intel hosts Dr. Martin Odersky presenting Scala 2.10",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/83514372/"
+}

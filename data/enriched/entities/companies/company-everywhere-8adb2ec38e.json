@@ -1,0 +1,18 @@
+{
+  "id": "company:everywhere",
+  "name": "Everywhere",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-capybara-speaker-everywhere.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-capybara-speaker-everywhere"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "speaker_ids": [
+    "speaker:capybara-speaker"
+  ],
+  "talk_ids": [],
+  "type": "company"
+}

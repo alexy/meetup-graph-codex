@@ -1,0 +1,17 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:baml",
+  "name": "BAML",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-baml-a-new-programming-language-for-building-agents-vaibhav-gupta.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-baml-a-new-programming-language-for-building-agents-vaibhav-gupta"
+  ],
+  "source_urls": [],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-baml-a-new-programming-language-for-building-agents-vaibhav-gupta:baml-a-new-programming-language-for-building-agents"
+  ],
+  "type": "project"
+}

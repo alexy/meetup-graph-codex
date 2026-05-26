@@ -1,0 +1,44 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:niole-nelson",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:18748975",
+    "meetup:20929747"
+  ],
+  "name": "Niole Nelson",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-integrating-react-with-scala-at-domino-data-lab-niole-nelson-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson-2.json",
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-integrating-react-with-scala-at-domino-data-lab-niole-nelson.json",
+    "data/raw/sources/bythebay-20260508-graphql-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-integrating-react-with-scala-at-domino-data-lab-niole-nelson-2",
+    "bythebay-20260508-scale-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson-2",
+    "bythebay-20260508-graphql-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson-2",
+    "bythebay-20260508-sf-scala-integrating-react-with-scala-at-domino-data-lab-niole-nelson",
+    "bythebay-20260508-graphql-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson",
+    "bythebay-20260508-scale-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/261672928/",
+    "https://www.meetup.com/bythebay/events/261857275/",
+    "https://www.meetup.com/graphql-by-the-bay/events/261857265/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-integrating-react-with-scala-at-domino-data-lab-niole-nelson:integrating-react-with-scala-at-domino-data-lab",
+    "talk:meetup-20929747:bythebay-20260508-graphql-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson:integrating-react-with-scala-at-domino-data-lab",
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-integrating-react-with-scala-at-domino-data-lab-niole-nelson:integrating-react-with-scala-at-domino-data-lab"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

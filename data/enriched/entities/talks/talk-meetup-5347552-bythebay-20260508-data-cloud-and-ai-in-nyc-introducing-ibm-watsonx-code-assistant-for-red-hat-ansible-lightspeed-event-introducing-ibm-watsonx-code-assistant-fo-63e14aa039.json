@@ -1,0 +1,33 @@
+{
+  "abstract": "Join us for an informative webinar as we discuss the general availability of IBM watsonx Code Assistant for Red Hat Ansible Lightspeed. This powerful tool harnesses the capabilities of Generative AI to enhance your Ansible automation workflows and unlock the full potential of automating your IT infrastructure with the power of AI-driven code generation. During the webinar, our experts will dive into the key features and capabilities of the solution, share real-world client experiences and outcomes, and guide you on how to get started with this innovative technology. Don't miss this opportunity to learn how IBM watsonx Code Assistant for Red Hat Ansible Lightspeed can revolutionize your automation processes. During the webinar, attendees will gain insight into the following topics: GA features & capabilities Client experience & outcomes How to get started Register now",
+  "conference_id": null,
+  "date_time": "2023-11-15T11:30:00-05:00",
+  "end_time": "2023-11-15T12:30:00-05:00",
+  "event_id": "297069767",
+  "event_title": "Introducing IBM watsonx Code Assistant for Red Hat Ansible Lightspeed",
+  "github_repositories": [],
+  "id": "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-introducing-ibm-watsonx-code-assistant-for-red-hat-ansible-lightspeed-event:introducing-ibm-watsonx-code-assistant-for-red-hat-ansible-lightspeed",
+  "kind": "talk",
+  "meetup_id": "meetup:5347552",
+  "project_ids": [
+    "project:ibm"
+  ],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-introducing-ibm-watsonx-code-assistant-for-red-hat-ansible-lightspeed-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-introducing-ibm-watsonx-code-assistant-for-red-hat-ansible-lightspeed-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/297069767/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Introducing IBM watsonx Code Assistant for Red Hat Ansible Lightspeed",
+  "type": "talk",
+  "url": "https://www.meetup.com/big-data-developers-in-nyc/events/297069767/"
+}

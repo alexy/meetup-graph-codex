@@ -1,0 +1,47 @@
+{
+  "abstract": "Welcome Remarks and Introduction to Gemma 4 - Omar Sanseviero and Olivier Lacombe, Google DeepMind Lightning Talks \\- Open source contributors\\, builders\\, and Gemma researchers will do short presentations\\. You’ll hear from the creators of tools such as MLX\\, Unsloth\\, and Cactus Compute Sunset Social - Connect with the open models ecosystem, try out exciting demos, and enjoy an evening of AI!",
+  "conference_id": null,
+  "date_time": "2026-04-17T18:00:00-07:00",
+  "end_time": "2026-04-17T22:00:00-07:00",
+  "event_id": "314321640",
+  "event_title": "[Partner Event] Gemma 4: SF Edition",
+  "github_repositories": [],
+  "id": "talk:meetup-18315941:bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent-talk-1:brief-agenda",
+  "kind": "talk",
+  "meetup_id": "meetup:18315941",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-partner-event-gemma-4-sf-edition-hermes-agent-talk-1"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/314321640/"
+  ],
+  "speaker_ids": [
+    "speaker:welcome-remarks",
+    "speaker:olivier-lacombe"
+  ],
+  "speakers": [
+    {
+      "company_name": "and Introduction to Gemma 4",
+      "id": "speaker:welcome-remarks",
+      "name": "Welcome Remarks",
+      "title": null
+    },
+    {
+      "company_name": null,
+      "id": "speaker:olivier-lacombe",
+      "name": "Olivier Lacombe",
+      "title": "Google DeepMind Lightning Talks \\- Open source contributors\\, builders\\, and Gemma researchers will do short presentations\\. You’ll hear from the creators of tools such as MLX\\, Unsloth\\, and Cactus Compute Sunset Social - Connect"
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Brief Agenda",
+  "type": "talk",
+  "url": "https://www.meetup.com/bay-area-ai/events/314321640/"
+}

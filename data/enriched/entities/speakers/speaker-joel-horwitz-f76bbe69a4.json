@@ -1,0 +1,54 @@
+{
+  "affiliations": [
+    {
+      "company_id": null,
+      "company_name": null,
+      "title": "Founder of Synter.ai Built with Amp"
+    },
+    {
+      "company_id": "company:amp",
+      "company_name": "Amp",
+      "title": "Founder of Synter.ai Built"
+    },
+    {
+      "company_id": "company:amp",
+      "company_name": "Amp",
+      "title": "Founder of SynterMedia.AI Built"
+    }
+  ],
+  "company_id": "company:amp",
+  "company_ids": [
+    "company:amp"
+  ],
+  "company_name": "Amp",
+  "company_names": [
+    "Amp"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:joel-horwitz",
+  "meetup_ids": [],
+  "name": "Joel Horwitz",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-joel-horwitz-ai-by-the-bay.json",
+    "data/raw/sources/bythebay-20260508-everything-is-changing-from-growth-hacking-to-vibe-coding-and-back-again-joel-horwitz.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-joel-horwitz-ai-by-the-bay",
+    "bythebay-20260508-everything-is-changing-from-growth-hacking-to-vibe-coding-and-back-again-joel-horwitz"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-everything-is-changing-from-growth-hacking-to-vibe-coding-and-back-again-joel-horwitz:everything-is-changing-from-growth-hacking-to-vibe-coding-and-back-again"
+  ],
+  "title": "Founder of Synter.ai Built with Amp",
+  "titles": [
+    "Founder of Synter.ai Built with Amp",
+    "Founder of Synter.ai Built",
+    "Founder of SynterMedia.AI Built"
+  ],
+  "type": "speaker"
+}

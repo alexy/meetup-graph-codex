@@ -1,0 +1,26 @@
+{
+  "id": "company:twitter",
+  "name": "Twitter",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-usage-at-twitter-hq-repeat-presentation-frank-sommers-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-usage-at-twitter-frank-sommers.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-scala-usage-at-twitter-hq-repeat-presentation-frank-sommers.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-scala-usage-at-twitter-hq-repeat-presentation-frank-sommers-2",
+    "bythebay-20260508-scala-bay-scala-usage-at-twitter-frank-sommers",
+    "bythebay-20260508-scala-bay-scala-usage-at-twitter-hq-repeat-presentation-frank-sommers"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/59580782/",
+    "https://www.meetup.com/scala-bay/events/57195142/"
+  ],
+  "speaker_ids": [
+    "speaker:mark-mcbride"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-usage-at-twitter-frank-sommers:scala-usage-at-twitter",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-scala-usage-at-twitter-hq-repeat-presentation-frank-sommers:scala-usage-at-twitter-hq-repeat-presentation"
+  ],
+  "type": "company"
+}

@@ -1,0 +1,31 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2015-01-27T12:00:00-08:00",
+  "end_time": "2015-01-27T22:00:00-08:00",
+  "event_id": "219504287",
+  "event_title": "Scala.JS Hackathon w/ Haoyi Li, James Ward, and Dick Wall at Nitro",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-js-hackathon-w-haoyi-li-james-ward-and-dick-wall-at-nitro-day-plan:1pm-lunch-in-the-kitchen-please-be-back-in-all-hands",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-js-hackathon-w-haoyi-li-james-ward-and-dick-wall-at-nitro-day-plan.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-js-hackathon-w-haoyi-li-james-ward-and-dick-wall-at-nitro-day-plan"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/219504287/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "1pm lunch in the kitchen -- please be back in All Hands",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/219504287/"
+}

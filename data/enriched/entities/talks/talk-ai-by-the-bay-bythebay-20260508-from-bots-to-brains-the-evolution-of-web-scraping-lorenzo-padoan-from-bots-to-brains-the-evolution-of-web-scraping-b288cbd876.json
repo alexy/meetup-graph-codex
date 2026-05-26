@@ -1,0 +1,38 @@
+{
+  "abstract": null,
+  "conference_id": "ai-by-the-bay",
+  "date_time": null,
+  "end_time": null,
+  "event_id": null,
+  "event_title": null,
+  "github_repositories": [],
+  "id": "talk:ai-by-the-bay:bythebay-20260508-from-bots-to-brains-the-evolution-of-web-scraping-lorenzo-padoan:from-bots-to-brains-the-evolution-of-web-scraping",
+  "kind": "talk",
+  "meetup_id": null,
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-from-bots-to-brains-the-evolution-of-web-scraping-lorenzo-padoan.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-from-bots-to-brains-the-evolution-of-web-scraping-lorenzo-padoan"
+  ],
+  "source_urls": [],
+  "speaker_ids": [
+    "speaker:lorenzo-padoan"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:lorenzo-padoan",
+      "name": "Lorenzo Padoan",
+      "title": "Co-founder & CEO of ScrapeGraphAI"
+    }
+  ],
+  "tags": [
+    "Agentic AI",
+    "AI Infrastructure"
+  ],
+  "title": "From Bots to Brains: The Evolution of Web Scraping",
+  "type": "talk",
+  "url": "https://ai.bythebay.io/talks/from-bots-to-brains-the-evolution-of-web-scraping"
+}

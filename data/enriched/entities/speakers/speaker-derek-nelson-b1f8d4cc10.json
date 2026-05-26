@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:derek-nelson",
+  "meetup_ids": [
+    "meetup:1731963"
+  ],
+  "name": "Derek Nelson",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-june-2013-san-francisco-hadoop-meetup-christophe-taton-2.json",
+    "data/raw/sources/bythebay-20260508-san-francisco-hadoop-users-june-2013-san-francisco-hadoop-meetup-christophe-taton.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-san-francisco-hadoop-users-june-2013-san-francisco-hadoop-meetup-christophe-taton-2",
+    "bythebay-20260508-san-francisco-hadoop-users-june-2013-san-francisco-hadoop-meetup-christophe-taton-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/hadoopsf/events/120561212/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1731963:bythebay-20260508-san-francisco-hadoop-users-june-2013-san-francisco-hadoop-meetup-christophe-taton-talk-2:real-world-use-cases-of-the-hadoop-hbase-synergy"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

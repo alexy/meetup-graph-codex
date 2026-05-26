@@ -1,0 +1,37 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:jowanza-joseph-transactions",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:2891482"
+  ],
+  "name": "Jowanza Joseph Transactions",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-fs2-chunk-and-infrastructure-as-scala-jowanza-joseph-transactions-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-fs2-chunk-and-infrastructure-as-scala-jowanza-joseph-transactions-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-fs2-chunk-and-infrastructure-as-scala-jowanza-joseph-transactions.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-fs2-chunk-and-infrastructure-as-scala-jowanza-joseph-transactions.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-fs2-chunk-and-infrastructure-as-scala-jowanza-joseph-transactions-2",
+    "bythebay-20260508-scala-bay-fs2-chunk-and-infrastructure-as-scala-jowanza-joseph-transactions-2",
+    "bythebay-20260508-sf-scala-fs2-chunk-and-infrastructure-as-scala-jowanza-joseph-transactions",
+    "bythebay-20260508-scala-bay-fs2-chunk-and-infrastructure-as-scala-jowanza-joseph-transactions"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/282531367/",
+    "https://www.meetup.com/scala-bay/events/282531416/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-fs2-chunk-and-infrastructure-as-scala-jowanza-joseph-transactions:fs2-chunk-and-infrastructure-as-scala",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-fs2-chunk-and-infrastructure-as-scala-jowanza-joseph-transactions:fs2-chunk-and-infrastructure-as-scala"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

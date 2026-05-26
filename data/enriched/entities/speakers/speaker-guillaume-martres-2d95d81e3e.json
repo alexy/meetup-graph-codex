@@ -1,0 +1,67 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:epfl",
+      "company_name": "EPFL",
+      "title": null
+    },
+    {
+      "company_id": "company:scala-center",
+      "company_name": "Scala Center",
+      "title": "Scala Center Scala started as a research project and quickly evolved into a mature technology and a thriving ecosystem, thanks to the combined power of the open-source community and the software industry. One of our missions"
+    }
+  ],
+  "company_id": "company:epfl",
+  "company_ids": [
+    "company:epfl",
+    "company:scala-center"
+  ],
+  "company_name": "EPFL",
+  "company_names": [
+    "EPFL",
+    "Scala Center"
+  ],
+  "conference_ids": [],
+  "id": "speaker:guillaume-martres",
+  "meetup_ids": [
+    "meetup:1755011",
+    "meetup:18601481",
+    "meetup:2891482"
+  ],
+  "name": "Guillaume Martres",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-ducktape-holding-scala-s-productivity-together-scala-center-aleksander-rainko-scalac-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-ducktape-holding-scala-s-productivity-together-scala-center-aleksander-rainko-scalac.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-ducktape-holding-scala-s-productivity-together-scala-center-aleksander-rainko-scalac-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko-2",
+    "bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko-2",
+    "bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl",
+    "bythebay-20260508-sf-scala-ducktape-holding-scala-s-productivity-together-scala-center-aleksander-rainko-scalac",
+    "bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko",
+    "bythebay-20260508-sf-data-and-ai-engineering-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/293127812/",
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/293987578/",
+    "https://www.meetup.com/scala-bay/events/293127928/",
+    "https://www.meetup.com/sf-scala/events/232570582/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-sf-scala-unmeetup-bloomberg-tech-hub-guillaume-martres-epfl:sf-scala-unmeetup-bloomberg-tech-hub",
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-ducktape-holding-scala-s-productivity-together-scala-center-aleksander-rainko-scalac:ducktape-holding-scala-s-productivity-together-scala-center",
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko:ducktape-holding-scala-s-productivity-together",
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-ducktape-scala-productivity-holden-karau-scala-center-aleksander-rainko:ducktape-scala-productivity-holden-karau-scala-center"
+  ],
+  "title": "Scala Center Scala started as a research project and quickly evolved into a mature technology and a thriving ecosystem, thanks to the combined power of the open-source community and the software industry. One of our missions",
+  "titles": [
+    "Scala Center Scala started as a research project and quickly evolved into a mature technology and a thriving ecosystem, thanks to the combined power of the open-source community and the software industry. One of our missions"
+  ],
+  "type": "speaker"
+}

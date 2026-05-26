@@ -1,0 +1,38 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:motherduck",
+      "company_name": "MotherDuck",
+      "title": "AI Lead"
+    }
+  ],
+  "company_id": "company:motherduck",
+  "company_ids": [
+    "company:motherduck"
+  ],
+  "company_name": "MotherDuck",
+  "company_names": [
+    "MotherDuck"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay"
+  ],
+  "id": "speaker:till-dohmen",
+  "meetup_ids": [],
+  "name": "Till Döhmen",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-till-dohmen-motherduck.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-till-dohmen-motherduck"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers"
+  ],
+  "talk_ids": [],
+  "title": "AI Lead",
+  "titles": [
+    "AI Lead"
+  ],
+  "type": "speaker"
+}

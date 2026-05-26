@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:iterable",
+      "company_name": "Iterable",
+      "title": null
+    }
+  ],
+  "company_id": "company:iterable",
+  "company_ids": [
+    "company:iterable"
+  ],
+  "company_name": "Iterable",
+  "company_names": [
+    "Iterable"
+  ],
+  "conference_ids": [],
+  "id": "speaker:thomas-kim",
+  "meetup_ids": [
+    "meetup:1755011"
+  ],
+  "name": "Thomas Kim",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako-2.json",
+    "data/raw/sources/bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako-2",
+    "bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/251902203/"
+  ],
+  "talk_ids": [
+    "talk:meetup-1755011:bythebay-20260508-sf-scala-scala-days-2018-recap-eugene-burmako:scala-days-2018-recap"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

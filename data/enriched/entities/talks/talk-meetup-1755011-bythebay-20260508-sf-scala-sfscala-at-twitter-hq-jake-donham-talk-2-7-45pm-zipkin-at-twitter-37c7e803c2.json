@@ -1,0 +1,40 @@
+{
+  "abstract": null,
+  "conference_id": null,
+  "date_time": "2014-07-29T18:30:00-07:00",
+  "end_time": "2014-07-29T21:30:00-07:00",
+  "event_id": "190237322",
+  "event_title": "SFScala at Twitter HQ",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-sfscala-at-twitter-hq-jake-donham-talk-2:7-45pm-zipkin-at-twitter",
+  "kind": "talk",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-sfscala-at-twitter-hq-jake-donham.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-sfscala-at-twitter-hq-jake-donham-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/190237322/"
+  ],
+  "speaker_ids": [
+    "speaker:jeff-smick"
+  ],
+  "speakers": [
+    {
+      "company_name": null,
+      "id": "speaker:jeff-smick",
+      "name": "Jeff Smick",
+      "title": null
+    }
+  ],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "7:45pm: Zipkin at Twitter",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/190237322/"
+}

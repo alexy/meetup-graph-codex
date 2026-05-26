@@ -1,0 +1,28 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:andy-petrella",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Andy Petrella",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/228814274/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-a-data-pipeline-for-the-internet-of-data-centers-agile-data-science-with-scala-event-talk-2:andy-petrella-xavier-tordoir-agile-data-science-with-scala"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

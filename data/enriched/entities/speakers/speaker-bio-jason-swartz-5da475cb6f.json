@@ -1,0 +1,30 @@
+{
+  "affiliations": [],
+  "company_id": null,
+  "company_ids": [],
+  "company_name": null,
+  "company_names": [],
+  "conference_ids": [],
+  "id": "speaker:bio-jason-swartz",
+  "meetup_ids": [
+    "meetup:2891482"
+  ],
+  "name": "Bio Jason Swartz",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-jason-swartz-everyone-s-guide-to-event-sourcing-and-async-messaging-for-micros-bio-jason-swartz-2.json",
+    "data/raw/sources/bythebay-20260508-scala-bay-jason-swartz-everyone-s-guide-to-event-sourcing-and-async-messaging-for-micros-bio-jason-swartz.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-jason-swartz-everyone-s-guide-to-event-sourcing-and-async-messaging-for-micros-bio-jason-swartz-2",
+    "bythebay-20260508-scala-bay-jason-swartz-everyone-s-guide-to-event-sourcing-and-async-messaging-for-micros-bio-jason-swartz"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/229055974/"
+  ],
+  "talk_ids": [
+    "talk:meetup-2891482:bythebay-20260508-scala-bay-jason-swartz-everyone-s-guide-to-event-sourcing-and-async-messaging-for-micros-bio-jason-swartz:jason-swartz-everyone-s-guide-to-event-sourcing-and-async-messaging-for-micros"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

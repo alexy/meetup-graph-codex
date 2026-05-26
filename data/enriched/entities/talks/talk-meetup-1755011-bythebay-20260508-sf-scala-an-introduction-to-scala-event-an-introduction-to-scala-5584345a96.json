@@ -1,0 +1,31 @@
+{
+  "abstract": "Let's do an introduction to Scala! In the decades of SF Scala meetups we have never held a big classroom training session so folks can catch up (or start) on their Scala skills. So that's what we'll do. Come prepared with your own laptop with Intellij IDEA, its Scala plugin, and SBT pre-installed. We'll start from scratch, go over the foundations of the Scala language, build up to functions, collections and case classes, and then finish up with a working project. If you want a more formal introduction to Scala, we're offering a Typesafe-certified two-day Fast Track To Scala (http://www.scalabythebay.org/training.html training) course as part of the Scala By The Bay (http://www.scalabythebay.org) Requirements • Bring your own laptop with Intellij, Intellij Scala Plugin and SBT pre-installed • Get ready to learn Scala!",
+  "conference_id": null,
+  "date_time": "2014-07-10T18:00:00-07:00",
+  "end_time": "2014-07-10T21:00:00-07:00",
+  "event_id": "189967052",
+  "event_title": "An Introduction To Scala",
+  "github_repositories": [],
+  "id": "talk:meetup-1755011:bythebay-20260508-sf-scala-an-introduction-to-scala-event:an-introduction-to-scala",
+  "kind": "workshop",
+  "meetup_id": "meetup:1755011",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-scala-an-introduction-to-scala-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-scala-an-introduction-to-scala-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-scala/events/189967052/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "workshop"
+  ],
+  "title": "An Introduction To Scala",
+  "type": "talk",
+  "url": "https://www.meetup.com/sf-scala/events/189967052/"
+}

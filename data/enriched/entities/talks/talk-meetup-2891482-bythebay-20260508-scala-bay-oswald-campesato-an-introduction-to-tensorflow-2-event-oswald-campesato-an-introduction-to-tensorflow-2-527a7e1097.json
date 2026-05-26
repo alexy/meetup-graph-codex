@@ -1,0 +1,31 @@
+{
+  "abstract": "Oswald Campesato, \"An introduction to TensorFlow 2\" A fast-paced introduction to TensorFlow 2 about some important new features (such as generators and the @tf.function decorator) and TF 1.x functionality that's been removed from TF 2 (yes, tf.Session() has retired). Some concise code samples are presented to illustrate how to use new features of TensorFlow 2. You'll also get a quick introduction to lazy operators (if you know FRP this will be super easy), along with a code comparison between TF 1.x/iterators with tf.data.Dataset and TF 2/generators with tf.data.Dataset. Finally, we'll see how to define tf.keras models in TF 2 for CNNs and LSTMs, and briefly discuss BiDirectional LSTMs and VAEs. Although familiarity with TF 1.x is helpful, newcomers with an avid interest in learning about TensorFlow 2 can benefit from this session. Please note that TF 2 is currently in early release, and that this presentation does not contain Scala-related code samples. Schedule • 6:30-7:00 - networking (pizza, soft drinks) • 7:00-7:10 - announcements etc. • 7:10-8:00 - talk • 8:00-8:30 - more networking",
+  "conference_id": null,
+  "date_time": "2019-06-27T19:00:00-07:00",
+  "end_time": "2019-06-27T21:00:00-07:00",
+  "event_id": "262526936",
+  "event_title": "Oswald Campesato, An introduction to TensorFlow 2",
+  "github_repositories": [],
+  "id": "talk:meetup-2891482:bythebay-20260508-scala-bay-oswald-campesato-an-introduction-to-tensorflow-2-event:oswald-campesato-an-introduction-to-tensorflow-2",
+  "kind": "talk",
+  "meetup_id": "meetup:2891482",
+  "project_ids": [],
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scala-bay-oswald-campesato-an-introduction-to-tensorflow-2-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scala-bay-oswald-campesato-an-introduction-to-tensorflow-2-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/scala-bay/events/262526936/"
+  ],
+  "speaker_ids": [],
+  "speakers": [],
+  "tags": [
+    "meetup",
+    "talk"
+  ],
+  "title": "Oswald Campesato, An introduction to TensorFlow 2",
+  "type": "talk",
+  "url": "https://www.meetup.com/scala-bay/events/262526936/"
+}

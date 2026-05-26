@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:buoyant",
+      "company_name": "Buoyant",
+      "title": null
+    }
+  ],
+  "company_id": "company:buoyant",
+  "company_ids": [
+    "company:buoyant"
+  ],
+  "company_name": "Buoyant",
+  "company_names": [
+    "Buoyant"
+  ],
+  "conference_ids": [],
+  "id": "speaker:oliver-gould",
+  "meetup_ids": [
+    "meetup:18748975"
+  ],
+  "name": "Oliver Gould",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-twitter-style-microservices-at-scale-with-finagle-and-linkerd-oliver-gould-buoyant-2.json",
+    "data/raw/sources/bythebay-20260508-scale-by-the-bay-twitter-style-microservices-at-scale-with-finagle-and-linkerd-oliver-gould-buoyant.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-scale-by-the-bay-twitter-style-microservices-at-scale-with-finagle-and-linkerd-oliver-gould-buoyant-2",
+    "bythebay-20260508-scale-by-the-bay-twitter-style-microservices-at-scale-with-finagle-and-linkerd-oliver-gould-buoyant"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bythebay/events/231200698/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18748975:bythebay-20260508-scale-by-the-bay-twitter-style-microservices-at-scale-with-finagle-and-linkerd-oliver-gould-buoyant:twitter-style-microservices-at-scale-with-finagle-and-linkerd"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

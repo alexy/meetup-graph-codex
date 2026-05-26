@@ -1,0 +1,19 @@
+{
+  "github_repositories": [],
+  "github_repository": null,
+  "id": "project:eclipse-microprofile",
+  "name": "Eclipse MicroProfile",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-websphere-user-group-roadshow-liberty-and-eclipse-openj9-jvm-performance-event.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-websphere-user-group-roadshow-liberty-and-eclipse-openj9-jvm-performance-event"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/284636226/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-websphere-user-group-roadshow-liberty-and-eclipse-openj9-jvm-performance-event:websphere-user-group-roadshow-liberty-and-eclipse-openj9-jvm-performance"
+  ],
+  "type": "project"
+}

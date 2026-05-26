@@ -1,0 +1,61 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:the-ai-collective",
+      "company_name": "The AI Collective",
+      "title": "Regional Director (NA East"
+    },
+    {
+      "company_id": "company:datastax",
+      "company_name": "DataStax",
+      "title": "Senior Developer Advocate"
+    },
+    {
+      "company_id": "company:the-ai-collective-director",
+      "company_name": "The AI Collective, Director",
+      "title": "Regional Director (NA East"
+    }
+  ],
+  "company_id": "company:the-ai-collective",
+  "company_ids": [
+    "company:the-ai-collective",
+    "company:datastax",
+    "company:the-ai-collective-director"
+  ],
+  "company_name": "The AI Collective",
+  "company_names": [
+    "The AI Collective",
+    "DataStax",
+    "The AI Collective, Director"
+  ],
+  "conference_ids": [
+    "ai-by-the-bay",
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:mary-grygleski",
+  "meetup_ids": [],
+  "name": "Mary Grygleski",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-mary-grygleski-the-ai-collective.json",
+    "data/raw/sources/bythebay-20260508-mary-grygleski-mary-grygleski-datastax.json",
+    "data/raw/sources/bythebay-20260508-harnessing-event-driven-and-multi-agent-architectures-for-complex-workflows-in-generative-ai-system-mary-grygleski-the-ai-collective-director.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-mary-grygleski-the-ai-collective",
+    "bythebay-20260508-mary-grygleski-mary-grygleski-datastax",
+    "bythebay-20260508-harnessing-event-driven-and-multi-agent-architectures-for-complex-workflows-in-generative-ai-system-mary-grygleski-the-ai-collective-director"
+  ],
+  "source_urls": [
+    "https://ai.bythebay.io/speakers",
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:ai-by-the-bay:bythebay-20260508-harnessing-event-driven-and-multi-agent-architectures-for-complex-workflows-in-generative-ai-system-mary-grygleski-the-ai:harnessing-event-driven-and-multi-agent-architectures-for-complex-workflows-in-generative"
+  ],
+  "title": "Regional Director (NA East",
+  "titles": [
+    "Regional Director (NA East",
+    "Senior Developer Advocate"
+  ],
+  "type": "speaker"
+}

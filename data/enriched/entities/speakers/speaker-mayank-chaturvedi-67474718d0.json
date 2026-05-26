@@ -1,0 +1,42 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:google",
+      "company_name": "Google",
+      "title": null
+    }
+  ],
+  "company_id": "company:google",
+  "company_ids": [
+    "company:google"
+  ],
+  "company_name": "Google",
+  "company_names": [
+    "Google"
+  ],
+  "conference_ids": [],
+  "id": "speaker:mayank-chaturvedi",
+  "meetup_ids": [
+    "meetup:18315941"
+  ],
+  "name": "Mayank Chaturvedi",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-bay-area-ai-gemma-developer-meetup-june-2025-daniel-han-chen.json",
+    "data/raw/sources/bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-bay-area-ai-gemma-developer-meetup-june-2025-daniel-han-chen",
+    "bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen-talk-1",
+    "bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen-talk-2"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/bay-area-ai/events/308553764/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen-talk-1:talks-speakers",
+    "talk:meetup-18315941:bythebay-20260508-bay-area-ai-cross-posting-gemma-developer-meetup-june-2025-daniel-han-chen-talk-2:gemma-developer-meetup-june-2025"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}

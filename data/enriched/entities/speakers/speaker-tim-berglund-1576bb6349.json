@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:startree",
+      "company_name": "StarTree",
+      "title": "VP of Developer Relations"
+    }
+  ],
+  "company_id": "company:startree",
+  "company_ids": [
+    "company:startree"
+  ],
+  "company_name": "StarTree",
+  "company_names": [
+    "StarTree"
+  ],
+  "conference_ids": [
+    "scale-by-the-bay"
+  ],
+  "id": "speaker:tim-berglund",
+  "meetup_ids": [],
+  "name": "Tim Berglund",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-pinot-why-are-you-so-fast-tim-berglund-startree.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-pinot-why-are-you-so-fast-tim-berglund-startree"
+  ],
+  "source_urls": [
+    "https://scale.bythebay.io/speakers"
+  ],
+  "talk_ids": [
+    "talk:scale-by-the-bay:bythebay-20260508-pinot-why-are-you-so-fast-tim-berglund-startree:pinot-why-are-you-so-fast"
+  ],
+  "title": "VP of Developer Relations",
+  "titles": [
+    "VP of Developer Relations"
+  ],
+  "type": "speaker"
+}

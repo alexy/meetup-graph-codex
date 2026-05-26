@@ -1,0 +1,21 @@
+{
+  "github_repositories": [
+    "https://github.com/The-AI-Alliance/community"
+  ],
+  "github_repository": "https://github.com/The-AI-Alliance/community",
+  "id": "project:https-github-com-the-ai-alliance-community",
+  "name": "community",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-gneissweb-preparing-high-quality-data-for-llms-at-scale-shahrokh-daijavad.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-gneissweb-preparing-high-quality-data-for-llms-at-scale-shahrokh-daijavad"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/big-data-developers-in-nyc/events/307531169/"
+  ],
+  "talk_ids": [
+    "talk:meetup-5347552:bythebay-20260508-data-cloud-and-ai-in-nyc-ai-alliance-gneissweb-preparing-high-quality-data-for-llms-at-scale-shahrokh-daijavad:gneissweb-preparing-high-quality-data-for-llms-at-scale"
+  ],
+  "type": "project"
+}

@@ -1,0 +1,40 @@
+{
+  "affiliations": [
+    {
+      "company_id": "company:airbnb",
+      "company_name": "Airbnb",
+      "title": null
+    }
+  ],
+  "company_id": "company:airbnb",
+  "company_ids": [
+    "company:airbnb"
+  ],
+  "company_name": "Airbnb",
+  "company_names": [
+    "Airbnb"
+  ],
+  "conference_ids": [],
+  "id": "speaker:peng-ye",
+  "meetup_ids": [
+    "meetup:18601481"
+  ],
+  "name": "Peng Ye",
+  "source_files": [
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park-2.json",
+    "data/raw/sources/bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park.json"
+  ],
+  "source_ids": [
+    "bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park-2",
+    "bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park"
+  ],
+  "source_urls": [
+    "https://www.meetup.com/sf-data-and-ai-engineering/events/232021862/"
+  ],
+  "talk_ids": [
+    "talk:meetup-18601481:bythebay-20260508-sf-data-and-ai-engineering-building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce-college-park:building-machine-learning-pipeline-using-aerosolve-airbnb-talk-at-salesforce"
+  ],
+  "title": null,
+  "titles": [],
+  "type": "speaker"
+}
